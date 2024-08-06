@@ -76,8 +76,7 @@ BYD Dolphin 60.4kWh, med dimensioner på 4290 mm i längd, 1770 mm i bredd och 1
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Dolphin 60.4kWh, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/50 tires on 17" rims
+- 235/50 däck på 17" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -86,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ BYD Dolphin 60.4kWh inkluderar flera funktioner för att förbättra komfort och
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -240,4 +236,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

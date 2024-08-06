@@ -78,7 +78,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ G 580 EQ, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/60 en llantas de 18
 - Neumáticos 265/50 en llantas de 20
 
@@ -89,7 +88,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El vidrio se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este vidrio hace que el interior del auto se sienta más cómodo. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de cortina manual que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ El Mercedes-EQ G 580 EQ incluye varias características para mejorar la comodida
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,7 +253,6 @@ Con el sistema DRIVE PILOT  de nivel 3, obtienes funciones adicionales de automa
 
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -277,4 +273,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

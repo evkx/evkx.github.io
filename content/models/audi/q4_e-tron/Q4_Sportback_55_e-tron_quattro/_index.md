@@ -84,7 +84,6 @@ The black optics design package is an option. This package includes a black sing
 
 You can select from multiple wheel options in different sizes on the Audi Q4 Sportback 55 e-tron quattro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -98,7 +97,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -162,7 +160,6 @@ The Audi Q4 Sportback 55 e-tron quattro includes several features to enhance com
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -252,7 +249,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -275,4 +271,3 @@ This model had a world premiere on 21.09.2023, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

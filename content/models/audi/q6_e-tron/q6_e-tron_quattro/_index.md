@@ -98,7 +98,6 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Audi Q6 e-tron quattro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/60 tires on 19" rims front and 255/55 tires on 19" rims rear
 - 255/50 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 255/45 tires on 21" rims front and 285/40 tires on 21" rims rear
@@ -112,7 +111,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,7 +180,6 @@ The Audi Q6 e-tron quattro includes several features to enhance comfort and conv
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -315,4 +312,3 @@ This model had a world premiere on 18.03.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

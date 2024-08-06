@@ -72,7 +72,6 @@ El Peugot E-5008 Long Range, con dimensiones de 4791 mm de longitud, 1895 mm de 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Peugot E-5008 Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 235/50 en llantas de 20
 
@@ -85,7 +84,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ El Peugot E-5008 Long Range incluye varias características para mejorar la como
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Este modelo tuvo un estreno mundial el 12.09.2023 y las entregas comenzaron en F
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

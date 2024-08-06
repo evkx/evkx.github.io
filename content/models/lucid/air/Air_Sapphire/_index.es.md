@@ -74,7 +74,6 @@ El Lucid Air Sapphire, con dimensiones de 4975 mm de longitud, 1939 mm de anchur
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Lucid Air Sapphire, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
@@ -82,7 +81,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [ta
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ El Lucid Air Sapphire incluye varias características para mejorar la comodidad 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Con el sistema ADAS  de nivel 2, obtienes las siguientes funciones de automatiza
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -224,4 +220,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

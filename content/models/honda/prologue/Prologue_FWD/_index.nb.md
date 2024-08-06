@@ -74,7 +74,6 @@ Honda Prologue FWD, med dimensjoner på 4877 mm i lengde, 1989 mm i bredde og 16
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Honda Prologue FWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/45 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -82,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er to forskjellige takalternativer å velge mellom. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen. Som ekstrautstyr kan du bestille denne modellen med panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ Honda Prologue FWD inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -206,7 +203,6 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -224,4 +220,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

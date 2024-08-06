@@ -78,7 +78,6 @@ Den BMW i4 eDrive40, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i4 eDrive40, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/45 dæk på 18" fælge foran og 255/45 dæk på 18" fælge bagpå
 - 245/40 dæk på 19" fælge foran og 255/40 dæk på 19" fælge bagpå
 - 245/35 dæk på 20" fælge foran og 255/35 dæk på 20" fælge bagpå
@@ -92,7 +91,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +197,6 @@ BMW i4 eDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -275,7 +272,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktio
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -295,4 +291,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

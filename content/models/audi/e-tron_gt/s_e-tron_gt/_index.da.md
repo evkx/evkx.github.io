@@ -90,7 +90,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi S e-tron GT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
 - 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
@@ -104,7 +103,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget inkluderer 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -172,7 +170,6 @@ Audi S e-tron GT inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,7 +252,6 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til k
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -278,4 +274,3 @@ Denne model havde verdenspremiere den 18.06.2024, og leveringerne startede i Sep
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

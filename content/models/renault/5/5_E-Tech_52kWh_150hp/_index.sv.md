@@ -76,15 +76,13 @@ Renault 5 E-Tech 52kWh 150hp, med dimensioner på 3920 mm i längd, 1770 mm i br
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Renault 5 E-Tech 52kWh 150hp, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 195/55 tires on 18" rims
+- 195/55 däck på 18" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -131,7 +129,6 @@ Renault 5 E-Tech 52kWh 150hp inkluderar flera funktioner för att förbättra ko
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -206,7 +203,6 @@ Med ProPILOT  nivå 2-systemet får du följande funktioner för körautomatiser
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -223,4 +219,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

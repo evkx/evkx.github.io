@@ -92,7 +92,6 @@ Den Nio ET5, med dimensioner på 4790 mm i længde, 1960 mm i bredde og 1499 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Nio ET5, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/50 dæk on 20" fælge
 - 255/45 dæk on 21" fælge
 
@@ -103,7 +102,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/nio/et5/et5/exterior_1_st.jpg" title="Nio ET5" width="1920" height="1104"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ Nio ET5 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -234,7 +231,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -251,4 +247,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

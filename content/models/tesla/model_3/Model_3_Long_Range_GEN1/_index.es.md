@@ -84,7 +84,6 @@ El Tesla Model 3 Long Range (GEN1), con dimensiones de 4694 mm de longitud, 1849
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model 3 Long Range (GEN1), lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 18
 - Neumáticos 255/45 en llantas de 19
 
@@ -97,7 +96,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/exterior_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ El Tesla Model 3 Long Range (GEN1) incluye varias características para mejorar 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ Este modelo tuvo un estreno mundial el 01.04.2016 y las entregas comenzaron en J
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

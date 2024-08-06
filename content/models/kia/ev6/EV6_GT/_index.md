@@ -70,7 +70,6 @@ The Kia EV6 GT, with dimensions of 4680 mm in length, 1880 mm in width, and 1550
 
 You can select from multiple wheel designs, all available in the same size, on the Kia EV6 GT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/40 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ There is only one roof for this model. The standard roof has a sunroof. The glas
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 The Kia EV6 GT includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,7 +200,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -223,4 +219,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

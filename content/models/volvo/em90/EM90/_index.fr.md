@@ -70,7 +70,6 @@ La Volvo EM90 est disponible en un total de 3 couleurs de peinture, y compris pl
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EM90, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/50 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
 
@@ -83,7 +82,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ L'Volvo EM90 comprend plusieurs fonctionnalités pour améliorer le confort et l
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -241,4 +237,3 @@ Ce modèle a été présenté en première mondiale le 12.11.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

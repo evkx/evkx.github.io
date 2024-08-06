@@ -72,9 +72,8 @@ Peugot E-5008 Long Range, med dimensioner på 4791 mm i längd, 1895 mm i bredd 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Peugot E-5008 Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/55 tires on 19" rims
-- 235/50 tires on 20" rims
+- 235/55 däck på 19" fälgar
+- 235/50 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -85,7 +84,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ Peugot E-5008 Long Range inkluderar flera funktioner för att förbättra komfor
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Denna modell hade världspremiär 12.09.2023 och leveranserna startade i Februar
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

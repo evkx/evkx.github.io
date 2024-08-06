@@ -94,7 +94,6 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Audi A6 Avant e-tron performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 225/55 tires on 19" rims front and 245/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 275/35 tires on 21" rims rear
@@ -108,7 +107,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,7 +168,6 @@ The Audi A6 Avant e-tron performance includes several features to enhance comfor
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -303,4 +300,3 @@ This model had a world premiere on 31.07.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

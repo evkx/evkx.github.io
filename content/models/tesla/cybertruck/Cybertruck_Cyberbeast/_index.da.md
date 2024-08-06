@@ -78,7 +78,6 @@ Tesla Cybertruck Cyberbeast fås i alt i 3 ensfarvede lakfarver.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Tesla Cybertruck Cyberbeast, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 285/65 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Bagklappen er elektrisk drevet.
@@ -88,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/exterior_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ Tesla Cybertruck Cyberbeast inkluderer flere funktioner, der forbedrer komfort o
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +214,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktione
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -240,4 +236,3 @@ Denne model havde verdenspremiere den 30.11.2023, og leveringerne startede i Nov
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

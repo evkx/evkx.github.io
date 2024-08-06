@@ -78,7 +78,6 @@ Den Citroën ë-C3 Aircross, med dimensioner på 4395 mm i længde, 1795 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Citroën ë-C3 Aircross, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 205/55 dæk on 16" fælge
 - 205/50 dæk on 17" fælge
 
@@ -91,7 +90,6 @@ Der er kun ét tag til denne model.
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,7 +154,6 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 Citroën ë-C3 Aircross inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -243,4 +240,3 @@ Denne model havde verdenspremiere den 21.06.2024, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

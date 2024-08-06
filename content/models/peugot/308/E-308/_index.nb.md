@@ -68,7 +68,6 @@ Peugot E-308, med dimensjoner på 4367 mm i lengde, 1852 mm i bredde og 1441 mm 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Peugot E-308, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/60 dekk på 17" felger
 - 215/55 dekk på 18" felger
 
@@ -81,7 +80,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Peugot E-308 inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -200,7 +197,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -223,4 +219,3 @@ Denne modellen hadde verdenspremiere 06.07.2023, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

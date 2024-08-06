@@ -76,7 +76,6 @@ BYD Tang EV600, med dimensjoner på 4870 mm i lengde, 1950 mm i bredde og 1725 m
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Tang EV600, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/40 dekk på 22" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ BYD Tang EV600 inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +216,6 @@ Med Smart Pilot  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -236,4 +232,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

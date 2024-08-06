@@ -74,7 +74,6 @@ La Lucid Air Sapphire, avec des dimensions de 4975 mm de longueur, 1939 mm de la
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Lucid Air Sapphire, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est la fonction un standard pour les portes latérales.
@@ -82,7 +81,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinaire.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ L'Lucid Air Sapphire comprend plusieurs fonctionnalités pour améliorer le conf
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -224,4 +220,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

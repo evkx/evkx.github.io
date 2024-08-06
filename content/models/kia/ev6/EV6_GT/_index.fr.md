@@ -70,7 +70,6 @@ La Kia EV6 GT, avec des dimensions de 4680 mm de longueur, 1880 mm de largeur et
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Kia EV6 GT, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/40 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est équipé d'un toi
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 L'Kia EV6 GT comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,7 +200,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -223,4 +219,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

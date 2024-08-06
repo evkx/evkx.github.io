@@ -78,7 +78,6 @@ Fiat Grande Panda er tilgjengelig i totalt 5 lakkfarger, inkludert både solide 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Fiat Grande Panda, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 205/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 
@@ -91,7 +90,6 @@ Det er bare ett tak for denne modellen.
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 Fiat Grande Panda inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,4 +228,3 @@ Denne modellen hadde verdenspremiere 12.07.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

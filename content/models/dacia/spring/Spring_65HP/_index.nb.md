@@ -68,7 +68,6 @@ Dacia Spring 65HP, med dimensjoner på 3701 mm i lengde, 1622 mm i bredde og 151
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Dacia Spring 65HP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 165/70 dekk på 14" felger
 - 175/60 dekk på 15" felger
 
@@ -79,7 +78,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -124,8 +122,6 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 ## Komfortfunksjoner
 
 Dacia Spring 65HP inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,8 +178,6 @@ Dacia Spring 65HP inkluderer flere [avanserte førerassistanse systemer](../../.
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -200,4 +194,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

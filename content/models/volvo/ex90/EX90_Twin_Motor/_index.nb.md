@@ -70,7 +70,6 @@ Volvo EX90 Twin Motor, med dimensjoner på 5037 mm i lengde, 1964 mm i bredde og
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EX90 Twin Motor, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/45 dekk på 21" felger foran og 295/45 dekk på 21" felger bak
 - 265/40 dekk på 22" felger foran og 295/40 dekk på 22" felger bak
 
@@ -83,7 +82,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ Volvo EX90 Twin Motor inkluderer flere funksjoner for å forbedre komfort og bek
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -211,7 +208,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -228,4 +224,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

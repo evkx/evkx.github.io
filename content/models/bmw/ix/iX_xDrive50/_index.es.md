@@ -72,7 +72,6 @@ El BMW iX xDrive50, con dimensiones de 4953 mm de longitud, 1967 mm de anchura y
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BMW iX xDrive50, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/50 en llantas de 22" delanteras y neumáticos 275/40 en llantas de 22" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
@@ -82,7 +81,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/exterior_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ El BMW iX xDrive50 incluye varias características para mejorar la comodidad y c
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones ad
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -234,4 +230,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

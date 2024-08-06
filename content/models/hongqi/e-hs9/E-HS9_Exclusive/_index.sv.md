@@ -74,9 +74,8 @@ Hongqi E-HS9 Exclusive, med dimensioner på 5209 mm i längd, 2010 mm i bredd oc
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hongqi E-HS9 Exclusive, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/45 tires on 21" rims
-- 275/40 tires on 22" rims
+- 265/45 däck på 21" fälgar
+- 275/40 däck på 22" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -85,7 +84,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1757"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Hongqi E-HS9 Exclusive inkluderar flera funktioner för att förbättra komfort 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -232,4 +228,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

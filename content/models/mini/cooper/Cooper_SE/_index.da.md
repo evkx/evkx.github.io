@@ -65,7 +65,6 @@ Den Mini Cooper SE, med dimensioner på 3900 mm i længde, 1750 mm i bredde og 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mini Cooper SE, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/55 dæk on 16" fælge
 - 205/50 dæk on 17" fælge
 - 225/40 dæk on 18" fælge
@@ -77,7 +76,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +123,6 @@ Mini Cooper SE inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -167,7 +164,6 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -186,4 +182,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

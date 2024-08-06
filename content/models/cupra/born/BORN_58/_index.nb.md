@@ -74,7 +74,6 @@ CUPRA BORN 58, med dimensjoner på 4322 mm i lengde, 1809 mm i bredde og 1540 mm
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på CUPRA BORN 58, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/55 dekk på 18" felger
 - 215/50 dekk på 19" felger
 - 215/45 dekk på 20" felger
@@ -88,7 +87,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1711"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ CUPRA BORN 58 inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -238,4 +234,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

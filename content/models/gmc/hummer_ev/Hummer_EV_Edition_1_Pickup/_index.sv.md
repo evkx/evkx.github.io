@@ -76,7 +76,6 @@ Det finns bara ett tak för denna modell. Standardtaket har 4 separata avtagbara
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -127,7 +126,6 @@ GMC Hummer EV Edition 1 Pickup inkluderar flera funktioner för att förbättra 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -188,7 +186,6 @@ Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomat
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -209,4 +206,3 @@ Denna modell hade världspremiär 20.10.2020 och leveranserna startade i Decembe
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

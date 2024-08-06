@@ -80,7 +80,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-AMG EQE 53 4MATIC+, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/40 dekk på 20" felger foran og 295/35 dekk på 20" felger bak
 - 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
@@ -160,7 +159,6 @@ Mercedes-AMG EQE 53 4MATIC+ inkluderer flere funksjoner for å forbedre komfort 
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,7 +254,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du ekstra kjøreautoma
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -276,4 +273,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

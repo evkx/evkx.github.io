@@ -88,13 +88,11 @@ Rimac Nevera fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske mu
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Rimac Nevera, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 275/35 dæk på 20" fælge foran og 315/35 dæk på 20" fælge bagpå
 
 Der er kun ét tag til denne model.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/exterior_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Rimac Nevera inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -191,7 +188,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -212,4 +208,3 @@ Denne model havde verdenspremiere den 01.06.2021, og leveringerne startede i Jan
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

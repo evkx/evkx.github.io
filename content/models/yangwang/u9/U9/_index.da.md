@@ -88,13 +88,11 @@ YangWang U9 fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske mul
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på YangWang U9, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 275/35 dæk på 21" fælge foran og 325/30 dæk på 21" fælge bagpå
 
 Der er kun ét tag til denne model.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/exterior_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ YangWang U9 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -210,4 +206,3 @@ Denne model havde verdenspremiere den 01.04.2023, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,7 +72,6 @@ The Zeekr 001 Privilege AWD, with dimensions of 4955 mm in length, 1999 mm in wi
 
 You can select from multiple wheel designs, all available in the same size, on the Zeekr 001 Privilege AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -82,7 +81,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/exterior_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ The Zeekr 001 Privilege AWD includes several features to enhance comfort and con
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -232,4 +228,3 @@ This model had a world premiere on 14.04.2021, and deliveries started in October
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

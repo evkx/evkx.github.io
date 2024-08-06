@@ -70,7 +70,6 @@ El Cadillac ESCALADE IQ, con dimensiones de 5697 mm de longitud, 2167 mm de anch
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Cadillac ESCALADE IQ, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 275/50 en llantas de 24
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -78,7 +77,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ El Cadillac ESCALADE IQ incluye varias características para mejorar la comodida
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -205,7 +202,6 @@ Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de au
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -222,4 +218,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

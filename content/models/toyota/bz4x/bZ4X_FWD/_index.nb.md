@@ -75,7 +75,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -119,7 +118,6 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 Toyota bZ4X FWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -215,4 +212,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

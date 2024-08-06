@@ -68,13 +68,11 @@ The Neta GT 580 AWD, with dimensions of 4715 mm in length, 1979 mm in width, and
 
 You can select from multiple wheel designs, all available in the same size, on the Neta GT 580 AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 19" rims
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -118,7 +116,6 @@ The Neta GT 580 AWD includes several features to enhance comfort and convenience
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -203,4 +199,3 @@ This model had a world premiere on 13.07.2023, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

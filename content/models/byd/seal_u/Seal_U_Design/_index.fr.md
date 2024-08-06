@@ -80,7 +80,6 @@ La BYD Seal U Design, avec des dimensions de 4785 mm de longueur, 1890 mm de lar
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Seal U Design, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/50 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
@@ -90,7 +89,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ L'BYD Seal U Design comprend plusieurs fonctionnalités pour améliorer le confo
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Avec le système Smart Pilot  de niveau 2, vous obtenez les fonctionnalités sui
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -235,4 +231,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

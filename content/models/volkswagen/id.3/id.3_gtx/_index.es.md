@@ -74,7 +74,6 @@ El Volkswagen ID.3 GTX, con dimensiones de 4261 mm de longitud, 1809 mm de anchu
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.3 GTX, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/55 en llantas de 18
 - Neumáticos 215/50 en llantas de 19
 - Neumáticos 215/45 en llantas de 20
@@ -88,7 +87,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ El Volkswagen ID.3 GTX incluye varias características para mejorar la comodidad
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +228,6 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -252,4 +248,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

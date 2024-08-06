@@ -74,7 +74,6 @@ The CUPRA Tavascan VZ, with dimensions of 4644 mm in length, 1861 mm in width, a
 
 You can select from multiple wheel options in different sizes on the CUPRA Tavascan VZ, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/50 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 255/40 tires on 21" rims
@@ -88,7 +87,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1676"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ The CUPRA Tavascan VZ includes several features to enhance comfort and convenien
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -223,7 +220,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -240,4 +236,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -110,7 +110,6 @@ El Tesla Model Y Standard Range, con dimensiones de 4751 mm de longitud, 1921 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model Y Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 19
 - Neumáticos 255/40 en llantas de 20
 - Neumáticos 255/35 en llantas de 21" delanteras y neumáticos 275/35 en llantas de 21" traseras
@@ -124,7 +123,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ El Tesla Model Y Standard Range incluye varias características para mejorar la 
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -283,4 +280,3 @@ Este modelo tuvo un estreno mundial el 19.03.2019 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

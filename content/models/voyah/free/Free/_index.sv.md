@@ -70,8 +70,7 @@ VOYAH FREE, med dimensioner på 4905 mm i längd, 1950 mm i bredd och 1645 mm i 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på VOYAH FREE, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 20" rims
+- 255/45 däck på 20" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -80,7 +79,6 @@ Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy s
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket 
 VOYAH FREE inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -201,4 +197,3 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

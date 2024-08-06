@@ -73,7 +73,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -128,8 +127,6 @@ Un système climatique est disponible.
 ## Caractéristiques de confort
 
 L'XPENG X9 AWD Performance comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -194,7 +191,6 @@ Avec le système XPILOT  de niveau 2, vous obtenez les fonctionnalités suivante
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -212,4 +208,3 @@ Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

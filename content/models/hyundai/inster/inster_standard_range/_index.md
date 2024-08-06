@@ -70,7 +70,6 @@ The Hyundai INSTER Standard Range, with dimensions of 3825 mm in length, 1610 mm
 
 You can select from multiple wheel options in different sizes on the Hyundai INSTER Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 205/55 tires on 15" rims
 - 205/45 tires on 17" rims
 
@@ -83,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/exterior_2_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ The Hyundai INSTER Standard Range includes several features to enhance comfort a
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -223,7 +220,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -246,4 +242,3 @@ This model had a world premiere on 27.06.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,7 +74,6 @@ Nissan Ariya 87kWh e-4ORCE, med dimensjoner på 4595 mm i lengde, 1850 mm i bred
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nissan Ariya 87kWh e-4ORCE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
@@ -87,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ Nissan Ariya 87kWh e-4ORCE inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -236,4 +232,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

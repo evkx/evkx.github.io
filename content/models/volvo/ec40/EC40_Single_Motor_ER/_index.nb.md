@@ -72,7 +72,6 @@ Volvo EC40 Single Motor ER, med dimensjoner på 4440 mm i lengde, 1873 mm i bred
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EC40 Single Motor ER, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/50 dekk på 19" felger
 - 235/45 dekk på 20" felger
 
@@ -83,7 +82,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/exterior_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Volvo EC40 Single Motor ER inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -196,7 +193,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -219,4 +215,3 @@ Denne modellen hadde verdenspremiere 20.02.2024, og leveringene startet i April 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

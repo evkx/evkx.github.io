@@ -96,9 +96,8 @@ Audi e-tron S Sportback, med dimensioner på 4901 mm i längd, 1935 mm i bredd o
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi e-tron S Sportback, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 285/45 tires on 20" rims
-- 285/40 tires on 21" rims
+- 285/45 däck på 20" fälgar
+- 285/40 däck på 21" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -109,7 +108,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -190,7 +188,6 @@ Audi e-tron S Sportback inkluderar flera funktioner för att förbättra komfort
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -304,4 +301,3 @@ Denna modell hade världspremiär 19.11.2019 och leveranser startade i May 2020.
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

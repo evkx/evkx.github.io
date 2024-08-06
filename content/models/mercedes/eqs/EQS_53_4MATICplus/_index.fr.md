@@ -80,7 +80,6 @@ La Mercedes-AMG EQS 53 4MATIC+, avec des dimensions de 5223 mm de longueur, 1926
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-AMG EQS 53 4MATIC+, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
 - Pneus 265/35 sur jantes de 22" à l'avant et pneus 295/30 sur jantes de 22" à l'arrière
 
@@ -91,7 +90,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -168,7 +166,6 @@ L'Mercedes-AMG EQS 53 4MATIC+ comprend plusieurs fonctionnalités pour améliore
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -254,7 +251,6 @@ Avec le système DRIVE PILOT  de niveau 3, vous obtenez des fonctionnalités sup
 
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -277,4 +273,3 @@ Ce modèle a été présenté en première mondiale le 15.04.2021 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

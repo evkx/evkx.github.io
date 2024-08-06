@@ -74,7 +74,6 @@ La CUPRA BORN 77 e-BOOST, avec des dimensions de 4322 mm de longueur, 1809 mm de
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'CUPRA BORN 77 e-BOOST, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 215/55 sur jantes de 18"
 - Pneus 215/50 sur jantes de 19"
 - Pneus 215/45 sur jantes de 20"
@@ -88,7 +87,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/exterior_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1711"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ L'CUPRA BORN 77 e-BOOST comprend plusieurs fonctionnalités pour améliorer le c
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -238,4 +234,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

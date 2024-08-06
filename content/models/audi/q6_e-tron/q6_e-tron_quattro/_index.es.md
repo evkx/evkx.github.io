@@ -98,7 +98,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q6 e-tron quattro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/60 en llantas de 19" delanteras y neumáticos 255/55 en llantas de 19" traseras
 - Neumáticos 255/50 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 20" traseras
 - Neumáticos 255/45 en llantas de 21" delanteras y neumáticos 285/40 en llantas de 21" traseras
@@ -112,7 +111,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,7 +180,6 @@ El Audi Q6 e-tron quattro incluye varias características para mejorar la comodi
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -315,4 +312,3 @@ Este modelo tuvo un estreno mundial el 18.03.2024 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

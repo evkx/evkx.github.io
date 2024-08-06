@@ -72,7 +72,6 @@ The Chevrolet Silverado EV SRT is available in a total of 1 paint colors, includ
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV SRT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/70 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
@@ -80,7 +79,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ The Chevrolet Silverado EV SRT includes several features to enhance comfort and 
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -218,4 +214,3 @@ This model had a world premiere on 05.01.2022, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

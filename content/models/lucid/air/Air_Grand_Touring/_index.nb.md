@@ -74,7 +74,6 @@ Lucid Air Grand Touring, med dimensjoner på 4975 mm i lengde, 1939 mm i bredde 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Air Grand Touring, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/45 dekk på 19" felger
 - 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
@@ -86,7 +85,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelok
 Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/exterior_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Lucid Air Grand Touring inkluderer flere funksjoner for å forbedre komfort og b
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -229,4 +225,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

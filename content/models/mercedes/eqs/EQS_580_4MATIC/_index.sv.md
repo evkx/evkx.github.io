@@ -80,8 +80,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQS 580 4MATIC, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/55 tires on 19" rims
+- 235/55 däck på 19" fälgar
 - 265/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 - 265/40 däck på 20" fälgar fram och 295/35 däck på 20" fälgar bak
 - 265/35 däck på 22" fälgar fram och 295/30 däck på 22" fälgar bak
@@ -93,7 +92,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,7 +172,6 @@ Mercedes-EQ EQS 580 4MATIC inkluderar flera funktioner för att förbättra komf
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -262,7 +259,6 @@ Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautoma
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -285,4 +281,3 @@ Denna modell hade världspremiär 10.04.2024 och leveranserna startade i Septemb
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

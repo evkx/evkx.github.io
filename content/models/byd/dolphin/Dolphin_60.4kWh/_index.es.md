@@ -76,7 +76,6 @@ El BYD Dolphin 60.4kWh, con dimensiones de 4290 mm de longitud, 1770 mm de anchu
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Dolphin 60.4kWh, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/50 en llantas de 17
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ El BYD Dolphin 60.4kWh incluye varias características para mejorar la comodidad
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Con el sistema   de nivel 1, obtienes las siguientes funciones de automatizació
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -240,4 +236,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

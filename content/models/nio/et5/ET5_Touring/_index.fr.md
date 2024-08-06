@@ -92,7 +92,6 @@ La Nio ET5 Touring, avec des dimensions de 4790 mm de longueur, 1960 mm de large
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nio ET5 Touring, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/50 sur jantes de 20"
 - Pneus 255/45 sur jantes de 21"
 
@@ -105,7 +104,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -161,7 +159,6 @@ L'Nio ET5 Touring comprend plusieurs fonctionnalités pour améliorer le confort
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -234,7 +231,6 @@ Avec le système NIO Pilot Complete Pack  de niveau 2, vous obtenez des fonction
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -254,4 +250,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -98,7 +98,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi e-tron 50, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/55 en llantas de 19
 - Neumáticos 255/50 en llantas de 20
 - Neumáticos 265/45 en llantas de 21
@@ -112,7 +111,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/exterior_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +213,6 @@ El Audi e-tron 50 incluye varias características para mejorar la comodidad y co
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -331,4 +328,3 @@ Este modelo tuvo un estreno mundial el 17.10.2018 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

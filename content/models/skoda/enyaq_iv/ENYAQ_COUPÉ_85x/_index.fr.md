@@ -76,7 +76,6 @@ La SKODA ENYAQ COUPÉ 85x, avec des dimensions de 4653 mm de longueur, 1879 mm d
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'SKODA ENYAQ COUPÉ 85x, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
@@ -89,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2002"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ L'SKODA ENYAQ COUPÉ 85x comprend plusieurs fonctionnalités pour améliorer le 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Avec le système MAX  de niveau 2, vous obtenez les fonctionnalités suivantes d
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -232,4 +228,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

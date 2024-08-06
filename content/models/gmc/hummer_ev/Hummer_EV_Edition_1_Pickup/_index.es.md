@@ -76,7 +76,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene 4 paneles de vidri
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -127,7 +126,6 @@ El GMC Hummer EV Edition 1 Pickup incluye varias características para mejorar l
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -188,7 +186,6 @@ Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de au
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -209,4 +206,3 @@ Este modelo tuvo un estreno mundial el 20.10.2020 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

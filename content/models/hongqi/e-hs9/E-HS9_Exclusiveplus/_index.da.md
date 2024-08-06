@@ -74,7 +74,6 @@ Den Hongqi E-HS9 Exclusive+, med dimensioner på 5209 mm i længde, 2010 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Hongqi E-HS9 Exclusive+, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/45 dæk on 21" fælge
 - 275/40 dæk on 22" fælge
 
@@ -85,7 +84,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1757"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Hongqi E-HS9 Exclusive+ inkluderer flere funktioner, der forbedrer komfort og be
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -232,4 +228,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

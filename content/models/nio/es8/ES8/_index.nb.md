@@ -94,7 +94,6 @@ Nio ES8, med dimensjoner på 5022 mm i lengde, 1962 mm i bredde og 1756 mm i hø
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio ES8, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/55 dekk på 19" felger
 - 265/50 dekk på 20" felger
 - 265/45 dekk på 21" felger
@@ -106,7 +105,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Nio ES8 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -245,7 +242,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ekstra kjøreautomatiserin
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -262,4 +258,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

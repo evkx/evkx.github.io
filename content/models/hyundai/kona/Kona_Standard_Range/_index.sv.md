@@ -70,9 +70,8 @@ Hyundai Kona Standard Range, med dimensioner på 4355 mm i längd, 1825 mm i bre
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai Kona Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/60 tires on 17" rims
-- 235/45 tires on 19" rims
+- 215/60 däck på 17" fälgar
+- 235/45 däck på 19" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -83,7 +82,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Hyundai Kona Standard Range inkluderar flera funktioner för att förbättra kom
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -236,4 +232,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

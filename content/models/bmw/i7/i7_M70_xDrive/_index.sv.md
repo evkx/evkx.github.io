@@ -72,8 +72,7 @@ BMW i7 M70 xDrive, med dimensioner på 5391 mm i längd, 1950 mm i bredd och 154
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i7 M70 xDrive, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/50 tires on 19" rims
+- 245/50 däck på 19" fälgar
 - 255/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 255/40 däck på 21" fälgar fram och 285/35 däck på 21" fälgar bak
 
@@ -86,7 +85,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ BMW i7 M70 xDrive inkluderar flera funktioner för att förbättra komfort och b
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,7 +226,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktio
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -246,4 +242,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

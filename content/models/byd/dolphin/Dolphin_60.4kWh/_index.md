@@ -76,7 +76,6 @@ The BYD Dolphin 60.4kWh, with dimensions of 4290 mm in length, 1770 mm in width,
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Dolphin 60.4kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/50 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ The BYD Dolphin 60.4kWh includes several features to enhance comfort and conveni
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ With the   level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -240,4 +236,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

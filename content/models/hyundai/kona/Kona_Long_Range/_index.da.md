@@ -70,7 +70,6 @@ Den Hyundai Kona Long Range, med dimensioner på 4355 mm i længde, 1825 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Hyundai Kona Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 235/45 dæk on 19" fælge
 
@@ -83,7 +82,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/exterior_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Hyundai Kona Long Range inkluderer flere funktioner, der forbedrer komfort og be
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -236,4 +232,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

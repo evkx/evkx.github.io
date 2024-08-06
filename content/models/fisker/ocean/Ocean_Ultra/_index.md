@@ -72,7 +72,6 @@ The Fisker Ocean Ultra, with dimensions of 4774 mm in length, 1982 mm in width, 
 
 You can select from multiple wheel options in different sizes on the Fisker Ocean Ultra, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
@@ -83,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ The Fisker Ocean Ultra includes several features to enhance comfort and convenie
 - **Keyless go:** Enables starting the car without using the key.
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -221,4 +217,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -110,7 +110,6 @@ Tesla Model Y Standard Range, med dimensjoner på 4751 mm i lengde, 1921 mm i br
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model Y Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/45 dekk på 19" felger
 - 255/40 dekk på 20" felger
 - 255/35 dekk på 21" felger foran og 275/35 dekk på 21" felger bak
@@ -124,7 +123,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ Tesla Model Y Standard Range inkluderer flere funksjoner for å forbedre komfort
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -283,4 +280,3 @@ Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

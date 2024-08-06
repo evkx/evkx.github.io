@@ -70,7 +70,6 @@ Hyundai Ioniq 5 N, med dimensjoner på 4715 mm i lengde, 1940 mm i bredde og 158
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Hyundai Ioniq 5 N, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/35 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 Hyundai Ioniq 5 N inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -200,7 +197,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -223,4 +219,3 @@ Denne modellen hadde verdenspremiere 13.07.2023, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

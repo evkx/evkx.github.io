@@ -72,7 +72,6 @@ El Polestar 2 Long Range Dual Motor Performance, con dimensiones de 4606 mm de l
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Polestar 2 Long Range Dual Motor Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/45 en llantas de 19
 - Neumáticos 245/40 en llantas de 20
 
@@ -83,7 +82,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="2953" height="2215"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ El Polestar 2 Long Range Dual Motor Performance incluye varias características 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -221,4 +217,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

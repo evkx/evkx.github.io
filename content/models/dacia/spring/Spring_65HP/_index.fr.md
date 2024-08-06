@@ -68,7 +68,6 @@ La Dacia Spring 65HP, avec des dimensions de 3701 mm de longueur, 1622 mm de lar
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Dacia Spring 65HP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 165/70 sur jantes de 14"
 - Pneus 175/60 sur jantes de 15"
 
@@ -79,7 +78,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -124,8 +122,6 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 ## Caractéristiques de confort
 
 L'Dacia Spring 65HP comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,8 +178,6 @@ Le Dacia Spring 65HP comprend plusieurs [systèmes avancés d'assistance au cond
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -200,4 +194,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

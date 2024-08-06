@@ -78,7 +78,6 @@ The VinFast VF8 Eco, with dimensions of 4750 mm in length, 1934 mm in width, and
 
 You can select from multiple wheel designs, all available in the same size, on the VinFast VF8 Eco, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/50 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -88,7 +87,6 @@ There is only one roof for this model. The standard is just a regular roof.
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ The VinFast VF8 Eco includes several features to enhance comfort and convenience
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,4 +226,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

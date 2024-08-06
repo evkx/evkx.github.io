@@ -78,7 +78,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ G 580 EQ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/60 dæk on 18" fælge
 - 265/50 dæk on 20" fælge
 
@@ -89,7 +88,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren Den har manuelt gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ Mercedes-EQ G 580 EQ inkluderer flere funktioner, der forbedrer komfort og bekve
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,7 +253,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere funktioner til køreautoma
 
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -277,4 +273,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

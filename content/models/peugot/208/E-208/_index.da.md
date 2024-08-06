@@ -68,7 +68,6 @@ Den Peugot E-208, med dimensioner på 4055 mm i længde, 1768 mm i bredde og 143
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Peugot E-208, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
@@ -81,7 +80,6 @@ Der er kun ét tag til denne model.
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Peugot E-208 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreaut
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -210,4 +206,3 @@ Denne model havde verdenspremiere den 06.07.2023, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

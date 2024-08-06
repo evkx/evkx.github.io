@@ -70,7 +70,6 @@ The Hyundai Ioniq 5 N, with dimensions of 4715 mm in length, 1940 mm in width, a
 
 You can select from multiple wheel designs, all available in the same size, on the Hyundai Ioniq 5 N, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 275/35 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 The Hyundai Ioniq 5 N includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -200,7 +197,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -223,4 +219,3 @@ This model had a world premiere on 13.07.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

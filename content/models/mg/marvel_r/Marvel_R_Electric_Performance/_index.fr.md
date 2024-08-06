@@ -78,7 +78,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/exterior_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -125,7 +124,6 @@ L'MG Marvel R Electric Performance comprend plusieurs fonctionnalités pour amé
 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -183,7 +181,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -206,4 +203,3 @@ Ce modèle a été présenté en première mondiale le 07.10.2021 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

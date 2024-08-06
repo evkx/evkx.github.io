@@ -87,7 +87,6 @@ The optional SportDesign package HighGloss black contains a specially designed u
 
 You can select from multiple wheel options in different sizes on the Porsche Taycan 4S Cross Turismo, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
@@ -99,7 +98,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -179,7 +177,6 @@ The Porsche Taycan 4S Cross Turismo includes several features to enhance comfort
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -266,7 +263,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -286,4 +282,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

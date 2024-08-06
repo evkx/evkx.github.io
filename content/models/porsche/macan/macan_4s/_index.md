@@ -87,7 +87,6 @@ The optional SportDesign package HighGloss black contains a specially designed u
 
 You can select from multiple wheel options in different sizes on the Porsche Macan 4S, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 245/45 tires on 21" rims front and 295/40 tires on 21" rims rear
 - 255/40 tires on 22" rims front and 295/35 tires on 22" rims rear
@@ -101,7 +100,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,7 +172,6 @@ The Porsche Macan 4S includes several features to enhance comfort and convenienc
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -261,7 +258,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -284,4 +280,3 @@ This model had a world premiere on 16.07.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

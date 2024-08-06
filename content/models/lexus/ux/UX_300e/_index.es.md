@@ -72,7 +72,6 @@ El Lexus UX 300e, con dimensiones de 4495 mm de longitud, 1840 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lexus UX 300e, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/60 en llantas de 17
 - Neumáticos 225/50 en llantas de 18
 
@@ -85,7 +84,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ El Lexus UX 300e incluye varias características para mejorar la comodidad y con
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -218,7 +215,6 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -236,4 +232,3 @@ El peso máximo del vehículo es 2245 kg, con un peso base de 1810 kg. Esto perm
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -80,7 +80,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQS 580 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
@@ -93,7 +92,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,7 +172,6 @@ El Mercedes-EQ EQS 580 4MATIC incluye varias características para mejorar la co
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -262,7 +259,6 @@ Con el sistema DRIVE PILOT  de nivel 3, obtienes funciones adicionales de automa
 
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -285,4 +281,3 @@ Este modelo tuvo un estreno mundial el 10.04.2024 y las entregas comenzaron en S
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

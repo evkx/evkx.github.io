@@ -76,7 +76,6 @@ The Renault Megane E-Tech Techno, with dimensions of 4200 mm in length, 1860 mm 
 
 You can select from multiple wheel options in different sizes on the Renault Megane E-Tech Techno, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -89,7 +88,6 @@ There is only one roof for this model. The standard is just a regular roof.
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ The Renault Megane E-Tech Techno includes several features to enhance comfort an
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -222,7 +219,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -242,4 +238,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

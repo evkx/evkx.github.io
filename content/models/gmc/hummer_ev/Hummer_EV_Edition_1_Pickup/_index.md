@@ -76,7 +76,6 @@ There is only one roof for this model. The standard roof has a 4 seperate glass 
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -127,7 +126,6 @@ The GMC Hummer EV Edition 1 Pickup includes several features to enhance comfort 
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -188,7 +186,6 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -209,4 +206,3 @@ This model had a world premiere on 20.10.2020, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

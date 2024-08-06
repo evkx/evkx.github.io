@@ -76,7 +76,6 @@ Det finns bara ett tak för denna modell.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/exterior_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1707"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -123,7 +122,6 @@ MG MG5 Electric Standard Range inkluderar flera funktioner för att förbättra 
 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -181,7 +179,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -201,4 +198,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ The Lexus RZ 450e, with dimensions of 4805 mm in length, 1860 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Lexus RZ 450e, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/60 tires on 18" rims front and 255/55 tires on 18" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 
@@ -83,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 The Lexus RZ 450e includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -228,4 +224,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

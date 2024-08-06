@@ -71,7 +71,6 @@ Ford F150 Lightning Extended Range fås i alt 6 lakfarver, herunder både solide
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Ford F150 Lightning Extended Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/70 dæk on 18" fælge
 - 275/60 dæk on 20" fælge
 - 285/45 dæk on 22" fælge
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -128,8 +126,6 @@ Der er et tilgængeligt klimasystem.
 ## Komfortfunktioner
 
 Ford F150 Lightning Extended Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +213,6 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere funktio
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -238,4 +233,3 @@ Denne model havde verdenspremiere den 19.05.2021, og leveringerne startede i Dec
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

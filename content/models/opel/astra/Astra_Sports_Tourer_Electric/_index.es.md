@@ -68,7 +68,6 @@ El Opel Astra Sports Tourer Electric, con dimensiones de 4642 mm de longitud, 18
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Opel Astra Sports Tourer Electric, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/45 en llantas de 18" delanteras y neumáticos 215/45 en llantas de 18" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -78,7 +77,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/exterior_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1685"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ El Opel Astra Sports Tourer Electric incluye varias características para mejora
 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -218,4 +214,3 @@ Este modelo tuvo un estreno mundial el 06.07.2023 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ Hyundai INSTER Long Range, med dimensjoner på 3825 mm i lengde, 1610 mm i bredd
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hyundai INSTER Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 205/55 dekk på 15" felger
 - 205/45 dekk på 17" felger
 
@@ -83,7 +82,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Hyundai INSTER Long Range inkluderer flere funksjoner for å forbedre komfort og
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -244,4 +240,3 @@ Denne modellen hadde verdenspremiere 27.06.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

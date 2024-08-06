@@ -75,7 +75,6 @@ Den HiPhi Z 4 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi Z 4 Seater, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
 
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, [selvmordsdøre](../../../../technology/doors/) på anden række, og et [bagklap](../../../../technology/doors/#bootlid) bagerst. Elektriske døre er en standard funktion for sidedørene.
@@ -85,7 +84,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ HiPhi Z 4 Seater inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -227,4 +223,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

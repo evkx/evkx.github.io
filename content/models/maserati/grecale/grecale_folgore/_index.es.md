@@ -83,7 +83,6 @@ El Maserati Grecale Folgore, con dimensiones de 4865 mm de longitud, 1948 mm de 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Maserati Grecale Folgore, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/50 en llantas de 19
 - Neumáticos 255/45 en llantas de 20" delanteras y neumáticos 295/40 en llantas de 20" traseras
 - Neumáticos 255/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
@@ -97,7 +96,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ El Maserati Grecale Folgore incluye varias características para mejorar la como
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

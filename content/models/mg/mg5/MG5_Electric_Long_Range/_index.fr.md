@@ -76,7 +76,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1707"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -123,7 +122,6 @@ L'MG MG5 Electric Long Range comprend plusieurs fonctionnalités pour améliorer
 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -181,7 +179,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -201,4 +198,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

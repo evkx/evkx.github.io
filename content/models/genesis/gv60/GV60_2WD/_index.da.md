@@ -70,7 +70,6 @@ Den Genesis GV60 2WD, med dimensioner på 4515 mm i længde, 1890 mm i bredde og
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Genesis GV60 2WD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
@@ -83,7 +82,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/exterior_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="2121"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Genesis GV60 2WD inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -231,4 +227,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

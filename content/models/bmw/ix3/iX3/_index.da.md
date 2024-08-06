@@ -76,7 +76,6 @@ Den BMW iX3, med dimensioner på 4734 mm i længde, 1891 mm i bredde og 1668 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW iX3, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/50 dæk on 19" fælge
 - 245/45 dæk on 20" fælge
 
@@ -89,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ BMW iX3 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -211,7 +208,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende funktion
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -231,4 +227,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

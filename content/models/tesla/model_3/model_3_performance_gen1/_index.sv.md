@@ -78,9 +78,8 @@ Tesla Model 3 Performance (GEN1), med dimensioner på 4694 mm i längd, 1849 mm 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model 3 Performance (GEN1), vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 18" rims
-- 255/45 tires on 19" rims
+- 255/45 däck på 18" fälgar
+- 255/45 däck på 19" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -91,7 +90,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/exterior_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ Tesla Model 3 Performance (GEN1) inkluderar flera funktioner för att förbättr
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -244,4 +241,3 @@ Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

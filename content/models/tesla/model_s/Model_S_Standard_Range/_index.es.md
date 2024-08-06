@@ -76,7 +76,6 @@ El Tesla Model S Standard Range, con dimensiones de 5021 mm de longitud, 1987 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model S Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 19" delanteras y neumáticos 285/40 en llantas de 19" traseras
 - Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
 
@@ -89,7 +88,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ El Tesla Model S Standard Range incluye varias características para mejorar la 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Con el sistema Full Self-Driving Capability  de nivel 3, obtienes funciones adic
 - Control de semáforos - sigue los semáforos.
 - Control de señales de stop: sigue las señales de stop.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -239,4 +235,3 @@ Este modelo tuvo un estreno mundial el 20.08.2023 y las entregas comenzaron en S
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

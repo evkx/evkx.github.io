@@ -72,7 +72,6 @@ El MG ZS EV Standard Range, con dimensiones de 4323 mm de longitud, 1809 mm de a
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MG ZS EV Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/55 en llantas de 17
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -82,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/exterior_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ El MG ZS EV Standard Range incluye varias características para mejorar la comod
 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -221,4 +217,3 @@ Este modelo tuvo un estreno mundial el 07.10.2021 y las entregas comenzaron en J
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

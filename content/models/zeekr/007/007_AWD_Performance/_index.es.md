@@ -70,7 +70,6 @@ El Zeekr 007 AWD Performance, con dimensiones de 4865 mm de longitud, 1900 mm de
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Zeekr 007 AWD Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/40 en llantas de 22
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate). Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -80,7 +79,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ El Zeekr 007 AWD Performance incluye varias características para mejorar la com
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -230,4 +226,3 @@ Este modelo tuvo un estreno mundial el 27.12.2023 y las entregas comenzaron en J
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,9 +76,8 @@ Tesla Model 3 Performance, med dimensioner på 4694 mm i längd, 1849 mm i bredd
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model 3 Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 18" rims
-- 255/45 tires on 19" rims
+- 255/45 däck på 18" fälgar
+- 255/45 däck på 19" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -89,7 +88,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Tesla Model 3 Performance inkluderar flera funktioner för att förbättra komfo
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ Denna modell hade världspremiär 23.04.2024 och leveranserna startade i May 202
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/exterior_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -122,7 +121,6 @@ L'MG MG4 Electric Extended Range comprend plusieurs fonctionnalités pour améli
 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -200,4 +197,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

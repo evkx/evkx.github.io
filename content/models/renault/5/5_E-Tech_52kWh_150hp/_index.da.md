@@ -76,7 +76,6 @@ Den Renault 5 E-Tech 52kWh 150hp, med dimensioner på 3920 mm i længde, 1770 mm
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Renault 5 E-Tech 52kWh 150hp, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 195/55 dæk on 18" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -84,7 +83,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -131,7 +129,6 @@ Renault 5 E-Tech 52kWh 150hp inkluderer flere funktioner, der forbedrer komfort 
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -206,7 +203,6 @@ Med ProPILOT  niveau 2-systemet får du følgende funktioner til køreautomatise
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -223,4 +219,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,7 +72,6 @@ La Ford Mustang Mach-E Long Range RWD, avec des dimensions de 4713 mm de longueu
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford Mustang Mach-E Long Range RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 225/60 sur jantes de 18"
 - Pneus 225/60 sur jantes de 19"
 
@@ -83,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ L'Ford Mustang Mach-E Long Range RWD comprend plusieurs fonctionnalités pour am
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -210,7 +207,6 @@ Avec le système Ford BlueCruise  de niveau 2, vous obtenez les fonctionnalités
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -230,4 +226,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

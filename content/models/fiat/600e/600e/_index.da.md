@@ -68,7 +68,6 @@ Den Fiat 600e, med dimensioner på 4171 mm i længde, 1781 mm i bredde og 1523 m
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Fiat 600e, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
@@ -81,7 +80,6 @@ Der er kun ét tag til denne model.
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -131,7 +129,6 @@ Fiat 600e inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -192,7 +189,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreaut
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -212,4 +208,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

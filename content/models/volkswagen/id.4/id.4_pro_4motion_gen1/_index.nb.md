@@ -82,7 +82,6 @@ Volkswagen ID.4 Pro 4MOTION (GEN1), med dimensjoner på 4582 mm i lengde, 1865 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.4 Pro 4MOTION (GEN1), slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
@@ -96,7 +95,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ Volkswagen ID.4 Pro 4MOTION (GEN1) inkluderer flere funksjoner for å forbedre k
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -252,7 +249,6 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -275,4 +271,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

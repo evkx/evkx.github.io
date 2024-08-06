@@ -78,7 +78,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 {{< sitefiguresized thumb="models/cadillac/optiq/exterior_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -128,7 +127,6 @@ Cadillac OPTIQ AWD inkluderer flere funktioner, der forbedrer komfort og bekvemm
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -193,7 +191,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -213,4 +210,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

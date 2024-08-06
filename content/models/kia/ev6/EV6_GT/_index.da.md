@@ -70,7 +70,6 @@ Den Kia EV6 GT, med dimensioner på 4680 mm i længde, 1880 mm i bredde og 1550 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Kia EV6 GT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/40 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Der er kun ét tag til denne model. Standardtaget har soltag. Glasset strækker 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 Kia EV6 GT inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,7 +200,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -223,4 +219,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

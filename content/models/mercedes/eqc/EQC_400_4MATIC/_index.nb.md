@@ -74,7 +74,6 @@ Mercedes-EQ EQC 400 4MATIC, med dimensjoner på 4762 mm i lengde, 1884 mm i bred
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQC 400 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
@@ -115,7 +114,6 @@ Mercedes-EQ EQC 400 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +187,6 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -209,4 +206,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

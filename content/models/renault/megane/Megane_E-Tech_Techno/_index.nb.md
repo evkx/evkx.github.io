@@ -76,7 +76,6 @@ Renault Megane E-Tech Techno, med dimensjoner på 4200 mm i lengde, 1860 mm i br
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Renault Megane E-Tech Techno, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
@@ -89,7 +88,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Renault Megane E-Tech Techno inkluderer flere funksjoner for å forbedre komfort
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -222,7 +219,6 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -242,4 +238,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

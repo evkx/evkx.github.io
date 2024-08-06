@@ -76,7 +76,6 @@ Lotus Eletre S, med dimensioner på 5105 mm i längd,  mm i bredd och 1630 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lotus Eletre S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 275/40 däck på 22" fälgar fram och 315/35 däck på 22" fälgar bak
 - 285/35 däck på 23" fälgar fram och 325/30 däck på 23" fälgar bak
 
@@ -89,7 +88,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ Lotus Eletre S inkluderar flera funktioner för att förbättra komfort och bekv
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -260,4 +257,3 @@ Denna modell hade världspremiär 29.01.2021 och leveranserna startade i March 2
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ La XPENG P7 AWD Performance, avec des dimensions de 4888 mm de longueur, 1896 mm
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'XPENG P7 AWD Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ L'XPENG P7 AWD Performance comprend plusieurs fonctionnalités pour améliorer l
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -202,7 +199,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -219,4 +215,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

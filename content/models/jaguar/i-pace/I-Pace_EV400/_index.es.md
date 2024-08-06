@@ -71,7 +71,6 @@ El Jaguar I-Pace EV400, con dimensiones de 4682 mm de longitud, 2011 mm de anchu
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Jaguar I-Pace EV400, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/65 en llantas de 18
 - Neumáticos 245/55 en llantas de 19
 - Neumáticos 245/50 en llantas de 20
@@ -86,7 +85,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ El Jaguar I-Pace EV400 incluye varias características para mejorar la comodidad
 
 - **Carga inalámbrica de teléfono**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -228,8 +225,6 @@ El Jaguar I-Pace EV400 incluye varios [sistemas avanzados de asistencia al condu
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -250,4 +245,3 @@ Este modelo tuvo un estreno mundial el 01.03.2018 y las entregas comenzaron en O
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

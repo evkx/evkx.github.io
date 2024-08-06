@@ -70,7 +70,6 @@ Chevrolet Equinox EV FWD, med dimensjoner på 4867 mm i lengde, 1953 mm i bredde
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Chevrolet Equinox EV FWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/55 dekk på 19" felger
 - 275/45 dekk på 20" felger
 - 275/40 dekk på 21" felger
@@ -82,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ Chevrolet Equinox EV FWD inkluderer flere funksjoner for å forbedre komfort og 
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med Super Cruise  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjone
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -227,4 +223,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

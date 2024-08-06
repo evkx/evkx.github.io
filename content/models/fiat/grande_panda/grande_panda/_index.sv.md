@@ -78,9 +78,8 @@ Fiat Grande Panda finns i totalt 5 lackfärger, inklusive både solida och metal
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Fiat Grande Panda, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 205/55 tires on 16" rims
-- 205/50 tires on 17" rims
+- 205/55 däck på 16" fälgar
+- 205/50 däck på 17" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -91,7 +90,6 @@ Det finns bara ett tak för denna modell.
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Det
 Fiat Grande Panda inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,4 +228,3 @@ Denna modell hade världspremiär 12.07.2024 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

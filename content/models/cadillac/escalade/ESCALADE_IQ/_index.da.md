@@ -70,7 +70,6 @@ Den Cadillac ESCALADE IQ, med dimensioner på 5697 mm i længde, 2167 mm i bredd
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Cadillac ESCALADE IQ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 275/50 dæk on 24" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Elektriske døre er en standard funktion for sidedørene.
@@ -78,7 +77,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ Cadillac ESCALADE IQ inkluderer flere funktioner, der forbedrer komfort og bekve
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -205,7 +202,6 @@ Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -222,4 +218,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

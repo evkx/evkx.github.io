@@ -70,7 +70,6 @@ XPENG P7 AWD Performance, med dimensjoner på 4888 mm i lengde, 1896 mm i bredde
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på XPENG P7 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/45 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ XPENG P7 AWD Performance inkluderer flere funksjoner for å forbedre komfort og 
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -202,7 +199,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -219,4 +215,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

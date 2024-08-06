@@ -76,8 +76,7 @@ HiPhi X 6 Seater, med dimensioner på 5200 mm i längd,  mm i bredd och 1618 mm 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi X 6 Seater, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 22" rims
+- 255/45 däck på 22" fälgar
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av självmordsdörrar med måsvingetak i den andra raden, och en [ baklucka](../../../../technology/doors/#liftgate) bak. Elektriska dörrar är standard funktion för sidodörrarna.
 
@@ -86,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over f
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ HiPhi X 6 Seater inkluderar flera funktioner för att förbättra komfort och be
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -239,4 +235,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

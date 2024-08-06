@@ -78,7 +78,6 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/exterior_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -130,7 +129,6 @@ L'Cadillac LYRIQ RWD comprend plusieurs fonctionnalités pour améliorer le conf
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +195,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -215,4 +212,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,9 +70,8 @@ Hyundai INSTER Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai INSTER Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 205/55 tires on 15" rims
-- 205/45 tires on 17" rims
+- 205/55 däck på 15" fälgar
+- 205/45 däck på 17" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -83,7 +82,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Hyundai INSTER Long Range inkluderar flera funktioner för att förbättra komfo
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -244,4 +240,3 @@ Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

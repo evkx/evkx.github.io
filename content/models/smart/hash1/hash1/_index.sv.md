@@ -74,15 +74,13 @@ Smart #1, med dimensioner på 4270 mm i längd, 1822 mm i bredd och 1636 mm i h�
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Smart #1, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/40 tires on 19" rims
+- 245/40 däck på 19" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/exterior_2_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Smart #1 inkluderar flera funktioner för att förbättra komfort och bekvämlig
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +202,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -228,4 +224,3 @@ Denna modell hade världspremiär 07.04.2022 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

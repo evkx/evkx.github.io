@@ -88,13 +88,11 @@ Automobili Pininfarina Battista er tilgjengelig i totalt 5 lakkfarger, inkludert
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Automobili Pininfarina Battista, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/35 dekk på 20" felger foran og 315/35 dekk på 20" felger bak
 
 Det er bare ett tak for denne modellen.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Automobili Pininfarina Battista inkluderer flere funksjoner for å forbedre komf
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -210,4 +206,3 @@ Denne modellen hadde verdenspremiere 01.07.2023, og leveringene startet i Octobe
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

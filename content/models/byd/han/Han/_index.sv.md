@@ -48,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -77,8 +76,7 @@ BYD Han, med dimensioner på 4995 mm i längd, 1910 mm i bredd och 1495 mm i hö
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Han, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/40 tires on 22" rims
+- 265/40 däck på 22" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -87,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +140,6 @@ BYD Han inkluderar flera funktioner för att förbättra komfort och bekvämligh
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -224,7 +220,6 @@ Med Smart Pilot  nivå 2-systemet får du ytterligare funktioner för körautoma
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -244,4 +239,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

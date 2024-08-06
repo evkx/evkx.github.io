@@ -78,7 +78,6 @@ El Citroën ë-C3 Aircross, con dimensiones de 4395 mm de longitud, 1795 mm de a
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Citroën ë-C3 Aircross, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 205/55 en llantas de 16
 - Neumáticos 205/50 en llantas de 17
 
@@ -91,7 +90,6 @@ Sólo hay un techo para este modelo.
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,7 +154,6 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 El Citroën ë-C3 Aircross incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -243,4 +240,3 @@ Este modelo tuvo un estreno mundial el 21.06.2024 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

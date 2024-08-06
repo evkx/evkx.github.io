@@ -76,7 +76,6 @@ La Lotus Emeya S, avec des dimensions de 5139 mm de longueur, 2005 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lotus Emeya S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
 - Pneus 265/40 sur jantes de 21" à l'avant et pneus 305/35 sur jantes de 21" à l'arrière
 - Pneus 265/35 sur jantes de 22" à l'avant et pneus 305/30 sur jantes de 22" à l'arrière
@@ -90,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ L'Lotus Emeya S comprend plusieurs fonctionnalités pour améliorer le confort e
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -232,7 +229,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -253,4 +249,3 @@ Ce modèle a été présenté en première mondiale le 12.10.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

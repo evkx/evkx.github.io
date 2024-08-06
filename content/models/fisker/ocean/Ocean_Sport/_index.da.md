@@ -72,7 +72,6 @@ Den Fisker Ocean Sport, med dimensioner på 4774 mm i længde, 1982 mm i bredde 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Fisker Ocean Sport, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/50 dæk on 20" fælge
 - 255/45 dæk on 22" fælge
 
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Fisker Ocean Sport inkluderer flere funktioner, der forbedrer komfort og bekvemm
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +202,6 @@ Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende funktioner til
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -222,4 +218,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

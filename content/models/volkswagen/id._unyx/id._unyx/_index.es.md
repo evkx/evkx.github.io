@@ -74,7 +74,6 @@ El Volkswagen Id. UNYX, con dimensiones de 4663 mm de longitud, 1860 mm de anchu
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen Id. UNYX, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/50 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/45 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 - Neumáticos 255/40 en llantas de 21
@@ -88,7 +87,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/exterior_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1683"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ El Volkswagen Id. UNYX incluye varias características para mejorar la comodidad
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -223,7 +220,6 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -243,4 +239,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

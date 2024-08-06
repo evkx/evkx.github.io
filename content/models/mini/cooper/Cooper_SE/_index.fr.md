@@ -65,7 +65,6 @@ La Mini Cooper SE, avec des dimensions de 3900 mm de longueur, 1750 mm de largeu
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mini Cooper SE, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 215/55 sur jantes de 16"
 - Pneus 205/50 sur jantes de 17"
 - Pneus 225/40 sur jantes de 18"
@@ -77,7 +76,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +123,6 @@ L'Mini Cooper SE comprend plusieurs fonctionnalités pour améliorer le confort 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -167,7 +164,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -186,4 +182,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

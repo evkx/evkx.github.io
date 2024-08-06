@@ -86,8 +86,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQS 580 4MATIC, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/55 tires on 19" rims
+- 235/55 däck på 19" fälgar
 - 265/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 - 265/40 däck på 20" fälgar fram och 295/35 däck på 20" fälgar bak
 - 265/35 däck på 22" fälgar fram och 295/30 däck på 22" fälgar bak
@@ -176,7 +175,6 @@ Mercedes-EQ EQS 580 4MATIC inkluderar flera funktioner för att förbättra komf
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -261,7 +259,6 @@ Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautoma
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -284,4 +281,3 @@ Denna modell hade världspremiär 15.04.2021 och leveranser startade i September
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

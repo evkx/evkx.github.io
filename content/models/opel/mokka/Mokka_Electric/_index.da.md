@@ -70,7 +70,6 @@ Den Opel Mokka Electric, med dimensioner på 4151 mm i længde, 1790 mm i bredde
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Opel Mokka Electric, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
@@ -83,7 +82,6 @@ Der er kun ét tag til denne model.
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/exterior_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Opel Mokka Electric inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreaut
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -206,4 +202,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

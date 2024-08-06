@@ -72,9 +72,8 @@ Polestar 2 Long Range Dual Motor Performance, med dimensioner på 4606 mm i län
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Polestar 2 Long Range Dual Motor Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/45 tires on 19" rims
-- 245/40 tires on 20" rims
+- 245/45 däck på 19" fälgar
+- 245/40 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -83,7 +82,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="2953" height="2215"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Polestar 2 Long Range Dual Motor Performance inkluderar flera funktioner för at
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -221,4 +217,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

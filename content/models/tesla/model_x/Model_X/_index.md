@@ -76,7 +76,6 @@ The Tesla Model X, with dimensions of 5057 mm in length, 1999 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Tesla Model X, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
@@ -89,7 +88,6 @@ There is only one roof for this model. The windshield is panoramic going back ov
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/exterior_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ The Tesla Model X includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -240,4 +236,3 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

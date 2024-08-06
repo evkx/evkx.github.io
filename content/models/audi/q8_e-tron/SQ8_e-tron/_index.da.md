@@ -88,7 +88,6 @@ Den Audi SQ8 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi SQ8 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 285/45 dæk on 20" fælge
 - 285/40 dæk on 21" fælge
 
@@ -101,7 +100,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ Audi SQ8 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -292,4 +289,3 @@ Denne model havde verdenspremiere den 09.11.2022, og leveringerne startede i Mar
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -65,10 +65,9 @@ Mini Cooper SE, med dimensioner på 3900 mm i längd, 1750 mm i bredd och 1450 m
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mini Cooper SE, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/55 tires on 16" rims
-- 205/50 tires on 17" rims
-- 225/40 tires on 18" rims
+- 215/55 däck på 16" fälgar
+- 205/50 däck på 17" fälgar
+- 225/40 däck på 18" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -77,7 +76,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +123,6 @@ Mini Cooper SE inkluderar flera funktioner för att förbättra komfort och bekv
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -167,7 +164,6 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -186,4 +182,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

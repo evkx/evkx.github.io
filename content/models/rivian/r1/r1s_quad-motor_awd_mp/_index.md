@@ -87,7 +87,6 @@ The Rivian R1S Quad-Motor AWD MP, with dimensions of 5100 mm in length,  mm in w
 
 You can select from multiple wheel options in different sizes on the Rivian R1S Quad-Motor AWD MP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 275/65 tires on 20" rims front and 275/65 tires on 20" rims rear
 - 275/50 tires on 22" rims
 
@@ -100,7 +99,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -160,7 +158,6 @@ The Rivian R1S Quad-Motor AWD MP includes several features to enhance comfort an
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -257,4 +254,3 @@ This model had a world premiere on 06.06.2024, and deliveries started in August 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

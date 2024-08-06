@@ -70,7 +70,6 @@ Zeekr 009 ME Edition er tilgjengelig i totalt 3 lakkfarger, inkludert flere iøy
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Zeekr 009 ME Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/50 dekk på 19" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
@@ -80,7 +79,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Zeekr 009 ME Edition inkluderer flere funksjoner for å forbedre komfort og bekv
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -213,7 +210,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -234,4 +230,3 @@ Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i Octobe
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

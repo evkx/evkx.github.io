@@ -75,7 +75,6 @@ La HiPhi Z 4 Seater, avec des dimensions de 5036 mm de longueur, 2018 mm de larg
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'HiPhi Z 4 Seater, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/45 sur jantes de 22" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
 
 La voiture a deux [portes normales](../../../../technology/doors/) à l'avant, [portes suicide](../../../../technology/doors/) sur la deuxième rangée, et un [bootlid](../../../../technology/doors/#bootlid) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -85,7 +84,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ L'HiPhi Z 4 Seater comprend plusieurs fonctionnalités pour améliorer le confor
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -227,4 +223,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

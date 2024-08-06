@@ -71,7 +71,6 @@ El Ford F150 Lightning Extended Range está disponible en un total de 6 colores 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Ford F150 Lightning Extended Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/70 en llantas de 18
 - Neumáticos 275/60 en llantas de 20
 - Neumáticos 285/45 en llantas de 22
@@ -83,7 +82,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -128,8 +126,6 @@ Hay un sistema climático disponible.
 ## Características de confort
 
 El Ford F150 Lightning Extended Range incluye varias características para mejorar la comodidad y conveniencia:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +213,6 @@ Con el sistema Ford Co-Pilot360™ Active 2.0  de nivel 2, obtienes funciones ad
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -238,4 +233,3 @@ Este modelo tuvo un estreno mundial el 19.05.2021 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

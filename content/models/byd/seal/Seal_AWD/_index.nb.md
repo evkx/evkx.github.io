@@ -76,7 +76,6 @@ BYD Seal AWD, med dimensjoner på 4800 mm i lengde, 1875 mm i bredde og 1460 mm 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Seal AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/40 dekk på 22" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
@@ -86,7 +85,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/exterior_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ BYD Seal AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med Smart Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjo
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -229,4 +225,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

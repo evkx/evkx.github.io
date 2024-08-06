@@ -78,7 +78,6 @@ Den Ford Explorer Extended Range RWD, med dimensioner på 4468 mm i længde, 187
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Ford Explorer Extended Range RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
@@ -91,7 +90,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/exterior_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2199"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ Ford Explorer Extended Range RWD inkluderer flere funktioner, der forbedrer komf
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -224,7 +221,6 @@ Med Assistantpackage  niveau 2-systemet får du yderligere funktioner til kørea
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -245,4 +241,3 @@ Denne model havde verdenspremiere den 26.03.2024, og leveringerne startede i Nov
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,7 +72,6 @@ Den Volvo EC40 Twin Motor, med dimensioner på 4440 mm i længde, 1873 mm i bred
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EC40 Twin Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk on 19" fælge
 - 235/45 dæk on 20" fælge
 
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/exterior_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Volvo EC40 Twin Motor inkluderer flere funktioner, der forbedrer komfort og bekv
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -196,7 +193,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -219,4 +215,3 @@ Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i Apr
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ El Lexus RZ 450e, con dimensiones de 4805 mm de longitud, 1860 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lexus RZ 450e, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/60 en llantas de 18" delanteras y neumáticos 255/55 en llantas de 18" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 
@@ -83,7 +82,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 El Lexus RZ 450e incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -228,4 +224,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

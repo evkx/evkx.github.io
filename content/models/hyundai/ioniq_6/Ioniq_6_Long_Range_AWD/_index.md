@@ -70,7 +70,6 @@ The Hyundai Ioniq 6 Long Range AWD, with dimensions of 4855 mm in length, 1880 m
 
 You can select from multiple wheel options in different sizes on the Hyundai Ioniq 6 Long Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 225/55 tires on 18" rims
 - 245/40 tires on 20" rims
 
@@ -83,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 The Hyundai Ioniq 6 Long Range AWD includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -207,7 +204,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -224,4 +220,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

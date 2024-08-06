@@ -72,7 +72,6 @@ Den Ford Mustang Mach-E Long Range AWD, med dimensioner på 4713 mm i længde, 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Ford Mustang Mach-E Long Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 225/60 dæk on 18" fælge
 - 225/60 dæk on 19" fælge
 
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1642"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Ford Mustang Mach-E Long Range AWD inkluderer flere funktioner, der forbedrer ko
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -210,7 +207,6 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende funktioner til køreaut
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -230,4 +226,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

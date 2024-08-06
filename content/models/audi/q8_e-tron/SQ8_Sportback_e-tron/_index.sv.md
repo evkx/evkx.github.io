@@ -88,9 +88,8 @@ Audi SQ8 Sportback e-tron, med dimensioner på 4901 mm i längd, 1935 mm i bredd
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi SQ8 Sportback e-tron, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 285/45 tires on 20" rims
-- 285/40 tires on 21" rims
+- 285/45 däck på 20" fälgar
+- 285/40 däck på 21" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -101,7 +100,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,7 +180,6 @@ Audi SQ8 Sportback e-tron inkluderar flera funktioner för att förbättra komfo
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -298,4 +295,3 @@ Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

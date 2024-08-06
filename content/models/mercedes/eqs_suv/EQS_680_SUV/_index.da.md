@@ -78,7 +78,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-Maybach EQS 680 SUV, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/45 dæk on 21" fælge
 - 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
@@ -89,7 +88,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,7 +154,6 @@ Mercedes-Maybach EQS 680 SUV inkluderer flere funktioner, der forbedrer komfort 
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -244,7 +241,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere funktioner til køreautoma
 
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -265,4 +261,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

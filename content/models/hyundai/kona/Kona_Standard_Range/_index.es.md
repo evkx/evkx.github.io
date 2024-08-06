@@ -70,7 +70,6 @@ El Hyundai Kona Standard Range, con dimensiones de 4355 mm de longitud, 1825 mm 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Hyundai Kona Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/60 en llantas de 17
 - Neumáticos 235/45 en llantas de 19
 
@@ -83,7 +82,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ El Hyundai Kona Standard Range incluye varias características para mejorar la c
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -236,4 +232,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

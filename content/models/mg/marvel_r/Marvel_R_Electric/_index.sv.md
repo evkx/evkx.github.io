@@ -78,7 +78,6 @@ B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -125,7 +124,6 @@ MG Marvel R Electric inkluderar flera funktioner för att förbättra komfort oc
 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -183,7 +181,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -206,4 +203,3 @@ Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

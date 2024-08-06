@@ -70,7 +70,6 @@ La Genesis GV60 AWD Performance, avec des dimensions de 4515 mm de longueur, 189
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Genesis GV60 AWD Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/55 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
 - Pneus 255/40 sur jantes de 21"
@@ -84,7 +83,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/exterior_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="2121"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 L'Genesis GV60 AWD Performance comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -229,4 +225,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -54,7 +54,6 @@ Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elekt
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -94,8 +93,7 @@ Tesla Cybertruck AWD finns i totalt 3 enfärgade lackfärger.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Tesla Cybertruck AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 285/65 tires on 20" rims
+- 285/65 däck på 20" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. 'Soft Close' är standard-funktionen för sidodörrarna. Bakluckan är elektriskt manövrerad.
 
@@ -104,7 +102,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +152,6 @@ Tesla Cybertruck AWD inkluderar flera funktioner för att förbättra komfort oc
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,7 +231,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktione
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -258,4 +253,3 @@ Denna modell hade världspremiär 30.11.2023 och leveranserna startade i Novembe
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

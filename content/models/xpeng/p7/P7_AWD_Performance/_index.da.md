@@ -70,7 +70,6 @@ Den XPENG P7 AWD Performance, med dimensioner på 4888 mm i længde, 1896 mm i b
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på XPENG P7 AWD Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/45 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ XPENG P7 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -202,7 +199,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -219,4 +215,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

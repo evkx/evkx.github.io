@@ -76,7 +76,6 @@ The BYD Atto 3, with dimensions of 4455 mm in length, 1875 mm in width, and 1875
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Atto 3, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/50 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ The BYD Atto 3 includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ With the   level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -238,4 +234,3 @@ The vehicle’s maximum weight is 2160 kg (4762 lbs), with a base weight of 1750
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

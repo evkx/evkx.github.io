@@ -72,7 +72,6 @@ Den Mercedes-EQ EQA 250, med dimensioner på 4463 mm i længde, 1834 mm i bredde
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ EQA 250, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 18" fælge
 - 235/50 dæk on 19" fælge
 
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/exterior_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ Mercedes-EQ EQA 250 inkluderer flere funktioner, der forbedrer komfort og bekvem
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -228,7 +225,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner ti
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -249,4 +245,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

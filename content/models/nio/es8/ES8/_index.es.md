@@ -94,7 +94,6 @@ El Nio ES8, con dimensiones de 5022 mm de longitud, 1962 mm de anchura y 1756 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio ES8, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/55 en llantas de 19
 - Neumáticos 265/50 en llantas de 20
 - Neumáticos 265/45 en llantas de 21
@@ -106,7 +105,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ El Nio ES8 incluye varias características para mejorar la comodidad y convenien
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -245,7 +242,6 @@ Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes funciones adicional
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -262,4 +258,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

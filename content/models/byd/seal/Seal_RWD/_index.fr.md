@@ -76,7 +76,6 @@ La BYD Seal RWD, avec des dimensions de 4800 mm de longueur, 1875 mm de largeur 
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Seal RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/40 sur jantes de 22"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
@@ -86,7 +85,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/exterior_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ L'BYD Seal RWD comprend plusieurs fonctionnalités pour améliorer le confort et
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Avec le système Smart Pilot  de niveau 2, vous obtenez les fonctionnalités sui
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -229,4 +225,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

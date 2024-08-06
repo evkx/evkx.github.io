@@ -83,7 +83,6 @@ La Maserati Grecale Folgore, avec des dimensions de 4865 mm de longueur, 1948 mm
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Maserati Grecale Folgore, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/50 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20" à l'avant et pneus 295/40 sur jantes de 20" à l'arrière
 - Pneus 255/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
@@ -97,7 +96,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ L'Maserati Grecale Folgore comprend plusieurs fonctionnalités pour améliorer l
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

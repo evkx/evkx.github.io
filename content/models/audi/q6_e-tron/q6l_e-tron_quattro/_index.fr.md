@@ -96,7 +96,6 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi Q6L e-tron quattro, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/60 sur jantes de 19" à l'avant et pneus 255/55 sur jantes de 19" à l'arrière
 - Pneus 255/50 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 20" à l'arrière
 - Pneus 255/45 sur jantes de 21" à l'avant et pneus 285/40 sur jantes de 21" à l'arrière
@@ -110,7 +109,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -176,7 +174,6 @@ L'Audi Q6L e-tron quattro comprend plusieurs fonctionnalités pour améliorer le
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -305,4 +302,3 @@ Ce modèle a été présenté en première mondiale le 14.04.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

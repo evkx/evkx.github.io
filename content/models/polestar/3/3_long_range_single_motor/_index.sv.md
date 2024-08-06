@@ -72,7 +72,6 @@ Polestar 3 Long Range Single Motor, med dimensioner på 4900 mm i längd, 1968 m
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Polestar 3 Long Range Single Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 265/40 däck på 22" fälgar fram och 295/40 däck på 22" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/exterior_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Polestar 3 Long Range Single Motor inkluderar flera funktioner för att förbät
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -221,4 +217,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

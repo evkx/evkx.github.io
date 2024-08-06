@@ -78,7 +78,6 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQS 580 4MATIC SUV, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/45 sur jantes de 21"
 - Pneus 265/40 sur jantes de 22" à l'avant et pneus 295/40 sur jantes de 22" à l'arrière
 
@@ -89,7 +88,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -165,7 +163,6 @@ L'Mercedes-EQ EQS 580 4MATIC SUV comprend plusieurs fonctionnalités pour améli
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -260,7 +257,6 @@ Avec le système DRIVE PILOT  de niveau 3, vous obtenez des fonctionnalités sup
 
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -283,4 +279,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

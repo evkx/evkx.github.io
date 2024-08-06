@@ -70,7 +70,6 @@ Den Genesis GV60 AWD Performance, med dimensioner på 4515 mm i længde, 1890 mm
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Genesis GV60 AWD Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 - 255/40 dæk on 21" fælge
@@ -84,7 +83,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/exterior_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="2121"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 Genesis GV60 AWD Performance inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -229,4 +225,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -68,7 +68,6 @@ The Dacia Spring 65HP, with dimensions of 3701 mm in length, 1622 mm in width, a
 
 You can select from multiple wheel options in different sizes on the Dacia Spring 65HP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 165/70 tires on 14" rims
 - 175/60 tires on 15" rims
 
@@ -79,7 +78,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -124,8 +122,6 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 ## Comfort features
 
 The Dacia Spring 65HP includes several features to enhance comfort and convenience:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,8 +178,6 @@ The Dacia Spring 65HP includes several standard and optional [advanced driver as
 
 With the standard system the model offers no driving automation.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -200,4 +194,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

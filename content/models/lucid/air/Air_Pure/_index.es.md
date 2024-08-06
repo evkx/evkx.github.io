@@ -74,7 +74,6 @@ El Lucid Air Pure, con dimensiones de 4975 mm de longitud, 1939 mm de anchura y 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lucid Air Pure, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/45 en llantas de 19
 - Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
@@ -86,7 +85,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [ta
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/exterior_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ El Lucid Air Pure incluye varias características para mejorar la comodidad y co
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +202,6 @@ Con el sistema ADAS  de nivel 2, obtienes las siguientes funciones de automatiza
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -225,4 +221,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

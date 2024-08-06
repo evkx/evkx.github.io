@@ -73,7 +73,6 @@ The HiPhi Y Performance, with dimensions of 4938 mm in length, 1958 mm in width,
 
 You can select from multiple wheel designs, all available in the same size, on the HiPhi Y Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 275/40 tires on 21" rims
 
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of regular doors with a gullwing roof on the second row, and a  [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. Powered doors are a standard function for the side doors.
@@ -83,7 +82,6 @@ There is only one roof for this model. The standard roof has a panoramic glass o
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ The HiPhi Y Performance includes several features to enhance comfort and conveni
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -233,4 +229,3 @@ This model had a world premiere on 18.04.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

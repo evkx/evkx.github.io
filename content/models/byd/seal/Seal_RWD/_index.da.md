@@ -76,7 +76,6 @@ Den BYD Seal RWD, med dimensioner på 4800 mm i længde, 1875 mm i bredde og 146
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Seal RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/40 dæk on 22" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
@@ -86,7 +85,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/exterior_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ BYD Seal RWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med Smart Pilot  niveau 2-systemet får du følgende funktioner til køreautomat
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -229,4 +225,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

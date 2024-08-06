@@ -73,7 +73,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -128,8 +127,6 @@ Det er ett tilgjengelig klimasystem.
 ## Komfortfunksjoner
 
 XPENG X9 AWD Performance inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -194,7 +191,6 @@ Med XPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -212,4 +208,3 @@ Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

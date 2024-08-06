@@ -72,7 +72,6 @@ Mercedes-EQ EQA 300 4MATIC, med dimensjoner på 4463 mm i lengde, 1834 mm i bred
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQA 300 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 18" felger
 - 235/50 dekk på 19" felger
 
@@ -83,7 +82,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ Mercedes-EQ EQA 300 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -228,7 +225,6 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -245,4 +241,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

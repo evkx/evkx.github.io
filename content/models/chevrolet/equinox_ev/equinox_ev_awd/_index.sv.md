@@ -70,10 +70,9 @@ Chevrolet Equinox EV AWD, med dimensioner på 4867 mm i längd, 1953 mm i bredd 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Chevrolet Equinox EV AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/55 tires on 19" rims
-- 275/45 tires on 20" rims
-- 275/40 tires on 21" rims
+- 255/55 däck på 19" fälgar
+- 275/45 däck på 20" fälgar
+- 275/40 däck på 21" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -82,7 +81,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/exterior_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2099"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ Chevrolet Equinox EV AWD inkluderar flera funktioner för att förbättra komfor
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med Super Cruise  nivå 2-systemet får du ytterligare funktioner för körautom
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -227,4 +223,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

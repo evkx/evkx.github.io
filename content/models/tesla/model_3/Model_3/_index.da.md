@@ -76,7 +76,6 @@ Den Tesla Model 3, med dimensioner på 4694 mm i længde, 1849 mm i bredde og 14
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model 3, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk on 18" fælge
 - 255/45 dæk on 19" fælge
 
@@ -89,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/exterior_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Tesla Model 3 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ Denne model havde verdenspremiere den 01.10.2023, og leveringerne startede i Dec
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

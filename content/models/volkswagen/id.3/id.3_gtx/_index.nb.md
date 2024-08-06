@@ -74,7 +74,6 @@ Volkswagen ID.3 GTX, med dimensjoner på 4261 mm i lengde, 1809 mm i bredde og 1
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.3 GTX, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/55 dekk på 18" felger
 - 215/50 dekk på 19" felger
 - 215/45 dekk på 20" felger
@@ -88,7 +87,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Volkswagen ID.3 GTX inkluderer flere funksjoner for å forbedre komfort og bekve
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +228,6 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -252,4 +248,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

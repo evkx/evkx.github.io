@@ -72,7 +72,6 @@ The MG ZS EV Standard Range, with dimensions of 4323 mm in length, 1809 mm in wi
 
 You can select from multiple wheel designs, all available in the same size, on the MG ZS EV Standard Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/55 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -82,7 +81,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/exterior_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ The MG ZS EV Standard Range includes several features to enhance comfort and con
 
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -221,4 +217,3 @@ This model had a world premiere on 07.10.2021, and deliveries started in January
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

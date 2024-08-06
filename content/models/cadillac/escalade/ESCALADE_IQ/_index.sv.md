@@ -70,15 +70,13 @@ Cadillac ESCALADE IQ, med dimensioner på 5697 mm i längd, 2167 mm i bredd och 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Cadillac ESCALADE IQ, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 275/50 tires on 24" rims
+- 275/50 däck på 24" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ Cadillac ESCALADE IQ inkluderar flera funktioner för att förbättra komfort oc
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -205,7 +202,6 @@ Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomat
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -222,4 +218,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

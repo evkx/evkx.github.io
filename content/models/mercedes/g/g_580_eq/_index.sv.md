@@ -78,9 +78,8 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ G 580 EQ, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/60 tires on 18" rims
-- 265/50 tires on 20" rims
+- 265/60 däck på 18" fälgar
+- 265/50 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -89,7 +88,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig över endast den främre raden, och passagerarna kan öppna det. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för den åkande. Den har en manuell gardin som de åkande kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ Mercedes-EQ G 580 EQ inkluderar flera funktioner för att förbättra komfort oc
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,7 +253,6 @@ Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautoma
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -277,4 +273,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

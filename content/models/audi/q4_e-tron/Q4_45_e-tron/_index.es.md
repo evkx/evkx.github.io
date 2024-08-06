@@ -48,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron/battery_1_st.jpg" title="Audi Q4 45 e-tron" width="3000" height="1766"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -83,7 +82,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q4 45 e-tron, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 - Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
@@ -97,7 +95,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron/exterior_1_st.jpg" title="Audi Q4 45 e-tron" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -161,7 +158,6 @@ El Audi Q4 45 e-tron incluye varias características para mejorar la comodidad y
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,7 +247,6 @@ Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -274,4 +269,3 @@ Este modelo tuvo un estreno mundial el 21.09.2023 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

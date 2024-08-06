@@ -94,7 +94,6 @@ Den Nio EL8, med dimensioner på 5099 mm i længde, 1989 mm i bredde og 1750 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Nio EL8, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/50 dæk on 20" fælge
 - 265/45 dæk on 21" fælge
 
@@ -105,7 +104,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -176,7 +174,6 @@ Nio EL8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -277,4 +274,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

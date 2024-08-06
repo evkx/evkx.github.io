@@ -76,8 +76,7 @@ Lucid Gravity Dream Edition, med dimensioner på 5034 mm i längd, 1999 mm i bre
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Gravity Dream Edition, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/45 tires on 20" rims
+- 245/45 däck på 20" fälgar
 - 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 - 265/40 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
 - 265/35 däck på 23" fälgar fram och 285/35 däck på 23" fälgar bak
@@ -89,7 +88,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt över första raden. Dessutom finns det en glaspanel över andra raden. Detta glas gör att bilens interiör känns rymligare och ljus, vilket kan förbättra humöret och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ Lucid Gravity Dream Edition inkluderar flera funktioner för att förbättra kom
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -218,7 +215,6 @@ Med ADAS  nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -241,4 +237,3 @@ Denna modell hade världspremiär 16.11.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

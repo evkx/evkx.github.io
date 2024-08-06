@@ -54,7 +54,6 @@ Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -94,7 +93,6 @@ La Tesla Cybertruck AWD est disponible en un total de 3 couleurs de peinture uni
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Tesla Cybertruck AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 285/65 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe. La fermeture douce est la fonction un standard pour les portes latérales. Le hayon est alimenté électriquement.
@@ -104,7 +102,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +152,6 @@ L'Tesla Cybertruck AWD comprend plusieurs fonctionnalités pour améliorer le co
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,7 +231,6 @@ Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fon
 - Contrôle des feux de circulation - suit les feux de circulation.
 - Contrôle des panneaux stop : suivez les panneaux stop.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -258,4 +253,3 @@ Ce modèle a été présenté en première mondiale le 30.11.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

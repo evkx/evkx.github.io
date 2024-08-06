@@ -75,7 +75,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -119,7 +118,6 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 Toyota bZ4X AWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -215,4 +212,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

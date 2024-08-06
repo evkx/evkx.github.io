@@ -80,8 +80,7 @@ BYD Seal U Design, med dimensioner på 4785 mm i längd, 1890 mm i bredd och 166
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Seal U Design, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/50 tires on 19" rims
+- 235/50 däck på 19" fälgar
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
@@ -90,7 +89,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ BYD Seal U Design inkluderar flera funktioner för att förbättra komfort och b
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomati
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -235,4 +231,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

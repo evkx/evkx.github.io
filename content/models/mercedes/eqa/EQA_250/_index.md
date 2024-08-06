@@ -73,7 +73,6 @@ The Mercedes-EQ EQA 250, with dimensions of 4463 mm in length, 1834 mm in width,
 
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQA 250, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 18" rims
 - 235/50 tires on 19" rims
 
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/exterior_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -151,7 +149,6 @@ The Mercedes-EQ EQA 250 includes several features to enhance comfort and conveni
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,7 +226,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -250,4 +246,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

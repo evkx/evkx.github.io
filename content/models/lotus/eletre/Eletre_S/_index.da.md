@@ -76,7 +76,6 @@ Den Lotus Eletre S, med dimensioner på 5105 mm i længde,  mm i bredde og 1630 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Eletre S, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 275/40 dæk på 22" fælge foran og 315/35 dæk på 22" fælge bagpå
 - 285/35 dæk på 23" fælge foran og 325/30 dæk på 23" fælge bagpå
 
@@ -89,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ Lotus Eletre S inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -260,4 +257,3 @@ Denne model havde verdenspremiere den 29.01.2021, og leveringerne startede i Mar
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

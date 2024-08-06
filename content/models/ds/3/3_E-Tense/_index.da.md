@@ -70,7 +70,6 @@ Den DS 3 E-Tense, med dimensioner på 4118 mm i længde, 1802 mm i bredde og 153
 
 Du kan vælge mellem flere hjul i forskellige størrelser på DS 3 E-Tense, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
@@ -83,7 +82,6 @@ Der er kun ét tag til denne model.
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -129,7 +127,6 @@ DS 3 E-Tense inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreaut
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -204,4 +200,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

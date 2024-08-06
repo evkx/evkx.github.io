@@ -76,7 +76,6 @@ The BYD Tang EV600, with dimensions of 4870 mm in length, 1950 mm in width, and 
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Tang EV600, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ The BYD Tang EV600 includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +216,6 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -236,4 +232,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

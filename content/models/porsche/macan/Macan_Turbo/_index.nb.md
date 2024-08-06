@@ -78,7 +78,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsche Macan Turbo, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
 - 245/45 dekk på 21" felger foran og 295/40 dekk på 21" felger bak
 - 255/40 dekk på 22" felger foran og 295/35 dekk på 22" felger bak
@@ -92,7 +91,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/exterior_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ Porsche Macan Turbo inkluderer flere funksjoner for å forbedre komfort og bekve
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -246,7 +243,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunk
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -269,4 +265,3 @@ Denne modellen hadde verdenspremiere 25.01.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

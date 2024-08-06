@@ -72,7 +72,6 @@ Den Lexus UX 300e, med dimensioner på 4495 mm i længde, 1840 mm i bredde og 15
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lexus UX 300e, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/60 dæk on 17" fælge
 - 225/50 dæk on 18" fælge
 
@@ -85,7 +84,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Lexus UX 300e inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -218,7 +215,6 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -236,4 +232,3 @@ Køretøjets maksimale vægt er 2245 kg, med en basisvægt på 1810 kg. Dette gi
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

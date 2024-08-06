@@ -76,7 +76,6 @@ El Opel Frontera, con dimensiones de 4385 mm de longitud, 1795 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Opel Frontera, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 205/55 en llantas de 16
 - Neumáticos 205/50 en llantas de 17
 
@@ -89,7 +88,6 @@ Sólo hay un techo para este modelo.
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 El Opel Frontera incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Este modelo tuvo un estreno mundial el 15.05.2024 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

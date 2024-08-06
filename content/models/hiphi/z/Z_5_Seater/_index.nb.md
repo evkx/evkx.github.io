@@ -75,7 +75,6 @@ HiPhi Z 5 Seater, med dimensjoner på 5036 mm i lengde, 2018 mm i bredde og 1439
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på HiPhi Z 5 Seater, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/45 dekk på 22" felger foran og 285/40 dekk på 22" felger bak
 
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, [selvmordsdører](../../../../technology/doors/) på andre rad, og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Elektriske dører er standard funksjon for sidedørene.
@@ -85,7 +84,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/exterior_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1399"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ HiPhi Z 5 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -225,4 +221,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

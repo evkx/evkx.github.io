@@ -83,7 +83,6 @@ Den Fisker Ocean Extreme, med dimensioner på 4774 mm i længde, 1982 mm i bredd
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Fisker Ocean Extreme, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/50 dæk on 20" fælge
 - 255/45 dæk on 22" fælge
 
@@ -94,7 +93,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1635"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ Fisker Ocean Extreme inkluderer flere funktioner, der forbedrer komfort og bekve
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +216,6 @@ Med Fisker Intelligent Pilot  niveau 2-systemet får du følgende funktioner til
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -236,4 +232,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

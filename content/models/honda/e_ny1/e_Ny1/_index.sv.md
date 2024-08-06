@@ -69,7 +69,6 @@ Det finns bara ett tak för denna modell.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -97,8 +96,6 @@ Det finns ett tillgängligt klimatsystem.
 ## Komfortfunktioner
 
 Honda e:Ny1 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,8 +138,6 @@ Honda e:Ny1 inkluderar flera [avancerade förarassistanssystem](../../../../tech
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -162,4 +157,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,7 +72,6 @@ Den BMW i7 eDrive50, med dimensioner på 5391 mm i længde, 1950 mm i bredde og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i7 eDrive50, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/50 dæk on 19" fælge
 - 255/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 255/40 dæk på 21" fælge foran og 285/35 dæk på 21" fælge bagpå
@@ -86,7 +85,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ BMW i7 eDrive50 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -247,7 +244,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktio
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -264,4 +260,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

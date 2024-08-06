@@ -72,7 +72,6 @@ Seres 5 4WD Premium, med dimensjoner på 4710 mm i lengde, 1930 mm i bredde og 1
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Seres 5 4WD Premium, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/50 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
@@ -85,7 +84,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Seres 5 4WD Premium inkluderer flere funksjoner for å forbedre komfort og bekve
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +194,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -214,4 +210,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

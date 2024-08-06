@@ -70,7 +70,6 @@ The Volvo EM90 is available in a total of 3 paint colors, including several stri
 
 You can select from multiple wheel options in different sizes on the Volvo EM90, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -83,7 +82,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ The Volvo EM90 includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -241,4 +237,3 @@ This model had a world premiere on 12.11.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

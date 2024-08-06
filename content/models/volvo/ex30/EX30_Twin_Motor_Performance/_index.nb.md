@@ -70,7 +70,6 @@ Volvo EX30 Twin Motor Performance, med dimensjoner på 4233 mm i lengde, 1837 mm
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EX30 Twin Motor Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 225/55 dekk på 18" felger
 - 235/45 dekk på 20" felger
 
@@ -81,7 +80,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Volvo EX30 Twin Motor Performance inkluderer flere funksjoner for å forbedre ko
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -229,4 +225,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

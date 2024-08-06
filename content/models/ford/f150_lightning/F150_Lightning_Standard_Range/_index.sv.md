@@ -70,10 +70,9 @@ Ford F150 Lightning Standard Range finns i totalt 6 lackfärger, inklusive både
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Ford F150 Lightning Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/70 tires on 18" rims
-- 275/60 tires on 20" rims
-- 285/45 tires on 22" rims
+- 265/70 däck på 18" fälgar
+- 275/60 däck på 20" fälgar
+- 285/45 däck på 22" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -82,7 +81,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,8 +125,6 @@ Det finns ett tillgängligt klimatsystem.
 ## Komfortfunktioner
 
 Ford F150 Lightning Standard Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +212,6 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ytterligare funktio
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -239,4 +234,3 @@ Denna modell hade världspremiär 19.05.2021 och leveranserna startade i Decembe
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Den Volvo XC40 Recharge Single Motor ER, med dimensioner på 4425 mm i længde, 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo XC40 Recharge Single Motor ER, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk on 19" fælge
 - 235/45 dæk on 20" fælge
 
@@ -87,7 +86,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Volvo XC40 Recharge Single Motor ER inkluderer flere funktioner, der forbedrer k
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -221,4 +217,3 @@ Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i Aug
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

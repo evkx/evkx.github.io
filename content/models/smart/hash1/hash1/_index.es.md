@@ -74,7 +74,6 @@ El Smart #1, con dimensiones de 4270 mm de longitud, 1822 mm de anchura y 1636 m
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Smart #1, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/40 en llantas de 19
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
@@ -82,7 +81,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/exterior_2_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ El Smart #1 incluye varias características para mejorar la comodidad y convenie
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +202,6 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -228,4 +224,3 @@ Este modelo tuvo un estreno mundial el 07.04.2022 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

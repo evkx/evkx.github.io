@@ -88,7 +88,6 @@ El Audi RS e-tron GT, con dimensiones de 4989 mm de longitud, 1964 mm de anchura
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi RS e-tron GT, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 225/55 en llantas de 19" delanteras y neumáticos 275/45 en llantas de 19" traseras
 - Neumáticos 245/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
 - Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 305/30 en llantas de 21" traseras
@@ -102,7 +101,6 @@ Hay tres opciones de techo diferentes para elegir. El techo estándar incluye un
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,7 +168,6 @@ El Audi RS e-tron GT incluye varias características para mejorar la comodidad y
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,7 +252,6 @@ Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -276,4 +272,3 @@ Este modelo tuvo un estreno mundial el 18.06.2024 y las entregas comenzaron en S
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

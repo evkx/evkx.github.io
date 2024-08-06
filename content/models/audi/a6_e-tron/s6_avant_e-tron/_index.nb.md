@@ -94,7 +94,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi S6 Avant e-tron, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/45 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/40 dekk på 21" felger foran og 275/35 dekk på 21" felger bak
 
@@ -107,7 +106,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -169,7 +167,6 @@ Audi S6 Avant e-tron inkluderer flere funksjoner for å forbedre komfort og bekv
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -302,4 +299,3 @@ Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

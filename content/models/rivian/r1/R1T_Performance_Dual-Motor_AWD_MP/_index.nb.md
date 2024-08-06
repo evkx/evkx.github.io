@@ -82,7 +82,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -135,7 +134,6 @@ Rivian R1T Performance Dual-Motor AWD MP inkluderer flere funksjoner for å forb
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +203,6 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -228,4 +225,3 @@ Denne modellen hadde verdenspremiere 26.11.2018, og leveringene startet i Septem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

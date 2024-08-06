@@ -74,7 +74,6 @@ SKODA ENYAQ 85, med dimensioner på 4653 mm i längd, 1879 mm i bredd och 1607 m
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på SKODA ENYAQ 85, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
@@ -87,7 +86,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/exterior_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ SKODA ENYAQ 85 inkluderar flera funktioner för att förbättra komfort och bekv
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med MAX  nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -232,4 +228,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

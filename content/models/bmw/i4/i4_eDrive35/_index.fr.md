@@ -78,7 +78,6 @@ La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de large
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i4 eDrive35, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 18" à l'avant et pneus 255/45 sur jantes de 18" à l'arrière
 - Pneus 245/40 sur jantes de 19" à l'avant et pneus 255/40 sur jantes de 19" à l'arrière
 - Pneus 245/35 sur jantes de 20" à l'avant et pneus 255/35 sur jantes de 20" à l'arrière
@@ -92,7 +91,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/exterior_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2255"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +197,6 @@ L'BMW i4 eDrive35 comprend plusieurs fonctionnalités pour améliorer le confort
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -275,7 +272,6 @@ Avec le système Driving Assistant Professional  de niveau 2, vous obtenez des f
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -295,4 +291,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,7 +74,6 @@ Xiaomi SU7 Max, med dimensjoner på 4997 mm i lengde, 1963 mm i bredde og 1440 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Xiaomi SU7 Max, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/45 dekk på 19" felger
 - 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/35 dekk på 21" felger foran og 265/35 dekk på 21" felger bak
@@ -88,7 +87,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/exterior_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ Xiaomi SU7 Max inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Denne modellen hadde verdenspremiere 28.12.2023, og leveringene startet i March 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

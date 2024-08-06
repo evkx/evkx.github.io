@@ -70,7 +70,6 @@ The Zeekr 007 AWD Performance, with dimensions of 4865 mm in length, 1900 mm in 
 
 You can select from multiple wheel designs, all available in the same size, on the Zeekr 007 AWD Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are a standard function for the side doors.
@@ -80,7 +79,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ The Zeekr 007 AWD Performance includes several features to enhance comfort and c
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -230,4 +226,3 @@ This model had a world premiere on 27.12.2023, and deliveries started in January
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

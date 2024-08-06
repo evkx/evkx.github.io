@@ -78,7 +78,6 @@ The SKODA Enyaq iV80, with dimensions of 4649 mm in length, 1879 mm in width, an
 
 You can select from multiple wheel options in different sizes on the SKODA Enyaq iV80, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -92,7 +91,6 @@ There are two different roof options to select from. The standard is just a regu
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/exterior_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ The SKODA Enyaq iV80 includes several features to enhance comfort and convenienc
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -230,7 +227,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -253,4 +249,3 @@ This model had a world premiere on 01.01.2020, and deliveries started in March 2
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

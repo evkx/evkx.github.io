@@ -76,7 +76,6 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/exterior_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -122,7 +121,6 @@ MG MG4 Electric Long Range inkluderar flera funktioner för att förbättra komf
 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -200,4 +197,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -67,7 +67,6 @@ Aion Hyper GT 710 Supercharged, med dimensjoner på 4886 mm i lengde, 1885 mm i 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Aion Hyper GT 710 Supercharged, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 17" felger
 - 235/50 dekk på 18" felger
 - 235/45 dekk på 19" felger
@@ -77,7 +76,6 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ Aion Hyper GT 710 Supercharged inkluderer flere funksjoner for å forbedre komfo
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -186,7 +183,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -205,4 +201,3 @@ Denne modellen hadde verdenspremiere 31.12.2022, og leveringene startet i Octobe
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

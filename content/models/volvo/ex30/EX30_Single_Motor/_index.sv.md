@@ -70,9 +70,8 @@ Volvo EX30 Single Motor, med dimensioner på 4233 mm i längd, 1837 mm i bredd o
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EX30 Single Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 225/55 tires on 18" rims
-- 235/45 tires on 20" rims
+- 225/55 däck på 18" fälgar
+- 235/45 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -81,7 +80,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Volvo EX30 Single Motor inkluderar flera funktioner för att förbättra komfort
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -229,4 +225,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ The Zeekr X Long Range RWD, with dimensions of 4432 mm in length, 1836 mm in wid
 
 You can select from multiple wheel designs, all available in the same size, on the Zeekr X Long Range RWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -78,7 +77,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/exterior_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ The Zeekr X Long Range RWD includes several features to enhance comfort and conv
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -201,7 +198,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -224,4 +220,3 @@ This model had a world premiere on 12.04.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

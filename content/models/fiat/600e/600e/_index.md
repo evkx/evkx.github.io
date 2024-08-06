@@ -68,7 +68,6 @@ The Fiat 600e, with dimensions of 4171 mm in length, 1781 mm in width, and 1523 
 
 You can select from multiple wheel options in different sizes on the Fiat 600e, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
@@ -81,7 +80,6 @@ There is only one roof for this model.
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -131,7 +129,6 @@ The Fiat 600e includes several features to enhance comfort and convenience:
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -192,7 +189,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -212,4 +208,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

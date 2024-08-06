@@ -80,7 +80,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Porsche Taycan Turbo Sport Turismo, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
 - 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
@@ -92,7 +91,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -168,7 +166,6 @@ Porsche Taycan Turbo Sport Turismo inkluderer flere funktioner, der forbedrer ko
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -252,7 +249,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere funktioner til køre
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -269,4 +265,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,7 +74,6 @@ The CUPRA BORN 58, with dimensions of 4322 mm in length, 1809 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the CUPRA BORN 58, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/55 tires on 18" rims
 - 215/50 tires on 19" rims
 - 215/45 tires on 20" rims
@@ -88,7 +87,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1711"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ The CUPRA BORN 58 includes several features to enhance comfort and convenience:
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -238,4 +234,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

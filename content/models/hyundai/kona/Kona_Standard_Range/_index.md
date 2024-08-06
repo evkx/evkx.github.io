@@ -70,7 +70,6 @@ The Hyundai Kona Standard Range, with dimensions of 4355 mm in length, 1825 mm i
 
 You can select from multiple wheel options in different sizes on the Hyundai Kona Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/60 tires on 17" rims
 - 235/45 tires on 19" rims
 
@@ -83,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ The Hyundai Kona Standard Range includes several features to enhance comfort and
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -236,4 +232,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

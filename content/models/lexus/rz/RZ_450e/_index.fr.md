@@ -70,7 +70,6 @@ La Lexus RZ 450e, avec des dimensions de 4805 mm de longueur, 1860 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus RZ 450e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/60 sur jantes de 18" à l'avant et pneus 255/55 sur jantes de 18" à l'arrière
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 
@@ -83,7 +82,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 L'Lexus RZ 450e comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -228,4 +224,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width
 
 You can select from multiple wheel designs, all available in the same size, on the Cadillac ESCALADE IQ, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 275/50 tires on 24" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
@@ -78,7 +77,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ The Cadillac ESCALADE IQ includes several features to enhance comfort and conven
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -205,7 +202,6 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -222,4 +218,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

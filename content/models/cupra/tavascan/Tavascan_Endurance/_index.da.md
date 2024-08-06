@@ -74,7 +74,6 @@ Den CUPRA Tavascan Endurance, med dimensioner på 4644 mm i længde, 1861 mm i b
 
 Du kan vælge mellem flere hjul i forskellige størrelser på CUPRA Tavascan Endurance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/45 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 255/40 dæk on 21" fælge
@@ -88,7 +87,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/exterior_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1676"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ CUPRA Tavascan Endurance inkluderer flere funktioner, der forbedrer komfort og b
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -223,7 +220,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -240,4 +236,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -75,7 +75,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/exterior_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -121,7 +120,6 @@ Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som til
 Subaru Solterra AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +197,6 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -219,4 +216,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

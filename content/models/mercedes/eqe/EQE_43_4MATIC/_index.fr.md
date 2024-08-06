@@ -78,7 +78,6 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-AMG EQE 43 4MATIC, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/40 sur jantes de 20" à l'avant et pneus 295/35 sur jantes de 20" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
@@ -89,7 +88,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2027"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +157,6 @@ L'Mercedes-AMG EQE 43 4MATIC comprend plusieurs fonctionnalités pour améliorer
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,7 +252,6 @@ Avec le système Driver Assistance Package Plus  de niveau 2, vous obtenez des f
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -275,4 +271,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

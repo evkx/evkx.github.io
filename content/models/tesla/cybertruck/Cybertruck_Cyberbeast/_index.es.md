@@ -78,7 +78,6 @@ El Tesla Cybertruck Cyberbeast está disponible en un total de 3 colores de pint
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Tesla Cybertruck Cyberbeast, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 285/65 en llantas de 20
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. La puerta trasera funciona eléctricamente.
@@ -88,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/exterior_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ El Tesla Cybertruck Cyberbeast incluye varias características para mejorar la c
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +214,6 @@ Con el sistema Full Self-Driving Capability  de nivel 3, obtienes funciones adic
 - Control de semáforos - sigue los semáforos.
 - Control de señales de stop: sigue las señales de stop.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -240,4 +236,3 @@ Este modelo tuvo un estreno mundial el 30.11.2023 y las entregas comenzaron en N
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

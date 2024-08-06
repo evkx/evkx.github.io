@@ -74,7 +74,6 @@ Den CUPRA BORN 58, med dimensioner på 4322 mm i længde, 1809 mm i bredde og 15
 
 Du kan vælge mellem flere hjul i forskellige størrelser på CUPRA BORN 58, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/55 dæk on 18" fælge
 - 215/50 dæk on 19" fælge
 - 215/45 dæk on 20" fælge
@@ -88,7 +87,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1711"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ CUPRA BORN 58 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -238,4 +234,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

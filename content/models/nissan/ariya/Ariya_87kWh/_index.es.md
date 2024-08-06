@@ -74,7 +74,6 @@ El Nissan Ariya 87kWh, con dimensiones de 4595 mm de longitud, 1850 mm de anchur
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nissan Ariya 87kWh, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 255/45 en llantas de 20
 
@@ -87,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/exterior_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ El Nissan Ariya 87kWh incluye varias características para mejorar la comodidad 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automa
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -236,4 +232,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

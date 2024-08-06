@@ -70,7 +70,6 @@ Cadillac ESCALADE IQ, med dimensjoner på 5697 mm i lengde, 2167 mm i bredde og 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Cadillac ESCALADE IQ, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/50 dekk på 24" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Elektriske dører er standard funksjon for sidedørene.
@@ -78,7 +77,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ Cadillac ESCALADE IQ inkluderer flere funksjoner for å forbedre komfort og bekv
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -205,7 +202,6 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -222,4 +218,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

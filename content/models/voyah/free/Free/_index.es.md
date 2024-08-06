@@ -70,7 +70,6 @@ El VOYAH FREE, con dimensiones de 4905 mm de longitud, 1950 mm de anchura y 1645
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el VOYAH FREE, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 20
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 El VOYAH FREE incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -201,4 +197,3 @@ Un enganche es equipo estándar en este modelo. El peso máximo total en un trá
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

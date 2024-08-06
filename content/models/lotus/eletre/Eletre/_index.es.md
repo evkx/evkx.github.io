@@ -76,7 +76,6 @@ El Lotus Eletre, con dimensiones de 5105 mm de longitud,  mm de anchura y 1630 m
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lotus Eletre, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/50 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 20" traseras
 - Neumáticos 275/40 en llantas de 22" delanteras y neumáticos 315/35 en llantas de 22" traseras
 
@@ -89,7 +88,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/exterior_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ El Lotus Eletre incluye varias características para mejorar la comodidad y conv
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -253,4 +250,3 @@ Este modelo tuvo un estreno mundial el 29.01.2021 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -78,7 +78,6 @@ Den Tesla Model 3 Performance (GEN1), med dimensioner på 4694 mm i længde, 184
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model 3 Performance (GEN1), så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk on 18" fælge
 - 255/45 dæk on 19" fælge
 
@@ -91,7 +90,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/exterior_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ Tesla Model 3 Performance (GEN1) inkluderer flere funktioner, der forbedrer komf
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -244,4 +241,3 @@ Denne model havde verdenspremiere den 01.04.2016, og leveringerne startede i Jul
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

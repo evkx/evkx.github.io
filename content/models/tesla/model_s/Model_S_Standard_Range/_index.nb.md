@@ -76,7 +76,6 @@ Tesla Model S Standard Range, med dimensjoner på 5021 mm i lengde, 1987 mm i br
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model S Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/45 dekk på 19" felger foran og 285/40 dekk på 19" felger bak
 - 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
@@ -89,7 +88,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ Tesla Model S Standard Range inkluderer flere funksjoner for å forbedre komfort
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ekstra kjøreautomati
 - Trafikklys kontroll - følger trafikklysene.
 - Stopp-skiltkontroll - følg stopp-skilt.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -239,4 +235,3 @@ Denne modellen hadde verdenspremiere 20.08.2023, og leveringene startet i Septem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

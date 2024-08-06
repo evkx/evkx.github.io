@@ -80,8 +80,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQE 350+, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/50 tires on 19" rims
+- 235/50 däck på 19" fälgar
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 - 265/40 däck på 20" fälgar fram och 295/35 däck på 20" fälgar bak
 
@@ -159,7 +158,6 @@ Mercedes-EQ EQE 350+ inkluderar flera funktioner för att förbättra komfort oc
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -253,7 +251,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du ytterligare funktio
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -273,4 +270,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

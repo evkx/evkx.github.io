@@ -80,7 +80,6 @@ Mercedes-AMG EQS 53 4MATIC+, med dimensioner på 5223 mm i längd, 1926 mm i bre
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-AMG EQS 53 4MATIC+, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 265/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 - 265/35 däck på 22" fälgar fram och 295/30 däck på 22" fälgar bak
 
@@ -91,7 +90,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -168,7 +166,6 @@ Mercedes-AMG EQS 53 4MATIC+ inkluderar flera funktioner för att förbättra kom
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -254,7 +251,6 @@ Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautoma
 
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -277,4 +273,3 @@ Denna modell hade världspremiär 15.04.2021 och leveranser startade i September
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

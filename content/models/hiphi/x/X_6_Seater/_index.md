@@ -76,7 +76,6 @@ The HiPhi X 6 Seater, with dimensions of 5200 mm in length,  mm in width, and 16
 
 You can select from multiple wheel designs, all available in the same size, on the HiPhi X 6 Seater, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 22" rims
 
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors.
@@ -86,7 +85,6 @@ There is only one roof for this model. The standard roof has a panoramic glass o
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ The HiPhi X 6 Seater includes several features to enhance comfort and convenienc
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -239,4 +235,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

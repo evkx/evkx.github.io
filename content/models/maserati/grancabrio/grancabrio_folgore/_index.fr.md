@@ -81,7 +81,6 @@ La Maserati GranCabrio Folgore est disponible en un total de 8 couleurs de peint
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Maserati GranCabrio Folgore, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/50 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20" à l'avant et pneus 295/40 sur jantes de 20" à l'arrière
 - Pneus 255/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
@@ -95,7 +94,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,7 +147,6 @@ L'Maserati GranCabrio Folgore comprend plusieurs fonctionnalités pour améliore
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,4 +248,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

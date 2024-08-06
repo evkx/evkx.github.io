@@ -48,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -77,7 +76,6 @@ The BYD Han, with dimensions of 4995 mm in length, 1910 mm in width, and 1495 mm
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Han, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -87,7 +85,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +140,6 @@ The BYD Han includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -224,7 +220,6 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -244,4 +239,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

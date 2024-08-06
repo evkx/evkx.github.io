@@ -70,9 +70,8 @@ Volvo EM90 finns i totalt 3 lackfärger, inklusive flera iögonfallande metallis
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EM90, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/50 tires on 19" rims
-- 255/45 tires on 20" rims
+- 255/50 däck på 19" fälgar
+- 255/45 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -83,7 +82,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ Volvo EM90 inkluderar flera funktioner för att förbättra komfort och bekväml
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -241,4 +237,3 @@ Denna modell hade världspremiär 12.11.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

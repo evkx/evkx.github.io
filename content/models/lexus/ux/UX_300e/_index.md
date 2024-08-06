@@ -72,7 +72,6 @@ The Lexus UX 300e, with dimensions of 4495 mm in length, 1840 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Lexus UX 300e, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/60 tires on 17" rims
 - 225/50 tires on 18" rims
 
@@ -85,7 +84,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ The Lexus UX 300e includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -218,7 +215,6 @@ With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -236,4 +232,3 @@ The vehicle’s maximum weight is 2245 kg (4949 lbs), with a base weight of 1810
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

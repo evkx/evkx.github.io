@@ -72,7 +72,6 @@ Rolls-Royce Spectre, med dimensioner på 5475 mm i längd, 2017 mm i bredd och 1
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rolls-Royce Spectre, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 255/50 däck på 23" fälgar fram och 275/40 däck på 23" fälgar bak
 
 Bilen har två [självmordsdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom. 'Soft Close' är standard-funktionen för sidodörrarna. Elektriska dörrar är standard funktion för sidodörrarna.
@@ -82,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du följande funktione
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -242,4 +238,3 @@ Denna modell hade världspremiär 18.10.2022 och leveranserna startade i Decembe
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

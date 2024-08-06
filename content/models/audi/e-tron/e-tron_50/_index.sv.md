@@ -98,10 +98,9 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi e-tron 50, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/55 tires on 19" rims
-- 255/50 tires on 20" rims
-- 265/45 tires on 21" rims
+- 255/55 däck på 19" fälgar
+- 255/50 däck på 20" fälgar
+- 265/45 däck på 21" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -112,7 +111,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/exterior_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +213,6 @@ Audi e-tron 50 inkluderar flera funktioner för att förbättra komfort och bekv
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -331,4 +328,3 @@ Denna modell hade världspremiär 17.10.2018 och leveranser startade i May 2020.
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

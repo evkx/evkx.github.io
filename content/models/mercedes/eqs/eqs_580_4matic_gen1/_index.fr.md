@@ -86,7 +86,6 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQS 580 4MATIC, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/55 sur jantes de 19"
 - Pneus 265/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
 - Pneus 265/40 sur jantes de 20" à l'avant et pneus 295/35 sur jantes de 20" à l'arrière
@@ -176,7 +175,6 @@ L'Mercedes-EQ EQS 580 4MATIC comprend plusieurs fonctionnalités pour améliorer
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -261,7 +259,6 @@ Avec le système DRIVE PILOT  de niveau 3, vous obtenez des fonctionnalités sup
 
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -284,4 +281,3 @@ Ce modèle a été présenté en première mondiale le 15.04.2021 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

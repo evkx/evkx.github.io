@@ -80,7 +80,6 @@ Den BYD Seal U Design, med dimensioner på 4785 mm i længde, 1890 mm i bredde o
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Seal U Design, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
@@ -90,7 +89,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ BYD Seal U Design inkluderer flere funktioner, der forbedrer komfort og bekvemme
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Med Smart Pilot  niveau 2-systemet får du følgende funktioner til køreautomat
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -235,4 +231,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

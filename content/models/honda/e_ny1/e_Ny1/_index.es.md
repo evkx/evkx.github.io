@@ -69,7 +69,6 @@ Sólo hay un techo para este modelo.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -97,8 +96,6 @@ Hay un sistema climático disponible.
 ## Características de confort
 
 El Honda e:Ny1 incluye varias características para mejorar la comodidad y conveniencia:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,8 +138,6 @@ El Honda e:Ny1 incluye varios [sistemas avanzados de asistencia al conductor](..
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -162,4 +157,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

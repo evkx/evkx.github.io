@@ -98,7 +98,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q6 e-tron quattro, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/60 dekk på 19" felger foran og 255/55 dekk på 19" felger bak
 - 255/50 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
 - 255/45 dekk på 21" felger foran og 285/40 dekk på 21" felger bak
@@ -112,7 +111,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,7 +180,6 @@ Audi Q6 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og be
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -315,4 +312,3 @@ Denne modellen hadde verdenspremiere 18.03.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

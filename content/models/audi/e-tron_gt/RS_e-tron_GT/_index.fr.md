@@ -88,7 +88,6 @@ La Audi RS e-tron GT, avec des dimensions de 4989 mm de longueur, 1964 mm de lar
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi RS e-tron GT, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 225/55 sur jantes de 19" à l'avant et pneus 275/45 sur jantes de 19" à l'arrière
 - Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 305/30 sur jantes de 21" à l'arrière
@@ -102,7 +101,6 @@ Il existe trois options de toit différentes à choisir. Le toit standard compre
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,7 +168,6 @@ L'Audi RS e-tron GT comprend plusieurs fonctionnalités pour améliorer le confo
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,7 +252,6 @@ Avec le système Assistantpackage Tour  de niveau 2, vous obtenez des fonctionna
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -276,4 +272,3 @@ Ce modèle a été présenté en première mondiale le 18.06.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

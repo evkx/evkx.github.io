@@ -72,7 +72,6 @@ Den Seres 5 4WD Premium, med dimensioner på 4710 mm i længde, 1930 mm i bredde
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Seres 5 4WD Premium, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/50 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
@@ -85,7 +84,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Seres 5 4WD Premium inkluderer flere funktioner, der forbedrer komfort og bekvem
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +194,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -214,4 +210,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ The Peugot E-3008, with dimensions of 4542 mm in length, 1895 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Peugot E-3008, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims
 - 235/50 tires on 20" rims
 
@@ -83,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/exterior_1_st.jpg" title="Peugot E-3008" width="3000" height="1666"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ The Peugot E-3008 includes several features to enhance comfort and convenience:
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -241,4 +238,3 @@ This model had a world premiere on 12.09.2023, and deliveries started in Februar
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

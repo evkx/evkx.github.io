@@ -88,13 +88,11 @@ The Automobili Pininfarina Battista is available in a total of 5 paint colors, i
 
 You can select from multiple wheel designs, all available in the same size, on the Automobili Pininfarina Battista, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 275/35 tires on 20" rims front and 315/35 tires on 20" rims rear
 
 There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ The Automobili Pininfarina Battista includes several features to enhance comfort
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -210,4 +206,3 @@ This model had a world premiere on 01.07.2023, and deliveries started in October
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

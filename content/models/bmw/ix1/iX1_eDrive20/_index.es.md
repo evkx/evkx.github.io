@@ -74,7 +74,6 @@ El BMW iX1 eDrive20, con dimensiones de 4500 mm de longitud, 1845 mm de anchura 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW iX1 eDrive20, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 205/65 en llantas de 17
 - Neumáticos 255/60 en llantas de 18
 - Neumáticos 205/55 en llantas de 19
@@ -88,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -151,7 +149,6 @@ El BMW iX1 eDrive20 incluye varias características para mejorar la comodidad y 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -226,7 +223,6 @@ Con el sistema Driving Assistant Professional  de nivel 2, obtienes las siguient
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -243,4 +239,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

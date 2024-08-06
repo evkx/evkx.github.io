@@ -73,7 +73,6 @@ El HiPhi Y Performance, con dimensiones de 4938 mm de longitud, 1958 mm de anchu
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el HiPhi Y Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 275/40 en llantas de 21
 
 El auto tiene dos [puertas regulares](../../../../technology/doors/) en el frente, una combinación única de puertas regulares con un techo de ala de gaviota en el segunda fila, y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -83,7 +82,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un vidrio panorám
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ El HiPhi Y Performance incluye varias características para mejorar la comodidad
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -233,4 +229,3 @@ Este modelo tuvo un estreno mundial el 18.04.2023 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

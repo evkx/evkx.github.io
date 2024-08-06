@@ -102,7 +102,6 @@ The black optics design package is an option. This package includes a black sing
 
 You can select from multiple wheel options in different sizes on the Audi e-tron 50 Sportback, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/55 tires on 19" rims
 - 255/50 tires on 20" rims
 - 265/45 tires on 21" rims
@@ -116,7 +115,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/exterior_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +219,6 @@ The Audi e-tron 50 Sportback includes several features to enhance comfort and co
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -337,4 +334,3 @@ This model had a world premiere on 19.11.2019, and deliveries started in May 202
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

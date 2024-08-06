@@ -70,7 +70,6 @@ MG Cyberster AWD Long Range finns i totalt 7 lackfärger, inklusive flera iögon
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG Cyberster AWD Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 245/45 däck på 19" fälgar fram och 275/40 däck på 19" fälgar bak
 
 Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom.
@@ -78,7 +77,6 @@ Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](..
 Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp som kan slås ned.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -119,7 +117,6 @@ MG Cyberster AWD Long Range inkluderar flera funktioner för att förbättra kom
 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -181,7 +178,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -202,4 +198,3 @@ Denna modell hade världspremiär 13.07.2023 och leveranserna startade i Decembe
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

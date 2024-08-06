@@ -76,7 +76,6 @@ The Tesla Model S Standard Range, with dimensions of 5021 mm in length, 1987 mm 
 
 You can select from multiple wheel options in different sizes on the Tesla Model S Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
@@ -89,7 +88,6 @@ There is only one roof for this model. The standard roof includes a large panora
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/exterior_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ The Tesla Model S Standard Range includes several features to enhance comfort an
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -239,4 +235,3 @@ This model had a world premiere on 20.08.2023, and deliveries started in Septemb
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

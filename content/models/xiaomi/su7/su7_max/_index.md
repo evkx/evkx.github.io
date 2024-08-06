@@ -74,7 +74,6 @@ The Xiaomi SU7 Max, with dimensions of 4997 mm in length, 1963 mm in width, and 
 
 You can select from multiple wheel options in different sizes on the Xiaomi SU7 Max, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/35 tires on 21" rims front and 265/35 tires on 21" rims rear
@@ -88,7 +87,6 @@ There is only one roof for this model. The standard roof includes a large panora
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/exterior_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ The Xiaomi SU7 Max includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ This model had a world premiere on 28.12.2023, and deliveries started in March 2
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

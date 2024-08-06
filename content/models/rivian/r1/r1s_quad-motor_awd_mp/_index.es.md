@@ -87,7 +87,6 @@ El Rivian R1S Quad-Motor AWD MP, con dimensiones de 5100 mm de longitud,  mm de 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Rivian R1S Quad-Motor AWD MP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 275/65 en llantas de 20" delanteras y neumáticos 275/65 en llantas de 20" traseras
 - Neumáticos 275/50 en llantas de 22
 
@@ -100,7 +99,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -160,7 +158,6 @@ El Rivian R1S Quad-Motor AWD MP incluye varias características para mejorar la 
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -257,4 +254,3 @@ Este modelo tuvo un estreno mundial el 06.06.2024 y las entregas comenzaron en A
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

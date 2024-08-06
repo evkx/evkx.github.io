@@ -94,7 +94,6 @@ The Nio EL8, with dimensions of 5099 mm in length, 1989 mm in width, and 1750 mm
 
 You can select from multiple wheel options in different sizes on the Nio EL8, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/50 tires on 20" rims
 - 265/45 tires on 21" rims
 
@@ -105,7 +104,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -176,7 +174,6 @@ The Nio EL8 includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -277,4 +274,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

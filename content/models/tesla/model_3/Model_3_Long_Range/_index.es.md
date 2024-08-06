@@ -76,7 +76,6 @@ El Tesla Model 3 Long Range, con dimensiones de 4694 mm de longitud, 1849 mm de 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model 3 Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 18
 - Neumáticos 255/45 en llantas de 19
 
@@ -89,7 +88,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ El Tesla Model 3 Long Range incluye varias características para mejorar la como
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -252,4 +249,3 @@ Este modelo tuvo un estreno mundial el 01.10.2023 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -71,7 +71,6 @@ The Jaguar I-Pace EV400, with dimensions of 4682 mm in length, 2011 mm in width,
 
 You can select from multiple wheel options in different sizes on the Jaguar I-Pace EV400, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/65 tires on 18" rims
 - 245/55 tires on 19" rims
 - 245/50 tires on 20" rims
@@ -86,7 +85,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ The Jaguar I-Pace EV400 includes several features to enhance comfort and conveni
 
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -228,8 +225,6 @@ The Jaguar I-Pace EV400 includes several standard and optional [advanced driver 
 
 With the standard system the model offers no driving automation.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -250,4 +245,3 @@ This model had a world premiere on 01.03.2018, and deliveries started in October
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

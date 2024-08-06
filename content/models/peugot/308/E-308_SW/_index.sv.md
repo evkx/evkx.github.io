@@ -68,7 +68,6 @@ Peugot E-308 SW, med dimensioner på 4636 mm i längd, 1859 mm i bredd och 1442 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Peugot E-308 SW, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 215/45 däck på 18" fälgar fram och 215/45 däck på 18" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
@@ -78,7 +77,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Peugot E-308 SW inkluderar flera funktioner för att förbättra komfort och bek
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -216,4 +212,3 @@ Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

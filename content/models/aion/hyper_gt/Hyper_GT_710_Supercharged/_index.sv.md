@@ -67,17 +67,15 @@ Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i längd, 1885 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Aion Hyper GT 710 Supercharged, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/55 tires on 17" rims
-- 235/50 tires on 18" rims
-- 235/45 tires on 19" rims
+- 235/55 däck på 17" fälgar
+- 235/50 däck på 18" fälgar
+- 235/45 däck på 19" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ Aion Hyper GT 710 Supercharged inkluderar flera funktioner för att förbättra 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -186,7 +183,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -205,4 +201,3 @@ Denna modell hade världspremiär 31.12.2022 och leveranserna startade i October
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -67,9 +67,8 @@ XPENG G3i, med dimensioner på 4495 mm i längd, 1820 mm i bredd och 1610 mm i h
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på XPENG G3i, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/55 tires on 17" rims
-- 215/55 tires on 18" rims
+- 215/55 däck på 17" fälgar
+- 215/55 däck på 18" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -78,7 +77,6 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 Det finns bara ett tak för denna modell.
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -120,8 +118,6 @@ Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Det
 ## Komfortfunktioner
 
 XPENG G3i inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -172,7 +168,6 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -189,4 +184,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

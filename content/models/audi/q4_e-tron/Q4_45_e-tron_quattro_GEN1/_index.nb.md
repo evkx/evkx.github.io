@@ -54,7 +54,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1766"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivverk
@@ -89,7 +88,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q4 45 e-tron quattro (GEN1), slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
@@ -103,7 +101,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +164,6 @@ Audi Q4 45 e-tron quattro (GEN1) inkluderer flere funksjoner for å forbedre kom
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -257,7 +253,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -280,4 +275,3 @@ Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i Januar
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

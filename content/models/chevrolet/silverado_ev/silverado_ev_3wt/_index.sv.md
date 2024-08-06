@@ -72,15 +72,13 @@ Chevrolet Silverado EV 3WT finns i totalt 1 lackfärger, inklusive flera iögonf
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Chevrolet Silverado EV 3WT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/70 tires on 18" rims
+- 265/70 däck på 18" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
 Det finns bara ett tak för denna modell.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Chevrolet Silverado EV 3WT inkluderar flera funktioner för att förbättra komf
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomat
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -218,4 +214,3 @@ Denna modell hade världspremiär 05.01.2022 och leveranserna startade i Septemb
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

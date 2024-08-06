@@ -78,7 +78,6 @@ Citroën ë-C3, med dimensjoner på 4015 mm i lengde, 1755 mm i bredde og 1577 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Citroën ë-C3, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 205/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 
@@ -91,7 +90,6 @@ Det er bare ett tak for denne modellen.
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 Citroën ë-C3 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -243,4 +240,3 @@ Denne modellen hadde verdenspremiere 17.10.2023, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Lucid Gravity Dream Edition, med dimensjoner på 5034 mm i lengde, 1999 mm i bre
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Gravity Dream Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/45 dekk på 20" felger
 - 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
 - 265/40 dekk på 22" felger foran og 285/40 dekk på 22" felger bak
@@ -89,7 +88,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ Lucid Gravity Dream Edition inkluderer flere funksjoner for å forbedre komfort 
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -218,7 +215,6 @@ Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -241,4 +237,3 @@ Denne modellen hadde verdenspremiere 16.11.2023, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

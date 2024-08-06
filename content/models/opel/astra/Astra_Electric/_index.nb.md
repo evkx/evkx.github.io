@@ -70,7 +70,6 @@ Opel Astra Electric, med dimensjoner på 4374 mm i lengde, 1860 mm i bredde og 1
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Opel Astra Electric, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/45 dekk på 18" felger foran og 215/45 dekk på 18" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/exterior_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ Opel Astra Electric inkluderer flere funksjoner for å forbedre komfort og bekve
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +196,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -222,4 +218,3 @@ Denne modellen hadde verdenspremiere 06.07.2023, og leveringene startet i Novemb
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

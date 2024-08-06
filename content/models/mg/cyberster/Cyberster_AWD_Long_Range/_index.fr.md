@@ -70,7 +70,6 @@ La MG Cyberster AWD Long Range est disponible en un total de 7 couleurs de peint
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG Cyberster AWD Long Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 19" à l'avant et pneus 275/40 sur jantes de 19" à l'arrière
 
 La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière.
@@ -78,7 +77,6 @@ La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couverc
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple qui peut être rabattue.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -119,7 +117,6 @@ L'MG Cyberster AWD Long Range comprend plusieurs fonctionnalités pour améliore
 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -181,7 +178,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -202,4 +198,3 @@ Ce modèle a été présenté en première mondiale le 13.07.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

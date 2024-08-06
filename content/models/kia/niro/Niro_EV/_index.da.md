@@ -72,7 +72,6 @@ Den Kia Niro EV, med dimensioner på 4420 mm i længde, 1825 mm i bredde og 1545
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Kia Niro EV, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
@@ -85,7 +84,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/exterior_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 Kia Niro EV inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -211,7 +208,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -231,4 +227,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -81,7 +81,6 @@ El Maserati GranCabrio Folgore está disponible en un total de 8 colores de pint
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Maserati GranCabrio Folgore, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/50 en llantas de 19
 - Neumáticos 255/45 en llantas de 20" delanteras y neumáticos 295/40 en llantas de 20" traseras
 - Neumáticos 255/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
@@ -95,7 +94,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,7 +147,6 @@ El Maserati GranCabrio Folgore incluye varias características para mejorar la c
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,4 +248,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

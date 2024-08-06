@@ -76,7 +76,6 @@ HiPhi X 4 Seater, med dimensjoner på 5200 mm i lengde,  mm i bredde og 1618 mm 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på HiPhi X 4 Seater, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/45 dekk på 22" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av selvmordsdører med måketak på andre rad, og en [liftgate](../../../../technology/doors/#liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
@@ -86,7 +85,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over fø
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" width="1959" height="1102"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ HiPhi X 4 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +214,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -235,4 +231,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

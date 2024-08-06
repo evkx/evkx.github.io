@@ -70,7 +70,6 @@ Lexus RZ 450e, med dimensjoner på 4805 mm i lengde, 1860 mm i bredde og 1635 mm
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lexus RZ 450e, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/60 dekk på 18" felger foran og 255/55 dekk på 18" felger bak
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 
@@ -83,7 +82,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 Lexus RZ 450e inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -228,4 +224,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -78,8 +78,7 @@ VinFast VF8 Plus, med dimensioner på 4750 mm i längd, 1934 mm i bredd och 1667
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på VinFast VF8 Plus, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/45 tires on 20" rims
+- 245/45 däck på 20" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -88,7 +87,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +141,6 @@ VinFast VF8 Plus inkluderar flera funktioner för att förbättra komfort och be
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

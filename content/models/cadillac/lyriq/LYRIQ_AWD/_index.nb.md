@@ -78,7 +78,6 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/exterior_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -128,7 +127,6 @@ Cadillac LYRIQ AWD inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -213,4 +210,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

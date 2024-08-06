@@ -68,7 +68,6 @@ Citroën ë-C4 X, med dimensjoner på 4118 mm i lengde, 1802 mm i bredde og 1534
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Citroën ë-C4 X, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/60 dekk på 17" felger
 - 215/55 dekk på 18" felger
 
@@ -81,7 +80,6 @@ Det er bare ett tak for denne modellen.
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ Citroën ë-C4 X inkluderer flere funksjoner for å forbedre komfort og bekvemme
 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +177,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -197,4 +193,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

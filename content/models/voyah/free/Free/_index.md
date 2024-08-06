@@ -70,7 +70,6 @@ The VOYAH FREE, with dimensions of 4905 mm in length, 1950 mm in width, and 1645
 
 You can select from multiple wheel designs, all available in the same size, on the VOYAH FREE, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ There is only one roof for this model. The standard roof has a large panoramic e
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 The VOYAH FREE includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -201,4 +197,3 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

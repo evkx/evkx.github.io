@@ -76,7 +76,6 @@ El HiPhi X 6 Seater, con dimensiones de 5200 mm de longitud,  mm de anchura y 16
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el HiPhi X 6 Seater, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/45 en llantas de 22
 
 El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente, una combinación única de puertas suicidas con un techo de ala de gaviota en el segunda fila y una [puerta levadiza](../../../../technology/doors/#liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -86,7 +85,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un vidrio panorám
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ El HiPhi X 6 Seater incluye varias características para mejorar la comodidad y 
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -239,4 +235,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,7 +72,6 @@ The Rolls-Royce Spectre, with dimensions of 5475 mm in length, 2017 mm in width,
 
 You can select from multiple wheel designs, all available in the same size, on the Rolls-Royce Spectre, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 23" rims front and 275/40 tires on 23" rims rear
 
 The car has two [suicide doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Soft close is a standard function for the side doors. Powered doors are a standard function for the side doors.
@@ -82,7 +81,6 @@ There is only one roof for this model. The standard is just a regular roof.
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ The Rolls-Royce Spectre includes several features to enhance comfort and conveni
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -242,4 +238,3 @@ This model had a world premiere on 18.10.2022, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

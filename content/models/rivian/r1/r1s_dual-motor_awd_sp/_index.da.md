@@ -80,7 +80,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/exterior_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -139,7 +138,6 @@ Rivian R1S Dual-Motor AWD SP inkluderer flere funktioner, der forbedrer komfort 
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +207,6 @@ Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatiser
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -230,4 +227,3 @@ Denne model havde verdenspremiere den 06.06.2024, og leveringerne startede i Aug
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

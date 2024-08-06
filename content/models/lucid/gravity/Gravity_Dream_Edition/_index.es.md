@@ -76,7 +76,6 @@ El Lucid Gravity Dream Edition, con dimensiones de 5034 mm de longitud, 1999 mm 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lucid Gravity Dream Edition, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/45 en llantas de 20
 - Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 285/40 en llantas de 22" traseras
@@ -89,7 +88,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Sólo hay un techo para este modelo. El parabrisas es panorámico cubriendo la primera fila. Además, hay un panel de vidrio sobre la segunda fila. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ El Lucid Gravity Dream Edition incluye varias características para mejorar la c
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -218,7 +215,6 @@ Con el sistema ADAS  de nivel 2, obtienes las siguientes funciones de automatiza
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -241,4 +237,3 @@ Este modelo tuvo un estreno mundial el 16.11.2023 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -68,13 +68,11 @@ El Neta GT 580 AWD, con dimensiones de 4715 mm de longitud, 1979 mm de anchura y
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Neta GT 580 AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/45 en llantas de 19
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -118,7 +116,6 @@ El Neta GT 580 AWD incluye varias características para mejorar la comodidad y c
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -203,4 +199,3 @@ Este modelo tuvo un estreno mundial el 13.07.2023 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

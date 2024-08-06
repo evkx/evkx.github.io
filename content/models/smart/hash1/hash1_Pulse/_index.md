@@ -74,7 +74,6 @@ The Smart #1 Pulse, with dimensions of 4300 mm in length, 1822 mm in width, and 
 
 You can select from multiple wheel designs, all available in the same size, on the Smart #1 Pulse, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/40 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -82,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/exterior_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2246"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ The Smart #1 Pulse includes several features to enhance comfort and convenience:
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +196,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -220,4 +216,3 @@ This model had a world premiere on 07.04.2022, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

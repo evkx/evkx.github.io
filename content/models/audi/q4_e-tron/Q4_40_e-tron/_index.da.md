@@ -54,7 +54,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/battery_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1766"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -89,7 +88,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi Q4 40 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
@@ -103,7 +101,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/exterior_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +164,6 @@ Audi Q4 40 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemme
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -257,7 +253,6 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til k
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -280,4 +275,3 @@ Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i Jan
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

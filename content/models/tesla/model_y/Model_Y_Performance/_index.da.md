@@ -76,7 +76,6 @@ Den Tesla Model Y Performance, med dimensioner på 4751 mm i længde, 1921 mm i 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model Y Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk on 19" fælge
 - 255/40 dæk on 20" fælge
 - 255/35 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bagpå
@@ -90,7 +89,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/exterior_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2455"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Tesla Model Y Performance inkluderer flere funktioner, der forbedrer komfort og 
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i Mar
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

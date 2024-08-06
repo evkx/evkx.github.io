@@ -50,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -75,7 +74,6 @@ The Li Auto MEGA is available in a total of 4 paint colors, including several st
 
 You can select from multiple wheel designs, all available in the same size, on the Li Auto MEGA, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/60 tires on 18" rims
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
@@ -85,7 +83,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -158,7 +155,6 @@ The Li Auto MEGA includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -261,4 +257,3 @@ This model had a world premiere on 01.03.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

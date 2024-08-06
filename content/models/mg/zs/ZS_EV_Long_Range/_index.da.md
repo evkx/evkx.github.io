@@ -72,7 +72,6 @@ Den MG ZS EV Long Range, med dimensioner på 4323 mm i længde, 1809 mm i bredde
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG ZS EV Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/55 dæk on 17" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -82,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ MG ZS EV Long Range inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -221,4 +217,3 @@ Denne model havde verdenspremiere den 07.10.2021, og leveringerne startede i Jan
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

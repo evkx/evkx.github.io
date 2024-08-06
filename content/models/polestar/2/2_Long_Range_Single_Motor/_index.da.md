@@ -72,7 +72,6 @@ Den Polestar 2 Long Range Single Motor, med dimensioner på 4606 mm i længde, 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Polestar 2 Long Range Single Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/45 dæk on 19" fælge
 - 245/40 dæk on 20" fælge
 
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Single Motor" width="2953" height="2215"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ Polestar 2 Long Range Single Motor inkluderer flere funktioner, der forbedrer ko
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -221,4 +217,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

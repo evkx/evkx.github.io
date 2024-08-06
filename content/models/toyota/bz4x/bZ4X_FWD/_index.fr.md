@@ -75,7 +75,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -119,7 +118,6 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 L'Toyota bZ4X FWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -215,4 +212,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

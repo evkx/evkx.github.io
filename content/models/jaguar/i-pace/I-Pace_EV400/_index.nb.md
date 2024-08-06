@@ -71,7 +71,6 @@ Jaguar I-Pace EV400, med dimensjoner på 4682 mm i lengde, 2011 mm i bredde og 1
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Jaguar I-Pace EV400, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/65 dekk på 18" felger
 - 245/55 dekk på 19" felger
 - 245/50 dekk på 20" felger
@@ -86,7 +85,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Jaguar I-Pace EV400 inkluderer flere funksjoner for å forbedre komfort og bekve
 
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -228,8 +225,6 @@ Jaguar I-Pace EV400 inkluderer flere [avanserte førerassistanse systemer](../..
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -250,4 +245,3 @@ Denne modellen hadde verdenspremiere 01.03.2018, og leveringene startet i Octobe
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

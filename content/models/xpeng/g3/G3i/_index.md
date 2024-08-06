@@ -67,7 +67,6 @@ The XPENG G3i, with dimensions of 4495 mm in length, 1820 mm in width, and 1610 
 
 You can select from multiple wheel options in different sizes on the XPENG G3i, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/55 tires on 17" rims
 - 215/55 tires on 18" rims
 
@@ -78,7 +77,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -120,8 +118,6 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 ## Comfort features
 
 The XPENG G3i includes several features to enhance comfort and convenience:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -172,7 +168,6 @@ With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -189,4 +184,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

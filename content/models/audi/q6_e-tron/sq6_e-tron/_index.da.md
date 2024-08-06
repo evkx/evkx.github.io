@@ -98,7 +98,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi SQ6 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/60 dæk på 19" fælge foran og 255/55 dæk på 19" fælge bagpå
 - 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
 - 255/45 dæk på 21" fælge foran og 285/40 dæk på 21" fælge bagpå
@@ -112,7 +111,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/exterior_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,7 +173,6 @@ Audi SQ6 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -308,4 +305,3 @@ Denne model havde verdenspremiere den 18.03.2024, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

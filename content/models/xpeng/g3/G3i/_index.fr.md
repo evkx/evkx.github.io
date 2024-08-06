@@ -67,7 +67,6 @@ La XPENG G3i, avec des dimensions de 4495 mm de longueur, 1820 mm de largeur et 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'XPENG G3i, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 215/55 sur jantes de 17"
 - Pneus 215/55 sur jantes de 18"
 
@@ -78,7 +77,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 Il n'y a qu'un seul toit pour ce modèle.
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -120,8 +118,6 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 ## Caractéristiques de confort
 
 L'XPENG G3i comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -172,7 +168,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -189,4 +184,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

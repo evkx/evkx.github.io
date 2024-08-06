@@ -70,7 +70,6 @@ Den VOYAH FREE, med dimensioner på 4905 mm i længde, 1950 mm i bredde og 1645 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på VOYAH FREE, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ Der er kun ét tag til denne model. Standardtaget har en stor panoramaudsigt, de
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 VOYAH FREE inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -201,4 +197,3 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -69,7 +69,6 @@ Det er bare ett tak for denne modellen.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -97,8 +96,6 @@ Det er ett tilgjengelig klimasystem.
 ## Komfortfunksjoner
 
 Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,8 +138,6 @@ Honda e:Ny1 inkluderer flere [avanserte førerassistanse systemer](../../../../t
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -162,4 +157,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

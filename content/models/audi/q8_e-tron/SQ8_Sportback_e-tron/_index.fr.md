@@ -88,7 +88,6 @@ La Audi SQ8 Sportback e-tron, avec des dimensions de 4901 mm de longueur, 1935 m
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi SQ8 Sportback e-tron, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 285/45 sur jantes de 20"
 - Pneus 285/40 sur jantes de 21"
 
@@ -101,7 +100,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -182,7 +180,6 @@ L'Audi SQ8 Sportback e-tron comprend plusieurs fonctionnalités pour améliorer 
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -298,4 +295,3 @@ Ce modèle a été présenté en première mondiale le 09.11.2022 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -98,7 +98,6 @@ The black optics design package is an option. This package includes a black sing
 
 You can select from multiple wheel options in different sizes on the Audi Q8 e-tron edition Dakar, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/60 tires on 18" rims
 - 255/55 tires on 19" rims
 
@@ -111,7 +110,6 @@ There are two different roof options to select from. The standard is just a regu
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +214,6 @@ The Audi Q8 e-tron edition Dakar includes several features to enhance comfort an
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -331,4 +328,3 @@ This model had a world premiere on 03.01.2024, and deliveries started in May 202
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

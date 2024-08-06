@@ -92,7 +92,6 @@ Nio ET5 Touring, med dimensjoner på 4790 mm i lengde, 1960 mm i bredde og 1499 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio ET5 Touring, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/50 dekk på 20" felger
 - 255/45 dekk på 21" felger
 
@@ -105,7 +104,6 @@ Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -161,7 +159,6 @@ Nio ET5 Touring inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -234,7 +231,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ekstra kjøreautomatiserin
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -254,4 +250,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

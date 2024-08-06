@@ -72,9 +72,8 @@ Ford Mustang Mach-E Long Range RWD, med dimensioner på 4713 mm i längd, 1881 m
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Mustang Mach-E Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 225/60 tires on 18" rims
-- 225/60 tires on 19" rims
+- 225/60 däck på 18" fälgar
+- 225/60 däck på 19" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -83,7 +82,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och den åkandes komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Ford Mustang Mach-E Long Range RWD inkluderar flera funktioner för att förbät
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -210,7 +207,6 @@ Med Ford BlueCruise  nivå 2-systemet får du följande funktioner för körauto
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -230,4 +226,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -92,7 +92,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi S6 Sportback e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/45 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/40 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bagpå
 
@@ -105,7 +104,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/exterior_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Audi S6 Sportback e-tron inkluderer flere funktioner, der forbedrer komfort og b
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -298,4 +295,3 @@ Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

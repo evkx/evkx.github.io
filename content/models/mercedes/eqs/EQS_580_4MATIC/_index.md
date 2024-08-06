@@ -81,7 +81,6 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQS 580 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims
 - 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 - 265/40 tires on 20" rims front and 295/35 tires on 20" rims rear
@@ -94,7 +93,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -175,7 +173,6 @@ The Mercedes-EQ EQS 580 4MATIC includes several features to enhance comfort and 
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -263,7 +260,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -286,4 +282,3 @@ This model had a world premiere on 10.04.2024, and deliveries started in Septemb
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

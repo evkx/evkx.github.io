@@ -50,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivverk
@@ -75,7 +74,6 @@ Li Auto MEGA er tilgjengelig i totalt 4 lakkfarger, inkludert flere iøynefallen
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Li Auto MEGA, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/60 dekk på 18" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
@@ -85,7 +83,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -158,7 +155,6 @@ Li Auto MEGA inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -261,4 +257,3 @@ Denne modellen hadde verdenspremiere 01.03.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

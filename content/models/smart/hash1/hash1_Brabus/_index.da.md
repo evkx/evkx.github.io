@@ -72,7 +72,6 @@ Den Smart #1 Brabus, med dimensioner på 4300 mm i længde, 1822 mm i bredde og 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Smart #1 Brabus, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/40 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
@@ -80,7 +79,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/exterior_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2049"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Smart #1 Brabus inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -203,7 +200,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -226,4 +222,3 @@ Denne model havde verdenspremiere den 07.04.2022, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

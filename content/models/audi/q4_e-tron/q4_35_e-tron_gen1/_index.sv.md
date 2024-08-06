@@ -48,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/battery_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="1766"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -83,7 +82,6 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q4 35 e-tron (GEN1), vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
@@ -97,7 +95,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/exterior_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -161,7 +158,6 @@ Audi Q4 35 e-tron (GEN1) inkluderar flera funktioner för att förbättra komfor
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,7 +247,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -274,4 +269,3 @@ Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

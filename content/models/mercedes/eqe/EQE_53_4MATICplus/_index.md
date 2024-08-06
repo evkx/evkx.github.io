@@ -84,7 +84,6 @@ The optional AMG Night Package finishes selected exterior elements in high-gloss
 
 You can select from multiple wheel options in different sizes on the Mercedes-AMG EQE 53 4MATIC+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/40 tires on 20" rims front and 295/35 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
@@ -164,7 +163,6 @@ The Mercedes-AMG EQE 53 4MATIC+ includes several features to enhance comfort and
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -260,7 +258,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -280,4 +277,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

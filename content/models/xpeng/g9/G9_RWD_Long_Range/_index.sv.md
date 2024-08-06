@@ -80,7 +80,6 @@ B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/exterior_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -140,7 +139,6 @@ XPENG G9 RWD Long Range inkluderar flera funktioner för att förbättra komfort
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +206,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -228,4 +225,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

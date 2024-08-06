@@ -74,7 +74,6 @@ El Xiaomi SU7 Pro, con dimensiones de 4997 mm de longitud,  mm de anchura y 1455
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Xiaomi SU7 Pro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 245/45 en llantas de 19
 - Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 245/35 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
@@ -88,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ El Xiaomi SU7 Pro incluye varias características para mejorar la comodidad y co
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Este modelo tuvo un estreno mundial el 28.12.2023 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

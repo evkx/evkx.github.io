@@ -80,7 +80,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -140,7 +139,6 @@ XPENG G9 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +206,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -228,4 +225,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

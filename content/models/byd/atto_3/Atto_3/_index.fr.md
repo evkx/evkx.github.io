@@ -76,7 +76,6 @@ La BYD Atto 3, avec des dimensions de 4455 mm de longueur, 1875 mm de largeur et
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Atto 3, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/50 sur jantes de 18"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
@@ -86,7 +85,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ L'BYD Atto 3 comprend plusieurs fonctionnalités pour améliorer le confort et l
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'au
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -238,4 +234,3 @@ Le poids maximum du véhicule est de 2160 kg, avec un poids de base de 1750 kg. 
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

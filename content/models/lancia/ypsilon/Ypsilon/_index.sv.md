@@ -70,7 +70,6 @@ Lancia Ypsilon, med dimensioner på 4080 mm i längd, 1760 mm i bredd och 1440 m
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Lancia Ypsilon, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 215/45 däck på 18" fälgar fram och 215/45 däck på 18" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/exterior_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Lancia Ypsilon inkluderar flera funktioner för att förbättra komfort och bekv
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +196,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -222,4 +218,3 @@ Denna modell hade världspremiär 14.02.2024 och leveranserna startade i June 20
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

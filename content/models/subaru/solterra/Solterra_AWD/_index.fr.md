@@ -75,7 +75,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/exterior_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -121,7 +120,6 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 L'Subaru Solterra AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +197,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -219,4 +216,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

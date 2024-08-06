@@ -76,9 +76,8 @@ Tesla Model Y Performance, med dimensioner på 4751 mm i längd, 1921 mm i bredd
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model Y Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 19" rims
-- 255/40 tires on 20" rims
+- 255/45 däck på 19" fälgar
+- 255/40 däck på 20" fälgar
 - 255/35 däck på 21" fälgar fram och 275/35 däck på 21" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
@@ -90,7 +89,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/exterior_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2455"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Tesla Model Y Performance inkluderar flera funktioner för att förbättra komfo
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

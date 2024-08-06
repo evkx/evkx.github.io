@@ -68,13 +68,11 @@ Den Neta GT 580 AWD, med dimensioner på 4715 mm i længde, 1979 mm i bredde og 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Neta GT 580 AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/45 dæk on 19" fælge
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -118,7 +116,6 @@ Neta GT 580 AWD inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -203,4 +199,3 @@ Denne model havde verdenspremiere den 13.07.2023, og leveringerne startede i Dec
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

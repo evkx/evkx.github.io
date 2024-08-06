@@ -72,7 +72,6 @@ The Volkswagen ID. Buzz GTX is available in a total of 12 paint colors, includin
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID. Buzz GTX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 265/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -86,7 +85,6 @@ There is only one roof for this model. The standard is just a regular roof.
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ The Volkswagen ID. Buzz GTX includes several features to enhance comfort and con
 - **Keyless go:** Enables starting the car without using the key.
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -240,7 +237,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -260,4 +256,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

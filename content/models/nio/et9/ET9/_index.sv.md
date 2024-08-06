@@ -80,15 +80,13 @@ Nio ET9, med dimensioner på 5325 mm i längd, 2016 mm i bredd och 1620 mm i hö
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Nio ET9, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/40 tires on 23" rims
+- 265/40 däck på 23" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/exterior_1_st.jpg" title="Nio ET9" width="1680" height="1000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ Nio ET9 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -222,7 +219,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ytterligare funktioner fö
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -243,4 +239,3 @@ Denna modell hade världspremiär 23.12.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

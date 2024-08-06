@@ -82,7 +82,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi e-tron GT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 225/55 dekk på 19" felger foran og 275/45 dekk på 19" felger bak
 - 245/45 dekk på 20" felger foran og 285/40 dekk på 20" felger bak
 - 265/35 dekk på 21" felger foran og 305/30 dekk på 21" felger bak
@@ -96,7 +95,6 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket inkluderer
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -164,7 +162,6 @@ Audi e-tron GT inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,7 +246,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -272,4 +268,3 @@ Denne modellen hadde verdenspremiere 09.02.2021, og leveringene startet i May 20
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

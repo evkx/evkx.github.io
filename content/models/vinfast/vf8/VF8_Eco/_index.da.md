@@ -78,7 +78,6 @@ Den VinFast VF8 Eco, med dimensioner på 4750 mm i længde, 1934 mm i bredde og 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på VinFast VF8 Eco, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/50 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -88,7 +87,6 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ VinFast VF8 Eco inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -229,4 +226,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

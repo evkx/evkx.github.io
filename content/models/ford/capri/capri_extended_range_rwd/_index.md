@@ -76,7 +76,6 @@ The Ford Capri Extended Range RWD, with dimensions of 4634 mm in length, 1872 mm
 
 You can select from multiple wheel options in different sizes on the Ford Capri Extended Range RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -90,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/exterior_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +142,6 @@ The Ford Capri Extended Range RWD includes several features to enhance comfort a
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -226,7 +223,6 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -249,4 +245,3 @@ This model had a world premiere on 11.07.2024, and deliveries started in Novembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

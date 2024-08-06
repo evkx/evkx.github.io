@@ -76,7 +76,6 @@ The Volvo XC40 Recharge Single Motor, with dimensions of 4425 mm in length, 1873
 
 You can select from multiple wheel options in different sizes on the Volvo XC40 Recharge Single Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/50 tires on 19" rims
 - 235/45 tires on 20" rims
 
@@ -87,7 +86,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There are two different roof options to select from. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ The Volvo XC40 Recharge Single Motor includes several features to enhance comfor
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -221,4 +217,3 @@ This model had a world premiere on 18.05.2022, and deliveries started in August 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -80,7 +80,6 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Macan 4S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/55 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
 - 245/45 däck på 21" fälgar fram och 295/40 däck på 21" fälgar bak
 - 255/40 däck på 22" fälgar fram och 295/35 däck på 22" fälgar bak
@@ -94,7 +93,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Porsche Macan 4S inkluderar flera funktioner för att förbättra komfort och be
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -254,7 +251,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för kör
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -277,4 +273,3 @@ Denna modell hade världspremiär 16.07.2024 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

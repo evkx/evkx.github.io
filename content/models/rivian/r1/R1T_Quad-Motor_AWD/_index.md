@@ -83,7 +83,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -136,7 +135,6 @@ The Rivian R1T Quad-Motor AWD includes several features to enhance comfort and c
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -206,7 +204,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -229,4 +226,3 @@ This model had a world premiere on 26.11.2018, and deliveries started in Septemb
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Opel Frontera, med dimensjoner på 4385 mm i lengde, 1795 mm i bredde og 1635 mm
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Opel Frontera, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 205/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 
@@ -89,7 +88,6 @@ Det er bare ett tak for denne modellen.
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 Opel Frontera inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Denne modellen hadde verdenspremiere 15.05.2024, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

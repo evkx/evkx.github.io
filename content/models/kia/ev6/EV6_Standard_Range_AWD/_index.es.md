@@ -72,7 +72,6 @@ El Kia EV6 Standard Range AWD, con dimensiones de 4680 mm de longitud, 1880 mm d
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Kia EV6 Standard Range AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 255/45 en llantas de 20
 
@@ -85,7 +84,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/exterior_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2017"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 El Kia EV6 Standard Range AWD incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -215,7 +212,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -235,4 +231,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

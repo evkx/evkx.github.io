@@ -80,7 +80,6 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Porsche Macan 4S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/55 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 20" à l'arrière
 - Pneus 245/45 sur jantes de 21" à l'avant et pneus 295/40 sur jantes de 21" à l'arrière
 - Pneus 255/40 sur jantes de 22" à l'avant et pneus 295/35 sur jantes de 22" à l'arrière
@@ -94,7 +93,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ L'Porsche Macan 4S comprend plusieurs fonctionnalités pour améliorer le confor
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -254,7 +251,6 @@ Avec le système Porsche InnoDrive  de niveau 2, vous obtenez des fonctionnalit�
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -277,4 +273,3 @@ Ce modèle a été présenté en première mondiale le 16.07.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

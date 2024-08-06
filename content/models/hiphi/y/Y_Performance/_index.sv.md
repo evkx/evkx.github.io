@@ -73,8 +73,7 @@ HiPhi Y Performance, med dimensioner på 4938 mm i längd, 1958 mm i bredd och 1
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi Y Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 275/40 tires on 21" rims
+- 275/40 däck på 21" fälgar
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av vanliga dörrar med måsvingetak i den andra raden, och en [hatchback-stil baklucka](../../../../technology/doors/#hatcback-style-liftgate) baktill. Elektriska dörrar är standard funktion för sidodörrarna.
 
@@ -83,7 +82,6 @@ Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over f
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ HiPhi Y Performance inkluderar flera funktioner för att förbättra komfort och
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -233,4 +229,3 @@ Denna modell hade världspremiär 18.04.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

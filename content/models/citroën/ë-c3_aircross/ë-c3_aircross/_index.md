@@ -78,7 +78,6 @@ The Citroën ë-C3 Aircross, with dimensions of 4395 mm in length, 1795 mm in wi
 
 You can select from multiple wheel options in different sizes on the Citroën ë-C3 Aircross, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 205/55 tires on 16" rims
 - 205/50 tires on 17" rims
 
@@ -91,7 +90,6 @@ There is only one roof for this model.
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -156,7 +154,6 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 The Citroën ë-C3 Aircross includes several features to enhance comfort and convenience:
 
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -243,4 +240,3 @@ This model had a world premiere on 21.06.2024, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

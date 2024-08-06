@@ -75,7 +75,6 @@ The Mercedes-EQ EQC 400 4MATIC, with dimensions of 4762 mm in length, 1884 mm in
 
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQC 400 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -116,7 +115,6 @@ The Mercedes-EQ EQC 400 4MATIC includes several features to enhance comfort and 
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -190,7 +188,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -210,4 +207,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

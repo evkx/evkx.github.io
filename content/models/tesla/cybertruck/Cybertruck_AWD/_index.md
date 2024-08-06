@@ -54,7 +54,6 @@ This model supports V2L (Vehicle 2 Load), which means you can power electrical e
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -94,7 +93,6 @@ The Tesla Cybertruck AWD is available in a total of 3 solid paint colors.
 
 You can select from multiple wheel designs, all available in the same size, on the Tesla Cybertruck AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 285/65 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
@@ -104,7 +102,6 @@ There is only one roof for this model. The standard roof includes a large panora
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +152,6 @@ The Tesla Cybertruck AWD includes several features to enhance comfort and conven
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,7 +231,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -258,4 +253,3 @@ This model had a world premiere on 30.11.2023, and deliveries started in Novembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -71,11 +71,10 @@ Jaguar I-Pace EV400, med dimensioner på 4682 mm i längd, 2011 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Jaguar I-Pace EV400, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/65 tires on 18" rims
-- 245/55 tires on 19" rims
-- 245/50 tires on 20" rims
-- 255/40 tires on 22" rims
+- 235/65 däck på 18" fälgar
+- 245/55 däck på 19" fälgar
+- 245/50 däck på 20" fälgar
+- 255/40 däck på 22" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -86,7 +85,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Jaguar I-Pace EV400 inkluderar flera funktioner för att förbättra komfort och
 
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -228,8 +225,6 @@ Jaguar I-Pace EV400 inkluderar flera [avancerade förarassistanssystem](../../..
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -250,4 +245,3 @@ Denna modell hade världspremiär 01.03.2018 och leveranserna startade i October
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

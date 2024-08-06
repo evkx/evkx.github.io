@@ -70,7 +70,6 @@ Lexus RZ 450e, med dimensioner på 4805 mm i längd, 1860 mm i bredd och 1635 mm
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lexus RZ 450e, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/60 däck på 18" fälgar fram och 255/55 däck på 18" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 
@@ -83,7 +82,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som til
 Lexus RZ 450e inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +205,6 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -228,4 +224,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

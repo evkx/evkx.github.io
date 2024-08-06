@@ -70,7 +70,6 @@ The MG Cyberster AWD Long Range is available in a total of 7 paint colors, inclu
 
 You can select from multiple wheel designs, all available in the same size, on the MG Cyberster AWD Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
 
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
@@ -78,7 +77,6 @@ The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](.
 There is only one roof for this model. The standard roof is a soft top that can be folded down.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -119,7 +117,6 @@ The MG Cyberster AWD Long Range includes several features to enhance comfort and
 
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -181,7 +178,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -202,4 +198,3 @@ This model had a world premiere on 13.07.2023, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

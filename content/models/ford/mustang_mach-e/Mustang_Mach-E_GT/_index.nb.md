@@ -72,7 +72,6 @@ Ford Mustang Mach-E GT, med dimensjoner på 4713 mm i lengde, 1881 mm i bredde o
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Ford Mustang Mach-E GT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 225/60 dekk på 18" felger
 - 225/60 dekk på 19" felger
 
@@ -83,7 +82,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Ford Mustang Mach-E GT inkluderer flere funksjoner for å forbedre komfort og be
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -210,7 +207,6 @@ Med Ford BlueCruise  nivå 2-systemet får du følgende kjøreautomatiseringsfun
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -230,4 +226,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

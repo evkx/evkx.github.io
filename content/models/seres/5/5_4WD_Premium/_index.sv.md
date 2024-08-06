@@ -72,9 +72,8 @@ Seres 5 4WD Premium, med dimensioner på 4710 mm i längd, 1930 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Seres 5 4WD Premium, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/50 tires on 19" rims
-- 255/45 tires on 20" rims
+- 255/50 däck på 19" fälgar
+- 255/45 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -85,7 +84,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Seres 5 4WD Premium inkluderar flera funktioner för att förbättra komfort och
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,7 +194,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -214,4 +210,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ La Volvo EX30 Twin Motor Performance, avec des dimensions de 4233 mm de longueur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EX30 Twin Motor Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 225/55 sur jantes de 18"
 - Pneus 235/45 sur jantes de 20"
 
@@ -81,7 +80,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ L'Volvo EX30 Twin Motor Performance comprend plusieurs fonctionnalités pour am�
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -229,4 +225,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

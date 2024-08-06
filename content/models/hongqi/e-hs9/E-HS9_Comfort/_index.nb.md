@@ -74,7 +74,6 @@ Hongqi E-HS9 Comfort, med dimensjoner på 5209 mm i lengde, 2010 mm i bredde og 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hongqi E-HS9 Comfort, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/45 dekk på 21" felger
 - 275/40 dekk på 22" felger
 
@@ -85,7 +84,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/exterior_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="1757"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ Hongqi E-HS9 Comfort inkluderer flere funksjoner for å forbedre komfort og bekv
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -213,7 +210,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -230,4 +226,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

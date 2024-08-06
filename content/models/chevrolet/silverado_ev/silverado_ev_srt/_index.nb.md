@@ -72,7 +72,6 @@ Chevrolet Silverado EV SRT er tilgjengelig i totalt 1 lakkfarger, inkludert fler
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Chevrolet Silverado EV SRT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/70 dekk på 18" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
@@ -80,7 +79,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 Det er bare ett tak for denne modellen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ Chevrolet Silverado EV SRT inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -218,4 +214,3 @@ Denne modellen hadde verdenspremiere 05.01.2022, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

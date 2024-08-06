@@ -74,7 +74,6 @@ La Lucid Air Dream Edition Range, avec des dimensions de 4975 mm de longueur, 19
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lucid Air Dream Edition Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 19"
 - Pneus 245/40 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
 - Pneus 245/40 sur jantes de 21" à l'avant et pneus 265/40 sur jantes de 21" à l'arrière
@@ -86,7 +85,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ L'Lucid Air Dream Edition Range comprend plusieurs fonctionnalités pour amélio
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -229,4 +225,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

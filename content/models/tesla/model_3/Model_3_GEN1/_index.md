@@ -84,7 +84,6 @@ The Tesla Model 3 (GEN1), with dimensions of 4694 mm in length, 1849 mm in width
 
 You can select from multiple wheel options in different sizes on the Tesla Model 3 (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 18" rims
 - 255/45 tires on 19" rims
 
@@ -97,7 +96,6 @@ There is only one roof for this model. The standard roof includes a large panora
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/exterior_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ The Tesla Model 3 (GEN1) includes several features to enhance comfort and conven
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ This model had a world premiere on 01.04.2016, and deliveries started in July 20
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,8 +72,7 @@ Zeekr 001 Long Range RWD, med dimensioner på 4955 mm i längd, 1999 mm i bredd 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 001 Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/45 tires on 21" rims
+- 255/45 däck på 21" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -82,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ Zeekr 001 Long Range RWD inkluderar flera funktioner för att förbättra komfor
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -207,7 +204,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -230,4 +226,3 @@ Denna modell hade världspremiär 14.04.2021 och leveranserna startade i October
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

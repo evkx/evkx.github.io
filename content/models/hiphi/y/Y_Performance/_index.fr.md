@@ -73,7 +73,6 @@ La HiPhi Y Performance, avec des dimensions de 4938 mm de longueur, 1958 mm de l
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'HiPhi Y Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 275/40 sur jantes de 21"
 
 La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes régulières avec un toit en aile de mouette sur le deuxième rangée et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -83,7 +82,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'une vitre
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ L'HiPhi Y Performance comprend plusieurs fonctionnalités pour améliorer le con
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -233,4 +229,3 @@ Ce modèle a été présenté en première mondiale le 18.04.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

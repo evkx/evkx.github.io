@@ -80,7 +80,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQS 450 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger
 - 265/40 dekk på 21" felger foran og 295/35 dekk på 21" felger bak
 - 265/40 dekk på 20" felger foran og 295/35 dekk på 20" felger bak
@@ -169,7 +168,6 @@ Mercedes-EQ EQS 450 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -264,7 +262,6 @@ Med DRIVE PILOT  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner
 
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -287,4 +284,3 @@ Denne modellen hadde verdenspremiere 15.04.2021, og leveringene startet i Septem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

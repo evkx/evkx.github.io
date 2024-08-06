@@ -68,7 +68,6 @@ The Peugot E-308, with dimensions of 4367 mm in length, 1852 mm in width, and 14
 
 You can select from multiple wheel options in different sizes on the Peugot E-308, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
@@ -81,7 +80,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +135,6 @@ The Peugot E-308 includes several features to enhance comfort and convenience:
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -200,7 +197,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -223,4 +219,3 @@ This model had a world premiere on 06.07.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

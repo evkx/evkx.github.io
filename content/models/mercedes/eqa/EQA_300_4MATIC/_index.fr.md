@@ -72,7 +72,6 @@ La Mercedes-EQ EQA 300 4MATIC, avec des dimensions de 4463 mm de longueur, 1834 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQA 300 4MATIC, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/55 sur jantes de 18"
 - Pneus 235/50 sur jantes de 19"
 
@@ -83,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ L'Mercedes-EQ EQA 300 4MATIC comprend plusieurs fonctionnalités pour améliorer
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -228,7 +225,6 @@ Avec le système Driver Assistance Package  de niveau 1, vous obtenez les foncti
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -245,4 +241,3 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

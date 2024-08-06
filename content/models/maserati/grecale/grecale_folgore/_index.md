@@ -83,7 +83,6 @@ The Maserati Grecale Folgore, with dimensions of 4865 mm in length, 1948 mm in w
 
 You can select from multiple wheel options in different sizes on the Maserati Grecale Folgore, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 295/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 295/35 tires on 21" rims rear
@@ -97,7 +96,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ The Maserati Grecale Folgore includes several features to enhance comfort and co
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

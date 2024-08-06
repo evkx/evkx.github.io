@@ -81,7 +81,6 @@ The Maserati GranCabrio Folgore is available in a total of 8 paint colors, inclu
 
 You can select from multiple wheel options in different sizes on the Maserati GranCabrio Folgore, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 295/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 295/35 tires on 21" rims rear
@@ -95,7 +94,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,7 +147,6 @@ The Maserati GranCabrio Folgore includes several features to enhance comfort and
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,4 +248,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

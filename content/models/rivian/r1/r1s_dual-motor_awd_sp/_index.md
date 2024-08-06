@@ -80,7 +80,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/exterior_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -139,7 +138,6 @@ The Rivian R1S Dual-Motor AWD SP includes several features to enhance comfort an
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +207,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -230,4 +227,3 @@ This model had a world premiere on 06.06.2024, and deliveries started in August 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

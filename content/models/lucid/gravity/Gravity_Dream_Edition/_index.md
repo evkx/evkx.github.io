@@ -76,7 +76,6 @@ The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm i
 
 You can select from multiple wheel options in different sizes on the Lucid Gravity Dream Edition, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 20" rims
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 285/40 tires on 22" rims rear
@@ -89,7 +88,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ The Lucid Gravity Dream Edition includes several features to enhance comfort and
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -218,7 +215,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -241,4 +237,3 @@ This model had a world premiere on 16.11.2023, and deliveries is expected to sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

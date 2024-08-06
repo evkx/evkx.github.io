@@ -81,7 +81,6 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQS 450 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims
 - 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 - 265/40 tires on 20" rims front and 295/35 tires on 20" rims rear
@@ -170,7 +169,6 @@ The Mercedes-EQ EQS 450 4MATIC includes several features to enhance comfort and 
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -265,7 +263,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -288,4 +285,3 @@ This model had a world premiere on 15.04.2021, and deliveries started in Septemb
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

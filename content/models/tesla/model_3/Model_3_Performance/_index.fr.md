@@ -76,7 +76,6 @@ La Tesla Model 3 Performance, avec des dimensions de 4694 mm de longueur, 1849 m
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model 3 Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/45 sur jantes de 18"
 - Pneus 255/45 sur jantes de 19"
 
@@ -89,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ L'Tesla Model 3 Performance comprend plusieurs fonctionnalités pour améliorer 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ Ce modèle a été présenté en première mondiale le 23.04.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

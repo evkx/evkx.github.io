@@ -92,7 +92,6 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q8 Sportback 55 e-tron, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/55 dekk på 19" felger
 - 255/50 dekk på 20" felger
 - 265/45 dekk på 21" felger
@@ -106,7 +105,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -207,7 +205,6 @@ Audi Q8 Sportback 55 e-tron inkluderer flere funksjoner for å forbedre komfort 
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -317,4 +314,3 @@ Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -67,7 +67,6 @@ Den Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i længde, 1885 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Aion Hyper GT 710 Supercharged, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 17" fælge
 - 235/50 dæk on 18" fælge
 - 235/45 dæk on 19" fælge
@@ -77,7 +76,6 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ Aion Hyper GT 710 Supercharged inkluderer flere funktioner, der forbedrer komfor
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -186,7 +183,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -205,4 +201,3 @@ Denne model havde verdenspremiere den 31.12.2022, og leveringerne startede i Oct
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

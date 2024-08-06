@@ -74,7 +74,6 @@ Den Xiaomi SU7 Pro, med dimensioner på 4997 mm i længde,  mm i bredde og 1455 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Xiaomi SU7 Pro, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 245/45 dæk on 19" fælge
 - 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/35 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
@@ -88,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Xiaomi SU7 Pro inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Denne model havde verdenspremiere den 28.12.2023, og leveringerne startede i Mar
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

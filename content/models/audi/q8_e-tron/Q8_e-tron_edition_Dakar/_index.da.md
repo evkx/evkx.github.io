@@ -94,7 +94,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi Q8 e-tron edition Dakar, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/60 dæk on 18" fælge
 - 255/55 dæk on 19" fælge
 
@@ -107,7 +106,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Ruderne fra B-stolpen og bagsiden er tonede. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +210,6 @@ Audi Q8 e-tron edition Dakar inkluderer flere funktioner, der forbedrer komfort 
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -327,4 +324,3 @@ Denne model havde verdenspremiere den 03.01.2024, og leveringerne startede i May
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

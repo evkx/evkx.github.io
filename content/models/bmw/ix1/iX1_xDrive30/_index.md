@@ -74,7 +74,6 @@ The BMW iX1 xDrive30, with dimensions of 4500 mm in length, 1845 mm in width, an
 
 You can select from multiple wheel options in different sizes on the BMW iX1 xDrive30, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 205/65 tires on 17" rims
 - 255/60 tires on 18" rims
 - 205/55 tires on 19" rims
@@ -88,7 +87,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/exterior_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ The BMW iX1 xDrive30 includes several features to enhance comfort and convenienc
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -230,7 +227,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -250,4 +246,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

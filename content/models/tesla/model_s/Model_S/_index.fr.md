@@ -76,7 +76,6 @@ La Tesla Model S, avec des dimensions de 5021 mm de longueur, 1987 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/45 sur jantes de 19" à l'avant et pneus 285/40 sur jantes de 19" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
@@ -89,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/exterior_1_st.jpg" title="Tesla Model S" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ L'Tesla Model S comprend plusieurs fonctionnalités pour améliorer le confort e
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +213,6 @@ Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fon
 - Contrôle des feux de circulation - suit les feux de circulation.
 - Contrôle des panneaux stop : suivez les panneaux stop.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -236,4 +232,3 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

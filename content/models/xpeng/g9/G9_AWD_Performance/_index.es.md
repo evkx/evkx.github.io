@@ -80,7 +80,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -140,7 +139,6 @@ El XPENG G9 AWD Performance incluye varias características para mejorar la como
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +206,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -228,4 +225,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

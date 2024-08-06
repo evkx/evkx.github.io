@@ -65,7 +65,6 @@ Mini Cooper SE, med dimensjoner på 3900 mm i lengde, 1750 mm i bredde og 1450 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mini Cooper SE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 215/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 - 225/40 dekk på 18" felger
@@ -77,7 +76,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +123,6 @@ Mini Cooper SE inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -167,7 +164,6 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -186,4 +182,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

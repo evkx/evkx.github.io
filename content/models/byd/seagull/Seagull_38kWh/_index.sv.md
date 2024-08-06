@@ -76,8 +76,7 @@ BYD Seagull 38kWh, med dimensioner på 3780 mm i längd, 1715 mm i bredd och 154
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Seagull 38kWh, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/50 tires on 17" rims
+- 235/50 däck på 17" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -86,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ BYD Seagull 38kWh inkluderar flera funktioner för att förbättra komfort och b
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -191,7 +188,6 @@ Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -208,4 +204,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

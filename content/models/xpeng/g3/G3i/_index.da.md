@@ -67,7 +67,6 @@ Den XPENG G3i, med dimensioner på 4495 mm i længde, 1820 mm i bredde og 1610 m
 
 Du kan vælge mellem flere hjul i forskellige størrelser på XPENG G3i, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 215/55 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
@@ -78,7 +77,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 Der er kun ét tag til denne model.
 
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -120,8 +118,6 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 ## Komfortfunktioner
 
 XPENG G3i inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -172,7 +168,6 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -189,4 +184,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,7 +74,6 @@ SKODA ENYAQ RS iV (GEN1), med dimensjoner på 4649 mm i lengde, 1879 mm i bredde
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på SKODA ENYAQ RS iV (GEN1), slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
@@ -87,7 +86,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ SKODA ENYAQ RS iV (GEN1) inkluderer flere funksjoner for å forbedre komfort og 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -225,4 +221,3 @@ Denne modellen hadde verdenspremiere 01.01.2020, og leveringene startet i March 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

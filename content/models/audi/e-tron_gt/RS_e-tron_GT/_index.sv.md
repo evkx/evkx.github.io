@@ -88,7 +88,6 @@ Audi RS e-tron GT, med dimensioner på 4989 mm i längd, 1964 mm i bredd och 139
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi RS e-tron GT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
@@ -102,7 +101,6 @@ Det finns tre olika takalternativ att välja mellan. tandardtaket inkluderar ett
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,7 +168,6 @@ Audi RS e-tron GT inkluderar flera funktioner för att förbättra komfort och b
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -255,7 +252,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -276,4 +272,3 @@ Denna modell hade världspremiär 18.06.2024 och leveranserna startade i Septemb
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

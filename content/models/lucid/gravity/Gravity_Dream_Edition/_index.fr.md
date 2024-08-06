@@ -76,7 +76,6 @@ La Lucid Gravity Dream Edition, avec des dimensions de 5034 mm de longueur, 1999
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lucid Gravity Dream Edition, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/45 sur jantes de 20"
 - Pneus 245/40 sur jantes de 21" à l'avant et pneus 265/40 sur jantes de 21" à l'arrière
 - Pneus 265/40 sur jantes de 22" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
@@ -89,7 +88,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ L'Lucid Gravity Dream Edition comprend plusieurs fonctionnalités pour améliore
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -218,7 +215,6 @@ Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -241,4 +237,3 @@ Ce modèle a été présenté en première mondiale le 16.11.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

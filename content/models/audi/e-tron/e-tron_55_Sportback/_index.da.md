@@ -98,7 +98,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi e-tron 55 Sportback, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/55 dæk on 19" fælge
 - 255/50 dæk on 20" fælge
 - 265/45 dæk on 21" fælge
@@ -112,7 +111,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/exterior_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +215,6 @@ Audi e-tron 55 Sportback inkluderer flere funktioner, der forbedrer komfort og b
 - **Elektrisk justerbart rat**
 - **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -333,4 +330,3 @@ Denne model havde verdenspremiere den 19.11.2019, og leveringerne startede i May
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

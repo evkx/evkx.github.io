@@ -80,7 +80,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQS 500 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
@@ -169,7 +168,6 @@ El Mercedes-EQ EQS 500 4MATIC incluye varias características para mejorar la co
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -264,7 +262,6 @@ Con el sistema DRIVE PILOT  de nivel 3, obtienes funciones adicionales de automa
 
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -287,4 +284,3 @@ Este modelo tuvo un estreno mundial el 15.04.2021 y las entregas comenzaron en S
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

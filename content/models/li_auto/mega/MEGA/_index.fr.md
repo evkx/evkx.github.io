@@ -50,7 +50,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -75,7 +74,6 @@ La Li Auto MEGA est disponible en un total de 4 couleurs de peinture, y compris 
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Li Auto MEGA, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 245/60 sur jantes de 18"
 
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -85,7 +83,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -158,7 +155,6 @@ L'Li Auto MEGA comprend plusieurs fonctionnalités pour améliorer le confort et
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -261,4 +257,3 @@ Ce modèle a été présenté en première mondiale le 01.03.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

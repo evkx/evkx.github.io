@@ -83,7 +83,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Intérieur
@@ -140,7 +139,6 @@ L'Rivian R1S Quad-Motor AWD comprend plusieurs fonctionnalités pour améliorer 
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -208,7 +206,6 @@ Avec le système Driver+  de niveau 2, vous obtenez les fonctionnalités suivant
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -229,4 +226,3 @@ Ce modèle a été présenté en première mondiale le 26.11.2018 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

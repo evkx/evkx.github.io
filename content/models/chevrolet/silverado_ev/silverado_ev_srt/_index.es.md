@@ -72,7 +72,6 @@ El Chevrolet Silverado EV SRT está disponible en un total de 1 colores de pintu
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Chevrolet Silverado EV SRT, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/70 en llantas de 18
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
@@ -80,7 +79,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 Sólo hay un techo para este modelo.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -132,7 +130,6 @@ El Chevrolet Silverado EV SRT incluye varias características para mejorar la co
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +192,6 @@ Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de au
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -218,4 +214,3 @@ Este modelo tuvo un estreno mundial el 05.01.2022 y se espera que las entregas c
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

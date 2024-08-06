@@ -94,7 +94,6 @@ Den Nio ES8, med dimensioner på 5022 mm i længde, 1962 mm i bredde og 1756 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Nio ES8, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/55 dæk on 19" fælge
 - 265/50 dæk on 20" fælge
 - 265/45 dæk on 21" fælge
@@ -106,7 +105,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ Nio ES8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -245,7 +242,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -262,4 +258,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

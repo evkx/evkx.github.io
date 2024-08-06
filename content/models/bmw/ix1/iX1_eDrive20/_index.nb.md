@@ -74,7 +74,6 @@ BMW iX1 eDrive20, med dimensjoner på 4500 mm i lengde, 1845 mm i bredde og 1616
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW iX1 eDrive20, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 205/65 dekk på 17" felger
 - 255/60 dekk på 18" felger
 - 205/55 dekk på 19" felger
@@ -88,7 +87,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -151,7 +149,6 @@ BMW iX1 eDrive20 inkluderer flere funksjoner for å forbedre komfort og bekvemme
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -226,7 +223,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -243,4 +239,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

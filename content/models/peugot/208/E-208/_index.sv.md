@@ -68,9 +68,8 @@ Peugot E-208, med dimensioner på 4055 mm i längd, 1768 mm i bredd och 1430 mm 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Peugot E-208, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/60 tires on 17" rims
-- 215/55 tires on 18" rims
+- 215/60 däck på 17" fälgar
+- 215/55 däck på 18" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -81,7 +80,6 @@ Det finns bara ett tak för denna modell.
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +128,6 @@ Peugot E-208 inkluderar flera funktioner för att förbättra komfort och bekvä
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +186,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -210,4 +206,3 @@ Denna modell hade världspremiär 06.07.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

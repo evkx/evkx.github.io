@@ -76,7 +76,6 @@ Den Tesla Model X, med dimensioner på 5057 mm i længde, 1999 mm i bredde og 16
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model X, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk på 19" fælge foran og 285/40 dæk på 19" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
@@ -89,7 +88,6 @@ Der er kun ét tag til denne model. Forruden er panoramisk og går tilbage over 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/exterior_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Tesla Model X inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktione
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -240,4 +236,3 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

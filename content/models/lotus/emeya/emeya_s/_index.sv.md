@@ -76,7 +76,6 @@ Lotus Emeya S, med dimensioner på 5139 mm i längd, 2005 mm i bredd och 1464 mm
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lotus Emeya S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/40 däck på 21" fälgar fram och 305/35 däck på 21" fälgar bak
 - 265/35 däck på 22" fälgar fram och 305/30 däck på 22" fälgar bak
@@ -90,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ Lotus Emeya S inkluderar flera funktioner för att förbättra komfort och bekv�
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -232,7 +229,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -253,4 +249,3 @@ Denna modell hade världspremiär 12.10.2023 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -96,7 +96,6 @@ El Audi e-tron S, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi e-tron S, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 285/45 en llantas de 20
 - Neumáticos 285/40 en llantas de 21
 
@@ -109,7 +108,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -192,7 +190,6 @@ El Audi e-tron S incluye varias características para mejorar la comodidad y con
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -306,4 +303,3 @@ Este modelo tuvo un estreno mundial el 19.11.2019 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -87,7 +87,6 @@ Rivian R1S Quad-Motor AWD MP, med dimensjoner på 5100 mm i lengde,  mm i bredde
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian R1S Quad-Motor AWD MP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/65 dekk på 20" felger foran og 275/65 dekk på 20" felger bak
 - 275/50 dekk på 22" felger
 
@@ -100,7 +99,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -160,7 +158,6 @@ Rivian R1S Quad-Motor AWD MP inkluderer flere funksjoner for å forbedre komfort
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -257,4 +254,3 @@ Denne modellen hadde verdenspremiere 06.06.2024, og leveringene startet i August
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

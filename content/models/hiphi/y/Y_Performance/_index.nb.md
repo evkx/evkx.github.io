@@ -73,7 +73,6 @@ HiPhi Y Performance, med dimensjoner på 4938 mm i lengde, 1958 mm i bredde og 1
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på HiPhi Y Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/40 dekk på 21" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av vanlige dører med måketak på andre rad, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
@@ -83,7 +82,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over fø
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ HiPhi Y Performance inkluderer flere funksjoner for å forbedre komfort og bekve
 - **Elektrisk justerbart ratt**
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -214,7 +211,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -233,4 +229,3 @@ Denne modellen hadde verdenspremiere 18.04.2023, og leveringene forventes å sta
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

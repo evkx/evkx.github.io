@@ -72,7 +72,6 @@ BMW i7 eDrive50, med dimensjoner på 5391 mm i lengde, 1950 mm i bredde og 1544 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i7 eDrive50, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/50 dekk på 19" felger
 - 255/45 dekk på 20" felger foran og 285/40 dekk på 20" felger bak
 - 255/40 dekk på 21" felger foran og 285/35 dekk på 21" felger bak
@@ -86,7 +85,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ BMW i7 eDrive50 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -247,7 +244,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautoma
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -264,4 +260,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

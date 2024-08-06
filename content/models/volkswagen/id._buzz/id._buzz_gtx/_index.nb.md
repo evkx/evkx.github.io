@@ -72,7 +72,6 @@ Volkswagen ID. Buzz GTX er tilgjengelig i totalt 12 lakkfarger, inkludert solide
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID. Buzz GTX, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
 - 235/50 dekk på 20" felger foran og 265/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
@@ -86,7 +85,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +155,6 @@ Volkswagen ID. Buzz GTX inkluderer flere funksjoner for å forbedre komfort og b
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -240,7 +237,6 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -260,4 +256,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

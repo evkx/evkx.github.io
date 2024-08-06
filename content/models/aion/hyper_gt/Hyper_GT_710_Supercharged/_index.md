@@ -67,7 +67,6 @@ The Aion Hyper GT 710 Supercharged, with dimensions of 4886 mm in length, 1885 m
 
 You can select from multiple wheel options in different sizes on the Aion Hyper GT 710 Supercharged, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 17" rims
 - 235/50 tires on 18" rims
 - 235/45 tires on 19" rims
@@ -77,7 +76,6 @@ More narrow wheels will improve consumption and give a longer range, while wider
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ The Aion Hyper GT 710 Supercharged includes several features to enhance comfort 
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -186,7 +183,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -205,4 +201,3 @@ This model had a world premiere on 31.12.2022, and deliveries started in October
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

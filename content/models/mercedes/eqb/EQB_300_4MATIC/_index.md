@@ -73,7 +73,6 @@ The Mercedes-EQ EQB 300 4MATIC, with dimensions of 4684 mm in length, 1834 mm in
 
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQB 300 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 18" rims
 - 235/50 tires on 19" rims
 
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ The Mercedes-EQ EQB 300 4MATIC includes several features to enhance comfort and 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -233,7 +230,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -253,4 +249,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

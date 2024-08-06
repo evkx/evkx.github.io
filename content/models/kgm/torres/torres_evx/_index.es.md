@@ -72,7 +72,6 @@ El KGM Torres EVX, con dimensiones de 4715 mm de longitud,  mm de anchura y 1725
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el KGM Torres EVX, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 225/60 en llantas de 18
 - Neumáticos 245/45 en llantas de 20
 
@@ -85,7 +84,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ El KGM Torres EVX incluye varias características para mejorar la comodidad y co
 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,4 +228,3 @@ Este modelo tuvo un estreno mundial el 30.03.2023 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

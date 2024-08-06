@@ -74,7 +74,6 @@ Den Lucid Air Sapphire, med dimensioner på 4975 mm i længde, 1939 mm i bredde 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Lucid Air Sapphire, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet. Soft close er en standard-funktion for sidedørene.
@@ -82,7 +81,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ Lucid Air Sapphire inkluderer flere funktioner, der forbedrer komfort og bekvemm
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ Med ADAS  niveau 2-systemet får du følgende funktioner til køreautomatisering
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -224,4 +220,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

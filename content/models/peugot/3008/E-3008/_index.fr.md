@@ -70,7 +70,6 @@ La Peugot E-3008, avec des dimensions de 4542 mm de longueur, 1895 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Peugot E-3008, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/55 sur jantes de 19"
 - Pneus 235/50 sur jantes de 20"
 
@@ -83,7 +82,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/exterior_1_st.jpg" title="Peugot E-3008" width="3000" height="1666"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ L'Peugot E-3008 comprend plusieurs fonctionnalités pour améliorer le confort e
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -241,4 +238,3 @@ Ce modèle a été présenté en première mondiale le 12.09.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

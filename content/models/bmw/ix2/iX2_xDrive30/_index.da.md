@@ -74,7 +74,6 @@ Den BMW iX2 xDrive30, med dimensioner på 4554 mm i længde, 1845 mm i bredde og
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW iX2 xDrive30, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 205/65 dæk on 17" fælge
 - 255/60 dæk on 18" fælge
 - 205/55 dæk on 19" fælge
@@ -88,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/exterior_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ BMW iX2 xDrive30 inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -230,7 +227,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende funktion
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -250,4 +246,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

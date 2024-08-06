@@ -78,7 +78,6 @@ BMW i4 eDrive40, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i4 eDrive40, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 245/45 dekk på 18" felger foran og 255/45 dekk på 18" felger bak
 - 245/40 dekk på 19" felger foran og 255/40 dekk på 19" felger bak
 - 245/35 dekk på 20" felger foran og 255/35 dekk på 20" felger bak
@@ -92,7 +91,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +197,6 @@ BMW i4 eDrive40 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
@@ -275,7 +272,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautoma
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -295,4 +291,3 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

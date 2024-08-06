@@ -83,8 +83,7 @@ Maserati Grecale Folgore, med dimensioner på 4865 mm i längd, 1948 mm i bredd 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Maserati Grecale Folgore, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/50 tires on 19" rims
+- 255/50 däck på 19" fälgar
 - 255/45 däck på 20" fälgar fram och 295/40 däck på 20" fälgar bak
 - 255/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 
@@ -97,7 +96,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ Maserati Grecale Folgore inkluderar flera funktioner för att förbättra komfor
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

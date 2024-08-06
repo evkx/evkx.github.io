@@ -70,7 +70,6 @@ VOYAH FREE, med dimensjoner på 4905 mm i lengde, 1950 mm i bredde og 1645 mm i 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VOYAH FREE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/45 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 VOYAH FREE inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -184,7 +181,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -201,4 +197,3 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

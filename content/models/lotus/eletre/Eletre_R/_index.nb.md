@@ -76,7 +76,6 @@ Lotus Eletre R, med dimensjoner på 5105 mm i lengde,  mm i bredde og 1630 mm i 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lotus Eletre R, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 275/40 dekk på 22" felger foran og 315/35 dekk på 22" felger bak
 - 285/35 dekk på 23" felger foran og 325/30 dekk på 23" felger bak
 
@@ -89,7 +88,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/exterior_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -150,7 +148,6 @@ Lotus Eletre R inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,4 +253,3 @@ Denne modellen hadde verdenspremiere 29.01.2021, og leveringene startet i March 
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

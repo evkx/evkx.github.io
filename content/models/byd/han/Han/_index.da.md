@@ -48,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -77,7 +76,6 @@ Den BYD Han, med dimensioner på 4995 mm i længde, 1910 mm i bredde og 1495 mm 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Han, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/40 dæk on 22" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -87,7 +85,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +140,6 @@ BYD Han inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -224,7 +220,6 @@ Med Smart Pilot  niveau 2-systemet får du yderligere funktioner til køreautoma
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -244,4 +239,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

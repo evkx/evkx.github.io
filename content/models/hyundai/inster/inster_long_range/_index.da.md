@@ -70,7 +70,6 @@ Den Hyundai INSTER Long Range, med dimensioner på 3825 mm i længde, 1610 mm i 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Hyundai INSTER Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 205/55 dæk on 15" fælge
 - 205/45 dæk on 17" fælge
 
@@ -83,7 +82,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Hyundai INSTER Long Range inkluderer flere funktioner, der forbedrer komfort og 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -244,4 +240,3 @@ Denne model havde verdenspremiere den 27.06.2024, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

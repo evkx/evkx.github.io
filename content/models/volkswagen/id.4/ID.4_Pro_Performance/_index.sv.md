@@ -78,7 +78,6 @@ Volkswagen ID.4 Pro Performance, med dimensioner på 4582 mm i längd, 1865 mm i
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID.4 Pro Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
@@ -92,7 +91,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/exterior_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ Volkswagen ID.4 Pro Performance inkluderar flera funktioner för att förbättra
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -248,7 +245,6 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -268,4 +264,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

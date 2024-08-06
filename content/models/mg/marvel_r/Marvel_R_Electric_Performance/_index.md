@@ -78,7 +78,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/exterior_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -125,7 +124,6 @@ The MG Marvel R Electric Performance includes several features to enhance comfor
 
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -183,7 +181,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -206,4 +203,3 @@ This model had a world premiere on 07.10.2021, and deliveries started in January
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

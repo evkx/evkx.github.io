@@ -72,7 +72,6 @@ The Polestar 2 Long Range Dual Motor, with dimensions of 4606 mm in length, 1859
 
 You can select from multiple wheel options in different sizes on the Polestar 2 Long Range Dual Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims
 
@@ -83,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor" width="2953" height="2215"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ The Polestar 2 Long Range Dual Motor includes several features to enhance comfor
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +201,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -221,4 +217,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

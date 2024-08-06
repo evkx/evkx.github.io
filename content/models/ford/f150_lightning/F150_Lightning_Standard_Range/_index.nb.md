@@ -70,7 +70,6 @@ Ford F150 Lightning Standard Range er tilgjengelig i totalt 6 lakkfarger, inklud
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Ford F150 Lightning Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 265/70 dekk på 18" felger
 - 275/60 dekk på 20" felger
 - 285/45 dekk på 22" felger
@@ -82,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,8 +125,6 @@ Det er ett tilgjengelig klimasystem.
 ## Komfortfunksjoner
 
 Ford F150 Lightning Standard Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +212,6 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ekstra kjøreautoma
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -239,4 +234,3 @@ Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i Decemb
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

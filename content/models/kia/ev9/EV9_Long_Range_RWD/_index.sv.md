@@ -68,10 +68,9 @@ Kia EV9 Long Range RWD, med dimensioner på 5010 mm i längd, 1980 mm i bredd oc
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Kia EV9 Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/55 tires on 19" rims
-- 255/45 tires on 20" rims
-- 285/45 tires on 21" rims
+- 235/55 däck på 19" fälgar
+- 255/45 däck på 20" fälgar
+- 285/45 däck på 21" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -82,7 +81,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/exterior_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -163,7 +161,6 @@ Kia EV9 Long Range RWD inkluderar flera funktioner för att förbättra komfort 
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
@@ -236,7 +233,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -256,4 +252,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

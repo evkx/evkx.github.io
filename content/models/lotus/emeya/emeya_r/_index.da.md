@@ -76,7 +76,6 @@ Den Lotus Emeya R, med dimensioner på 5139 mm i længde, 2005 mm i bredde og 14
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Emeya R, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/40 dæk på 21" fælge foran og 305/35 dæk på 21" fælge bagpå
 - 265/35 dæk på 22" fælge foran og 305/30 dæk på 22" fælge bagpå
 
@@ -89,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/exterior_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ Lotus Emeya R inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,7 +228,6 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -252,4 +248,3 @@ Denne model havde verdenspremiere den 12.10.2023, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

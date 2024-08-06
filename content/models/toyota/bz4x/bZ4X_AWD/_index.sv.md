@@ -75,7 +75,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
@@ -119,7 +118,6 @@ Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som til
 Toyota bZ4X AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -215,4 +212,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

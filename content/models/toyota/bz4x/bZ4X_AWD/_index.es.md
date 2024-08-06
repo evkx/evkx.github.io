@@ -75,7 +75,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -119,7 +118,6 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 El Toyota bZ4X AWD incluye varias características para mejorar la comodidad y conveniencia:
 
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -195,7 +193,6 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -215,4 +212,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

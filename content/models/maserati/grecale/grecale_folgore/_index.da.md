@@ -83,7 +83,6 @@ Den Maserati Grecale Folgore, med dimensioner på 4865 mm i længde, 1948 mm i b
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Maserati Grecale Folgore, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/50 dæk on 19" fælge
 - 255/45 dæk på 20" fælge foran og 295/40 dæk på 20" fælge bagpå
 - 255/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
@@ -97,7 +96,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ Maserati Grecale Folgore inkluderer flere funktioner, der forbedrer komfort og b
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -249,4 +246,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

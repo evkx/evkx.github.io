@@ -72,7 +72,6 @@ El Rolls-Royce Spectre, con dimensiones de 5475 mm de longitud, 2017 mm de anchu
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Rolls-Royce Spectre, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 255/50 en llantas de 23" delanteras y neumáticos 275/40 en llantas de 23" traseras
 
 El auto tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera. El cierre suave es la función un estándar para las puertas laterales. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -82,7 +81,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ El Rolls-Royce Spectre incluye varias características para mejorar la comodidad
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Con el sistema Driving Assistant Professional  de nivel 2, obtienes las siguient
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -242,4 +238,3 @@ Este modelo tuvo un estreno mundial el 18.10.2022 y las entregas comenzaron en D
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

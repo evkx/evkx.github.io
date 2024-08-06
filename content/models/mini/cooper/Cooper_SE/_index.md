@@ -65,7 +65,6 @@ The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 
 
 You can select from multiple wheel options in different sizes on the Mini Cooper SE, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/55 tires on 16" rims
 - 205/50 tires on 17" rims
 - 225/40 tires on 18" rims
@@ -77,7 +76,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -125,7 +123,6 @@ The Mini Cooper SE includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -167,7 +164,6 @@ With the standard system the model offers no driving automation.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -186,4 +182,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

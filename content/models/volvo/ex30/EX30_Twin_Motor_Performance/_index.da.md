@@ -70,7 +70,6 @@ Den Volvo EX30 Twin Motor Performance, med dimensioner på 4233 mm i længde, 18
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX30 Twin Motor Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 225/55 dæk on 18" fælge
 - 235/45 dæk on 20" fælge
 
@@ -81,7 +80,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ Volvo EX30 Twin Motor Performance inkluderer flere funktioner, der forbedrer kom
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -229,4 +225,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

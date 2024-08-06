@@ -74,7 +74,6 @@ The Lucid Air Pure, with dimensions of 4975 mm in length, 1939 mm in width, and 
 
 You can select from multiple wheel options in different sizes on the Lucid Air Pure, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
@@ -86,7 +85,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 There is only one roof for this model. The standard is just a regular roof.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/exterior_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ The Lucid Air Pure includes several features to enhance comfort and convenience:
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -205,7 +202,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -225,4 +221,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

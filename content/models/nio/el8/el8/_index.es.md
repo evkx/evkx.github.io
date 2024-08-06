@@ -94,7 +94,6 @@ El Nio EL8, con dimensiones de 5099 mm de longitud, 1989 mm de anchura y 1750 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio EL8, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/50 en llantas de 20
 - Neumáticos 265/45 en llantas de 21
 
@@ -105,7 +104,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -176,7 +174,6 @@ El Nio EL8 incluye varias características para mejorar la comodidad y convenien
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -277,4 +274,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

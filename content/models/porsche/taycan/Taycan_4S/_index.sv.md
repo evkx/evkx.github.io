@@ -96,7 +96,6 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Taycan 4S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
@@ -108,7 +107,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns tre olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/exterior_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1713"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -186,7 +184,6 @@ Porsche Taycan 4S inkluderar flera funktioner för att förbättra komfort och b
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -271,7 +268,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för kör
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -291,4 +287,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

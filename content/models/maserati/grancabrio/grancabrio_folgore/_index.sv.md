@@ -81,8 +81,7 @@ Maserati GranCabrio Folgore finns i totalt 8 lackfärger, inklusive både solida
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Maserati GranCabrio Folgore, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 255/50 tires on 19" rims
+- 255/50 däck på 19" fälgar
 - 255/45 däck på 20" fälgar fram och 295/40 däck på 20" fälgar bak
 - 255/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 
@@ -95,7 +94,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,7 +147,6 @@ Maserati GranCabrio Folgore inkluderar flera funktioner för att förbättra kom
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,4 +248,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

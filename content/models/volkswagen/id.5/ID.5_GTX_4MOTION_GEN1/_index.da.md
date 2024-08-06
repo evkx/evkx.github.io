@@ -82,7 +82,6 @@ Den Volkswagen ID.5 GTX 4MOTION (GEN1), med dimensioner på 4599 mm i længde, 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.5 GTX 4MOTION (GEN1), så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
@@ -95,7 +94,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/exterior_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -155,7 +153,6 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) inkluderer flere funktioner, der forbedrer ko
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -245,7 +242,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -268,4 +264,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

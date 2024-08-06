@@ -72,7 +72,6 @@ La Rolls-Royce Spectre, avec des dimensions de 5475 mm de longueur, 2017 mm de l
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Rolls-Royce Spectre, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/50 sur jantes de 23" à l'avant et pneus 275/40 sur jantes de 23" à l'arrière
 
 La voiture a deux [portes suicide](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière. La fermeture douce est la fonction un standard pour les portes latérales. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -82,7 +81,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ L'Rolls-Royce Spectre comprend plusieurs fonctionnalités pour améliorer le con
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Avec le système Driving Assistant Professional  de niveau 2, vous obtenez les f
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -242,4 +238,3 @@ Ce modèle a été présenté en première mondiale le 18.10.2022 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,7 +74,6 @@ Mercedes-EQ EQC 400 4MATIC, med dimensioner på 4762 mm i längd, 1884 mm i bred
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQC 400 4MATIC, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
@@ -115,7 +114,6 @@ Mercedes-EQ EQC 400 4MATIC inkluderar flera funktioner för att förbättra komf
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -189,7 +187,6 @@ Med Driver Assistance Package  nivå 1-systemet får du följande funktioner fö
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -209,4 +206,3 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

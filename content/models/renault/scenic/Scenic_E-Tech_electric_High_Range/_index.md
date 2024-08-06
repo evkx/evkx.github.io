@@ -74,7 +74,6 @@ The Renault Scenic E-Tech electric High Range, with dimensions of 4470 mm in len
 
 You can select from multiple wheel options in different sizes on the Renault Scenic E-Tech electric High Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -87,7 +86,6 @@ There is only one roof for this model. The standard roof has a large panoramic e
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/exterior_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ The Renault Scenic E-Tech electric High Range includes several features to enhan
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -219,7 +216,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -239,4 +235,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

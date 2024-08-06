@@ -76,7 +76,6 @@ Tesla Model X Plaid, med dimensioner på 5057 mm i längd, 1999 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model X Plaid, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
@@ -89,7 +88,6 @@ Det finns bara ett tak för denna modell. Vindrutan är panoramautsikt över fö
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Tesla Model X Plaid inkluderar flera funktioner för att förbättra komfort och
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktione
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -240,4 +236,3 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Den SKODA Elroq 85x, med dimensioner på 4488 mm i længde, 1879 mm i bredde og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på SKODA Elroq 85x, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
@@ -89,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/exterior_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2001"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -135,7 +133,6 @@ SKODA Elroq 85x inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -211,7 +208,6 @@ Med MAX  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -232,4 +228,3 @@ Denne model havde verdenspremiere den 01.07.2024, og leveringer forventes at sta
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

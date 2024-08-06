@@ -68,7 +68,6 @@ La Citroën ë-C4 X, avec des dimensions de 4118 mm de longueur, 1802 mm de larg
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Citroën ë-C4 X, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 215/60 sur jantes de 17"
 - Pneus 215/55 sur jantes de 18"
 
@@ -81,7 +80,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ L'Citroën ë-C4 X comprend plusieurs fonctionnalités pour améliorer le confor
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +177,6 @@ Avec le système DS Drive Assist  de niveau 1, vous obtenez les fonctionnalités
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -197,4 +193,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -71,7 +71,6 @@ The Ford F150 Lightning Extended Range is available in a total of 6 paint colors
 
 You can select from multiple wheel options in different sizes on the Ford F150 Lightning Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/70 tires on 18" rims
 - 275/60 tires on 20" rims
 - 285/45 tires on 22" rims
@@ -83,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -128,8 +126,6 @@ There is one climate system available.
 ## Comfort features
 
 The Ford F150 Lightning Extended Range includes several features to enhance comfort and convenience:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -217,7 +213,6 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -238,4 +233,3 @@ This model had a world premiere on 19.05.2021, and deliveries started in Decembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

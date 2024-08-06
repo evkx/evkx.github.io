@@ -75,7 +75,6 @@ The HiPhi Z 4 Seater, with dimensions of 5036 mm in length, 2018 mm in width, an
 
 You can select from multiple wheel designs, all available in the same size, on the HiPhi Z 4 Seater, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/45 tires on 22" rims front and 285/40 tires on 22" rims rear
 
 The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are a standard function for the side doors.
@@ -85,7 +84,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ The HiPhi Z 4 Seater includes several features to enhance comfort and convenienc
 - **Electrically adjustable steering wheel**
 - **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ With the   level 2 system, you get the following driving automation features.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -227,4 +223,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

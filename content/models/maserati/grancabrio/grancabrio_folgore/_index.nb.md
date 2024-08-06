@@ -81,7 +81,6 @@ Maserati GranCabrio Folgore er tilgjengelig i totalt 8 lakkfarger, inkludert bå
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Maserati GranCabrio Folgore, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 255/50 dekk på 19" felger
 - 255/45 dekk på 20" felger foran og 295/40 dekk på 20" felger bak
 - 255/40 dekk på 21" felger foran og 295/35 dekk på 21" felger bak
@@ -95,7 +94,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -149,7 +147,6 @@ Maserati GranCabrio Folgore inkluderer flere funksjoner for å forbedre komfort 
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -251,4 +248,3 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

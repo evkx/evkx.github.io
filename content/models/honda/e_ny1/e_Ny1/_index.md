@@ -69,7 +69,6 @@ There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
@@ -97,8 +96,6 @@ There is one climate system available.
 ## Comfort features
 
 The Honda e:Ny1 includes several features to enhance comfort and convenience:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,8 +138,6 @@ The Honda e:Ny1 includes several standard and optional [advanced driver assistan
 
 With the standard system the model offers no driving automation.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -162,4 +157,3 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

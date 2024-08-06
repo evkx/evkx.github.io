@@ -72,8 +72,7 @@ MG ZS EV Standard Range, med dimensioner på 4323 mm i längd, 1809 mm i bredd o
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG ZS EV Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/55 tires on 17" rims
+- 215/55 däck på 17" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -82,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/exterior_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ MG ZS EV Standard Range inkluderar flera funktioner för att förbättra komfort
 
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -198,7 +195,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -221,4 +217,3 @@ Denna modell hade världspremiär 07.10.2021 och leveranserna startade i January
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

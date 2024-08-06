@@ -76,7 +76,6 @@ La Opel Frontera, avec des dimensions de 4385 mm de longueur, 1795 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Opel Frontera, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 205/55 sur jantes de 16"
 - Pneus 205/50 sur jantes de 17"
 
@@ -89,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 L'Opel Frontera comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -235,4 +232,3 @@ Ce modèle a été présenté en première mondiale le 15.05.2024 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

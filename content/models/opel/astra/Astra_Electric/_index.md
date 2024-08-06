@@ -70,7 +70,6 @@ The Opel Astra Electric, with dimensions of 4374 mm in length, 1860 mm in width,
 
 You can select from multiple wheel designs, all available in the same size, on the Opel Astra Electric, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 215/45 tires on 18" rims front and 215/45 tires on 18" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -80,7 +79,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/exterior_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -134,7 +132,6 @@ The Opel Astra Electric includes several features to enhance comfort and conveni
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -199,7 +196,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -222,4 +218,3 @@ This model had a world premiere on 06.07.2023, and deliveries started in Novembe
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

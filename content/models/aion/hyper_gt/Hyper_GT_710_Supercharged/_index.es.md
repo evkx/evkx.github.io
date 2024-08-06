@@ -67,7 +67,6 @@ El Aion Hyper GT 710 Supercharged, con dimensiones de 4886 mm de longitud, 1885 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Aion Hyper GT 710 Supercharged, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/55 en llantas de 17
 - Neumáticos 235/50 en llantas de 18
 - Neumáticos 235/45 en llantas de 19
@@ -77,7 +76,6 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -133,7 +131,6 @@ El Aion Hyper GT 710 Supercharged incluye varias características para mejorar l
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -186,7 +183,6 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -205,4 +201,3 @@ Este modelo tuvo un estreno mundial el 31.12.2022 y las entregas comenzaron en O
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

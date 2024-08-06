@@ -75,7 +75,6 @@ HiPhi Z 4 Seater, med dimensioner på 5036 mm i längd, 2018 mm i bredd och 1439
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi Z 4 Seater, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 255/45 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) framför, [självmordsdörrar](../../../../technology/doors/) på andra raden, och ett [bootlock](../../../../technology/doors/#bootlid) på baksidan. Elektriska dörrar är standard funktion för sidodörrarna.
@@ -85,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -146,7 +144,6 @@ HiPhi Z 4 Seater inkluderar flera funktioner för att förbättra komfort och be
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -227,4 +223,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

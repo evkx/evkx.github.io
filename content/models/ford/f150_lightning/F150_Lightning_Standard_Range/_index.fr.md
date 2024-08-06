@@ -70,7 +70,6 @@ La Ford F150 Lightning Standard Range est disponible en un total de 6 couleurs d
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford F150 Lightning Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 265/70 sur jantes de 18"
 - Pneus 275/60 sur jantes de 20"
 - Pneus 285/45 sur jantes de 22"
@@ -82,7 +81,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,8 +125,6 @@ Un système climatique est disponible.
 ## Caractéristiques de confort
 
 L'Ford F150 Lightning Standard Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -216,7 +212,6 @@ Avec le système Ford Co-Pilot360™ Active 2.0  de niveau 2, vous obtenez des f
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -239,4 +234,3 @@ Ce modèle a été présenté en première mondiale le 19.05.2021 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

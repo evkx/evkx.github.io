@@ -70,8 +70,7 @@ Zeekr 001 FR, med dimensioner på 4955 mm i längd, 1999 mm i bredd och 1548 mm 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 001 FR, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/40 tires on 22" rims
+- 265/40 däck på 22" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -80,7 +79,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -139,7 +137,6 @@ Zeekr 001 FR inkluderar flera funktioner för att förbättra komfort och bekvä
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -207,7 +204,6 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -228,4 +224,3 @@ Denna modell hade världspremiär 30.10.2023 och leveranserna startade i January
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -70,7 +70,6 @@ Den Volvo EX90 Twin Motor Performance, med dimensioner på 5037 mm i længde, 19
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX90 Twin Motor Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 265/45 dæk på 21" fælge foran og 295/45 dæk på 21" fælge bagpå
 - 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
@@ -83,7 +82,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2212"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ Volvo EX90 Twin Motor Performance inkluderer flere funktioner, der forbedrer kom
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
@@ -211,7 +208,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -228,4 +224,3 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

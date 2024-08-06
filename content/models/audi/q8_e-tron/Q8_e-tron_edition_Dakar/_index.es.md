@@ -94,7 +94,6 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q8 e-tron edition Dakar, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/60 en llantas de 18
 - Neumáticos 255/55 en llantas de 19
 
@@ -107,7 +106,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 Las ventanas del pilar B y la parte trasera están tintadas. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +210,6 @@ El Audi Q8 e-tron edition Dakar incluye varias características para mejorar la 
 - **Volante ajustable eléctricamente**
 - **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -327,4 +324,3 @@ Este modelo tuvo un estreno mundial el 03.01.2024 y las entregas comenzaron en M
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

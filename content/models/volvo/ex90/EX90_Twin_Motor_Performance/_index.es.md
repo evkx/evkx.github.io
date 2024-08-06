@@ -70,7 +70,6 @@ El Volvo EX90 Twin Motor Performance, con dimensiones de 5037 mm de longitud, 19
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volvo EX90 Twin Motor Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 265/45 en llantas de 21" delanteras y neumáticos 295/45 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 295/40 en llantas de 22" traseras
 
@@ -83,7 +82,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2212"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ El Volvo EX90 Twin Motor Performance incluye varias características para mejora
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
@@ -211,7 +208,6 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -228,4 +224,3 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

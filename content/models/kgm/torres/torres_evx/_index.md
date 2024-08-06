@@ -72,7 +72,6 @@ The KGM Torres EVX, with dimensions of 4715 mm in length,  mm in width, and 1725
 
 You can select from multiple wheel options in different sizes on the KGM Torres EVX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 225/60 tires on 18" rims
 - 245/45 tires on 20" rims
 
@@ -85,7 +84,6 @@ There is only one roof for this model. The standard is just a regular roof.
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ The KGM Torres EVX includes several features to enhance comfort and convenience:
 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,4 +228,3 @@ This model had a world premiere on 30.03.2023, and deliveries started in March 2
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

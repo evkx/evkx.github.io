@@ -96,7 +96,6 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Sportback e-tron performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 225/55 däck på 19" fälgar fram och 245/50 däck på 19" fälgar bak
 - 235/45 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 245/40 däck på 21" fälgar fram och 275/35 däck på 21" fälgar bak
@@ -110,7 +109,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -174,7 +172,6 @@ Audi A6 Sportback e-tron performance inkluderar flera funktioner för att förb�
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -305,4 +302,3 @@ Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

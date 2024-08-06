@@ -70,7 +70,6 @@ Peugot E-3008 Long Range, med dimensjoner på 4542 mm i lengde, 1895 mm i bredde
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Peugot E-3008 Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
 - 235/55 dekk på 19" felger
 - 235/50 dekk på 20" felger
 
@@ -83,7 +82,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 Rutene fra B-stolpen og baksiden er tonet.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,7 +139,6 @@ Peugot E-3008 Long Range inkluderer flere funksjoner for å forbedre komfort og 
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -241,4 +238,3 @@ Denne modellen hadde verdenspremiere 12.09.2023, og leveringene startet i Februa
 <strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

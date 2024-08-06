@@ -68,9 +68,8 @@ Citroën ë-C4 X, med dimensioner på 4118 mm i längd, 1802 mm i bredd och 1534
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Citroën ë-C4 X, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 215/60 tires on 17" rims
-- 215/55 tires on 18" rims
+- 215/60 däck på 17" fälgar
+- 215/55 däck på 18" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -81,7 +80,6 @@ Det finns bara ett tak för denna modell.
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -127,7 +125,6 @@ Citroën ë-C4 X inkluderar flera funktioner för att förbättra komfort och be
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +177,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -197,4 +193,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -72,9 +72,8 @@ KGM Torres EVX, med dimensioner på 4715 mm i längd,  mm i bredd och 1725 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på KGM Torres EVX, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 225/60 tires on 18" rims
-- 245/45 tires on 20" rims
+- 225/60 däck på 18" fälgar
+- 245/45 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -85,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -136,7 +134,6 @@ KGM Torres EVX inkluderar flera funktioner för att förbättra komfort och bekv
 
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -231,4 +228,3 @@ Denna modell hade världspremiär 30.03.2023 och leveranserna startade i March 2
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

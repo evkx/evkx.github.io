@@ -96,7 +96,6 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q6L e-tron quattro, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 - 235/60 däck på 19" fälgar fram och 255/55 däck på 19" fälgar bak
 - 255/50 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
 - 255/45 däck på 21" fälgar fram och 285/40 däck på 21" fälgar bak
@@ -110,7 +109,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -176,7 +174,6 @@ Audi Q6L e-tron quattro inkluderar flera funktioner för att förbättra komfort
 - **Elektriskt justerbar ratt**
 - **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -305,4 +302,3 @@ Denna modell hade världspremiär 14.04.2024 och leveranser förväntas starta o
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

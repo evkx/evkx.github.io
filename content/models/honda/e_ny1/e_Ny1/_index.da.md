@@ -69,7 +69,6 @@ Der er kun ét tag til denne model.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
@@ -97,8 +96,6 @@ Der er et tilgængeligt klimasystem.
 ## Komfortfunktioner
 
 Honda e:Ny1 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
-
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -141,8 +138,6 @@ Den Honda e:Ny1 inkluderer flere standard- og valgfri [avancerede førerassisten
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -162,4 +157,3 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

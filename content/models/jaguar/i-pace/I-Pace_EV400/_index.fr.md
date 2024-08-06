@@ -71,7 +71,6 @@ La Jaguar I-Pace EV400, avec des dimensions de 4682 mm de longueur, 2011 mm de l
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Jaguar I-Pace EV400, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 235/65 sur jantes de 18"
 - Pneus 245/55 sur jantes de 19"
 - Pneus 245/50 sur jantes de 20"
@@ -86,7 +85,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -167,7 +165,6 @@ L'Jaguar I-Pace EV400 comprend plusieurs fonctionnalités pour améliorer le con
 
 - **Recharge sans fil pour téléphone**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
@@ -228,8 +225,6 @@ Le Jaguar I-Pace EV400 comprend plusieurs [systèmes avancés d'assistance au co
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
-
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -250,4 +245,3 @@ Ce modèle a été présenté en première mondiale le 01.03.2018 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

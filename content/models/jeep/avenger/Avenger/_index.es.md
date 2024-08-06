@@ -68,7 +68,6 @@ El Jeep Avenger, con dimensiones de 4084 mm de longitud, 1776 mm de anchura y 15
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Jeep Avenger, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 215/60 en llantas de 17
 - Neumáticos 215/55 en llantas de 18
 
@@ -81,7 +80,6 @@ Sólo hay un techo para este modelo.
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -128,7 +126,6 @@ El Jeep Avenger incluye varias características para mejorar la comodidad y conv
 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -187,7 +184,6 @@ Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -207,4 +203,3 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

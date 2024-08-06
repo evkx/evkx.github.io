@@ -110,7 +110,6 @@ La Tesla Model Y Standard Range, avec des dimensions de 4751 mm de longueur, 192
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model Y Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/45 sur jantes de 19"
 - Pneus 255/40 sur jantes de 20"
 - Pneus 255/35 sur jantes de 21" à l'avant et pneus 275/35 sur jantes de 21" à l'arrière
@@ -124,7 +123,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -180,7 +178,6 @@ L'Tesla Model Y Standard Range comprend plusieurs fonctionnalités pour amélior
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -283,4 +280,3 @@ Ce modèle a été présenté en première mondiale le 19.03.2019 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -74,8 +74,7 @@ Lucid Air Dream Edition Performance, med dimensioner på 4975 mm i längd, 1939 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Air Dream Edition Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 245/45 tires on 19" rims
+- 245/45 däck på 19" fälgar
 - 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 
@@ -86,7 +85,6 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt över första raden. Dessutom finns det en glaspanel över andra raden. Detta glas gör att bilens interiör känns rymligare och ljus, vilket kan förbättra humöret och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/exterior_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1945"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -142,7 +140,6 @@ Lucid Air Dream Edition Performance inkluderar flera funktioner för att förbä
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -209,7 +206,6 @@ Med ADAS  nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -229,4 +225,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

@@ -76,7 +76,6 @@ Den Tesla Model 3 Performance, med dimensioner på 4694 mm i længde, 1849 mm i 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model 3 Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 255/45 dæk on 18" fælge
 - 255/45 dæk on 19" fælge
 
@@ -89,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +143,6 @@ Tesla Model 3 Performance inkluderer flere funktioner, der forbedrer komfort og 
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -250,4 +247,3 @@ Denne model havde verdenspremiere den 23.04.2024, og leveringerne startede i May
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

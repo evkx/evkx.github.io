@@ -76,7 +76,6 @@ The Lotus Eletre, with dimensions of 5105 mm in length,  mm in width, and 1630 m
 
 You can select from multiple wheel options in different sizes on the Lotus Eletre, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 255/50 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 275/40 tires on 22" rims front and 315/35 tires on 22" rims rear
 
@@ -89,7 +88,6 @@ There are two different roof options to select from. The standard is just a regu
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/exterior_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -147,7 +145,6 @@ The Lotus Eletre includes several features to enhance comfort and convenience:
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -253,4 +250,3 @@ This model had a world premiere on 29.01.2021, and deliveries started in March 2
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

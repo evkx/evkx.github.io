@@ -76,7 +76,6 @@ La HiPhi X 6 Seater, avec des dimensions de 5200 mm de longueur,  mm de largeur 
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'HiPhi X 6 Seater, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 255/45 sur jantes de 22"
 
 La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes suicide avec un toit en aile de mouette sur le deuxième rangée, et un [liftgate](../../../../technology/doors/#liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -86,7 +85,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'une vitre
 Les vitres du montant B et de l'arrière sont teintées.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ L'HiPhi X 6 Seater comprend plusieurs fonctionnalités pour améliorer le confor
 - **Volant réglable électriquement**
 - **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,7 +218,6 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -239,4 +235,3 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

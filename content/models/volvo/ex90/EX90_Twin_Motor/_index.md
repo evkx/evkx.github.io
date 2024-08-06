@@ -70,7 +70,6 @@ The Volvo EX90 Twin Motor, with dimensions of 5037 mm in length, 1964 mm in widt
 
 You can select from multiple wheel options in different sizes on the Volvo EX90 Twin Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 265/45 tires on 21" rims front and 295/45 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
@@ -83,7 +82,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,7 +146,6 @@ The Volvo EX90 Twin Motor includes several features to enhance comfort and conve
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
@@ -211,7 +208,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -228,4 +224,3 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

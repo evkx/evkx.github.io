@@ -80,7 +80,6 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ EQS 500 4MATIC, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 - 235/55 dæk on 19" fælge
 - 265/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
 - 265/40 dæk på 20" fælge foran og 295/35 dæk på 20" fælge bagpå
@@ -169,7 +168,6 @@ Mercedes-EQ EQS 500 4MATIC inkluderer flere funktioner, der forbedrer komfort og
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
 - **Trådløs opladning af telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -264,7 +262,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere funktioner til køreautoma
 
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -287,4 +284,3 @@ Denne model havde verdenspremiere den 15.04.2021, og leveringerne startede i Sep
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

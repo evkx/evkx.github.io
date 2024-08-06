@@ -76,8 +76,7 @@ BYD Atto 3, med dimensioner på 4455 mm i längd, 1875 mm i bredd och 1875 mm i 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Atto 3, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 235/50 tires on 18" rims
+- 235/50 däck på 18" fälgar
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
@@ -86,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ BYD Atto 3 inkluderar flera funktioner för att förbättra komfort och bekväml
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -238,4 +234,3 @@ Fordonets maximala vikt är 2160 kg, med en grundvikt på 1750 kg. Detta tillåt
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

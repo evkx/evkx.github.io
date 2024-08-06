@@ -76,8 +76,7 @@ BYD Seal AWD, med dimensioner på 4800 mm i längd, 1875 mm i bredd och 1460 mm 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Seal AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-- 265/40 tires on 22" rims
+- 265/40 däck på 22" fälgar
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
@@ -86,7 +85,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/exterior_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -138,7 +136,6 @@ BYD Seal AWD inkluderar flera funktioner för att förbättra komfort och bekvä
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
 - **Trådlös laddning av telefon**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -212,7 +209,6 @@ Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomati
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -229,4 +225,3 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

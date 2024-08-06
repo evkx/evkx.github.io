@@ -89,7 +89,6 @@ The black optics design package is an option. This package includes a black sing
 
 You can select from multiple wheel options in different sizes on the Audi RS e-tron GT, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
@@ -103,7 +102,6 @@ There are three different roof options to select from. The standard roof include
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -171,7 +169,6 @@ The Audi RS e-tron GT includes several features to enhance comfort and convenien
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
 - **Wireless phone charging**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -256,7 +253,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -277,4 +273,3 @@ This model had a world premiere on 18.06.2024, and deliveries started in Septemb
 <strong>Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

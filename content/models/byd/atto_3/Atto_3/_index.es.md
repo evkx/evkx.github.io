@@ -76,7 +76,6 @@ El BYD Atto 3, con dimensiones de 4455 mm de longitud, 1875 mm de anchura y 1875
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Atto 3, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 - Neumáticos 235/50 en llantas de 18
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -86,7 +85,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -140,7 +138,6 @@ El BYD Atto 3 incluye varias características para mejorar la comodidad y conven
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
 - **Carga inalámbrica de teléfono**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -220,7 +217,6 @@ Con el sistema   de nivel 1, obtienes las siguientes funciones de automatizació
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
-
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -238,4 +234,3 @@ El peso máximo del vehículo es 2160 kg, con un peso base de 1750 kg. Esto perm
 <strong>Rango <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-

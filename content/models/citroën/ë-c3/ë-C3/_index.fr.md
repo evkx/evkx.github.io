@@ -78,7 +78,6 @@ La Citroën ë-C3, avec des dimensions de 4015 mm de longueur, 1755 mm de largeu
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Citroën ë-C3, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 - Pneus 205/55 sur jantes de 16"
 - Pneus 205/50 sur jantes de 17"
 
@@ -91,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -154,7 +152,6 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 L'Citroën ë-C3 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
 - **Recharge sans fil pour téléphone**
-
 
 {{<evkxdisplayaddarticle />}}
 
@@ -243,4 +240,3 @@ Ce modèle a été présenté en première mondiale le 17.10.2023 et les livrais
 <strong>Plage <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
-
