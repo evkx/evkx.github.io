@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/main_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1708"  >}}
 
 Hemos separado nuestro artículo MG Marvel R Electric en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 MG Marvel R Electric tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
@@ -73,7 +70,6 @@ El MG Marvel R Electric, con dimensiones de 4674 mm de longitud, 1919 mm de anch
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MG Marvel R Electric, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
@@ -85,13 +81,11 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -102,6 +96,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - ajuste eléctrico
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Beige [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
@@ -110,12 +105,9 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -124,7 +116,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -138,10 +129,7 @@ El MG Marvel R Electric incluye varias características para mejorar la comodida
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -151,7 +139,6 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -170,7 +157,6 @@ Además, el MG Marvel R Electric es compatible con Android Auto y Apple CarPlay.
 Un tipo de sistema de sonido está disponible para el MG Marvel R Electric.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 4 conexiones USB-A de serie.
 
@@ -193,6 +179,7 @@ El MG Marvel R Electric incluye varios [sistemas avanzados de asistencia al cond
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Neta GT 580 AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Neta GT 580 AWD features an all-wheel drive system powered by two motors, one on
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -73,9 +68,8 @@ The Neta GT 580 AWD, with dimensions of 4715 mm in length, 1979 mm in width, and
 
 You can select from multiple wheel designs, all available in the same size, on the Neta GT 580 AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 19" rims
-
-
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
@@ -84,9 +78,7 @@ There is only one roof for this model. The standard roof includes a large panora
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -109,21 +101,15 @@ You can choose from 1 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
-
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
 
 ## Comfort features
 
@@ -136,11 +122,9 @@ The Neta GT 580 AWD includes several features to enhance comfort and convenience
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Neta GT 580 AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -151,7 +135,6 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 
-
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
@@ -161,7 +144,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 One type of sound system is available for the Neta GT 580 AWD.
 
 - With the Neta Sky sound, you get 12 speakers with a max system output of  watts.
-
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -198,6 +180,7 @@ The Neta GT 580 AWD includes several standard and optional [advanced driver assi
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 

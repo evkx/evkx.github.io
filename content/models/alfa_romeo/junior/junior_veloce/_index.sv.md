@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/main_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Alfa Romeo Junior Veloce i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Alfa Romeo Junior Veloce har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -61,8 +58,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
@@ -72,6 +67,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 Alfa Romeo Junior Veloce, med dimensioner på 4170 mm i längd, 1780 mm i bredd och 1500 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Alfa Romeo Junior Veloce finns i totalt 5 enfärgade lackfärger.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Alfa Romeo Junior Veloce, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
@@ -88,7 +84,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -109,6 +104,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
@@ -118,20 +114,15 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -145,10 +136,7 @@ Alfa Romeo Junior Veloce inkluderar flera funktioner för att förbättra komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -172,7 +160,6 @@ Dessutom stöder Alfa Romeo Junior Veloce Android Auto och Apple CarPlay. Denna 
 En typ av ljudsystem är tillgänglig för Alfa Romeo Junior Veloce.
 
 - Med  får du NULL högtalare med en maximal systemeffekt på  watt.
-
 
 ## Ljus
 
@@ -199,6 +186,7 @@ Alfa Romeo Junior Veloce inkluderar flera [avancerade förarassistanssystem](../
 Alfa Romeo Junior Veloce erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

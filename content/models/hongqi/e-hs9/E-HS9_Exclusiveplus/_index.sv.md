@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050"  >}}
 
 Vi har delat in vår beskrivning av Hongqi E-HS9 Exclusive+ i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Hongqi E-HS9 Exclusive+ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Hongqi E-HS9 Exclusive+, med dimensioner på 5209 mm i längd, 2010 mm i bredd o
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hongqi E-HS9 Exclusive+, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/45 tires on 21" rims
 - 275/40 tires on 22" rims
 
@@ -91,9 +89,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -116,10 +112,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
-
 #### Säten på andra raden
-
-
 
 För den andra raden har den här modellen två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
@@ -128,8 +121,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Seter på tredje rad
-
-
 
 Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
@@ -153,11 +144,9 @@ Hongqi E-HS9 Exclusive+ inkluderar flera funktioner för att förbättra komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Hongqi E-HS9 Exclusive+ har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). I mitten av instrumentbrädan är en infotainmentskärm, och i mittkonsolen finns en skärm för klimatsystemet. För passageraren finns en infotainmentskärm.
-
 
 Viktiga skärmdetaljer:
 
@@ -169,7 +158,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
-
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 
@@ -184,7 +172,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Exclusive+.
 
 - Med Hongqi sound system får du 16 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
 
@@ -223,6 +210,7 @@ Hongqi E-HS9 Exclusive+ inkluderar flera [avancerade förarassistanssystem](../.
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

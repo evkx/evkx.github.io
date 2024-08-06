@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/han/han/main_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 Vi har delat in vår beskrivning av BYD Han i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -53,13 +51,11 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BYD Han har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
-
 
 ### Styrning
 
@@ -81,6 +77,7 @@ BYD Han, med dimensioner på 4995 mm i längd, 1910 mm i bredd och 1495 mm i hö
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Han, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/40 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
@@ -94,9 +91,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -124,14 +119,11 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -140,7 +132,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -156,11 +147,9 @@ BYD Han inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 BYD Han har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -187,7 +176,6 @@ Du kan välja mellan två ljudsystem på BYD Han.
 
 - Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt.
 - Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 5 USB-A-anslutningar som standard.
 
@@ -228,10 +216,12 @@ BYD Han inkluderar flera [avancerade förarassistanssystem](../../../../technolo
 BYD Han erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Smart Pilot  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 

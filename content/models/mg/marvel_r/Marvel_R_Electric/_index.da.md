@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/main_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1708"  >}}
 
 Vi har opdelt vores MG Marvel R Electric artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG Marvel R Electric har et baghjulstræksystem, der understøttes af en motor på bagakslen.
@@ -73,7 +70,6 @@ Den MG Marvel R Electric, med dimensioner på 4674 mm i længde, 1919 mm i bredd
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG Marvel R Electric, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
@@ -85,13 +81,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
-
 
 #### Første række sæder
 
@@ -102,6 +96,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - elektrisk justering
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/læderbetræk](../../../../technology/seats/materials/#alcantara)
@@ -110,12 +105,9 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -124,7 +116,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -138,10 +129,7 @@ MG Marvel R Electric inkluderer flere funktioner, der forbedrer komfort og bekve
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -151,7 +139,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -170,7 +157,6 @@ Yderligere understøtter MG Marvel R Electric Android Auto og Apple CarPlay. Den
 Én type lydsystem er tilgængelig for MG Marvel R Electric.
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-A-forbindelser som standard.
 
@@ -193,6 +179,7 @@ Den MG Marvel R Electric inkluderer flere standard- og valgfri [avancerede føre
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

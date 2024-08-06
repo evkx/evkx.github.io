@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Seres 5 4WD Premium features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -75,6 +72,7 @@ The Seres 5 4WD Premium, with dimensions of 4710 mm in length, 1930 mm in width,
 
 You can select from multiple wheel options in different sizes on the Seres 5 4WD Premium, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -91,13 +89,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 #### First row seats
 
@@ -112,16 +108,14 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -146,10 +140,7 @@ The Seres 5 4WD Premium includes several features to enhance comfort and conveni
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -171,7 +162,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Seres 5 4WD Premium.
 
 - With the , you get 11 speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -202,6 +192,7 @@ The Seres 5 4WD Premium includes several standard and optional [advanced driver 
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

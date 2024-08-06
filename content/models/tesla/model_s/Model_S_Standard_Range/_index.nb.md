@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/main_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2250"  >}}
 
 Vi har delt vår beskrivelse av Tesla Model S Standard Range i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Tesla Model S Standard Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
@@ -79,6 +76,7 @@ Tesla Model S Standard Range, med dimensjoner på 5021 mm i lengde, 1987 mm i br
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model S Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 255/45 dekk på 19" felger foran og 285/40 dekk på 19" felger bak
 - 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
@@ -95,9 +93,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -118,15 +114,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/secondrowseats_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -135,7 +127,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -150,7 +141,6 @@ Tesla Model S Standard Range inkluderer flere funksjoner for å forbedre komfort
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Brukergrensesnitt og kontroll
 
@@ -177,7 +167,6 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Én type lydsystem er tilgjengelig for Tesla Model S Standard Range.
 
 - Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
-
 
 ## Lys
 
@@ -212,15 +201,18 @@ Tesla Model S Standard Range inkluderer flere [avanserte førerassistanse system
 Tesla Model S Standard Range tilbyr [kjøreautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med Basic Autopilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 Med Enhanced Autopilot  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med Full Self-Driving Capability  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - Trafikklys kontroll - følger trafikklysene.
 - Stopp-skiltkontroll - følg stopp-skilt.
 

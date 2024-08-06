@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/main_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2095"  >}}
 
 Nous avons séparé notre article BMW iX1 xDrive30 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 BMW iX1 xDrive30 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
@@ -65,8 +62,6 @@ La direction dynamique est une fonctionnalité un standard sur le BMW iX1 xDrive
 
 ### Freins
 
-
-
 ### Freinage régénératif
 
 Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. **Le mode Hold** arrête complètement le véhicule en utilisant les freins à friction, et **le mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement.
@@ -78,6 +73,7 @@ La puissance régénérative maximale est de 134 kW.
 La BMW iX1 xDrive30, avec des dimensions de 4500 mm de longueur, 1845 mm de largeur et 1616 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW iX1 xDrive30, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 205/65 sur jantes de 17"
 - Pneus 255/60 sur jantes de 18"
@@ -96,9 +92,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -121,8 +115,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique
@@ -140,14 +132,11 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/secondrowseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
@@ -156,7 +145,6 @@ Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et 
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -171,11 +159,9 @@ L'BMW iX1 xDrive30 comprend plusieurs fonctionnalités pour améliorer le confor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le BMW iX1 xDrive30 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -202,7 +188,6 @@ Vous pouvez choisir entre deux systèmes audio sur le BMW iX1 xDrive30.
 
 - Avec le Harman Kardon Surround Sound system, vous obtenez 16 haut-parleurs avec une puissance système maximale de 464 watts.
 - Avec le Harman Kardon Surround Sound system, vous obtenez 16 haut-parleurs avec une puissance système maximale de 464 watts.
-
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -240,6 +225,7 @@ Le BMW iX1 xDrive30 comprend plusieurs [systèmes avancés d'assistance au condu
 ### Automatisation de la Conduite
 
 Avec le système Driving Assistant Professional  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

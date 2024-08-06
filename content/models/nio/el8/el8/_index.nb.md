@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/el8/el8/main_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 Vi har delt vår beskrivelse av Nio EL8 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -68,7 +66,6 @@ Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Nio EL8 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
@@ -97,6 +94,7 @@ Nio EL8, med dimensjoner på 5099 mm i lengde, 1989 mm i bredde og 1750 mm i hø
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio EL8, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 265/50 dekk på 20" felger
 - 265/45 dekk på 21" felger
 
@@ -111,9 +109,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -162,8 +158,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 
 #### Seter på tredje rad
 
-
-
 Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
@@ -186,10 +180,7 @@ Nio EL8 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -199,7 +190,6 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
-
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -215,7 +205,6 @@ Du kan velge mellom to lydsystemer på Nio EL8.
 
 - Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt.
 - Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 3 USB-A-tilkoblinger som standard.
 
@@ -254,10 +243,12 @@ Nio EL8 inkluderer flere [avanserte førerassistanse systemer](../../../../techn
 Nio EL8 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med NIO Pilot Selected Pack  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 Med NIO Pilot Complete Pack  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - Avansert cruisekontroll som følger navigasjonen og slår av og på på hovedveier for å nå målet.
 

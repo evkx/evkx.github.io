@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Kia EV6 Long Range AWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Kia EV6 Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -62,8 +59,6 @@ Kia EV6 Long Range AWD har et firehjulstræk, der understøttes af to motorer, e
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsning
 
@@ -76,6 +71,7 @@ Den maksimale regenerative effekt er 150 kW.
 Den Kia EV6 Long Range AWD, med dimensioner på 4680 mm i længde, 1880 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 11 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Kia EV6 Long Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
@@ -93,13 +89,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 #### Første række sæder
 
@@ -115,6 +109,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black/White [læderpolstring](../../../../technology/seats/materials/#leather)
@@ -126,14 +121,11 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2400"  >}}
-
 
 Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
 
@@ -142,7 +134,6 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -155,11 +146,9 @@ Kia EV6 Long Range AWD inkluderer flere funktioner, der forbedrer komfort og bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Kia EV6 Long Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -186,7 +175,6 @@ Du kan vælge mellem to lydsystemer på Kia EV6 Long Range AWD.
 
 - Med Standard får du seks højttalere med en maksimal systemeffekt på  watt.
 - Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -223,6 +211,7 @@ Den Kia EV6 Long Range AWD inkluderer flere standard- og valgfri [avancerede fø
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

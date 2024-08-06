@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Chevrolet Silverado EV 4WT i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Chevrolet Silverado EV 4WT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -62,8 +59,6 @@ Chevrolet Silverado EV 4WT har et firehjulsdriftssystem som støttes av to motor
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 227 mm.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsing
 
@@ -77,6 +72,7 @@ Chevrolet Silverado EV 4WT er tilgjengelig i totalt 1 lakkfarger, inkludert fler
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Chevrolet Silverado EV 4WT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 265/70 dekk på 18" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
@@ -88,9 +84,7 @@ Det er bare ett tak for denne modellen.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -108,13 +102,12 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -123,7 +116,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
-
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
@@ -131,7 +123,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -147,11 +138,9 @@ Chevrolet Silverado EV 4WT inkluderer flere funksjoner for å forbedre komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Chevrolet Silverado EV 4WT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -178,7 +167,6 @@ I tillegg støtter Chevrolet Silverado EV 4WT Android Auto og Apple CarPlay. Den
 
 - Med Chevrolet Sound System får du seks høyttalere med en maksimal systemeffekt på 200 watt.
 
-
 Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
@@ -204,6 +192,7 @@ Chevrolet Silverado EV 4WT inkluderer flere [avanserte førerassistanse systemer
 Chevrolet Silverado EV 4WT tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

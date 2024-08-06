@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/main_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
 Vi har delt vår beskrivelse av Polestar 2 Long Range Single Motor i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Polestar 2 Long Range Single Motor har et bakhjulsdriftssystem støttet av en motor på bakakselen.
@@ -75,6 +72,7 @@ Polestar 2 Long Range Single Motor, med dimensjoner på 4606 mm i lengde, 1859 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Polestar 2 Long Range Single Motor, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 245/45 dekk på 19" felger
 - 245/40 dekk på 20" felger
 
@@ -88,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -109,6 +106,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
@@ -119,14 +117,11 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -135,7 +130,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -150,11 +144,9 @@ Polestar 2 Long Range Single Motor inkluderer flere funksjoner for å forbedre k
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Polestar 2 Long Range Single Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -173,7 +165,6 @@ Du kan velge mellom to lydsystemer på Polestar 2 Long Range Single Motor.
 
 - Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -209,6 +200,7 @@ Polestar 2 Long Range Single Motor inkluderer flere [avanserte førerassistanse 
 ### Kjøreautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

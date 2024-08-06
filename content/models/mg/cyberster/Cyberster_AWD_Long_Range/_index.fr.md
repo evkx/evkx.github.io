@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
 Nous avons séparé notre article MG Cyberster AWD Long Range en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 MG Cyberster AWD Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -73,6 +70,7 @@ La MG Cyberster AWD Long Range est disponible en un total de 7 couleurs de peint
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG Cyberster AWD Long Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 245/45 sur jantes de 19" à l'avant et pneus 275/40 sur jantes de 19" à l'arrière
 
 La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière.
@@ -84,13 +82,11 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -101,11 +97,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - réglage électrique
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/revêtement en similicuir](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -114,7 +110,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -128,11 +123,9 @@ L'MG Cyberster AWD Long Range comprend plusieurs fonctionnalités pour améliore
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -144,7 +137,6 @@ Détails clés de l'écran :
 Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -163,7 +155,6 @@ De plus, le MG Cyberster AWD Long Range prend en charge Android Auto et Apple Ca
 Un type de système audio est disponible pour le MG Cyberster AWD Long Range.
 
 - Avec le Bose Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 300 watts.
-
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -186,6 +177,7 @@ Le MG Cyberster AWD Long Range comprend plusieurs [systèmes avancés d'assistan
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

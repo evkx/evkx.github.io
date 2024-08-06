@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/main_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 Vi har opdelt vores Rivian R1S Dual-Motor AWD SP artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Rivian R1S Dual-Motor AWD SP har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -75,7 +72,6 @@ Den Rivian R1S Dual-Motor AWD SP, med dimensioner på 5100 mm i længde,  mm i b
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Rivian R1S Dual-Motor AWD SP, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [delt bagklap](../../../../technology/doors/#split-bagklap), hvor den nederste del falder og den øverste del løftes.
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
@@ -87,9 +83,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -109,6 +103,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Green [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
@@ -117,16 +112,12 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Sæder på tredje række
-
-
 
 Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
 
@@ -137,7 +128,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -153,11 +143,9 @@ Rivian R1S Dual-Motor AWD SP inkluderer flere funktioner, der forbedrer komfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Rivian R1S Dual-Motor AWD SP har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +155,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/screens_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -184,7 +171,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Rivian R1S Dual-Motor AWD SP.
 
 - Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
-
 
 Modellen har 6 USB-C-forbindelser som standard.
 
@@ -219,6 +205,7 @@ Den Rivian R1S Dual-Motor AWD SP inkluderer flere standard- og valgfri [avancere
 ### Køreautomatisering
 
 Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

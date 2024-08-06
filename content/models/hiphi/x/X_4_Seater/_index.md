@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/main_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 HiPhi X 4 Seater features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The HiPhi X 4 Seater, with dimensions of 5200 mm in length,  mm in width, and 16
 
 You can select from multiple wheel designs, all available in the same size, on the HiPhi X 4 Seater, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 22" rims
 
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors.
@@ -92,9 +90,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -116,13 +112,11 @@ The following functionalities are available on the **standard** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
-
-
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
@@ -139,7 +133,6 @@ There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
@@ -155,11 +148,9 @@ The HiPhi X 4 Seater includes several features to enhance comfort and convenienc
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The HiPhi X 4 Seater has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -170,7 +161,6 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -186,7 +176,6 @@ You can choose between two sound systems on the HiPhi X 4 Seater.
 
 - With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts.
 - With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -223,6 +212,7 @@ The HiPhi X 4 Seater includes several standard and optional [advanced driver ass
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

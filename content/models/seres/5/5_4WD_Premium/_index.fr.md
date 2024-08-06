@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
 Nous avons séparé notre article Seres 5 4WD Premium en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Seres 5 4WD Premium dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -75,6 +72,7 @@ La Seres 5 4WD Premium, avec des dimensions de 4710 mm de longueur, 1930 mm de l
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Seres 5 4WD Premium, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/50 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
 
@@ -91,13 +89,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -112,16 +108,14 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+
 - Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -146,10 +140,7 @@ L'Seres 5 4WD Premium comprend plusieurs fonctionnalités pour améliorer le con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -171,7 +162,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le Seres 5 4WD Premium.
 
 - Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 
@@ -202,6 +192,7 @@ Le Seres 5 4WD Premium comprend plusieurs [systèmes avancés d'assistance au co
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

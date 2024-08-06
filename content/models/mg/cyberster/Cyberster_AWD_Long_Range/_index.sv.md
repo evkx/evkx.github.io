@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
 Vi har delat in vår beskrivning av MG Cyberster AWD Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 MG Cyberster AWD Long Range har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -73,6 +70,7 @@ MG Cyberster AWD Long Range finns i totalt 7 lackfärger, inklusive flera iögon
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG Cyberster AWD Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 däck på 19" fälgar fram och 275/40 däck på 19" fälgar bak
 
 Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom.
@@ -84,13 +82,11 @@ Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp so
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -101,11 +97,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -114,7 +110,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -128,11 +123,9 @@ MG Cyberster AWD Long Range inkluderar flera funktioner för att förbättra kom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm)
-
 
 Viktiga skärmdetaljer:
 
@@ -144,7 +137,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -163,7 +155,6 @@ Dessutom stöder MG Cyberster AWD Long Range Android Auto och Apple CarPlay. Den
 En typ av ljudsystem är tillgänglig för MG Cyberster AWD Long Range.
 
 - Med Bose Sound System får du sex högtalare med en maximal systemeffekt på 300 watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -186,6 +177,7 @@ MG Cyberster AWD Long Range inkluderar flera [avancerade förarassistanssystem](
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

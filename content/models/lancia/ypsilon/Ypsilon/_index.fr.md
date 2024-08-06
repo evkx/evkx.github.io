@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/main_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 Nous avons séparé notre article Lancia Ypsilon en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Lancia Ypsilon dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
@@ -63,8 +60,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Freins
 
-
-
 ### Freinage régénératif
 
 [Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
@@ -74,6 +69,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 La Lancia Ypsilon, avec des dimensions de 4080 mm de longueur, 1760 mm de largeur et 1440 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. La Lancia Ypsilon est disponible en un total de 7 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Lancia Ypsilon, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 215/45 sur jantes de 18" à l'avant et pneus 215/45 sur jantes de 18" à l'arrière
 
@@ -87,7 +83,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -109,6 +104,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
@@ -118,14 +114,11 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/secondrowseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -134,7 +127,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -148,11 +140,9 @@ L'Lancia Ypsilon comprend plusieurs fonctionnalités pour améliorer le confort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Lancia Ypsilon possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -178,7 +168,6 @@ De plus, le Lancia Ypsilon prend en charge Android Auto et Apple CarPlay. Cette 
 Un type de système audio est disponible pour le Lancia Ypsilon.
 
 - Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 3 connexions USB-C en standard.
 
@@ -207,6 +196,7 @@ Le Lancia Ypsilon comprend plusieurs [systèmes avancés d'assistance au conduct
 Lancia Ypsilon offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système DS Drive Assist  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/opel/frontera/main_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Opel Frontera en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Opel Frontera tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
@@ -79,6 +76,7 @@ El Opel Frontera, con dimensiones de 4385 mm de longitud, 1795 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Opel Frontera, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 205/55 en llantas de 16
 - Neumáticos 205/50 en llantas de 17
 
@@ -95,9 +93,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -109,19 +105,17 @@ Para la primera fila, el Opel Frontera ofrece dos tipos diferentes de asientos p
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
-
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
+- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 #### Asientos de la segunda fila
 
@@ -133,11 +127,9 @@ La opción standard es un banco de tres asientos con una división 100 donde pue
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
-
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -146,7 +138,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
-
 
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
@@ -159,11 +150,9 @@ El Opel Frontera incluye varias características para mejorar la comodidad y con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Opel Frontera tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -173,7 +162,6 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -193,7 +181,6 @@ Puedes elegir entre dos sistemas de sonido en el Opel Frontera.
 
 - Con el , obtienes dos parlantes con una salida máxima del sistema de  vatios.
 - Con el Max Sound system, obtienes dos parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
@@ -220,6 +207,7 @@ El Opel Frontera incluye varios [sistemas avanzados de asistencia al conductor](
 ### Automatización de la Conducción
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
 - Control de crucero.
 
 ### Sensores y Cámaras

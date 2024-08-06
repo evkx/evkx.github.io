@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/main_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Porsche Macan 4 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Porsche Macan 4 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -81,6 +78,7 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsche Macan 4, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/55 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
 - 245/45 dekk på 21" felger foran og 295/40 dekk på 21" felger bak
 - 255/40 dekk på 22" felger foran og 295/35 dekk på 22" felger bak
@@ -98,9 +96,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -129,8 +125,6 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
-
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 - elektrisk justering
@@ -146,17 +140,13 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -166,7 +156,6 @@ To klimasystemalternativer er tilgjengelige:
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -180,11 +169,9 @@ Porsche Macan 4 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Macan 4 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
-
 
 Viktige skjermdetaljer:
 
@@ -212,7 +199,6 @@ Du kan velge mellom to lydsystemer på Porsche Macan 4.
 
 - Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 
@@ -258,10 +244,12 @@ Porsche Macan 4 inkluderer flere [avanserte førerassistanse systemer](../../../
 Porsche Macan 4 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/main_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Lucid Air Dream Edition Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lucid Air Dream Edition Range har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Den Lucid Air Dream Edition Range, med dimensioner på 4975 mm i længde, 1939 m
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Air Dream Edition Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 245/45 dæk on 19" fælge
 - 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/40 dæk på 21" fælge foran og 265/40 dæk på 21" fælge bagpå
@@ -92,9 +90,7 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -122,14 +118,11 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2077"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -138,7 +131,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -154,11 +146,9 @@ Lucid Air Dream Edition Range inkluderer flere funktioner, der forbedrer komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -183,7 +173,6 @@ Du kan vælge mellem to lydsystemer på Lucid Air Dream Edition Range.
 
 - Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt.
 - Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
-
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -216,6 +205,7 @@ Den Lucid Air Dream Edition Range inkluderer flere standard- og valgfri [avancer
 ### Køreautomatisering
 
 Med ADAS  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

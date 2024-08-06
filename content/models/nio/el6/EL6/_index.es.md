@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/el6/el6/main_1_st.jpg" title="Nio EL6" width="2880" height="1600"  >}}
 
 Hemos separado nuestro artículo Nio EL6 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -68,7 +66,6 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Nio EL6 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
@@ -97,6 +94,7 @@ El Nio EL6, con dimensiones de 4854 mm de longitud, 1995 mm de anchura y 1703 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio EL6, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 255/50 en llantas de 20
 - Neumáticos 255/45 en llantas de 21
 
@@ -111,9 +109,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -143,8 +139,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
@@ -157,7 +151,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -173,10 +166,7 @@ El Nio EL6 incluye varias características para mejorar la comodidad y convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -186,7 +176,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -201,7 +190,6 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 Un tipo de sistema de sonido está disponible para el Nio EL6.
 
 - Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -240,10 +228,12 @@ El Nio EL6 incluye varios [sistemas avanzados de asistencia al conductor](../../
 Nio EL6 ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema NIO Pilot Selected Pack  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 

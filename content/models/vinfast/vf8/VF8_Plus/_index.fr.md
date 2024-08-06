@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/main_1_st.jpg" title="VinFast VF8 Plus" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article VinFast VF8 Plus en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -48,7 +46,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 VinFast VF8 Plus dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -81,6 +78,7 @@ La VinFast VF8 Plus, avec des dimensions de 4750 mm de longueur, 1934 mm de larg
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'VinFast VF8 Plus, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 245/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
@@ -94,13 +92,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -116,15 +112,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -133,7 +127,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -154,11 +147,9 @@ L'VinFast VF8 Plus comprend plusieurs fonctionnalités pour améliorer le confor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le VinFast VF8 Plus a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
-
 
 Détails clés de l'écran :
 
@@ -167,7 +158,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -186,7 +176,6 @@ De plus, le VinFast VF8 Plus prend en charge Android Auto et Apple CarPlay. Cett
 Un type de système audio est disponible pour le VinFast VF8 Plus.
 
 - Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 4 connexions USB-A en standard.
 
@@ -221,6 +210,7 @@ Le VinFast VF8 Plus comprend plusieurs [systèmes avancés d'assistance au condu
 ### Automatisation de la Conduite
 
 Avec le système Highway Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

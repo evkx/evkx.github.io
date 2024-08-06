@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/main_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
 
 Vi har opdelt vores Porsche Macan Turbo artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Porsche Macan Turbo har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -81,6 +78,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Porsche Macan Turbo, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/55 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
 - 245/45 dæk på 21" fælge foran og 295/40 dæk på 21" fælge bagpå
 - 255/40 dæk på 22" fælge foran og 295/35 dæk på 22" fælge bagpå
@@ -98,9 +96,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -122,8 +118,6 @@ Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
-
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 - elektrisk justering
@@ -142,14 +136,11 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -159,7 +150,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -173,11 +163,9 @@ Porsche Macan Turbo inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Macan Turbo har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
-
 
 Vigtige skærmdetaljer:
 
@@ -205,7 +193,6 @@ Du kan vælge mellem to lydsystemer på Porsche Macan Turbo.
 
 - Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -251,10 +238,12 @@ Den Porsche Macan Turbo inkluderer flere standard- og valgfri [avancerede fører
 Porsche Macan Turbo tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Porsche InnoDrive  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 

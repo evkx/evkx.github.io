@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/main_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -72,7 +70,6 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Porsche Taycan 4S Sport Turismo (GEN1) features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -110,9 +107,8 @@ The optional SportDesign package contains a specially designed upper part front 
 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
-
-
 You can select from multiple wheel options in different sizes on the Porsche Taycan 4S Sport Turismo (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
@@ -129,9 +125,7 @@ There are three different roof options to select from. The standard is just a re
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -150,8 +144,6 @@ The following functionalities are available on the **Comfort** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **Comfortseats with memory** seat.
 
 - electric adjustment
@@ -161,8 +153,6 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 2 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **Sportsseats Plus** seat.
 
@@ -195,7 +185,6 @@ The second option is two integrated seats in the second row with a third smaller
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -203,7 +192,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -217,11 +205,9 @@ The Porsche Taycan 4S Sport Turismo (GEN1) includes several features to enhance 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Porsche Taycan 4S Sport Turismo (GEN1) has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
-
 
 Key screen details:
 
@@ -251,7 +237,6 @@ You can choose between three sound systems on the Porsche Taycan 4S Sport Turism
 - With the Porsche Sound system, you get ten speakers with a max system output of 150 watts.
 - With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts.
 - With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
-
 
 ## Lights
 
@@ -295,10 +280,12 @@ The Porsche Taycan 4S Sport Turismo (GEN1) includes several standard and optiona
 The Porsche Taycan 4S Sport Turismo (GEN1) offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/main_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -58,7 +56,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo C40 Recharge Single Motor ER has a rear-wheel drive system supported by one motor on the rear axle.
@@ -81,6 +78,7 @@ The Volvo C40 Recharge Single Motor ER, with dimensions of 4440 mm in length, 18
 
 You can select from multiple wheel options in different sizes on the Volvo C40 Recharge Single Motor ER, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/50 tires on 19" rims
 - 235/45 tires on 20" rims
 
@@ -95,9 +93,7 @@ There are two different roof options to select from. As an option, you can order
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -119,14 +115,11 @@ You can choose from 1 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -135,7 +128,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -150,11 +142,9 @@ The Volvo C40 Recharge Single Motor ER includes several features to enhance comf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -173,7 +163,6 @@ You can choose between two sound systems on the Volvo C40 Recharge Single Motor 
 
 - With the High Performance, you get eight speakers with a max system output of 200 watts.
 - With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
-
 
 The model has 1 USB-C connections as standard.
 
@@ -209,6 +198,7 @@ The Volvo C40 Recharge Single Motor ER includes several standard and optional [a
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

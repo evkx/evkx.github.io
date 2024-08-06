@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/main_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo Audi Q4 Sportback 45 e-tron quattro (GEN1) en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -56,7 +54,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Audi Q4 Sportback 45 e-tron quattro (GEN1) tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
@@ -89,6 +86,7 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q4 Sportback 45 e-tron quattro (GEN1), lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 - Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
@@ -106,9 +104,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -126,8 +122,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 
@@ -147,11 +141,9 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Audi Q4 Sportback
 
 La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -161,7 +153,6 @@ Hay dos opciones de sistema de climatización disponibles:
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
@@ -177,11 +168,9 @@ El Audi Q4 Sportback 45 e-tron quattro (GEN1) incluye varias características pa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Audi Q4 Sportback 45 e-tron quattro (GEN1) tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -208,7 +197,6 @@ Puedes elegir entre dos sistemas de sonido en el Audi Q4 Sportback 45 e-tron qua
 
 - Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios.
 - Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
-
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
@@ -257,10 +245,12 @@ El Audi Q4 Sportback 45 e-tron quattro (GEN1) incluye varios [sistemas avanzados
 Audi Q4 Sportback 45 e-tron quattro (GEN1) ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - Control de crucero.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

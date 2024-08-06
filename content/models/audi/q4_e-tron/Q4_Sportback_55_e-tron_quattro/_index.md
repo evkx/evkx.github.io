@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/main_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="1999"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Audi Q4 Sportback 55 e-tron quattro features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -85,9 +82,8 @@ You can also choose several styling options to make your car more unique.
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-
-
 You can select from multiple wheel options in different sizes on the Audi Q4 Sportback 55 e-tron quattro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
@@ -106,9 +102,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -126,8 +120,6 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **sport** seat.
 
@@ -147,11 +139,9 @@ You can choose two seat types for the second row in the Audi Q4 Sportback 55 e-t
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2001"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -161,7 +151,6 @@ Two climate system options are available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -177,11 +166,9 @@ The Audi Q4 Sportback 55 e-tron quattro includes several features to enhance com
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Audi Q4 Sportback 55 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -208,7 +195,6 @@ You can choose between two sound systems on the Audi Q4 Sportback 55 e-tron quat
 
 - With the Audi Sound system, you get eight speakers with a max system output of 180 watts.
 - With the Sonos Sound System, you get ten speakers with a max system output of 580 watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -257,10 +243,12 @@ The Audi Q4 Sportback 55 e-tron quattro includes several standard and optional [
 The Audi Q4 Sportback 55 e-tron quattro offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

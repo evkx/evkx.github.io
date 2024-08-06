@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/opel/frontera/main_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 Vi har opdelt vores Opel Frontera artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Opel Frontera har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -79,6 +76,7 @@ Den Opel Frontera, med dimensioner på 4385 mm i længde, 1795 mm i bredde og 16
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Opel Frontera, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 205/55 dæk on 16" fælge
 - 205/50 dæk on 17" fælge
 
@@ -95,9 +93,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -109,19 +105,17 @@ For første række tilbyder Opel Frontera to forskellige sædetyper at vælge im
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 
-
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
+- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 #### Sæder på anden række
 
@@ -133,11 +127,9 @@ Muligheden standard er en tre-sædet bænk med en 100 del, hvor du kan folde hve
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
-
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
-
 
 Der er kun én type rat tilgængelig.
 
@@ -146,7 +138,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -159,11 +150,9 @@ Opel Frontera inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Opel Frontera har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -173,7 +162,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -193,7 +181,6 @@ Du kan vælge mellem to lydsystemer på Opel Frontera.
 
 - Med  får du to højttalere med en maksimal systemeffekt på  watt.
 - Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -220,6 +207,7 @@ Den Opel Frontera inkluderer flere standard- og valgfri [avancerede førerassist
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - Fartpilot.
 
 ### Sensorer & Kameraer

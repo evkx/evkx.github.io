@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/main_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="2050"  >}}
 
 Vi har delt vår beskrivelse av Hongqi E-HS9 Premium i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Hongqi E-HS9 Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Hongqi E-HS9 Premium, med dimensjoner på 5209 mm i lengde, 2010 mm i bredde og 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hongqi E-HS9 Premium, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 265/45 dekk på 21" felger
 - 275/40 dekk på 22" felger
 
@@ -91,9 +89,7 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -115,10 +111,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -126,8 +119,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 #### Seter på tredje rad
-
-
 
 Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
@@ -151,11 +142,9 @@ Hongqi E-HS9 Premium inkluderer flere funksjoner for å forbedre komfort og bekv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Hongqi E-HS9 Premium har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det infotainmentskjerm.
-
 
 Viktige skjermdetaljer:
 
@@ -167,7 +156,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
-
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -182,7 +170,6 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Én type lydsystem er tilgjengelig for Hongqi E-HS9 Premium.
 
 - Med Hongqi sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 
@@ -221,6 +208,7 @@ Hongqi E-HS9 Premium inkluderer flere [avanserte førerassistanse systemer](../.
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

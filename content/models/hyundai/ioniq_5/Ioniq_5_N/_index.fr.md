@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Hyundai Ioniq 5 N en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Hyundai Ioniq 5 N dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -60,8 +57,6 @@ Hyundai Ioniq 5 N dispose d'un système de transmission intégrale pris en charg
 La suspension  est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 158 mm.
 
 ### Freins
-
-
 
 ### Freinage régénératif
 
@@ -74,6 +69,7 @@ La puissance régénérative maximale est de 150 kW.
 La Hyundai Ioniq 5 N, avec des dimensions de 4715 mm de longueur, 1940 mm de largeur et 1585 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Hyundai Ioniq 5 N est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Hyundai Ioniq 5 N, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 275/35 sur jantes de 21"
 
@@ -88,13 +84,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -108,13 +102,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -128,7 +120,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
@@ -140,11 +131,9 @@ L'Hyundai Ioniq 5 N comprend plusieurs fonctionnalités pour améliorer le confo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Hyundai Ioniq 5 N possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -170,7 +159,6 @@ De plus, le Hyundai Ioniq 5 N prend en charge Android Auto et Apple CarPlay. Cet
 Un type de système audio est disponible pour le Hyundai Ioniq 5 N.
 
 - Avec le Bose Premium Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -207,6 +195,7 @@ Le Hyundai Ioniq 5 N comprend plusieurs [systèmes avancés d'assistance au cond
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

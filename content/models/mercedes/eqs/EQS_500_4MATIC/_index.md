@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-EQ EQS 500 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -82,9 +79,8 @@ The Mercedes-EQ EQS 500 4MATIC, with dimensions of 5216 mm in length, 1926 mm in
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-
-
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQS 500 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims
 - 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
@@ -99,9 +95,7 @@ There are two different roof options to select from. The standard is just a regu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -122,8 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **multicontour** seat.
 
@@ -161,7 +153,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2250"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -183,7 +174,6 @@ The Mercedes-EQ EQS 500 4MATIC includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 Two different screen setups are available on the Mercedes-EQ EQS 500 4MATIC.
@@ -195,9 +185,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
 - The touch screen in the middle of the center console is 12.8 inches large
 
-
 The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -208,7 +196,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1875"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -230,7 +217,6 @@ You can choose between two sound systems on the Mercedes-EQ EQS 500 4MATIC.
 
 - With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
 - With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
-
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -267,13 +253,16 @@ The Mercedes-EQ EQS 500 4MATIC includes several standard and optional [advanced 
 The Mercedes-EQ EQS 500 4MATIC offers [driving automation at levels 1,2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
+
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 

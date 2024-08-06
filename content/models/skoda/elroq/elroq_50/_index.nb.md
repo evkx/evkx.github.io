@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/main_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
 Vi har delt vår beskrivelse av SKODA Elroq 50 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 SKODA Elroq 50 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ SKODA Elroq 50, med dimensjoner på 4488 mm i lengde, 1879 mm i bredde og 1625 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på SKODA Elroq 50, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
@@ -95,9 +93,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -118,13 +114,9 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -133,7 +125,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -148,11 +139,9 @@ SKODA Elroq 50 inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 SKODA Elroq 50 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -176,7 +165,6 @@ I tillegg støtter SKODA Elroq 50 Android Auto og Apple CarPlay. Denne funksjona
 Én type lydsystem er tilgjengelig for SKODA Elroq 50.
 
 - Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -218,6 +206,7 @@ SKODA Elroq 50 inkluderer flere [avanserte førerassistanse systemer](../../../.
 ### Kjøreautomatisering
 
 Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

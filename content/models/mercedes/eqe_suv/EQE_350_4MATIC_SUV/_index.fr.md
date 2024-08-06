@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/main_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2002"  >}}
 
 Nous avons séparé notre article Mercedes-EQ EQE 350 4MATIC SUV en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Mercedes-EQ EQE 350 4MATIC SUV dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -81,6 +78,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQE 350 4MATIC SUV, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 265/40 sur jantes de 20" à l'avant et pneus 295/35 sur jantes de 20" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 - Pneus 265/35 sur jantes de 22" à l'avant et pneus 295/30 sur jantes de 22" à l'arrière
@@ -96,9 +94,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -120,8 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 - réglage électrique
@@ -142,8 +136,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
@@ -157,7 +149,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -173,7 +164,6 @@ L'Mercedes-EQ EQE 350 4MATIC SUV comprend plusieurs fonctionnalités pour améli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Mercedes-EQ EQE 350 4MATIC SUV.
@@ -185,9 +175,7 @@ Détails clés de l'écran :
 - L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces
 - L'écran touch au milieu de la console centrale mesure 12,8 pouces
 
-
 La disposition facultative MBUX Hyperscreen a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
-
 
 Détails clés de l'écran :
 
@@ -198,7 +186,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2001"  >}}
-
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -220,7 +207,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ EQE 350 4MATIC
 
 - Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts.
 - Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -262,10 +248,12 @@ Le Mercedes-EQ EQE 350 4MATIC SUV comprend plusieurs [systèmes avancés d'assis
 Mercedes-EQ EQE 350 4MATIC SUV offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système Driver Assistance Package  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système Driver Assistance Package Plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/main_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 Vi har opdelt vores Lancia Ypsilon artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lancia Ypsilon har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -63,8 +60,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
@@ -74,6 +69,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 Den Lancia Ypsilon, med dimensioner på 4080 mm i længde, 1760 mm i bredde og 1440 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Lancia Ypsilon fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Lancia Ypsilon, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 215/45 dæk på 18" fælge foran og 215/45 dæk på 18" fælge bagpå
 
@@ -87,7 +83,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -109,6 +104,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
@@ -118,14 +114,11 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/secondrowseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -134,7 +127,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -148,11 +140,9 @@ Lancia Ypsilon inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Lancia Ypsilon har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -178,7 +168,6 @@ Yderligere understøtter Lancia Ypsilon Android Auto og Apple CarPlay. Denne fun
 Én type lydsystem er tilgængelig for Lancia Ypsilon.
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 3 USB-C-forbindelser som standard.
 
@@ -207,6 +196,7 @@ Den Lancia Ypsilon inkluderer flere standard- og valgfri [avancerede førerassis
 Lancia Ypsilon tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

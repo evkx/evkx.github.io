@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/main_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 Vi har delt vår beskrivelse av Zeekr 009 ME Edition i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Zeekr 009 ME Edition har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Zeekr 009 ME Edition er tilgjengelig i totalt 3 lakkfarger, inkludert flere iøy
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Zeekr 009 ME Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 255/50 dekk på 19" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
@@ -85,7 +83,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -108,16 +105,14 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 #### Seter på andre rad
-
-
 
 For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -130,8 +125,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 #### Seter på tredje rad
 
-
-
 Den tredje raden har en to-seters benk med en 40:60-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
@@ -141,7 +134,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -157,11 +149,9 @@ Zeekr 009 ME Edition inkluderer flere funksjoner for å forbedre komfort og bekv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -171,7 +161,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -190,7 +179,6 @@ I tillegg støtter Zeekr 009 ME Edition Android Auto og Apple CarPlay. Denne fun
 Én type lydsystem er tilgjengelig for Zeekr 009 ME Edition.
 
 - Med Yamaha Sound System får du 20 høyttalere med en maksimal systemeffekt på 300 watt.
-
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -221,6 +209,7 @@ Zeekr 009 ME Edition inkluderer flere [avanserte førerassistanse systemer](../.
 ### Kjøreautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

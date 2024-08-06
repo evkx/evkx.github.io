@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 DS 3 E-Tense features an all-wheel drive system powered by two motors, one on each axle.
@@ -63,8 +60,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
@@ -74,6 +69,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 The DS 3 E-Tense, with dimensions of 4118 mm in length, 1802 mm in width, and 1534 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The DS 3 E-Tense is available in a total of 5 solid paint colors.
 
 You can select from multiple wheel options in different sizes on the DS 3 E-Tense, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
@@ -90,7 +86,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -110,26 +105,21 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -143,10 +133,7 @@ The DS 3 E-Tense includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -173,7 +160,6 @@ One type of sound system is available for the DS 3 E-Tense.
 
 - With the , you get NULL speakers with a max system output of  watts.
 
-
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -195,6 +181,7 @@ The DS 3 E-Tense includes several standard and optional [advanced driver assista
 The DS 3 E-Tense offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the DS Drive Assist  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

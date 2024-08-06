@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/main_1_st.jpg" title="Rimac Nevera" width="3000" height="1999"  >}}
 
 Vi har delat in vår beskrivning av Rimac Nevera i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -49,7 +47,6 @@ Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-l
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivlina
 
@@ -91,9 +88,8 @@ Rimac Nevera finns i totalt 5 lackfärger, inklusive flera iögonfallande metall
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rimac Nevera, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 275/35 däck på 20" fälgar fram och 315/35 däck på 20" fälgar bak
-
-
 
 Det finns bara ett tak för denna modell.
 
@@ -102,12 +98,9 @@ Det finns bara ett tak för denna modell.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
-
 ### Säten
-
 
 #### Framsäten
 
@@ -118,10 +111,10 @@ Följande funktioner är tillgängliga på **** sätet.
 - elektrisk justering
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 - Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -130,7 +123,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -144,11 +136,9 @@ Rimac Nevera inkluderar flera funktioner för att förbättra komfort och bekvä
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Rimac Nevera har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
-
 
 Viktiga skärmdetaljer:
 
@@ -176,7 +166,6 @@ En typ av ljudsystem är tillgänglig för Rimac Nevera.
 
 - Med Rimac Nevera Sound System får du åtta högtalare med en maximal systemeffekt på 1200 watt.
 
-
 ## Ljus
 
 **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
@@ -198,6 +187,7 @@ Rimac Nevera inkluderar flera [avancerade förarassistanssystem](../../../../tec
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

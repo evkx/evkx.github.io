@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/el7/el7/main_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 Vi har delat in vår beskrivning av Nio EL7 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -68,7 +66,6 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Nio EL7 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
@@ -97,6 +94,7 @@ Nio EL7, med dimensioner på 4912 mm i längd, 1987 mm i bredd och 1720 mm i hö
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Nio EL7, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/50 tires on 20" rims
 - 265/45 tires on 21" rims
 
@@ -111,9 +109,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -142,8 +138,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -157,7 +151,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -173,10 +166,7 @@ Nio EL7 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -186,7 +176,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/nio/el7/el7/screens_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
-
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 
@@ -201,7 +190,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Nio EL7.
 
 - Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
@@ -242,10 +230,12 @@ Nio EL7 inkluderar flera [avancerade förarassistanssystem](../../../../technolo
 Nio EL7 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med NIO Pilot Selected Pack  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med NIO Pilot Complete Pack  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/et9/et9/main_1_st.jpg" title="Nio ET9" width="2560" height="1360"  >}}
 
 Vi har opdelt vores Nio ET9 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -54,7 +52,6 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nio ET9 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -83,6 +80,7 @@ Den Nio ET9, med dimensioner på 5325 mm i længde, 2016 mm i bredde og 1620 mm 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Nio ET9, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/40 dæk on 23" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.
@@ -94,9 +92,7 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -124,8 +120,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 For anden række har denne model to [executive-sæder](../../../../technology/seats/types/#twin-executive-sæder). Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -136,7 +130,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -158,10 +151,7 @@ Nio ET9 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -183,7 +173,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Nio ET9.
 
 - Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 
@@ -224,10 +213,12 @@ Den Nio ET9 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 Nio ET9 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med NIO Pilot Selected Pack  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 

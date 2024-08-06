@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/main_1_st.jpg" title="Peugot E-3008" width="3000" height="1875"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Peugot E-3008 has a front-wheel drive system supported by one motor on the front axle.
@@ -60,8 +57,6 @@ Peugot E-3008 has a front-wheel drive system supported by one motor on the front
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 198 mm.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -74,6 +69,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 The Peugot E-3008, with dimensions of 4542 mm in length, 1895 mm in width, and 1641 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Peugot E-3008 is available in a total of 6 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Peugot E-3008, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims
 - 235/50 tires on 20" rims
@@ -90,7 +86,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -114,6 +109,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -122,8 +118,6 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -138,7 +132,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
@@ -152,11 +145,9 @@ The Peugot E-3008 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Peugot E-3008 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -183,7 +174,6 @@ You can choose between two sound systems on the Peugot E-3008.
 
 - With the , you get six speakers with a max system output of 100 watts.
 - With the , you get ten speakers with a max system output of 690 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -219,9 +209,11 @@ The Peugot E-3008 includes several standard and optional [advanced driver assist
 The Peugot E-3008 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Drive Assist  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 With the Drive Assist Plus  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras

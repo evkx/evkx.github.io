@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383"  >}}
 
 Vi har delt vår beskrivelse av Cadillac ESCALADE IQ i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Cadillac ESCALADE IQ har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Cadillac ESCALADE IQ har et firehjulsdriftssystem som støttes av to motorer, en
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 200 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsing
 
@@ -75,6 +70,7 @@ Cadillac ESCALADE IQ, med dimensjoner på 5697 mm i lengde, 2167 mm i bredde og 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Cadillac ESCALADE IQ, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/50 dekk på 24" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Elektriske dører er standard funksjon for sidedørene.
@@ -86,9 +82,7 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -110,13 +104,12 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Seter på andre rad
-
-
 
 For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive-seter). I tillegg er følgende funksjoner tilgjengelige.
 
@@ -130,8 +123,6 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 
 #### Seter på tredje rad
 
-
-
 Den tredje raden har en tre-seters benk med en 60:40 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
 Det er bare én type ratt tilgjengelig.
@@ -141,7 +132,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -157,10 +147,7 @@ Cadillac ESCALADE IQ inkluderer flere funksjoner for å forbedre komfort og bekv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -184,7 +171,6 @@ Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ.
 
 - Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt.
 - Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 
@@ -213,6 +199,7 @@ Cadillac ESCALADE IQ inkluderer flere [avanserte førerassistanse systemer](../.
 ### Kjøreautomatisering
 
 Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

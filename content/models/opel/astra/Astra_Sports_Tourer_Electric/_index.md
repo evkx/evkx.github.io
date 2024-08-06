@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/main_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Opel Astra Sports Tourer Electric has a front-wheel drive system supported by one motor on the front axle.
@@ -61,8 +58,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
@@ -72,6 +67,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 The Opel Astra Sports Tourer Electric, with dimensions of 4642 mm in length, 1860 mm in width, and 1480 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Opel Astra Sports Tourer Electric is available in a total of 7 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the Opel Astra Sports Tourer Electric, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 215/45 tires on 18" rims front and 215/45 tires on 18" rims rear
 
@@ -85,7 +81,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -107,15 +102,13 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -129,7 +122,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
@@ -142,11 +134,9 @@ The Opel Astra Sports Tourer Electric includes several features to enhance comfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Opel Astra Sports Tourer Electric has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -172,7 +162,6 @@ Furthermore, the Opel Astra Sports Tourer Electric supports Android Auto and App
 One type of sound system is available for the Opel Astra Sports Tourer Electric.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 The model has 3 USB-C connections as standard.
 
@@ -203,6 +192,7 @@ The Opel Astra Sports Tourer Electric includes several standard and optional [ad
 The Opel Astra Sports Tourer Electric offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the DS Drive Assist  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

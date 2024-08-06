@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/main_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Zeekr 001 Privilege AWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Zeekr 001 Privilege AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -75,6 +72,7 @@ La Zeekr 001 Privilege AWD, avec des dimensions de 4955 mm de longueur, 1999 mm 
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Zeekr 001 Privilege AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 265/40 sur jantes de 22"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
@@ -87,7 +85,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -110,16 +107,14 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -133,7 +128,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -149,11 +143,9 @@ L'Zeekr 001 Privilege AWD comprend plusieurs fonctionnalités pour améliorer le
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Zeekr 001 Privilege AWD possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -163,7 +155,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/screens_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -182,7 +173,6 @@ De plus, le Zeekr 001 Privilege AWD prend en charge Android Auto et Apple CarPla
 Un type de système audio est disponible pour le Zeekr 001 Privilege AWD.
 
 - Avec le Yamaha Sound System, vous obtenez 12 haut-parleurs avec une puissance système maximale de 300 watts.
-
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -215,6 +205,7 @@ Le Zeekr 001 Privilege AWD comprend plusieurs [systèmes avancés d'assistance a
 ### Automatisation de la Conduite
 
 Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

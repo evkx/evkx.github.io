@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Hyundai INSTER Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Hyundai INSTER Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Hyundai INSTER Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai INSTER Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 205/55 tires on 15" rims
 - 205/45 tires on 17" rims
 
@@ -89,13 +87,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -111,6 +107,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
@@ -119,19 +116,17 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Följande funktioner är tillgängliga på **** sätet.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -140,7 +135,6 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -155,10 +149,7 @@ Hyundai INSTER Long Range inkluderar flera funktioner för att förbättra komfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -184,7 +175,6 @@ Dessutom stöder Hyundai INSTER Long Range Android Auto och Apple CarPlay. Denna
 En typ av ljudsystem är tillgänglig för Hyundai INSTER Long Range.
 
 - Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -225,6 +215,7 @@ Hyundai INSTER Long Range inkluderar flera [avancerade förarassistanssystem](..
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

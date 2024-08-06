@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/main_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
 
 Nous avons séparé notre article Tesla Model X en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Tesla Model X dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -79,6 +76,7 @@ La Tesla Model X, avec des dimensions de 5057 mm de longueur, 1999 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model X, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/45 sur jantes de 19" à l'avant et pneus 285/40 sur jantes de 19" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
@@ -95,9 +93,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -118,18 +114,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/secondrowseats_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
 #### Sièges de troisième rangée
-
-
 
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
@@ -140,7 +131,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -155,7 +145,6 @@ L'Tesla Model X comprend plusieurs fonctionnalités pour améliorer le confort e
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interface utilisateur et contrôle
 
@@ -182,7 +171,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le Tesla Model X.
 
 - Avec le Tesla Premium Sound, vous obtenez 22 haut-parleurs avec une puissance système maximale de 560 watts.
-
 
 ## Lumières
 
@@ -217,15 +205,18 @@ Le Tesla Model X comprend plusieurs [systèmes avancés d'assistance au conducte
 Tesla Model X offre [l'automatisation de la conduite aux niveaux 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système Basic Autopilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 Avec le système Enhanced Autopilot  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - Contrôle des feux de circulation - suit les feux de circulation.
 - Contrôle des panneaux stop : suivez les panneaux stop.
 

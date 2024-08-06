@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/main_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2002"  >}}
 
 Vi har opdelt vores BMW i5 xDrive40 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BMW i5 xDrive40 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
@@ -71,8 +68,6 @@ Dynamisk styring er en standard-funktion på BMW i5 xDrive40. Dynamisk styring v
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
@@ -84,6 +79,7 @@ Den maksimale regenerative effekt er 116 kW.
 Den BMW i5 xDrive40, med dimensioner på 5060 mm i længde, 1900 mm i bredde og 1505 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. BMW i5 xDrive40 fås i alt 12 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i5 xDrive40, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 245/50 dæk on 19" fælge
 - 255/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
@@ -102,9 +98,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -139,14 +133,11 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
 
@@ -156,7 +147,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -172,11 +162,9 @@ BMW i5 xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 BMW i5 xDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -204,7 +192,6 @@ Du kan vælge mellem tre lydsystemer på BMW i5 xDrive40.
 - Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt.
 - Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt.
 - Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
-
 
 Modellen har 6 USB-C-forbindelser som standard.
 
@@ -244,10 +231,12 @@ Den BMW i5 xDrive40 inkluderer flere standard- og valgfri [avancerede førerassi
 BMW i5 xDrive40 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Driving Assistant  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - Fartpilot.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

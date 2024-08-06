@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/main_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
 Nous avons séparé notre article Renault 5 E-Tech 52kWh 150hp en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Renault 5 E-Tech 52kWh 150hp dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
@@ -79,6 +76,7 @@ La Renault 5 E-Tech 52kWh 150hp, avec des dimensions de 3920 mm de longueur, 177
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Renault 5 E-Tech 52kWh 150hp, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 195/55 sur jantes de 18"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
@@ -90,9 +88,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -108,16 +104,14 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -126,7 +120,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -142,11 +135,9 @@ L'Renault 5 E-Tech 52kWh 150hp comprend plusieurs fonctionnalités pour amélior
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Renault 5 E-Tech 52kWh 150hp possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -173,7 +164,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Renault 5 E-Tech 52kWh 150
 
 - Avec le DAB Audiosystem, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
 - Avec le BOSE Premium Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -211,6 +201,7 @@ Le Renault 5 E-Tech 52kWh 150hp comprend plusieurs [systèmes avancés d'assista
 ### Automatisation de la Conduite
 
 Avec le système ProPILOT  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

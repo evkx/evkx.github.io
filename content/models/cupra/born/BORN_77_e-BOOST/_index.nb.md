@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av CUPRA BORN 77 e-BOOST i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 CUPRA BORN 77 e-BOOST har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ CUPRA BORN 77 e-BOOST, med dimensjoner på 4322 mm i lengde, 1809 mm i bredde og
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på CUPRA BORN 77 e-BOOST, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 215/55 dekk på 18" felger
 - 215/50 dekk på 19" felger
 - 215/45 dekk på 20" felger
@@ -94,9 +92,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -121,10 +117,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -133,7 +126,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -148,11 +140,9 @@ CUPRA BORN 77 e-BOOST inkluderer flere funksjoner for å forbedre komfort og bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 CUPRA BORN 77 e-BOOST har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -179,7 +169,6 @@ Du kan velge mellom to lydsystemer på CUPRA BORN 77 e-BOOST.
 
 - Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt.
 - Med Beats Audio får du ni høyttalere med en maksimal systemeffekt på 395 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -220,12 +209,15 @@ CUPRA BORN 77 e-BOOST inkluderer flere [avanserte førerassistanse systemer](../
 CUPRA BORN 77 e-BOOST tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - Fartsbegrenser.
 
 Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 

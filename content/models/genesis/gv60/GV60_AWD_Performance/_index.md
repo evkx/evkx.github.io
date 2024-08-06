@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1688"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Genesis GV60 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Genesis GV60 AWD Performance features an all-wheel drive system powered by two m
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -74,6 +69,7 @@ The maximum regenerative power is 150 kW.
 The Genesis GV60 AWD Performance, with dimensions of 4515 mm in length, 1890 mm in width, and 1580 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Genesis GV60 AWD Performance is available in a total of 10 paint colors, including several striking metallic options.
 
 You can select from multiple wheel options in different sizes on the Genesis GV60 AWD Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
@@ -92,13 +88,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -114,6 +108,7 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -124,8 +119,6 @@ You can choose from 6 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -139,7 +132,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
@@ -151,11 +143,9 @@ The Genesis GV60 AWD Performance includes several features to enhance comfort an
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Genesis GV60 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -181,7 +171,6 @@ Furthermore, the Genesis GV60 AWD Performance supports Android Auto and Apple Ca
 One type of sound system is available for the Genesis GV60 AWD Performance.
 
 - With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -218,6 +207,7 @@ The Genesis GV60 AWD Performance includes several standard and optional [advance
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

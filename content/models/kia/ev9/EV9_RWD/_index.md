@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/main_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,17 +48,13 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Kia EV9 RWD has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -73,6 +67,7 @@ The maximum regenerative power is 150 kW.
 The Kia EV9 RWD, with dimensions of 5010 mm in length, 1980 mm in width, and 1755 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
 
 You can select from multiple wheel options in different sizes on the Kia EV9 RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
@@ -91,13 +86,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -113,6 +106,7 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -146,12 +140,9 @@ The third option is two captain chairs. In addition, the following functionaliti
 
 #### Third-row seats
 
-
-
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 RWD" width="1350" height="900"  >}}
-
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -160,7 +151,6 @@ There is only one type of steering wheel available. The  steering wheel is heate
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -175,7 +165,6 @@ The Kia EV9 RWD includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## User interface and control
 
@@ -207,7 +196,6 @@ You can choose between two sound systems on the Kia EV9 RWD.
 
 - With the Standard, you get six speakers with a max system output of  watts.
 - With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
-
 
 The model has 6 USB-C connections as standard.
 
@@ -244,6 +232,7 @@ The Kia EV9 RWD includes several standard and optional [advanced driver assistan
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

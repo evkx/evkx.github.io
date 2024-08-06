@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/main_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 Nous avons séparé notre article Rivian R1S Dual-Motor AWD SP en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve dans le [coin avant gauche](../../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Rivian R1S Dual-Motor AWD SP dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -75,7 +72,6 @@ La Rivian R1S Dual-Motor AWD SP, avec des dimensions de 5100 mm de longueur,  mm
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Rivian R1S Dual-Motor AWD SP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon divisé](../../../../technology/doors/#split-tailgate) où la partie inférieure tombe et la partie supérieure se soulève.
 
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée. Cette vitre embellit l'intérieur de la voiture. se sentir plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Les deux panneaux de verre sont dotés d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
@@ -87,9 +83,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -109,6 +103,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Green [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -117,16 +112,12 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Sièges de troisième rangée
-
-
 
 La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
@@ -137,7 +128,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -153,11 +143,9 @@ L'Rivian R1S Dual-Motor AWD SP comprend plusieurs fonctionnalités pour amélior
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Rivian R1S Dual-Motor AWD SP possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -167,7 +155,6 @@ Détails clés de l'écran :
 Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/screens_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -184,7 +171,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le Rivian R1S Dual-Motor AWD SP.
 
 - Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
-
 
 Le modèle dispose de 6 connexions USB-C en standard.
 
@@ -219,6 +205,7 @@ Le Rivian R1S Dual-Motor AWD SP comprend plusieurs [systèmes avancés d'assista
 ### Automatisation de la Conduite
 
 Avec le système Driver+  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

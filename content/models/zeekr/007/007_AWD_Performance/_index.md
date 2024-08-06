@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/main_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1326"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Zeekr 007 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ The Zeekr 007 AWD Performance, with dimensions of 4865 mm in length, 1900 mm in 
 
 You can select from multiple wheel designs, all available in the same size, on the Zeekr 007 AWD Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are a standard function for the side doors.
@@ -85,7 +83,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -108,6 +105,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -118,15 +116,12 @@ You can choose from 5 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -135,7 +130,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -151,11 +145,9 @@ The Zeekr 007 AWD Performance includes several features to enhance comfort and c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Zeekr 007 AWD Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -165,7 +157,6 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -184,7 +175,6 @@ Furthermore, the Zeekr 007 AWD Performance supports Android Auto and Apple CarPl
 One type of sound system is available for the Zeekr 007 AWD Performance.
 
 - With the Yamaha Sound System, you get 21 speakers with a max system output of 300 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -215,6 +205,7 @@ The Zeekr 007 AWD Performance includes several standard and optional [advanced d
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

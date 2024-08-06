@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
 Vi har delt vår beskrivelse av MG Cyberster AWD Long Range i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 MG Cyberster AWD Long Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -73,6 +70,7 @@ MG Cyberster AWD Long Range er tilgjengelig i totalt 7 lakkfarger, inkludert fle
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MG Cyberster AWD Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 245/45 dekk på 19" felger foran og 275/40 dekk på 19" felger bak
 
 Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
@@ -84,13 +82,11 @@ Det er bare ett tak for denne modellen. Standardtaket er et stofftak topp som ka
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 #### Forseter
 
@@ -101,11 +97,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - elektrisk justering
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Red [polstring av Alcantara/kunstskinn](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -114,7 +110,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -128,11 +123,9 @@ MG Cyberster AWD Long Range inkluderer flere funksjoner for å forbedre komfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -144,7 +137,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -163,7 +155,6 @@ I tillegg støtter MG Cyberster AWD Long Range Android Auto og Apple CarPlay. De
 Én type lydsystem er tilgjengelig for MG Cyberster AWD Long Range.
 
 - Med Bose Sound System får du seks høyttalere med en maksimal systemeffekt på 300 watt.
-
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -186,6 +177,7 @@ MG Cyberster AWD Long Range inkluderer flere [avanserte førerassistanse systeme
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

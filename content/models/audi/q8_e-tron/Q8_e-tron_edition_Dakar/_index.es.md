@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo Audi Q8 e-tron edition Dakar en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -51,7 +49,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados. Hay un segundo puerto en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Este puerto adicional te ofrece más opciones de estacionamiento para la carga de CA. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para Norteamérica y Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Tren de transmisión
 
@@ -97,6 +94,7 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi Q8 e-tron edition Dakar, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/60 en llantas de 18
 - Neumáticos 255/55 en llantas de 19
 
@@ -113,9 +111,7 @@ Las ventanas del pilar B y la parte trasera están tintadas. Como opción, está
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -135,8 +131,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
-
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 
 - ajuste eléctrico (opcional)
@@ -148,8 +142,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **s-line sport**.
 
@@ -163,8 +155,6 @@ Las siguientes funcionalidades están disponibles en el asiento **s-line sport**
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
-
 Las siguientes funcionalidades están disponibles en el asiento **s sport**.
 
 - ajuste eléctrico (opcional)
@@ -174,8 +164,6 @@ Las siguientes funcionalidades están disponibles en el asiento **s sport**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
 
@@ -198,14 +186,11 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -215,7 +200,6 @@ Hay dos opciones de sistema de climatización disponibles:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -232,11 +216,9 @@ El Audi Q8 e-tron edition Dakar incluye varias características para mejorar la 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Audi Q8 e-tron edition Dakar tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay dos [pantallas de infoentretenimiento] diferentes (../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -264,7 +246,6 @@ Puedes elegir entre dos sistemas de sonido en el Audi Q8 e-tron edition Dakar.
 
 - Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios.
 - Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
-
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
@@ -310,10 +291,12 @@ El Audi Q8 e-tron edition Dakar incluye varios [sistemas avanzados de asistencia
 Audi Q8 e-tron edition Dakar ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - Control de crucero.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema Assistantpackage Tour  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

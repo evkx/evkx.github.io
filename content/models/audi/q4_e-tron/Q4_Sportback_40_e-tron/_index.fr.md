@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/main_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="1999"  >}}
 
 Nous avons séparé notre article Audi Q4 Sportback 40 e-tron en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Audi Q4 Sportback 40 e-tron dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -83,6 +80,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi Q4 Sportback 40 e-tron, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
@@ -100,9 +98,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -120,8 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 
@@ -141,11 +135,9 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Audi
 
 L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -155,7 +147,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -171,11 +162,9 @@ L'Audi Q4 Sportback 40 e-tron comprend plusieurs fonctionnalités pour améliore
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Audi Q4 Sportback 40 e-tron possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -202,7 +191,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Audi Q4 Sportback 40 e-tro
 
 - Avec le Audi Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 180 watts.
 - Avec le Sonos Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 580 watts.
-
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 
@@ -251,10 +239,12 @@ Le Audi Q4 Sportback 40 e-tron comprend plusieurs [systèmes avancés d'assistan
 Audi Q4 Sportback 40 e-tron offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - Régulateur de vitesse.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système Assistantpackage Tour  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

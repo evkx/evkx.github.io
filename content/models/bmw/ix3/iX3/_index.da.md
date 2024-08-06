@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/main_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 Vi har opdelt vores BMW iX3 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BMW iX3 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
@@ -67,8 +64,6 @@ Dynamisk styring er en standard-funktion på BMW iX3. Dynamisk styring varierer 
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
@@ -80,6 +75,7 @@ Den maksimale regenerative effekt er 134 kW.
 Den BMW iX3, med dimensioner på 4734 mm i længde, 1891 mm i bredde og 1668 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW iX3, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 245/50 dæk on 19" fælge
 - 245/45 dæk on 20" fælge
@@ -97,9 +93,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -121,17 +115,13 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
-
 
 Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
 
@@ -141,7 +131,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -156,10 +145,7 @@ BMW iX3 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -185,7 +171,6 @@ Yderligere understøtter BMW iX3 Android Auto og Apple CarPlay. Denne funktional
 Én type lydsystem er tilgængelig for BMW iX3.
 
 - Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt.
-
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -221,6 +206,7 @@ Den BMW iX3 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 ### Køreautomatisering
 
 Med Driving Assistant Professional  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

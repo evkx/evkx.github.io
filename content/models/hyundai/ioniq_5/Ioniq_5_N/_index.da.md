@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/main_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Hyundai Ioniq 5 N artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Hyundai Ioniq 5 N har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -60,8 +57,6 @@ Hyundai Ioniq 5 N har et firehjulstræk, der understøttes af to motorer, en på
 affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 158 mm.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsning
 
@@ -74,6 +69,7 @@ Den maksimale regenerative effekt er 150 kW.
 Den Hyundai Ioniq 5 N, med dimensioner på 4715 mm i længde, 1940 mm i bredde og 1585 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Hyundai Ioniq 5 N fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Hyundai Ioniq 5 N, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 275/35 dæk on 21" fælge
 
@@ -88,13 +84,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 #### Første række sæder
 
@@ -108,13 +102,11 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -128,7 +120,6 @@ Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
@@ -140,11 +131,9 @@ Hyundai Ioniq 5 N inkluderer flere funktioner, der forbedrer komfort og bekvemme
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Hyundai Ioniq 5 N har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -170,7 +159,6 @@ Yderligere understøtter Hyundai Ioniq 5 N Android Auto og Apple CarPlay. Denne 
 Én type lydsystem er tilgængelig for Hyundai Ioniq 5 N.
 
 - Med Bose Premium Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -207,6 +195,7 @@ Den Hyundai Ioniq 5 N inkluderer flere standard- og valgfri [avancerede føreras
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

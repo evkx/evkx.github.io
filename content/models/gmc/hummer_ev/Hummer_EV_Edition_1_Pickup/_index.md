@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/main_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the maximum is 406 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -75,7 +70,6 @@ The GMC Hummer EV Edition 1 Pickup is available in a total of 1 paint colors, in
 
 You can select from multiple wheel designs, all available in the same size, on the GMC Hummer EV Edition 1 Pickup, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
@@ -85,9 +79,7 @@ There is only one roof for this model. The standard roof has a 4 seperate glass 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -107,12 +99,10 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -126,7 +116,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -142,11 +131,9 @@ The GMC Hummer EV Edition 1 Pickup includes several features to enhance comfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -173,7 +160,6 @@ One type of sound system is available for the GMC Hummer EV Edition 1 Pickup.
 
 - With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts.
 
-
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
 ## Lights
@@ -197,6 +183,7 @@ The GMC Hummer EV Edition 1 Pickup includes several standard and optional [advan
 ### Driving Automation
 
 With the Super Cruise  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

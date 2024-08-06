@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/main_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1383"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Cadillac ESCALADE IQ features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Cadillac ESCALADE IQ features an all-wheel drive system powered by two motors, o
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -75,6 +70,7 @@ The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width
 
 You can select from multiple wheel designs, all available in the same size, on the Cadillac ESCALADE IQ, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 275/50 tires on 24" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
@@ -86,9 +82,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -110,13 +104,12 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Second-row seat
-
-
 
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
 
@@ -130,8 +123,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 #### Third-row seats
 
-
-
 The third row has a three-seat bench with a 60:40 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
@@ -141,7 +132,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -157,10 +147,7 @@ The Cadillac ESCALADE IQ includes several features to enhance comfort and conven
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -184,7 +171,6 @@ You can choose between two sound systems on the Cadillac ESCALADE IQ.
 
 - With the AKG Studio audi System, you get 19 speakers with a max system output of 1000 watts.
 - With the AKG Studio Reference System, you get 40 speakers with a max system output of 1000 watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -213,6 +199,7 @@ The Cadillac ESCALADE IQ includes several standard and optional [advanced driver
 ### Driving Automation
 
 With the Super Cruise  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
 Vi har delat in vår beskrivning av Polestar 2 Long Range Dual Motor i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Polestar 2 Long Range Dual Motor har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -75,6 +72,7 @@ Polestar 2 Long Range Dual Motor, med dimensioner på 4606 mm i längd, 1859 mm 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Polestar 2 Long Range Dual Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims
 
@@ -88,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -109,6 +106,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
@@ -119,14 +117,11 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -135,7 +130,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -150,11 +144,9 @@ Polestar 2 Long Range Dual Motor inkluderar flera funktioner för att förbättr
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Polestar 2 Long Range Dual Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -173,7 +165,6 @@ Du kan välja mellan två ljudsystem på Polestar 2 Long Range Dual Motor.
 
 - Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -209,6 +200,7 @@ Polestar 2 Long Range Dual Motor inkluderar flera [avancerade förarassistanssys
 ### Körautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/main_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av Porsche Taycan Turbo GT i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,14 +48,11 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Porsche Taycan Turbo GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
-
-
 
 Du kan beställa Porsche Taycan Turbo GT med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 126 mm.
 
@@ -83,6 +78,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Taycan Turbo GT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
@@ -98,9 +94,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -155,7 +149,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -168,11 +161,9 @@ Porsche Taycan Turbo GT inkluderar flera funktioner för att förbättra komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan Turbo GT har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
-
 
 Viktiga skärmdetaljer:
 
@@ -202,7 +193,6 @@ Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo GT.
 - Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt.
 - Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
 
 ## Ljus
 
@@ -241,10 +231,12 @@ Porsche Taycan Turbo GT inkluderar flera [avancerade förarassistanssystem](../.
 Porsche Taycan Turbo GT erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 

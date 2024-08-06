@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/main_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1998"  >}}
 
 Nous avons séparé notre article Volkswagen ID.3 Pro en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volkswagen ID.3 Pro dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ La Volkswagen ID.3 Pro, avec des dimensions de 4261 mm de longueur, 1809 mm de l
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 Pro, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 215/55 sur jantes de 18"
 - Pneus 215/50 sur jantes de 19"
 - Pneus 215/45 sur jantes de 20"
@@ -94,9 +92,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -118,12 +114,9 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -133,7 +126,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -148,22 +140,18 @@ L'Volkswagen ID.3 Pro comprend plusieurs fonctionnalités pour améliorer le con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Volkswagen ID.3 Pro.
 
 La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
-
 Détails clés de l'écran :
 
 - L'écran  sur la colonne de direction mesure 5,0 pouces
 - L'écran touch au centre du tableau de bord mesure 10,0 pouces
 
-
 La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -190,7 +178,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.3 Pro.
 
 - Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts.
 - Avec le Volkswagen Soundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de 450 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -234,12 +221,15 @@ Le Volkswagen ID.3 Pro comprend plusieurs [systèmes avancés d'assistance au co
 Volkswagen ID.3 Pro offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
 - Régulateur de vitesse.
 
 Avec le système   de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 

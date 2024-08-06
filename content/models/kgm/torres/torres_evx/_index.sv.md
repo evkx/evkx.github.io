@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/main_1_st.jpg" title="KGM Torres EVX" width="2048" height="1152"  >}}
 
 Vi har delat in vår beskrivning av KGM Torres EVX i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 KGM Torres EVX har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -75,6 +72,7 @@ KGM Torres EVX, med dimensioner på 4715 mm i längd,  mm i bredd och 1725 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på KGM Torres EVX, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 225/60 tires on 18" rims
 - 245/45 tires on 20" rims
 
@@ -90,7 +88,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -112,13 +109,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -133,7 +128,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -146,11 +140,9 @@ KGM Torres EVX inkluderar flera funktioner för att förbättra komfort och bekv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 KGM Torres EVX har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -176,7 +168,6 @@ Dessutom stöder KGM Torres EVX Android Auto och Apple CarPlay. Denna funktion g
 En typ av ljudsystem är tillgänglig för KGM Torres EVX.
 
 - Med KGM får du sex högtalare med en maximal systemeffekt på 100 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -211,6 +202,7 @@ KGM Torres EVX inkluderar flera [avancerade förarassistanssystem](../../../../t
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

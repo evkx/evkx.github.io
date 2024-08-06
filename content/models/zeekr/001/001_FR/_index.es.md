@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/main_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo Zeekr 001 FR en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Zeekr 001 FR tiene un sistema de tracción total sostenido por cuatro motores. Uno para cada rueda. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ El Zeekr 001 FR, con dimensiones de 4955 mm de longitud, 1999 mm de anchura y 15
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Zeekr 001 FR, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/40 en llantas de 22
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
@@ -85,7 +83,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -108,6 +105,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
@@ -117,8 +115,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -132,7 +128,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -148,11 +143,9 @@ El Zeekr 001 FR incluye varias características para mejorar la comodidad y conv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Zeekr 001 FR tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -162,7 +155,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -181,7 +173,6 @@ Además, el Zeekr 001 FR es compatible con Android Auto y Apple CarPlay. Esta fu
 Un tipo de sistema de sonido está disponible para el Zeekr 001 FR.
 
 - Con el Yamaha Sound System, obtienes 12 parlantes con una salida máxima del sistema de 300 vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -212,6 +203,7 @@ El Zeekr 001 FR incluye varios [sistemas avanzados de asistencia al conductor](.
 ### Automatización de la Conducción
 
 Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

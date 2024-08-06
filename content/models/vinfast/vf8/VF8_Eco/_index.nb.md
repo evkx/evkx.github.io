@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/main_1_st.jpg" title="VinFast VF8 Eco" width="3000" height="1687"  >}}
 
 Vi har delt vår beskrivelse av VinFast VF8 Eco i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -48,7 +46,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 VinFast VF8 Eco har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -81,6 +78,7 @@ VinFast VF8 Eco, med dimensjoner på 4750 mm i lengde, 1934 mm i bredde og 1667 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VinFast VF8 Eco, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 245/50 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -94,12 +92,9 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Seter
-
 
 #### Forseter
 
@@ -114,12 +109,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -128,7 +121,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -149,11 +141,9 @@ VinFast VF8 Eco inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 VinFast VF8 Eco har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
-
 
 Viktige skjermdetaljer:
 
@@ -162,7 +152,6 @@ Viktige skjermdetaljer:
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -181,7 +170,6 @@ I tillegg støtter VinFast VF8 Eco Android Auto og Apple CarPlay. Denne funksjon
 Én type lydsystem er tilgjengelig for VinFast VF8 Eco.
 
 - Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 4 USB-A-tilkoblinger som standard.
 
@@ -216,6 +204,7 @@ VinFast VF8 Eco inkluderer flere [avanserte førerassistanse systemer](../../../
 ### Kjøreautomatisering
 
 Med Highway Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

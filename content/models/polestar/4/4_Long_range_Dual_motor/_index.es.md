@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/main_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Polestar 4 Long range Dual motor en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Polestar 4 Long range Dual motor tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -75,6 +72,7 @@ El Polestar 4 Long range Dual motor, con dimensiones de 4840 mm de longitud, 200
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Polestar 4 Long range Dual motor, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 295/40 en llantas de 22" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
@@ -85,7 +83,6 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -109,16 +106,14 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -131,7 +126,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -147,11 +141,9 @@ El Polestar 4 Long range Dual motor incluye varias características para mejorar
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Polestar 4 Long range Dual motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -168,7 +160,6 @@ Puedes elegir entre dos sistemas de sonido en el Polestar 4 Long range Dual moto
 
 - Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
 - Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -204,6 +195,7 @@ El Polestar 4 Long range Dual motor incluye varios [sistemas avanzados de asiste
 ### Automatización de la Conducción
 
 Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

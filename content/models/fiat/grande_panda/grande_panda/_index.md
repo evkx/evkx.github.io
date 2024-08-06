@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/main_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1757"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Fiat Grande Panda has a front-wheel drive system supported by one motor on the front axle.
@@ -81,6 +78,7 @@ The Fiat Grande Panda is available in a total of 5 paint colors, including both 
 
 You can select from multiple wheel options in different sizes on the Fiat Grande Panda, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 205/55 tires on 16" rims
 - 205/50 tires on 17" rims
 
@@ -97,9 +95,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -111,24 +107,21 @@ For the front row, the Fiat Grande Panda offers two different seat types to choo
 
 The following functionalities are available on the **Standard** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 The following functionalities are available on the **Advanced Comfort** seat.
 
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -142,7 +135,6 @@ There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
-
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort features
@@ -154,11 +146,9 @@ The Fiat Grande Panda includes several features to enhance comfort and convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Fiat Grande Panda has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -168,7 +158,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -188,7 +177,6 @@ You can choose between two sound systems on the Fiat Grande Panda.
 
 - With the , you get two speakers with a max system output of  watts.
 - With the Max Sound system, you get two speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -215,6 +203,7 @@ The Fiat Grande Panda includes several standard and optional [advanced driver as
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 - Cruise control.
 
 ### Sensors & Cameras

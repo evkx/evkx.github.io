@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/main_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Zeekr 001 Privilege AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Zeekr 001 Privilege AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -75,6 +72,7 @@ Zeekr 001 Privilege AWD, med dimensioner på 4955 mm i längd, 1999 mm i bredd o
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 001 Privilege AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/40 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
@@ -87,7 +85,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -110,16 +107,14 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -133,7 +128,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -149,11 +143,9 @@ Zeekr 001 Privilege AWD inkluderar flera funktioner för att förbättra komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Zeekr 001 Privilege AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -163,7 +155,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/screens_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -182,7 +173,6 @@ Dessutom stöder Zeekr 001 Privilege AWD Android Auto och Apple CarPlay. Denna f
 En typ av ljudsystem är tillgänglig för Zeekr 001 Privilege AWD.
 
 - Med Yamaha Sound System får du 12 högtalare med en maximal systemeffekt på 300 watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -215,6 +205,7 @@ Zeekr 001 Privilege AWD inkluderar flera [avancerade förarassistanssystem](../.
 ### Körautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

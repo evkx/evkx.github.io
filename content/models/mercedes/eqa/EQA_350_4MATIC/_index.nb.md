@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Mercedes-EQ EQA 350 4MATIC i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,13 +50,11 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Mercedes-EQ EQA 350 4MATIC har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
 ### Hjuloppheng
-
 
 ### Styring
 
@@ -78,6 +74,7 @@ Mercedes-EQ EQA 350 4MATIC, med dimensjoner på 4463 mm i lengde, 1834 mm i bred
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQA 350 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/55 dekk på 18" felger
 - 235/50 dekk på 19" felger
 
@@ -92,9 +89,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -117,8 +112,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
-
-
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 - elektrisk justering
@@ -138,8 +131,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -165,11 +156,9 @@ Mercedes-EQ EQA 350 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Mercedes-EQ EQA 350 4MATIC har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -179,7 +168,6 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
-
 
 Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -201,7 +189,6 @@ Du kan velge mellom to lydsystemer på Mercedes-EQ EQA 350 4MATIC.
 
 - Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt.
 - Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 
@@ -240,6 +227,7 @@ Mercedes-EQ EQA 350 4MATIC inkluderer flere [avanserte førerassistanse systemer
 Mercedes-EQ EQA 350 4MATIC tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

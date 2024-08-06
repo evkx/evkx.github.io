@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1889"  >}}
 
 Vi har delt vår beskrivelse av Nissan Ariya 63kWh i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Nissan Ariya 63kWh har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
@@ -77,6 +74,7 @@ Nissan Ariya 63kWh, med dimensjoner på 4595 mm i lengde, 1850 mm i bredde og 16
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nissan Ariya 63kWh, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
@@ -92,7 +90,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -116,15 +113,13 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -137,7 +132,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -153,11 +147,9 @@ Nissan Ariya 63kWh inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Nissan Ariya 63kWh har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -167,7 +159,6 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -187,7 +178,6 @@ Du kan velge mellom to lydsystemer på Nissan Ariya 63kWh.
 
 - Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt.
 - Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
-
 
 ## Lys
 
@@ -221,6 +211,7 @@ Nissan Ariya 63kWh inkluderer flere [avanserte førerassistanse systemer](../../
 ### Kjøreautomatisering
 
 Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

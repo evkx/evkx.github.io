@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/main_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Kia EV3 Long Range has a front-wheel drive system supported by one motor on the front axle.
@@ -60,8 +57,6 @@ Kia EV3 Long Range has a front-wheel drive system supported by one motor on the 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -74,6 +69,7 @@ The maximum regenerative power is 150 kW.
 The Kia EV3 Long Range, with dimensions of 4300 mm in length, 1850 mm in width, and 1560 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 11 different paint colors when ordering this model.
 
 You can select from multiple wheel options in different sizes on the Kia EV3 Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
@@ -91,13 +87,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -113,6 +107,7 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -120,10 +115,7 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -137,7 +129,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort features
@@ -149,11 +140,9 @@ The Kia EV3 Long Range includes several features to enhance comfort and convenie
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Kia EV3 Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -180,7 +169,6 @@ You can choose between two sound systems on the Kia EV3 Long Range.
 
 - With the Standard, you get six speakers with a max system output of  watts.
 - With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -215,6 +203,7 @@ The Kia EV3 Long Range includes several standard and optional [advanced driver a
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

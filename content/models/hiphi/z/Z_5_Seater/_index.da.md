@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486"  >}}
 
 Vi har opdelt vores HiPhi Z 5 Seater artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 HiPhi Z 5 Seater har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ Den HiPhi Z 5 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi Z 5 Seater, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 255/45 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
 
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, [selvmordsdøre](../../../../technology/doors/) på anden række, og et [bagklap](../../../../technology/doors/#bootlid) bagerst. Elektriske døre er en standard funktion for sidedørene.
@@ -91,9 +89,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -115,14 +111,13 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -135,7 +130,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -152,11 +146,9 @@ HiPhi Z 5 Seater inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 HiPhi Z 5 Seater har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
-
 
 Vigtige skærmdetaljer:
 
@@ -165,7 +157,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -176,7 +167,6 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 Én type lydsystem er tilgængelig for HiPhi Z 5 Seater.
 
 - Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
-
 
 Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -213,6 +203,7 @@ Den HiPhi Z 5 Seater inkluderer flere standard- og valgfri [avancerede førerass
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).

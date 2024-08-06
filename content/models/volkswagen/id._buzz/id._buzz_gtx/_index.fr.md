@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/main_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 
 Nous avons séparé notre article Volkswagen ID. Buzz GTX en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,13 +48,11 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volkswagen ID. Buzz GTX dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
 
 ### Suspension
-
 
 ### Pilotage
 
@@ -76,6 +72,7 @@ La Volkswagen ID. Buzz GTX est disponible en un total de 12 couleurs de peinture
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID. Buzz GTX, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 265/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
@@ -93,9 +90,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -111,14 +106,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - White [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Green [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Yellow [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Orange [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Blue [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **comfort**.
 
@@ -130,6 +124,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **comfort**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+
 - White [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Green [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Yellow [revêtement en tissu](../../../../technology/seats/materials/#fabric)
@@ -140,12 +135,9 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -154,7 +146,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -170,11 +161,9 @@ L'Volkswagen ID. Buzz GTX comprend plusieurs fonctionnalités pour améliorer le
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Volkswagen ID. Buzz GTX dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -200,7 +189,6 @@ De plus, le Volkswagen ID. Buzz GTX prend en charge Android Auto et Apple CarPla
 Un type de système audio est disponible pour le Volkswagen ID. Buzz GTX.
 
 - Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
-
 
 Le modèle dispose de 5 connexions USB-C en standard.
 
@@ -244,10 +232,12 @@ Le Volkswagen ID. Buzz GTX comprend plusieurs [systèmes avancés d'assistance a
 Volkswagen ID. Buzz GTX offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 

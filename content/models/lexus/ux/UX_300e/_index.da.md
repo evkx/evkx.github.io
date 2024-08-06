@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/main_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Lexus UX 300e artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lexus UX 300e har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -75,6 +72,7 @@ Den Lexus UX 300e, med dimensioner på 4495 mm i længde, 1840 mm i bredde og 15
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lexus UX 300e, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 215/60 dæk on 17" fælge
 - 225/50 dæk on 18" fælge
 
@@ -91,12 +89,9 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -117,14 +112,11 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -133,7 +125,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -149,22 +140,18 @@ Lexus UX 300e inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Lexus UX 300e.
 
 Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
 
-
 Vigtige skærmdetaljer:
 
 - Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor
 - Skærmen touch øverst på midterkonsollen er 7,0 tommer stor
 
-
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -191,7 +178,6 @@ Du kan vælge mellem to lydsystemer på Lexus UX 300e.
 
 - Med Standard får du 14 højttalere med en maksimal systemeffekt på  watt.
 - Med Mark Levinson Premium Surround Sound får du 14 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -229,6 +215,7 @@ Den Lexus UX 300e inkluderer flere standard- og valgfri [avancerede førerassist
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/main_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
 Vi har opdelt vores Tesla Cybertruck Cyberbeast artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Cybertruck Cyberbeast har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
@@ -81,6 +78,7 @@ Tesla Cybertruck Cyberbeast fås i alt i 3 ensfarvede lakfarver.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Tesla Cybertruck Cyberbeast, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 285/65 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Bagklappen er elektrisk drevet.
@@ -94,9 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -120,8 +116,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -133,7 +127,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -150,11 +143,9 @@ Tesla Cybertruck Cyberbeast inkluderer flere funktioner, der forbedrer komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Cybertruck Cyberbeast har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
-
 
 Vigtige skærmdetaljer:
 
@@ -175,7 +166,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Tesla Cybertruck Cyberbeast.
 
 - Med Tesla Premium Sound får du 17 højttalere med en maksimal systemeffekt på 560 watt.
-
 
 ## Lys
 
@@ -212,15 +202,18 @@ Den Tesla Cybertruck Cyberbeast inkluderer flere standard- og valgfri [avancered
 Tesla Cybertruck Cyberbeast tilbyder [køreautomatisering på niveau 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Basic Autopilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 Med Enhanced Autopilot  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.
 

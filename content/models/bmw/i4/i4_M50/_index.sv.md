@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/main_1_st.jpg" title="BMW i4 M50" width="3000" height="2502"  >}}
 
 Vi har delat in vår beskrivning av BMW i4 M50 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BMW i4 M50 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
@@ -81,6 +78,7 @@ BMW i4 M50, med dimensioner på 4783 mm i längd, 1852 mm i bredd och 1448 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i4 M50, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 däck på 18" fälgar fram och 255/45 däck på 18" fälgar bak
 - 245/40 däck på 19" fälgar fram och 255/40 däck på 19" fälgar bak
 - 245/35 däck på 20" fälgar fram och 255/35 däck på 20" fälgar bak
@@ -98,9 +96,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -122,6 +118,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 21 olika material/färger för denna sitstyp.
+
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -143,8 +140,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 - Blue [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
-
 Följande funktioner är tillgängliga på **M Sport** sätet.
 
 - elektrisk justering
@@ -156,6 +151,7 @@ Följande funktioner är tillgängliga på **M Sport** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 
 Du kan välja mellan 21 olika material/färger för denna sitstyp.
+
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -180,8 +176,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -208,11 +202,9 @@ BMW i4 M50 inkluderar flera funktioner för att förbättra komfort och bekväml
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 BMW i4 M50 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -239,7 +231,6 @@ Du kan välja mellan två ljudsystem på BMW i4 M50.
 
 - Med Hifi Sound system får du tio högtalare med en maximal systemeffekt på 200 watt.
 - Med Harman Kardon Surround Sound system får du 17 högtalare med en maximal systemeffekt på 445 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -277,10 +268,12 @@ BMW i4 M50 inkluderar flera [avancerade förarassistanssystem](../../../../techn
 BMW i4 M50 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driving Assistant  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

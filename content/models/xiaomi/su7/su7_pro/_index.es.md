@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/main_1_st.jpg" title="Xiaomi SU7 Pro" width="3000" height="1500"  >}}
 
 Hemos separado nuestro artículo Xiaomi SU7 Pro en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Xiaomi SU7 Pro tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ El Xiaomi SU7 Pro, con dimensiones de 4997 mm de longitud,  mm de anchura y 1455
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Xiaomi SU7 Pro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 245/45 en llantas de 19
 - Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 245/35 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
@@ -93,7 +91,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -113,6 +110,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
@@ -122,15 +120,12 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -151,10 +146,7 @@ El Xiaomi SU7 Pro incluye varias características para mejorar la comodidad y co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -173,7 +165,6 @@ Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7 Pro.
 
 - Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios.
 - Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -214,6 +205,7 @@ El Xiaomi SU7 Pro incluye varios [sistemas avanzados de asistencia al conductor]
 ### Automatización de la Conducción
 
 Con el sistema Xiaomi Pilot Max  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

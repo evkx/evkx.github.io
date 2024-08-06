@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" width="1572" height="1011"  >}}
 
 Hemos separado nuestro artículo HiPhi Y Performance en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 HiPhi Y Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -76,6 +73,7 @@ El HiPhi Y Performance, con dimensiones de 4938 mm de longitud, 1958 mm de anchu
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el HiPhi Y Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 275/40 en llantas de 21
 
 El auto tiene dos [puertas regulares](../../../../technology/doors/) en el frente, una combinación única de puertas regulares con un techo de ala de gaviota en el segunda fila, y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -89,9 +87,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -115,13 +111,11 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -135,7 +129,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -152,11 +145,9 @@ El HiPhi Y Performance incluye varias características para mejorar la comodidad
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El HiPhi Y Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +158,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -183,7 +173,6 @@ Puedes elegir entre dos sistemas de sonido en el HiPhi Y Performance.
 
 - Con el SONIC LINE SYSTEM, obtienes 14 parlantes con una salida máxima del sistema de 600 vatios.
 - Con el SONIC PRO SYSTEM, obtienes 25 parlantes con una salida máxima del sistema de 2820 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -220,6 +209,7 @@ El HiPhi Y Performance incluye varios [sistemas avanzados de asistencia al condu
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

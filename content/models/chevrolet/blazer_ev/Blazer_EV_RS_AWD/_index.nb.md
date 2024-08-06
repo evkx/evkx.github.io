@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2032"  >}}
 
 Vi har delt vår beskrivelse av Chevrolet Blazer EV RS AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Chevrolet Blazer EV RS AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Chevrolet Blazer EV RS AWD, med dimensjoner på 5067 mm i lengde, 1963 mm i bred
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Chevrolet Blazer EV RS AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/45 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -84,12 +82,9 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Seter
-
 
 #### Forseter
 
@@ -105,6 +100,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
@@ -112,10 +108,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -125,7 +118,6 @@ To klimasystemalternativer er tilgjengelige:
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -139,11 +131,9 @@ Chevrolet Blazer EV RS AWD inkluderer flere funksjoner for å forbedre komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Chevrolet Blazer EV RS AWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -153,7 +143,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -172,7 +161,6 @@ I tillegg støtter Chevrolet Blazer EV RS AWD Android Auto og Apple CarPlay. Den
 Én type lydsystem er tilgjengelig for Chevrolet Blazer EV RS AWD.
 
 - Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 
@@ -203,6 +191,7 @@ Chevrolet Blazer EV RS AWD inkluderer flere [avanserte førerassistanse systemer
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

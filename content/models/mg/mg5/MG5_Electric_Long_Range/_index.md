@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/main_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1639"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG MG5 Electric Long Range has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -75,9 +72,6 @@ The MG MG5 Electric Long Range, with dimensions of 4600 mm in length, 1818 mm in
 
 You can select from multiple wheel designs, all available in the same size, on the MG MG5 Electric Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
-
-
 There is only one roof for this model.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1707"  >}}
@@ -85,13 +79,11 @@ There is only one roof for this model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -102,6 +94,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -110,12 +103,9 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2004"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -124,7 +114,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -138,11 +127,9 @@ The MG MG5 Electric Long Range includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The MG MG5 Electric Long Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -152,7 +139,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -171,7 +157,6 @@ Furthermore, the MG MG5 Electric Long Range supports Android Auto and Apple CarP
 One type of sound system is available for the MG MG5 Electric Long Range.
 
 - With the , you get six speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -192,6 +177,7 @@ The MG MG5 Electric Long Range includes several standard and optional [advanced 
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

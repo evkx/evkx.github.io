@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/main_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 Hemos separado nuestro artículo Li Auto MEGA en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -55,7 +53,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Li Auto MEGA tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ El Li Auto MEGA está disponible en un total de 4 colores de pintura, incluyendo
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Li Auto MEGA, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 245/60 en llantas de 18
 
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -90,7 +88,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -117,6 +114,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
@@ -126,8 +124,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Asiento de segunda fila
-
-
 
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
@@ -140,12 +136,9 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de tres asientos con una división 40:60. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -154,7 +147,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -170,11 +162,9 @@ El Li Auto MEGA incluye varias características para mejorar la comodidad y conv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Li Auto MEGA tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. Para el pasajero hay una pantalla de infoentretenimiento.
-
 
 Detalles clave de la pantalla:
 
@@ -184,7 +174,6 @@ Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimi
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -203,7 +192,6 @@ Además, el Li Auto MEGA es compatible con Android Auto y Apple CarPlay. Esta fu
 Un tipo de sistema de sonido está disponible para el Li Auto MEGA.
 
 - Con el Platinum audio system, obtienes 21 parlantes con una salida máxima del sistema de 2160 vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -236,12 +224,14 @@ El Li Auto MEGA incluye varios [sistemas avanzados de asistencia al conductor](.
 ### Automatización de la Conducción
 
 Con el sistema AD Pro  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Con el sistema AD Max  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras

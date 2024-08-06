@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/main_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="1828"  >}}
 
 Nous avons séparé notre article Volkswagen ID.4 Pro Performance en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volkswagen ID.4 Pro Performance dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
@@ -81,6 +78,7 @@ La Volkswagen ID.4 Pro Performance, avec des dimensions de 4582 mm de longueur, 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.4 Pro Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
@@ -98,9 +96,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -122,8 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive Top-Sport**.
 
 - réglage électrique (facultatif)
@@ -139,12 +133,9 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -154,7 +145,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -169,22 +159,18 @@ L'Volkswagen ID.4 Pro Performance comprend plusieurs fonctionnalités pour amél
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Volkswagen ID.4 Pro Performance.
 
 La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
-
 Détails clés de l'écran :
 
 - L'écran  sur la colonne de direction mesure 5,0 pouces
 - L'écran touch au centre du tableau de bord mesure 10,0 pouces
 
-
 La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -211,7 +197,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.4 Pro Perfor
 
 - Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts.
 - Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -255,9 +240,11 @@ Le Volkswagen ID.4 Pro Performance comprend plusieurs [systèmes avancés d'assi
 Volkswagen ID.4 Pro Performance offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 

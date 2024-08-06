@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/macan/macan/main_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Porsche Macan has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -86,9 +83,8 @@ The optional SportDesign package contains a specially designed upper part front 
 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
-
-
 You can select from multiple wheel options in different sizes on the Porsche Macan, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 245/45 tires on 21" rims front and 295/40 tires on 21" rims rear
@@ -107,9 +103,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -138,8 +132,6 @@ The following functionalities are available on the **Comfortseats with memory** 
 
 You can choose from 2 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **Sportsseats Plus** seat.
 
 - electric adjustment
@@ -155,10 +147,7 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -173,7 +162,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
@@ -186,11 +174,9 @@ The Porsche Macan includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Porsche Macan has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -218,7 +204,6 @@ You can choose between two sound systems on the Porsche Macan.
 
 - With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts.
 - With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -262,10 +247,12 @@ The Porsche Macan includes several standard and optional [advanced driver assist
 The Porsche Macan offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 

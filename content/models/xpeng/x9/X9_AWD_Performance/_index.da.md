@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080"  >}}
 
 Vi har opdelt vores XPENG X9 AWD Performance artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 XPENG X9 AWD Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ XPENG X9 AWD Performance har et firehjulstræk, der understøttes af to motorer,
 Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 130 mm, og maksimum er 220 mm. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsning
 
@@ -81,9 +76,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -113,8 +106,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -126,8 +117,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 
 #### Sæder på tredje række
 
-
-
 Tredje række har en tre-sæders bænk med en 40:60-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
@@ -135,7 +124,6 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
-
 
 ## Komfortfunktioner
 
@@ -145,11 +133,9 @@ XPENG X9 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 XPENG X9 AWD Performance har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +153,6 @@ Modellen har ikke et head-up display.
 Én type lydsystem er tilgængelig for XPENG X9 AWD Performance.
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
-
 
 ## Lys
 
@@ -202,6 +187,7 @@ Den XPENG X9 AWD Performance inkluderer flere standard- og valgfri [avancerede f
 ### Køreautomatisering
 
 Med XPILOT  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.

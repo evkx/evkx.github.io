@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Mercedes-EQ EQC 400 4MATIC i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Mercedes-EQ EQC 400 4MATIC har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ Mercedes-EQ EQC 400 4MATIC, med dimensioner på 4762 mm i längd, 1884 mm i bred
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQC 400 4MATIC, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
@@ -89,9 +87,7 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -103,18 +99,15 @@ Mercedes-EQ EQC 400 4MATIC erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
-
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-
 
 ## Komfortfunktioner
 
@@ -126,11 +119,9 @@ Mercedes-EQ EQC 400 4MATIC inkluderar flera funktioner för att förbättra komf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Mercedes-EQ EQC 400 4MATIC har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -158,7 +149,6 @@ Du kan välja mellan tre ljudsystem på Mercedes-EQ EQC 400 4MATIC.
 - Med Standard får du sju högtalare med en maximal systemeffekt på 100 watt.
 - Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
 - Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
-
 
 ## Ljus
 
@@ -195,6 +185,7 @@ Mercedes-EQ EQC 400 4MATIC inkluderar flera [avancerade förarassistanssystem](.
 Mercedes-EQ EQC 400 4MATIC erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driver Assistance Package  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 

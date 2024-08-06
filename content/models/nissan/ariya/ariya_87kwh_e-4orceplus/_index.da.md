@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orceplus/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE+" width="3000" height="1889"  >}}
 
 Vi har opdelt vores Nissan Ariya 87kWh e-4ORCE+ artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nissan Ariya 87kWh e-4ORCE+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
@@ -77,6 +74,7 @@ Den Nissan Ariya 87kWh e-4ORCE+, med dimensioner på 4595 mm i længde, 1850 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Nissan Ariya 87kWh e-4ORCE+, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
@@ -92,7 +90,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -116,15 +113,13 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -137,7 +132,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -153,11 +147,9 @@ Nissan Ariya 87kWh e-4ORCE+ inkluderer flere funktioner, der forbedrer komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Nissan Ariya 87kWh e-4ORCE+ har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +159,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orceplus/screens_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE+" width="3000" height="1999"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -187,7 +178,6 @@ Du kan vælge mellem to lydsystemer på Nissan Ariya 87kWh e-4ORCE+.
 
 - Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt.
 - Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
-
 
 ## Lys
 
@@ -221,6 +211,7 @@ Den Nissan Ariya 87kWh e-4ORCE+ inkluderer flere standard- og valgfri [avancered
 ### Køreautomatisering
 
 Med ProPILOT  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

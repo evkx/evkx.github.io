@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article Lotus Emeya S en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Lotus Emeya S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ La Lotus Emeya S, avec des dimensions de 5139 mm de longueur, 2005 mm de largeur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lotus Emeya S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
 - Pneus 265/40 sur jantes de 21" à l'avant et pneus 305/35 sur jantes de 21" à l'arrière
 - Pneus 265/35 sur jantes de 22" à l'avant et pneus 305/30 sur jantes de 22" à l'arrière
@@ -95,7 +93,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -119,6 +116,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -140,7 +138,6 @@ L'option second est double [sièges exécutifs](../../../../technology/seats/typ
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
-
 Il n'y a qu'un seul type de volant disponible.
 
 ## Système de climatisation
@@ -148,7 +145,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -163,10 +159,7 @@ L'Lotus Emeya S comprend plusieurs fonctionnalités pour améliorer le confort e
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -176,7 +169,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -196,7 +188,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Lotus Emeya S.
 
 - Avec le KEF Premium Audio system, vous obtenez 15 haut-parleurs avec une puissance système maximale de 1380 watts.
 - Avec le KEF Reference Audio system, vous obtenez 23 haut-parleurs avec une puissance système maximale de 2160 watts.
-
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -235,6 +226,7 @@ Le Lotus Emeya S comprend plusieurs [systèmes avancés d'assistance au conducte
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).

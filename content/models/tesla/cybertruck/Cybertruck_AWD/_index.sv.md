@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/main_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
 Vi har delat in vår beskrivning av Tesla Cybertruck AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -59,7 +57,6 @@ Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elekt
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Tesla Cybertruck AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
@@ -97,6 +94,7 @@ Tesla Cybertruck AWD finns i totalt 3 enfärgade lackfärger.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Tesla Cybertruck AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 285/65 tires on 20" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. 'Soft Close' är standard-funktionen för sidodörrarna. Bakluckan är elektriskt manövrerad.
@@ -110,9 +108,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -136,8 +132,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -149,7 +143,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -166,11 +159,9 @@ Tesla Cybertruck AWD inkluderar flera funktioner för att förbättra komfort oc
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Tesla Cybertruck AWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
-
 
 Viktiga skärmdetaljer:
 
@@ -191,7 +182,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Tesla Cybertruck AWD.
 
 - Med Tesla Premium Sound får du 17 högtalare med en maximal systemeffekt på 560 watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard.
 
@@ -230,15 +220,18 @@ Tesla Cybertruck AWD inkluderar flera [avancerade förarassistanssystem](../../.
 Tesla Cybertruck AWD erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Basic Autopilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 Med Enhanced Autopilot  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.
 

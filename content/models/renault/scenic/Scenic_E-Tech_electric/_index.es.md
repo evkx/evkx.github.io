@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/main_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1689"  >}}
 
 Hemos separado nuestro artículo Renault Scenic E-Tech electric en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Renault Scenic E-Tech electric tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
@@ -77,6 +74,7 @@ El Renault Scenic E-Tech electric, con dimensiones de 4470 mm de longitud, 1864 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Renault Scenic E-Tech electric, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 255/45 en llantas de 20
 
@@ -93,9 +91,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -115,20 +111,18 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -137,7 +131,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -153,11 +146,9 @@ El Renault Scenic E-Tech electric incluye varias características para mejorar l
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Renault Scenic E-Tech electric tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +158,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/screens_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -187,7 +177,6 @@ Puedes elegir entre dos sistemas de sonido en el Renault Scenic E-Tech electric.
 
 - Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
 - Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 6 conexiones USB-C de serie.
 
@@ -225,6 +214,7 @@ El Renault Scenic E-Tech electric incluye varios [sistemas avanzados de asistenc
 ### Automatización de la Conducción
 
 Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

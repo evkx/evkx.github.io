@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/main_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Volvo EC40 Single Motor i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Volvo EC40 Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
@@ -75,6 +72,7 @@ Volvo EC40 Single Motor, med dimensioner på 4440 mm i längd, 1873 mm i bredd o
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EC40 Single Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/50 tires on 19" rims
 - 235/45 tires on 20" rims
 
@@ -89,9 +87,7 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -113,14 +109,11 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -129,7 +122,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -144,11 +136,9 @@ Volvo EC40 Single Motor inkluderar flera funktioner för att förbättra komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Volvo EC40 Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -167,7 +157,6 @@ Du kan välja mellan två ljudsystem på Volvo EC40 Single Motor.
 
 - Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard.
 
@@ -203,6 +192,7 @@ Volvo EC40 Single Motor inkluderar flera [avancerade förarassistanssystem](../.
 ### Körautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

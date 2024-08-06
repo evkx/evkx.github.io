@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/main_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Ford Capri Extended Range RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The Ford Capri Extended Range RWD, with dimensions of 4634 mm in length, 1872 mm
 
 You can select from multiple wheel options in different sizes on the Ford Capri Extended Range RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -96,9 +94,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -128,10 +124,7 @@ The following functionalities are available on the **Ergo** seat.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
@@ -141,7 +134,6 @@ Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -156,11 +148,9 @@ The Ford Capri Extended Range RWD includes several features to enhance comfort a
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Ford Capri Extended Range RWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -187,7 +177,6 @@ You can choose between two sound systems on the Ford Capri Extended Range RWD.
 
 - With the Sound system, you get six speakers with a max system output of 140 watts.
 - With the B&O Soundsystem, you get ten speakers with a max system output of 480 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -229,9 +218,11 @@ The Ford Capri Extended Range RWD includes several standard and optional [advanc
 The Ford Capri Extended Range RWD offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 With the Assistantpackage  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 

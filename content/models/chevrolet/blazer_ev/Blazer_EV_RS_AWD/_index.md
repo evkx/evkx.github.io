@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/main_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2032"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Chevrolet Blazer EV RS AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ The Chevrolet Blazer EV RS AWD, with dimensions of 5067 mm in length, 1963 mm in
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Blazer EV RS AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 275/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -84,12 +82,9 @@ There are two different roof options to select from. The standard roof has a lar
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Seats
-
 
 #### First row seats
 
@@ -105,6 +100,7 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -112,10 +108,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
@@ -125,7 +118,6 @@ Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -139,11 +131,9 @@ The Chevrolet Blazer EV RS AWD includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Chevrolet Blazer EV RS AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -153,7 +143,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -172,7 +161,6 @@ Furthermore, the Chevrolet Blazer EV RS AWD supports Android Auto and Apple CarP
 One type of sound system is available for the Chevrolet Blazer EV RS AWD.
 
 - With the Lyric sound system, you get seven speakers with a max system output of  watts.
-
 
 The model has 5 USB-C connections as standard.
 
@@ -203,6 +191,7 @@ The Chevrolet Blazer EV RS AWD includes several standard and optional [advanced 
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

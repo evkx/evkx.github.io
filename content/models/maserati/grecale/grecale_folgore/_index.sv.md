@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/main_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2248"  >}}
 
 Vi har delat in vår beskrivning av Maserati Grecale Folgore i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Maserati Grecale Folgore har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -86,6 +83,7 @@ Maserati Grecale Folgore, med dimensioner på 4865 mm i längd, 1948 mm i bredd 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Maserati Grecale Folgore, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/50 tires on 19" rims
 - 255/45 däck på 20" fälgar fram och 295/40 däck på 20" fälgar bak
 - 255/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
@@ -103,12 +101,9 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
-
 ### Säten
-
 
 #### Framsäten
 
@@ -125,10 +120,7 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -137,7 +129,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
@@ -145,7 +136,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -161,11 +151,9 @@ Maserati Grecale Folgore inkluderar flera funktioner för att förbättra komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Maserati Grecale Folgore har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
-
 
 Viktiga skärmdetaljer:
 
@@ -193,7 +181,6 @@ Du kan välja mellan två ljudsystem på Maserati Grecale Folgore.
 
 - Med Sonus Faber Premium Sound System får du 14 högtalare med en maximal systemeffekt på 860 watt.
 - Med Sonus Faber High Premium Sound System får du 21 högtalare med en maximal systemeffekt på 1285 watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -232,6 +219,7 @@ Maserati Grecale Folgore inkluderar flera [avancerade förarassistanssystem](../
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)

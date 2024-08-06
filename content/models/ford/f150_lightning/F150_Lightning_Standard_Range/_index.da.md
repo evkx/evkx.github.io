@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1571"  >}}
 
 Vi har opdelt vores Ford F150 Lightning Standard Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Ford F150 Lightning Standard Range har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -63,8 +60,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
@@ -74,6 +69,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 Ford F150 Lightning Standard Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Ford F150 Lightning Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 265/70 dæk on 18" fælge
 - 275/60 dæk on 20" fælge
@@ -89,7 +85,6 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -111,6 +106,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
@@ -120,17 +116,13 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
-
 
 ## Komfortfunktioner
 
@@ -139,7 +131,6 @@ Ford F150 Lightning Standard Range inkluderer flere funktioner, der forbedrer ko
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Brugergrænseflade og kontrol
 
@@ -151,7 +142,6 @@ Vigtige skærmdetaljer:
 
 - Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor
 - Skærmen  i dashboardets midte er 12,0 tommer stor
-
 
 Det valgfri -layout har følgende konfiguration.
 
@@ -181,7 +171,6 @@ Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range.
 - Med Ford får du fire højttalere med en maksimal systemeffekt på 80 watt.
 - Med B&O Sound System får du otte højttalere med en maksimal systemeffekt på 640 watt.
 - Med B&O Unleashed Sound System får du 18 højttalere med en maksimal systemeffekt på 1080 watt.
-
 
 ## Lys
 
@@ -214,13 +203,16 @@ Den Ford F150 Lightning Standard Range inkluderer flere standard- og valgfri [av
 Ford F150 Lightning Standard Range tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Ford Co-Pilot360™ 2.0  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - Fartpilot.
 
 Med Ford Co-Pilot360™ Assist 2.0  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

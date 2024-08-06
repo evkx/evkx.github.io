@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av Jaguar I-Pace EV400 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Jaguar I-Pace EV400 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -74,6 +71,7 @@ Jaguar I-Pace EV400, med dimensioner på 4682 mm i längd, 2011 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Jaguar I-Pace EV400, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/65 tires on 18" rims
 - 245/55 tires on 19" rims
 - 245/50 tires on 20" rims
@@ -92,9 +90,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -113,14 +109,13 @@ Följande funktioner är tillgängliga på **Performance** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [läderklädsel](../../../../technology/seats/materials/#leather)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
-
-
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
@@ -135,6 +130,7 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
@@ -150,13 +146,11 @@ Du kan välja två sätestyper för den andra raden i Jaguar I-Pace EV400.
 
 Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -176,11 +170,9 @@ Jaguar I-Pace EV400 inkluderar flera funktioner för att förbättra komfort och
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Jaguar I-Pace EV400 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
-
 
 Viktiga skärmdetaljer:
 
@@ -209,7 +201,6 @@ Du kan välja mellan två ljudsystem på Jaguar I-Pace EV400.
 - Med Meridian Sound System får du 11 högtalare med en maximal systemeffekt på 400 watt.
 - Med Meridian 3D Surround får du 16 högtalare med en maximal systemeffekt på 750 watt.
 
-
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Jaguar I-Pace EV400.
@@ -236,6 +227,7 @@ Jaguar I-Pace EV400 inkluderar flera [avancerade förarassistanssystem](../../..
 ### Körautomatisering
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
+
 
 
 {{<evkxdisplayaddarticle />}}

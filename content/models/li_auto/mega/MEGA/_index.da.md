@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/main_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 Vi har opdelt vores Li Auto MEGA artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -55,7 +53,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Li Auto MEGA har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ Li Auto MEGA fås i alt 4 lakfarver, herunder flere iøjnefaldende metalliske mu
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Li Auto MEGA, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 245/60 dæk on 18" fælge
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
@@ -90,7 +88,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -117,6 +114,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
@@ -126,8 +124,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Sæde på anden række
-
-
 
 For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -140,12 +136,9 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 
 #### Sæder på tredje række
 
-
-
 Tredje række har en tre-sæders bænk med en 40:60-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -154,7 +147,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -170,11 +162,9 @@ Li Auto MEGA inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Li Auto MEGA har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Til passageren er der en infotainmentskærm.
-
 
 Vigtige skærmdetaljer:
 
@@ -184,7 +174,6 @@ For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på f
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -203,7 +192,6 @@ Yderligere understøtter Li Auto MEGA Android Auto og Apple CarPlay. Denne funkt
 Én type lydsystem er tilgængelig for Li Auto MEGA.
 
 - Med Platinum audio system får du 21 højttalere med en maksimal systemeffekt på 2160 watt.
-
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -236,12 +224,14 @@ Den Li Auto MEGA inkluderer flere standard- og valgfri [avancerede førerassiste
 ### Køreautomatisering
 
 Med AD Pro  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med AD Max  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer

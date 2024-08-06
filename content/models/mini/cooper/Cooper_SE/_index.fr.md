@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/main_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Mini Cooper SE en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -48,7 +46,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Mini Cooper SE dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
@@ -59,8 +56,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Freins
 
-
-
 ### Freinage régénératif
 
 
@@ -70,13 +65,12 @@ La Mini Cooper SE, avec des dimensions de 3900 mm de longueur, 1750 mm de largeu
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mini Cooper SE, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 215/55 sur jantes de 16"
 - Pneus 205/50 sur jantes de 17"
 - Pneus 225/40 sur jantes de 18"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
-
-
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
@@ -87,9 +81,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -106,28 +98,24 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
-
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-
-
 
 Il n'y a qu'un seul type de volant disponible.
 
 ## Système de climatisation
 
 Un système climatique est disponible.
-
 
 ## Caractéristiques de confort
 
@@ -140,10 +128,7 @@ L'Mini Cooper SE comprend plusieurs fonctionnalités pour améliorer le confort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -159,7 +144,6 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 Un type de système audio est disponible pour le Mini Cooper SE.
 
 - Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
-
 
 ## Lumières
 
@@ -180,6 +164,7 @@ Le Mini Cooper SE comprend plusieurs [systèmes avancés d'assistance au conduct
 ### Automatisation de la Conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

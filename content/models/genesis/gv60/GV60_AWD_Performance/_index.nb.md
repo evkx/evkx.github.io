@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/main_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1688"  >}}
 
 Vi har delt vår beskrivelse av Genesis GV60 AWD Performance i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Genesis GV60 AWD Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Genesis GV60 AWD Performance har et firehjulsdriftssystem som støttes av to mot
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsing
 
@@ -74,6 +69,7 @@ Den maksimale regenerative effekten er 150 kW.
 Genesis GV60 AWD Performance, med dimensjoner på 4515 mm i lengde, 1890 mm i bredde og 1580 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Genesis GV60 AWD Performance er tilgjengelig i totalt 10 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Genesis GV60 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
@@ -92,13 +88,11 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 #### Forseter
 
@@ -114,6 +108,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black/White [skinntrekk](../../../../technology/seats/materials/#leather)
@@ -124,8 +119,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -139,7 +132,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
@@ -151,11 +143,9 @@ Genesis GV60 AWD Performance inkluderer flere funksjoner for å forbedre komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Genesis GV60 AWD Performance har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -181,7 +171,6 @@ I tillegg støtter Genesis GV60 AWD Performance Android Auto og Apple CarPlay. D
 Én type lydsystem er tilgjengelig for Genesis GV60 AWD Performance.
 
 - Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -218,6 +207,7 @@ Genesis GV60 AWD Performance inkluderer flere [avanserte førerassistanse system
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

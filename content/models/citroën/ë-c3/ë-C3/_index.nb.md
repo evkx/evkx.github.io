@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/main_1_st.jpg" title="Citroën ë-C3" width="3000" height="1500"  >}}
 
 Vi har delt vår beskrivelse av Citroën ë-C3 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Citroën ë-C3 har et forhjulsdriftssystem støttet av én motor på forakselen.
@@ -81,6 +78,7 @@ Citroën ë-C3, med dimensjoner på 4015 mm i lengde, 1755 mm i bredde og 1577 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Citroën ë-C3, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 205/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 
@@ -97,9 +95,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -111,12 +107,12 @@ For første rad tilbyr Citroën ë-C3 to forskjellige setetyper å velge mellom,
 
 Følgende funksjoner er tilgjengelige på **Start** setet.
 
-
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
@@ -130,19 +126,18 @@ Følgende funksjoner er tilgjengelige på **Standard** setet.
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -151,7 +146,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -164,11 +158,9 @@ Citroën ë-C3 inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Citroën ë-C3 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -178,7 +170,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -198,7 +189,6 @@ Du kan velge mellom to lydsystemer på Citroën ë-C3.
 
 - Med  får du to høyttalere med en maksimal systemeffekt på  watt.
 - Med Max Sound system får du to høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 
@@ -225,6 +215,7 @@ Citroën ë-C3 inkluderer flere [avanserte førerassistanse systemer](../../../.
 ### Kjøreautomatisering
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - Fartsbegrenser.
 
 ### Sensorer & Kameraer

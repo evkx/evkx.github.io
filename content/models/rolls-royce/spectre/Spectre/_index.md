@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Rolls-Royce Spectre features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
@@ -65,8 +62,6 @@ Dynamic steering is a standard feature on the Rolls-Royce Spectre. Dynamic steer
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
@@ -76,6 +71,7 @@ Dynamic steering is a standard feature on the Rolls-Royce Spectre. Dynamic steer
 The Rolls-Royce Spectre, with dimensions of 5475 mm in length, 2017 mm in width, and 1573 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 8 different paint colors when ordering this model.
 
 You can select from multiple wheel designs, all available in the same size, on the Rolls-Royce Spectre, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 255/50 tires on 23" rims front and 275/40 tires on 23" rims rear
 
@@ -90,9 +86,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -114,6 +108,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 7 different materials/colors for this seat type.
+
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -126,8 +121,6 @@ You can choose from 7 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -136,7 +129,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -158,11 +150,9 @@ The Rolls-Royce Spectre includes several features to enhance comfort and conveni
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Rolls-Royce Spectre has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -189,7 +179,6 @@ You can choose between two sound systems on the Rolls-Royce Spectre.
 
 - With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts.
 - With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
-
 
 The model has 6 USB-C connections as standard.
 
@@ -227,6 +216,7 @@ The Rolls-Royce Spectre includes several standard and optional [advanced driver 
 ### Driving Automation
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

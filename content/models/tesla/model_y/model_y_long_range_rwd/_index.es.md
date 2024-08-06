@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/main_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo Tesla Model Y Long Range RWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Tesla Model Y Long Range RWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
@@ -79,6 +76,7 @@ El Tesla Model Y Long Range RWD, con dimensiones de 4751 mm de longitud, 1921 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model Y Long Range RWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 255/45 en llantas de 19
 - Neumáticos 255/40 en llantas de 20
 - Neumáticos 255/35 en llantas de 21" delanteras y neumáticos 275/35 en llantas de 21" traseras
@@ -96,9 +94,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -121,20 +117,15 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de dos asientos opcional con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -143,7 +134,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -160,11 +150,9 @@ El Tesla Model Y Long Range RWD incluye varias características para mejorar la 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model Y Long Range RWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
-
 
 Detalles clave de la pantalla:
 
@@ -173,7 +161,6 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -188,7 +175,6 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 Un tipo de sistema de sonido está disponible para el Tesla Model Y Long Range RWD.
 
 - Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -225,15 +211,18 @@ El Tesla Model Y Long Range RWD incluye varios [sistemas avanzados de asistencia
 Tesla Model Y Long Range RWD ofrece [automatización de la conducción en niveles 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Basic Autopilot  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 Con el sistema Enhanced Autopilot  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Con el sistema Full Self-Driving Capability  de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - Control de semáforos - sigue los semáforos.
 - Control de señales de stop: sigue las señales de stop.
 

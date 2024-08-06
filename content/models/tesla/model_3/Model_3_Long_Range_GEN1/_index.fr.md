@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/main_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Tesla Model 3 Long Range (GEN1) en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -58,7 +56,6 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Tesla Model 3 Long Range (GEN1) dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -87,6 +84,7 @@ La Tesla Model 3 Long Range (GEN1), avec des dimensions de 4694 mm de longueur, 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model 3 Long Range (GEN1), ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/45 sur jantes de 18"
 - Pneus 255/45 sur jantes de 19"
 
@@ -103,9 +101,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -129,12 +125,9 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -143,7 +136,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -159,11 +151,9 @@ L'Tesla Model 3 Long Range (GEN1) comprend plusieurs fonctionnalités pour amél
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model 3 Long Range (GEN1) a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
-
 
 Détails clés de l'écran :
 
@@ -184,7 +174,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le Tesla Model 3 Long Range (GEN1).
 
 - Avec le Tesla Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 560 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -221,15 +210,18 @@ Le Tesla Model 3 Long Range (GEN1) comprend plusieurs [systèmes avancés d'assi
 Tesla Model 3 Long Range (GEN1) offre [l'automatisation de la conduite aux niveaux 2 ou 3](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système Basic Autopilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 Avec le système Enhanced Autopilot  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - Contrôle des feux de circulation - suit les feux de circulation.
 - Contrôle des panneaux stop : suivez les panneaux stop.
 

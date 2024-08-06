@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/main_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo Smart #1 Brabus en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Smart #1 Brabus tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -75,6 +72,7 @@ El Smart #1 Brabus, con dimensiones de 4300 mm de longitud, 1822 mm de anchura y
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Smart #1 Brabus, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 245/40 en llantas de 19
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
@@ -86,9 +84,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -105,20 +101,18 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - White/Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -128,7 +122,6 @@ Hay dos opciones de sistema de climatización disponibles:
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -143,10 +136,7 @@ El Smart #1 Brabus incluye varias características para mejorar la comodidad y c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -168,7 +158,6 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 Un tipo de sistema de sonido está disponible para el Smart #1 Brabus.
 
 - Con el Yamaha surround sound system, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -208,6 +197,7 @@ El Smart #1 Brabus incluye varios [sistemas avanzados de asistencia al conductor
 ### Automatización de la Conducción
 
 Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

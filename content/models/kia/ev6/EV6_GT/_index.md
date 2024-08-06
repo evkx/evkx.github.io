@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,17 +50,13 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Kia EV6 GT features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
-
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -75,6 +69,7 @@ The maximum regenerative power is 150 kW.
 The Kia EV6 GT, with dimensions of 4680 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
 
 You can select from multiple wheel designs, all available in the same size, on the Kia EV6 GT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 255/40 tires on 21" rims
 
@@ -89,12 +84,9 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Seats
-
 
 #### First row seats
 
@@ -110,20 +102,18 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -132,7 +122,6 @@ There is only one type of steering wheel available. The  steering wheel is heate
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -145,11 +134,9 @@ The Kia EV6 GT includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Kia EV6 GT has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -176,7 +163,6 @@ You can choose between two sound systems on the Kia EV6 GT.
 
 - With the Standard, you get six speakers with a max system output of  watts.
 - With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -213,6 +199,7 @@ The Kia EV6 GT includes several standard and optional [advanced driver assistanc
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

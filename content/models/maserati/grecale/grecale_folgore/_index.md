@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/main_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2248"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Maserati Grecale Folgore features an all-wheel drive system powered by two motors, one on each axle.
@@ -86,6 +83,7 @@ The Maserati Grecale Folgore, with dimensions of 4865 mm in length, 1948 mm in w
 
 You can select from multiple wheel options in different sizes on the Maserati Grecale Folgore, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 295/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 295/35 tires on 21" rims rear
@@ -103,12 +101,9 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Seats
-
 
 #### First row seats
 
@@ -125,10 +120,7 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -137,7 +129,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -145,7 +136,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -161,11 +151,9 @@ The Maserati Grecale Folgore includes several features to enhance comfort and co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Maserati Grecale Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -193,7 +181,6 @@ You can choose between two sound systems on the Maserati Grecale Folgore.
 
 - With the Sonus Faber Premium Sound System, you get 14 speakers with a max system output of 860 watts.
 - With the Sonus Faber High Premium Sound System, you get 21 speakers with a max system output of 1285 watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -232,6 +219,7 @@ The Maserati Grecale Folgore includes several standard and optional [advanced dr
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

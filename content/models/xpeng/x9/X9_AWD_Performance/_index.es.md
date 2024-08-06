@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080"  >}}
 
 Hemos separado nuestro artículo XPENG X9 AWD Performance en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 XPENG X9 AWD Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ XPENG X9 AWD Performance tiene un sistema de tracción total sostenido por dos m
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 130 mm y la máxima es 220 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
-
-
 
 ### Frenado regenerativo
 
@@ -81,9 +76,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -113,8 +106,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
@@ -126,8 +117,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de tres asientos con una división 40:60. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
@@ -135,7 +124,6 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
 
 ## Características de confort
 
@@ -145,11 +133,9 @@ El XPENG X9 AWD Performance incluye varias características para mejorar la como
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El XPENG X9 AWD Performance tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +153,6 @@ El modelo no tiene head-up display.
 Un tipo de sistema de sonido está disponible para el XPENG X9 AWD Performance.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
-
 
 ## Luces
 
@@ -202,6 +187,7 @@ El XPENG X9 AWD Performance incluye varios [sistemas avanzados de asistencia al 
 ### Automatización de la Conducción
 
 Con el sistema XPILOT  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/main_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 
 Vi har opdelt vores Volkswagen ID. Buzz GTX artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,13 +48,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volkswagen ID. Buzz GTX har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
 
 ### Hjulophæng
-
 
 ### Styring
 
@@ -76,6 +72,7 @@ Volkswagen ID. Buzz GTX fås i alt 12 lakfarver, herunder solide, metalliske og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID. Buzz GTX, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/50 dæk på 20" fælge foran og 265/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
@@ -93,9 +90,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -111,14 +106,13 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Green [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funktioner er tilgængelige på **comfort** sædet.
 
@@ -130,6 +124,7 @@ Følgende funktioner er tilgængelige på **comfort** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Green [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
@@ -140,12 +135,9 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -154,7 +146,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -170,11 +161,9 @@ Volkswagen ID. Buzz GTX inkluderer flere funktioner, der forbedrer komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Volkswagen ID. Buzz GTX har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -200,7 +189,6 @@ Yderligere understøtter Volkswagen ID. Buzz GTX Android Auto og Apple CarPlay. 
 Én type lydsystem er tilgængelig for Volkswagen ID. Buzz GTX.
 
 - Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
-
 
 Modellen har 5 USB-C-forbindelser som standard.
 
@@ -244,10 +232,12 @@ Den Volkswagen ID. Buzz GTX inkluderer flere standard- og valgfri [avancerede f�
 Volkswagen ID. Buzz GTX tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 

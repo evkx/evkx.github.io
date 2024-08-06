@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
 Nous avons séparé notre article Cadillac LYRIQ RWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Cadillac LYRIQ RWD dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -73,7 +70,6 @@ La Cadillac LYRIQ RWD, avec des dimensions de 4996 mm de longueur, 1977 mm de la
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Cadillac LYRIQ RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
@@ -85,9 +81,7 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -107,6 +101,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
@@ -114,12 +109,9 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -129,7 +121,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -143,11 +134,9 @@ L'Cadillac LYRIQ RWD comprend plusieurs fonctionnalités pour améliorer le conf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Cadillac LYRIQ RWD a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
-
 
 Détails clés de l'écran :
 
@@ -156,7 +145,6 @@ Détails clés de l'écran :
 Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -175,7 +163,6 @@ De plus, le Cadillac LYRIQ RWD prend en charge Android Auto et Apple CarPlay. Ce
 Un type de système audio est disponible pour le Cadillac LYRIQ RWD.
 
 - Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 5 connexions USB-C en standard.
 
@@ -206,6 +193,7 @@ Le Cadillac LYRIQ RWD comprend plusieurs [systèmes avancés d'assistance au con
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

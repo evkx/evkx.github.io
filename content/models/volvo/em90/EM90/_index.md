@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/main_1_st.jpg" title="Volvo EM90" width="2000" height="1503"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo EM90 has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ The Volvo EM90 is available in a total of 3 paint colors, including several stri
 
 You can select from multiple wheel options in different sizes on the Volvo EM90, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -88,7 +86,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -111,6 +108,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -120,8 +118,6 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Second-row seat
-
-
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
@@ -134,8 +130,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 #### Third-row seats
 
-
-
 The third row has a two-seat bench with a 40:60 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available.
@@ -145,7 +139,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -161,11 +154,9 @@ The Volvo EM90 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Volvo EM90 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -175,7 +166,6 @@ For the rear seat passengers, there is an infotainment screen in the roof behind
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -194,7 +184,6 @@ Furthermore, the Volvo EM90 supports Android Auto and Apple CarPlay. This functi
 One type of sound system is available for the Volvo EM90.
 
 - With the Bowers & Wilkins Sound System, you get 21 speakers with a max system output of 500 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -227,6 +216,7 @@ The Volvo EM90 includes several standard and optional [advanced driver assistanc
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

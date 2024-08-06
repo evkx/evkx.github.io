@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Volvo EX90 Twin Motor Performance artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo EX90 Twin Motor Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -73,6 +70,7 @@ Den Volvo EX90 Twin Motor Performance, med dimensioner på 5037 mm i længde, 19
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX90 Twin Motor Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/45 dæk på 21" fælge foran og 295/45 dæk på 21" fælge bagpå
 - 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
@@ -88,7 +86,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -112,6 +109,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - White [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
@@ -121,8 +119,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -130,8 +126,6 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Sæder på tredje række
-
-
 
 Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
 
@@ -142,7 +136,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **5-zone klimaanlæg:** Understøtter forskellige temperaturer i fem zoner. Føreren, passageren og to zoner i 2. række og en i 3. række.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -158,11 +151,9 @@ Volvo EX90 Twin Motor Performance inkluderer flere funktioner, der forbedrer kom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Volvo EX90 Twin Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -181,7 +172,6 @@ Du kan vælge mellem to lydsystemer på Volvo EX90 Twin Motor Performance.
 
 - Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
 - Med Bowers & Wilkins får du 25 højttalere med en maksimal systemeffekt på 1610 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -217,6 +207,7 @@ Den Volvo EX90 Twin Motor Performance inkluderer flere standard- og valgfri [ava
 ### Køreautomatisering
 
 Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

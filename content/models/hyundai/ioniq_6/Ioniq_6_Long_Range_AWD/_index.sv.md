@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001"  >}}
 
 Vi har delat in vår beskrivning av Hyundai Ioniq 6 Long Range AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Hyundai Ioniq 6 Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -60,8 +57,6 @@ Hyundai Ioniq 6 Long Range AWD har ett fyrhjulsdriftsystem som stöds av två mo
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 141 mm.
 
 ### Bromsar
-
-
 
 ### Regenerativ bromsning
 
@@ -74,6 +69,7 @@ Den maximala regenerativa effekten är 150 kW.
 Hyundai Ioniq 6 Long Range AWD, med dimensioner på 4855 mm i längd, 1880 mm i bredd och 1495 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Hyundai Ioniq 6 Long Range AWD finns i totalt 9 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai Ioniq 6 Long Range AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 225/55 tires on 18" rims
 - 245/40 tires on 20" rims
@@ -91,12 +87,9 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
-
 ### Säten
-
 
 #### Framsäten
 
@@ -112,6 +105,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
@@ -119,14 +113,11 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2123"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -135,7 +126,6 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -148,11 +138,9 @@ Hyundai Ioniq 6 Long Range AWD inkluderar flera funktioner för att förbättra 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Hyundai Ioniq 6 Long Range AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -178,7 +166,6 @@ Dessutom stöder Hyundai Ioniq 6 Long Range AWD Android Auto och Apple CarPlay. 
 En typ av ljudsystem är tillgänglig för Hyundai Ioniq 6 Long Range AWD.
 
 - Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -215,6 +202,7 @@ Hyundai Ioniq 6 Long Range AWD inkluderar flera [avancerade förarassistanssyste
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

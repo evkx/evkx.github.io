@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/main_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av BYD Seal RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BYD Seal RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ BYD Seal RWD, med dimensioner på 4800 mm i längd, 1875 mm i bredd och 1460 mm 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Seal RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/40 tires on 22" rims
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
@@ -92,9 +90,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -118,14 +114,11 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/secondrowseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -134,7 +127,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -150,11 +142,9 @@ BYD Seal RWD inkluderar flera funktioner för att förbättra komfort och bekvä
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 BYD Seal RWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -180,7 +170,6 @@ Dessutom stöder BYD Seal RWD Android Auto och Apple CarPlay. Denna funktion gö
 En typ av ljudsystem är tillgänglig för BYD Seal RWD.
 
 - Med Dynaudio Performance Audio System får du 12 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -219,6 +208,7 @@ BYD Seal RWD inkluderar flera [avancerade förarassistanssystem](../../../../tec
 ### Körautomatisering
 
 Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 

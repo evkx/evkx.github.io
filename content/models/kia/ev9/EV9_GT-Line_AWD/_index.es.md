@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/main_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Kia EV9 GT-Line AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,17 +48,13 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Kia EV9 GT-Line AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-
 ### Frenos
-
-
 
 ### Frenado regenerativo
 
@@ -73,6 +67,7 @@ La potencia regenerativa máxima es de 150 kW.
 El Kia EV9 GT-Line AWD, con dimensiones de 5010 mm de longitud, 1980 mm de anchura y 1755 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Kia EV9 GT-Line AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 255/45 en llantas de 20
@@ -91,13 +86,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -113,6 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black/White [tapicería de cuero](../../../../technology/seats/materials/#leather)
@@ -146,12 +140,9 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
-
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
@@ -160,7 +151,6 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
@@ -175,7 +165,6 @@ El Kia EV9 GT-Line AWD incluye varias características para mejorar la comodidad
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interfaz de usuario y control
 
@@ -207,7 +196,6 @@ Puedes elegir entre dos sistemas de sonido en el Kia EV9 GT-Line AWD.
 
 - Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios.
 - Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 6 conexiones USB-C de serie.
 
@@ -244,6 +232,7 @@ El Kia EV9 GT-Line AWD incluye varios [sistemas avanzados de asistencia al condu
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

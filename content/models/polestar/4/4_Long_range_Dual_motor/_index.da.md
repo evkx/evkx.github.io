@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/main_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Polestar 4 Long range Dual motor artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Polestar 4 Long range Dual motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -75,6 +72,7 @@ Den Polestar 4 Long range Dual motor, med dimensioner på 4840 mm i længde, 200
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Polestar 4 Long range Dual motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
@@ -85,7 +83,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -109,16 +106,14 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -131,7 +126,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -147,11 +141,9 @@ Polestar 4 Long range Dual motor inkluderer flere funktioner, der forbedrer komf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Polestar 4 Long range Dual motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -168,7 +160,6 @@ Du kan vælge mellem to lydsystemer på Polestar 4 Long range Dual motor.
 
 - Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
 - Med Bowers & Wilkins får du 25 højttalere med en maksimal systemeffekt på 1610 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -204,6 +195,7 @@ Den Polestar 4 Long range Dual motor inkluderer flere standard- og valgfri [avan
 ### Køreautomatisering
 
 Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

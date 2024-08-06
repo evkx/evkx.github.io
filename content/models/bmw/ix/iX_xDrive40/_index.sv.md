@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/main_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998"  >}}
 
 Vi har delat in vår beskrivning av BMW iX xDrive40 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BMW iX xDrive40 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
@@ -67,8 +64,6 @@ Dynamisk styrning är standard-funktionen för BMW iX xDrive40. Dynamisk styrnin
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
@@ -78,6 +73,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 BMW iX xDrive40, med dimensioner på 4953 mm i längd, 1967 mm i bredd och 1696 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BMW iX xDrive40, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 255/50 däck på 22" fälgar fram och 275/40 däck på 22" fälgar bak
 
@@ -92,9 +88,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -120,14 +114,11 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -150,11 +141,9 @@ BMW iX xDrive40 inkluderar flera funktioner för att förbättra komfort och bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 BMW iX xDrive40 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -181,7 +170,6 @@ Du kan välja mellan två ljudsystem på BMW iX xDrive40.
 
 - Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt.
 - Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
-
 
 Modellen har 6 USB-C-anslutningar som standard.
 
@@ -219,10 +207,12 @@ BMW iX xDrive40 inkluderar flera [avancerade förarassistanssystem](../../../../
 BMW iX xDrive40 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driving Assistant  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

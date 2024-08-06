@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/main_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="1999"  >}}
 
 Nous avons séparé notre article BMW i4 eDrive40 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 BMW i4 eDrive40 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
@@ -81,6 +78,7 @@ La BMW i4 eDrive40, avec des dimensions de 4783 mm de longueur, 1852 mm de large
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i4 eDrive40, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 245/45 sur jantes de 18" à l'avant et pneus 255/45 sur jantes de 18" à l'arrière
 - Pneus 245/40 sur jantes de 19" à l'avant et pneus 255/40 sur jantes de 19" à l'arrière
 - Pneus 245/35 sur jantes de 20" à l'avant et pneus 255/35 sur jantes de 20" à l'arrière
@@ -98,9 +96,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -122,6 +118,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
+
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Cognac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -143,8 +140,6 @@ Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de si�
 - Blue [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **M Sport**.
 
 - réglage électrique
@@ -156,6 +151,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **M Sport**.
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
+
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Cognac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
@@ -180,8 +176,6 @@ Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de si�
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -208,11 +202,9 @@ L'BMW i4 eDrive40 comprend plusieurs fonctionnalités pour améliorer le confort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le BMW i4 eDrive40 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -237,7 +229,6 @@ Vous pouvez choisir entre deux systèmes audio sur le BMW i4 eDrive40.
 
 - Avec le Hifi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 200 watts.
 - Avec le Harman Kardon Surround Sound system, vous obtenez 17 haut-parleurs avec une puissance système maximale de 445 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -275,10 +266,12 @@ Le BMW i4 eDrive40 comprend plusieurs [systèmes avancés d'assistance au conduc
 BMW i4 eDrive40 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système Driving Assistant  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - Régulateur de vitesse.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système Driving Assistant Professional  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

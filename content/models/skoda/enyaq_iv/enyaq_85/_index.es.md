@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/main_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo SKODA ENYAQ 85 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 SKODA ENYAQ 85 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ El SKODA ENYAQ 85, con dimensiones de 4653 mm de longitud, 1879 mm de anchura y 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el SKODA ENYAQ 85, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 - Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
@@ -93,9 +91,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -120,12 +116,9 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1945"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -134,7 +127,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -149,11 +141,9 @@ El SKODA ENYAQ 85 incluye varias características para mejorar la comodidad y co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El SKODA ENYAQ 85 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -179,7 +169,6 @@ Además, el SKODA ENYAQ 85 es compatible con Android Auto y Apple CarPlay. Esta 
 Un tipo de sistema de sonido está disponible para el SKODA ENYAQ 85.
 
 - Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -218,6 +207,7 @@ El SKODA ENYAQ 85 incluye varios [sistemas avanzados de asistencia al conductor]
 ### Automatización de la Conducción
 
 Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

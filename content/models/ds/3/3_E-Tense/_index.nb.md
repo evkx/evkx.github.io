@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/main_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av DS 3 E-Tense i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 DS 3 E-Tense har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -63,8 +60,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Bremser
 
-
-
 ### Regenerativ bremsing
 
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere.
@@ -74,6 +69,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 DS 3 E-Tense, med dimensjoner på 4118 mm i lengde, 1802 mm i bredde og 1534 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. DS 3 E-Tense er tilgjengelig i totalt 5 ensfargede lakkfarger.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på DS 3 E-Tense, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 - 215/60 dekk på 17" felger
 - 215/55 dekk på 18" felger
@@ -90,7 +86,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -110,26 +105,21 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -143,10 +133,7 @@ DS 3 E-Tense inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -173,7 +160,6 @@ I tillegg støtter DS 3 E-Tense Android Auto og Apple CarPlay. Denne funksjonali
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-
 ## Lys
 
 Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
@@ -195,6 +181,7 @@ DS 3 E-Tense inkluderer flere [avanserte førerassistanse systemer](../../../../
 DS 3 E-Tense tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

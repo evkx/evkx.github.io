@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/main_1_st.jpg" title="BYD Atto 3" width="1600" height="1155"  >}}
 
 Vi har delat in vår beskrivning av BYD Atto 3 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BYD Atto 3 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
@@ -79,6 +76,7 @@ BYD Atto 3, med dimensioner på 4455 mm i längd, 1875 mm i bredd och 1875 mm i 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Atto 3, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/50 tires on 18" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
@@ -92,9 +90,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -122,12 +118,9 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -136,7 +129,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -152,22 +144,18 @@ BYD Atto 3 inkluderar flera funktioner för att förbättra komfort och bekväml
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på BYD Atto 3.
 
 Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
-
 Viktiga skärmdetaljer:
 
 - Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum
 - Skärmen touch i mitten av instrumentbrädan är 12,8 tum
 
-
 Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -189,7 +177,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för BYD Atto 3.
 
 - Med Dirac får du åtta högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
@@ -230,6 +217,7 @@ BYD Atto 3 inkluderar flera [avancerade förarassistanssystem](../../../../techn
 BYD Atto 3 erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

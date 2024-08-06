@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -54,7 +52,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-AMG EQS 53 4MATIC+ features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -82,9 +79,8 @@ The maximum regenerative power is 300 kW.
 The Mercedes-AMG EQS 53 4MATIC+, with dimensions of 5223 mm in length, 1926 mm in width, and 1520 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Mercedes-AMG EQS 53 4MATIC+ offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-
-
 You can select from multiple wheel options in different sizes on the Mercedes-AMG EQS 53 4MATIC+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 - 265/35 tires on 22" rims front and 295/30 tires on 22" rims rear
@@ -100,9 +96,7 @@ There are two different roof options to select from. The standard is just a regu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -123,8 +117,6 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **multicontour** seat.
 
@@ -181,11 +173,9 @@ The Mercedes-AMG EQS 53 4MATIC+ includes several features to enhance comfort and
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Mercedes-AMG EQS 53 4MATIC+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -196,7 +186,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1695"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -218,7 +207,6 @@ You can choose between two sound systems on the Mercedes-AMG EQS 53 4MATIC+.
 
 - With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
 - With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
-
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -255,13 +243,16 @@ The Mercedes-AMG EQS 53 4MATIC+ includes several standard and optional [advanced
 The Mercedes-AMG EQS 53 4MATIC+ offers [driving automation at levels 1,2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
+
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 

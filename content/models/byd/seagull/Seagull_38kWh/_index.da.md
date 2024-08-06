@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 Vi har opdelt vores BYD Seagull 38kWh artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BYD Seagull 38kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
@@ -79,6 +76,7 @@ Den BYD Seagull 38kWh, med dimensioner på 3780 mm i længde, 1715 mm i bredde o
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Seagull 38kWh, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/50 dæk on 17" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -92,9 +90,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -106,21 +102,15 @@ BYD Seagull 38kWh tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
-
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 #### Sæde på anden række
 
-
-
 Følgende funktioner er tilgængelige på **standard** sædet.
-
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -129,7 +119,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -145,11 +134,9 @@ BYD Seagull 38kWh inkluderer flere funktioner, der forbedrer komfort og bekvemme
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 BYD Seagull 38kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -171,7 +158,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for BYD Seagull 38kWh.
 
 - Med Dirac får du otte højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-A-forbindelser som standard.
 
@@ -202,6 +188,7 @@ Den BYD Seagull 38kWh inkluderer flere standard- og valgfri [avancerede føreras
 BYD Seagull 38kWh tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

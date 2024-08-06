@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/main_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 Vi har delt vår beskrivelse av Kia EV6 GT i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,17 +50,13 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Kia EV6 GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
 ### Hjuloppheng
 
-
 ### Bremser
-
-
 
 ### Regenerativ bremsing
 
@@ -75,6 +69,7 @@ Den maksimale regenerative effekten er 150 kW.
 Kia EV6 GT, med dimensjoner på 4680 mm i lengde, 1880 mm i bredde og 1550 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Kia EV6 GT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 - 255/40 dekk på 21" felger
 
@@ -89,12 +84,9 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Seter
-
 
 #### Forseter
 
@@ -110,20 +102,18 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
 
@@ -132,7 +122,6 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -145,11 +134,9 @@ Kia EV6 GT inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Kia EV6 GT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -176,7 +163,6 @@ Du kan velge mellom to lydsystemer på Kia EV6 GT.
 
 - Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt.
 - Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -213,6 +199,7 @@ Kia EV6 GT inkluderer flere [avanserte førerassistanse systemer](../../../../te
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

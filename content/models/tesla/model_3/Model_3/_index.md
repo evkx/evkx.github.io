@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/main_1_st.jpeg" title="Tesla Model 3" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Model 3 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -79,6 +76,7 @@ The Tesla Model 3, with dimensions of 4694 mm in length, 1849 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Tesla Model 3, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 18" rims
 - 255/45 tires on 19" rims
 
@@ -94,7 +92,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -118,14 +115,13 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -138,7 +134,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -154,11 +149,9 @@ The Tesla Model 3 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Tesla Model 3 has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -179,7 +172,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model 3.
 
 - With the Tesla Imersive Sound, you get nine speakers with a max system output of 560 watts.
-
 
 The model has 3 USB-C connections as standard.
 
@@ -218,15 +210,18 @@ The Tesla Model 3 includes several standard and optional [advanced driver assist
 The Tesla Model 3 offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 

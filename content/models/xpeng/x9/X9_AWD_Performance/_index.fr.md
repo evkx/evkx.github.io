@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080"  >}}
 
 Nous avons séparé notre article XPENG X9 AWD Performance en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 XPENG X9 AWD Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ XPENG X9 AWD Performance dispose d'un système de transmission intégrale pris e
 La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 130 mm et la garde au sol maximale est de 220 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
-
-
 
 ### Freinage régénératif
 
@@ -81,9 +76,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -113,8 +106,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
@@ -126,8 +117,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 
 #### Sièges de troisième rangée
 
-
-
 La troisième rangée est dotée d'une banquette à trois places divisée en 40:60. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
@@ -135,7 +124,6 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 ## Système de climatisation
 
 Un système climatique est disponible.
-
 
 ## Caractéristiques de confort
 
@@ -145,11 +133,9 @@ L'XPENG X9 AWD Performance comprend plusieurs fonctionnalités pour améliorer l
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le XPENG X9 AWD Performance possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -167,7 +153,6 @@ Le modèle n'a pas d'affichage tête haute.
 Un type de système audio est disponible pour le XPENG X9 AWD Performance.
 
 - Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
-
 
 ## Lumières
 
@@ -202,6 +187,7 @@ Le XPENG X9 AWD Performance comprend plusieurs [systèmes avancés d'assistance 
 ### Automatisation de la Conduite
 
 Avec le système XPILOT  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.

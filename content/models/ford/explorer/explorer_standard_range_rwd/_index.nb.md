@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_standard_range_rwd/main_1_st.jpg" title="Ford Explorer Standard Range RWD" width="3000" height="1627"  >}}
 
 Vi har delt vår beskrivelse av Ford Explorer Standard Range RWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Ford Explorer Standard Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
@@ -81,6 +78,7 @@ Ford Explorer Standard Range RWD, med dimensjoner på 4468 mm i lengde, 1871 mm 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Ford Explorer Standard Range RWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
@@ -97,9 +95,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -127,10 +123,7 @@ Følgende funksjoner er tilgjengelige på **Ergo** setet.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -140,7 +133,6 @@ To klimasystemalternativer er tilgjengelige:
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -155,11 +147,9 @@ Ford Explorer Standard Range RWD inkluderer flere funksjoner for å forbedre kom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Ford Explorer Standard Range RWD har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -186,7 +176,6 @@ Du kan velge mellom to lydsystemer på Ford Explorer Standard Range RWD.
 
 - Med Sound system får du seks høyttalere med en maksimal systemeffekt på 140 watt.
 - Med B&O Soundsystem får du ti høyttalere med en maksimal systemeffekt på 480 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -227,9 +216,11 @@ Ford Explorer Standard Range RWD inkluderer flere [avanserte førerassistanse sy
 Ford Explorer Standard Range RWD tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/main_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Lucid Air Dream Edition Performance i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Lucid Air Dream Edition Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Lucid Air Dream Edition Performance, med dimensjoner på 4975 mm i lengde, 1939 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Air Dream Edition Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 245/45 dekk på 19" felger
 - 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
@@ -92,9 +90,7 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -122,14 +118,11 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2077"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -138,7 +131,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -154,11 +146,9 @@ Lucid Air Dream Edition Performance inkluderer flere funksjoner for å forbedre 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -183,7 +173,6 @@ Du kan velge mellom to lydsystemer på Lucid Air Dream Edition Performance.
 
 - Med Surreal Sound får du ni høyttalere med en maksimal systemeffekt på 300 watt.
 - Med Surreal Sound Pro får du 21 høyttalere med en maksimal systemeffekt på 800 watt.
-
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -216,6 +205,7 @@ Lucid Air Dream Edition Performance inkluderer flere [avanserte førerassistanse
 ### Kjøreautomatisering
 
 Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

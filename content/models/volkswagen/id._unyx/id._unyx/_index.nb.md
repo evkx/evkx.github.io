@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/main_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687"  >}}
 
 Vi har delt vår beskrivelse av Volkswagen Id. UNYX i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Volkswagen Id. UNYX har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Volkswagen Id. UNYX, med dimensjoner på 4663 mm i lengde, 1860 mm i bredde og 1
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen Id. UNYX, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/50 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
 - 235/45 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 255/40 dekk på 21" felger
@@ -94,9 +92,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -121,10 +117,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -133,7 +126,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -148,11 +140,9 @@ Volkswagen Id. UNYX inkluderer flere funksjoner for å forbedre komfort og bekve
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Volkswagen Id. UNYX har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -179,7 +169,6 @@ Du kan velge mellom to lydsystemer på Volkswagen Id. UNYX.
 
 - Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt.
 - Med Sennheiser Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 395 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -222,12 +211,15 @@ Volkswagen Id. UNYX inkluderer flere [avanserte førerassistanse systemer](../..
 Volkswagen Id. UNYX tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - Fartsbegrenser.
 
 Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 

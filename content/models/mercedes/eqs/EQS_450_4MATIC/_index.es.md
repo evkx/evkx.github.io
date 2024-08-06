@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Mercedes-EQ EQS 450 4MATIC en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQS 450 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -83,6 +80,7 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQS 450 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
@@ -96,9 +94,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -119,8 +115,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
 
@@ -158,7 +152,6 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2250"  >}}
 
-
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
@@ -180,7 +173,6 @@ El Mercedes-EQ EQS 450 4MATIC incluye varias características para mejorar la co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en Mercedes-EQ EQS 450 4MATIC.
@@ -192,9 +184,7 @@ Detalles clave de la pantalla:
 - La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño
 - La touch pantalla en el medio de la consola central mide 12,8 pulgadas de tamaño
 
-
 El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
-
 
 Detalles clave de la pantalla:
 
@@ -205,7 +195,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1875"  >}}
-
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 
@@ -227,7 +216,6 @@ Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQS 450 4MATIC.
 
 - Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
 - Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
@@ -264,13 +252,16 @@ El Mercedes-EQ EQS 450 4MATIC incluye varios [sistemas avanzados de asistencia a
 Mercedes-EQ EQS 450 4MATIC ofrece [automatización de la conducción en niveles 1, 2 o 3](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Driver Assistance Package  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema Driver Assistance Package Plus  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 Con el sistema DRIVE PILOT  de nivel 3, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 

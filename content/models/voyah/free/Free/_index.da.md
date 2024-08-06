@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250"  >}}
 
 Vi har opdelt vores VOYAH FREE artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 VOYAH FREE har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -73,6 +70,7 @@ Den VOYAH FREE, med dimensioner på 4905 mm i længde, 1950 mm i bredde og 1645 
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på VOYAH FREE, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 255/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -86,9 +84,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -108,26 +104,21 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
-
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -140,11 +131,9 @@ VOYAH FREE inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 VOYAH FREE har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +156,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for VOYAH FREE.
 
 - Med DYNAUDIO HIFI Sound system får du NULL højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelser som standard.
 
@@ -192,6 +180,7 @@ Den VOYAH FREE inkluderer flere standard- og valgfri [avancerede førerassistent
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

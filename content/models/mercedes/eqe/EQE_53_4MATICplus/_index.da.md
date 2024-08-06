@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2077"  >}}
 
 Vi har opdelt vores Mercedes-AMG EQE 53 4MATIC+ artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -54,7 +52,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-AMG EQE 53 4MATIC+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -83,6 +80,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-AMG EQE 53 4MATIC+, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/40 dæk på 20" fælge foran og 295/35 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
@@ -94,9 +92,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -118,8 +114,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
-
-
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 - elektrisk justering
@@ -140,15 +134,12 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -158,7 +149,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -174,7 +164,6 @@ Mercedes-AMG EQE 53 4MATIC+ inkluderer flere funktioner, der forbedrer komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Mercedes-AMG EQE 53 4MATIC+.
@@ -186,9 +175,7 @@ Vigtige skærmdetaljer:
 - Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor
 - Skærmen touch i midten af midterkonsollen er 12,8 tommer stor
 
-
 Det valgfri MBUX Hyperscreen-layout har følgende konfiguration. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
-
 
 Vigtige skærmdetaljer:
 
@@ -199,7 +186,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
-
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -221,7 +207,6 @@ Du kan vælge mellem to lydsystemer på Mercedes-AMG EQE 53 4MATIC+.
 
 - Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
 - Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -263,10 +248,12 @@ Den Mercedes-AMG EQE 53 4MATIC+ inkluderer flere standard- og valgfri [avancered
 Mercedes-AMG EQE 53 4MATIC+ tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 

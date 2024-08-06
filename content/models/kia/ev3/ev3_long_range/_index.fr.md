@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/main_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article Kia EV3 Long Range en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Kia EV3 Long Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
@@ -60,8 +57,6 @@ Kia EV3 Long Range dispose d'un système de traction avant pris en charge par un
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 160 mm.
 
 ### Freins
-
-
 
 ### Freinage régénératif
 
@@ -74,6 +69,7 @@ La puissance régénérative maximale est de 150 kW.
 La Kia EV3 Long Range, avec des dimensions de 4300 mm de longueur, 1850 mm de largeur et 1560 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 11 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Kia EV3 Long Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 235/55 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
@@ -91,13 +87,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -113,6 +107,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black/White [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -120,10 +115,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -137,7 +129,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
@@ -149,11 +140,9 @@ L'Kia EV3 Long Range comprend plusieurs fonctionnalités pour améliorer le conf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Kia EV3 Long Range possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -180,7 +169,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Kia EV3 Long Range.
 
 - Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
 - Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -215,6 +203,7 @@ Le Kia EV3 Long Range comprend plusieurs [systèmes avancés d'assistance au con
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

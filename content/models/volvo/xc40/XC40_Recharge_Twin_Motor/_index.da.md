@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
 
 Vi har opdelt vores Volvo XC40 Recharge Twin Motor artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -56,7 +54,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo XC40 Recharge Twin Motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -79,6 +76,7 @@ Den Volvo XC40 Recharge Twin Motor, med dimensioner på 4425 mm i længde, 1873 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo XC40 Recharge Twin Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/50 dæk on 19" fælge
 - 235/45 dæk on 20" fælge
 
@@ -93,9 +91,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -117,8 +113,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -130,7 +124,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -145,11 +138,9 @@ Volvo XC40 Recharge Twin Motor inkluderer flere funktioner, der forbedrer komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Volvo XC40 Recharge Twin Motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -168,7 +159,6 @@ Du kan vælge mellem to lydsystemer på Volvo XC40 Recharge Twin Motor.
 
 - Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 600 watt.
-
 
 Modellen har 1 USB-C-forbindelser som standard.
 
@@ -204,6 +194,7 @@ Den Volvo XC40 Recharge Twin Motor inkluderer flere standard- og valgfri [avance
 ### Køreautomatisering
 
 Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

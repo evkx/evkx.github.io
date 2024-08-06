@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792"  >}}
 
 Nous avons séparé notre article Nio ES8 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -68,7 +66,6 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Nio ES8 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -97,6 +94,7 @@ La Nio ES8, avec des dimensions de 5022 mm de longueur, 1962 mm de largeur et 17
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nio ES8, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 265/55 sur jantes de 19"
 - Pneus 265/50 sur jantes de 20"
 - Pneus 265/45 sur jantes de 21"
@@ -112,12 +110,9 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
-
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -154,8 +149,6 @@ L'option standard est deux sièges capitaine. De plus, les fonctionnalités suiv
 
 #### Sièges de troisième rangée
 
-
-
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 Il n'y a qu'un seul type de volant disponible.
@@ -178,10 +171,7 @@ L'Nio ES8 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -191,7 +181,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
-
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -207,7 +196,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Nio ES8.
 
 - Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 - Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 3 connexions USB-A en standard.
 
@@ -248,10 +236,12 @@ Le Nio ES8 comprend plusieurs [systèmes avancés d'assistance au conducteur](..
 Nio ES8 offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système NIO Pilot Selected Pack  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système NIO Pilot Complete Pack  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - Contrôle de croisière avancé qui suit la navigation et s'éteint et se rallume sur les grandes routes pour atteindre la destination.
 

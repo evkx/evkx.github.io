@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/main_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Polestar 3 Long Range Single Motor features an all-wheel drive system powered by two motors, one on each axle.
@@ -75,6 +72,7 @@ The Polestar 3 Long Range Single Motor, with dimensions of 4900 mm in length, 19
 
 You can select from multiple wheel designs, all available in the same size, on the Polestar 3 Long Range Single Motor, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -85,7 +83,6 @@ There are two different roof options to select from. As an option, you can order
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -108,6 +105,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -118,14 +116,11 @@ You can choose from 5 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2248"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -134,7 +129,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -150,11 +144,9 @@ The Polestar 3 Long Range Single Motor includes several features to enhance comf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Polestar 3 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -173,7 +165,6 @@ You can choose between two sound systems on the Polestar 3 Long Range Single Mot
 
 - With the High Performance, you get eight speakers with a max system output of 200 watts.
 - With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -209,6 +200,7 @@ The Polestar 3 Long Range Single Motor includes several standard and optional [a
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

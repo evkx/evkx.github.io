@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/main_1_st.jpg" title="BYD Seal U Design" width="1920" height="1080"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BYD Seal U Design has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -83,6 +80,7 @@ The BYD Seal U Design, with dimensions of 4785 mm in length, 1890 mm in width, a
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Seal U Design, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/50 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
@@ -96,9 +94,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -121,14 +117,11 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -137,7 +130,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -153,11 +145,9 @@ The BYD Seal U Design includes several features to enhance comfort and convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The BYD Seal U Design has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -183,7 +173,6 @@ Furthermore, the BYD Seal U Design supports Android Auto and Apple CarPlay. This
 One type of sound system is available for the BYD Seal U Design.
 
 - With the Dynaudio Performance Audio System, you get 12 speakers with a max system output of  watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -222,6 +211,7 @@ The BYD Seal U Design includes several standard and optional [advanced driver as
 ### Driving Automation
 
 With the Smart Pilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 

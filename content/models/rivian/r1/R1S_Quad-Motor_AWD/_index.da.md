@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 Vi har opdelt vores Rivian R1S Quad-Motor AWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -53,7 +51,6 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Rivian R1S Quad-Motor AWD har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul.
@@ -78,7 +75,6 @@ Den Rivian R1S Quad-Motor AWD, med dimensioner på 5100 mm i længde,  mm i bred
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Rivian R1S Quad-Motor AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [delt bagklap](../../../../technology/doors/#split-bagklap), hvor den nederste del falder og den øverste del løftes.
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
@@ -90,9 +86,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -112,14 +106,12 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Green [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -127,8 +119,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Sæder på tredje række
-
-
 
 Den tredje række har en to-sæders bænk med en -deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
@@ -139,7 +129,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -155,11 +144,9 @@ Rivian R1S Quad-Motor AWD inkluderer flere funktioner, der forbedrer komfort og 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Rivian R1S Quad-Motor AWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -169,7 +156,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1600" height="1067"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -186,7 +172,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Rivian R1S Quad-Motor AWD.
 
 - Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
-
 
 Modellen har 6 USB-C-forbindelser som standard.
 
@@ -219,6 +204,7 @@ Den Rivian R1S Quad-Motor AWD inkluderer flere standard- og valgfri [avancerede 
 ### Køreautomatisering
 
 Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

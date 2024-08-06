@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/main_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 Vi har opdelt vores Volvo EX30 Single Motor artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo EX30 Single Motor har et baghjulstræksystem, der understøttes af en motor på bagakslen.
@@ -73,6 +70,7 @@ Den Volvo EX30 Single Motor, med dimensioner på 4233 mm i længde, 1837 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX30 Single Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 225/55 dæk on 18" fælge
 - 235/45 dæk on 20" fælge
 
@@ -86,7 +84,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -107,22 +104,19 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - White [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Gray [uldpolstring](../../../../technology/seats/materials/#wool)
 - Brown [uld/læderbetræk](../../../../technology/seats/materials/#wool)
 - Blue [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -132,7 +126,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -147,11 +140,9 @@ Volvo EX30 Single Motor inkluderer flere funktioner, der forbedrer komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Volvo EX30 Single Motor har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
-
 
 Vigtige skærmdetaljer:
 
@@ -173,7 +164,6 @@ Du kan vælge mellem to lydsystemer på Volvo EX30 Single Motor.
 
 - Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -213,6 +203,7 @@ Den Volvo EX30 Single Motor inkluderer flere standard- og valgfri [avancerede f�
 ### Køreautomatisering
 
 Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

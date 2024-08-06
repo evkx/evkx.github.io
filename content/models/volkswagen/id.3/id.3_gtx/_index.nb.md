@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/main_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Volkswagen ID.3 GTX i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Volkswagen ID.3 GTX har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ Volkswagen ID.3 GTX, med dimensjoner på 4261 mm i lengde, 1809 mm i bredde og 1
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.3 GTX, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 215/55 dekk på 18" felger
 - 215/50 dekk på 19" felger
 - 215/45 dekk på 20" felger
@@ -94,9 +92,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -118,10 +114,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -131,7 +124,6 @@ To klimasystemalternativer er tilgjengelige:
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -146,22 +138,18 @@ Volkswagen ID.3 GTX inkluderer flere funksjoner for å forbedre komfort og bekve
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.3 GTX.
 
 Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
-
 Viktige skjermdetaljer:
 
 - -skjermen på rattstammen er 5,0 tommer stor
 - touch-skjermen i dashbordets sentrum er 10,0 tommer stor
 
-
 Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -188,7 +176,6 @@ Du kan velge mellom to lydsystemer på Volkswagen ID.3 GTX.
 
 - Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt.
 - Med Volkswagen Soundsystem får du syv høyttalere med en maksimal systemeffekt på 450 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -232,12 +219,15 @@ Volkswagen ID.3 GTX inkluderer flere [avanserte førerassistanse systemer](../..
 Volkswagen ID.3 GTX tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - Fartsbegrenser.
 
 Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 

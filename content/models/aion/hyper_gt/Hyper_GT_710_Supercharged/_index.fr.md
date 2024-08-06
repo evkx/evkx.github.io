@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542"  >}}
 
 Nous avons séparé notre article Aion Hyper GT 710 Supercharged en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -42,13 +40,11 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-
 ### Port de recharge
 
 Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Transmission
 
@@ -71,13 +67,12 @@ La Aion Hyper GT 710 Supercharged, avec des dimensions de 4886 mm de longueur, 1
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Aion Hyper GT 710 Supercharged, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/55 sur jantes de 17"
 - Pneus 235/50 sur jantes de 18"
 - Pneus 235/45 sur jantes de 19"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
-
-
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 
@@ -86,9 +81,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -107,22 +100,20 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 -  [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Siège de deuxième rangée
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
-
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 -  [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -131,7 +122,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -146,10 +136,7 @@ L'Aion Hyper GT 710 Supercharged comprend plusieurs fonctionnalités pour améli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -167,7 +154,6 @@ Le modèle n'a pas d'affichage tête haute.
 Un type de système audio est disponible pour le Aion Hyper GT 710 Supercharged.
 
 - Avec le , vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 1 connexions USB-C en standard.
 
@@ -196,6 +182,7 @@ Le Aion Hyper GT 710 Supercharged comprend plusieurs [systèmes avancés d'assis
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/el7/el7/main_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -68,7 +66,6 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nio EL7 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -97,6 +94,7 @@ The Nio EL7, with dimensions of 4912 mm in length, 1987 mm in width, and 1720 mm
 
 You can select from multiple wheel options in different sizes on the Nio EL7, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 20" rims
 - 265/45 tires on 21" rims
 
@@ -111,9 +109,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -142,8 +138,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -157,7 +151,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -173,10 +166,7 @@ The Nio EL7 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -186,7 +176,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/nio/el7/el7/screens_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -201,7 +190,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Nio EL7.
 
 - With the Premium sound system, you get 23 speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -242,10 +230,12 @@ The Nio EL7 includes several standard and optional [advanced driver assistance s
 The Nio EL7 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 

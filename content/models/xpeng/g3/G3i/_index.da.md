@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 Vi har opdelt vores XPENG G3i artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS C
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -61,8 +58,6 @@ XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 
@@ -71,6 +66,7 @@ XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
 Den XPENG G3i, med dimensioner på 4495 mm i længde, 1820 mm i bredde og 1610 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på XPENG G3i, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 215/55 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
@@ -86,9 +82,7 @@ Der er kun ét tag til denne model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -107,10 +101,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -124,7 +115,6 @@ Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
 ## Komfortfunktioner
@@ -135,11 +125,9 @@ XPENG G3i inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 XPENG G3i har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -157,7 +145,6 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 Én type lydsystem er tilgængelig for XPENG G3i.
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-A-forbindelser som standard.
 
@@ -182,6 +169,7 @@ Den XPENG G3i inkluderer flere standard- og valgfri [avancerede førerassistents
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

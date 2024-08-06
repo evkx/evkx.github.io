@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 Vi har delt vår beskrivelse av Rivian R1S Quad-Motor AWD MP i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -51,7 +49,6 @@ Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Rivian R1S Quad-Motor AWD MP har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul.
@@ -90,6 +87,7 @@ Rivian R1S Quad-Motor AWD MP, med dimensjoner på 5100 mm i lengde,  mm i bredde
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian R1S Quad-Motor AWD MP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/65 dekk på 20" felger foran og 275/65 dekk på 20" felger bak
 - 275/50 dekk på 22" felger
 
@@ -106,9 +104,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -128,6 +124,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Green [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
@@ -136,16 +133,12 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Seter på tredje rad
-
-
 
 Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
@@ -156,7 +149,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -172,11 +164,9 @@ Rivian R1S Quad-Motor AWD MP inkluderer flere funksjoner for å forbedre komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Rivian R1S Quad-Motor AWD MP har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -186,7 +176,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -203,7 +192,6 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Én type lydsystem er tilgjengelig for Rivian R1S Quad-Motor AWD MP.
 
 - Med Rivian Premium Audio får du 19 høyttalere med en maksimal systemeffekt på 960 watt.
-
 
 Modellen har 6 USB-C-tilkoblinger som standard.
 
@@ -238,6 +226,7 @@ Rivian R1S Quad-Motor AWD MP inkluderer flere [avanserte førerassistanse system
 ### Kjøreautomatisering
 
 Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

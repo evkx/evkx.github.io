@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Hyundai INSTER Long Range has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ The Hyundai INSTER Long Range, with dimensions of 3825 mm in length, 1610 mm in 
 
 You can select from multiple wheel options in different sizes on the Hyundai INSTER Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 205/55 tires on 15" rims
 - 205/45 tires on 17" rims
 
@@ -89,13 +87,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 #### First row seats
 
@@ -111,6 +107,7 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -119,19 +116,17 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -140,7 +135,6 @@ There is only one type of steering wheel available. The  steering wheel is heate
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -155,10 +149,7 @@ The Hyundai INSTER Long Range includes several features to enhance comfort and c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -184,7 +175,6 @@ Furthermore, the Hyundai INSTER Long Range supports Android Auto and Apple CarPl
 One type of sound system is available for the Hyundai INSTER Long Range.
 
 - With the Bose Premium Sound System, you get seven speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -225,6 +215,7 @@ The Hyundai INSTER Long Range includes several standard and optional [advanced d
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

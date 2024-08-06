@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Hyundai INSTER Long Range en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Hyundai INSTER Long Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ La Hyundai INSTER Long Range, avec des dimensions de 3825 mm de longueur, 1610 m
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai INSTER Long Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 205/55 sur jantes de 15"
 - Pneus 205/45 sur jantes de 17"
 
@@ -89,13 +87,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -111,6 +107,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Brown [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Beige [revêtement en tissu](../../../../technology/seats/materials/#fabric)
@@ -119,19 +116,17 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Brown [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Beige [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
@@ -140,7 +135,6 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -155,10 +149,7 @@ L'Hyundai INSTER Long Range comprend plusieurs fonctionnalités pour améliorer 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -184,7 +175,6 @@ De plus, le Hyundai INSTER Long Range prend en charge Android Auto et Apple CarP
 Un type de système audio est disponible pour le Hyundai INSTER Long Range.
 
 - Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -225,6 +215,7 @@ Le Hyundai INSTER Long Range comprend plusieurs [systèmes avancés d'assistance
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).

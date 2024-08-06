@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 Nous avons séparé notre article BYD Seagull 38kWh en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 BYD Seagull 38kWh dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
@@ -79,6 +76,7 @@ La BYD Seagull 38kWh, avec des dimensions de 3780 mm de longueur, 1715 mm de lar
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Seagull 38kWh, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/50 sur jantes de 17"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
@@ -92,9 +90,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -106,21 +102,15 @@ Le BYD Seagull 38kWh propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 #### Siège de deuxième rangée
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
-
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -129,7 +119,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -145,11 +134,9 @@ L'BYD Seagull 38kWh comprend plusieurs fonctionnalités pour améliorer le confo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le BYD Seagull 38kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -171,7 +158,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le BYD Seagull 38kWh.
 
 - Avec le Dirac, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -202,6 +188,7 @@ Le BYD Seagull 38kWh comprend plusieurs [systèmes avancés d'assistance au cond
 BYD Seagull 38kWh offre [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

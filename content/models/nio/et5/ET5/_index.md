@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/et5/et5/main_1_st.jpg" title="Nio ET5" width="2880" height="1792"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -68,13 +66,11 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nio ET5 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
-
 
 ### Steering
 
@@ -96,6 +92,7 @@ The Nio ET5, with dimensions of 4790 mm in length, 1960 mm in width, and 1499 mm
 
 You can select from multiple wheel options in different sizes on the Nio ET5, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 20" rims
 - 255/45 tires on 21" rims
 
@@ -110,9 +107,7 @@ There is only one roof for this model. The standard roof includes a large panora
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -137,14 +132,12 @@ The following functionalities are available on the **standard** seat.
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -170,10 +163,7 @@ The Nio ET5 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -183,7 +173,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -198,7 +187,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Nio ET5.
 
 - With the Premium sound system, you get 23 speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -237,10 +225,12 @@ The Nio ET5 includes several standard and optional [advanced driver assistance s
 The Nio ET5 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 

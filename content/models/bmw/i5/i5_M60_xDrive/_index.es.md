@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/main_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo BMW i5 M60 xDrive en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 BMW i5 M60 xDrive tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
@@ -67,8 +64,6 @@ La dirección dinámica es una característica un estándar en el BMW i5 M60 xDr
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
@@ -80,6 +75,7 @@ La potencia regenerativa máxima es de 116 kW.
 El BMW i5 M60 xDrive, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1505 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El BMW i5 M60 xDrive está disponible en un total de 12 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i5 M60 xDrive, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 245/50 en llantas de 19
 - Neumáticos 255/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
@@ -98,9 +94,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -135,14 +129,11 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort seats*
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
@@ -152,7 +143,6 @@ Hay dos opciones de sistema de climatización disponibles:
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -168,11 +158,9 @@ El BMW i5 M60 xDrive incluye varias características para mejorar la comodidad y
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El BMW i5 M60 xDrive tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -182,7 +170,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/screens_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="1999"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -205,7 +192,6 @@ Puedes elegir entre tres sistemas de sonido en el BMW i5 M60 xDrive.
 - Con el Hifi Sound system, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
 - Con el Harman Kardon Surround Sound system, obtienes 12 parlantes con una salida máxima del sistema de 205 vatios.
 - Con el Bower & Wilkins Surround System, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
-
 
 El modelo tiene 6 conexiones USB-C de serie.
 
@@ -245,10 +231,12 @@ El BMW i5 M60 xDrive incluye varios [sistemas avanzados de asistencia al conduct
 BMW i5 M60 xDrive ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Driving Assistant  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - Control de crucero.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

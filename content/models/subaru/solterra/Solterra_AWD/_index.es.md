@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/main_1_st.jpeg" title="Subaru Solterra AWD" width="3000" height="1745"  >}}
 
 Hemos separado nuestro artículo Subaru Solterra AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Subaru Solterra AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -61,8 +58,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 
@@ -71,7 +66,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 El Subaru Solterra AWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1650 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Subaru Solterra AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
-
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -84,12 +78,9 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -109,14 +100,11 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/secondrowseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -125,7 +113,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
@@ -138,22 +125,18 @@ El Subaru Solterra AWD incluye varias características para mejorar la comodidad
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en Subaru Solterra AWD.
 
 El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
-
 Detalles clave de la pantalla:
 
 - La touch pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño
 - La touch pantalla en la parte superior de la consola central mide 8,9 pulgadas de tamaño
 
-
 El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -180,7 +163,6 @@ Puedes elegir entre dos sistemas de sonido en el Subaru Solterra AWD.
 
 - Con el Toyota, obtienes seis parlantes con una salida máxima del sistema de  vatios.
 - Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -214,6 +196,7 @@ El Subaru Solterra AWD incluye varios [sistemas avanzados de asistencia al condu
 ### Automatización de la Conducción
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

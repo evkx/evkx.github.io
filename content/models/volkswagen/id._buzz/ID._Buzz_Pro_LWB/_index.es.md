@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/main_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Volkswagen ID. Buzz Pro LWB en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,13 +50,11 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Volkswagen ID. Buzz Pro LWB tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
-
 
 ### Dirección
 
@@ -78,6 +74,7 @@ El Volkswagen ID. Buzz Pro LWB está disponible en un total de 12 colores de pin
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID. Buzz Pro LWB, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 265/45 en llantas de 20" traseras
 - Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
@@ -95,12 +92,9 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -112,14 +106,13 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - White [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Green [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Yellow [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Orange [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Blue [tapizado de tela](../../../../technology/seats/materials/#fabric)
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **comfort**.
 
@@ -131,6 +124,7 @@ Las siguientes funcionalidades están disponibles en el asiento **comfort**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - White [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Green [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Yellow [tapizado de tela](../../../../technology/seats/materials/#fabric)
@@ -145,7 +139,6 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Volkswagen ID. Bu
 
 La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -154,12 +147,9 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -168,7 +158,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -184,11 +173,9 @@ El Volkswagen ID. Buzz Pro LWB incluye varias características para mejorar la c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Volkswagen ID. Buzz Pro LWB tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -214,7 +201,6 @@ Además, el Volkswagen ID. Buzz Pro LWB es compatible con Android Auto y Apple C
 Un tipo de sistema de sonido está disponible para el Volkswagen ID. Buzz Pro LWB.
 
 - Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
-
 
 El modelo tiene 5 conexiones USB-C de serie.
 
@@ -258,10 +244,12 @@ El Volkswagen ID. Buzz Pro LWB incluye varios [sistemas avanzados de asistencia 
 Volkswagen ID. Buzz Pro LWB ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 

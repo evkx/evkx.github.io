@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Honda e:Ny1 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -42,13 +40,11 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [fronten](../../../../technology/charging/connectors/#front). Denne plasseringen gjør det brukervennlige ladestasjoner der du må parkere med fronten inn. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivverk
 
@@ -60,8 +56,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Bremser
 
-
-
 ### Regenerativ bremsing
 
 
@@ -71,9 +65,6 @@ Honda e:Ny1, med dimensjoner på 4390 mm i lengde, 1790 mm i bredde og  mm i hø
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Honda e:Ny1, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
-
-
 Det er bare ett tak for denne modellen.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
@@ -81,12 +72,9 @@ Det er bare ett tak for denne modellen.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Seter
-
 
 #### Forseter
 
@@ -94,23 +82,17 @@ Honda e:Ny1 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-
 
 ## Komfortfunksjoner
 
@@ -120,11 +102,9 @@ Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -143,7 +123,6 @@ Modellen er ikke tilgjengelig med head-up display.
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-
 ## Lys
 
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
@@ -161,6 +140,7 @@ Honda e:Ny1 inkluderer flere [avanserte førerassistanse systemer](../../../../t
 ### Kjøreautomatisering
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 
 
 {{<evkxdisplayaddarticle />}}

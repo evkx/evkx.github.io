@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Hongqi E-HS9 Exclusive+ features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ The Hongqi E-HS9 Exclusive+, with dimensions of 5209 mm in length, 2010 mm in wi
 
 You can select from multiple wheel options in different sizes on the Hongqi E-HS9 Exclusive+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/45 tires on 21" rims
 - 275/40 tires on 22" rims
 
@@ -91,9 +89,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -116,10 +112,7 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
@@ -128,8 +121,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Third-row seats
-
-
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
@@ -153,11 +144,9 @@ The Hongqi E-HS9 Exclusive+ includes several features to enhance comfort and con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Hongqi E-HS9 Exclusive+ has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen.
-
 
 Key screen details:
 
@@ -169,7 +158,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -184,7 +172,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Hongqi E-HS9 Exclusive+.
 
 - With the Hongqi sound system, you get 16 speakers with a max system output of  watts.
-
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -223,6 +210,7 @@ The Hongqi E-HS9 Exclusive+ includes several standard and optional [advanced dri
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

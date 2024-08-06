@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/main_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -48,7 +46,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mini Cooper SE has a front-wheel drive system supported by one motor on the front axle.
@@ -59,8 +56,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 
@@ -70,13 +65,12 @@ The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 
 
 You can select from multiple wheel options in different sizes on the Mini Cooper SE, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 215/55 tires on 16" rims
 - 205/50 tires on 17" rims
 - 225/40 tires on 18" rims
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
-
-
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
@@ -87,9 +81,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -106,28 +98,24 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
 
 ## Comfort features
 
@@ -140,10 +128,7 @@ The Mini Cooper SE includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -159,7 +144,6 @@ A head-up display is an optional system that projects speed and other important 
 One type of sound system is available for the Mini Cooper SE.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 ## Lights
 
@@ -180,6 +164,7 @@ The Mini Cooper SE includes several standard and optional [advanced driver assis
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

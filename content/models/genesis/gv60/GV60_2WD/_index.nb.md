@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/main_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1688"  >}}
 
 Vi har delt vår beskrivelse av Genesis GV60 2WD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Genesis GV60 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 161 mm.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsing
 
@@ -74,6 +69,7 @@ Den maksimale regenerative effekten er 150 kW.
 Genesis GV60 2WD, med dimensjoner på 4515 mm i lengde, 1890 mm i bredde og 1580 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Genesis GV60 2WD er tilgjengelig i totalt 10 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Genesis GV60 2WD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
@@ -91,13 +87,11 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 #### Forseter
 
@@ -113,6 +107,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black/White [skinntrekk](../../../../technology/seats/materials/#leather)
@@ -123,8 +118,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -137,7 +130,6 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -154,10 +146,7 @@ Genesis GV60 2WD inkluderer flere funksjoner for å forbedre komfort og bekvemme
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -184,7 +173,6 @@ I tillegg støtter Genesis GV60 2WD Android Auto og Apple CarPlay. Denne funksjo
 Én type lydsystem er tilgjengelig for Genesis GV60 2WD.
 
 - Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -221,6 +209,7 @@ Genesis GV60 2WD inkluderer flere [avanserte førerassistanse systemer](../../..
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

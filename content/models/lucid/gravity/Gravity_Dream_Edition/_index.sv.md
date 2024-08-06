@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007"  >}}
 
 Vi har delat in vår beskrivning av Lucid Gravity Dream Edition i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Lucid Gravity Dream Edition har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ Lucid Gravity Dream Edition, med dimensioner på 5034 mm i längd, 1999 mm i bre
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Gravity Dream Edition, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 tires on 20" rims
 - 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 - 265/40 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
@@ -94,7 +92,6 @@ Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt öv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -121,6 +118,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 -  [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - White [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -130,8 +128,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -139,8 +135,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Seter på tredje rad
-
-
 
 Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
@@ -151,7 +145,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -167,10 +160,7 @@ Lucid Gravity Dream Edition inkluderar flera funktioner för att förbättra kom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -192,7 +182,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Lucid Gravity Dream Edition.
 
 - Med Surreal Sound Pro System får du 22 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -225,6 +214,7 @@ Lucid Gravity Dream Edition inkluderar flera [avancerade förarassistanssystem](
 ### Körautomatisering
 
 Med ADAS  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

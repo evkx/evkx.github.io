@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 HiPhi Z 5 Seater features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ The HiPhi Z 5 Seater, with dimensions of 5036 mm in length, 2018 mm in width, an
 
 You can select from multiple wheel designs, all available in the same size, on the HiPhi Z 5 Seater, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 22" rims front and 285/40 tires on 22" rims rear
 
 The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are a standard function for the side doors.
@@ -91,9 +89,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -115,14 +111,13 @@ The following functionalities are available on the **standard** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -135,7 +130,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -152,11 +146,9 @@ The HiPhi Z 5 Seater includes several features to enhance comfort and convenienc
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The HiPhi Z 5 Seater has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -165,7 +157,6 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -176,7 +167,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 One type of sound system is available for the HiPhi Z 5 Seater.
 
 - With the SONIC PRO SYSTEM, you get 23 speakers with a max system output of 600 watts.
-
 
 The model has 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -213,6 +203,7 @@ The HiPhi Z 5 Seater includes several standard and optional [advanced driver ass
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

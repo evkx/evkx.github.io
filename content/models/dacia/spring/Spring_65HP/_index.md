@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Dacia Spring 65HP has a front-wheel drive system supported by one motor on the front axle.
@@ -61,8 +58,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here.
@@ -72,6 +67,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 The Dacia Spring 65HP, with dimensions of 3701 mm in length, 1622 mm in width, and 1519 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . The Dacia Spring 65HP is available in a total of 6 solid paint colors.
 
 You can select from multiple wheel options in different sizes on the Dacia Spring 65HP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 165/70 tires on 14" rims
 - 175/60 tires on 15" rims
@@ -87,9 +83,7 @@ There is only one roof for this model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -101,24 +95,21 @@ The Dacia Spring 65HP offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **** seat.
 
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 There is only one type of steering wheel available.
 
@@ -127,7 +118,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -139,10 +129,7 @@ The Dacia Spring 65HP includes several features to enhance comfort and convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -169,7 +156,6 @@ One type of sound system is available for the Dacia Spring 65HP.
 
 - With the , you get NULL speakers with a max system output of  watts.
 
-
 The model has 2 USB-C connections as standard.
 
 ## Lights
@@ -195,6 +181,7 @@ The Dacia Spring 65HP includes several standard and optional [advanced driver as
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 
 
 {{<evkxdisplayaddarticle />}}

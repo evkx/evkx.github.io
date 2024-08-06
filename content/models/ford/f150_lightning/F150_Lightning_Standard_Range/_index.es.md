@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/main_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1571"  >}}
 
 Hemos separado nuestro artículo Ford F150 Lightning Standard Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Ford F150 Lightning Standard Range tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -63,8 +60,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
@@ -74,6 +69,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 El Ford F150 Lightning Standard Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Ford F150 Lightning Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 265/70 en llantas de 18
 - Neumáticos 275/60 en llantas de 20
@@ -89,7 +85,6 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -111,6 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
@@ -120,17 +116,13 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
 
 ## Características de confort
 
@@ -139,7 +131,6 @@ El Ford F150 Lightning Standard Range incluye varias características para mejor
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interfaz de usuario y control
 
@@ -151,7 +142,6 @@ Detalles clave de la pantalla:
 
 - La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño
 - La  pantalla en el centro del tablero mide 12,0 pulgadas de tamaño
-
 
 El diseño opcional  tiene la siguiente configuración.
 
@@ -181,7 +171,6 @@ Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Standard R
 - Con el Ford, obtienes cuatro parlantes con una salida máxima del sistema de 80 vatios.
 - Con el B&O Sound System, obtienes ocho parlantes con una salida máxima del sistema de 640 vatios.
 - Con el B&O Unleashed Sound System, obtienes 18 parlantes con una salida máxima del sistema de 1080 vatios.
-
 
 ## Luces
 
@@ -214,13 +203,16 @@ El Ford F150 Lightning Standard Range incluye varios [sistemas avanzados de asis
 Ford F150 Lightning Standard Range ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Ford Co-Pilot360™ 2.0  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - Control de crucero.
 
 Con el sistema Ford Co-Pilot360™ Assist 2.0  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 Con el sistema Ford Co-Pilot360™ Active 2.0  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" width="1572" height="1011"  >}}
 
 Vi har delat in vår beskrivning av HiPhi Y Performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 HiPhi Y Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -76,6 +73,7 @@ HiPhi Y Performance, med dimensioner på 4938 mm i längd, 1958 mm i bredd och 1
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på HiPhi Y Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 275/40 tires on 21" rims
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av vanliga dörrar med måsvingetak i den andra raden, och en [hatchback-stil baklucka](../../../../technology/doors/#hatcback-style-liftgate) baktill. Elektriska dörrar är standard funktion för sidodörrarna.
@@ -89,9 +87,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -115,13 +111,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -135,7 +129,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -152,11 +145,9 @@ HiPhi Y Performance inkluderar flera funktioner för att förbättra komfort och
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 HiPhi Y Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
-
 
 Viktiga skärmdetaljer:
 
@@ -167,7 +158,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -183,7 +173,6 @@ Du kan välja mellan två ljudsystem på HiPhi Y Performance.
 
 - Med SONIC LINE SYSTEM får du 14 högtalare med en maximal systemeffekt på 600 watt.
 - Med SONIC PRO SYSTEM får du 25 högtalare med en maximal systemeffekt på 2820 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -220,6 +209,7 @@ HiPhi Y Performance inkluderar flera [avancerade förarassistanssystem](../../..
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

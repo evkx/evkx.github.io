@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/main_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 Nous avons séparé notre article Citroën ë-C3 Aircross en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Citroën ë-C3 Aircross dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
@@ -81,6 +78,7 @@ La Citroën ë-C3 Aircross, avec des dimensions de 4395 mm de longueur, 1795 mm 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Citroën ë-C3 Aircross, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 205/55 sur jantes de 16"
 - Pneus 205/50 sur jantes de 17"
 
@@ -97,9 +95,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -111,17 +107,16 @@ Pour la première rangée, l'Citroën ë-C3 Aircross propose deux types de sièg
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
-
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
@@ -135,18 +130,16 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -155,7 +148,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -168,11 +160,9 @@ L'Citroën ë-C3 Aircross comprend plusieurs fonctionnalités pour améliorer le
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Citroën ë-C3 Aircross possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -182,7 +172,6 @@ Détails clés de l'écran :
 Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -202,7 +191,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Citroën ë-C3 Aircross.
 
 - Avec le , vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
 - Avec le Max Sound system, vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 
@@ -227,6 +215,7 @@ Le Citroën ë-C3 Aircross comprend plusieurs [systèmes avancés d'assistance a
 ### Automatisation de la Conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
 - Régulateur de vitesse.
 
 ### Capteurs & Caméras

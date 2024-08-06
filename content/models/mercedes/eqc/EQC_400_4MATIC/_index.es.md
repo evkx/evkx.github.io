@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Mercedes-EQ EQC 400 4MATIC en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQC 400 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ El Mercedes-EQ EQC 400 4MATIC, con dimensiones de 4762 mm de longitud, 1884 mm d
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQC 400 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
 - Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
 - Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
@@ -89,9 +87,7 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -103,18 +99,15 @@ El Mercedes-EQ EQC 400 4MATIC ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
 
 ## Características de confort
 
@@ -126,11 +119,9 @@ El Mercedes-EQ EQC 400 4MATIC incluye varias características para mejorar la co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Mercedes-EQ EQC 400 4MATIC tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -158,7 +149,6 @@ Puedes elegir entre tres sistemas de sonido en el Mercedes-EQ EQC 400 4MATIC.
 - Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios.
 - Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
 - Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
-
 
 ## Luces
 
@@ -195,6 +185,7 @@ El Mercedes-EQ EQC 400 4MATIC incluye varios [sistemas avanzados de asistencia a
 Mercedes-EQ EQC 400 4MATIC ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Driver Assistance Package  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 

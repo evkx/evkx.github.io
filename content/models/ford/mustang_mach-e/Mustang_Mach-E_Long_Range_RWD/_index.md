@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1674"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Ford Mustang Mach-E Long Range RWD has a rear-wheel drive system supported by one motor on the rear axle.
@@ -75,6 +72,7 @@ The Ford Mustang Mach-E Long Range RWD, with dimensions of 4713 mm in length, 18
 
 You can select from multiple wheel options in different sizes on the Ford Mustang Mach-E Long Range RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 225/60 tires on 18" rims
 - 225/60 tires on 19" rims
 
@@ -89,9 +87,7 @@ There are two different roof options to select from. The standard is just a regu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -110,20 +106,18 @@ The following functionalities are available on the **standard** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -132,7 +126,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -148,10 +141,7 @@ The Ford Mustang Mach-E Long Range RWD includes several features to enhance comf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -177,7 +167,6 @@ Furthermore, the Ford Mustang Mach-E Long Range RWD supports Android Auto and Ap
 One type of sound system is available for the Ford Mustang Mach-E Long Range RWD.
 
 - With the B&O Sound System, you get ten speakers with a max system output of 560 watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -216,6 +205,7 @@ The Ford Mustang Mach-E Long Range RWD includes several standard and optional [a
 ### Driving Automation
 
 With the Ford BlueCruise  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/main_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="1932"  >}}
 
 Vi har delt vår beskrivelse av SKODA ENYAQ RS i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 SKODA ENYAQ RS har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
@@ -77,6 +74,7 @@ SKODA ENYAQ RS, med dimensjoner på 4649 mm i lengde, 1879 mm i bredde og 1616 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på SKODA ENYAQ RS, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 - 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
@@ -93,9 +91,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -120,10 +116,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -132,7 +125,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -147,11 +139,9 @@ SKODA ENYAQ RS inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 SKODA ENYAQ RS har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
-
 
 Viktige skjermdetaljer:
 
@@ -177,7 +167,6 @@ I tillegg støtter SKODA ENYAQ RS Android Auto og Apple CarPlay. Denne funksjona
 Én type lydsystem er tilgjengelig for SKODA ENYAQ RS.
 
 - Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -216,6 +205,7 @@ SKODA ENYAQ RS inkluderer flere [avanserte førerassistanse systemer](../../../.
 ### Kjøreautomatisering
 
 Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

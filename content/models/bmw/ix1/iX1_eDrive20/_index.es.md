@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo BMW iX1 eDrive20 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 BMW iX1 eDrive20 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -65,8 +62,6 @@ La dirección dinámica es una característica un estándar en el BMW iX1 eDrive
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
@@ -78,6 +73,7 @@ La potencia regenerativa máxima es de 134 kW.
 El BMW iX1 eDrive20, con dimensiones de 4500 mm de longitud, 1845 mm de anchura y 1616 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW iX1 eDrive20, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 205/65 en llantas de 17
 - Neumáticos 255/60 en llantas de 18
@@ -96,9 +92,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -121,8 +115,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
-
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico
@@ -136,10 +128,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -152,7 +141,6 @@ Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y p
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -167,11 +155,9 @@ El BMW iX1 eDrive20 incluye varias características para mejorar la comodidad y 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El BMW iX1 eDrive20 tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -198,7 +184,6 @@ Puedes elegir entre dos sistemas de sonido en el BMW iX1 eDrive20.
 
 - Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
 - Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -236,6 +221,7 @@ El BMW iX1 eDrive20 incluye varios [sistemas avanzados de asistencia al conducto
 ### Automatización de la Conducción
 
 Con el sistema Driving Assistant Professional  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

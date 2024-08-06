@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/main_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lotus Emeya S features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The Lotus Emeya S, with dimensions of 5139 mm in length, 2005 mm in width, and 1
 
 You can select from multiple wheel options in different sizes on the Lotus Emeya S, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/40 tires on 21" rims front and 305/35 tires on 21" rims rear
 - 265/35 tires on 22" rims front and 305/30 tires on 22" rims rear
@@ -95,7 +93,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -119,6 +116,7 @@ The following functionalities are available on the **standard** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -140,7 +138,6 @@ The second option is twin [executive seats](../../../../technology/seats/types/#
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -148,7 +145,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -163,10 +159,7 @@ The Lotus Emeya S includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -176,7 +169,6 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -196,7 +188,6 @@ You can choose between two sound systems on the Lotus Emeya S.
 
 - With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts.
 - With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -235,6 +226,7 @@ The Lotus Emeya S includes several standard and optional [advanced driver assist
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

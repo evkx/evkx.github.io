@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/main_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001"  >}}
 
 Nous avons séparé notre article Hyundai Ioniq 6 Long Range AWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Hyundai Ioniq 6 Long Range AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -60,8 +57,6 @@ Hyundai Ioniq 6 Long Range AWD dispose d'un système de transmission intégrale 
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 141 mm.
 
 ### Freins
-
-
 
 ### Freinage régénératif
 
@@ -74,6 +69,7 @@ La puissance régénérative maximale est de 150 kW.
 La Hyundai Ioniq 6 Long Range AWD, avec des dimensions de 4855 mm de longueur, 1880 mm de largeur et 1495 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Hyundai Ioniq 6 Long Range AWD est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai Ioniq 6 Long Range AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 225/55 sur jantes de 18"
 - Pneus 245/40 sur jantes de 20"
@@ -91,12 +87,9 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
-
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -112,6 +105,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
@@ -119,14 +113,11 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2123"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
@@ -135,7 +126,6 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -148,11 +138,9 @@ L'Hyundai Ioniq 6 Long Range AWD comprend plusieurs fonctionnalités pour améli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Hyundai Ioniq 6 Long Range AWD possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -178,7 +166,6 @@ De plus, le Hyundai Ioniq 6 Long Range AWD prend en charge Android Auto et Apple
 Un type de système audio est disponible pour le Hyundai Ioniq 6 Long Range AWD.
 
 - Avec le Bose Premium Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -215,6 +202,7 @@ Le Hyundai Ioniq 6 Long Range AWD comprend plusieurs [systèmes avancés d'assis
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

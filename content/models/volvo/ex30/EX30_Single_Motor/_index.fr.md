@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/main_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 Nous avons séparé notre article Volvo EX30 Single Motor en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volvo EX30 Single Motor dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
@@ -73,6 +70,7 @@ La Volvo EX30 Single Motor, avec des dimensions de 4233 mm de longueur, 1837 mm 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EX30 Single Motor, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 225/55 sur jantes de 18"
 - Pneus 235/45 sur jantes de 20"
 
@@ -86,7 +84,6 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -107,22 +104,19 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
 - White [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en laine](../../../../technology/seats/materials/#wool)
 - Brown [revêtement en laine/similicuir](../../../../technology/seats/materials/#wool)
 - Blue [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
-
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -132,7 +126,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -147,11 +140,9 @@ L'Volvo EX30 Single Motor comprend plusieurs fonctionnalités pour améliorer le
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Volvo EX30 Single Motor a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
-
 
 Détails clés de l'écran :
 
@@ -173,7 +164,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Volvo EX30 Single Motor.
 
 - Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
 - Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -213,6 +203,7 @@ Le Volvo EX30 Single Motor comprend plusieurs [systèmes avancés d'assistance a
 ### Automatisation de la Conduite
 
 Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

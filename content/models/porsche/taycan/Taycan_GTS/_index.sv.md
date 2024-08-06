@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/main_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Porsche Taycan GTS i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -27,8 +25,6 @@ Vi har delat in vår beskrivning av Porsche Taycan GTS i avsnitt. Om du vill vä
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
 ## Prestanda
-
-
 
 Med det valfria Performance Battery Plus-batteriet får du olika prestandasiffror. Med överboost når Porsche Taycan GTS en maximal effekt på 440 kW (598 hk). Utan överboost ger den en stark effekt på 320 kW (435 hk). Det maximala vridmomentet är 850 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 3,7 sekunder och har en topphastighet på 250 km/h, vilket visar dess imponerande prestanda.
 
@@ -52,14 +48,11 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Porsche Taycan GTS har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
-
-
 
 Du kan beställa Porsche Taycan GTS med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 127 mm.
 
@@ -85,6 +78,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Taycan GTS, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
@@ -100,9 +94,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -121,8 +113,6 @@ Följande funktioner är tillgängliga på **Comfort** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
 - elektrisk justering
@@ -132,8 +122,6 @@ Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
@@ -172,7 +160,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -185,11 +172,9 @@ Porsche Taycan GTS inkluderar flera funktioner för att förbättra komfort och 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan GTS har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
-
 
 Viktiga skärmdetaljer:
 
@@ -219,7 +204,6 @@ Du kan välja mellan tre ljudsystem på Porsche Taycan GTS.
 - Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt.
 - Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
 
 ## Ljus
 
@@ -258,10 +242,12 @@ Porsche Taycan GTS inkluderar flera [avancerade förarassistanssystem](../../../
 Porsche Taycan GTS erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 

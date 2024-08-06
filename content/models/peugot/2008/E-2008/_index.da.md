@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/main_1_st.jpg" title="Peugot E-2008" width="3000" height="1666"  >}}
 
 Vi har opdelt vores Peugot E-2008 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Peugot E-2008 har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -61,8 +58,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere.
@@ -72,6 +67,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 Den Peugot E-2008, med dimensioner på 4304 mm i længde, 1775 mm i bredde og 1523 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Peugot E-2008 fås i alt i 5 ensfarvede lakfarver.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Peugot E-2008, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
@@ -88,7 +84,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -109,26 +104,21 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
-
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -142,10 +132,7 @@ Peugot E-2008 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -172,7 +159,6 @@ Yderligere understøtter Peugot E-2008 Android Auto og Apple CarPlay. Denne funk
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
-
 ## Lys
 
 De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
@@ -198,6 +184,7 @@ Den Peugot E-2008 inkluderer flere standard- og valgfri [avancerede førerassist
 Peugot E-2008 tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med DS Drive Assist  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

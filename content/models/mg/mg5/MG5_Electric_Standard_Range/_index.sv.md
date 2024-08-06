@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/main_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1639"  >}}
 
 Vi har delat in vår beskrivning av MG MG5 Electric Standard Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 MG MG5 Electric Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -75,9 +72,6 @@ MG MG5 Electric Standard Range, med dimensioner på 4600 mm i längd, 1818 mm i 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG MG5 Electric Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
-
-
 Det finns bara ett tak för denna modell.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/exterior_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1707"  >}}
@@ -85,13 +79,11 @@ Det finns bara ett tak för denna modell.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -102,6 +94,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -110,12 +103,9 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2004"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -124,7 +114,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -138,11 +127,9 @@ MG MG5 Electric Standard Range inkluderar flera funktioner för att förbättra 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 MG MG5 Electric Standard Range har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -152,7 +139,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/screens_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2002"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -171,7 +157,6 @@ Dessutom stöder MG MG5 Electric Standard Range Android Auto och Apple CarPlay. 
 En typ av ljudsystem är tillgänglig för MG MG5 Electric Standard Range.
 
 - Med  får du sex högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
@@ -192,6 +177,7 @@ MG MG5 Electric Standard Range inkluderar flera [avancerade förarassistanssyste
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

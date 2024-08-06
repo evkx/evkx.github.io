@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/main_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1913"  >}}
 
 Vi har delat in vår beskrivning av Chevrolet Equinox EV AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Chevrolet Equinox EV AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på framaxeln och [induktionsmotorer] (../../../../technology/motors/asm/) på bakaxeln.
@@ -73,6 +70,7 @@ Chevrolet Equinox EV AWD, med dimensioner på 4867 mm i längd, 1953 mm i bredd 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Chevrolet Equinox EV AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/55 tires on 19" rims
 - 275/45 tires on 20" rims
 - 275/40 tires on 21" rims
@@ -88,12 +86,9 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
-
 ### Säten
-
 
 #### Framsäten
 
@@ -108,6 +103,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
@@ -115,15 +111,12 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -133,7 +126,6 @@ Två klimatsystemalternativ är tillgängliga:
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -147,11 +139,9 @@ Chevrolet Equinox EV AWD inkluderar flera funktioner för att förbättra komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Chevrolet Equinox EV AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -161,7 +151,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/screens_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2000"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -181,7 +170,6 @@ Du kan välja mellan två ljudsystem på Chevrolet Equinox EV AWD.
 
 - Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
 - Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 5 USB-C-anslutningar som standard.
 
@@ -214,9 +202,11 @@ Chevrolet Equinox EV AWD inkluderar flera [avancerade förarassistanssystem](../
 Chevrolet Equinox EV AWD erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Super Cruise  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 

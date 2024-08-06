@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 VOYAH FREE features an all-wheel drive system powered by two motors, one on each axle.
@@ -73,6 +70,7 @@ The VOYAH FREE, with dimensions of 4905 mm in length, 1950 mm in width, and 1645
 
 You can select from multiple wheel designs, all available in the same size, on the VOYAH FREE, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -86,9 +84,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -108,26 +104,21 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -140,11 +131,9 @@ The VOYAH FREE includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -167,7 +156,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the VOYAH FREE.
 
 - With the DYNAUDIO HIFI Sound system, you get NULL speakers with a max system output of  watts.
-
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -192,6 +180,7 @@ The VOYAH FREE includes several standard and optional [advanced driver assistanc
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

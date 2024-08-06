@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="2002"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Toyota bZ4X AWD features an all-wheel drive system powered by two motors, one on each axle.
@@ -61,8 +58,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 
@@ -71,7 +66,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 The Toyota bZ4X AWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1550 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 1 different paint colors when ordering this model.
 
 You can select from multiple wheel designs, all available in the same size, on the Toyota bZ4X AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
-
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -84,12 +78,9 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Seats
-
 
 #### First row seats
 
@@ -105,17 +96,13 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -124,7 +111,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -137,22 +123,18 @@ The Toyota bZ4X AWD includes several features to enhance comfort and convenience
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 Two different screen setups are available on the Toyota bZ4X AWD.
 
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
-
 Key screen details:
 
 - The touch screen behind the steering wheel integrated into the dashboard is 7.0 inches large
 - The touch screen at the top of the center console is 8.9 inches large
 
-
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -179,7 +161,6 @@ You can choose between two sound systems on the Toyota bZ4X AWD.
 
 - With the Toyota, you get six speakers with a max system output of  watts.
 - With the JBL Premium Sound, you get nine speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -211,6 +192,7 @@ The Toyota bZ4X AWD includes several standard and optional [advanced driver assi
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

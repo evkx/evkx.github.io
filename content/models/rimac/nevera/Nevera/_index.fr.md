@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/main_1_st.jpg" title="Rimac Nevera" width="3000" height="1999"  >}}
 
 Nous avons séparé notre article Rimac Nevera en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -49,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Transmission
 
@@ -91,9 +88,8 @@ La Rimac Nevera est disponible en un total de 5 couleurs de peinture, y compris 
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Rimac Nevera, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 275/35 sur jantes de 20" à l'avant et pneus 315/35 sur jantes de 20" à l'arrière
-
-
 
 Il n'y a qu'un seul toit pour ce modèle.
 
@@ -102,12 +98,9 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
-
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -118,10 +111,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - réglage électrique
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -130,7 +123,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -144,11 +136,9 @@ L'Rimac Nevera comprend plusieurs fonctionnalités pour améliorer le confort et
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Rimac Nevera possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
-
 
 Détails clés de l'écran :
 
@@ -176,7 +166,6 @@ Un type de système audio est disponible pour le Rimac Nevera.
 
 - Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
 
-
 ## Lumières
 
 **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
@@ -198,6 +187,7 @@ Le Rimac Nevera comprend plusieurs [systèmes avancés d'assistance au conducteu
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

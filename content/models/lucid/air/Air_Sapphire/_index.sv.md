@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/main_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 Vi har delat in vår beskrivning av Lucid Air Sapphire i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Lucid Air Sapphire har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Lucid Air Sapphire, med dimensioner på 4975 mm i längd, 1939 mm i bredd och 14
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Lucid Air Sapphire, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är standard-funktionen för sidodörrarna.
@@ -88,9 +86,7 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -118,14 +114,11 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/secondrowseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2077"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -134,7 +127,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -150,11 +142,9 @@ Lucid Air Sapphire inkluderar flera funktioner för att förbättra komfort och 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm)
-
 
 Viktiga skärmdetaljer:
 
@@ -178,7 +168,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Lucid Air Sapphire.
 
 - Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -211,6 +200,7 @@ Lucid Air Sapphire inkluderar flera [avancerade förarassistanssystem](../../../
 ### Körautomatisering
 
 Med ADAS  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

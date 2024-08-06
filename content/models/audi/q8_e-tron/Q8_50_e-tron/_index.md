@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/main_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -49,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -97,9 +94,8 @@ You can also choose several styling options to make your car more unique.
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-
-
 You can select from multiple wheel options in different sizes on the Audi Q8 50 e-tron, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 255/55 tires on 19" rims
 - 255/50 tires on 20" rims
@@ -118,9 +114,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -140,8 +134,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **sport** seat.
 
 - electric adjustment (optional)
@@ -153,8 +145,6 @@ The following functionalities are available on the **sport** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 3 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **s-line sport** seat.
 
@@ -168,8 +158,6 @@ The following functionalities are available on the **s-line sport** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **s sport** seat.
 
 - electric adjustment (optional)
@@ -179,8 +167,6 @@ The following functionalities are available on the **s sport** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 4 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **multicontour** seat.
 
@@ -203,14 +189,11 @@ You can choose from 4 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -220,7 +203,6 @@ Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -237,11 +219,9 @@ The Audi Q8 50 e-tron includes several features to enhance comfort and convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Audi Q8 50 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -269,7 +249,6 @@ You can choose between two sound systems on the Audi Q8 50 e-tron.
 
 - With the Audi Sound system, you get ten speakers with a max system output of 180 watts.
 - With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -316,10 +295,12 @@ The Audi Q8 50 e-tron includes several standard and optional [advanced driver as
 The Audi Q8 50 e-tron offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

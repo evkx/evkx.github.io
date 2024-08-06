@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/main_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2018"  >}}
 
 Vi har delt vår beskrivelse av Honda Prologue AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -53,7 +51,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Honda Prologue AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ Honda Prologue AWD, med dimensjoner på 4877 mm i lengde, 1989 mm i bredde og 16
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Honda Prologue AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/45 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -89,13 +87,11 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Du kan velge mellom flere interiørdesign.
 
 ### Seter
-
 
 #### Forseter
 
@@ -111,19 +107,16 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -132,7 +125,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -146,11 +138,9 @@ Honda Prologue AWD inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Honda Prologue AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -160,7 +150,6 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -179,7 +168,6 @@ I tillegg støtter Honda Prologue AWD Android Auto og Apple CarPlay. Denne funks
 Én type lydsystem er tilgjengelig for Honda Prologue AWD.
 
 - Med Bose premium audio system får du 12 høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 
@@ -216,6 +204,7 @@ Honda Prologue AWD inkluderer flere [avanserte førerassistanse systemer](../../
 Honda Prologue AWD tilbyr [kjøreautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

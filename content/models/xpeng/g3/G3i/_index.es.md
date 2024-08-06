@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 Hemos separado nuestro artículo XPENG G3i en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ Los tipos de conectores varían entre los diferentes mercados. Este modelo utili
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 XPENG G3i tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
@@ -61,8 +58,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 
@@ -71,6 +66,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 El XPENG G3i, con dimensiones de 4495 mm de longitud, 1820 mm de anchura y 1610 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el XPENG G3i, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 215/55 en llantas de 17
 - Neumáticos 215/55 en llantas de 18
@@ -86,9 +82,7 @@ Sólo hay un techo para este modelo.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -107,10 +101,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -124,7 +115,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Características de confort
@@ -135,11 +125,9 @@ El XPENG G3i incluye varias características para mejorar la comodidad y conveni
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El XPENG G3i tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -157,7 +145,6 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 Un tipo de sistema de sonido está disponible para el XPENG G3i.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 4 conexiones USB-A de serie.
 
@@ -182,6 +169,7 @@ El XPENG G3i incluye varios [sistemas avanzados de asistencia al conductor](../.
 ### Automatización de la Conducción
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

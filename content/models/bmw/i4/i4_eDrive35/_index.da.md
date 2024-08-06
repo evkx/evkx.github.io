@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/main_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="1999"  >}}
 
 Vi har opdelt vores BMW i4 eDrive35 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BMW i4 eDrive35 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
@@ -81,6 +78,7 @@ Den BMW i4 eDrive35, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i4 eDrive35, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 245/45 dæk på 18" fælge foran og 255/45 dæk på 18" fælge bagpå
 - 245/40 dæk på 19" fælge foran og 255/40 dæk på 19" fælge bagpå
 - 245/35 dæk på 20" fælge foran og 255/35 dæk på 20" fælge bagpå
@@ -98,9 +96,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -122,6 +118,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
+
 - Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Cognac [læderbetræk](../../../../technology/seats/materials/#leatherette)
@@ -143,8 +140,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 - Blue [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
-
 Følgende funktioner er tilgængelige på **M Sport** sædet.
 
 - elektrisk justering
@@ -156,6 +151,7 @@ Følgende funktioner er tilgængelige på **M Sport** sædet.
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
+
 - Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Cognac [læderbetræk](../../../../technology/seats/materials/#leatherette)
@@ -180,8 +176,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -208,11 +202,9 @@ BMW i4 eDrive35 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 BMW i4 eDrive35 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -237,7 +229,6 @@ Du kan vælge mellem to lydsystemer på BMW i4 eDrive35.
 
 - Med Hifi Sound system får du ti højttalere med en maksimal systemeffekt på 200 watt.
 - Med Harman Kardon Surround Sound system får du 17 højttalere med en maksimal systemeffekt på 445 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -275,10 +266,12 @@ Den BMW i4 eDrive35 inkluderer flere standard- og valgfri [avancerede førerassi
 BMW i4 eDrive35 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Driving Assistant  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - Fartpilot.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

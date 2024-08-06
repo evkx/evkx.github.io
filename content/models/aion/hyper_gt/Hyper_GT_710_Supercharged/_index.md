@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -42,13 +40,11 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard charger
 
-
 ### Charge port
 
 Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -71,13 +67,12 @@ The Aion Hyper GT 710 Supercharged, with dimensions of 4886 mm in length, 1885 m
 
 You can select from multiple wheel options in different sizes on the Aion Hyper GT 710 Supercharged, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/55 tires on 17" rims
 - 235/50 tires on 18" rims
 - 235/45 tires on 19" rims
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
-
-
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
@@ -86,9 +81,7 @@ There is only one roof for this model. The standard roof includes a large panora
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -107,22 +100,20 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
+
 -  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
+
 -  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -131,7 +122,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -146,10 +136,7 @@ The Aion Hyper GT 710 Supercharged includes several features to enhance comfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -167,7 +154,6 @@ The model does not have a head-up display.
 One type of sound system is available for the Aion Hyper GT 710 Supercharged.
 
 - With the , you get 23 speakers with a max system output of  watts.
-
 
 The model has 1 USB-C connections as standard.
 
@@ -196,6 +182,7 @@ The Aion Hyper GT 710 Supercharged includes several standard and optional [advan
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

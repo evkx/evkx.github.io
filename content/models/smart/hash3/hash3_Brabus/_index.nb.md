@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/main_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687"  >}}
 
 Vi har delt vår beskrivelse av Smart #3 Brabus i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Smart #3 Brabus har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -75,6 +72,7 @@ Smart #3 Brabus, med dimensjoner på 4400 mm i lengde, 1844 mm i bredde og 1556 
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Smart #3 Brabus, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 245/40 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
@@ -86,9 +84,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -105,13 +101,12 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -126,7 +121,6 @@ To klimasystemalternativer er tilgjengelige:
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
@@ -140,10 +134,7 @@ Smart #3 Brabus inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -165,7 +156,6 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Én type lydsystem er tilgjengelig for Smart #3 Brabus.
 
 - Med Yamaha surround sound system får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -205,6 +195,7 @@ Smart #3 Brabus inkluderer flere [avanserte førerassistanse systemer](../../../
 ### Kjøreautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

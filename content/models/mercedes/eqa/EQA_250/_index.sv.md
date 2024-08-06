@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/main_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Mercedes-EQ EQA 250 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,13 +48,11 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Mercedes-EQ EQA 250 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
 
 ### Hjulupphängning
-
 
 ### Styrning
 
@@ -76,6 +72,7 @@ Mercedes-EQ EQA 250, med dimensioner på 4463 mm i längd, 1834 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQA 250, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/55 tires on 18" rims
 - 235/50 tires on 19" rims
 
@@ -90,9 +87,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -115,8 +110,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
 - elektrisk justering
@@ -136,8 +129,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -163,11 +154,9 @@ Mercedes-EQ EQA 250 inkluderar flera funktioner för att förbättra komfort och
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Mercedes-EQ EQA 250 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -177,7 +166,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/screens_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
-
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 
@@ -199,7 +187,6 @@ Du kan välja mellan två ljudsystem på Mercedes-EQ EQA 250.
 
 - Med Standard får du sju högtalare med en maximal systemeffekt på 100 watt.
 - Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -238,6 +225,7 @@ Mercedes-EQ EQA 250 inkluderar flera [avancerade förarassistanssystem](../../..
 Mercedes-EQ EQA 250 erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driver Assistance Package  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/main_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BMW iX1 eDrive20 has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -65,8 +62,6 @@ Dynamic steering is a standard feature on the BMW iX1 eDrive20. Dynamic steering
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
@@ -78,6 +73,7 @@ The maximum regenerative power is 134 kW.
 The BMW iX1 eDrive20, with dimensions of 4500 mm in length, 1845 mm in width, and 1616 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 12 different paint colors when ordering this model.
 
 You can select from multiple wheel options in different sizes on the BMW iX1 eDrive20, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 205/65 tires on 17" rims
 - 255/60 tires on 18" rims
@@ -96,9 +92,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -121,8 +115,6 @@ The following functionalities are available on the **Standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **Sport** seat.
 
 - electric adjustment
@@ -136,10 +128,7 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -152,7 +141,6 @@ There is only one type of steering wheel available. The stock steering wheel is 
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -167,11 +155,9 @@ The BMW iX1 eDrive20 includes several features to enhance comfort and convenienc
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The BMW iX1 eDrive20 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -198,7 +184,6 @@ You can choose between two sound systems on the BMW iX1 eDrive20.
 
 - With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
 - With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -236,6 +221,7 @@ The BMW iX1 eDrive20 includes several standard and optional [advanced driver ass
 ### Driving Automation
 
 With the Driving Assistant Professional  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/main_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
 
 Vi har delt vår beskrivelse av MG ZS EV Long Range i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 MG ZS EV Long Range har et bakhjulsdriftssystem støttet av en motor på bakakselen.
@@ -75,6 +72,7 @@ MG ZS EV Long Range, med dimensjoner på 4323 mm i lengde, 1809 mm i bredde og 1
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MG ZS EV Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 215/55 dekk på 17" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -87,7 +85,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -108,6 +105,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
@@ -115,12 +113,9 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/secondrowseats_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1706"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -129,7 +124,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -143,10 +137,7 @@ MG ZS EV Long Range inkluderer flere funksjoner for å forbedre komfort og bekve
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -156,7 +147,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/screens_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1015"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -176,7 +166,6 @@ Du kan velge mellom to lydsystemer på MG ZS EV Long Range.
 
 - Med MG standard system får du fire høyttalere med en maksimal systemeffekt på  watt.
 - Med MG luxury sound system får du seks høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 
@@ -205,6 +194,7 @@ MG ZS EV Long Range inkluderer flere [avanserte førerassistanse systemer](../..
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

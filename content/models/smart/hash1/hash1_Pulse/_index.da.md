@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/main_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2250"  >}}
 
 Vi har opdelt vores Smart #1 Pulse artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Smart #1 Pulse har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -77,6 +74,7 @@ Den Smart #1 Pulse, med dimensioner på 4300 mm i længde, 1822 mm i bredde og 1
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Smart #1 Pulse, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 245/40 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
@@ -88,9 +86,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -107,12 +103,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - White/Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -127,7 +121,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
 ## Komfortfunktioner
@@ -141,10 +134,7 @@ Smart #1 Pulse inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -166,7 +156,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Smart #1 Pulse.
 
 - Med Yamaha surround sound system får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -204,6 +193,7 @@ Den Smart #1 Pulse inkluderer flere standard- og valgfri [avancerede førerassis
 ### Køreautomatisering
 
 Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

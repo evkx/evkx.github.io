@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/main_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1676"  >}}
 
 Nous avons séparé notre article CUPRA Tavascan VZ en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 CUPRA Tavascan VZ dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
@@ -77,6 +74,7 @@ La CUPRA Tavascan VZ, avec des dimensions de 4644 mm de longueur, 1861 mm de lar
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'CUPRA Tavascan VZ, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/50 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
 - Pneus 235/45 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 - Pneus 255/40 sur jantes de 21"
@@ -94,9 +92,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -121,10 +117,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -133,7 +126,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -148,11 +140,9 @@ L'CUPRA Tavascan VZ comprend plusieurs fonctionnalités pour améliorer le confo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le CUPRA Tavascan VZ dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -179,7 +169,6 @@ Vous pouvez choisir entre deux systèmes audio sur le CUPRA Tavascan VZ.
 
 - Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts.
 - Avec le Sennheiser Soundsystem, vous obtenez 12 haut-parleurs avec une puissance système maximale de 395 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -222,12 +211,15 @@ Le CUPRA Tavascan VZ comprend plusieurs [systèmes avancés d'assistance au cond
 CUPRA Tavascan VZ offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
 - Régulateur de vitesse.
 
 Avec le système   de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 

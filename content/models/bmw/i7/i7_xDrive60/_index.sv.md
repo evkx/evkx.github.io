@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/main_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 Vi har delat in vår beskrivning av BMW i7 xDrive60 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 BMW i7 xDrive60 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
@@ -65,8 +62,6 @@ Dynamisk styrning är standard-funktionen för BMW i7 xDrive60. Dynamisk styrnin
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
@@ -76,6 +71,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 BMW i7 xDrive60, med dimensioner på 5391 mm i längd, 1950 mm i bredd och 1544 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i7 xDrive60, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 245/50 tires on 19" rims
 - 255/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
@@ -93,7 +89,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -118,6 +113,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 15 olika material/färger för denna sitstyp.
+
 - Black/Burgundy [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Mocha [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -133,7 +129,6 @@ Du kan välja mellan 15 olika material/färger för denna sitstyp.
 - Black/Gray [ull/läderklädsel](../../../../technology/seats/materials/#wool)
 - Truffle [läderklädsel](../../../../technology/seats/materials/#leather)
 - Smoke [läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 #### Säten på andra raden
 
@@ -153,7 +148,6 @@ Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../.
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/secondrowseats_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -176,11 +170,9 @@ BMW i7 xDrive60 inkluderar flera funktioner för att förbättra komfort och bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 BMW i7 xDrive60 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -207,7 +199,6 @@ Du kan välja mellan två ljudsystem på BMW i7 xDrive60.
 
 - Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt.
 - Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
-
 
 Modellen har 6 USB-C-anslutningar som standard.
 
@@ -247,10 +238,12 @@ BMW i7 xDrive60 inkluderar flera [avancerade förarassistanssystem](../../../../
 BMW i7 xDrive60 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driving Assistant  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

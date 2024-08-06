@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 Vi har delat in vår beskrivning av Fiat 600e i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Fiat 600e har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -61,8 +58,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
@@ -72,6 +67,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 Fiat 600e, med dimensioner på 4171 mm i längd, 1781 mm i bredd och 1523 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Fiat 600e finns i totalt 5 enfärgade lackfärger.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Fiat 600e, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
@@ -88,7 +84,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -109,6 +104,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
@@ -118,18 +114,13 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -144,10 +135,7 @@ Fiat 600e inkluderar flera funktioner för att förbättra komfort och bekvämli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -173,7 +161,6 @@ Dessutom stöder Fiat 600e Android Auto och Apple CarPlay. Denna funktion gör a
 En typ av ljudsystem är tillgänglig för Fiat 600e.
 
 - Med  får du NULL högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 3 USB-A-anslutningar som standard.
 
@@ -202,6 +189,7 @@ Fiat 600e inkluderar flera [avancerade förarassistanssystem](../../../../techno
 Fiat 600e erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

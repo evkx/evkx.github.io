@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/main_1_st.jpg" title="Xiaomi SU7" width="3000" height="1500"  >}}
 
 Vi har delat in vår beskrivning av Xiaomi SU7 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Xiaomi SU7 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ Xiaomi SU7, med dimensioner på 4997 mm i längd, 1963 mm i bredd och 1455 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Xiaomi SU7, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 tires on 19" rims
 - 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 245/35 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
@@ -93,7 +91,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -113,6 +110,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
@@ -122,15 +120,12 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -151,10 +146,7 @@ Xiaomi SU7 inkluderar flera funktioner för att förbättra komfort och bekväml
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -173,7 +165,6 @@ Du kan välja mellan två ljudsystem på Xiaomi SU7.
 
 - Med Xiaomi Soundsystem får du tio högtalare med en maximal systemeffekt på  watt.
 - Med Xiaomi Soundsystem får du 25 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -214,6 +205,7 @@ Xiaomi SU7 inkluderar flera [avancerade förarassistanssystem](../../../../techn
 ### Körautomatisering
 
 Med Xiaomi Pilot Max  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

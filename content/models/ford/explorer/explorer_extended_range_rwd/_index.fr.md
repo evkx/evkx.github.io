@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/main_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="1627"  >}}
 
 Nous avons séparé notre article Ford Explorer Extended Range RWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Ford Explorer Extended Range RWD dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
@@ -81,6 +78,7 @@ La Ford Explorer Extended Range RWD, avec des dimensions de 4468 mm de longueur,
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford Explorer Extended Range RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
@@ -97,9 +95,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -127,10 +123,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Ergo**.
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -140,7 +133,6 @@ Deux options de système de climatisation sont disponibles :
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -155,11 +147,9 @@ L'Ford Explorer Extended Range RWD comprend plusieurs fonctionnalités pour amé
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Ford Explorer Extended Range RWD dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -186,7 +176,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Ford Explorer Extended Ran
 
 - Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts.
 - Avec le B&O Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 480 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -227,9 +216,11 @@ Le Ford Explorer Extended Range RWD comprend plusieurs [systèmes avancés d'ass
 Ford Explorer Extended Range RWD offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Avec le système Assistantpackage  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 

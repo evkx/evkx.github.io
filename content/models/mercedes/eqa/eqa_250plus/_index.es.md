@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/main_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Mercedes-EQ EQA 250+ en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,13 +50,11 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQA 250+ tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
 
 ### Suspensión
-
 
 ### Dirección
 
@@ -78,6 +74,7 @@ El Mercedes-EQ EQA 250+, con dimensiones de 4463 mm de longitud, 1834 mm de anch
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQA 250+, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 18
 - Neumáticos 235/50 en llantas de 19
 
@@ -92,9 +89,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -117,8 +112,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
-
-
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
 
 - ajuste eléctrico
@@ -139,14 +132,11 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -168,11 +158,9 @@ El Mercedes-EQ EQA 250+ incluye varias características para mejorar la comodida
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Mercedes-EQ EQA 250+ tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -182,7 +170,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/screens_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
-
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 
@@ -204,7 +191,6 @@ Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQA 250+.
 
 - Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios.
 - Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 
@@ -245,6 +231,7 @@ El Mercedes-EQ EQA 250+ incluye varios [sistemas avanzados de asistencia al cond
 Mercedes-EQ EQA 250+ ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema Driver Assistance Package  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

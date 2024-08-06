@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/main_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Mercedes-EQ EQS 450 4MATIC i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Mercedes-EQ EQS 450 4MATIC har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -83,6 +80,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQS 450 4MATIC, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/55 tires on 19" rims
 - 265/40 däck på 21" fälgar fram och 295/35 däck på 21" fälgar bak
 - 265/40 däck på 20" fälgar fram och 295/35 däck på 20" fälgar bak
@@ -96,9 +94,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -119,8 +115,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
@@ -158,7 +152,6 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2250"  >}}
 
-
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
@@ -180,7 +173,6 @@ Mercedes-EQ EQS 450 4MATIC inkluderar flera funktioner för att förbättra komf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Mercedes-EQ EQS 450 4MATIC.
@@ -192,9 +184,7 @@ Viktiga skärmdetaljer:
 - Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum
 - Skärmen touch i mitten av mittkonsolen är 12,8 tum
 
-
 Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
-
 
 Viktiga skärmdetaljer:
 
@@ -205,7 +195,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1875"  >}}
-
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 
@@ -227,7 +216,6 @@ Du kan välja mellan två ljudsystem på Mercedes-EQ EQS 450 4MATIC.
 
 - Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
 - Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -264,13 +252,16 @@ Mercedes-EQ EQS 450 4MATIC inkluderar flera [avancerade förarassistanssystem](.
 Mercedes-EQ EQS 450 4MATIC erbjuder [körautomatisering på nivå 1, 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Driver Assistance Package  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 Med DRIVE PILOT  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 

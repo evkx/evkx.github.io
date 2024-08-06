@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/main_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2018"  >}}
 
 Hemos separado nuestro artículo Honda Prologue AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -53,7 +51,6 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Honda Prologue AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ El Honda Prologue AWD, con dimensiones de 4877 mm de longitud, 1989 mm de anchur
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda Prologue AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 275/45 en llantas de 21
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -89,13 +87,11 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -111,19 +107,16 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -132,7 +125,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -146,11 +138,9 @@ El Honda Prologue AWD incluye varias características para mejorar la comodidad 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Honda Prologue AWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -160,7 +150,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -179,7 +168,6 @@ Además, el Honda Prologue AWD es compatible con Android Auto y Apple CarPlay. E
 Un tipo de sistema de sonido está disponible para el Honda Prologue AWD.
 
 - Con el Bose premium audio system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 5 conexiones USB-C de serie.
 
@@ -216,6 +204,7 @@ El Honda Prologue AWD incluye varios [sistemas avanzados de asistencia al conduc
 Honda Prologue AWD ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema   de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

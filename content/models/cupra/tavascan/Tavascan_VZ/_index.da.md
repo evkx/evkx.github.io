@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/main_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1676"  >}}
 
 Vi har opdelt vores CUPRA Tavascan VZ artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 CUPRA Tavascan VZ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -77,6 +74,7 @@ Den CUPRA Tavascan VZ, med dimensioner på 4644 mm i længde, 1861 mm i bredde o
 
 Du kan vælge mellem flere hjul i forskellige størrelser på CUPRA Tavascan VZ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/50 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
 - 235/45 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
 - 255/40 dæk on 21" fælge
@@ -94,9 +92,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -121,10 +117,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 Der er kun én type rat tilgængelig.
 
@@ -133,7 +126,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -148,11 +140,9 @@ CUPRA Tavascan VZ inkluderer flere funktioner, der forbedrer komfort og bekvemme
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 CUPRA Tavascan VZ har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -179,7 +169,6 @@ Du kan vælge mellem to lydsystemer på CUPRA Tavascan VZ.
 
 - Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
 - Med Sennheiser Soundsystem får du 12 højttalere med en maksimal systemeffekt på 395 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -222,12 +211,15 @@ Den CUPRA Tavascan VZ inkluderer flere standard- og valgfri [avancerede føreras
 CUPRA Tavascan VZ tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - Fartpilot.
 
 Med   niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 

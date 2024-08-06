@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/main_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
 Hemos separado nuestro artículo Lotus Emeya R en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Lotus Emeya R tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ El Lotus Emeya R, con dimensiones de 5139 mm de longitud, 2005 mm de anchura y 1
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lotus Emeya R, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 305/35 en llantas de 21" traseras
 - Neumáticos 265/35 en llantas de 22" delanteras y neumáticos 305/30 en llantas de 22" traseras
 
@@ -94,7 +92,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -118,6 +115,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
@@ -139,7 +137,6 @@ La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/secondrowseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
-
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
@@ -147,7 +144,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -162,10 +158,7 @@ El Lotus Emeya R incluye varias características para mejorar la comodidad y con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -175,7 +168,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/screens_1_st.jpg" title="Lotus Emeya R" width="3000" height="1285"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -195,7 +187,6 @@ Puedes elegir entre dos sistemas de sonido en el Lotus Emeya R.
 
 - Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios.
 - Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -234,6 +225,7 @@ El Lotus Emeya R incluye varios [sistemas avanzados de asistencia al conductor](
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

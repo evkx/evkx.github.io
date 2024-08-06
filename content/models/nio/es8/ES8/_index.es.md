@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792"  >}}
 
 Hemos separado nuestro artículo Nio ES8 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -68,7 +66,6 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Nio ES8 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
@@ -97,6 +94,7 @@ El Nio ES8, con dimensiones de 5022 mm de longitud, 1962 mm de anchura y 1756 mm
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio ES8, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/55 en llantas de 19
 - Neumáticos 265/50 en llantas de 20
 - Neumáticos 265/45 en llantas de 21
@@ -112,12 +110,9 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -154,8 +149,6 @@ La opción standard son dos sillas estilo capitán. Además, las siguientes func
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 Sólo hay un tipo de volante disponible.
@@ -178,10 +171,7 @@ El Nio ES8 incluye varias características para mejorar la comodidad y convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -191,7 +181,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
-
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 
@@ -207,7 +196,6 @@ Puedes elegir entre dos sistemas de sonido en el Nio ES8.
 
 - Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 - Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 3 conexiones USB-A de serie.
 
@@ -248,10 +236,12 @@ El Nio ES8 incluye varios [sistemas avanzados de asistencia al conductor](../../
 Nio ES8 ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema NIO Pilot Selected Pack  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
+
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
 

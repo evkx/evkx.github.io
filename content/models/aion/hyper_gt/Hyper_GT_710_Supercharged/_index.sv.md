@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542"  >}}
 
 Vi har delat in vår beskrivning av Aion Hyper GT 710 Supercharged i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -42,13 +40,11 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Ombordladdare
 
-
 ### Laddningsport
 
 Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivlina
 
@@ -71,13 +67,12 @@ Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i längd, 1885 mm i 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Aion Hyper GT 710 Supercharged, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/55 tires on 17" rims
 - 235/50 tires on 18" rims
 - 235/45 tires on 19" rims
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
-
-
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
@@ -86,9 +81,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -107,22 +100,20 @@ Följande funktioner är tillgängliga på **** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 -  [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Säten på andra raden
 
-
-
 Följande funktioner är tillgängliga på **** sätet.
 
-
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 -  [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -131,7 +122,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -146,10 +136,7 @@ Aion Hyper GT 710 Supercharged inkluderar flera funktioner för att förbättra 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -167,7 +154,6 @@ Modellen är inte tillgänglig med head-up display.
 En typ av ljudsystem är tillgänglig för Aion Hyper GT 710 Supercharged.
 
 - Med  får du 23 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard.
 
@@ -196,6 +182,7 @@ Aion Hyper GT 710 Supercharged inkluderar flera [avancerade förarassistanssyste
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

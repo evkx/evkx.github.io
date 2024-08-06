@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,13 +50,11 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-EQ EQA 350 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
-
 
 ### Steering
 
@@ -77,9 +73,8 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 The Mercedes-EQ EQA 350 4MATIC, with dimensions of 4463 mm in length, 1834 mm in width, and 1620 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Mercedes-EQ EQA 350 4MATIC offers a selection of 10 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-
-
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQA 350 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 18" rims
 - 235/50 tires on 19" rims
@@ -95,9 +90,7 @@ There are two different roof options to select from. The standard is just a regu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -120,8 +113,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 6 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **multicontour** seat.
 
 - electric adjustment
@@ -141,8 +132,6 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -168,11 +157,9 @@ The Mercedes-EQ EQA 350 4MATIC includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Mercedes-EQ EQA 350 4MATIC has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -182,7 +169,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
-
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -204,7 +190,6 @@ You can choose between two sound systems on the Mercedes-EQ EQA 350 4MATIC.
 
 - With the Standard, you get seven speakers with a max system output of 100 watts.
 - With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
-
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -243,6 +228,7 @@ The Mercedes-EQ EQA 350 4MATIC includes several standard and optional [advanced 
 The Mercedes-EQ EQA 350 4MATIC offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

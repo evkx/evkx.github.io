@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/main_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1685"  >}}
 
 Vi har opdelt vores Chevrolet Silverado EV SRT artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Chevrolet Silverado EV SRT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -62,8 +59,6 @@ Chevrolet Silverado EV SRT har et firehjulstræk, der understøttes af to motore
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 176 mm, og maksimum er 278 mm. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
-
 
 ### Regenerativ bremsning
 
@@ -77,6 +72,7 @@ Chevrolet Silverado EV SRT fås i alt 1 lakfarver, herunder flere iøjnefaldende
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Chevrolet Silverado EV SRT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/70 dæk on 18" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
@@ -88,9 +84,7 @@ Der er kun ét tag til denne model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -108,12 +102,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -122,7 +114,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
-
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
@@ -130,7 +121,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -146,11 +136,9 @@ Chevrolet Silverado EV SRT inkluderer flere funktioner, der forbedrer komfort og
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Chevrolet Silverado EV SRT har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -176,7 +164,6 @@ Yderligere understøtter Chevrolet Silverado EV SRT Android Auto og Apple CarPla
 Én type lydsystem er tilgængelig for Chevrolet Silverado EV SRT.
 
 - Med Chevrolet Sound System får du seks højttalere med en maksimal systemeffekt på 200 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -205,6 +192,7 @@ Den Chevrolet Silverado EV SRT inkluderer flere standard- og valgfri [avancerede
 Chevrolet Silverado EV SRT tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

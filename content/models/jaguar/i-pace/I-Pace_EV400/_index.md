@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Jaguar I-Pace EV400 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -74,6 +71,7 @@ The Jaguar I-Pace EV400, with dimensions of 4682 mm in length, 2011 mm in width,
 
 You can select from multiple wheel options in different sizes on the Jaguar I-Pace EV400, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/65 tires on 18" rims
 - 245/55 tires on 19" rims
 - 245/50 tires on 20" rims
@@ -92,9 +90,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -113,14 +109,13 @@ The following functionalities are available on the **Performance** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
 You can choose from 6 different materials/colors for this seat type.
+
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 The following functionalities are available on the **Sport** seat.
 
@@ -135,6 +130,7 @@ The following functionalities are available on the **Sport** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
+
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -150,13 +146,11 @@ You can choose two seat types for the second row in the Jaguar I-Pace EV400.
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
-
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
 
@@ -176,11 +170,9 @@ The Jaguar I-Pace EV400 includes several features to enhance comfort and conveni
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Jaguar I-Pace EV400 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -209,7 +201,6 @@ You can choose between two sound systems on the Jaguar I-Pace EV400.
 - With the Meridian Sound System, you get 11 speakers with a max system output of 400 watts.
 - With the Meridian 3D Surround, you get 16 speakers with a max system output of 750 watts.
 
-
 ## Lights
 
 You can choose between two types of headlights for the Jaguar I-Pace EV400.
@@ -236,6 +227,7 @@ The Jaguar I-Pace EV400 includes several standard and optional [advanced driver 
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 
 
 {{<evkxdisplayaddarticle />}}

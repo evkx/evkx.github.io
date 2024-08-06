@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/main_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -59,7 +57,6 @@ This model supports V2L (Vehicle 2 Load), which means you can power electrical e
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Cybertruck AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -97,6 +94,7 @@ The Tesla Cybertruck AWD is available in a total of 3 solid paint colors.
 
 You can select from multiple wheel designs, all available in the same size, on the Tesla Cybertruck AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 285/65 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
@@ -110,9 +108,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -136,8 +132,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -149,7 +143,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -166,11 +159,9 @@ The Tesla Cybertruck AWD includes several features to enhance comfort and conven
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Tesla Cybertruck AWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -191,7 +182,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Cybertruck AWD.
 
 - With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts.
-
 
 The model has 3 USB-C connections as standard.
 
@@ -230,15 +220,18 @@ The Tesla Cybertruck AWD includes several standard and optional [advanced driver
 The Tesla Cybertruck AWD offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 

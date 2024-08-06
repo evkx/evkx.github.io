@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/main_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Volvo EC40 Single Motor ER en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volvo EC40 Single Motor ER dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
@@ -75,6 +72,7 @@ La Volvo EC40 Single Motor ER, avec des dimensions de 4440 mm de longueur, 1873 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EC40 Single Motor ER, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/50 sur jantes de 19"
 - Pneus 235/45 sur jantes de 20"
 
@@ -89,9 +87,7 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -113,14 +109,11 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -129,7 +122,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -144,11 +136,9 @@ L'Volvo EC40 Single Motor ER comprend plusieurs fonctionnalités pour améliorer
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Volvo EC40 Single Motor ER possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -167,7 +157,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Volvo EC40 Single Motor ER
 
 - Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
 - Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 600 watts.
-
 
 Le modèle dispose de 1 connexions USB-C en standard.
 
@@ -203,6 +192,7 @@ Le Volvo EC40 Single Motor ER comprend plusieurs [systèmes avancés d'assistanc
 ### Automatisation de la Conduite
 
 Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

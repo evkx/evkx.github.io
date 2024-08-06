@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/main_1_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 Nous avons séparé notre article Fisker Ocean Sport en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Fisker Ocean Sport dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
@@ -75,6 +72,7 @@ La Fisker Ocean Sport, avec des dimensions de 4774 mm de longueur, 1982 mm de la
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Fisker Ocean Sport, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/50 sur jantes de 20"
 - Pneus 255/45 sur jantes de 22"
 
@@ -88,7 +86,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -110,6 +107,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
@@ -119,10 +117,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -131,7 +126,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -147,11 +141,9 @@ L'Fisker Ocean Sport comprend plusieurs fonctionnalités pour améliorer le conf
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Fisker Ocean Sport possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -173,7 +165,6 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 Un type de système audio est disponible pour le Fisker Ocean Sport.
 
 - Avec le Fisker Hypersound 3D, vous obtenez 16 haut-parleurs avec une puissance système maximale de 500 watts.
-
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -210,6 +201,7 @@ Le Fisker Ocean Sport comprend plusieurs [systèmes avancés d'assistance au con
 ### Automatisation de la Conduite
 
 Avec le système Fisker Intelligent Pilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

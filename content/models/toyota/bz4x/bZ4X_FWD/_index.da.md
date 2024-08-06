@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/main_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="2002"  >}}
 
 Vi har opdelt vores Toyota bZ4X FWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -61,8 +58,6 @@ Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på foraksl
 
 ### Bremser
 
-
-
 ### Regenerativ bremsning
 
 
@@ -71,7 +66,6 @@ Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på foraksl
 Den Toyota bZ4X FWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Toyota bZ4X FWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
-
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -84,12 +78,9 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -105,17 +96,13 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -124,7 +111,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -137,22 +123,18 @@ Toyota bZ4X FWD inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Toyota bZ4X FWD.
 
 Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
 
-
 Vigtige skærmdetaljer:
 
 - Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor
 - Skærmen touch øverst på midterkonsollen er 8,9 tommer stor
 
-
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -179,7 +161,6 @@ Du kan vælge mellem to lydsystemer på Toyota bZ4X FWD.
 
 - Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt.
 - Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -211,6 +192,7 @@ Den Toyota bZ4X FWD inkluderer flere standard- og valgfri [avancerede førerassi
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

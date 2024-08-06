@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/main_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1486"  >}}
 
 Nous avons séparé notre article HiPhi Z 5 Seater en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 HiPhi Z 5 Seater dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -78,6 +75,7 @@ La HiPhi Z 5 Seater, avec des dimensions de 5036 mm de longueur, 2018 mm de larg
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'HiPhi Z 5 Seater, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/45 sur jantes de 22" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
 
 La voiture a deux [portes normales](../../../../technology/doors/) à l'avant, [portes suicide](../../../../technology/doors/) sur la deuxième rangée, et un [bootlid](../../../../technology/doors/#bootlid) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
@@ -91,9 +89,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -115,14 +111,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - White [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Siège de deuxième rangée
-
-
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -135,7 +130,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -152,11 +146,9 @@ L'HiPhi Z 5 Seater comprend plusieurs fonctionnalités pour améliorer le confor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le HiPhi Z 5 Seater a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
-
 
 Détails clés de l'écran :
 
@@ -165,7 +157,6 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
-
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -176,7 +167,6 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 Un type de système audio est disponible pour le HiPhi Z 5 Seater.
 
 - Avec le SONIC PRO SYSTEM, vous obtenez 23 haut-parleurs avec une puissance système maximale de 600 watts.
-
 
 Le modèle dispose de 1 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires. Le modèle dispose de 1 connexions USB-A en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 
@@ -213,6 +203,7 @@ Le HiPhi Z 5 Seater comprend plusieurs [systèmes avancés d'assistance au condu
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).

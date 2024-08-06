@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695"  >}}
 
 Vi har delt vår beskrivelse av Dacia Spring 65HP i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Dacia Spring 65HP har et forhjulsdriftssystem støttet av én motor på forakselen.
@@ -61,8 +58,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Bremser
 
-
-
 ### Regenerativ bremsing
 
 [Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her.
@@ -72,6 +67,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 Dacia Spring 65HP, med dimensjoner på 3701 mm i lengde, 1622 mm i bredde og 1519 mm i høyde, tilhører mini-segmentet av biler, også kjent som bybiler eller A-segmentbiler. Dette er den minste klassen av biler, designet primært for urbane miljøer, og de tilbyr en kompakt størrelse, utmerket manøvrerbarhet og økonomisk drift. Dacia Spring 65HP er tilgjengelig i totalt 6 ensfargede lakkfarger.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Dacia Spring 65HP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 - 165/70 dekk på 14" felger
 - 175/60 dekk på 15" felger
@@ -87,9 +83,7 @@ Det er bare ett tak for denne modellen.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -101,24 +95,21 @@ Dacia Spring 65HP Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
 
-
-
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -127,7 +118,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -139,10 +129,7 @@ Dacia Spring 65HP inkluderer flere funksjoner for å forbedre komfort og bekvemm
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -169,7 +156,6 @@ I tillegg støtter Dacia Spring 65HP Android Auto og Apple CarPlay. Denne funksj
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-
 Modellen har 2 USB-C-tilkoblinger som standard.
 
 ## Lys
@@ -195,6 +181,7 @@ Dacia Spring 65HP inkluderer flere [avanserte førerassistanse systemer](../../.
 ### Kjøreautomatisering
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 
 
 {{<evkxdisplayaddarticle />}}

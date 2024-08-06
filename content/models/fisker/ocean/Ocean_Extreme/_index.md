@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/main_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Fisker Ocean Extreme features an all-wheel drive system powered by two motors, one on each axle.
@@ -86,6 +83,7 @@ The Fisker Ocean Extreme, with dimensions of 4774 mm in length, 1982 mm in width
 
 You can select from multiple wheel options in different sizes on the Fisker Ocean Extreme, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
@@ -99,7 +97,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -121,6 +118,7 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -129,8 +127,6 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -143,7 +139,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -159,11 +154,9 @@ The Fisker Ocean Extreme includes several features to enhance comfort and conven
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Fisker Ocean Extreme has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -185,7 +178,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Fisker Ocean Extreme.
 
 - With the Fisker Hypersound 3D, you get 16 speakers with a max system output of 500 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -222,6 +214,7 @@ The Fisker Ocean Extreme includes several standard and optional [advanced driver
 ### Driving Automation
 
 With the Fisker Intelligent Pilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

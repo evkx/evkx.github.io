@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/voyah/free/free/main_1_st.jpg" title="VOYAH FREE" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo VOYAH FREE en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 VOYAH FREE tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -73,6 +70,7 @@ El VOYAH FREE, con dimensiones de 4905 mm de longitud, 1950 mm de anchura y 1645
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el VOYAH FREE, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 255/45 en llantas de 20
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
@@ -86,9 +84,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -108,26 +104,21 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -140,11 +131,9 @@ El VOYAH FREE incluye varias características para mejorar la comodidad y conven
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El VOYAH FREE tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +156,6 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 Un tipo de sistema de sonido está disponible para el VOYAH FREE.
 
 - Con el DYNAUDIO HIFI Sound system, obtienes NULL parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
 
@@ -192,6 +180,7 @@ El VOYAH FREE incluye varios [sistemas avanzados de asistencia al conductor](../
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

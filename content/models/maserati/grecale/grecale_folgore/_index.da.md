@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/main_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2248"  >}}
 
 Vi har opdelt vores Maserati Grecale Folgore artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Maserati Grecale Folgore har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
@@ -86,6 +83,7 @@ Den Maserati Grecale Folgore, med dimensioner på 4865 mm i længde, 1948 mm i b
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Maserati Grecale Folgore, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 255/50 dæk on 19" fælge
 - 255/45 dæk på 20" fælge foran og 295/40 dæk på 20" fælge bagpå
 - 255/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
@@ -103,12 +101,9 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -125,10 +120,7 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -137,7 +129,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
@@ -145,7 +136,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -161,11 +151,9 @@ Maserati Grecale Folgore inkluderer flere funktioner, der forbedrer komfort og b
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Maserati Grecale Folgore har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -193,7 +181,6 @@ Du kan vælge mellem to lydsystemer på Maserati Grecale Folgore.
 
 - Med Sonus Faber Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 860 watt.
 - Med Sonus Faber High Premium Sound System får du 21 højttalere med en maksimal systemeffekt på 1285 watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -232,6 +219,7 @@ Den Maserati Grecale Folgore inkluderer flere standard- og valgfri [avancerede f
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

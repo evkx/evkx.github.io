@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/main_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="3000" height="1542"  >}}
 
 Vi har opdelt vores Aion Hyper GT 710 Supercharged artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -42,13 +40,11 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### Ombordlader
 
-
 ### Ladeport
 
 Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -71,13 +67,12 @@ Den Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i længde, 1885 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Aion Hyper GT 710 Supercharged, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/55 dæk on 17" fælge
 - 235/50 dæk on 18" fælge
 - 235/45 dæk on 19" fælge
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
-
-
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
@@ -86,9 +81,7 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -107,22 +100,20 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 -  [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Sæde på anden række
 
-
-
 Følgende funktioner er tilgængelige på **** sædet.
 
-
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 -  [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -131,7 +122,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -146,10 +136,7 @@ Aion Hyper GT 710 Supercharged inkluderer flere funktioner, der forbedrer komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +154,6 @@ Modellen har ikke et head-up display.
 Én type lydsystem er tilgængelig for Aion Hyper GT 710 Supercharged.
 
 - Med  får du 23 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-forbindelser som standard.
 
@@ -196,6 +182,7 @@ Den Aion Hyper GT 710 Supercharged inkluderer flere standard- og valgfri [avance
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

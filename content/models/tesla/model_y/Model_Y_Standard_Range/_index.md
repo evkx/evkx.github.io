@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/main_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -84,7 +82,6 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Model Y Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -113,6 +110,7 @@ The Tesla Model Y Standard Range, with dimensions of 4751 mm in length, 1921 mm 
 
 You can select from multiple wheel options in different sizes on the Tesla Model Y Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 19" rims
 - 255/40 tires on 20" rims
 - 255/35 tires on 21" rims front and 275/35 tires on 21" rims rear
@@ -130,9 +128,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -155,20 +151,15 @@ You can choose from 2 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 #### Third-row seats
 
-
-
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -177,7 +168,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -194,11 +184,9 @@ The Tesla Model Y Standard Range includes several features to enhance comfort an
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Tesla Model Y Standard Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -219,7 +207,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model Y Standard Range.
 
 - With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -256,15 +243,18 @@ The Tesla Model Y Standard Range includes several standard and optional [advance
 The Tesla Model Y Standard Range offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 

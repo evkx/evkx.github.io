@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
 Hemos separado nuestro artículo MG Cyberster AWD Long Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 MG Cyberster AWD Long Range tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -73,6 +70,7 @@ El MG Cyberster AWD Long Range está disponible en un total de 7 colores de pint
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MG Cyberster AWD Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 245/45 en llantas de 19" delanteras y neumáticos 275/40 en llantas de 19" traseras
 
 El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera.
@@ -84,13 +82,11 @@ Sólo hay un techo para este modelo. El techo estándar es una capota blanda que
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -101,11 +97,11 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - ajuste eléctrico
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -114,7 +110,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
-
 
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
@@ -128,11 +123,9 @@ El MG Cyberster AWD Long Range incluye varias características para mejorar la c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -144,7 +137,6 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -163,7 +155,6 @@ Además, el MG Cyberster AWD Long Range es compatible con Android Auto y Apple C
 Un tipo de sistema de sonido está disponible para el MG Cyberster AWD Long Range.
 
 - Con el Bose Sound System, obtienes seis parlantes con una salida máxima del sistema de 300 vatios.
-
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -186,6 +177,7 @@ El MG Cyberster AWD Long Range incluye varios [sistemas avanzados de asistencia 
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

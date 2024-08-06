@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/main_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1688"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG Cyberster AWD Long Range features an all-wheel drive system powered by two motors, one on each axle.
@@ -73,6 +70,7 @@ The MG Cyberster AWD Long Range is available in a total of 7 paint colors, inclu
 
 You can select from multiple wheel designs, all available in the same size, on the MG Cyberster AWD Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
 
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
@@ -84,13 +82,11 @@ There is only one roof for this model. The standard roof is a soft top that can 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -101,11 +97,11 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -114,7 +110,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -128,11 +123,9 @@ The MG Cyberster AWD Long Range includes several features to enhance comfort and
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -144,7 +137,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -163,7 +155,6 @@ Furthermore, the MG Cyberster AWD Long Range supports Android Auto and Apple Car
 One type of sound system is available for the MG Cyberster AWD Long Range.
 
 - With the Bose Sound System, you get six speakers with a max system output of 300 watts.
-
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -186,6 +177,7 @@ The MG Cyberster AWD Long Range includes several standard and optional [advanced
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

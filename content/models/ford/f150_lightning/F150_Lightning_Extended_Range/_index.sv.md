@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
 Vi har delat in vår beskrivning av Ford F150 Lightning Extended Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -53,7 +51,6 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Ford F150 Lightning Extended Range har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -64,8 +61,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
@@ -75,6 +70,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 Ford F150 Lightning Extended Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Ford F150 Lightning Extended Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 265/70 tires on 18" rims
 - 275/60 tires on 20" rims
@@ -90,7 +86,6 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -112,6 +107,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -121,17 +117,13 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-
 
 ## Komfortfunktioner
 
@@ -140,7 +132,6 @@ Ford F150 Lightning Extended Range inkluderar flera funktioner för att förbät
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Användargränssnitt och kontroll
 
@@ -152,7 +143,6 @@ Viktiga skärmdetaljer:
 
 - Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum
 - Skärmen  i mitten av instrumentbrädan är 12,0 tum
-
 
 Den valfria -layouten har följande konfiguration.
 
@@ -182,7 +172,6 @@ Du kan välja mellan tre ljudsystem på Ford F150 Lightning Extended Range.
 - Med Ford får du fyra högtalare med en maximal systemeffekt på 80 watt.
 - Med B&O Sound System får du åtta högtalare med en maximal systemeffekt på 640 watt.
 - Med B&O Unleashed Sound System får du 18 högtalare med en maximal systemeffekt på 1080 watt.
-
 
 ## Ljus
 
@@ -215,13 +204,16 @@ Ford F150 Lightning Extended Range inkluderar flera [avancerade förarassistanss
 Ford F150 Lightning Extended Range erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 
 Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/main_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1999"  >}}
 
 Vi har delat in vår beskrivning av Hyundai Kona Standard Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Hyundai Kona Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
@@ -63,8 +60,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
@@ -74,6 +69,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 Hyundai Kona Standard Range, med dimensioner på 4355 mm i längd, 1825 mm i bredd och 1575 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Hyundai Kona Standard Range erbjuder ett urval av 21 lackfärger, inklusive enfärgade, metalliska, pärlemors- och matta alternativ
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai Kona Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 215/60 tires on 17" rims
 - 235/45 tires on 19" rims
@@ -91,13 +87,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -113,6 +107,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
@@ -120,17 +115,13 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Green [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -139,7 +130,6 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -154,11 +144,9 @@ Hyundai Kona Standard Range inkluderar flera funktioner för att förbättra kom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Hyundai Kona Standard Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -184,7 +172,6 @@ Dessutom stöder Hyundai Kona Standard Range Android Auto och Apple CarPlay. Den
 En typ av ljudsystem är tillgänglig för Hyundai Kona Standard Range.
 
 - Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -223,6 +210,7 @@ Hyundai Kona Standard Range inkluderar flera [avancerade förarassistanssystem](
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

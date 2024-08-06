@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/main_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1757"  >}}
 
 Vi har delat in vår beskrivning av Fiat Grande Panda i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Fiat Grande Panda har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
@@ -81,6 +78,7 @@ Fiat Grande Panda finns i totalt 5 lackfärger, inklusive både solida och metal
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Fiat Grande Panda, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 205/55 tires on 16" rims
 - 205/50 tires on 17" rims
 
@@ -97,9 +95,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -111,24 +107,21 @@ För första raden erbjuder Fiat Grande Panda två olika sätestyper att välja 
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 
-
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-
-
 
 Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 - höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 - Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -142,7 +135,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 
-
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Komfortfunktioner
@@ -154,11 +146,9 @@ Fiat Grande Panda inkluderar flera funktioner för att förbättra komfort och b
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Fiat Grande Panda har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -168,7 +158,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -188,7 +177,6 @@ Du kan välja mellan två ljudsystem på Fiat Grande Panda.
 
 - Med  får du två högtalare med en maximal systemeffekt på  watt.
 - Med Max Sound system får du två högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -215,6 +203,7 @@ Fiat Grande Panda inkluderar flera [avancerade förarassistanssystem](../../../.
 ### Körautomatisering
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
+
 - Farthållare.
 
 ### Sensorer & Kameror

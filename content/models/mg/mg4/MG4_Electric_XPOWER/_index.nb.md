@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/main_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2172"  >}}
 
 Vi har delt vår beskrivelse av MG MG4 Electric XPOWER i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 MG MG4 Electric XPOWER har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -75,9 +72,6 @@ MG MG4 Electric XPOWER, med dimensjoner på 4287 mm i lengde, 1836 mm i bredde o
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MG MG4 Electric XPOWER, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-
-
-
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/exterior_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="1687"  >}}
@@ -85,13 +79,11 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 #### Forseter
 
@@ -102,6 +94,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - elektrisk justering
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
@@ -109,12 +102,9 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/secondrowseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -123,7 +113,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -137,10 +126,7 @@ MG MG4 Electric XPOWER inkluderer flere funksjoner for å forbedre komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -150,7 +136,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/screens_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -169,7 +154,6 @@ I tillegg støtter MG MG4 Electric XPOWER Android Auto og Apple CarPlay. Denne f
 Én type lydsystem er tilgjengelig for MG MG4 Electric XPOWER.
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -190,6 +174,7 @@ MG MG4 Electric XPOWER inkluderer flere [avanserte førerassistanse systemer](..
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

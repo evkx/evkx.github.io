@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/main_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Renault 5 E-Tech 52kWh 150hp has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
@@ -79,6 +76,7 @@ The Renault 5 E-Tech 52kWh 150hp, with dimensions of 3920 mm in length, 1770 mm 
 
 You can select from multiple wheel designs, all available in the same size, on the Renault 5 E-Tech 52kWh 150hp, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 195/55 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -90,9 +88,7 @@ There is only one roof for this model. The standard is just a regular roof.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -108,16 +104,14 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
@@ -126,7 +120,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -142,11 +135,9 @@ The Renault 5 E-Tech 52kWh 150hp includes several features to enhance comfort an
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Renault 5 E-Tech 52kWh 150hp has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -173,7 +164,6 @@ You can choose between two sound systems on the Renault 5 E-Tech 52kWh 150hp.
 
 - With the DAB Audiosystem, you get six speakers with a max system output of  watts.
 - With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -211,6 +201,7 @@ The Renault 5 E-Tech 52kWh 150hp includes several standard and optional [advance
 ### Driving Automation
 
 With the ProPILOT  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

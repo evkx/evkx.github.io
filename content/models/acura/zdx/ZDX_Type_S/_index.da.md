@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/main_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1758"  >}}
 
 Vi har opdelt vores Acura ZDX Type S artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Acura ZDX Type S har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Den Acura ZDX Type S, med dimensioner på 5022 mm i længde, 1956 mm i bredde og
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Acura ZDX Type S, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 275/40 dæk on 22" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -84,12 +82,9 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -106,6 +101,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
@@ -113,10 +109,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 Der er kun én type rat tilgængelig.
 
@@ -125,7 +118,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -139,11 +131,9 @@ Acura ZDX Type S inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Acura ZDX Type S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -153,7 +143,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -172,7 +161,6 @@ Yderligere understøtter Acura ZDX Type S Android Auto og Apple CarPlay. Denne f
 Én type lydsystem er tilgængelig for Acura ZDX Type S.
 
 - Med Bang & Olufsen sound system får du 18 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 5 USB-C-forbindelser som standard.
 
@@ -203,6 +191,7 @@ Den Acura ZDX Type S inkluderer flere standard- og valgfri [avancerede førerass
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/main_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo EX90 Twin Motor Performance features an all-wheel drive system powered by two motors, one on each axle.
@@ -73,6 +70,7 @@ The Volvo EX90 Twin Motor Performance, with dimensions of 5037 mm in length, 196
 
 You can select from multiple wheel options in different sizes on the Volvo EX90 Twin Motor Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/45 tires on 21" rims front and 295/45 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
@@ -88,7 +86,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -112,6 +109,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - White [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -121,8 +119,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -130,8 +126,6 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Third-row seats
-
-
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
@@ -142,7 +136,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -158,11 +151,9 @@ The Volvo EX90 Twin Motor Performance includes several features to enhance comfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Volvo EX90 Twin Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -181,7 +172,6 @@ You can choose between two sound systems on the Volvo EX90 Twin Motor Performanc
 
 - With the High Performance, you get eight speakers with a max system output of 200 watts.
 - With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -217,6 +207,7 @@ The Volvo EX90 Twin Motor Performance includes several standard and optional [ad
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

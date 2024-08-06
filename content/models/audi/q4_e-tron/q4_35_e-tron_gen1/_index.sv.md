@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/main_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="1998"  >}}
 
 Vi har delat in vår beskrivning av Audi Q4 35 e-tron (GEN1) i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -53,7 +51,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Audi Q4 35 e-tron (GEN1) har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -86,6 +83,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q4 35 e-tron (GEN1), vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
 - 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
 - 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
@@ -103,9 +101,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -123,8 +119,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **sport** sätet.
 
@@ -144,11 +138,9 @@ Du kan välja två sätestyper för den andra raden i Audi Q4 35 e-tron (GEN1).
 
 Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/secondrowseats_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -158,7 +150,6 @@ Två klimatsystemalternativ är tillgängliga:
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -174,11 +165,9 @@ Audi Q4 35 e-tron (GEN1) inkluderar flera funktioner för att förbättra komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Audi Q4 35 e-tron (GEN1) har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -205,7 +194,6 @@ Du kan välja mellan två ljudsystem på Audi Q4 35 e-tron (GEN1).
 
 - Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt.
 - Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -254,10 +242,12 @@ Audi Q4 35 e-tron (GEN1) inkluderar flera [avancerade förarassistanssystem](../
 Audi Q4 35 e-tron (GEN1) erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/main_1_st.jpg" title="HiPhi Y Performance" width="1572" height="1011"  >}}
 
 Vi har opdelt vores HiPhi Y Performance artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 HiPhi Y Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -76,6 +73,7 @@ Den HiPhi Y Performance, med dimensioner på 4938 mm i længde, 1958 mm i bredde
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi Y Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 275/40 dæk on 21" fælge
 
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, en unik kombination af almindelige døre med mågevingetag på anden række, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) i bagenden. Elektriske døre er en standard funktion for sidedørene.
@@ -89,9 +87,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -115,13 +111,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -135,7 +129,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -152,11 +145,9 @@ HiPhi Y Performance inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 HiPhi Y Performance har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
-
 
 Vigtige skærmdetaljer:
 
@@ -167,7 +158,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -183,7 +173,6 @@ Du kan vælge mellem to lydsystemer på HiPhi Y Performance.
 
 - Med SONIC LINE SYSTEM får du 14 højttalere med en maksimal systemeffekt på 600 watt.
 - Med SONIC PRO SYSTEM får du 25 højttalere med en maksimal systemeffekt på 2820 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -220,6 +209,7 @@ Den HiPhi Y Performance inkluderer flere standard- og valgfri [avancerede fører
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).

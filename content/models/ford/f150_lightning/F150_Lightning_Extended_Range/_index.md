@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -53,7 +51,6 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Ford F150 Lightning Extended Range features an all-wheel drive system powered by two motors, one on each axle.
@@ -64,8 +61,6 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
@@ -75,6 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 The Ford F150 Lightning Extended Range is available in a total of 6 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Ford F150 Lightning Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 265/70 tires on 18" rims
 - 275/60 tires on 20" rims
@@ -90,7 +86,6 @@ There is only one roof for this model. As an option, you can order this model wi
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -112,6 +107,7 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -121,17 +117,13 @@ You can choose from 4 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
 
 ## Comfort features
 
@@ -140,7 +132,6 @@ The Ford F150 Lightning Extended Range includes several features to enhance comf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## User interface and control
 
@@ -152,7 +143,6 @@ Key screen details:
 
 - The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
 - The  screen on the dashboard's center is 12.0 inches large
-
 
 The optional  layout has the following configuration.
 
@@ -182,7 +172,6 @@ You can choose between three sound systems on the Ford F150 Lightning Extended R
 - With the Ford, you get four speakers with a max system output of 80 watts.
 - With the B&O Sound System, you get eight speakers with a max system output of 640 watts.
 - With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts.
-
 
 ## Lights
 
@@ -215,13 +204,16 @@ The Ford F150 Lightning Extended Range includes several standard and optional [a
 The Ford F150 Lightning Extended Range offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Ford Co-Pilot360™ 2.0  level 1 system, you get the following driving automation features.
+
 - Cruise control.
 
 With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

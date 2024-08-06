@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orceplus/main_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE+" width="3000" height="1889"  >}}
 
 Hemos separado nuestro artículo Nissan Ariya 87kWh e-4ORCE+ en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Nissan Ariya 87kWh e-4ORCE+ tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
@@ -77,6 +74,7 @@ El Nissan Ariya 87kWh e-4ORCE+, con dimensiones de 4595 mm de longitud, 1850 mm 
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nissan Ariya 87kWh e-4ORCE+, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/55 en llantas de 19
 - Neumáticos 255/45 en llantas de 20
 
@@ -92,7 +90,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -116,15 +113,13 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
@@ -137,7 +132,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -153,11 +147,9 @@ El Nissan Ariya 87kWh e-4ORCE+ incluye varias características para mejorar la c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Nissan Ariya 87kWh e-4ORCE+ tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +159,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orceplus/screens_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE+" width="3000" height="1999"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -187,7 +178,6 @@ Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 87kWh e-4ORCE+.
 
 - Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
 - Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
-
 
 ## Luces
 
@@ -221,6 +211,7 @@ El Nissan Ariya 87kWh e-4ORCE+ incluye varios [sistemas avanzados de asistencia 
 ### Automatización de la Conducción
 
 Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)

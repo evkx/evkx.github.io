@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695"  >}}
 
 Hemos separado nuestro artículo Dacia Spring 65HP en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Dacia Spring 65HP tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
@@ -61,8 +58,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 [La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí.
@@ -72,6 +67,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 El Dacia Spring 65HP, con dimensiones de 3701 mm de longitud, 1622 mm de anchura y 1519 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. El Dacia Spring 65HP está disponible en un total de 6 colores de pintura sólidos.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Dacia Spring 65HP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 165/70 en llantas de 14
 - Neumáticos 175/60 en llantas de 15
@@ -87,9 +83,7 @@ Sólo hay un techo para este modelo.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -101,24 +95,21 @@ El Dacia Spring 65HP ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
 
-
-
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
-
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -127,7 +118,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
-
 
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
@@ -139,10 +129,7 @@ El Dacia Spring 65HP incluye varias características para mejorar la comodidad y
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -169,7 +156,6 @@ Un tipo de sistema de sonido está disponible para el Dacia Spring 65HP.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
-
 El modelo tiene 2 conexiones USB-C de serie.
 
 ## Luces
@@ -195,6 +181,7 @@ El Dacia Spring 65HP incluye varios [sistemas avanzados de asistencia al conduct
 ### Automatización de la Conducción
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
 
 
 {{<evkxdisplayaddarticle />}}

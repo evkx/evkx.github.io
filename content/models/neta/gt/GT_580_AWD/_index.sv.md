@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/main_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="1484"  >}}
 
 Vi har delat in vår beskrivning av Neta GT 580 AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Neta GT 580 AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Neta GT 580 AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på v
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
-
-
 
 ### Regenerativ bromsning
 
@@ -73,9 +68,8 @@ Neta GT 580 AWD, med dimensioner på 4715 mm i längd, 1979 mm i bredd och 1415 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Neta GT 580 AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 245/45 tires on 19" rims
-
-
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
@@ -84,9 +78,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -109,21 +101,15 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Följande funktioner är tillgängliga på **** sätet.
 
-
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
-
 
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-
 
 ## Komfortfunktioner
 
@@ -136,11 +122,9 @@ Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Neta GT 580 AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -151,7 +135,6 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 
-
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
@@ -161,7 +144,6 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 En typ av ljudsystem är tillgänglig för Neta GT 580 AWD.
 
 - Med Neta Sky sound får du 12 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -198,6 +180,7 @@ Neta GT 580 AWD inkluderar flera [avancerade förarassistanssystem](../../../../
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 

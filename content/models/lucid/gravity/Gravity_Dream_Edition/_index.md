@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/main_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2007"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lucid Gravity Dream Edition features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm i
 
 You can select from multiple wheel options in different sizes on the Lucid Gravity Dream Edition, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 20" rims
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 285/40 tires on 22" rims rear
@@ -94,7 +92,6 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -121,6 +118,7 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 4 different materials/colors for this seat type.
+
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -130,8 +128,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -139,8 +135,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Third-row seats
-
-
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
@@ -151,7 +145,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -167,10 +160,7 @@ The Lucid Gravity Dream Edition includes several features to enhance comfort and
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -192,7 +182,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Lucid Gravity Dream Edition.
 
 - With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -225,6 +214,7 @@ The Lucid Gravity Dream Edition includes several standard and optional [advanced
 ### Driving Automation
 
 With the ADAS  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

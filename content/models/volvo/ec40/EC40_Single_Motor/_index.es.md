@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/main_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Volvo EC40 Single Motor en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Volvo EC40 Single Motor tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
@@ -75,6 +72,7 @@ El Volvo EC40 Single Motor, con dimensiones de 4440 mm de longitud, 1873 mm de a
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volvo EC40 Single Motor, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 235/50 en llantas de 19
 - Neumáticos 235/45 en llantas de 20
 
@@ -89,9 +87,7 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -113,14 +109,11 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
-
 
 Sólo hay un tipo de volante disponible.
 
@@ -129,7 +122,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -144,11 +136,9 @@ El Volvo EC40 Single Motor incluye varias características para mejorar la comod
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Volvo EC40 Single Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -167,7 +157,6 @@ Puedes elegir entre dos sistemas de sonido en el Volvo EC40 Single Motor.
 
 - Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
 - Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 600 vatios.
-
 
 El modelo tiene 1 conexiones USB-C de serie.
 
@@ -203,6 +192,7 @@ El Volvo EC40 Single Motor incluye varios [sistemas avanzados de asistencia al c
 ### Automatización de la Conducción
 
 Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 

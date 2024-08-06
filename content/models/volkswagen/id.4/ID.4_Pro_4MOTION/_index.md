@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/main_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2039"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volkswagen ID.4 Pro 4MOTION features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
@@ -79,6 +76,7 @@ The Volkswagen ID.4 Pro 4MOTION, with dimensions of 4582 mm in length, 1865 mm i
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.4 Pro 4MOTION, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
@@ -96,9 +94,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -120,8 +116,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **ergoActive Top-Sport** seat.
 
 - electric adjustment (optional)
@@ -133,13 +127,9 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 There is only one type of steering wheel available.
 
@@ -149,7 +139,6 @@ Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -164,22 +153,18 @@ The Volkswagen ID.4 Pro 4MOTION includes several features to enhance comfort and
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 Two different screen setups are available on the Volkswagen ID.4 Pro 4MOTION.
 
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
-
 Key screen details:
 
 - The  screen on the steering column is 5.0 inches large
 - The touch screen on the dashboard's center is 12.9 inches large
 
-
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -206,7 +191,6 @@ You can choose between two sound systems on the Volkswagen ID.4 Pro 4MOTION.
 
 - With the Sound system, you get six speakers with a max system output of 140 watts.
 - With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -248,9 +232,11 @@ The Volkswagen ID.4 Pro 4MOTION includes several standard and optional [advanced
 The Volkswagen ID.4 Pro 4MOTION offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 

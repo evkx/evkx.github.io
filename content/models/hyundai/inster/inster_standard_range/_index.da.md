@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/main_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Hyundai INSTER Standard Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Hyundai INSTER Standard Range har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Den Hyundai INSTER Standard Range, med dimensioner på 3825 mm i længde, 1610 m
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Hyundai INSTER Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 205/55 dæk on 15" fælge
 - 205/45 dæk on 17" fælge
 
@@ -88,7 +86,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -112,6 +109,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stofpolstring](../../../../technology/seats/materials/#fabric)
@@ -120,19 +118,17 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Følgende funktioner er tilgængelige på **** sædet.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
 
@@ -141,7 +137,6 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -156,10 +151,7 @@ Hyundai INSTER Standard Range inkluderer flere funktioner, der forbedrer komfort
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -185,7 +177,6 @@ Yderligere understøtter Hyundai INSTER Standard Range Android Auto og Apple Car
 Én type lydsystem er tilgængelig for Hyundai INSTER Standard Range.
 
 - Med Bose Premium Sound System får du syv højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -226,6 +217,7 @@ Den Hyundai INSTER Standard Range inkluderer flere standard- og valgfri [avancer
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).

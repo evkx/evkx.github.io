@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/main_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Porsche Taycan Turbo Sport Turismo (GEN1) i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -27,8 +25,6 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo Sport Turismo (GEN1) i seks
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
 ## Ytelse
-
-
 
 Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost leverer Porsche Taycan Turbo Sport Turismo (GEN1) en forbløffende maksimal effekt på 650 kW (884 hk). Selv uten overboost har den en formidabel effekt på 520 kW (707 hk). Maksimalt dreiemoment når utrolige 940 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,2 sekunder og oppnår en toppfart på 260 km/t, noe som understreker dens imponerende ytelse.
 
@@ -52,14 +48,11 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Porsche Taycan Turbo Sport Turismo (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
-
-
 
 Du kan bestille Porsche Taycan Turbo Sport Turismo (GEN1) med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 128 mm.
 
@@ -85,6 +78,7 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsche Taycan Turbo Sport Turismo (GEN1), slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 225/55 dekk på 19" felger foran og 275/45 dekk på 19" felger bak
 - 245/45 dekk på 20" felger foran og 285/40 dekk på 20" felger bak
 - 265/35 dekk på 21" felger foran og 305/30 dekk på 21" felger bak
@@ -100,9 +94,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -121,8 +113,6 @@ Følgende funksjoner er tilgjengelige på **Comfort** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
-
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 - elektrisk justering
@@ -132,8 +122,6 @@ Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
-
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
@@ -166,7 +154,6 @@ Alternativet second er to integrerte seter i andre rad med et tredje mindre sete
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
-
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
@@ -174,7 +161,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
@@ -188,11 +174,9 @@ Porsche Taycan Turbo Sport Turismo (GEN1) inkluderer flere funksjoner for å for
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan Turbo Sport Turismo (GEN1) har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
-
 
 Viktige skjermdetaljer:
 
@@ -222,7 +206,6 @@ Du kan velge mellom tre lydsystemer på Porsche Taycan Turbo Sport Turismo (GEN1
 - Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt.
 - Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
 
 ## Lys
 
@@ -263,10 +246,12 @@ Porsche Taycan Turbo Sport Turismo (GEN1) inkluderer flere [avanserte førerassi
 Porsche Taycan Turbo Sport Turismo (GEN1) tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
 
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
+
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 

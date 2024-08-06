@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="2002"  >}}
 
 Vi har delat in vår beskrivning av Toyota bZ4X AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Toyota bZ4X AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -61,8 +58,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 
@@ -71,7 +66,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1550 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Toyota bZ4X AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
-
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
@@ -84,12 +78,9 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
-
 ### Säten
-
 
 #### Framsäten
 
@@ -105,17 +96,13 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -124,7 +111,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -137,22 +123,18 @@ Toyota bZ4X AWD inkluderar flera funktioner för att förbättra komfort och bek
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Toyota bZ4X AWD.
 
 Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 
-
 Viktiga skärmdetaljer:
 
 - Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum
 - Skärmen touch översta mittkonsolen är 8,9 tum
 
-
 Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -179,7 +161,6 @@ Du kan välja mellan två ljudsystem på Toyota bZ4X AWD.
 
 - Med Toyota får du sex högtalare med en maximal systemeffekt på  watt.
 - Med JBL Premium Sound får du nio högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -211,6 +192,7 @@ Toyota bZ4X AWD inkluderar flera [avancerade förarassistanssystem](../../../../
 ### Körautomatisering
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

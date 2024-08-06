@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/main_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Lotus Eletre R i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Lotus Eletre R har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ Lotus Eletre R, med dimensjoner på 5105 mm i lengde,  mm i bredde og 1630 mm i 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lotus Eletre R, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/40 dekk på 22" felger foran og 315/35 dekk på 22" felger bak
 - 285/35 dekk på 23" felger foran og 325/30 dekk på 23" felger bak
 
@@ -94,7 +92,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -118,6 +115,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [lærpolstring](../../../../technology/seats/materials/#leatherette)
@@ -128,15 +126,12 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/secondrowseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1856"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -145,7 +140,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -160,10 +154,7 @@ Lotus Eletre R inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -173,7 +164,6 @@ Viktige skjermdetaljer:
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/screens_1_st.jpg" title="Lotus Eletre R" width="3000" height="1919"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -193,7 +183,6 @@ Du kan velge mellom to lydsystemer på Lotus Eletre R.
 
 - Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt.
 - Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt.
-
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
@@ -234,6 +223,7 @@ Lotus Eletre R inkluderer flere [avanserte førerassistanse systemer](../../../.
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

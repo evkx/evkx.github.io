@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/main_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1500"  >}}
 
 Vi har delat in vår beskrivning av Genesis Electrified GV70 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Genesis Electrified GV70 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ Genesis Electrified GV70 har ett fyrhjulsdriftsystem som stöds av två motorer,
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare.
 
 ### Bromsar
-
-
 
 ### Regenerativ bromsning
 
@@ -76,6 +71,7 @@ Den maximala regenerativa effekten är 150 kW.
 Genesis Electrified GV70, med dimensioner på 4715 mm i längd, 1910 mm i bredd och 1630 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Genesis Electrified GV70 finns i totalt 8 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Genesis Electrified GV70, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 265/50 tires on 19" rims
 - 265/45 tires on 20" rims
@@ -93,13 +89,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -117,6 +111,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Green [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
@@ -124,10 +119,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Green [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black/White [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -141,7 +133,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -153,10 +144,7 @@ Genesis Electrified GV70 inkluderar flera funktioner för att förbättra komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -183,7 +171,6 @@ Dessutom stöder Genesis Electrified GV70 Android Auto och Apple CarPlay. Denna 
 En typ av ljudsystem är tillgänglig för Genesis Electrified GV70.
 
 - Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-A-anslutningar som standard.
 
@@ -218,6 +205,7 @@ Genesis Electrified GV70 inkluderar flera [avancerade förarassistanssystem](../
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

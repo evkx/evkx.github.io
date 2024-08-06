@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/main_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Kia EV9 RWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,17 +48,13 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Kia EV9 RWD dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-
 ### Freins
-
-
 
 ### Freinage régénératif
 
@@ -73,6 +67,7 @@ La puissance régénérative maximale est de 150 kW.
 La Kia EV9 RWD, avec des dimensions de 5010 mm de longueur, 1980 mm de largeur et 1755 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Kia EV9 RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 - Pneus 235/55 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20"
@@ -91,13 +86,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 #### Sièges de première rangée
 
@@ -113,6 +106,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black/White [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -146,12 +140,9 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 
 #### Sièges de troisième rangée
 
-
-
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 RWD" width="1350" height="900"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
@@ -160,7 +151,6 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -175,7 +165,6 @@ L'Kia EV9 RWD comprend plusieurs fonctionnalités pour améliorer le confort et 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interface utilisateur et contrôle
 
@@ -207,7 +196,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Kia EV9 RWD.
 
 - Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
 - Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
-
 
 Le modèle dispose de 6 connexions USB-C en standard.
 
@@ -244,6 +232,7 @@ Le Kia EV9 RWD comprend plusieurs [systèmes avancés d'assistance au conducteur
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

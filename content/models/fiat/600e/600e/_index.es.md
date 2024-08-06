@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/main_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 Hemos separado nuestro artículo Fiat 600e en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Fiat 600e tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
@@ -61,8 +58,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
@@ -72,6 +67,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 El Fiat 600e, con dimensiones de 4171 mm de longitud, 1781 mm de anchura y 1523 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Fiat 600e está disponible en un total de 5 colores de pintura sólidos.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Fiat 600e, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 215/60 en llantas de 17
 - Neumáticos 215/55 en llantas de 18
@@ -88,7 +84,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -109,6 +104,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
@@ -118,18 +114,13 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -144,10 +135,7 @@ El Fiat 600e incluye varias características para mejorar la comodidad y conveni
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
-
-
 
 Detalles clave de la pantalla:
 
@@ -173,7 +161,6 @@ Además, el Fiat 600e es compatible con Android Auto y Apple CarPlay. Esta funci
 Un tipo de sistema de sonido está disponible para el Fiat 600e.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 3 conexiones USB-A de serie.
 
@@ -202,6 +189,7 @@ El Fiat 600e incluye varios [sistemas avanzados de asistencia al conductor](../.
 Fiat 600e ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
 Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

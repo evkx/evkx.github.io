@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/main_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo HiPhi X 6 Seater en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 HiPhi X 6 Seater tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ El HiPhi X 6 Seater, con dimensiones de 5200 mm de longitud,  mm de anchura y 16
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el HiPhi X 6 Seater, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 255/45 en llantas de 22
 
 El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente, una combinación única de puertas suicidas con un techo de ala de gaviota en el segunda fila y una [puerta levadiza](../../../../technology/doors/#liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
@@ -92,9 +90,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -116,13 +112,11 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Asiento de segunda fila
-
-
 
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
@@ -133,8 +127,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 #### Asientos de tercera fila
 
-
-
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
 Sólo hay un tipo de volante disponible.
@@ -144,7 +136,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
-
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -161,11 +152,9 @@ El HiPhi X 6 Seater incluye varias características para mejorar la comodidad y 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El HiPhi X 6 Seater tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
-
 
 Detalles clave de la pantalla:
 
@@ -176,7 +165,6 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
-
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
@@ -192,7 +180,6 @@ Puedes elegir entre dos sistemas de sonido en el HiPhi X 6 Seater.
 
 - Con el SONIC LINE SYSTEM, obtienes nueve parlantes con una salida máxima del sistema de 600 vatios.
 - Con el SONIC PRO SYSTEM, obtienes 17 parlantes con una salida máxima del sistema de 600 vatios.
-
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
 
@@ -229,6 +216,7 @@ El HiPhi X 6 Seater incluye varios [sistemas avanzados de asistencia al conducto
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

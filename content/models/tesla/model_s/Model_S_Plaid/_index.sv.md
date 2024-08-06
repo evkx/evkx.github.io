@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/main_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2250"  >}}
 
 Vi har delat in vår beskrivning av Tesla Model S Plaid i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Tesla Model S Plaid har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ Tesla Model S Plaid, med dimensioner på 5021 mm i längd, 1987 mm i bredd och 1
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model S Plaid, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
@@ -95,9 +93,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -118,15 +114,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/secondrowseats_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -135,7 +127,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -150,7 +141,6 @@ Tesla Model S Plaid inkluderar flera funktioner för att förbättra komfort och
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Användargränssnitt och kontroll
 
@@ -177,7 +167,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Tesla Model S Plaid.
 
 - Med Tesla Premium Sound får du 22 högtalare med en maximal systemeffekt på 560 watt.
-
 
 ## Ljus
 
@@ -212,15 +201,18 @@ Tesla Model S Plaid inkluderar flera [avancerade förarassistanssystem](../../..
 Tesla Model S Plaid erbjuder [körautomatisering på nivå 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med Basic Autopilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 Med Enhanced Autopilot  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - Avancerad farthållare som följer navigeringen och slår av och på vid större vägar för att nå målet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - Trafikljuskontroll - följer trafikljusen.
 - Stopp-skyltkontroll - följ stopp-skyltar.
 

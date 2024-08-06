@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/main_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Porsche Taycan GTS Sport Turismo en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -27,8 +25,6 @@ Nous avons séparé notre article Porsche Taycan GTS Sport Turismo en sections. 
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
 ## Performances
-
-
 
 Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec l'overboost, la Porsche Taycan GTS Sport Turismo atteint une puissance maximale de 440 kW (598 ch). Sans overboost, elle offre une puissance solide de 420 kW (571 ch). Le couple maximal est de 850 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,7 secondes et atteint une vitesse maximale de 250 km/h, démontrant ses performances impressionnantes.
 
@@ -52,14 +48,11 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Porsche Taycan GTS Sport Turismo dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
-
-
 
 Vous pouvez commander Porsche Taycan GTS Sport Turismo avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 127 mm.
 
@@ -85,6 +78,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Porsche Taycan GTS Sport Turismo, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 225/55 sur jantes de 19" à l'avant et pneus 275/45 sur jantes de 19" à l'arrière
 - Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
 - Pneus 265/35 sur jantes de 21" à l'avant et pneus 305/30 sur jantes de 21" à l'arrière
@@ -100,9 +94,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -121,8 +113,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
-
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
 
 - réglage électrique
@@ -132,8 +122,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats wit
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
@@ -166,7 +154,6 @@ L'option second consiste en deux sièges intégrés dans la deuxième rangée av
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
-
 Il n'y a qu'un seul type de volant disponible.
 
 ## Système de climatisation
@@ -174,7 +161,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
@@ -188,11 +174,9 @@ L'Porsche Taycan GTS Sport Turismo comprend plusieurs fonctionnalités pour amé
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Porsche Taycan GTS Sport Turismo possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
-
 
 Détails clés de l'écran :
 
@@ -222,7 +206,6 @@ Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan GTS Sport 
 - Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts.
 - Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts.
 - Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
-
 
 ## Lumières
 
@@ -261,10 +244,12 @@ Le Porsche Taycan GTS Sport Turismo comprend plusieurs [systèmes avancés d'ass
 Porsche Taycan GTS Sport Turismo offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
 Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 Avec le système Porsche InnoDrive  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
+
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
 

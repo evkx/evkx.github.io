@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/main_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Fisker Ocean Ultra i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Fisker Ocean Ultra har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
@@ -75,6 +72,7 @@ Fisker Ocean Ultra, med dimensioner på 4774 mm i längd, 1982 mm i bredd och 16
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Fisker Ocean Ultra, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
@@ -88,7 +86,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -109,6 +106,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Blue [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
@@ -118,10 +116,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -130,7 +125,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -146,11 +140,9 @@ Fisker Ocean Ultra inkluderar flera funktioner för att förbättra komfort och 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Fisker Ocean Ultra har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -172,7 +164,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Fisker Ocean Ultra.
 
 - Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -209,6 +200,7 @@ Fisker Ocean Ultra inkluderar flera [avancerade förarassistanssystem](../../../
 ### Körautomatisering
 
 Med Fisker Intelligent Pilot  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

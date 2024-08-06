@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1674"  >}}
 
 Nous avons séparé notre article Ford Mustang Mach-E Standard Range RWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Ford Mustang Mach-E Standard Range RWD dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
@@ -75,6 +72,7 @@ La Ford Mustang Mach-E Standard Range RWD, avec des dimensions de 4713 mm de lon
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford Mustang Mach-E Standard Range RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 225/60 sur jantes de 18"
 - Pneus 225/60 sur jantes de 19"
 
@@ -89,9 +87,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -110,20 +106,18 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2250"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -132,7 +126,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -148,10 +141,7 @@ L'Ford Mustang Mach-E Standard Range RWD comprend plusieurs fonctionnalités pou
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
-
-
 
 Détails clés de l'écran :
 
@@ -177,7 +167,6 @@ De plus, le Ford Mustang Mach-E Standard Range RWD prend en charge Android Auto 
 Un type de système audio est disponible pour le Ford Mustang Mach-E Standard Range RWD.
 
 - Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
-
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 
@@ -216,6 +205,7 @@ Le Ford Mustang Mach-E Standard Range RWD comprend plusieurs [systèmes avancés
 ### Automatisation de la Conduite
 
 Avec le système Ford BlueCruise  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

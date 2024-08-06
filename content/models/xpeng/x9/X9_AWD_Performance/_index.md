@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/main_1_st.jpg" title="XPENG X9 AWD Performance" width="1920" height="1080"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 XPENG X9 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -60,8 +57,6 @@ XPENG X9 AWD Performance features an all-wheel drive system powered by two motor
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 130 mm, and the maximum is 220 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -81,9 +76,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -113,8 +106,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -126,8 +117,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 #### Third-row seats
 
-
-
 The third row has a three-seat bench with a 40:60 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
@@ -135,7 +124,6 @@ There is only one type of steering wheel available. The  steering wheel is heate
 ## Climate system
 
 There is one climate system available.
-
 
 ## Comfort features
 
@@ -145,11 +133,9 @@ The XPENG X9 AWD Performance includes several features to enhance comfort and co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The XPENG X9 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -167,7 +153,6 @@ The model does not have a head-up display.
 One type of sound system is available for the XPENG X9 AWD Performance.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 ## Lights
 
@@ -202,6 +187,7 @@ The XPENG X9 AWD Performance includes several standard and optional [advanced dr
 ### Driving Automation
 
 With the XPILOT  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.

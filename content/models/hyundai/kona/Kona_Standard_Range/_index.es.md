@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/main_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo Hyundai Kona Standard Range en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -52,7 +50,6 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Hyundai Kona Standard Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
@@ -63,8 +60,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 [La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
@@ -74,6 +69,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 El Hyundai Kona Standard Range, con dimensiones de 4355 mm de longitud, 1825 mm de anchura y 1575 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Hyundai Kona Standard Range ofrece una selección de 21 colores de pintura, que incluyen opciones sólidas, metálicas, perladas y mate.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Hyundai Kona Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
 
 - Neumáticos 215/60 en llantas de 17
 - Neumáticos 235/45 en llantas de 19
@@ -91,13 +87,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -113,6 +107,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
@@ -120,17 +115,13 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Green [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Asiento de segunda fila
-
-
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}
-
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
@@ -139,7 +130,6 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 Hay un sistema climático disponible.
 
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
-
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
@@ -154,11 +144,9 @@ El Hyundai Kona Standard Range incluye varias características para mejorar la c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Hyundai Kona Standard Range tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Detalles clave de la pantalla:
 
@@ -184,7 +172,6 @@ Además, el Hyundai Kona Standard Range es compatible con Android Auto y Apple C
 Un tipo de sistema de sonido está disponible para el Hyundai Kona Standard Range.
 
 - Con el Bose Premium Sound System, obtienes siete parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -223,6 +210,7 @@ El Hyundai Kona Standard Range incluye varios [sistemas avanzados de asistencia 
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

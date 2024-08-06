@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/main_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 Vi har opdelt vores Citroën ë-C3 Aircross artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Citroën ë-C3 Aircross har et forhjulstræksystem understøttet af en motor på forakslen.
@@ -81,6 +78,7 @@ Den Citroën ë-C3 Aircross, med dimensioner på 4395 mm i længde, 1795 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Citroën ë-C3 Aircross, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 205/55 dæk on 16" fælge
 - 205/50 dæk on 17" fælge
 
@@ -97,9 +95,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -111,17 +107,16 @@ For første række tilbyder Citroën ë-C3 Aircross to forskellige sædetyper at
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 
-
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
@@ -135,18 +130,16 @@ Følgende funktioner er tilgængelige på **Standard** sædet.
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
-
 
 Der er kun én type rat tilgængelig.
 
@@ -155,7 +148,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -168,11 +160,9 @@ Citroën ë-C3 Aircross inkluderer flere funktioner, der forbedrer komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Citroën ë-C3 Aircross har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -182,7 +172,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -202,7 +191,6 @@ Du kan vælge mellem to lydsystemer på Citroën ë-C3 Aircross.
 
 - Med  får du to højttalere med en maksimal systemeffekt på  watt.
 - Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -227,6 +215,7 @@ Den Citroën ë-C3 Aircross inkluderer flere standard- og valgfri [avancerede f�
 ### Køreautomatisering
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - Fartpilot.
 
 ### Sensorer & Kameraer

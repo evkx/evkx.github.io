@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/main_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1889"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nissan Ariya 63kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
@@ -77,6 +74,7 @@ The Nissan Ariya 63kWh, with dimensions of 4595 mm in length, 1850 mm in width, 
 
 You can select from multiple wheel options in different sizes on the Nissan Ariya 63kWh, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
@@ -92,7 +90,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -116,15 +113,13 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -137,7 +132,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -153,11 +147,9 @@ The Nissan Ariya 63kWh includes several features to enhance comfort and convenie
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -167,7 +159,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -187,7 +178,6 @@ You can choose between two sound systems on the Nissan Ariya 63kWh.
 
 - With the DAB Audiosystem, you get six speakers with a max system output of  watts.
 - With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
-
 
 ## Lights
 
@@ -221,6 +211,7 @@ The Nissan Ariya 63kWh includes several standard and optional [advanced driver a
 ### Driving Automation
 
 With the ProPILOT  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

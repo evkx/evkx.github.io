@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/main_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article Jaguar I-Pace EV400 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -52,7 +50,6 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Jaguar I-Pace EV400 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
@@ -74,6 +71,7 @@ La Jaguar I-Pace EV400, avec des dimensions de 4682 mm de longueur, 2011 mm de l
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Jaguar I-Pace EV400, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 235/65 sur jantes de 18"
 - Pneus 245/55 sur jantes de 19"
 - Pneus 245/50 sur jantes de 20"
@@ -92,9 +90,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -113,14 +109,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Performance**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
@@ -135,6 +130,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Beige [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
@@ -150,13 +146,11 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Jagu
 
 L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
@@ -176,11 +170,9 @@ L'Jaguar I-Pace EV400 comprend plusieurs fonctionnalités pour améliorer le con
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Jaguar I-Pace EV400 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -209,7 +201,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Jaguar I-Pace EV400.
 - Avec le Meridian Sound System, vous obtenez 11 haut-parleurs avec une puissance système maximale de 400 watts.
 - Avec le Meridian 3D Surround, vous obtenez 16 haut-parleurs avec une puissance système maximale de 750 watts.
 
-
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Jaguar I-Pace EV400.
@@ -236,6 +227,7 @@ Le Jaguar I-Pace EV400 comprend plusieurs [systèmes avancés d'assistance au co
 ### Automatisation de la Conduite
 
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
+
 
 
 {{<evkxdisplayaddarticle />}}

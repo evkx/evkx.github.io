@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ Connector types vary by market: this model uses [**CCS Combo 1**](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 XPENG G3i has a front-wheel drive system supported by one motor on the front axle.
@@ -61,8 +58,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-
-
 ### Regenerative braking
 
 
@@ -71,6 +66,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 The XPENG G3i, with dimensions of 4495 mm in length, 1820 mm in width, and 1610 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
 
 You can select from multiple wheel options in different sizes on the XPENG G3i, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 215/55 tires on 17" rims
 - 215/55 tires on 18" rims
@@ -86,9 +82,7 @@ There is only one roof for this model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -107,10 +101,7 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -124,7 +115,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort features
@@ -135,11 +125,9 @@ The XPENG G3i includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -157,7 +145,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 One type of sound system is available for the XPENG G3i.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 The model has 4 USB-A connections as standard.
 
@@ -182,6 +169,7 @@ The XPENG G3i includes several standard and optional [advanced driver assistance
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

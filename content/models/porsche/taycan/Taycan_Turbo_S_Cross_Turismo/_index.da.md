@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/main_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 Vi har opdelt vores Porsche Taycan Turbo S Cross Turismo artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,14 +48,11 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Porsche Taycan Turbo S Cross Turismo har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulophæng
-
-
 
 Du kan bestille Porsche Taycan Turbo S Cross Turismo med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 143 mm, og maksimum er 173 mm.
 
@@ -85,6 +80,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Porsche Taycan Turbo S Cross Turismo, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
 - 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
@@ -100,9 +96,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -121,8 +115,6 @@ Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
-
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
@@ -155,7 +147,6 @@ Muligheden second er to integrerede sæder i anden række med et tredje mindre s
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
-
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
@@ -163,7 +154,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -177,11 +167,9 @@ Porsche Taycan Turbo S Cross Turismo inkluderer flere funktioner, der forbedrer 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Taycan Turbo S Cross Turismo har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen).
-
 
 Vigtige skærmdetaljer:
 
@@ -211,7 +199,6 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo S Cross Turismo.
 - Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt.
 - Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
 - Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
-
 
 ## Lys
 
@@ -252,10 +239,12 @@ Den Porsche Taycan Turbo S Cross Turismo inkluderer flere standard- og valgfri [
 Porsche Taycan Turbo S Cross Turismo tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Porsche InnoDrive  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 

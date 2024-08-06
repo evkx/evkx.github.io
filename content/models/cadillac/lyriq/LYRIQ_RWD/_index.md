@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/main_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Cadillac LYRIQ RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -73,7 +70,6 @@ The Cadillac LYRIQ RWD, with dimensions of 4996 mm in length, 1977 mm in width, 
 
 You can select from multiple wheel options in different sizes on the Cadillac LYRIQ RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -85,9 +81,7 @@ There are two different roof options to select from. The standard roof has a lar
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -107,6 +101,7 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -114,12 +109,9 @@ You can choose from 2 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -129,7 +121,6 @@ Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -143,11 +134,9 @@ The Cadillac LYRIQ RWD includes several features to enhance comfort and convenie
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Cadillac LYRIQ RWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -156,7 +145,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -175,7 +163,6 @@ Furthermore, the Cadillac LYRIQ RWD supports Android Auto and Apple CarPlay. Thi
 One type of sound system is available for the Cadillac LYRIQ RWD.
 
 - With the Lyric sound system, you get seven speakers with a max system output of  watts.
-
 
 The model has 5 USB-C connections as standard.
 
@@ -206,6 +193,7 @@ The Cadillac LYRIQ RWD includes several standard and optional [advanced driver a
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

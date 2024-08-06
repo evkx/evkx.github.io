@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708"  >}}
 
 Vi har delat in vår beskrivning av MG Marvel R Electric Performance i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 MG Marvel R Electric Performance har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln.
@@ -73,7 +70,6 @@ MG Marvel R Electric Performance, med dimensioner på 4674 mm i längd, 1919 mm 
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG Marvel R Electric Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
@@ -85,13 +81,11 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -102,6 +96,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
@@ -110,12 +105,9 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -124,7 +116,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -138,10 +129,7 @@ MG Marvel R Electric Performance inkluderar flera funktioner för att förbättr
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -151,7 +139,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -170,7 +157,6 @@ Dessutom stöder MG Marvel R Electric Performance Android Auto och Apple CarPlay
 En typ av ljudsystem är tillgänglig för MG Marvel R Electric Performance.
 
 - Med  får du NULL högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-A-anslutningar som standard.
 
@@ -193,6 +179,7 @@ MG Marvel R Electric Performance inkluderar flera [avancerade förarassistanssys
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/main_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2002"  >}}
 
 Vi har opdelt vores Automobili Pininfarina Battista artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -49,7 +47,6 @@ Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-op
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -91,9 +88,8 @@ Automobili Pininfarina Battista fås i alt 5 lakfarver, herunder flere iøjnefal
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Automobili Pininfarina Battista, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 275/35 dæk på 20" fælge foran og 315/35 dæk på 20" fælge bagpå
-
-
 
 Der er kun ét tag til denne model.
 
@@ -102,12 +98,9 @@ Der er kun ét tag til denne model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -118,9 +111,8 @@ Følgende funktioner er tilgængelige på **** sædet.
 - elektrisk justering
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
 - Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
-
-
 
 Der er kun én type rat tilgængelig.
 
@@ -129,7 +121,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
@@ -143,11 +134,9 @@ Automobili Pininfarina Battista inkluderer flere funktioner, der forbedrer komfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Automobili Pininfarina Battista har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
-
 
 Vigtige skærmdetaljer:
 
@@ -175,7 +164,6 @@ Yderligere understøtter Automobili Pininfarina Battista Android Auto og Apple C
 
 - Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
 
-
 ## Lys
 
 **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
@@ -197,6 +185,7 @@ Den Automobili Pininfarina Battista inkluderer flere standard- og valgfri [avanc
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/main_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1850"  >}}
 
 Nous avons séparé notre article Maserati GranCabrio Folgore en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Maserati GranCabrio Folgore dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -84,6 +81,7 @@ La Maserati GranCabrio Folgore est disponible en un total de 8 couleurs de peint
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Maserati GranCabrio Folgore, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 255/50 sur jantes de 19"
 - Pneus 255/45 sur jantes de 20" à l'avant et pneus 295/40 sur jantes de 20" à l'arrière
 - Pneus 255/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
@@ -101,9 +99,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Intérieur
-
 
 ### Sièges
 
@@ -128,15 +124,12 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
-
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -145,7 +138,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
-
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
@@ -161,11 +153,9 @@ L'Maserati GranCabrio Folgore comprend plusieurs fonctionnalités pour améliore
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Maserati GranCabrio Folgore possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Détails clés de l'écran :
 
@@ -193,7 +183,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Maserati GranCabrio Folgor
 
 - Avec le Sonus Faber Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 860 watts.
 - Avec le Sonus Faber High Premium Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1285 watts.
-
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 
@@ -232,6 +221,7 @@ Le Maserati GranCabrio Folgore comprend plusieurs [systèmes avancés d'assistan
 ### Automatisation de la Conduite
 
 Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

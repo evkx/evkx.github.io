@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/main_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
 Vi har opdelt vores Seres 5 4WD Premium artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Seres 5 4WD Premium har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -75,6 +72,7 @@ Den Seres 5 4WD Premium, med dimensioner på 4710 mm i længde, 1930 mm i bredde
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Seres 5 4WD Premium, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 255/50 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
@@ -91,13 +89,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
 Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
-
 
 #### Første række sæder
 
@@ -112,16 +108,14 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -146,10 +140,7 @@ Seres 5 4WD Premium inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -171,7 +162,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Seres 5 4WD Premium.
 
 - Med  får du 11 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 
@@ -202,6 +192,7 @@ Den Seres 5 4WD Premium inkluderer flere standard- og valgfri [avancerede fører
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

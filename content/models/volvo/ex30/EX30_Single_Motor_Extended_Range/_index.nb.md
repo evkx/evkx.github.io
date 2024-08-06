@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/main_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
 Vi har delt vår beskrivelse av Volvo EX30 Single Motor Extended Range i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Volvo EX30 Single Motor Extended Range har et bakhjulsdriftssystem støttet av en motor på bakakselen.
@@ -73,6 +70,7 @@ Volvo EX30 Single Motor Extended Range, med dimensjoner på 4233 mm i lengde, 18
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EX30 Single Motor Extended Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 225/55 dekk på 18" felger
 - 235/45 dekk på 20" felger
 
@@ -86,7 +84,6 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -107,22 +104,19 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
 - White [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [ullpolstring](../../../../technology/seats/materials/#wool)
 - Brown [ull-/lærpolstring](../../../../technology/seats/materials/#wool)
 - Blue [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -132,7 +126,6 @@ To klimasystemalternativer er tilgjengelige:
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -147,11 +140,9 @@ Volvo EX30 Single Motor Extended Range inkluderer flere funksjoner for å forbed
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Volvo EX30 Single Motor Extended Range har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
-
 
 Viktige skjermdetaljer:
 
@@ -173,7 +164,6 @@ Du kan velge mellom to lydsystemer på Volvo EX30 Single Motor Extended Range.
 
 - Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -213,6 +203,7 @@ Volvo EX30 Single Motor Extended Range inkluderer flere [avanserte førerassista
 ### Kjøreautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

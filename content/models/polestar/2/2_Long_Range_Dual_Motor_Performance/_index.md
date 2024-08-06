@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/main_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Polestar 2 Long Range Dual Motor Performance features an all-wheel drive system powered by two motors, one on each axle.
@@ -75,6 +72,7 @@ The Polestar 2 Long Range Dual Motor Performance, with dimensions of 4606 mm in 
 
 You can select from multiple wheel options in different sizes on the Polestar 2 Long Range Dual Motor Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims
 
@@ -88,7 +86,6 @@ There are two different roof options to select from. As an option, you can order
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -109,6 +106,7 @@ The following functionalities are available on the **standard** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -119,14 +117,11 @@ You can choose from 5 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -135,7 +130,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -150,11 +144,9 @@ The Polestar 2 Long Range Dual Motor Performance includes several features to en
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Polestar 2 Long Range Dual Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -173,7 +165,6 @@ You can choose between two sound systems on the Polestar 2 Long Range Dual Motor
 
 - With the High Performance, you get eight speakers with a max system output of 200 watts.
 - With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -209,6 +200,7 @@ The Polestar 2 Long Range Dual Motor Performance includes several standard and o
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/main_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
 Vi har delt vår beskrivelse av YangWang U9 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -49,7 +47,6 @@ Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-ladin
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivverk
 
@@ -91,9 +88,8 @@ YangWang U9 er tilgjengelig i totalt 5 lakkfarger, inkludert flere iøynefallend
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på YangWang U9, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 275/35 dekk på 21" felger foran og 325/30 dekk på 21" felger bak
-
-
 
 Det er bare ett tak for denne modellen.
 
@@ -102,12 +98,9 @@ Det er bare ett tak for denne modellen.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Seter
-
 
 #### Forseter
 
@@ -118,9 +111,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - elektrisk justering
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [polstring av Alcantara](../../../../technology/seats/materials/#alcantara)
-
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -129,7 +121,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -143,11 +134,9 @@ YangWang U9 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 YangWang U9 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
-
 
 Viktige skjermdetaljer:
 
@@ -175,7 +164,6 @@ I tillegg støtter YangWang U9 Android Auto og Apple CarPlay. Denne funksjonalit
 
 - Med Rimac Nevera Sound System får du åtte høyttalere med en maksimal systemeffekt på 1200 watt.
 
-
 ## Lys
 
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
@@ -197,6 +185,7 @@ YangWang U9 inkluderer flere [avanserte førerassistanse systemer](../../../../t
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 

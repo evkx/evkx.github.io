@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/main_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av Kia EV3 Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Kia EV3 Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
@@ -60,8 +57,6 @@ Kia EV3 Long Range har ett framhjulsdriftssystem som stöds av en motor på fram
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
 
 ### Bromsar
-
-
 
 ### Regenerativ bromsning
 
@@ -74,6 +69,7 @@ Den maximala regenerativa effekten är 150 kW.
 Kia EV3 Long Range, med dimensioner på 4300 mm i längd, 1850 mm i bredd och 1560 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Kia EV3 Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
@@ -91,13 +87,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -113,6 +107,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
@@ -120,10 +115,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -137,7 +129,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Komfortfunktioner
@@ -149,11 +140,9 @@ Kia EV3 Long Range inkluderar flera funktioner för att förbättra komfort och 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Kia EV3 Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
-
 
 Viktiga skärmdetaljer:
 
@@ -180,7 +169,6 @@ Du kan välja mellan två ljudsystem på Kia EV3 Long Range.
 
 - Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
 - Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -215,6 +203,7 @@ Kia EV3 Long Range inkluderar flera [avancerade förarassistanssystem](../../../
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

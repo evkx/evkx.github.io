@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/main_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1708"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG Marvel R Electric Performance has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle.
@@ -73,7 +70,6 @@ The MG Marvel R Electric Performance, with dimensions of 4674 mm in length, 1919
 
 You can select from multiple wheel designs, all available in the same size, on the MG Marvel R Electric Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
@@ -85,13 +81,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
-
 
 #### First row seats
 
@@ -102,6 +96,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
@@ -110,12 +105,9 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -124,7 +116,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -138,10 +129,7 @@ The MG Marvel R Electric Performance includes several features to enhance comfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -151,7 +139,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -170,7 +157,6 @@ Furthermore, the MG Marvel R Electric Performance supports Android Auto and Appl
 One type of sound system is available for the MG Marvel R Electric Performance.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 The model has 4 USB-A connections as standard.
 
@@ -193,6 +179,7 @@ The MG Marvel R Electric Performance includes several standard and optional [adv
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

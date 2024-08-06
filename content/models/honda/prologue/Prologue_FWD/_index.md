@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/main_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2018"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Honda Prologue FWD has a front-wheel drive system supported by one motor on the front axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ The Honda Prologue FWD, with dimensions of 4877 mm in length, 1989 mm in width, 
 
 You can select from multiple wheel designs, all available in the same size, on the Honda Prologue FWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 275/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -88,13 +86,11 @@ There are two different roof options to select from. The standard roof has a lar
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 #### First row seats
 
@@ -110,19 +106,16 @@ The following functionalities are available on the **** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -131,7 +124,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -145,11 +137,9 @@ The Honda Prologue FWD includes several features to enhance comfort and convenie
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Honda Prologue FWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -159,7 +149,6 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/screens_1_st.jpg" title="Honda Prologue FWD" width="1600" height="900"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -178,7 +167,6 @@ Furthermore, the Honda Prologue FWD supports Android Auto and Apple CarPlay. Thi
 One type of sound system is available for the Honda Prologue FWD.
 
 - With the Bose premium audio system, you get 12 speakers with a max system output of  watts.
-
 
 The model has 5 USB-C connections as standard.
 
@@ -215,6 +203,7 @@ The Honda Prologue FWD includes several standard and optional [advanced driver a
 The Honda Prologue FWD offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

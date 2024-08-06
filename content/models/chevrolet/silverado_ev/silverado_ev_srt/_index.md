@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/main_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1685"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Chevrolet Silverado EV SRT features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -62,8 +59,6 @@ Chevrolet Silverado EV SRT features an all-wheel drive system powered by two mot
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
-
 
 ### Regenerative braking
 
@@ -77,6 +72,7 @@ The Chevrolet Silverado EV SRT is available in a total of 1 paint colors, includ
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV SRT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/70 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
@@ -88,9 +84,7 @@ There is only one roof for this model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -108,12 +102,10 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -122,7 +114,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -130,7 +121,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -146,11 +136,9 @@ The Chevrolet Silverado EV SRT includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Chevrolet Silverado EV SRT has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -176,7 +164,6 @@ Furthermore, the Chevrolet Silverado EV SRT supports Android Auto and Apple CarP
 One type of sound system is available for the Chevrolet Silverado EV SRT.
 
 - With the Chevrolet Sound System, you get six speakers with a max system output of 200 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -205,6 +192,7 @@ The Chevrolet Silverado EV SRT includes several standard and optional [advanced 
 The Chevrolet Silverado EV SRT offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Super Cruise  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

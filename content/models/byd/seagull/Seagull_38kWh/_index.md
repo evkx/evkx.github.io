@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/main_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BYD Seagull 38kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
@@ -79,6 +76,7 @@ The BYD Seagull 38kWh, with dimensions of 3780 mm in length, 1715 mm in width, a
 
 You can select from multiple wheel designs, all available in the same size, on the BYD Seagull 38kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 235/50 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
@@ -92,9 +90,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -106,21 +102,15 @@ The BYD Seagull 38kWh offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
-
 
 #### Second-row seat
 
-
-
 The following functionalities are available on the **standard** seat.
-
 
 You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -129,7 +119,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -145,11 +134,9 @@ The BYD Seagull 38kWh includes several features to enhance comfort and convenien
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The BYD Seagull 38kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -171,7 +158,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the BYD Seagull 38kWh.
 
 - With the Dirac, you get eight speakers with a max system output of  watts.
-
 
 The model has 1 USB-A connections as standard.
 
@@ -202,6 +188,7 @@ The BYD Seagull 38kWh includes several standard and optional [advanced driver as
 The BYD Seagull 38kWh offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

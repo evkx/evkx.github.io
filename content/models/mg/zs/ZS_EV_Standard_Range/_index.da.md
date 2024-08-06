@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/main_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999"  >}}
 
 Vi har opdelt vores MG ZS EV Standard Range artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG ZS EV Standard Range har et baghjulstræksystem, der understøttes af en motor på bagakslen.
@@ -75,6 +72,7 @@ Den MG ZS EV Standard Range, med dimensioner på 4323 mm i længde, 1809 mm i br
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG ZS EV Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 215/55 dæk on 17" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
@@ -87,7 +85,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -108,6 +105,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
@@ -115,12 +113,9 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/secondrowseats_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1706"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -129,7 +124,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -143,10 +137,7 @@ MG ZS EV Standard Range inkluderer flere funktioner, der forbedrer komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -156,7 +147,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/screens_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1015"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -176,7 +166,6 @@ Du kan vælge mellem to lydsystemer på MG ZS EV Standard Range.
 
 - Med MG standard system får du fire højttalere med en maksimal systemeffekt på  watt.
 - Med MG luxury sound system får du seks højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 
@@ -205,6 +194,7 @@ Den MG ZS EV Standard Range inkluderer flere standard- og valgfri [avancerede f�
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

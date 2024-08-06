@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/es8/es8/main_1_st.jpg" title="Nio ES8" width="2880" height="1792"  >}}
 
 Vi har opdelt vores Nio ES8 artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -68,7 +66,6 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nio ES8 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -97,6 +94,7 @@ Den Nio ES8, med dimensioner på 5022 mm i længde, 1962 mm i bredde og 1756 mm 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Nio ES8, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 265/55 dæk on 19" fælge
 - 265/50 dæk on 20" fælge
 - 265/45 dæk on 21" fælge
@@ -112,12 +110,9 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
 
-
 ### Sæder
-
 
 #### Første række sæder
 
@@ -154,8 +149,6 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 
 #### Sæder på tredje række
 
-
-
 Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
 Der er kun én type rat tilgængelig.
@@ -178,10 +171,7 @@ Nio ES8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -191,7 +181,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
-
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -207,7 +196,6 @@ Du kan vælge mellem to lydsystemer på Nio ES8.
 
 - Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt.
 - Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 3 USB-A-forbindelser som standard.
 
@@ -248,10 +236,12 @@ Den Nio ES8 inkluderer flere standard- og valgfri [avancerede førerassistentsys
 Nio ES8 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med NIO Pilot Selected Pack  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 

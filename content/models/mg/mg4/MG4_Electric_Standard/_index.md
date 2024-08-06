@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/main_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2249"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 MG MG4 Electric Standard has a rear-wheel drive system supported by one motor on the rear axle.
@@ -75,9 +72,6 @@ The MG MG4 Electric Standard, with dimensions of 4287 mm in length, 1836 mm in w
 
 You can select from multiple wheel designs, all available in the same size, on the MG MG4 Electric Standard, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-
-
-
 There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
@@ -85,13 +79,11 @@ There is only one roof for this model. As an option, you can order this model wi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 #### First row seats
 
@@ -102,6 +94,7 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment
 
 You can choose from 2 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -109,12 +102,9 @@ You can choose from 2 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -123,7 +113,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -137,10 +126,7 @@ The MG MG4 Electric Standard includes several features to enhance comfort and co
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -150,7 +136,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -169,7 +154,6 @@ Furthermore, the MG MG4 Electric Standard supports Android Auto and Apple CarPla
 One type of sound system is available for the MG MG4 Electric Standard.
 
 - With the , you get NULL speakers with a max system output of  watts.
-
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -192,6 +176,7 @@ The MG MG4 Electric Standard includes several standard and optional [advanced dr
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

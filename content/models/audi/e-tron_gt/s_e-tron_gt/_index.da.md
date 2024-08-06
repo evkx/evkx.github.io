@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/main_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 Vi har opdelt vores Audi S e-tron GT artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -52,7 +50,6 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Audi S e-tron GT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -93,6 +90,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi S e-tron GT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 225/55 dæk på 19" fælge foran og 275/45 dæk på 19" fælge bagpå
 - 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
@@ -110,9 +108,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -131,8 +127,6 @@ Følgende funktioner er tilgængelige på **sport** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
-
 Følgende funktioner er tilgængelige på **sport plus** sædet.
 
 - elektrisk justering
@@ -142,8 +136,6 @@ Følgende funktioner er tilgængelige på **sport plus** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
-
 
 Følgende funktioner er tilgængelige på **sport pro** sædet.
 
@@ -162,7 +154,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
-
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
@@ -170,7 +161,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -186,11 +176,9 @@ Audi S e-tron GT inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Audi S e-tron GT har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
-
 
 Vigtige skærmdetaljer:
 
@@ -215,7 +203,6 @@ Du kan vælge mellem to lydsystemer på Audi S e-tron GT.
 
 - Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
-
 
 ## Lys
 
@@ -260,9 +247,11 @@ Den Audi S e-tron GT inkluderer flere standard- og valgfri [avancerede førerass
 Audi S e-tron GT tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

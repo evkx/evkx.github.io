@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/main_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Mini Cooper SE i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -48,7 +46,6 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Mini Cooper SE har et forhjulsdriftssystem støttet av én motor på forakselen.
@@ -59,8 +56,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Bremser
 
-
-
 ### Regenerativ bremsing
 
 
@@ -70,13 +65,12 @@ Mini Cooper SE, med dimensjoner på 3900 mm i lengde, 1750 mm i bredde og 1450 m
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mini Cooper SE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 215/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 - 225/40 dekk på 18" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
-
-
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -87,9 +81,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -106,28 +98,24 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
 
-
-
 Følgende funksjoner er tilgjengelige på **** setet.
 
-
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-
 
 ## Komfortfunksjoner
 
@@ -140,10 +128,7 @@ Mini Cooper SE inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -159,7 +144,6 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 Én type lydsystem er tilgjengelig for Mini Cooper SE.
 
 - Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
-
 
 ## Lys
 
@@ -180,6 +164,7 @@ Mini Cooper SE inkluderer flere [avanserte førerassistanse systemer](../../../.
 ### Kjøreautomatisering
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

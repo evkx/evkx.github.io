@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/main_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1674"  >}}
 
 Vi har delat in vår beskrivning av Ford Mustang Mach-E Standard Range RWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -52,7 +50,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Ford Mustang Mach-E Standard Range RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
@@ -75,6 +72,7 @@ Ford Mustang Mach-E Standard Range RWD, med dimensioner på 4713 mm i längd, 18
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Mustang Mach-E Standard Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 225/60 tires on 18" rims
 - 225/60 tires on 19" rims
 
@@ -89,9 +87,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -110,20 +106,18 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2250"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -132,7 +126,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -148,10 +141,7 @@ Ford Mustang Mach-E Standard Range RWD inkluderar flera funktioner för att för
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -177,7 +167,6 @@ Dessutom stöder Ford Mustang Mach-E Standard Range RWD Android Auto och Apple C
 En typ av ljudsystem är tillgänglig för Ford Mustang Mach-E Standard Range RWD.
 
 - Med B&O Sound System får du tio högtalare med en maximal systemeffekt på 560 watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 
@@ -216,6 +205,7 @@ Ford Mustang Mach-E Standard Range RWD inkluderar flera [avancerade förarassist
 ### Körautomatisering
 
 Med Ford BlueCruise  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

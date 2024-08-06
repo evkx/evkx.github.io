@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/main_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
 Vi har opdelt vores Audi e-tron S Sportback artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -56,7 +54,6 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Audi e-tron S Sportback har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
@@ -99,6 +96,7 @@ Den Audi e-tron S Sportback, med dimensioner på 4901 mm i længde, 1935 mm i br
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi e-tron S Sportback, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 285/45 dæk on 20" fælge
 - 285/40 dæk on 21" fælge
 
@@ -115,9 +113,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -139,8 +135,6 @@ Følgende funktioner er tilgængelige på **s-line sport** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
-
 Følgende funktioner er tilgængelige på **s sport** sædet.
 
 - elektrisk justering (valgfrit)
@@ -150,8 +144,6 @@ Følgende funktioner er tilgængelige på **s sport** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
-
-
 
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
@@ -174,8 +166,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
@@ -188,7 +178,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -205,11 +194,9 @@ Audi e-tron S Sportback inkluderer flere funktioner, der forbedrer komfort og be
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Audi e-tron S Sportback har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -237,7 +224,6 @@ Du kan vælge mellem to lydsystemer på Audi e-tron S Sportback.
 
 - Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
-
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -282,10 +268,12 @@ Den Audi e-tron S Sportback inkluderer flere standard- og valgfri [avancerede f�
 Audi e-tron S Sportback tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - Fartpilot.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 

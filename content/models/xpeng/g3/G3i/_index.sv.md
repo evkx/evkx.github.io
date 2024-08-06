@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/main_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 Vi har delat in vår beskrivning av XPENG G3i i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Anslutningstyper varierar mellan olika marknader. Den här modellen använder [*
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 XPENG G3i har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
@@ -61,8 +58,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 
@@ -71,6 +66,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 XPENG G3i, med dimensioner på 4495 mm i längd, 1820 mm i bredd och 1610 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på XPENG G3i, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 215/55 tires on 17" rims
 - 215/55 tires on 18" rims
@@ -86,9 +82,7 @@ Det finns bara ett tak för denna modell.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -107,10 +101,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -124,7 +115,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Komfortfunktioner
@@ -135,11 +125,9 @@ XPENG G3i inkluderar flera funktioner för att förbättra komfort och bekvämli
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 XPENG G3i har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -157,7 +145,6 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 En typ av ljudsystem är tillgänglig för XPENG G3i.
 
 - Med  får du NULL högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 4 USB-A-anslutningar som standard.
 
@@ -182,6 +169,7 @@ XPENG G3i inkluderar flera [avancerade förarassistanssystem](../../../../techno
 ### Körautomatisering
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

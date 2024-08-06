@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/main_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av Kia EV9 GT-Line AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,17 +48,13 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Kia EV9 GT-Line AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
-
 ### Bromsar
-
-
 
 ### Regenerativ bromsning
 
@@ -73,6 +67,7 @@ Den maximala regenerativa effekten är 150 kW.
 Kia EV9 GT-Line AWD, med dimensioner på 5010 mm i längd, 1980 mm i bredd och 1755 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Kia EV9 GT-Line AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
@@ -91,13 +86,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 #### Framsäten
 
@@ -113,6 +106,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
@@ -146,12 +140,9 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 
 #### Seter på tredje rad
 
-
-
 Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/thirdrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="1350" height="900"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -160,7 +151,6 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -175,7 +165,6 @@ Kia EV9 GT-Line AWD inkluderar flera funktioner för att förbättra komfort och
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Användargränssnitt och kontroll
 
@@ -207,7 +196,6 @@ Du kan välja mellan två ljudsystem på Kia EV9 GT-Line AWD.
 
 - Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
 - Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
-
 
 Modellen har 6 USB-C-anslutningar som standard.
 
@@ -244,6 +232,7 @@ Kia EV9 GT-Line AWD inkluderar flera [avancerade förarassistanssystem](../../..
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

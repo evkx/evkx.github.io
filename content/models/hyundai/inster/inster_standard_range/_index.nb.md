@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/main_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 Vi har delt vår beskrivelse av Hyundai INSTER Standard Range i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Hyundai INSTER Standard Range har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
@@ -73,6 +70,7 @@ Hyundai INSTER Standard Range, med dimensjoner på 3825 mm i lengde, 1610 mm i b
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hyundai INSTER Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 205/55 dekk på 15" felger
 - 205/45 dekk på 17" felger
 
@@ -88,7 +86,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -112,6 +109,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
@@ -120,19 +118,17 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
 
@@ -141,7 +137,6 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -156,10 +151,7 @@ Hyundai INSTER Standard Range inkluderer flere funksjoner for å forbedre komfor
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
-
-
 
 Viktige skjermdetaljer:
 
@@ -185,7 +177,6 @@ I tillegg støtter Hyundai INSTER Standard Range Android Auto og Apple CarPlay. 
 Én type lydsystem er tilgjengelig for Hyundai INSTER Standard Range.
 
 - Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -226,6 +217,7 @@ Hyundai INSTER Standard Range inkluderer flere [avanserte førerassistanse syste
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/main_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
 Vi har delat in vår beskrivning av Rivian R1T Quad-Motor AWD i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -53,7 +51,6 @@ Platsen för laddningsporten är i [främre vänstra hörnet](../../../../techno
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Rivian R1T Quad-Motor AWD har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul.
@@ -78,7 +75,6 @@ Rivian R1T Quad-Motor AWD finns i totalt 9 lackfärger, inklusive flera iögonfa
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rivian R1T Quad-Motor AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. Bakluckan är elektriskt manövrerad.
 
 Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
@@ -90,9 +86,7 @@ B-stolpen och vyerna bak är tonade.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -112,14 +106,12 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Green [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 #### Säten på andra raden
-
-
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
@@ -133,7 +125,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
@@ -149,11 +140,9 @@ Rivian R1T Quad-Motor AWD inkluderar flera funktioner för att förbättra komfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Rivian R1T Quad-Motor AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -163,7 +152,6 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="1600" height="1067"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -180,7 +168,6 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 En typ av ljudsystem är tillgänglig för Rivian R1T Quad-Motor AWD.
 
 - Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
-
 
 Modellen har 8 USB-C-anslutningar som standard.
 
@@ -215,6 +202,7 @@ Rivian R1T Quad-Motor AWD inkluderar flera [avancerade förarassistanssystem](..
 ### Körautomatisering
 
 Med Driver+  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

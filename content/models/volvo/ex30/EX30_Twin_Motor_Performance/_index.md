@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/main_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volvo EX30 Twin Motor Performance features an all-wheel drive system powered by two motors, one on each axle.
@@ -73,6 +70,7 @@ The Volvo EX30 Twin Motor Performance, with dimensions of 4233 mm in length, 183
 
 You can select from multiple wheel options in different sizes on the Volvo EX30 Twin Motor Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 225/55 tires on 18" rims
 - 235/45 tires on 20" rims
 
@@ -86,7 +84,6 @@ There are two different roof options to select from. As an option, you can order
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -107,22 +104,19 @@ The following functionalities are available on the **** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 4 different materials/colors for this seat type.
+
 - White [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [wool upholstering](../../../../technology/seats/materials/#wool)
 - Brown [wool/leatherette upholstering](../../../../technology/seats/materials/#wool)
 - Blue [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -132,7 +126,6 @@ Two climate system options are available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -147,11 +140,9 @@ The Volvo EX30 Twin Motor Performance includes several features to enhance comfo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Volvo EX30 Twin Motor Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
-
 
 Key screen details:
 
@@ -173,7 +164,6 @@ You can choose between two sound systems on the Volvo EX30 Twin Motor Performanc
 
 - With the High Performance, you get eight speakers with a max system output of 200 watts.
 - With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -213,6 +203,7 @@ The Volvo EX30 Twin Motor Performance includes several standard and optional [ad
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

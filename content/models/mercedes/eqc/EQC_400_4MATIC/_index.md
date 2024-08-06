@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/main_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2000"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-EQ EQC 400 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
@@ -76,9 +73,8 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 The Mercedes-EQ EQC 400 4MATIC, with dimensions of 4762 mm in length, 1884 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Mercedes-EQ EQC 400 4MATIC offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-
-
 You can select from multiple wheel options in different sizes on the Mercedes-EQ EQC 400 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
@@ -92,9 +88,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -106,18 +100,15 @@ The Mercedes-EQ EQC 400 4MATIC offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
-
 You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
-
 
 There is only one type of steering wheel available.
 
 ## Climate system
 
 There is one climate system available.
-
 
 ## Comfort features
 
@@ -129,11 +120,9 @@ The Mercedes-EQ EQC 400 4MATIC includes several features to enhance comfort and 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Mercedes-EQ EQC 400 4MATIC has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -161,7 +150,6 @@ You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC.
 - With the Standard, you get seven speakers with a max system output of 100 watts.
 - With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
 - With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
-
 
 ## Lights
 
@@ -198,6 +186,7 @@ The Mercedes-EQ EQC 400 4MATIC includes several standard and optional [advanced 
 The Mercedes-EQ EQC 400 4MATIC offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 

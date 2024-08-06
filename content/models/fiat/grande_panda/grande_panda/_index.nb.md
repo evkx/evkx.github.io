@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/main_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1757"  >}}
 
 Vi har delt vår beskrivelse av Fiat Grande Panda i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -52,7 +50,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Fiat Grande Panda har et forhjulsdriftssystem støttet av én motor på forakselen.
@@ -81,6 +78,7 @@ Fiat Grande Panda er tilgjengelig i totalt 5 lakkfarger, inkludert både solide 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Fiat Grande Panda, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 205/55 dekk på 16" felger
 - 205/50 dekk på 17" felger
 
@@ -97,9 +95,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -111,24 +107,21 @@ For første rad tilbyr Fiat Grande Panda to forskjellige setetyper å velge mell
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 
-
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
 - Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
-
-
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -142,7 +135,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 
-
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfortfunksjoner
@@ -154,11 +146,9 @@ Fiat Grande Panda inkluderer flere funksjoner for å forbedre komfort og bekvemm
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Fiat Grande Panda har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
-
 
 Viktige skjermdetaljer:
 
@@ -168,7 +158,6 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
-
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
@@ -188,7 +177,6 @@ Du kan velge mellom to lydsystemer på Fiat Grande Panda.
 
 - Med  får du to høyttalere med en maksimal systemeffekt på  watt.
 - Med Max Sound system får du to høyttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 
@@ -215,6 +203,7 @@ Fiat Grande Panda inkluderer flere [avanserte førerassistanse systemer](../../.
 ### Kjøreautomatisering
 
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
+
 - Fartsbegrenser.
 
 ### Sensorer & Kameraer

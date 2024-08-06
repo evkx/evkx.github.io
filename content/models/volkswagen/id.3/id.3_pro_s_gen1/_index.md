@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/main_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="1998"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volkswagen ID.3 Pro S (GEN1) has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ The Volkswagen ID.3 Pro S (GEN1), with dimensions of 4261 mm in length, 1809 mm 
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.3 Pro S (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 215/55 tires on 18" rims
 - 215/50 tires on 19" rims
 - 215/45 tires on 20" rims
@@ -94,9 +92,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -118,12 +114,9 @@ You can choose from 2 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -133,7 +126,6 @@ Two climate system options are available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -148,22 +140,18 @@ The Volkswagen ID.3 Pro S (GEN1) includes several features to enhance comfort an
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 Two different screen setups are available on the Volkswagen ID.3 Pro S (GEN1).
 
 The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
-
 Key screen details:
 
 - The  screen on the steering column is 5.0 inches large
 - The touch screen on the dashboard's center is 10.0 inches large
 
-
 The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -190,7 +178,6 @@ You can choose between two sound systems on the Volkswagen ID.3 Pro S (GEN1).
 
 - With the Sound system, you get five speakers with a max system output of 140 watts.
 - With the Volkswagen Soundsystem, you get seven speakers with a max system output of 450 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -234,12 +221,15 @@ The Volkswagen ID.3 Pro S (GEN1) includes several standard and optional [advance
 The Volkswagen ID.3 Pro S (GEN1) offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the standard system the model offers no driving automation.
+
 - Cruise control.
 
 With the   level 1 system, you get thadditional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/main_1_st.jpg" title="Lotus Eletre S" width="3000" height="1842"  >}}
 
 Vi har opdelt vores Lotus Eletre S artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lotus Eletre S har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ Den Lotus Eletre S, med dimensioner på 5105 mm i længde,  mm i bredde og 1630 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Eletre S, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 275/40 dæk på 22" fælge foran og 315/35 dæk på 22" fælge bagpå
 - 285/35 dæk på 23" fælge foran og 325/30 dæk på 23" fælge bagpå
 
@@ -94,7 +92,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -118,6 +115,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 - Antracite/Gray [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 - Gray/Yellow [læderbetræk](../../../../technology/seats/materials/#leatherette)
@@ -139,7 +137,6 @@ Muligheden second er dobbelte [executive-sæder](../../../../technology/seats/ty
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
-
 Der er kun én type rat tilgængelig.
 
 ## Klimasystem
@@ -147,7 +144,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -162,10 +158,7 @@ Lotus Eletre S inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -175,7 +168,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/screens_1_st.jpg" title="Lotus Eletre S" width="3000" height="1919"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -195,7 +187,6 @@ Du kan vælge mellem to lydsystemer på Lotus Eletre S.
 
 - Med KEF Premium Audio system får du 15 højttalere med en maksimal systemeffekt på 1380 watt.
 - Med KEF Reference Audio system får du 23 højttalere med en maksimal systemeffekt på 2160 watt.
-
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -236,6 +227,7 @@ Den Lotus Eletre S inkluderer flere standard- og valgfri [avancerede førerassis
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).

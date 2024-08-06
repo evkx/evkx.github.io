@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/main_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Lotus Eletre features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The Lotus Eletre, with dimensions of 5105 mm in length,  mm in width, and 1630 m
 
 You can select from multiple wheel options in different sizes on the Lotus Eletre, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/50 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 275/40 tires on 22" rims front and 315/35 tires on 22" rims rear
 
@@ -94,7 +92,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interior
 
@@ -118,6 +115,7 @@ The following functionalities are available on the **standard** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 
 You can choose from 5 different materials/colors for this seat type.
+
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -128,12 +126,9 @@ You can choose from 5 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -142,7 +137,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -157,10 +151,7 @@ The Lotus Eletre includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -170,7 +161,6 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/screens_1_st.jpg" title="Lotus Eletre" width="3000" height="1919"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -190,7 +180,6 @@ You can choose between two sound systems on the Lotus Eletre.
 
 - With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts.
 - With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
-
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -231,6 +220,7 @@ The Lotus Eletre includes several standard and optional [advanced driver assista
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).

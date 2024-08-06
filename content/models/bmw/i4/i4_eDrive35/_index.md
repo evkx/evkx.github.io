@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/main_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="1999"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 BMW i4 eDrive35 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
@@ -81,6 +78,7 @@ The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and
 
 You can select from multiple wheel options in different sizes on the BMW i4 eDrive35, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 245/45 tires on 18" rims front and 255/45 tires on 18" rims rear
 - 245/40 tires on 19" rims front and 255/40 tires on 19" rims rear
 - 245/35 tires on 20" rims front and 255/35 tires on 20" rims rear
@@ -98,9 +96,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -122,6 +118,7 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 21 different materials/colors for this seat type.
+
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -143,8 +140,6 @@ You can choose from 21 different materials/colors for this seat type.
 - Blue [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
-
-
 The following functionalities are available on the **M Sport** seat.
 
 - electric adjustment
@@ -156,6 +151,7 @@ The following functionalities are available on the **M Sport** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 You can choose from 21 different materials/colors for this seat type.
+
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -180,8 +176,6 @@ You can choose from 21 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
@@ -208,11 +202,9 @@ The BMW i4 eDrive35 includes several features to enhance comfort and convenience
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The BMW i4 eDrive35 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Key screen details:
 
@@ -237,7 +229,6 @@ You can choose between two sound systems on the BMW i4 eDrive35.
 
 - With the Hifi Sound system, you get ten speakers with a max system output of 200 watts.
 - With the Harman Kardon Surround Sound system, you get 17 speakers with a max system output of 445 watts.
-
 
 The model has 4 USB-C connections as standard.
 
@@ -275,10 +266,12 @@ The BMW i4 eDrive35 includes several standard and optional [advanced driver assi
 The BMW i4 eDrive35 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driving Assistant  level 1 system, you get the following driving automation features.
+
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

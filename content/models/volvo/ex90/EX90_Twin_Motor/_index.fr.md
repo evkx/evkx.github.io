@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/main_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2000"  >}}
 
 Nous avons séparé notre article Volvo EX90 Twin Motor en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
@@ -50,7 +48,6 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Transmission
 
 Volvo EX90 Twin Motor dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
@@ -73,6 +70,7 @@ La Volvo EX90 Twin Motor, avec des dimensions de 5037 mm de longueur, 1964 mm de
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EX90 Twin Motor, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
+
 - Pneus 265/45 sur jantes de 21" à l'avant et pneus 295/45 sur jantes de 21" à l'arrière
 - Pneus 265/40 sur jantes de 22" à l'avant et pneus 295/40 sur jantes de 22" à l'arrière
 
@@ -88,7 +86,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Intérieur
 
@@ -112,6 +109,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
 - White [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
@@ -121,8 +119,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-
-
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
@@ -130,8 +126,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 #### Sièges de troisième rangée
-
-
 
 La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
@@ -142,7 +136,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 - **Système de climatisation à 5 zones** : Prend en charge différentes températures dans cinq zones. Le conducteur, le passager et deux zones dans la 2ème rangée et une dans la 3ème rangée.
-
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -158,11 +151,9 @@ L'Volvo EX90 Twin Motor comprend plusieurs fonctionnalités pour améliorer le c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interface utilisateur et contrôle
 
 Le Volvo EX90 Twin Motor possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
-
 
 Détails clés de l'écran :
 
@@ -181,7 +172,6 @@ Vous pouvez choisir entre deux systèmes audio sur le Volvo EX90 Twin Motor.
 
 - Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
 - Avec le Bowers & Wilkins, vous obtenez 25 haut-parleurs avec une puissance système maximale de 1610 watts.
-
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -217,6 +207,7 @@ Le Volvo EX90 Twin Motor comprend plusieurs [systèmes avancés d'assistance au 
 ### Automatisation de la Conduite
 
 Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 

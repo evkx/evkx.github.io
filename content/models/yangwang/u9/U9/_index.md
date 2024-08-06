@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/main_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -49,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -91,9 +88,8 @@ The YangWang U9 is available in a total of 5 paint colors, including several str
 
 You can select from multiple wheel designs, all available in the same size, on the YangWang U9, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 275/35 tires on 21" rims front and 325/30 tires on 21" rims rear
-
-
 
 There is only one roof for this model.
 
@@ -102,12 +98,9 @@ There is only one roof for this model.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Seats
-
 
 #### First row seats
 
@@ -118,9 +111,8 @@ The following functionalities are available on the **** seat.
 - electric adjustment
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
-
-
 
 There is only one type of steering wheel available.
 
@@ -129,7 +121,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -143,11 +134,9 @@ The YangWang U9 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
-
 
 Key screen details:
 
@@ -175,7 +164,6 @@ One type of sound system is available for the YangWang U9.
 
 - With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
 
-
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
@@ -197,6 +185,7 @@ The YangWang U9 includes several standard and optional [advanced driver assistan
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

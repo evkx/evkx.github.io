@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/main_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="1998"  >}}
 
 Vi har opdelt vores Volkswagen ID.3 Pro S (GEN1) artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Volkswagen ID.3 Pro S (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ Den Volkswagen ID.3 Pro S (GEN1), med dimensioner på 4261 mm i længde, 1809 mm
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.3 Pro S (GEN1), så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 215/55 dæk on 18" fælge
 - 215/50 dæk on 19" fælge
 - 215/45 dæk on 20" fælge
@@ -94,9 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -118,12 +114,9 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -133,7 +126,6 @@ To klimaanlægsmuligheder er tilgængelige:
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
-
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
@@ -148,22 +140,18 @@ Volkswagen ID.3 Pro S (GEN1) inkluderer flere funktioner, der forbedrer komfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Volkswagen ID.3 Pro S (GEN1).
 
 Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
-
 Vigtige skærmdetaljer:
 
 - Skærmen  på ratstammen er 5,0 tommer stor
 - Skærmen touch i dashboardets midte er 10,0 tommer stor
 
-
 Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -190,7 +178,6 @@ Du kan vælge mellem to lydsystemer på Volkswagen ID.3 Pro S (GEN1).
 
 - Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
 - Med Volkswagen Soundsystem får du syv højttalere med en maksimal systemeffekt på 450 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -234,12 +221,15 @@ Den Volkswagen ID.3 Pro S (GEN1) inkluderer flere standard- og valgfri [avancere
 Volkswagen ID.3 Pro S (GEN1) tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
+
 - Fartpilot.
 
 Med   niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 

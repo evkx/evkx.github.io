@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/main_1_st.jpg" title="Xiaomi SU7 Max" width="3000" height="1500"  >}}
 
 Vi har opdelt vores Xiaomi SU7 Max artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Xiaomi SU7 Max har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -77,6 +74,7 @@ Den Xiaomi SU7 Max, med dimensioner på 4997 mm i længde, 1963 mm i bredde og 1
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Xiaomi SU7 Max, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 245/45 dæk on 19" fælge
 - 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/35 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
@@ -93,7 +91,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiør
 
@@ -113,6 +110,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
@@ -122,15 +120,12 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/secondrowseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1080"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -152,10 +147,7 @@ Xiaomi SU7 Max inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
-
-
 
 Vigtige skærmdetaljer:
 
@@ -173,7 +165,6 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 Én type lydsystem er tilgængelig for Xiaomi SU7 Max.
 
 - Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
@@ -214,6 +205,7 @@ Den Xiaomi SU7 Max inkluderer flere standard- og valgfri [avancerede førerassis
 ### Køreautomatisering
 
 Med Xiaomi Pilot Max  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).

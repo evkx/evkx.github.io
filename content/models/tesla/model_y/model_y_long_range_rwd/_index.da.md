@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/main_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2250"  >}}
 
 Vi har opdelt vores Tesla Model Y Long Range RWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,7 +48,6 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Model Y Long Range RWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
@@ -79,6 +76,7 @@ Den Tesla Model Y Long Range RWD, med dimensioner på 4751 mm i længde, 1921 mm
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model Y Long Range RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 255/45 dæk on 19" fælge
 - 255/40 dæk on 20" fælge
 - 255/35 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bagpå
@@ -96,9 +94,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -121,20 +117,15 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-
-
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
 #### Sæder på tredje række
 
-
-
 Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
-
 
 Der er kun én type rat tilgængelig.
 
@@ -143,7 +134,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
-
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -160,11 +150,9 @@ Tesla Model Y Long Range RWD inkluderer flere funktioner, der forbedrer komfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model Y Long Range RWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
-
 
 Vigtige skærmdetaljer:
 
@@ -173,7 +161,6 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
-
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -188,7 +175,6 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 Én type lydsystem er tilgængelig for Tesla Model Y Long Range RWD.
 
 - Med Tesla Premium Sound får du 13 højttalere med en maksimal systemeffekt på 560 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -225,15 +211,18 @@ Den Tesla Model Y Long Range RWD inkluderer flere standard- og valgfri [avancere
 Tesla Model Y Long Range RWD tilbyder [køreautomatisering på niveau 2 eller 3](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Basic Autopilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 Med Enhanced Autopilot  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - Avanceret fartpilot, der følger navigationen og slår fra og til på større veje for at nå målet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
+
 - Trafiklys kontrol - følg trafiklysene.
 - Stopskiltkontrol - følg stopskilt.
 

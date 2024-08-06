@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/main_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -50,7 +48,6 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Tesla Model S Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ The Tesla Model S Plaid, with dimensions of 5021 mm in length, 1987 mm in width,
 
 You can select from multiple wheel options in different sizes on the Tesla Model S Plaid, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
@@ -95,9 +93,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -118,15 +114,11 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 #### Second-row seat
-
-
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/secondrowseats_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -135,7 +127,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -150,7 +141,6 @@ The Tesla Model S Plaid includes several features to enhance comfort and conveni
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## User interface and control
 
@@ -177,7 +167,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model S Plaid.
 
 - With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts.
-
 
 ## Lights
 
@@ -212,15 +201,18 @@ The Tesla Model S Plaid includes several standard and optional [advanced driver 
 The Tesla Model S Plaid offers [driving automation at levels 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
 

@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/main_1_st.jpg" title="Audi e-tron 55" width="3000" height="2250"  >}}
 
 Vi har delat in vår beskrivning av Audi e-tron 55 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -56,7 +54,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Audi e-tron 55 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
@@ -101,6 +98,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi e-tron 55, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 255/55 tires on 19" rims
 - 255/50 tires on 20" rims
 - 265/45 tires on 21" rims
@@ -118,9 +116,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -140,8 +136,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **sport** sätet.
 
 - elektrisk justering (valfritt)
@@ -153,8 +147,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **s-line sport** sätet.
 
@@ -168,8 +160,6 @@ Följande funktioner är tillgängliga på **s-line sport** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **s sport** sätet.
 
 - elektrisk justering (valfritt)
@@ -179,8 +169,6 @@ Följande funktioner är tillgängliga på **s sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
@@ -203,8 +191,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
@@ -217,7 +203,6 @@ Två klimatsystemalternativ är tillgängliga:
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -234,11 +219,9 @@ Audi e-tron 55 inkluderar flera funktioner för att förbättra komfort och bekv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Audi e-tron 55 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
-
 
 Viktiga skärmdetaljer:
 
@@ -266,7 +249,6 @@ Du kan välja mellan två ljudsystem på Audi e-tron 55.
 
 - Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -313,10 +295,12 @@ Audi e-tron 55 inkluderar flera [avancerade förarassistanssystem](../../../../t
 Audi e-tron 55 erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

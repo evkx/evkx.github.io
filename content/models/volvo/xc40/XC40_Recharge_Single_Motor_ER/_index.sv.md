@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/main_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
 
 Vi har delat in vår beskrivning av Volvo XC40 Recharge Single Motor ER i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -56,7 +54,6 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Volvo XC40 Recharge Single Motor ER har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
@@ -79,6 +76,7 @@ Volvo XC40 Recharge Single Motor ER, med dimensioner på 4425 mm i längd, 1873 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo XC40 Recharge Single Motor ER, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 235/50 tires on 19" rims
 - 235/45 tires on 20" rims
 
@@ -93,9 +91,7 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -117,8 +113,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -130,7 +124,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -145,11 +138,9 @@ Volvo XC40 Recharge Single Motor ER inkluderar flera funktioner för att förbä
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Volvo XC40 Recharge Single Motor ER har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -168,7 +159,6 @@ Du kan välja mellan två ljudsystem på Volvo XC40 Recharge Single Motor ER.
 
 - Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt.
 - Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
-
 
 Modellen har 1 USB-C-anslutningar som standard.
 
@@ -204,6 +194,7 @@ Volvo XC40 Recharge Single Motor ER inkluderar flera [avancerade förarassistans
 ### Körautomatisering
 
 Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

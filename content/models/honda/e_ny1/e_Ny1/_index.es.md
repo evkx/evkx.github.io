@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/main_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 Hemos separado nuestro artículo Honda e:Ny1 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -42,13 +40,11 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [frente](../../../../technology/charging/connectors/#front). Esta ubicación lo hace estaciones de carga fáciles de usar donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Tren de transmisión
 
@@ -60,8 +56,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ### Frenos
 
-
-
 ### Frenado regenerativo
 
 
@@ -71,9 +65,6 @@ El Honda e:Ny1, con dimensiones de 4390 mm de longitud, 1790 mm de anchura y  mm
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda e:Ny1, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-
-
-
 Sólo hay un techo para este modelo.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
@@ -81,12 +72,9 @@ Sólo hay un techo para este modelo.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
 
-
 ### Asientos
-
 
 #### Asientos de primera fila
 
@@ -94,23 +82,17 @@ El Honda e:Ny1 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
 
 #### Asiento de segunda fila
 
-
-
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
-
 
 ## Características de confort
 
@@ -120,11 +102,9 @@ El Honda e:Ny1 incluye varias características para mejorar la comodidad y conve
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Honda e:Ny1 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
-
 
 Detalles clave de la pantalla:
 
@@ -143,7 +123,6 @@ Un tipo de sistema de sonido está disponible para el Honda e:Ny1.
 
 - Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
-
 ## Luces
 
 **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
@@ -161,6 +140,7 @@ El Honda e:Ny1 incluye varios [sistemas avanzados de asistencia al conductor](..
 ### Automatización de la Conducción
 
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
+
 
 
 {{<evkxdisplayaddarticle />}}

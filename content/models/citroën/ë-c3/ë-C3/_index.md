@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/main_1_st.jpg" title="Citroën ë-C3" width="3000" height="1500"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -52,7 +50,6 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Citroën ë-C3 has a front-wheel drive system supported by one motor on the front axle.
@@ -81,6 +78,7 @@ The Citroën ë-C3, with dimensions of 4015 mm in length, 1755 mm in width, and 
 
 You can select from multiple wheel options in different sizes on the Citroën ë-C3, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 205/55 tires on 16" rims
 - 205/50 tires on 17" rims
 
@@ -97,9 +95,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -111,12 +107,12 @@ For the front row, the Citroën ë-C3 offers two different seat types to choose 
 
 The following functionalities are available on the **Start** seat.
 
-
 The following functionalities are available on the **Advanced Comfort** seat.
 
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
@@ -130,19 +126,18 @@ The following functionalities are available on the **Standard** seat.
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 The following functionalities are available on the **Advanced Comfort** seat.
 
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
+
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -151,7 +146,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -164,11 +158,9 @@ The Citroën ë-C3 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -178,7 +170,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -198,7 +189,6 @@ You can choose between two sound systems on the Citroën ë-C3.
 
 - With the , you get two speakers with a max system output of  watts.
 - With the Max Sound system, you get two speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -225,6 +215,7 @@ The Citroën ë-C3 includes several standard and optional [advanced driver assis
 ### Driving Automation
 
 With the standard system the model offers no driving automation.
+
 - Cruise control.
 
 ### Sensors & Cameras

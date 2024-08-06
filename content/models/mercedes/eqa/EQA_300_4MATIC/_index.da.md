@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/main_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 Vi har opdelt vores Mercedes-EQ EQA 300 4MATIC artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
@@ -50,13 +48,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Mercedes-EQ EQA 300 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
 ### Hjulophæng
-
 
 ### Styring
 
@@ -76,6 +72,7 @@ Den Mercedes-EQ EQA 300 4MATIC, med dimensioner på 4463 mm i længde, 1834 mm i
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ EQA 300 4MATIC, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+
 - 235/55 dæk on 18" fælge
 - 235/50 dæk on 19" fælge
 
@@ -90,9 +87,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Sæder
 
@@ -115,8 +110,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
-
-
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 - elektrisk justering
@@ -136,8 +129,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
-
-
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -163,11 +154,9 @@ Mercedes-EQ EQA 300 4MATIC inkluderer flere funktioner, der forbedrer komfort og
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brugergrænseflade og kontrol
 
 Mercedes-EQ EQA 300 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
-
 
 Vigtige skærmdetaljer:
 
@@ -177,7 +166,6 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
-
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
@@ -199,7 +187,6 @@ Du kan vælge mellem to lydsystemer på Mercedes-EQ EQA 300 4MATIC.
 
 - Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt.
 - Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
-
 
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
@@ -238,6 +225,7 @@ Den Mercedes-EQ EQA 300 4MATIC inkluderer flere standard- og valgfri [avancerede
 Mercedes-EQ EQA 300 4MATIC tilbyder [køreautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
 Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner til køreautomatisering.
+
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 

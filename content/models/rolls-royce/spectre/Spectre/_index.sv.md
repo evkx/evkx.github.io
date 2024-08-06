@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/main_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1999"  >}}
 
 Vi har delat in vår beskrivning av Rolls-Royce Spectre i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Rolls-Royce Spectre har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
@@ -65,8 +62,6 @@ Dynamisk styrning är standard-funktionen för Rolls-Royce Spectre. Dynamisk sty
 
 ### Bromsar
 
-
-
 ### Regenerativ bromsning
 
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
@@ -76,6 +71,7 @@ Dynamisk styrning är standard-funktionen för Rolls-Royce Spectre. Dynamisk sty
 Rolls-Royce Spectre, med dimensioner på 5475 mm i längd, 2017 mm i bredd och 1573 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rolls-Royce Spectre, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
 
 - 255/50 däck på 23" fälgar fram och 275/40 däck på 23" fälgar bak
 
@@ -90,9 +86,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -114,6 +108,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 7 olika material/färger för denna sitstyp.
+
 -  [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 -  [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
@@ -126,8 +121,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 För den andra raden har den här modellen dubbla [executive-säten](../../../../technology/seats/types/#twin-executive-säten). Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
@@ -136,7 +129,6 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 
@@ -158,11 +150,9 @@ Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Rolls-Royce Spectre har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
-
 
 Viktiga skärmdetaljer:
 
@@ -189,7 +179,6 @@ Du kan välja mellan två ljudsystem på Rolls-Royce Spectre.
 
 - Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt.
 - Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
-
 
 Modellen har 6 USB-C-anslutningar som standard.
 
@@ -227,6 +216,7 @@ Rolls-Royce Spectre inkluderar flera [avancerade förarassistanssystem](../../..
 ### Körautomatisering
 
 Med Driving Assistant Professional  nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)

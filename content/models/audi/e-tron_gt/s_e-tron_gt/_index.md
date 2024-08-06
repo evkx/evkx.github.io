@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/main_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -51,7 +49,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [left front side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivetrain
 
@@ -95,9 +92,8 @@ You can also choose several styling options to make your car more unique.
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-
-
 You can select from multiple wheel options in different sizes on the Audi S e-tron GT, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
@@ -116,9 +112,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -137,8 +131,6 @@ The following functionalities are available on the **sport** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
-
 The following functionalities are available on the **sport plus** seat.
 
 - electric adjustment
@@ -148,8 +140,6 @@ The following functionalities are available on the **sport plus** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 2 different materials/colors for this seat type.
-
-
 
 The following functionalities are available on the **sport pro** seat.
 
@@ -168,7 +158,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
-
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -176,7 +165,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
-
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -192,11 +180,9 @@ The Audi S e-tron GT includes several features to enhance comfort and convenienc
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Audi S e-tron GT has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -221,7 +207,6 @@ You can choose between two sound systems on the Audi S e-tron GT.
 
 - With the Audi Sound system, you get ten speakers with a max system output of 180 watts.
 - With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
-
 
 ## Lights
 
@@ -266,9 +251,11 @@ The Audi S e-tron GT includes several standard and optional [advanced driver ass
 The Audi S e-tron GT offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
+
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

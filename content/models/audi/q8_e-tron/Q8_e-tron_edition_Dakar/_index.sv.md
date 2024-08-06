@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/main_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
 Vi har delat in vår beskrivning av Audi Q8 e-tron edition Dakar i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -51,7 +49,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Drivlina
 
@@ -97,6 +94,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q8 e-tron edition Dakar, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/60 tires on 18" rims
 - 255/55 tires on 19" rims
 
@@ -113,9 +111,7 @@ B-stolpen och vyerna bak är tonade. Som ett alternativ finns dubbelglasade sido
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -135,8 +131,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **sport** sätet.
 
 - elektrisk justering (valfritt)
@@ -148,8 +142,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **s-line sport** sätet.
 
@@ -163,8 +155,6 @@ Följande funktioner är tillgängliga på **s-line sport** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
-
 Följande funktioner är tillgängliga på **s sport** sätet.
 
 - elektrisk justering (valfritt)
@@ -174,8 +164,6 @@ Följande funktioner är tillgängliga på **s sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
-
-
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
@@ -198,14 +186,11 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -215,7 +200,6 @@ Två klimatsystemalternativ är tillgängliga:
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -232,11 +216,9 @@ Audi Q8 e-tron edition Dakar inkluderar flera funktioner för att förbättra ko
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 Audi Q8 e-tron edition Dakar har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
-
 
 Viktiga skärmdetaljer:
 
@@ -264,7 +246,6 @@ Du kan välja mellan två ljudsystem på Audi Q8 e-tron edition Dakar.
 
 - Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
-
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
@@ -310,10 +291,12 @@ Audi Q8 e-tron edition Dakar inkluderar flera [avancerade förarassistanssystem]
 Audi Q8 e-tron edition Dakar erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+
 - Farthållare.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 Med Assistantpackage Tour  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 

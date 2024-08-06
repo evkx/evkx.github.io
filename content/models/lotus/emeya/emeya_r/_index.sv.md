@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/main_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
 Vi har delat in vår beskrivning av Lotus Emeya R i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 Lotus Emeya R har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
@@ -79,6 +76,7 @@ Lotus Emeya R, med dimensioner på 5139 mm i längd, 2005 mm i bredd och 1464 mm
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lotus Emeya R, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 265/40 däck på 21" fälgar fram och 305/35 däck på 21" fälgar bak
 - 265/35 däck på 22" fälgar fram och 305/30 däck på 22" fälgar bak
 
@@ -94,7 +92,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 ## Interiör
 
@@ -118,6 +115,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+
 - Red/Black [klädselmikrofiber/nappaläder](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [klädselmikrofiber/nappaläder](../../../../technology/seats/materials/#nappaleather)
 - Gray/Yellow [läderklädsel](../../../../technology/seats/materials/#leatherette)
@@ -139,7 +137,6 @@ Alternativ second är två [chefsplatser](../../../../technology/seats/types/#tw
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/secondrowseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
-
 Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
@@ -147,7 +144,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
-
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -162,10 +158,7 @@ Lotus Emeya R inkluderar flera funktioner för att förbättra komfort och bekv�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
-
-
 
 Viktiga skärmdetaljer:
 
@@ -175,7 +168,6 @@ Viktiga skärmdetaljer:
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/screens_1_st.jpg" title="Lotus Emeya R" width="3000" height="1285"  >}}
-
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
@@ -195,7 +187,6 @@ Du kan välja mellan två ljudsystem på Lotus Emeya R.
 
 - Med KEF Premium Audio system får du 15 högtalare med en maximal systemeffekt på 1380 watt.
 - Med KEF Reference Audio system får du 23 högtalare med en maximal systemeffekt på 2160 watt.
-
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -234,6 +225,7 @@ Lotus Emeya R inkluderar flera [avancerade förarassistanssystem](../../../../te
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).

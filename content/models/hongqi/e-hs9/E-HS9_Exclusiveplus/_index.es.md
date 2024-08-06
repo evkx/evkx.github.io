@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/main_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="2050"  >}}
 
 Hemos separado nuestro artículo Hongqi E-HS9 Exclusive+ en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
@@ -50,7 +48,6 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Tren de transmisión
 
 Hongqi E-HS9 Exclusive+ tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
@@ -77,6 +74,7 @@ El Hongqi E-HS9 Exclusive+, con dimensiones de 5209 mm de longitud, 2010 mm de a
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Hongqi E-HS9 Exclusive+, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+
 - Neumáticos 265/45 en llantas de 21
 - Neumáticos 275/40 en llantas de 22
 
@@ -91,9 +89,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Asientos
 
@@ -116,10 +112,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
-
 #### Asiento de segunda fila
-
-
 
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
@@ -128,8 +121,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 #### Asientos de tercera fila
-
-
 
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
 
@@ -153,11 +144,9 @@ El Hongqi E-HS9 Exclusive+ incluye varias características para mejorar la comod
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interfaz de usuario y control
 
 El Hongqi E-HS9 Exclusive+ tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). En el centro del En el salpicadero hay una pantalla de infoentretenimiento y en la consola central hay una pantalla para el sistema climático. Para el pasajero hay una pantalla de infoentretenimiento.
-
 
 Detalles clave de la pantalla:
 
@@ -169,7 +158,6 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
-
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 
@@ -184,7 +172,6 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 Un tipo de sistema de sonido está disponible para el Hongqi E-HS9 Exclusive+.
 
 - Con el Hongqi sound system, obtienes 16 parlantes con una salida máxima del sistema de  vatios.
-
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
 
@@ -223,6 +210,7 @@ El Hongqi E-HS9 Exclusive+ incluye varios [sistemas avanzados de asistencia al c
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).

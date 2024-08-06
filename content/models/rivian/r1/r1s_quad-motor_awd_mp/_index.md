@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/main_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -51,7 +49,6 @@ The location of the charge port is on the [left front corner](../../../../techno
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Rivian R1S Quad-Motor AWD MP has an all-wheel drive system supported by four motors. One for each wheel.
@@ -90,6 +87,7 @@ The Rivian R1S Quad-Motor AWD MP, with dimensions of 5100 mm in length,  mm in w
 
 You can select from multiple wheel options in different sizes on the Rivian R1S Quad-Motor AWD MP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 275/65 tires on 20" rims front and 275/65 tires on 20" rims rear
 - 275/50 tires on 22" rims
 
@@ -106,9 +104,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -128,6 +124,7 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 3 different materials/colors for this seat type.
+
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -136,16 +133,12 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 #### Third-row seats
-
-
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
@@ -156,7 +149,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
-
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -172,11 +164,9 @@ The Rivian R1S Quad-Motor AWD MP includes several features to enhance comfort an
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
 
 The Rivian R1S Quad-Motor AWD MP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
-
 
 Key screen details:
 
@@ -186,7 +176,6 @@ Key screen details:
 The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -203,7 +192,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Rivian R1S Quad-Motor AWD MP.
 
 - With the Rivian Premium Audio, you get 19 speakers with a max system output of 960 watts.
-
 
 The model has 6 USB-C connections as standard.
 
@@ -238,6 +226,7 @@ The Rivian R1S Quad-Motor AWD MP includes several standard and optional [advance
 ### Driving Automation
 
 With the Driver+  level 2 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

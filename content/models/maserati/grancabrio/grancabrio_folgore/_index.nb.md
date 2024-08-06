@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/main_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1850"  >}}
 
 Vi har delt vår beskrivelse av Maserati GranCabrio Folgore i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
@@ -50,7 +48,6 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivverk
 
 Maserati GranCabrio Folgore har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
@@ -84,6 +81,7 @@ Maserati GranCabrio Folgore er tilgjengelig i totalt 8 lakkfarger, inkludert bå
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Maserati GranCabrio Folgore, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
+
 - 255/50 dekk på 19" felger
 - 255/45 dekk på 20" felger foran og 295/40 dekk på 20" felger bak
 - 255/40 dekk på 21" felger foran og 295/35 dekk på 21" felger bak
@@ -101,9 +99,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiør
-
 
 ### Seter
 
@@ -128,15 +124,12 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-
-
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
-
 
 Det er bare én type ratt tilgjengelig.
 
@@ -145,7 +138,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-
 
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
@@ -161,11 +153,9 @@ Maserati GranCabrio Folgore inkluderer flere funksjoner for å forbedre komfort 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Brukergrensesnitt og kontroll
 
 Maserati GranCabrio Folgore har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen).
-
 
 Viktige skjermdetaljer:
 
@@ -193,7 +183,6 @@ Du kan velge mellom to lydsystemer på Maserati GranCabrio Folgore.
 
 - Med Sonus Faber Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 860 watt.
 - Med Sonus Faber High Premium Sound System får du 21 høyttalere med en maksimal systemeffekt på 1285 watt.
-
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 
@@ -232,6 +221,7 @@ Maserati GranCabrio Folgore inkluderer flere [avanserte førerassistanse systeme
 ### Kjøreautomatisering
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)

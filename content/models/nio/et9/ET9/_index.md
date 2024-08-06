@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/nio/et9/et9/main_1_st.jpg" title="Nio ET9" width="2560" height="1360"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
@@ -54,7 +52,6 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivetrain
 
 Nio ET9 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
@@ -83,6 +80,7 @@ The Nio ET9, with dimensions of 5325 mm in length, 2016 mm in width, and 1620 mm
 
 You can select from multiple wheel designs, all available in the same size, on the Nio ET9, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
+
 - 265/40 tires on 23" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
@@ -94,9 +92,7 @@ There is only one roof for this model. The standard roof includes a large panora
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interior
-
 
 ### Seats
 
@@ -124,8 +120,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 #### Second-row seat
 
-
-
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -136,7 +130,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
-
 
 There is only one type of steering wheel available.
 
@@ -158,10 +151,7 @@ The Nio ET9 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## User interface and control
-
-
 
 Key screen details:
 
@@ -183,7 +173,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Nio ET9.
 
 - With the Premium sound system, you get 23 speakers with a max system output of  watts.
-
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -224,10 +213,12 @@ The Nio ET9 includes several standard and optional [advanced driver assistance s
 The Nio ET9 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the NIO Pilot Selected Pack  level 1 system, you get the following driving automation features.
+
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
+
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 

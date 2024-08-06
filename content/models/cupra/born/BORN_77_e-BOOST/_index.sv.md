@@ -9,8 +9,6 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/main_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2000"  >}}
 
 Vi har delat in vår beskrivning av CUPRA BORN 77 e-BOOST i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
@@ -50,7 +48,6 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Drivlina
 
 CUPRA BORN 77 e-BOOST har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
@@ -77,6 +74,7 @@ CUPRA BORN 77 e-BOOST, med dimensioner på 4322 mm i längd, 1809 mm i bredd och
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på CUPRA BORN 77 e-BOOST, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
+
 - 215/55 tires on 18" rims
 - 215/50 tires on 19" rims
 - 215/45 tires on 20" rims
@@ -94,9 +92,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Interiör
-
 
 ### Säten
 
@@ -121,10 +117,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-
-
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -133,7 +126,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
-
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
@@ -148,11 +140,9 @@ CUPRA BORN 77 e-BOOST inkluderar flera funktioner för att förbättra komfort o
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Användargränssnitt och kontroll
 
 CUPRA BORN 77 e-BOOST har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
-
 
 Viktiga skärmdetaljer:
 
@@ -179,7 +169,6 @@ Du kan välja mellan två ljudsystem på CUPRA BORN 77 e-BOOST.
 
 - Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt.
 - Med Beats Audio får du nio högtalare med en maximal systemeffekt på 395 watt.
-
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -220,12 +209,15 @@ CUPRA BORN 77 e-BOOST inkluderar flera [avancerade förarassistanssystem](../../
 CUPRA BORN 77 e-BOOST erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
+
 - Farthållare.
 
 Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
