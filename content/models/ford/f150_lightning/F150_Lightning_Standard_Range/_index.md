@@ -195,7 +195,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Ford F150 Lightning Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Ford F150 Lightning Standard Range, this system prevents the wheels from locking during braking.
 

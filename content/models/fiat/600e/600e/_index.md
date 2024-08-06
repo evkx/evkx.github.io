@@ -189,7 +189,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Fiat 600e has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Fiat 600e, this system prevents the wheels from locking during braking.
 

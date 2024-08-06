@@ -179,7 +179,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The MG Cyberster AWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the MG Cyberster AWD Long Range, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 

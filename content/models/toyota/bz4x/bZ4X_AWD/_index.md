@@ -196,7 +196,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Toyota bZ4X AWD, this system prevents the wheels from locking during braking.
 

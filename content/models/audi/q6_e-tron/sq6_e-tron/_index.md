@@ -254,17 +254,17 @@ Additionally, you have two options for taillights:
 
 The Audi SQ6 e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard feature that helps drivers anticipate driving conditions and conserve energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) : A a standard feature that helps drivers anticipate driving conditions and conserve energy.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Audi SQ6 e-tron, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Audi SQ6 e-tron, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Audi SQ6 e-tron, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Audi SQ6 e-tron, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Audi SQ6 e-tron, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Audi SQ6 e-tron, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : Optional on the Audi SQ6 e-tron, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
@@ -292,7 +292,7 @@ With the Adaptive Cruise Assist  level 2 system, you get additional driving auto
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

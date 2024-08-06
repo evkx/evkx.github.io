@@ -219,11 +219,11 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Li Auto MEGA has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard feature that helps drivers anticipate driving conditions and conserve energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) : A a standard feature that helps drivers anticipate driving conditions and conserve energy.
 
-### Safety systems
+### Safety Systems
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Li Auto MEGA, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Li Auto MEGA, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Li Auto MEGA, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
@@ -247,7 +247,7 @@ With the AD Max  level 2 system, you get additional driving automation features 
 ### Sensors & Cameras
 
 This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assist systems.
-Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

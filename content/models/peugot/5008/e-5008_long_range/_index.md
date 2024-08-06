@@ -211,7 +211,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Peugot E-5008 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Peugot E-5008 Long Range, this system prevents the wheels from locking during braking.
 
@@ -236,7 +236,7 @@ With the Drive Assist Plus  level 2 system, you get additional driving automatio
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
-Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
+Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

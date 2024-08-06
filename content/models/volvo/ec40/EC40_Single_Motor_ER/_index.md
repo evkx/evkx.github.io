@@ -186,11 +186,11 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Volvo EC40 Single Motor ER has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard feature that helps drivers anticipate driving conditions and conserve energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) : A a standard feature that helps drivers anticipate driving conditions and conserve energy.
 
-### Safety systems
+### Safety Systems
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Volvo EC40 Single Motor ER, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Volvo EC40 Single Motor ER, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Volvo EC40 Single Motor ER, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 

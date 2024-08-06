@@ -156,7 +156,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Honda e:Ny1 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 ### Driving Automation
 

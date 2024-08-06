@@ -186,7 +186,7 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 The Alfa Romeo Junior Veloce has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-### Safety systems
+### Safety Systems
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Alfa Romeo Junior Veloce, this system prevents the wheels from locking during braking.
 
