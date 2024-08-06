@@ -250,12 +250,13 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 1430 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2366 kg (5216 lbs), you can max load 484 kg (1067 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 484kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 668 liters (23.6 CU FT). With the rear seat folded down, this expands to 1430 liters (50.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+The vehicle’s maximum weight is 2850 kg (6283 lbs), with a base weight of 2366 kg (5216 lbs). This allows for a maximum load of 484 kg (1067 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 484kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

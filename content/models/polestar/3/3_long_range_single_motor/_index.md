@@ -215,12 +215,13 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 484 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 2980 kg (6570 lbs), and with the base weight of 2500 kg (5512 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 484 liters (17.1 CU FT). With the rear seat folded down, this expands to 1411 liters (49.8 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2200, and on unbraked, it is 750 kg (4850/1653 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 2980 kg (6570 lbs), with a base weight of 2500 kg (5512 lbs). This allows for a maximum load of 480 kg (1058 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 480kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2200 kg (4850 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Polestar 3 </strong>
 </a>

@@ -273,10 +273,11 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1990 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 3010 kg (6636 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 490kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 555 liters (19.6 CU FT). With the rear seat folded down, this expands to 1990 liters (70.3 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 3500 kg (7716 lbs), with a base weight of 3010 kg (6636 lbs). This allows for a maximum load of 490 kg (1080 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 490kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

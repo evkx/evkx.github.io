@@ -236,10 +236,9 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 204 liters. With the third-row seat down, it is 587 liters.
+The trunk offers a cargo capacity of 204 liters (7.2 CU FT). With the third-row seat folded down, this expands to 587 liters (7.2 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

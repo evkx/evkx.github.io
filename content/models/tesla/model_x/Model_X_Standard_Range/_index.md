@@ -232,10 +232,11 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters (6.5 CU FT). The maxium weight of the car is 2970 kg (6548 lbs), and with the base weight of 2464 kg (5432 lbs), you can max load 506 kg (1116 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 709 liters (25.0 CU FT). With the rear seat folded down, this expands to 1828 liters (64.6 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 183 liters (6.5 CU FT).
+
+The vehicle’s maximum weight is 2970 kg (6548 lbs), with a base weight of 2464 kg (5432 lbs). This allows for a maximum load of 506 kg (1116 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
 

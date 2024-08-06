@@ -210,12 +210,13 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 526 liters. With the rear seat down, it is 1536 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0.5 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2351 kg (5183 lbs), you can max load 729 kg (1607 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 526 liters (18.6 CU FT). With the rear seat folded down, this expands to 1536 liters (54.2 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 15 liters (0.5 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 3080 kg (6790 lbs), with a base weight of 2351 kg (5183 lbs). This allows for a maximum load of 729 kg (1607 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Polestar 4 </strong>
 </a>

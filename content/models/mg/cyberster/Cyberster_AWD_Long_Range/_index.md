@@ -192,10 +192,11 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 240 liters. The maxium weight of the car is 2250 kg (4960 lbs), and with the base weight of 1985 kg (4376 lbs), you can max load 265 kg (584 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 240 liters (8.5 CU FT).
+
+The vehicle’s maximum weight is 2250 kg (4960 lbs), with a base weight of 1985 kg (4376 lbs). This allows for a maximum load of 265 kg (584 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

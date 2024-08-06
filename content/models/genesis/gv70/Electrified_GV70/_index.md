@@ -225,12 +225,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 503 liters. With the rear seat down, it is 1678 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 25 liters (0.9 CU FT). The maxium weight of the car is 2845 kg (6272 lbs), and with the base weight of 2235 kg (4927 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 503 liters (17.8 CU FT). With the rear seat folded down, this expands to 1678 liters (59.3 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 25 liters (0.9 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 2845 kg (6272 lbs), with a base weight of 2235 kg (4927 lbs). This allows for a maximum load of 610 kg (1345 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Genesis GV70 </strong>
 </a>

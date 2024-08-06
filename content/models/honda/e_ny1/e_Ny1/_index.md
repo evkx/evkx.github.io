@@ -165,10 +165,11 @@ With the standard system the model offers no driving automation.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 346 liters. The maxium weight of the car is 2080 kg (4586 lbs), and with the base weight of 1677 kg (3697 lbs), you can max load 403 kg (888 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 346 liters (12.2 CU FT).
+
+The vehicle’s maximum weight is 2080 kg (4586 lbs), with a base weight of 1677 kg (3697 lbs). This allows for a maximum load of 403 kg (888 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

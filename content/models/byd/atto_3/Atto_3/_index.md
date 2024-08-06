@@ -235,10 +235,11 @@ With the   level 1 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50 kg (110.2 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2160 kg (4762 lbs), and with the base weight of 1750 kg (3858 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 440 liters (15.5 CU FT). With the rear seat folded down, this expands to 1338 liters (47.3 CU FT). On the roof, you can load up to 50 kg (110.2 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 2160 kg (4762 lbs), with a base weight of 1750 kg (3858 lbs). This allows for a maximum load of 410 kg (904 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

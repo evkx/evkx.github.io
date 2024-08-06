@@ -228,10 +228,11 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1449 liters. The maxium weight of the car is 2501 kg (5514 lbs), and with the base weight of 1900 kg (4189 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1449 liters (51.2 CU FT).
+
+The vehicle’s maximum weight is 2501 kg (5514 lbs), with a base weight of 1900 kg (4189 lbs). This allows for a maximum load of 601 kg (1325 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

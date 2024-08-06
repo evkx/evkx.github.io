@@ -227,12 +227,13 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, and length is 1704 mm. The max load weight in bed is 907 kg. Under the hood, there is frunk with more storage room. This frunk is 399 liters (14.1 CU FT). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 2890 kg (6371 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The truck bed offers a cargo capacity of 1495 liters (52.8 CU FT). It has a width of 1285 mm (50.6 inches) and a length of 1704 mm  (67.1 inches), with a maximum load weight of 907 kg (1999.6 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 399 liters (14.1 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 3490, and on unbraked, it is 750 kg (7694/1653 lbs).
+The vehicle’s maximum weight is 3500 kg (7716 lbs), with a base weight of 2890 kg (6371 lbs). This allows for a maximum load of 610 kg (1345 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 3490 kg (7694 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 

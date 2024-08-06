@@ -209,12 +209,11 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 863 liters. With the rear seat down, it is 1676 liters.
+The trunk offers a cargo capacity of 863 liters (30.5 CU FT). With the rear seat folded down, this expands to 1676 liters (59.2 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750 kg (3501/1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

@@ -214,12 +214,13 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 362 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 7 liters (0.2 CU FT). The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 1960 kg (4321 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 362 liters (12.8 CU FT). With the rear seat folded down, this expands to 904 liters (31.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 7 liters (0.2 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+The vehicle’s maximum weight is 2520 kg (5556 lbs), with a base weight of 1960 kg (4321 lbs). This allows for a maximum load of 560 kg (1235 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 

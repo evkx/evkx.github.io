@@ -240,12 +240,13 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), fi
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 300 liters. With the rear seat down, it is 1815 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2640 kg (5820 lbs), and with the base weight of 2225 kg (4905 lbs), you can max load 415 kg (915 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 415kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 300 liters (10.6 CU FT). With the rear seat folded down, this expands to 1815 liters (64.1 CU FT). On the roof, you can load up to 80 kg (176.4 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+The vehicle’s maximum weight is 2640 kg (5820 lbs), with a base weight of 2225 kg (4905 lbs). This allows for a maximum load of 415 kg (915 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 415kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

@@ -225,12 +225,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 432 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 432 liters (15.3 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 2610 kg (5754 lbs), with a base weight of 2020 kg (4453 lbs). This allows for a maximum load of 590 kg (1301 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Genesis GV60 </strong>
 </a>

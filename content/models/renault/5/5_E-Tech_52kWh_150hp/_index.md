@@ -218,12 +218,13 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 326 liters. The maxium weight of the car is 1780 kg (3924 lbs), and with the base weight of 1350 kg (2976 lbs), you can max load 430 kg (948 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 326 liters (11.5 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 1780 kg (3924 lbs), with a base weight of 1350 kg (2976 lbs). This allows for a maximum load of 430 kg (948 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 500 kg (1102 lbs), while for an unbraked trailer, it is 500 kg (1102 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Renault 5 </strong>
 </a>

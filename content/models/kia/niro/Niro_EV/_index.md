@@ -226,12 +226,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 220 kg (485 lbs), and with the base weight of 1557 kg (3433 lbs), you can max load -1337 kg (-2948 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 475 liters (16.8 CU FT). With the rear seat folded down, this expands to 1392 liters (49.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 20 liters (0.7 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 300 kg (1653/661 lbs).
+The vehicle’s maximum weight is 220 kg (485 lbs), with a base weight of 1557 kg (3433 lbs). This allows for a maximum load of -1337 kg (-2948 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 300 kg (661 lbs).
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

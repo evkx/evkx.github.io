@@ -211,12 +211,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 448 liters. With the rear seat down, it is 1166 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 150 liters (5.3 CU FT). The maxium weight of the car is 2070 kg (4564 lbs), and with the base weight of 1620 kg (3571 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 450kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 448 liters (15.8 CU FT). With the rear seat folded down, this expands to 1166 liters (41.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 150 liters (5.3 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
+The vehicle’s maximum weight is 2070 kg (4564 lbs), with a base weight of 1620 kg (3571 lbs). This allows for a maximum load of 450 kg (992 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 450kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 500 kg (1102 lbs), while for an unbraked trailer, it is 500 kg (1102 lbs).
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/trunk_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1707"  >}}
 

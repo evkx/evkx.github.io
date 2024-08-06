@@ -336,12 +336,13 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3170 kg (6989 lbs), and with the base weight of 2520 kg (5556 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 660 liters (23.3 CU FT). With the rear seat folded down, this expands to 1725 liters (60.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
+The vehicle’s maximum weight is 3170 kg (6989 lbs), with a base weight of 2520 kg (5556 lbs). This allows for a maximum load of 650 kg (1433 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/trunk_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2001"  >}}
 

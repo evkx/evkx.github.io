@@ -219,12 +219,13 @@ With the standard system the model offers no driving automation.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 441 liters. With the rear seat down, it is 784 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2550 kg (5622 lbs), and with the base weight of 2010 kg (4431 lbs), you can max load 540 kg (1190 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 441 liters (15.6 CU FT). With the rear seat folded down, this expands to 784 liters (27.7 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
+The vehicle’s maximum weight is 2550 kg (5622 lbs), with a base weight of 2010 kg (4431 lbs). This allows for a maximum load of 540 kg (1190 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

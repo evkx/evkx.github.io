@@ -276,12 +276,13 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2640 kg (5820 lbs), and with the base weight of 2050 kg (4519 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 520 liters (18.4 CU FT). With the rear seat folded down, this expands to 1490 liters (52.6 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+The vehicle’s maximum weight is 2640 kg (5820 lbs), with a base weight of 2050 kg (4519 lbs). This allows for a maximum load of 590 kg (1301 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/trunk_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2249"  >}}
 

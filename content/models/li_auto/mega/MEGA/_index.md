@@ -251,10 +251,11 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 1054 liters. With the third-row seat down, it is 1800 liters. Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3400 kg (7496 lbs), and with the base weight of 2763 kg (6091 lbs), you can max load 637 kg (1404 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 1054 liters (37.2 CU FT). With the third-row seat folded down, this expands to 1800 liters (37.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
+
+The vehicle’s maximum weight is 3400 kg (7496 lbs), with a base weight of 2763 kg (6091 lbs). This allows for a maximum load of 637 kg (1404 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

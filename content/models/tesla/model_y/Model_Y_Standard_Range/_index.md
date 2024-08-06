@@ -275,10 +275,11 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 117 liters (4.1 CU FT). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 854 liters (30.2 CU FT). With the rear seat folded down, this expands to 2158 liters (76.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 117 liters (4.1 CU FT).
+
+The vehicle’s maximum weight is 2720 kg (5997 lbs), with a base weight of 2135 kg (4707 lbs). This allows for a maximum load of 585 kg (1290 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 

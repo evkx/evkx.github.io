@@ -185,10 +185,9 @@ With the standard system the model offers no driving automation.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 200 liters. With the rear seat down, it is 800 liters.
+The trunk offers a cargo capacity of 200 liters (7.1 CU FT). With the rear seat folded down, this expands to 800 liters (28.3 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

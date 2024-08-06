@@ -199,12 +199,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. Under the hood, there is frunk with more storage room. This frunk is 150 liters (5.3 CU FT). The maxium weight of the car is 2288 kg (5044 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 478kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 359 liters (12.7 CU FT). With the rear seat folded down, this expands to 1396 liters (49.3 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 150 liters (5.3 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
+The vehicle’s maximum weight is 2288 kg (5044 lbs), with a base weight of 1810 kg (3990 lbs). This allows for a maximum load of 478 kg (1054 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 478kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 

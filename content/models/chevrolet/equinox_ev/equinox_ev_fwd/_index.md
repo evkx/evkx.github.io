@@ -222,12 +222,11 @@ With the Super Cruise  level 2 system, you get additional driving automation fea
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 748 liters. With the rear seat down, it is 1614 liters.
+The trunk offers a cargo capacity of 748 liters (26.4 CU FT). With the rear seat folded down, this expands to 1614 liters (57.0 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 680, and on unbraked, it is 680 kg (1499/1499 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 680 kg (1499 lbs), while for an unbraked trailer, it is 680 kg (1499 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

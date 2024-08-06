@@ -247,12 +247,13 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 605 liters. With the rear seat down, it is 1714 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2630 kg (5798 lbs), and with the base weight of 2197 kg (4844 lbs), you can max load 433 kg (955 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 605 liters (21.4 CU FT). With the rear seat folded down, this expands to 1714 liters (60.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+The vehicle’s maximum weight is 2630 kg (5798 lbs), with a base weight of 2197 kg (4844 lbs). This allows for a maximum load of 433 kg (955 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/trunk_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

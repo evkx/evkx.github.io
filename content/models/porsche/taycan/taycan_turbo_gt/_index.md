@@ -259,10 +259,11 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 366 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 366 liters (12.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+
+The vehicle’s maximum weight is 2880 kg (6349 lbs), with a base weight of 2230 kg (4916 lbs). This allows for a maximum load of 650 kg (1433 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

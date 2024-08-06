@@ -225,12 +225,13 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 570 liters (20.1 CU FT). With the rear seat folded down, this expands to 1610 liters (56.9 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+The vehicle’s maximum weight is 2740 kg (6041 lbs), with a base weight of 2180 kg (4806 lbs). This allows for a maximum load of 560 kg (1235 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

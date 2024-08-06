@@ -243,10 +243,11 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 151 liters. The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 151 liters (5.3 CU FT).
+
+The vehicle’s maximum weight is 2750 kg (6063 lbs), with a base weight of 2340 kg (5159 lbs). This allows for a maximum load of 410 kg (904 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

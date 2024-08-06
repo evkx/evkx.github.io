@@ -209,12 +209,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 367 liters. With the rear seat down, it is 723 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 67 liters (2.4 CU FT). The maxium weight of the car is 2735 kg (6030 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 375 kg (827 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 375kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 367 liters (13.0 CU FT). With the rear seat folded down, this expands to 723 liters (25.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 67 liters (2.4 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+The vehicle’s maximum weight is 2735 kg (6030 lbs), with a base weight of 2360 kg (5203 lbs). This allows for a maximum load of 375 kg (827 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 375kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Seres 5 </strong>
 </a>

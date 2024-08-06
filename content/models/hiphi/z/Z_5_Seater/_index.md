@@ -220,10 +220,11 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 316 liters. With the rear seat down, it is 684 liters. Under the hood, there is frunk with more storage room. This frunk is 40 liters (1.4 CU FT). The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2548 kg (5617 lbs), you can max load 402 kg (886 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 316 liters (11.2 CU FT). With the rear seat folded down, this expands to 684 liters (24.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 40 liters (1.4 CU FT).
+
+The vehicle’s maximum weight is 2950 kg (6504 lbs), with a base weight of 2548 kg (5617 lbs). This allows for a maximum load of 402 kg (886 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

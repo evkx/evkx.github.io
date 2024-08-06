@@ -225,10 +225,9 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 316 liters. With the rear seat down, it is 654 liters.
+The trunk offers a cargo capacity of 316 liters (11.2 CU FT). With the rear seat folded down, this expands to 654 liters (23.1 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

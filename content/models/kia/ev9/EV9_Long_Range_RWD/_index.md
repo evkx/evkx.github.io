@@ -250,12 +250,13 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 333 liters. With the rear seat down, it is 2393 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 55 liters (1.9 CU FT). The maxium weight of the car is 3190 kg (7033 lbs), and with the base weight of 2637 kg (5814 lbs), you can max load 553 kg (1219 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 55 liters (1.9 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750 kg (5512/1653 lbs).
+The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2637 kg (5814 lbs). This allows for a maximum load of 553 kg (1219 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2500 kg (5512 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/trunk_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

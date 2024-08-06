@@ -204,10 +204,11 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 1106 liters. The maxium weight of the car is 2025 kg (4464 lbs), and with the base weight of 1520 kg (3351 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 265 liters (9.4 CU FT). With the rear seat folded down, this expands to 1106 liters (39.1 CU FT).
+
+The vehicle’s maximum weight is 2025 kg (4464 lbs), with a base weight of 1520 kg (3351 lbs). This allows for a maximum load of 505 kg (1113 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

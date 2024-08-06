@@ -232,12 +232,13 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 545 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2400 kg (5291 lbs), and with the base weight of 1842 kg (4061 lbs), you can max load 558 kg (1230 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 545 liters (19.2 CU FT). With the rear seat folded down, this expands to 1490 liters (52.6 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
+The vehicle’s maximum weight is 2400 kg (5291 lbs), with a base weight of 1842 kg (4061 lbs). This allows for a maximum load of 558 kg (1230 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

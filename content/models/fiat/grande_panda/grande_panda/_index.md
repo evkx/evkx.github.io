@@ -224,10 +224,11 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 361 liters. With the rear seat down, it is 1600 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1429 kg (3150 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 361 liters (12.7 CU FT). With the rear seat folded down, this expands to 1600 liters (56.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+
+The vehicle’s maximum weight is 2030 kg (4475 lbs), with a base weight of 1429 kg (3150 lbs). This allows for a maximum load of 601 kg (1325 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

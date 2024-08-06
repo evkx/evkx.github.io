@@ -204,10 +204,9 @@ With the   level 2 system, you get the following driving automation features.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 297 liters. Under the hood, there is frunk with more storage room. This frunk is 50 liters (1.8 CU FT).
+The trunk offers a cargo capacity of 297 liters (10.5 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 50 liters (1.8 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

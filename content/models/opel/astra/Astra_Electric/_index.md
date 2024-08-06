@@ -211,10 +211,11 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 352 liters. With the rear seat down, it is 1268 liters. On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2100 kg (4630 lbs), and with the base weight of 1736 kg (3827 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 352 liters (12.4 CU FT). With the rear seat folded down, this expands to 1268 liters (44.8 CU FT). On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+
+The vehicle’s maximum weight is 2100 kg (4630 lbs), with a base weight of 1736 kg (3827 lbs). This allows for a maximum load of 364 kg (802 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

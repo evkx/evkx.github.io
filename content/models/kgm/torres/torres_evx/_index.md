@@ -221,12 +221,13 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 703 liters. With the rear seat down, it is 1662 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2410 kg (5313 lbs), and with the base weight of 1915 kg (4222 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The trunk offers a cargo capacity of 703 liters (24.8 CU FT). With the rear seat folded down, this expands to 1662 liters (58.7 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 500 kg (3307/1102 lbs).
+The vehicle’s maximum weight is 2410 kg (5313 lbs), with a base weight of 1915 kg (4222 lbs). This allows for a maximum load of 495 kg (1091 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 500 kg (1102 lbs).
 
 ### Availability & Pricing
 

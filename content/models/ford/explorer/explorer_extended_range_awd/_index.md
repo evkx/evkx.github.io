@@ -236,12 +236,13 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 536 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2267 kg (4998 lbs), you can max load 473 kg (1043 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 536 liters (18.9 CU FT). With the rear seat folded down, this expands to 1422 liters (50.2 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+The vehicle’s maximum weight is 2740 kg (6041 lbs), with a base weight of 2267 kg (4998 lbs). This allows for a maximum load of 473 kg (1043 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 ### Availability & Pricing
 

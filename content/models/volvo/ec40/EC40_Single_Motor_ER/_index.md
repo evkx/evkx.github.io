@@ -209,12 +209,13 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1205 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1.1 CU FT). The maxium weight of the car is 2500 kg (5512 lbs), and with the base weight of 2020 kg (4453 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The trunk offers a cargo capacity of 419 liters (14.8 CU FT). With the rear seat folded down, this expands to 1205 liters (42.6 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 31 liters (1.1 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
+The vehicle’s maximum weight is 2500 kg (5512 lbs), with a base weight of 2020 kg (4453 lbs). This allows for a maximum load of 480 kg (1058 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/trunk_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 

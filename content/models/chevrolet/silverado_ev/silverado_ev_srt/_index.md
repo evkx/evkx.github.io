@@ -210,12 +210,13 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4763 kg (10501 lbs), and with the base weight of 4061 kg (8953 lbs), you can max load 702 kg (1548 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The truck bed offers a cargo capacity of 1039 liters (36.7 CU FT). It has a width of 1286 mm (50.6 inches) and a length of 1803 mm  (71.0 inches), with a maximum load weight of 614 kg (1353.6 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, it is 750 kg (10000/1653 lbs).
+The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4061 kg (8953 lbs). This allows for a maximum load of 702 kg (1548 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4536 kg (10000 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 
