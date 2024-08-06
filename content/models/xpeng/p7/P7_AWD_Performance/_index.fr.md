@@ -215,12 +215,13 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 440 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 0 litres (0,0 CU FT). Le poids maximum de la voiture est de 2570 kg (5666 lbs), et avec le poids de base de 2055 kg (4530 lbs), vous pouvez charger au maximum 515 kg (1135 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 440 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 0 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 2570 kg, avec un poids de base de 2055 kg. Cela permet une charge maximale de 515 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> XPENG P7 </strong>
 </a>

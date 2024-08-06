@@ -261,12 +261,13 @@ Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 535 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2715 kg, og med basisvekten på 2140 kg kan du maksimalt laste 575 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 535 liter. Med baksetene nedfelt, utvides dette til 1460 liter. På taket kan du laste opptil 75 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2715 kg, med en basisvekt på 2140 kg. Dette gir en maksimal lastekapasitet på 575 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1200 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 

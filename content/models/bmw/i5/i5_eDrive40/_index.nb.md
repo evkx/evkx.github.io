@@ -254,12 +254,13 @@ Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2256 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 490 liter. Med baksetene nedfelt, utvides dette til 1290 liter. På taket kan du laste opptil 75 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2740 kg, med en basisvekt på 2256 kg. Dette gir en maksimal lastekapasitet på 484 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/trunk_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

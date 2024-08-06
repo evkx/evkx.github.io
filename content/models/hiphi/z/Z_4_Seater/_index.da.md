@@ -225,12 +225,11 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 316 liter. Med bagsædet nede er det 654 liter.
+Bagagerummet har en lastekapacitet på 316 liter. Med det bageste sæde foldet ned, udvides dette til 654 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

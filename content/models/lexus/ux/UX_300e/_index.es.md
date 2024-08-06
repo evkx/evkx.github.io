@@ -234,10 +234,11 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 367 litros. Con el asiento de la tercera fila abatido, es de 1451 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2245 kg (4949 lbs), y con el peso base de 1810 kg (3990 lbs), puedes cargar como máximo 435 kg (959 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 367 litros. Con el asiento de la tercera fila plegado, esto se expande a 1451 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+
+El peso máximo del vehículo es 2245 kg, con un peso base de 1810 kg. Esto permite una carga máxima de 435 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 <div class="mt-3 mb-3">

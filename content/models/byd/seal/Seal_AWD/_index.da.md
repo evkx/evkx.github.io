@@ -225,12 +225,13 @@ Med Smart Pilot  niveau 2-systemet får du følgende funktioner til køreautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 52 liter (1,8 CU FT). Bilens maksimale vægt er 2631 kg (5800 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 446 kg (983 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 402 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 2631 kg, med en basisvægt på 2185 kg. Dette giver en maksimal last på 446 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal </strong>
 </a>

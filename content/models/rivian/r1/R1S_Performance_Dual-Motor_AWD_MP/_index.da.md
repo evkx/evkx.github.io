@@ -224,12 +224,11 @@ Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatiser
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT).
+Bagagerummet har en lastekapacitet på 498 liter. Med det bageste sæde foldet ned, udvides dette til 2965 liter. På taget kan du laste op til 113 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 314 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3500, og på ubremset er den 750 kg (7716/1653 lbs).
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3500 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="1920" height="1080"  >}}
 

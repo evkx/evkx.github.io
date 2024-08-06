@@ -244,12 +244,13 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 605 liter. Med baksetet nede er det 1714 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2800 kg, og med basisvekten på 2264 kg kan du maksimalt laste 536 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 605 liter. Med baksetene nedfelt, utvides dette til 1714 liter. På taket kan du laste opptil 75 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2800 kg, med en basisvekt på 2264 kg. Dette gir en maksimal lastekapasitet på 536 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1200 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

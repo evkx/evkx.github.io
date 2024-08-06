@@ -224,10 +224,11 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 361 liter. Med baksetet nede er det 1600 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2030 kg, og med basisvekten på 1429 kg kan du maksimalt laste 601 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 361 liter. Med baksetene nedfelt, utvides dette til 1600 liter. På taket kan du laste opptil 75 kg.
+
+Kjøretøyets maksimale vekt er 2030 kg, med en basisvekt på 1429 kg. Dette gir en maksimal lastekapasitet på 601 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

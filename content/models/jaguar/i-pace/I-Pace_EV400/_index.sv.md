@@ -240,12 +240,11 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 505 liter. Med baksätet nedfällt är det 1163 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 505 liter. Med baksätena nedfällda ökar detta till 1163 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 27 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/trunk_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1556"  >}}
 

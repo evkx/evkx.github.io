@@ -245,12 +245,13 @@ Avec le système MAX  de niveau 2, vous obtenez les fonctionnalités suivantes d
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 585 litres. Avec la banquette arrière rabattue, elle est de 1710 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2540 kg (5600 lbs), et avec le poids de base de 2032 kg (4480 lbs), vous pouvez charger au maximum 508 kg (1120 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 585 litres. Avec les sièges arrière rabattus, cette capacité passe à 1710 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Le poids maximum du véhicule est de 2540 kg, avec un poids de base de 2032 kg. Cela permet une charge maximale de 508 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/trunk_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000"  >}}
 

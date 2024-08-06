@@ -209,12 +209,13 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 793 liter. Med baksätet nedfällt är det 1723 liter. Bilens maximala vikt är 2900 kg, och med basvikten på 2355 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 793 liter. Med baksätena nedfällda ökar detta till 1723 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1588, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2900 kg, med en grundvikt på 2355 kg. Detta tillåter en maximal last på 545 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

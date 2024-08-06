@@ -221,12 +221,13 @@ Con el sistema Driver+  de nivel 2, obtienes las siguientes funciones de automat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1925 litros. El ancho de la plataforma es 1275 mm y el largo es 1371 mm. El peso máximo de carga en la plataforma es 800 kg. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT). El peso máximo del automóvil es 3870 kg (8532 lbs), y con el peso base de 2858 kg (6301 lbs), puedes cargar como máximo 1012 kg (2231 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La caja del camión ofrece una capacidad de carga de 1925 litros. Tiene un ancho de 1275 mm  y una longitud de 1371 mm, con un peso máximo de carga de 800 kg. En el techo, puedes cargar hasta 113 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 314 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 5000, y sin freno, es de 750 kg (11023/1653 lbs).
+El peso máximo del vehículo es 3870 kg, con un peso base de 2858 kg. Esto permite una carga máxima de 1012 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 5000 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

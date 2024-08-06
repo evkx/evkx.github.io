@@ -236,12 +236,11 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 204 liter. Med den tredje sätesraden nere är den 587 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 204 liter. Med tredje raden säten nedfällda ökar detta till 587 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 <div class="mt-3 mb-3">

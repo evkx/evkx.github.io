@@ -196,12 +196,13 @@ Avec le système DS Drive Assist  de niveau 1, vous obtenez les fonctionnalités
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 350 litres. Avec la banquette arrière rabattue, elle est de 1050 litres. Le poids maximum de la voiture est de 2008 kg (4427 lbs), et avec le poids de base de 1550 kg (3417 lbs), vous pouvez charger au maximum 458 kg (1010 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 350 litres. Avec les sièges arrière rabattus, cette capacité passe à 1050 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 2008 kg, avec un poids de base de 1550 kg. Cela permet une charge maximale de 458 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C4 </strong>
 </a>

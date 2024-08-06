@@ -198,12 +198,13 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 479 liter. Med baksätet nedfällt är det 1367 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2017 kg, och med basvikten på 1562 kg kan du lasta maximalt 455 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 479 liter. Med baksätena nedfällda ökar detta till 1367 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.
+Fordonets maximala vikt är 2017 kg, med en grundvikt på 1562 kg. Detta tillåter en maximal last på 455 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

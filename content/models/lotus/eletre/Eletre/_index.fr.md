@@ -243,12 +243,13 @@ Jusqu'à quatre [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 688 litres. Avec la banquette arrière rabattue, elle est de 1532 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 46 litres (1,6 CU FT). Le poids maximum de la voiture est de 3100 kg (6834 lbs), et avec le poids de base de 2640 kg (5820 lbs), vous pouvez charger au maximum 460 kg (1014 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 460kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+Le coffre offre une capacité de chargement de 688 litres. Avec les sièges arrière rabattus, cette capacité passe à 1532 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 46 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2250, et sur une remorque non freinée, il est de 750 kg (4960/1653 lbs).
+Le poids maximum du véhicule est de 3100 kg, avec un poids de base de 2640 kg. Cela permet une charge maximale de 460 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 460 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2250 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/trunk_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 

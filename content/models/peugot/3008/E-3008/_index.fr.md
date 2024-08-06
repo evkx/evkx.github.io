@@ -231,12 +231,13 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 520 litres. Avec la banquette arrière rabattue, elle est de 1480 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2640 kg (5820 lbs), et avec le poids de base de 2008 kg (4427 lbs), vous pouvez charger au maximum 632 kg (1393 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 520 litres. Avec les sièges arrière rabattus, cette capacité passe à 1480 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1250, et sur une remorque non freinée, il est de 750 kg (2756/1653 lbs).
+Le poids maximum du véhicule est de 2640 kg, avec un poids de base de 2008 kg. Cela permet une charge maximale de 632 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1250 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ### Disponibilité et prix
 

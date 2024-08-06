@@ -237,12 +237,13 @@ Med Smart Pilot  niveau 2-systemet får du yderligere funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 410 liter. Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2250 kg (4960 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 410 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2660 kg, med en basisvægt på 2250 kg. Dette giver en maksimal last på 410 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

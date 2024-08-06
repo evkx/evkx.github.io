@@ -261,12 +261,13 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2164 kg (4771 lbs), puedes cargar como máximo 586 kg (1292 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 543 litros. Con el asiento trasero plegado, esto se expande a 1575 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+El peso máximo del vehículo es 2750 kg, con un peso base de 2164 kg. Esto permite una carga máxima de 586 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 

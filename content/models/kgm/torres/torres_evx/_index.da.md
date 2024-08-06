@@ -221,12 +221,13 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 703 liter. Med bagsædet nede er det 1662 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2410 kg (5313 lbs), og med basisvægten på 1915 kg (4222 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 495kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 703 liter. Med det bageste sæde foldet ned, udvides dette til 1662 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 500 kg (3307/1102 lbs).
+Køretøjets maksimale vægt er 2410 kg, med en basisvægt på 1915 kg. Dette giver en maksimal last på 495 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 495 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 500 kg.
 
 ### Tilgængelighed og priser
 

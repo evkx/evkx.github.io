@@ -209,12 +209,13 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 419 liter. Med baksetet nede er det 1205 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 31 liter. Maksimumsvekten til bilen er 2620 kg, og med basisvekten på 2110 kg kan du maksimalt laste 510 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 419 liter. Med baksetene nedfelt, utvides dette til 1205 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 31 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2620 kg, med en basisvekt på 2110 kg. Dette gir en maksimal lastekapasitet på 510 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/trunk_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}
 

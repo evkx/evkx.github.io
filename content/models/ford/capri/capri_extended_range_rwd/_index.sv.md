@@ -238,12 +238,13 @@ Med Assistantpackage  nivå 2-systemet får du ytterligare funktioner för köra
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 627 liter. Med baksätet nedfällt är det 1510 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2685 kg, och med basvikten på 2098 kg kan du lasta maximalt 587 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 627 liter. Med baksätena nedfällda ökar detta till 1510 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2685 kg, med en grundvikt på 2098 kg. Detta tillåter en maximal last på 587 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/trunk_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 

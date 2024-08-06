@@ -204,12 +204,11 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 297 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 50 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 297 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 50 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 ### Tillgänglighet och pris
 

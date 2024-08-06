@@ -228,10 +228,11 @@ Con el sistema Ford Co-Pilot360™ Active 2.0  de nivel 2, obtienes funciones ad
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1495 litros. El ancho de la plataforma es 1285 mm y el largo es 1704 mm. El peso máximo de carga en la plataforma es 907 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 399 litros (14,1 CU FT). El peso máximo del automóvil es 3878 kg (8550 lbs), y con el peso base de 2988 kg (6587 lbs), puedes cargar como máximo 890 kg (1962 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La caja del camión ofrece una capacidad de carga de 1495 litros. Tiene un ancho de 1285 mm  y una longitud de 1704 mm, con un peso máximo de carga de 907 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 399 litros.
+
+El peso máximo del vehículo es 3878 kg, con un peso base de 2988 kg. Esto permite una carga máxima de 890 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 

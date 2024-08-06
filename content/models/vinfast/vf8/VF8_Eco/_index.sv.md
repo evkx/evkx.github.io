@@ -226,12 +226,13 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fe
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 376 liter. Med baksätet nedfällt är det 1373 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 78 liter. Bilens maximala vikt är 3075 kg, och med basvikten på 2600 kg kan du lasta maximalt 475 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 475 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagageutrymmet erbjuder en lastkapacitet på 376 liter. Med baksätena nedfällda ökar detta till 1373 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 78 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 3075 kg, med en grundvikt på 2600 kg. Detta tillåter en maximal last på 475 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 475 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1800 kg, medan för en obromsad släpvagn är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

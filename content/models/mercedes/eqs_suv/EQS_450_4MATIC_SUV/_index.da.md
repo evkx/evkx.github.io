@@ -276,12 +276,13 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 645 liter. Med bagsædet nede er det 2100 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2730 kg (6019 lbs), kan du maksimalt laste 645 kg (1422 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 645 liter. Med det bageste sæde foldet ned, udvides dette til 2100 liter. På taget kan du laste op til 100 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
+Køretøjets maksimale vægt er 3375 kg, med en basisvægt på 2730 kg. Dette giver en maksimal last på 645 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1800 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

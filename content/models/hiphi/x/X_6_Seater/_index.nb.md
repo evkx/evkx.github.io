@@ -236,12 +236,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 204 liter. Med setet på tredje rad nede er det 587 liter.
+Bagasjerommet tilbyr en lastekapasitet på 204 liter. Med tredje seterad nedfelt, utvides dette til 587 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 <div class="mt-3 mb-3">

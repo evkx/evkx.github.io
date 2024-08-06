@@ -219,12 +219,13 @@ Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 456 liter. Med baksetet nede er det 627 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 283 liter. Maksimumsvekten til bilen er 2850 kg, og med basisvekten på 2360 kg kan du maksimalt laste 490 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 456 liter. Med baksetene nedfelt, utvides dette til 627 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 283 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2850 kg, med en basisvekt på 2360 kg. Dette gir en maksimal lastekapasitet på 490 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/trunk_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

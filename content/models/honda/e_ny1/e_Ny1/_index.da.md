@@ -165,12 +165,13 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 346 liter. Bilens maksimale vægt er 2080 kg (4586 lbs), og med basisvægten på 1677 kg (3697 lbs), kan du maksimalt laste 403 kg (888 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 346 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2080 kg, med en basisvægt på 1677 kg. Dette giver en maksimal last på 403 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -211,12 +211,11 @@ Con el sistema XPILOT  de nivel 2, obtienes las siguientes funciones de automati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 755 litros. Con el asiento de la tercera fila abatido, es de 2554 litros.
+El maletero ofrece una capacidad de carga de 755 litros. Con el asiento de la tercera fila plegado, esto se expande a 2554 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Este modelo sólo está disponible en China.<div class="mt-3 mb-3">

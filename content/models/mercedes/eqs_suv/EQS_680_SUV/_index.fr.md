@@ -256,12 +256,13 @@ Avec le système DRIVE PILOT  de niveau 3, vous obtenez des fonctionnalités sup
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 440 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3375 kg (7441 lbs), et avec le poids de base de 2735 kg (6030 lbs), vous pouvez charger au maximum 640 kg (1411 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 440 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
+Le poids maximum du véhicule est de 3375 kg, avec un poids de base de 2735 kg. Cela permet une charge maximale de 640 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ### Disponibilité et prix
 

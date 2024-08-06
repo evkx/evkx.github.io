@@ -204,12 +204,13 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 265 liter. Med baksetet nede er det 1106 liter. Maksimumsvekten til bilen er 2025 kg, og med basisvekten på 1520 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 265 liter. Med baksetene nedfelt, utvides dette til 1106 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2025 kg, med en basisvekt på 1520 kg. Dette gir en maksimal lastekapasitet på 505 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

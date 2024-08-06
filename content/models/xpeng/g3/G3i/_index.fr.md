@@ -187,12 +187,13 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 380 litres. Avec la banquette arrière rabattue, elle est de 760 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1660 kg (3660 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 380 litres. Avec les sièges arrière rabattus, cette capacité passe à 760 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 2110 kg, avec un poids de base de 1660 kg. Cela permet une charge maximale de 450 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> XPENG G3 </strong>
 </a>

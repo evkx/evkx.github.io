@@ -248,12 +248,13 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 11 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 498 liter. Med baksetet nede er det 2965 liter. På taket kan du laste opptil 113 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. Maksimumsvekten til bilen er 3870 kg, og med basisvekten på 3216 kg kan du maksimalt laste 654 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 498 liter. Med baksetene nedfelt, utvides dette til 2965 liter. På taket kan du laste opptil 113 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 314 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3492, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 3870 kg, med en basisvekt på 3216 kg. Dette gir en maksimal lastekapasitet på 654 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 3492 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

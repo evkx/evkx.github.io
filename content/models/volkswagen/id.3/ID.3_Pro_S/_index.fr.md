@@ -241,12 +241,13 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 385 litres. Avec la banquette arrière rabattue, elle est de 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg (0,0 lbs). Le poids maximum de la voiture est de 2420 kg (5335 lbs), et avec le poids de base de 1884 kg (4154 lbs), vous pouvez charger au maximum 536 kg (1182 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2420 kg, avec un poids de base de 1884 kg. Cela permet une charge maximale de 536 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 

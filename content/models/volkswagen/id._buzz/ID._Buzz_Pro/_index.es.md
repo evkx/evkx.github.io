@@ -253,12 +253,13 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 1121 litros. Con el asiento trasero abatido, es de 2205 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3000 kg (6614 lbs), y con el peso base de 2416 kg (5326 lbs), puedes cargar como máximo 584 kg (1287 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 1121 litros. Con el asiento trasero plegado, esto se expande a 2205 litros. En el techo, puedes cargar hasta 100 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
+El peso máximo del vehículo es 3000 kg, con un peso base de 2416 kg. Esto permite una carga máxima de 584 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1000 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

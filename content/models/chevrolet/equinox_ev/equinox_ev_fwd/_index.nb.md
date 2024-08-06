@@ -222,12 +222,11 @@ Med Super Cruise  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjone
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 748 liter. Med baksetet nede er det 1614 liter.
+Bagasjerommet tilbyr en lastekapasitet på 748 liter. Med baksetene nedfelt, utvides dette til 1614 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 680, og på ubremset er den 680 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 680 kg, mens for en ubremset tilhenger er det 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

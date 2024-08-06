@@ -185,12 +185,11 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 200 liter. Med baksätet nedfällt är det 800 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 200 liter. Med baksätena nedfällda ökar detta till 800 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 ### Tillgänglighet och pris
 

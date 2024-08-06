@@ -234,12 +234,13 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ekstra kjøreautomatiserin
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 363 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2900 kg, og med basisvekten på 2379 kg kan du maksimalt laste 521 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 363 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2900 kg, med en basisvekt på 2379 kg. Dette gir en maksimal lastekapasitet på 521 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

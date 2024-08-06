@@ -225,12 +225,11 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 316 litros. Con el asiento trasero abatido, es de 654 litros.
+El maletero ofrece una capacidad de carga de 316 litros. Con el asiento trasero plegado, esto se expande a 654 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

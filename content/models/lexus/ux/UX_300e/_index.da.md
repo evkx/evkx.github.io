@@ -234,10 +234,11 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 367 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2245 kg (4949 lbs), og med basisvægten på 1810 kg (3990 lbs), kan du maksimalt laste 435 kg (959 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 367 liter. Med det tredje sæderække foldet ned, udvides dette til 1451 liter. På taget kan du laste op til 80 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+
+Køretøjets maksimale vægt er 2245 kg, med en basisvægt på 1810 kg. Dette giver en maksimal last på 435 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 <div class="mt-3 mb-3">

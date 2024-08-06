@@ -192,12 +192,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 240 liter. Bilens maksimale vægt er 2250 kg (4960 lbs), og med basisvægten på 1985 kg (4376 lbs), kan du maksimalt laste 265 kg (584 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 240 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2250 kg, med en basisvægt på 1985 kg. Dette giver en maksimal last på 265 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

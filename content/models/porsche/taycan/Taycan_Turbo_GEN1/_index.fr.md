@@ -266,12 +266,13 @@ Avec le système Porsche InnoDrive  de niveau 2, vous obtenez des fonctionnalit�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 366 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2870 kg (6327 lbs), et avec le poids de base de 2220 kg (4894 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 366 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2870 kg, avec un poids de base de 2220 kg. Cela permet une charge maximale de 650 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2250"  >}}
 

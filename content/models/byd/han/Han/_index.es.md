@@ -237,12 +237,13 @@ Con el sistema Smart Pilot  de nivel 2, obtienes funciones adicionales de automa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 410 litros. El peso máximo del automóvil es 2660 kg (5864 lbs), y con el peso base de 2250 kg (4960 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 410 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 2660 kg, con un peso base de 2250 kg. Esto permite una carga máxima de 410 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

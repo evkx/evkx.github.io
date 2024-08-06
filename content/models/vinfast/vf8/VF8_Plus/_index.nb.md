@@ -231,12 +231,13 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 376 liter. Med baksetet nede er det 1373 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 78 liter. Maksimumsvekten til bilen er 3075 kg, og med basisvekten på 2600 kg kan du maksimalt laste 475 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 475 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagasjerommet tilbyr en lastekapasitet på 376 liter. Med baksetene nedfelt, utvides dette til 1373 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 78 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Kjøretøyets maksimale vekt er 3075 kg, med en basisvekt på 2600 kg. Dette gir en maksimal lastekapasitet på 475 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 475 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

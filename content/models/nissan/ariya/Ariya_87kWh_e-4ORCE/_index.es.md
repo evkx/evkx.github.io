@@ -228,12 +228,13 @@ Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 415 litros. Con el asiento trasero abatido, es de 1490 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2400 kg (5291 lbs), y con el peso base de 1875 kg (4134 lbs), puedes cargar como máximo 525 kg (1157 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 415 litros. Con el asiento trasero plegado, esto se expande a 1490 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).
+El peso máximo del vehículo es 2400 kg, con un peso base de 1875 kg. Esto permite una carga máxima de 525 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

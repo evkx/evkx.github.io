@@ -232,12 +232,13 @@ Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fon
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 709 litres. Avec la banquette arrière rabattue, elle est de 1828 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 183 litres (6,5 CU FT). Le poids maximum de la voiture est de 2970 kg (6548 lbs), et avec le poids de base de 2464 kg (5432 lbs), vous pouvez charger au maximum 506 kg (1116 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 709 litres. Avec les sièges arrière rabattus, cette capacité passe à 1828 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 183 litres.
 
-Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 2250, et sur une remorque non freinée, il est de 750 kg (4960/1653 lbs).
+Le poids maximum du véhicule est de 2970 kg, avec un poids de base de 2464 kg. Cela permet une charge maximale de 506 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage est un équipement standard sur ce modèle. Le poids total maximal pour une remorque freinée est de 2250, et pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

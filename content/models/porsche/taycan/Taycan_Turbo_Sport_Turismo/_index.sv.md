@@ -270,12 +270,13 @@ Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för kör
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2880 kg, och med basvikten på 2240 kg kan du lasta maximalt 640 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 405 liter. Med baksätena nedfällda ökar detta till 1171 liter. På taket kan du lasta upp till 75 kg.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 2880 kg, med en grundvikt på 2240 kg. Detta tillåter en maximal last på 640 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

@@ -244,12 +244,13 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 385 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2420 kg (5335 lbs), og med basisvægten på 1884 kg (4154 lbs), kan du maksimalt laste 536 kg (1182 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter. På taget kan du laste op til 0 kg.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2420 kg, med en basisvægt på 1884 kg. Dette giver en maksimal last på 536 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

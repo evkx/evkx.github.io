@@ -232,12 +232,13 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktione
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 709 liter. Med baksätet nedfällt är det 1828 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 183 liter. Bilens maximala vikt är 2970 kg, och med basvikten på 2464 kg kan du lasta maximalt 506 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 709 liter. Med baksätena nedfällda ökar detta till 1828 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 183 liter.
 
-Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 2250, och på obromsad är den 750 kg.
+Fordonets maximala vikt är 2970 kg, med en grundvikt på 2464 kg. Detta tillåter en maximal last på 506 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 2250, och för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

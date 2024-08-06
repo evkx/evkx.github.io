@@ -234,12 +234,13 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende funktion
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 510 kg (1124 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 500 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 3400 kg, med en basisvægt på 2890 kg. Dette giver en maksimal last på 510 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

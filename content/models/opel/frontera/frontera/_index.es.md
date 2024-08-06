@@ -229,10 +229,11 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 460 litros. Con el asiento trasero abatido, es de 1594 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2030 kg (4475 lbs), y con el peso base de 1439 kg (3172 lbs), puedes cargar como máximo 591 kg (1303 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 460 litros. Con el asiento trasero plegado, esto se expande a 1594 litros. En el techo, puedes cargar hasta 75 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
+
+El peso máximo del vehículo es 2030 kg, con un peso base de 1439 kg. Esto permite una carga máxima de 591 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

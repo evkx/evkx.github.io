@@ -233,12 +233,13 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 280 litres. Avec la banquette arrière rabattue, elle est de 1050 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 1700 kg (3748 lbs), et avec le poids de base de 1375 kg (3031 lbs), vous pouvez charger au maximum 325 kg (717 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 280 litres. Avec les sièges arrière rabattus, cette capacité passe à 1050 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 1700 kg, avec un poids de base de 1375 kg. Cela permet une charge maximale de 325 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 

@@ -244,12 +244,13 @@ Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/)
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 854 liter. Med baksätet nedfällt är det 2158 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 117 liter. Bilens maximala vikt är 2720 kg, och med basvikten på 2135 kg kan du lasta maximalt 585 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 854 liter. Med baksätena nedfällda ökar detta till 2158 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 117 liter.
 
-Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1600, och på obromsad är den 750 kg.
+Fordonets maximala vikt är 2720 kg, med en grundvikt på 2135 kg. Detta tillåter en maximal last på 585 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 1600, och för en obromsad släpvagn är den 750 kg.
 
 ### Tillgänglighet och pris
 

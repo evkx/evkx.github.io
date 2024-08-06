@@ -287,12 +287,13 @@ Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 470 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2735 kg, og med basisvekten på 2215 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 470 liter. Med baksetene nedfelt, utvides dette til 1290 liter. På taket kan du laste opptil 75 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Kjøretøyets maksimale vekt er 2735 kg, med en basisvekt på 2215 kg. Dette gir en maksimal lastekapasitet på 520 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i4 </strong>
 </a>

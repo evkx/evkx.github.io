@@ -228,10 +228,11 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ekstra kjøreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1495 liter. Bredden på lasteplanet er 1285 mm, og lengden er 1704 mm. Maksimal lastevekt i lasteplanet er 907 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 399 liter. Maksimumsvekten til bilen er 3878 kg, og med basisvekten på 2988 kg kan du maksimalt laste 890 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastebilen tilbyr en lastekapasitet på 1495 liter. Den har en bredde på 1285 mm og en lengde på 1704 mm, med en maksimal lastevekt på 907 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 399 liter.
+
+Kjøretøyets maksimale vekt er 3878 kg, med en basisvekt på 2988 kg. Dette gir en maksimal lastekapasitet på 890 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 

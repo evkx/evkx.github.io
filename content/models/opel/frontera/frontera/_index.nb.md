@@ -229,10 +229,11 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 460 liter. Med baksetet nede er det 1594 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2030 kg, og med basisvekten på 1439 kg kan du maksimalt laste 591 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 460 liter. Med baksetene nedfelt, utvides dette til 1594 liter. På taket kan du laste opptil 75 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+
+Kjøretøyets maksimale vekt er 2030 kg, med en basisvekt på 1439 kg. Dette gir en maksimal lastekapasitet på 591 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

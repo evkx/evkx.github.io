@@ -185,12 +185,11 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 200 litros. Con el asiento trasero abatido, es de 800 litros.
+El maletero ofrece una capacidad de carga de 200 litros. Con el asiento trasero plegado, esto se expande a 800 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 ### Disponibilidad y precios
 

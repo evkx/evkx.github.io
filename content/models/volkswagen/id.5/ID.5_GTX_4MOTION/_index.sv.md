@@ -244,12 +244,13 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 549 liter. Med baksätet nedfällt är det 1561 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2750 kg, och med basvikten på 2167 kg kan du lasta maximalt 583 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 549 liter. Med baksätena nedfällda ökar detta till 1561 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2750 kg, med en grundvikt på 2167 kg. Detta tillåter en maximal last på 583 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 

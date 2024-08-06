@@ -248,12 +248,13 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 1
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter. Bilens maximala vikt är 3870 kg, och med basvikten på 3216 kg kan du lasta maximalt 654 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 498 liter. Med baksätena nedfällda ökar detta till 2965 liter. På taket kan du lasta upp till 113 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 314 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3492, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 3870 kg, med en grundvikt på 3216 kg. Detta tillåter en maximal last på 654 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 3492 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

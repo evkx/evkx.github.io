@@ -243,12 +243,13 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 151 liter. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2340 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 151 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2750 kg, med en basisvekt på 2340 kg. Dette gir en maksimal lastekapasitet på 410 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

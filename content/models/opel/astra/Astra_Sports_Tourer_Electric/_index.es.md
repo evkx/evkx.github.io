@@ -208,12 +208,13 @@ Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 516 litros. Con el asiento trasero abatido, es de 1533 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2175 kg (4795 lbs), y con el peso base de 1760 kg (3880 lbs), puedes cargar como máximo 415 kg (915 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 516 litros. Con el asiento trasero plegado, esto se expande a 1533 litros. En el techo, puedes cargar hasta 70 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 2175 kg, con un peso base de 1760 kg. Esto permite una carga máxima de 415 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 

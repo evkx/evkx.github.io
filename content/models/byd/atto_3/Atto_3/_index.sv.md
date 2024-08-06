@@ -235,10 +235,11 @@ Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 440 liter. Med baksätet nedfällt är det 1338 liter. På taket kan du lasta upp till 50 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2160 kg, och med basvikten på 1750 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 440 liter. Med baksätena nedfällda ökar detta till 1338 liter. På taket kan du lasta upp till 50 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+
+Fordonets maximala vikt är 2160 kg, med en grundvikt på 1750 kg. Detta tillåter en maximal last på 410 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

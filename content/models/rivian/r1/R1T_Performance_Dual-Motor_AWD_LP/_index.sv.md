@@ -220,12 +220,13 @@ Med Driver+  nivå 2-systemet får du följande funktioner för körautomatiseri
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1925 liter. Bredden på lastflaket är 1275 mm och längden är 1371 mm. Den maximala lastvikten i lastflaket är 800 kg. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter. Bilens maximala vikt är 3870 kg, och med basvikten på 2858 kg kan du lasta maximalt 1012 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmet i flaket erbjuder en lastkapacitet på 1925 liter. Det har en bredd på 1275 mm och en längd på 1371 mm, med en maximal lastvikt på 800 kg. På taket kan du lasta upp till 113 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 314 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 5000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 3870 kg, med en grundvikt på 2858 kg. Detta tillåter en maximal last på 1012 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 5000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 

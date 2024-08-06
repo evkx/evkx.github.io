@@ -226,12 +226,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 475 liter. Med bagsædet nede er det 1392 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 220 kg (485 lbs), og med basisvægten på 1557 kg (3433 lbs), kan du maksimalt laste -1337 kg (-2948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 475 liter. Med det bageste sæde foldet ned, udvides dette til 1392 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 20 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 300 kg (1653/661 lbs).
+Køretøjets maksimale vægt er 220 kg, med en basisvægt på 1557 kg. Dette giver en maksimal last på -1337 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 750 kg, mens den for en ubremset trailer er 300 kg.
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

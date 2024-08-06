@@ -255,12 +255,13 @@ Med Driving Assistant Professional  nivå 2-systemet får du ytterligare funktio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 490 liter. Med baksätet nedfällt är det 1290 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2895 kg, och med basvikten på 2305 kg kan du lasta maximalt 590 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 490 liter. Med baksätena nedfällda ökar detta till 1290 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2895 kg, med en grundvikt på 2305 kg. Detta tillåter en maximal last på 590 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

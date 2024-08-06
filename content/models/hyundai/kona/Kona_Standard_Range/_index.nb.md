@@ -231,12 +231,13 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 466 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 100 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1640 kg kan du maksimalt laste 470 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 466 liter. Med baksetene nedfelt, utvides dette til 1578 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 27 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2110 kg, med en basisvekt på 1640 kg. Dette gir en maksimal lastekapasitet på 470 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 750 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

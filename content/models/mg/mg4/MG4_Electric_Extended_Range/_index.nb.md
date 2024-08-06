@@ -198,12 +198,13 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 363 liter. Med baksetet nede er det 1165 liter. Maksimumsvekten til bilen er 2209 kg, og med basisvekten på 1823 kg kan du maksimalt laste 386 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 363 liter. Med baksetene nedfelt, utvides dette til 1165 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 500, og på ubremset er den 500 kg.
+Kjøretøyets maksimale vekt er 2209 kg, med en basisvekt på 1823 kg. Dette gir en maksimal lastekapasitet på 386 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 500 kg, mens for en ubremset tilhenger er det 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

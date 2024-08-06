@@ -245,12 +245,13 @@ Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatizac
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 585 litros. Con el asiento trasero abatido, es de 1710 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2540 kg (5600 lbs), y con el peso base de 2032 kg (4480 lbs), puedes cargar como máximo 508 kg (1120 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 585 litros. Con el asiento trasero plegado, esto se expande a 1710 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
+El peso máximo del vehículo es 2540 kg, con un peso base de 2032 kg. Esto permite una carga máxima de 508 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1000 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/trunk_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000"  >}}
 

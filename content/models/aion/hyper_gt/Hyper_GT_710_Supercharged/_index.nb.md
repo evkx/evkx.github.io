@@ -202,12 +202,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1100 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 60 liter.
+Bagasjerommet tilbyr en lastekapasitet på 500 liter. Med baksetene nedfelt, utvides dette til 1100 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 60 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

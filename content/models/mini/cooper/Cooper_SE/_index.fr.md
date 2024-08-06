@@ -185,12 +185,11 @@ Avec le système standard, le modèle n'offre aucune automatisation de la condui
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 200 litres. Avec la banquette arrière rabattue, elle est de 800 litres.
+Le coffre offre une capacité de chargement de 200 litres. Avec les sièges arrière rabattus, cette capacité passe à 800 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 ### Disponibilité et prix
 

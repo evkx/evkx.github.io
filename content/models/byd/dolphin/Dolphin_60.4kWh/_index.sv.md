@@ -235,12 +235,13 @@ Med   nivå 1-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nedfällt är det 1310 liter. På taket kan du lasta upp till 50 kg. Bilens maximala vikt är 2068 kg, och med basvikten på 1658 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 345 liter. Med baksätena nedfällda ökar detta till 1310 liter. På taket kan du lasta upp till 50 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 0, och på en obromsad är den 0 kg.
+Fordonets maximala vikt är 2068 kg, med en grundvikt på 1658 kg. Detta tillåter en maximal last på 410 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 0 kg, medan för en obromsad släpvagn är den 0 kg.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

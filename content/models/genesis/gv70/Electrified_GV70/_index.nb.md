@@ -225,12 +225,13 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 503 liter. Med baksetet nede er det 1678 liter. På taket kan du laste opptil 100 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 25 liter. Maksimumsvekten til bilen er 2845 kg, og med basisvekten på 2235 kg kan du maksimalt laste 610 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 503 liter. Med baksetene nedfelt, utvides dette til 1678 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 25 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Kjøretøyets maksimale vekt er 2845 kg, med en basisvekt på 2235 kg. Dette gir en maksimal lastekapasitet på 610 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Genesis GV70 </strong>
 </a>

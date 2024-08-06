@@ -228,12 +228,13 @@ Avec le système Smart Pilot  de niveau 2, vous obtenez les fonctionnalités sui
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 520 litres. Avec la banquette arrière rabattue, elle est de 1449 litres. Le poids maximum de la voiture est de 2501 kg (5514 lbs), et avec le poids de base de 1900 kg (4189 lbs), vous pouvez charger au maximum 601 kg (1325 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 520 litres. Avec les sièges arrière rabattus, cette capacité passe à 1449 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2501 kg, avec un poids de base de 1900 kg. Cela permet une charge maximale de 601 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">

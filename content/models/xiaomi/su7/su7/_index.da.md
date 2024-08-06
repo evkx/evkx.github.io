@@ -225,12 +225,13 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), ott
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 517 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT). Bilens maksimale vægt er 2430 kg (5357 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 517 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 105 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2430 kg, med en basisvægt på 1980 kg. Dette giver en maksimal last på 450 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

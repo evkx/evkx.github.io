@@ -198,12 +198,11 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Bilens maximala vikt är 2133 kg, och med basvikten på 1715 kg kan du lasta maximalt 418 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Fordonets maximala vikt är 2133 kg, med en grundvikt på 1715 kg. Detta tillåter en maximal last på 418 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

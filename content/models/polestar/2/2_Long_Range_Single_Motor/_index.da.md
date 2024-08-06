@@ -215,12 +215,13 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1095 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2025 kg (4464 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 405 liter. Med det bageste sæde foldet ned, udvides dette til 1095 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 31 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 2520 kg, med en basisvægt på 2025 kg. Dette giver en maksimal last på 495 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Polestar 2 </strong>
 </a>

@@ -211,12 +211,11 @@ Avec le système XPILOT  de niveau 2, vous obtenez les fonctionnalités suivante
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 755 litres. Avec le siège de troisième rangée abaissé, elle est de 2554 litres.
+Le coffre offre une capacité de chargement de 755 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 2554 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">

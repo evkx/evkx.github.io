@@ -304,12 +304,13 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2815 kg (6206 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 615 kg (1356 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 526 liter. Med det bageste sæde foldet ned, udvides dette til 1529 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 64 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
+Køretøjets maksimale vægt er 2815 kg, med en basisvægt på 2200 kg. Dette giver en maksimal last på 615 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 

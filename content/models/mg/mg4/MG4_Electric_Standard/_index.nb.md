@@ -198,12 +198,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Maksimumsvekten til bilen er 2133 kg, og med basisvekten på 1715 kg kan du maksimalt laste 418 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Kjøretøyets maksimale vekt er 2133 kg, med en basisvekt på 1715 kg. Dette gir en maksimal lastekapasitet på 418 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 500, og på ubremset er den 500 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 500 kg, mens for en ubremset tilhenger er det 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

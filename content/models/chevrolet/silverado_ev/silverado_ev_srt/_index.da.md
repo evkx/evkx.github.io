@@ -210,12 +210,13 @@ Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4763 kg (10501 lbs), og med basisvægten på 4061 kg (8953 lbs), kan du maksimalt laste 702 kg (1548 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastbeddet har en lastekapacitet på 1039 liter. Det har en bredde på 1286 mm og en længde på 1803 mm, med en maksimal belastning på 614 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 303 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 4536, og på ubremset er den 750 kg (10000/1653 lbs).
+Køretøjets maksimale vægt er 4763 kg, med en basisvægt på 4061 kg. Dette giver en maksimal last på 702 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 4536 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

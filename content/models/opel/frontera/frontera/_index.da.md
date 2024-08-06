@@ -229,10 +229,11 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 460 liter. Med bagsædet nede er det 1594 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1439 kg (3172 lbs), kan du maksimalt laste 591 kg (1303 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 460 liter. Med det bageste sæde foldet ned, udvides dette til 1594 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+
+Køretøjets maksimale vægt er 2030 kg, med en basisvægt på 1439 kg. Dette giver en maksimal last på 591 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

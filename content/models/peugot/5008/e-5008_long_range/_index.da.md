@@ -240,12 +240,13 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 300 liter. Med bagsædet nede er det 1815 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2225 kg (4905 lbs), kan du maksimalt laste 415 kg (915 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 415kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 300 liter. Med det bageste sæde foldet ned, udvides dette til 1815 liter. På taget kan du laste op til 80 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+Køretøjets maksimale vægt er 2640 kg, med en basisvægt på 2225 kg. Dette giver en maksimal last på 415 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 415 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

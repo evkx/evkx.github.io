@@ -231,12 +231,13 @@ Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 700 litres. Avec la banquette arrière rabattue, elle est de 3170 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 226 litres (8,0 CU FT). Le poids maximum de la voiture est de 3280 kg (7231 lbs), et avec le poids de base de 2500 kg (5512 lbs), vous pouvez charger au maximum 780 kg (1720 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 700 litres. Avec les sièges arrière rabattus, cette capacité passe à 3170 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 226 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2700, et sur une remorque non freinée, il est de 750 kg (5952/1653 lbs).
+Le poids maximum du véhicule est de 3280 kg, avec un poids de base de 2500 kg. Cela permet une charge maximale de 780 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2700 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

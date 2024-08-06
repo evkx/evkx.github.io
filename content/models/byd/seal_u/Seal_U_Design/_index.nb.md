@@ -228,12 +228,13 @@ Med Smart Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjo
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1449 liter. Maksimumsvekten til bilen er 2501 kg, og med basisvekten på 1900 kg kan du maksimalt laste 601 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1449 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2501 kg, med en basisvekt på 1900 kg. Dette gir en maksimal lastekapasitet på 601 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">

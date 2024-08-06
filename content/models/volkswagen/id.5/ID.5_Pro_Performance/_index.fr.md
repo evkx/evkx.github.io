@@ -270,12 +270,13 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 549 litres. Avec la banquette arrière rabattue, elle est de 1561 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2650 kg (5842 lbs), et avec le poids de base de 2042 kg (4502 lbs), vous pouvez charger au maximum 608 kg (1340 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 549 litres. Avec les sièges arrière rabattus, cette capacité passe à 1561 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Le poids maximum du véhicule est de 2650 kg, avec un poids de base de 2042 kg. Cela permet une charge maximale de 608 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

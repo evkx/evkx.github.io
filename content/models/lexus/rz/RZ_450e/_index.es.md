@@ -226,12 +226,13 @@ Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 522 litros. Con el asiento de la tercera fila abatido, es de 1451 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2530 kg (5578 lbs), y con el peso base de 1980 kg (4365 lbs), puedes cargar como máximo 550 kg (1213 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 522 litros. Con el asiento de la tercera fila plegado, esto se expande a 1451 litros. En el techo, puedes cargar hasta 80 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
+El peso máximo del vehículo es 2530 kg, con un peso base de 1980 kg. Esto permite una carga máxima de 550 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

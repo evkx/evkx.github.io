@@ -204,12 +204,13 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 419 liter. Med baksätet nedfällt är det 1295 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 31 liter. Bilens maximala vikt är 2470 kg, och med basvikten på 1965 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 419 liter. Med baksätena nedfällda ökar detta till 1295 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 31 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2470 kg, med en grundvikt på 1965 kg. Detta tillåter en maximal last på 505 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/trunk_1_st.jpg" title="Volvo EX40 Single Motor" width="3000" height="2250"  >}}
 

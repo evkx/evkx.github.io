@@ -243,12 +243,13 @@ Opptil fire [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), f
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 688 liter. Med baksetet nede er det 1532 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 46 liter. Maksimumsvekten til bilen er 3100 kg, og med basisvekten på 2640 kg kan du maksimalt laste 460 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 460 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagasjerommet tilbyr en lastekapasitet på 688 liter. Med baksetene nedfelt, utvides dette til 1532 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 46 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2250, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 3100 kg, med en basisvekt på 2640 kg. Dette gir en maksimal lastekapasitet på 460 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 460 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2250 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/trunk_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 

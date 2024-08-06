@@ -261,12 +261,13 @@ Med Porsche InnoDrive  nivå 2-systemet får du ytterligare funktioner för kör
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 84 liter. Bilens maximala vikt är 2880 kg, och med basvikten på 2250 kg kan du lasta maximalt 630 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 405 liter. Med baksätena nedfällda ökar detta till 1171 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 84 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Fordonets maximala vikt är 2880 kg, med en grundvikt på 2250 kg. Detta tillåter en maximal last på 630 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 ### Tillgänglighet och pris
 

@@ -257,12 +257,13 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 543 liter. Med bagsædet nede er det 1575 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2081 kg (4588 lbs), kan du maksimalt laste 609 kg (1343 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 543 liter. Med det bageste sæde foldet ned, udvides dette til 1575 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+Køretøjets maksimale vægt er 2690 kg, med en basisvægt på 2081 kg. Dette giver en maksimal last på 609 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/trunk_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2000"  >}}
 

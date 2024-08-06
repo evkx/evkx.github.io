@@ -252,12 +252,13 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere funktioner til
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1545 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 570 liter. Med det bageste sæde foldet ned, udvides dette til 1545 liter. På taget kan du laste op til 100 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
+Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2366 kg. Dette giver en maksimal last på 484 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 484 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/nio/el7/el7/trunk_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 <div class="mt-3 mb-3">

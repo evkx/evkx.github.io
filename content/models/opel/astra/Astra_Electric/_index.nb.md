@@ -211,12 +211,13 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 352 liter. Med baksetet nede er det 1268 liter. På taket kan du laste opptil 70 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2100 kg, og med basisvekten på 1736 kg kan du maksimalt laste 364 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 352 liter. Med baksetene nedfelt, utvides dette til 1268 liter. På taket kan du laste opptil 70 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2100 kg, med en basisvekt på 1736 kg. Dette gir en maksimal lastekapasitet på 364 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 

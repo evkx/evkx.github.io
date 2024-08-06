@@ -223,12 +223,13 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 311 litros. Con el asiento trasero abatido, es de 1411 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 37 litros (1,3 CU FT). El peso máximo del automóvil es 3380 kg (7452 lbs), y con el peso base de 2748 kg (6058 lbs), puedes cargar como máximo 632 kg (1393 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 311 litros. Con el asiento trasero plegado, esto se expande a 1411 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 37 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2200, y sin freno, es de 750 kg (4850/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 3380 kg, con un peso base de 2748 kg. Esto permite una carga máxima de 632 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2200 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EX90 </strong>
 </a>

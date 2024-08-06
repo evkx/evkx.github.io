@@ -248,12 +248,13 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 11 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 3216 kg (7090 lbs), kan du maksimalt laste 654 kg (1442 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 498 liter. Med det bageste sæde foldet ned, udvides dette til 2965 liter. På taget kan du laste op til 113 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 314 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3492, og på ubremset er den 750 kg (7699/1653 lbs).
+Køretøjets maksimale vægt er 3870 kg, med en basisvægt på 3216 kg. Dette giver en maksimal last på 654 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3492 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

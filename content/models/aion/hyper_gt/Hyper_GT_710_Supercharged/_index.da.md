@@ -202,12 +202,11 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1100 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 60 liter (2,1 CU FT).
+Bagagerummet har en lastekapacitet på 500 liter. Med det bageste sæde foldet ned, udvides dette til 1100 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 60 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

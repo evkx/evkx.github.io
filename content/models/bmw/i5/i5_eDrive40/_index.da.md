@@ -254,12 +254,13 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2256 kg (4974 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet ned, udvides dette til 1290 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
+Køretøjets maksimale vægt er 2740 kg, med en basisvægt på 2256 kg. Dette giver en maksimal last på 484 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/trunk_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

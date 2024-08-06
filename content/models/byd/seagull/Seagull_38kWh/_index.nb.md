@@ -207,12 +207,13 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 300 liter. Med baksetet nede er det 900 liter. Maksimumsvekten til bilen er 1550 kg, og med basisvekten på 1240 kg kan du maksimalt laste 310 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 300 liter. Med baksetene nedfelt, utvides dette til 900 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Kjøretøyets maksimale vekt er 1550 kg, med en basisvekt på 1240 kg. Dette gir en maksimal lastekapasitet på 310 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seagull </strong>
 </a>

@@ -225,12 +225,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 432 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2610 kg (5754 lbs), og med basisvægten på 2020 kg (4453 lbs), kan du maksimalt laste 590 kg (1301 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 432 liter. På taget kan du laste op til 80 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 2610 kg, med en basisvægt på 2020 kg. Dette giver en maksimal last på 590 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1600 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Genesis GV60 </strong>
 </a>

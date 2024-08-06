@@ -223,12 +223,13 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende funktioner til køreaut
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3,5 CU FT). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2218 kg (4890 lbs), kan du maksimalt laste 472 kg (1041 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 472kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 402 liter. Med det bageste sæde foldet ned, udvides dette til 1420 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 100 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
+Køretøjets maksimale vægt er 2690 kg, med en basisvægt på 2218 kg. Dette giver en maksimal last på 472 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 472 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 750 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

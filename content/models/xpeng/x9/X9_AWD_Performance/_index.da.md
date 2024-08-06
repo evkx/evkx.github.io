@@ -211,12 +211,11 @@ Med XPILOT  niveau 2-systemet får du følgende funktioner til køreautomatiseri
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 755 liter. Med sædet på tredje række nede er det 2554 liter.
+Bagagerummet har en lastekapacitet på 755 liter. Med det tredje sæderække foldet ned, udvides dette til 2554 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">

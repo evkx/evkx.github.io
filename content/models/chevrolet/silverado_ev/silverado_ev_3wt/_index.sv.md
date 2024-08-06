@@ -209,12 +209,13 @@ Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1286 mm och längden är 1803 mm. Den maximala lastvikten i lastflaket är 614 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 303 liter. Bilens maximala vikt är 4531 kg, och med basvikten på 3723 kg kan du lasta maximalt 808 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmet i flaket erbjuder en lastkapacitet på 1039 liter. Det har en bredd på 1286 mm och en längd på 1803 mm, med en maximal lastvikt på 614 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 303 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 5670, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 4531 kg, med en grundvikt på 3723 kg. Detta tillåter en maximal last på 808 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 5670 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 

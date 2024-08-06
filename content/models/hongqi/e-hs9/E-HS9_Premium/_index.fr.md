@@ -228,12 +228,13 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 225 litres. Avec le siège de troisième rangée abaissé, elle est de 622 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3205 kg (7066 lbs), et avec le poids de base de 2660 kg (5864 lbs), vous pouvez charger au maximum 545 kg (1202 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 225 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 622 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 3205 kg, avec un poids de base de 2660 kg. Cela permet une charge maximale de 545 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Hongqi E-HS9 </strong>
 </a>

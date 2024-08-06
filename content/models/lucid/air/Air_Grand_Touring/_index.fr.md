@@ -222,12 +222,13 @@ Avec le système ADAS  de niveau 2, vous obtenez les fonctionnalités suivantes 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 456 litres. Avec la banquette arrière rabattue, elle est de 627 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 283 litres (10,0 CU FT). Le poids maximum de la voiture est de 2850 kg (6283 lbs), et avec le poids de base de 2360 kg (5203 lbs), vous pouvez charger au maximum 490 kg (1080 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 456 litres. Avec les sièges arrière rabattus, cette capacité passe à 627 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 283 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2850 kg, avec un poids de base de 2360 kg. Cela permet une charge maximale de 490 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/trunk_1_st.jpg" title="Lucid Air Grand Touring" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

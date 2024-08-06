@@ -214,12 +214,13 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 362 liter. Med baksätet nedfällt är det 904 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 7 liter. Bilens maximala vikt är 2520 kg, och med basvikten på 1960 kg kan du lasta maximalt 560 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 362 liter. Med baksätena nedfällda ökar detta till 904 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 7 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2520 kg, med en grundvikt på 1960 kg. Detta tillåter en maximal last på 560 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1600 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 

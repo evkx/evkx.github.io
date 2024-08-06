@@ -246,12 +246,13 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ytterligare funktioner fö
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 450 liter. Med baksätet nedfällt är det 1447 liter. På taket kan du lasta upp till 100 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 2900 kg, och med basvikten på 2379 kg kan du lasta maximalt 521 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 450 liter. Med baksätena nedfällda ökar detta till 1447 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2900 kg, med en grundvikt på 2379 kg. Detta tillåter en maximal last på 521 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

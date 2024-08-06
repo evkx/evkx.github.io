@@ -227,12 +227,13 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktione
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. På taget kan du laste op til 70 kg (154,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 89 liter (3,1 CU FT). Bilens maksimale vægt er 2629 kg (5796 lbs), og med basisvægten på 2265 kg (4993 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 709 liter. Med det bageste sæde foldet ned, udvides dette til 1828 liter. På taget kan du laste op til 70 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 89 liter.
 
-Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
+Køretøjets maksimale vægt er 2629 kg, med en basisvægt på 2265 kg. Dette giver en maksimal last på 364 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 1600, og for en ubremset trailer er det 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

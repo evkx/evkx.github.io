@@ -229,10 +229,11 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 460 litres. Avec la banquette arrière rabattue, elle est de 1594 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2030 kg (4475 lbs), et avec le poids de base de 1439 kg (3172 lbs), vous pouvez charger au maximum 591 kg (1303 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 460 litres. Avec les sièges arrière rabattus, cette capacité passe à 1594 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+
+Le poids maximum du véhicule est de 2030 kg, avec un poids de base de 1439 kg. Cela permet une charge maximale de 591 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

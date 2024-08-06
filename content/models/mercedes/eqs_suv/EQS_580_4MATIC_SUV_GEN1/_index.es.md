@@ -276,12 +276,13 @@ Con el sistema DRIVE PILOT  de nivel 3, obtienes funciones adicionales de automa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 645 litros. Con el asiento trasero abatido, es de 2100 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3375 kg (7441 lbs), y con el peso base de 2735 kg (6030 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 645 litros. Con el asiento trasero plegado, esto se expande a 2100 litros. En el techo, puedes cargar hasta 100 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
+El peso máximo del vehículo es 3375 kg, con un peso base de 2735 kg. Esto permite una carga máxima de 640 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 

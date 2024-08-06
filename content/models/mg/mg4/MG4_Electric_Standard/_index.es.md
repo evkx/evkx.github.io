@@ -198,12 +198,11 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-El peso máximo del automóvil es 2133 kg (4702 lbs), y con el peso base de 1715 kg (3781 lbs), puedes cargar como máximo 418 kg (922 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El peso máximo del vehículo es 2133 kg, con un peso base de 1715 kg. Esto permite una carga máxima de 418 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 500, y sin freno, es de 500 kg (1102/1102 lbs).
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 500 kg, mientras que para un tráiler sin freno es de 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

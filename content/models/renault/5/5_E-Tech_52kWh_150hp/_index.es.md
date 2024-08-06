@@ -218,12 +218,13 @@ Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 326 litros. El peso máximo del automóvil es 1780 kg (3924 lbs), y con el peso base de 1350 kg (2976 lbs), puedes cargar como máximo 430 kg (948 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 326 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 500, y sin freno, es de 500 kg (1102/1102 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 1780 kg, con un peso base de 1350 kg. Esto permite una carga máxima de 430 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 500 kg, mientras que para un tráiler sin freno es de 500 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Renault 5 </strong>
 </a>

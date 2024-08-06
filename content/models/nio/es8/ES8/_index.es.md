@@ -258,12 +258,13 @@ Con el sistema NIO Pilot Complete Pack  de nivel 2, obtienes funciones adicional
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1901 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3099 kg (6832 lbs), y con el peso base de 2440 kg (5379 lbs), puedes cargar como máximo 659 kg (1453 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 310 litros. Con el asiento trasero plegado, esto se expande a 1901 litros. En el techo, puedes cargar hasta 100 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 3099 kg, con un peso base de 2440 kg. Esto permite una carga máxima de 659 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Nio ES8 </strong>
 </a>

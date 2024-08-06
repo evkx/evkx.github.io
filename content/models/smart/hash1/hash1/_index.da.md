@@ -218,12 +218,13 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 313 liter. Med bagsædet nede er det 976 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 2213 kg (4879 lbs), og med basisvægten på 1788 kg (3942 lbs), kan du maksimalt laste 425 kg (937 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 313 liter. Med det bageste sæde foldet ned, udvides dette til 976 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 15 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
+Køretøjets maksimale vægt er 2213 kg, med en basisvægt på 1788 kg. Dette giver en maksimal last på 425 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1600 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 

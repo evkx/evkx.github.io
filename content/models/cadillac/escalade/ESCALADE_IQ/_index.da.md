@@ -221,12 +221,13 @@ Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 670 liter. Med bagsædet nede er det 3374 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 345 liter (12,2 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 670 liter. Med det bageste sæde foldet ned, udvides dette til 3374 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 345 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3628, og på ubremset er den 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 4717 kg, med en basisvægt på 4103 kg. Dette giver en maksimal last på 614 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3628 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
 </a>

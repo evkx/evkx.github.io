@@ -211,12 +211,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 448 liter. Med bagsædet nede er det 1166 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2070 kg (4564 lbs), og med basisvægten på 1620 kg (3571 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 448 liter. Med det bageste sæde foldet ned, udvides dette til 1166 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 150 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
+Køretøjets maksimale vægt er 2070 kg, med en basisvægt på 1620 kg. Dette giver en maksimal last på 450 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 450 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 

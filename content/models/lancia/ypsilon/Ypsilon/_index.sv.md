@@ -212,12 +212,13 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 352 liter. Med baksätet nedfällt är det 1268 liter. På taket kan du lasta upp till 70 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 1950 kg, och med basvikten på 1584 kg kan du lasta maximalt 366 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 352 liter. Med baksätena nedfällda ökar detta till 1268 liter. På taket kan du lasta upp till 70 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Fordonets maximala vikt är 1950 kg, med en grundvikt på 1584 kg. Detta tillåter en maximal last på 366 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/trunk_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 

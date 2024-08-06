@@ -266,12 +266,13 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere funktioner til køre
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2870 kg (6327 lbs), og med basisvægten på 2220 kg (4894 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 366 liter. På taget kan du laste op til 75 kg.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2870 kg, med en basisvægt på 2220 kg. Dette giver en maksimal last på 650 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
 

@@ -235,12 +235,13 @@ Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1658 kg (3655 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 345 liter. Med det bageste sæde foldet ned, udvides dette til 1310 liter. På taget kan du laste op til 50 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 0, og på ubremset er den 0 kg (0/0 lbs).
+Køretøjets maksimale vægt er 2068 kg, med en basisvægt på 1658 kg. Dette giver en maksimal last på 410 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 0 kg, mens den for en ubremset trailer er 0 kg.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

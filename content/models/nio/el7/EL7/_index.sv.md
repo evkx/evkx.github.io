@@ -252,12 +252,13 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du ytterligare funktioner fö
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 570 liter. Med baksätet nedfällt är det 1545 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2850 kg, och med basvikten på 2366 kg kan du lasta maximalt 484 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 484 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagageutrymmet erbjuder en lastkapacitet på 570 liter. Med baksätena nedfällda ökar detta till 1545 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2850 kg, med en grundvikt på 2366 kg. Detta tillåter en maximal last på 484 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 484 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/nio/el7/el7/trunk_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 <div class="mt-3 mb-3">

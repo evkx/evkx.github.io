@@ -211,12 +211,13 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 448 liter. Med baksätet nedfällt är det 1166 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 150 liter. Bilens maximala vikt är 2070 kg, och med basvikten på 1620 kg kan du lasta maximalt 450 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 450 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagageutrymmet erbjuder en lastkapacitet på 448 liter. Med baksätena nedfällda ökar detta till 1166 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 150 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.
+Fordonets maximala vikt är 2070 kg, med en grundvikt på 1620 kg. Detta tillåter en maximal last på 450 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 450 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 

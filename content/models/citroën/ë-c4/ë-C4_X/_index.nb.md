@@ -196,12 +196,13 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 350 liter. Med baksetet nede er det 1050 liter. Maksimumsvekten til bilen er 2008 kg, og med basisvekten på 1550 kg kan du maksimalt laste 458 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 350 liter. Med baksetene nedfelt, utvides dette til 1050 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Kjøretøyets maksimale vekt er 2008 kg, med en basisvekt på 1550 kg. Dette gir en maksimal lastekapasitet på 458 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C4 </strong>
 </a>

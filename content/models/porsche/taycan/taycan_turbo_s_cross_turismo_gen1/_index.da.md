@@ -267,12 +267,13 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere funktioner til køre
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 405 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 84 liter (3,0 CU FT). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2320 kg (5115 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 405 liter. Med det bageste sæde foldet ned, udvides dette til 1171 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 84 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Køretøjets maksimale vægt er 2880 kg, med en basisvægt på 2320 kg. Dette giver en maksimal last på 560 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="1449"  >}}
 

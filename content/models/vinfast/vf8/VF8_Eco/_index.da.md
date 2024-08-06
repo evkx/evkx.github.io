@@ -226,12 +226,13 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 376 liter. Med bagsædet nede er det 1373 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 78 liter (2,8 CU FT). Bilens maksimale vægt er 3075 kg (6779 lbs), og med basisvægten på 2600 kg (5732 lbs), kan du maksimalt laste 475 kg (1047 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 475kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 376 liter. Med det bageste sæde foldet ned, udvides dette til 1373 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 78 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 3075 kg, med en basisvægt på 2600 kg. Dette giver en maksimal last på 475 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 475 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1800 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

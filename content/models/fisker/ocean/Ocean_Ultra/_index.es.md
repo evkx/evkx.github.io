@@ -215,12 +215,13 @@ Con el sistema Fisker Intelligent Pilot  de nivel 2, obtienes las siguientes fun
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 476 litros. Con el asiento trasero abatido, es de 918 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2974 kg (6557 lbs), y con el peso base de 2433 kg (5364 lbs), puedes cargar como máximo 541 kg (1193 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 476 litros. Con el asiento trasero plegado, esto se expande a 918 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1820, y sin freno, es de 750 kg (4012/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 2974 kg, con un peso base de 2433 kg. Esto permite una carga máxima de 541 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1820 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
 </a>

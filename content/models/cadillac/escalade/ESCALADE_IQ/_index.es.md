@@ -221,12 +221,13 @@ Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 670 litros. Con el asiento trasero abatido, es de 3374 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 345 litros (12,2 CU FT). El peso máximo del automóvil es 4717 kg (10399 lbs), y con el peso base de 4103 kg (9046 lbs), puedes cargar como máximo 614 kg (1354 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 670 litros. Con el asiento trasero plegado, esto se expande a 3374 litros. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 345 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3628, y sin freno, es de 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 4717 kg, con un peso base de 4103 kg. Esto permite una carga máxima de 614 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3628 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
 </a>

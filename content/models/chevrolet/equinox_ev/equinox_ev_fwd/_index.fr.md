@@ -222,12 +222,11 @@ Avec le système Super Cruise  de niveau 2, vous obtenez des fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 748 litres. Avec la banquette arrière rabattue, elle est de 1614 litres.
+Le coffre offre une capacité de chargement de 748 litres. Avec les sièges arrière rabattus, cette capacité passe à 1614 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 680, et sur une remorque non freinée, il est de 680 kg (1499/1499 lbs).
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 680 kg, tandis que pour une remorque non freinée, il est de 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

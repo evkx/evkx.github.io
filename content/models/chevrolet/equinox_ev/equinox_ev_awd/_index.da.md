@@ -222,12 +222,11 @@ Med Super Cruise  niveau 2-systemet får du yderligere funktioner til køreautom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 748 liter. Med bagsædet nede er det 1614 liter.
+Bagagerummet har en lastekapacitet på 748 liter. Med det bageste sæde foldet ned, udvides dette til 1614 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 680, og på ubremset er den 680 kg (1499/1499 lbs).
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 680 kg, mens den for en ubremset trailer er 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/trunk_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

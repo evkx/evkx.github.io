@@ -221,12 +221,13 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 318 litres. Avec la banquette arrière rabattue, elle est de 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 7 litres (0,2 CU FT). Le poids maximum de la voiture est de 2216 kg (4885 lbs), et avec le poids de base de 1758 kg (3876 lbs), vous pouvez charger au maximum 458 kg (1010 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 318 litres. Avec les sièges arrière rabattus, cette capacité passe à 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 7 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Le poids maximum du véhicule est de 2216 kg, avec un poids de base de 1758 kg. Cela permet une charge maximale de 458 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

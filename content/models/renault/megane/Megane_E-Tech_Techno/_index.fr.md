@@ -235,12 +235,13 @@ Avec le système ProPILOT  de niveau 2, vous obtenez les fonctionnalités suivan
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 440 litres. Avec la banquette arrière rabattue, elle est de 1332 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2158 kg (4758 lbs), et avec le poids de base de 1636 kg (3607 lbs), vous pouvez charger au maximum 522 kg (1151 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 440 litres. Avec les sièges arrière rabattus, cette capacité passe à 1332 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 900, et sur une remorque non freinée, il est de 750 kg (1984/1653 lbs).
+Le poids maximum du véhicule est de 2158 kg, avec un poids de base de 1636 kg. Cela permet une charge maximale de 522 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 900 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

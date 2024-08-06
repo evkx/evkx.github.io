@@ -246,12 +246,13 @@ Hasta cuatro [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 688 litros. Con el asiento trasero abatido, es de 1532 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 46 litros (1,6 CU FT). El peso máximo del automóvil es 3100 kg (6834 lbs), y con el peso base de 2520 kg (5556 lbs), puedes cargar como máximo 580 kg (1279 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 688 litros. Con el asiento trasero plegado, esto se expande a 1532 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 46 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2250, y sin freno, es de 750 kg (4960/1653 lbs).
+El peso máximo del vehículo es 3100 kg, con un peso base de 2520 kg. Esto permite una carga máxima de 580 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2250 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/trunk_1_st.jpg" title="Lotus Eletre R" width="3000" height="1687"  >}}
 

@@ -267,12 +267,13 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 306 litres. Avec la banquette arrière rabattue, elle est de 2469 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3000 kg (6614 lbs), et avec le poids de base de 2416 kg (5326 lbs), vous pouvez charger au maximum 584 kg (1287 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 306 litres. Avec les sièges arrière rabattus, cette capacité passe à 2469 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Le poids maximum du véhicule est de 3000 kg, avec un poids de base de 2416 kg. Cela permet une charge maximale de 584 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

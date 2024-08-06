@@ -236,12 +236,11 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 204 litres. Avec le siège de troisième rangée abaissé, elle est de 587 litres.
+Le coffre offre une capacité de chargement de 204 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 587 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 <div class="mt-3 mb-3">

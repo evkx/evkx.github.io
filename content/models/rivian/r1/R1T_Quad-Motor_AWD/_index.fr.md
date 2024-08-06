@@ -221,12 +221,13 @@ Avec le système Driver+  de niveau 2, vous obtenez les fonctionnalités suivant
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1925 litres. La largeur de la caisse est de 1275 mm et la longueur est de 1371 mm. Le poids de charge maximal dans la caisse est de 800 kg. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT). Le poids maximum de la voiture est de 3870 kg (8532 lbs), et avec le poids de base de 2858 kg (6301 lbs), vous pouvez charger au maximum 1012 kg (2231 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La caisse du camion offre une capacité de chargement de 1925 litres. Elle a une largeur de 1275 mm et une longueur de 1371 mm, avec un poids maximal de chargement de 800 kg. Sur le toit, vous pouvez charger jusqu'à 113 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 314 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 5000, et sur une remorque non freinée, il est de 750 kg (11023/1653 lbs).
+Le poids maximum du véhicule est de 3870 kg, avec un poids de base de 2858 kg. Cela permet une charge maximale de 1012 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 5000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

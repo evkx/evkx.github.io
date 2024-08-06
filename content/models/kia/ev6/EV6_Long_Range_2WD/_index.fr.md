@@ -229,12 +229,13 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 480 litres. Avec la banquette arrière rabattue, elle est de 1260 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 20 litres (0,7 CU FT). Le poids maximum de la voiture est de 2530 kg (5578 lbs), et avec le poids de base de 2015 kg (4442 lbs), vous pouvez charger au maximum 515 kg (1135 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 480 litres. Avec les sièges arrière rabattus, cette capacité passe à 1260 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 20 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+Le poids maximum du véhicule est de 2530 kg, avec un poids de base de 2015 kg. Cela permet une charge maximale de 515 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

@@ -235,12 +235,13 @@ Con el sistema ProPILOT  de nivel 2, obtienes las siguientes funciones de automa
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 440 litros. Con el asiento trasero abatido, es de 1332 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). El peso máximo del automóvil es 2158 kg (4758 lbs), y con el peso base de 1636 kg (3607 lbs), puedes cargar como máximo 522 kg (1151 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 440 litros. Con el asiento trasero plegado, esto se expande a 1332 litros. En el techo, puedes cargar hasta 80 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 900, y sin freno, es de 750 kg (1984/1653 lbs).
+El peso máximo del vehículo es 2158 kg, con un peso base de 1636 kg. Esto permite una carga máxima de 522 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 900 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

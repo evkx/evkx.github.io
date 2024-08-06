@@ -249,12 +249,13 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 495 liter. Med baksetet nede er det 1410 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2580 kg, og med basisvekten på 2100 kg kan du maksimalt laste 480 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 480 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagasjerommet tilbyr en lastekapasitet på 495 liter. Med baksetene nedfelt, utvides dette til 1410 liter. På taket kan du laste opptil 75 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2580 kg, med en basisvekt på 2100 kg. Dette gir en maksimal lastekapasitet på 480 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 480 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

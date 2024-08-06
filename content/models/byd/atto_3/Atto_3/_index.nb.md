@@ -235,10 +235,11 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2160 kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 440 liter. Med baksetene nedfelt, utvides dette til 1338 liter. På taket kan du laste opptil 50 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
+
+Kjøretøyets maksimale vekt er 2160 kg, med en basisvekt på 1750 kg. Dette gir en maksimal lastekapasitet på 410 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

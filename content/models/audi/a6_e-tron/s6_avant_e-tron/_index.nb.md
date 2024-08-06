@@ -289,12 +289,13 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 502 liter. Med baksetet nede er det 1422 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2335 kg kan du maksimalt laste 545 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 502 liter. Med baksetene nedfelt, utvides dette til 1422 liter. På taket kan du laste opptil 75 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 27 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2100, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2880 kg, med en basisvekt på 2335 kg. Dette gir en maksimal lastekapasitet på 545 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2100 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/trunk_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 

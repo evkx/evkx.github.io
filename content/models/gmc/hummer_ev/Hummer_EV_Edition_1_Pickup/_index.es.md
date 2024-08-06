@@ -204,12 +204,13 @@ Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1272 mm y el largo es 1524 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 320 litros (11,3 CU FT). El peso máximo del automóvil es 4717 kg (10399 lbs), y con el peso base de 4103 kg (9046 lbs), puedes cargar como máximo 614 kg (1354 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La caja del camión ofrece una capacidad de carga de 1039 litros. Tiene un ancho de 1272 mm  y una longitud de 1524 mm, con un peso máximo de carga de 614 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 320 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3402, y sin freno, es de 750 kg (7500/1653 lbs).
+El peso máximo del vehículo es 4717 kg, con un peso base de 4103 kg. Esto permite una carga máxima de 614 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3402 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 ### Disponibilidad y precios
 

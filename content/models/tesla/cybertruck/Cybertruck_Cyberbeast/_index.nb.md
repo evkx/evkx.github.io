@@ -227,12 +227,13 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ekstra kjøreautomati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1897,23 liter. Bredden på lasteplanet er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1055 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastebilen tilbyr en lastekapasitet på 1897,23 liter. Den har en bredde på 1295 mm og en lengde på 1849 mm, med en maksimal lastevekt på 1134 kg. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 201 liter.
 
-Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 4159 kg, med en basisvekt på 3104 kg. Dette gir en maksimal lastekapasitet på 1055 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt for en bremsesatt tilhenger er 4990, og for en ubremset tilhenger er det 750 kg .
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 

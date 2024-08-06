@@ -214,12 +214,13 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 362 litres. Avec la banquette arrière rabattue, elle est de 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 7 litres (0,2 CU FT). Le poids maximum de la voiture est de 2520 kg (5556 lbs), et avec le poids de base de 1960 kg (4321 lbs), vous pouvez charger au maximum 560 kg (1235 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 362 litres. Avec les sièges arrière rabattus, cette capacité passe à 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 7 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+Le poids maximum du véhicule est de 2520 kg, avec un poids de base de 1960 kg. Cela permet une charge maximale de 560 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/trunk_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 

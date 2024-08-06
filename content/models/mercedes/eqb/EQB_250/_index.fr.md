@@ -249,12 +249,13 @@ Avec le système Driver Assistance Package  de niveau 1, vous obtenez les foncti
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 495 litres. Avec la banquette arrière rabattue, elle est de 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2520 kg (5556 lbs), et avec le poids de base de 2035 kg (4486 lbs), vous pouvez charger au maximum 485 kg (1069 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 485kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+Le coffre offre une capacité de chargement de 495 litres. Avec les sièges arrière rabattus, cette capacité passe à 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2520 kg, avec un poids de base de 2035 kg. Cela permet une charge maximale de 485 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 485 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

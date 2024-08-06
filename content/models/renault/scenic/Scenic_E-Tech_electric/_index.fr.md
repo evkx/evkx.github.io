@@ -232,12 +232,13 @@ Avec le système ProPILOT  de niveau 2, vous obtenez les fonctionnalités suivan
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 545 litres. Avec la banquette arrière rabattue, elle est de 1490 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2340 kg (5159 lbs), et avec le poids de base de 1772 kg (3907 lbs), vous pouvez charger au maximum 568 kg (1252 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 545 litres. Avec les sièges arrière rabattus, cette capacité passe à 1490 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1100, et sur une remorque non freinée, il est de 750 kg (2425/1653 lbs).
+Le poids maximum du véhicule est de 2340 kg, avec un poids de base de 1772 kg. Cela permet une charge maximale de 568 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1100 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/trunk_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

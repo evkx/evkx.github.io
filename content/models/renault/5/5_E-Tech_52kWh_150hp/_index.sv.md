@@ -218,12 +218,13 @@ Med ProPILOT  nivå 2-systemet får du följande funktioner för körautomatiser
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 326 liter. Bilens maximala vikt är 1780 kg, och med basvikten på 1350 kg kan du lasta maximalt 430 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 326 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 1780 kg, med en grundvikt på 1350 kg. Detta tillåter en maximal last på 430 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Renault 5 </strong>
 </a>

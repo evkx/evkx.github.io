@@ -235,12 +235,13 @@ Con el sistema   de nivel 1, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1658 kg (3655 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 345 litros. Con el asiento trasero plegado, esto se expande a 1310 litros. En el techo, puedes cargar hasta 50 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 0, y sin freno, es de 0 kg (0/0 lbs).
+El peso máximo del vehículo es 2068 kg, con un peso base de 1658 kg. Esto permite una carga máxima de 410 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 0 kg, mientras que para un tráiler sin freno es de 0 kg.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

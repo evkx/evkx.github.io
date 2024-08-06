@@ -225,12 +225,13 @@ Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/),
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 493 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 105 litros (3,7 CU FT). El peso máximo del automóvil es 2655 kg (5853 lbs), y con el peso base de 2205 kg (4861 lbs), puedes cargar como máximo 450 kg (992 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 493 litros. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 105 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 2655 kg, con un peso base de 2205 kg. Esto permite una carga máxima de 450 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 ### Disponibilidad y precios
 

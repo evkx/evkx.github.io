@@ -233,12 +233,13 @@ Med Smart Pilot  nivå 2-systemet får du ytterligare funktioner för körautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 192 liter. Med baksätet nedfällt är det 763 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3060 kg, och med basvikten på 2489 kg kan du lasta maximalt 571 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 192 liter. Med baksätena nedfällda ökar detta till 763 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 3060 kg, med en grundvikt på 2489 kg. Detta tillåter en maximal last på 571 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Tang </strong>
 </a>

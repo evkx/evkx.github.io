@@ -216,12 +216,13 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 452 liter. På taket kan du lasta upp till 80 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2195 kg, och med basvikten på 1945 kg kan du lasta maximalt 250 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 250 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagageutrymmet erbjuder en lastkapacitet på 452 liter. På taket kan du lasta upp till 80 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2195 kg, med en grundvikt på 1945 kg. Detta tillåter en maximal last på 250 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 250 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

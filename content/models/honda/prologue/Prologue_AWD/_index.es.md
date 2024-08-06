@@ -221,12 +221,11 @@ Con el sistema   de nivel 1, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 793 litros. Con el asiento trasero abatido, es de 1723 litros.
+El maletero ofrece una capacidad de carga de 793 litros. Con el asiento trasero plegado, esto se expande a 1723 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 680, y sin freno, es de 680 kg (1499/1499 lbs).
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 680 kg, mientras que para un tráiler sin freno es de 680 kg.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/trunk_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

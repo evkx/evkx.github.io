@@ -290,12 +290,13 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 502 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2760 kg (6085 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 502 liter. Med det bageste sæde foldet ned, udvides dette til 1422 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 27 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2100, og på ubremset er den 750 kg (4630/1653 lbs).
+Køretøjets maksimale vægt er 2760 kg, med en basisvægt på 2185 kg. Dette giver en maksimal last på 575 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2100 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

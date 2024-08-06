@@ -228,12 +228,13 @@ Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1449 liter. Bilens maximala vikt är 2501 kg, och med basvikten på 1900 kg kan du lasta maximalt 601 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1449 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Fordonets maximala vikt är 2501 kg, med en grundvikt på 1900 kg. Detta tillåter en maximal last på 601 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">

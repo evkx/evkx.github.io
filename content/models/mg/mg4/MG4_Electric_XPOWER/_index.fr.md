@@ -196,12 +196,11 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-Le poids maximum de la voiture est de 2133 kg (4702 lbs), et avec le poids de base de 1715 kg (3781 lbs), vous pouvez charger au maximum 418 kg (922 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le poids maximum du véhicule est de 2133 kg, avec un poids de base de 1715 kg. Cela permet une charge maximale de 418 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 500, et sur une remorque non freinée, il est de 500 kg (1102/1102 lbs).
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 500 kg, tandis que pour une remorque non freinée, il est de 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

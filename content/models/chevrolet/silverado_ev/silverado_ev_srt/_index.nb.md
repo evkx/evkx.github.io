@@ -210,12 +210,13 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1286 mm, og lengden er 1803 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 303 liter. Maksimumsvekten til bilen er 4763 kg, og med basisvekten på 4061 kg kan du maksimalt laste 702 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastebilen tilbyr en lastekapasitet på 1039 liter. Den har en bredde på 1286 mm og en lengde på 1803 mm, med en maksimal lastevekt på 614 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 303 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 4536, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 4763 kg, med en basisvekt på 4061 kg. Dette gir en maksimal lastekapasitet på 702 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 4536 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

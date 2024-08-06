@@ -185,12 +185,11 @@ Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 200 liter. Med baksetet nede er det 800 liter.
+Bagasjerommet tilbyr en lastekapasitet på 200 liter. Med baksetene nedfelt, utvides dette til 800 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

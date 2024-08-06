@@ -199,12 +199,13 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 359 liter. Med baksetet nede er det 1396 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 150 liter. Maksimumsvekten til bilen er 2373 kg, og med basisvekten på 1920 kg kan du maksimalt laste 453 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 453 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagasjerommet tilbyr en lastekapasitet på 359 liter. Med baksetene nedfelt, utvides dette til 1396 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 150 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2373 kg, med en basisvekt på 1920 kg. Dette gir en maksimal lastekapasitet på 453 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 453 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 750 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 

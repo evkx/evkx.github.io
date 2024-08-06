@@ -270,12 +270,13 @@ Med DRIVE PILOT  nivå 3-systemet får du ekstra kjøreautomatiseringsfunksjoner
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 555 liter. Med baksetet nede er det 1990 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3500 kg, og med basisvekten på 3010 kg kan du maksimalt laste 490 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 490 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
+Bagasjerommet tilbyr en lastekapasitet på 555 liter. Med baksetene nedfelt, utvides dette til 1990 liter. På taket kan du laste opptil 100 kg. Valgfrie takrails er tilgjengelige for enkel montering av en takboks eller takstativ.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 3500 kg, med en basisvekt på 3010 kg. Dette gir en maksimal lastekapasitet på 490 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 490 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

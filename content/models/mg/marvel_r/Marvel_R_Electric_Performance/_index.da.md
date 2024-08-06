@@ -199,12 +199,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 359 liter. Med bagsædet nede er det 1396 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2373 kg (5232 lbs), og med basisvægten på 1920 kg (4233 lbs), kan du maksimalt laste 453 kg (999 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 453kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 359 liter. Med det bageste sæde foldet ned, udvides dette til 1396 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 150 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
+Køretøjets maksimale vægt er 2373 kg, med en basisvægt på 1920 kg. Dette giver en maksimal last på 453 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 453 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 750 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 

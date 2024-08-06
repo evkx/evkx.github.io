@@ -228,10 +228,11 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere funktio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14,1 CU FT). Bilens maksimale vægt er 3878 kg (8550 lbs), og med basisvægten på 2988 kg (6587 lbs), kan du maksimalt laste 890 kg (1962 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastbeddet har en lastekapacitet på 1495 liter. Det har en bredde på 1285 mm og en længde på 1704 mm, med en maksimal belastning på 907 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 399 liter.
+
+Køretøjets maksimale vægt er 3878 kg, med en basisvægt på 2988 kg. Dette giver en maksimal last på 890 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 

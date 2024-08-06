@@ -229,10 +229,11 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 460 liter. Med baksätet nedfällt är det 1594 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2030 kg, och med basvikten på 1439 kg kan du lasta maximalt 591 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 460 liter. Med baksätena nedfällda ökar detta till 1594 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
+
+Fordonets maximala vikt är 2030 kg, med en grundvikt på 1439 kg. Detta tillåter en maximal last på 591 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

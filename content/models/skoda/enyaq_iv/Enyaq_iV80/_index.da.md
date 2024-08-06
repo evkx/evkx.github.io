@@ -245,12 +245,13 @@ Med MAX  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 585 liter. Med bagsædet nede er det 1710 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2540 kg (5600 lbs), og med basisvægten på 2032 kg (4480 lbs), kan du maksimalt laste 508 kg (1120 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 585 liter. Med det bageste sæde foldet ned, udvides dette til 1710 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+Køretøjets maksimale vægt er 2540 kg, med en basisvægt på 2032 kg. Dette giver en maksimal last på 508 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/trunk_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000"  >}}
 

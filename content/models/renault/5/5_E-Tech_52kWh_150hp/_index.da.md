@@ -218,12 +218,13 @@ Med ProPILOT  niveau 2-systemet får du følgende funktioner til køreautomatise
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 326 liter. Bilens maksimale vægt er 1780 kg (3924 lbs), og med basisvægten på 1350 kg (2976 lbs), kan du maksimalt laste 430 kg (948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 326 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 1780 kg, med en basisvægt på 1350 kg. Dette giver en maksimal last på 430 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Renault 5 </strong>
 </a>

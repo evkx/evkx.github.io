@@ -235,12 +235,13 @@ Med ProPILOT  nivå 2-systemet får du följande funktioner för körautomatiser
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 440 liter. Med baksätet nedfällt är det 1332 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2158 kg, och med basvikten på 1636 kg kan du lasta maximalt 522 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 440 liter. Med baksätena nedfällda ökar detta till 1332 liter. På taket kan du lasta upp till 80 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 900, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2158 kg, med en grundvikt på 1636 kg. Detta tillåter en maximal last på 522 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 900 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

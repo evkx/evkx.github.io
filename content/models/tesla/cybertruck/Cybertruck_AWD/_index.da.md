@@ -245,12 +245,13 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere funktione
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1897,23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7,1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3025 kg (6669 lbs), kan du maksimalt laste 1134 kg (2500 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastbeddet har en lastekapacitet på 1897,23 liter. Det har en bredde på 1295 mm og en længde på 1849 mm, med en maksimal belastning på 1134 kg. På taget kan du laste op til 100 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 201 liter.
 
-Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 4990, og på ubremset er den 750 kg (11000/1653 lbs).
+Køretøjets maksimale vægt er 4159 kg, med en basisvægt på 3025 kg. Dette giver en maksimal last på 1134 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 4990, og for en ubremset trailer er det 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

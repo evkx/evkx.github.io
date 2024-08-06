@@ -274,12 +274,13 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du ytterligare funktio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 430 liter. Med baksätet nedfällt är det 895 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3095 kg, och med basvikten på 2450 kg kan du lasta maximalt 645 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 430 liter. Med baksätena nedfällda ökar detta till 895 liter. På taket kan du lasta upp till 100 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 3095 kg, med en grundvikt på 2450 kg. Detta tillåter en maximal last på 645 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -231,12 +231,13 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 376 litros. Con el asiento trasero abatido, es de 1373 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 78 litros (2,8 CU FT). El peso máximo del automóvil es 3075 kg (6779 lbs), y con el peso base de 2600 kg (5732 lbs), puedes cargar como máximo 475 kg (1047 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 475kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+El maletero ofrece una capacidad de carga de 376 litros. Con el asiento trasero plegado, esto se expande a 1373 litros. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 78 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 3075 kg, con un peso base de 2600 kg. Esto permite una carga máxima de 475 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 475 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

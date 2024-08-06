@@ -223,12 +223,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 440 kg (970 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 440kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Bagagerummet har en lastekapacitet på 660 liter. Med det bageste sæde foldet ned, udvides dette til 1576 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 71 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
+Køretøjets maksimale vægt er 2800 kg, med en basisvægt på 2360 kg. Dette giver en maksimal last på 440 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 440 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

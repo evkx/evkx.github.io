@@ -212,12 +212,11 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter.
+Bagagerummet har en lastekapacitet på 793 liter. Med det bageste sæde foldet ned, udvides dette til 1723 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1588, og på ubremset er den 750 kg (3501/1653 lbs).
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

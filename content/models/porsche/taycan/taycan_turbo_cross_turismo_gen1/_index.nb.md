@@ -280,12 +280,13 @@ Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunk
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 405 liter. Med baksetet nede er det 1171 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2320 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 405 liter. Med baksetene nedfelt, utvides dette til 1171 liter. På taket kan du laste opptil 75 kg.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2880 kg, med en basisvekt på 2320 kg. Dette gir en maksimal lastekapasitet på 560 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo (GEN1)" width="3000" height="1449"  >}}
 

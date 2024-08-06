@@ -211,12 +211,13 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 448 litres. Avec la banquette arrière rabattue, elle est de 1166 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 150 litres (5,3 CU FT). Le poids maximum de la voiture est de 2070 kg (4564 lbs), et avec le poids de base de 1620 kg (3571 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 450kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+Le coffre offre une capacité de chargement de 448 litres. Avec les sièges arrière rabattus, cette capacité passe à 1166 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 150 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 500, et sur une remorque non freinée, il est de 500 kg (1102/1102 lbs).
+Le poids maximum du véhicule est de 2070 kg, avec un poids de base de 1620 kg. Cela permet une charge maximale de 450 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 450 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 500 kg, tandis que pour une remorque non freinée, il est de 500 kg.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 

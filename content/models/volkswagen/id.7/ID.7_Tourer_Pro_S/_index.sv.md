@@ -247,12 +247,13 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 605 liter. Med baksätet nedfällt är det 1714 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2630 kg, och med basvikten på 2197 kg kan du lasta maximalt 433 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 605 liter. Med baksätena nedfällda ökar detta till 1714 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2630 kg, med en grundvikt på 2197 kg. Detta tillåter en maximal last på 433 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/trunk_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

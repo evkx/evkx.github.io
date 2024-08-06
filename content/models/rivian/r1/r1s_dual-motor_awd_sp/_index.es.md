@@ -225,12 +225,11 @@ Con el sistema Driver+  de nivel 2, obtienes las siguientes funciones de automat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 498 litros. Con el asiento trasero abatido, es de 2965 litros. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT).
+El maletero ofrece una capacidad de carga de 498 litros. Con el asiento trasero plegado, esto se expande a 2965 litros. En el techo, puedes cargar hasta 113 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 314 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3500, y sin freno, es de 750 kg (7716/1653 lbs).
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3500 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/trunk_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 

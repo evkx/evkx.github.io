@@ -229,12 +229,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1260 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 2015 kg (4442 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 480 liter. Med det bageste sæde foldet ned, udvides dette til 1260 liter. På taget kan du laste op til 80 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 20 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
+Køretøjets maksimale vægt er 2530 kg, med en basisvægt på 2015 kg. Dette giver en maksimal last på 515 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1600 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/trunk_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

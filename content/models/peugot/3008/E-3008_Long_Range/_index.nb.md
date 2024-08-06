@@ -231,12 +231,13 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1480 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2640 kg, og med basisvekten på 2108 kg kan du maksimalt laste 532 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 520 liter. Med baksetene nedfelt, utvides dette til 1480 liter. På taket kan du laste opptil 80 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1250, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2640 kg, med en basisvekt på 2108 kg. Dette gir en maksimal lastekapasitet på 532 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1250 kg, mens for en ubremset tilhenger er det 750 kg.
 
 ### Tilgjengelighet & pris
 

@@ -262,12 +262,13 @@ Avec le système Porsche InnoDrive  de niveau 2, vous obtenez des fonctionnalit�
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 540 litres. Avec la banquette arrière rabattue, elle est de 1348 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2920 kg (6437 lbs), et avec le poids de base de 2255 kg (4971 lbs), vous pouvez charger au maximum 665 kg (1466 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 540 litres. Avec les sièges arrière rabattus, cette capacité passe à 1348 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2000, et sur une remorque non freinée, il est de 750 kg (4409/1653 lbs).
+Le poids maximum du véhicule est de 2920 kg, avec un poids de base de 2255 kg. Cela permet une charge maximale de 665 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/trunk_1_st.jpg" title="Porsche Macan" width="3000" height="2250"  >}}
 

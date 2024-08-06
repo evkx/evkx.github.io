@@ -225,12 +225,13 @@ Avec le système Smart Pilot  de niveau 2, vous obtenez les fonctionnalités sui
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 402 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 52 litres (1,8 CU FT). Le poids maximum de la voiture est de 2631 kg (5800 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 446 kg (983 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 402 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 52 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 2631 kg, avec un poids de base de 2185 kg. Cela permet une charge maximale de 446 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal </strong>
 </a>

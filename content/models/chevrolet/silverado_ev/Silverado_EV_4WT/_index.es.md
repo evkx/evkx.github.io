@@ -209,12 +209,13 @@ Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1286 mm y el largo es 1803 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 303 litros (10,7 CU FT). El peso máximo del automóvil es 4531 kg (9989 lbs), y con el peso base de 3882 kg (8558 lbs), puedes cargar como máximo 649 kg (1431 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La caja del camión ofrece una capacidad de carga de 1039 litros. Tiene un ancho de 1286 mm  y una longitud de 1803 mm, con un peso máximo de carga de 614 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 4536, y sin freno, es de 750 kg (10000/1653 lbs).
+El peso máximo del vehículo es 4531 kg, con un peso base de 3882 kg. Esto permite una carga máxima de 649 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 4536 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 

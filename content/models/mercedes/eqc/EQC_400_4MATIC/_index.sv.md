@@ -201,12 +201,13 @@ Med Driver Assistance Package  nivå 1-systemet får du följande funktioner fö
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 500 liter. Med baksätet nedfällt är det 1460 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2940 kg, och med basvikten på 2420 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 500 liter. Med baksätena nedfällda ökar detta till 1460 liter. På taket kan du lasta upp till 75 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2940 kg, med en grundvikt på 2420 kg. Detta tillåter en maximal last på 520 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1800 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
 <div class="mt-3 mb-3">

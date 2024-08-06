@@ -210,12 +210,13 @@ Avec le système Super Cruise  de niveau 1, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1286 mm et la longueur est de 1803 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 303 litres (10,7 CU FT). Le poids maximum de la voiture est de 4763 kg (10501 lbs), et avec le poids de base de 4061 kg (8953 lbs), vous pouvez charger au maximum 702 kg (1548 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La caisse du camion offre une capacité de chargement de 1039 litres. Elle a une largeur de 1286 mm et une longueur de 1803 mm, avec un poids maximal de chargement de 614 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 303 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 4536, et sur une remorque non freinée, il est de 750 kg (10000/1653 lbs).
+Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4061 kg. Cela permet une charge maximale de 702 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4536 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

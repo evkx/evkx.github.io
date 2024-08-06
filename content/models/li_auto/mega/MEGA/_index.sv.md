@@ -251,12 +251,13 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 1054 liter. Med den tredje sätesraden nere är den 1800 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2763 kg kan du lasta maximalt 637 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 1054 liter. Med tredje raden säten nedfällda ökar detta till 1800 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 32 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Fordonets maximala vikt är 3400 kg, med en grundvikt på 2763 kg. Detta tillåter en maximal last på 637 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

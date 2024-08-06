@@ -227,12 +227,13 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ytterligare funktio
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1495 liter. Bredden på lastflaket är 1285 mm och längden är 1704 mm. Den maximala lastvikten i lastflaket är 907 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 399 liter. Bilens maximala vikt är 3500 kg, och med basvikten på 2890 kg kan du lasta maximalt 610 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmet i flaket erbjuder en lastkapacitet på 1495 liter. Det har en bredd på 1285 mm och en längd på 1704 mm, med en maximal lastvikt på 907 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 399 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3490, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 3500 kg, med en grundvikt på 2890 kg. Detta tillåter en maximal last på 610 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 3490 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 

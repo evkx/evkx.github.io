@@ -261,12 +261,13 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere funktioner til k
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 535 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2715 kg (5986 lbs), og med basisvægten på 2140 kg (4718 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 535 liter. Med det bageste sæde foldet ned, udvides dette til 1460 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
+Køretøjets maksimale vægt er 2715 kg, med en basisvægt på 2140 kg. Dette giver en maksimal last på 575 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1200 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
 

@@ -210,12 +210,13 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1295 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 419 liter. Med det bageste sæde foldet ned, udvides dette til 1295 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 31 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
+Køretøjets maksimale vægt er 2520 kg, med en basisvægt på 2030 kg. Dette giver en maksimal last på 490 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="3000" height="2250"  >}}
 

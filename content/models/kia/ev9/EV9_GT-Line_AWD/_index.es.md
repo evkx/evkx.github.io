@@ -250,12 +250,13 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 333 litros. Con el asiento trasero abatido, es de 2393 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 55 litros (1,9 CU FT). El peso máximo del automóvil es 3190 kg (7033 lbs), y con el peso base de 2637 kg (5814 lbs), puedes cargar como máximo 553 kg (1219 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 333 litros. Con el asiento trasero plegado, esto se expande a 2393 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 55 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2500, y sin freno, es de 750 kg (5512/1653 lbs).
+El peso máximo del vehículo es 3190 kg, con un peso base de 2637 kg. Esto permite una carga máxima de 553 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2500 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/trunk_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

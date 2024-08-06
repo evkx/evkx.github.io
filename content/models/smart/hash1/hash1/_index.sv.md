@@ -218,12 +218,13 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 313 liter. Med baksätet nedfällt är det 976 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 15 liter. Bilens maximala vikt är 2213 kg, och med basvikten på 1788 kg kan du lasta maximalt 425 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 313 liter. Med baksätena nedfällda ökar detta till 976 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 15 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2213 kg, med en grundvikt på 1788 kg. Detta tillåter en maximal last på 425 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1600 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 

@@ -231,12 +231,13 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 376 litres. Avec la banquette arrière rabattue, elle est de 1373 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 78 litres (2,8 CU FT). Le poids maximum de la voiture est de 3075 kg (6779 lbs), et avec le poids de base de 2600 kg (5732 lbs), vous pouvez charger au maximum 475 kg (1047 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 475kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+Le coffre offre une capacité de chargement de 376 litres. Avec les sièges arrière rabattus, cette capacité passe à 1373 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 78 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 3075 kg, avec un poids de base de 2600 kg. Cela permet une charge maximale de 475 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 475 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg, tandis que pour une remorque non freinée, il est de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
 </a>

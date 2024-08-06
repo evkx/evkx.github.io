@@ -220,12 +220,13 @@ Med Driver+  niveau 2-systemet får du følgende funktioner til køreautomatiser
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1925 liter. Ladebredden er 1275 mm, og længden er 1371 mm. Den maksimale lastvægt i lad er 800 kg. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 2858 kg (6301 lbs), kan du maksimalt laste 1012 kg (2231 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastbeddet har en lastekapacitet på 1925 liter. Det har en bredde på 1275 mm og en længde på 1371 mm, med en maksimal belastning på 800 kg. På taget kan du laste op til 113 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 314 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 5000, og på ubremset er den 750 kg (11023/1653 lbs).
+Køretøjets maksimale vægt er 3870 kg, med en basisvægt på 2858 kg. Dette giver en maksimal last på 1012 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 5000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 

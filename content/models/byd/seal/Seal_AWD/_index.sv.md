@@ -225,12 +225,13 @@ Med Smart Pilot  nivå 2-systemet får du följande funktioner för körautomati
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmets kapacitet är 402 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 52 liter. Bilens maximala vikt är 2631 kg, och med basvikten på 2185 kg kan du lasta maximalt 446 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 402 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 52 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 2631 kg, med en grundvikt på 2185 kg. Detta tillåter en maximal last på 446 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal </strong>
 </a>

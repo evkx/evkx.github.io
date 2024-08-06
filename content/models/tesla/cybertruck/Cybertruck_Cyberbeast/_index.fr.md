@@ -227,12 +227,13 @@ Avec le système Full Self-Driving Capability  de niveau 3, vous obtenez des fon
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1897,23 litres. La largeur de la caisse est de 1295 mm et la longueur est de 1849 mm. Le poids de charge maximal dans la caisse est de 1134 kg. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 201 litres (7,1 CU FT). Le poids maximum de la voiture est de 4159 kg (9169 lbs), et avec le poids de base de 3104 kg (6843 lbs), vous pouvez charger au maximum 1055 kg (2326 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La caisse du camion offre une capacité de chargement de 1897,23 litres. Elle a une largeur de 1295 mm et une longueur de 1849 mm, avec un poids maximal de chargement de 1134 kg. Sur le toit, vous pouvez charger jusqu'à 100 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 201 litres.
 
-Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 4990, et sur une remorque non freinée, il est de 750 kg (11000/1653 lbs).
+Le poids maximum du véhicule est de 4159 kg, avec un poids de base de 3104 kg. Cela permet une charge maximale de 1055 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage est un équipement standard sur ce modèle. Le poids total maximal pour une remorque freinée est de 4990, et pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 

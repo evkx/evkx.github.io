@@ -296,12 +296,13 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1725 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3280 kg, og med basisvekten på 2655 kg kan du maksimalt laste 625 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 660 liter. Med baksetene nedfelt, utvides dette til 1725 liter. På taket kan du laste opptil 75 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 3280 kg, med en basisvekt på 2655 kg. Dette gir en maksimal lastekapasitet på 625 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 

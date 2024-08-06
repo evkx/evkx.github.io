@@ -223,12 +223,13 @@ Con el sistema Ford BlueCruise  de nivel 2, obtienes las siguientes funciones de
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 402 litros. Con el asiento trasero abatido, es de 1420 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 100 litros (3,5 CU FT). El peso máximo del automóvil es 2690 kg (5930 lbs), y con el peso base de 2218 kg (4890 lbs), puedes cargar como máximo 472 kg (1041 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 472kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+El maletero ofrece una capacidad de carga de 402 litros. Con el asiento trasero plegado, esto se expande a 1420 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 100 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
+El peso máximo del vehículo es 2690 kg, con un peso base de 2218 kg. Esto permite una carga máxima de 472 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 472 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

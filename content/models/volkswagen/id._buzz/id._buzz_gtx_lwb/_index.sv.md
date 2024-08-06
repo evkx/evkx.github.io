@@ -262,12 +262,13 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 306 liter. Med baksätet nedfällt är det 2469 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3000 kg, och med basvikten på 2625 kg kan du lasta maximalt 375 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 306 liter. Med baksätena nedfällda ökar detta till 2469 liter. På taket kan du lasta upp till 100 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 3000 kg, med en grundvikt på 2625 kg. Detta tillåter en maximal last på 375 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1000 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

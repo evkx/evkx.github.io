@@ -327,12 +327,13 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 660 litros. Con el asiento trasero abatido, es de 1725 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 3170 kg (6989 lbs), y con el peso base de 2520 kg (5556 lbs), puedes cargar como máximo 650 kg (1433 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 660 litros. Con el asiento trasero plegado, esto se expande a 1725 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
+El peso máximo del vehículo es 3170 kg, con un peso base de 2520 kg. Esto permite una carga máxima de 650 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/trunk_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 

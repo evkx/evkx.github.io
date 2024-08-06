@@ -236,10 +236,11 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 460 litres. Avec la banquette arrière rabattue, elle est de 1600 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2030 kg (4475 lbs), et avec le poids de base de 1429 kg (3150 lbs), vous pouvez charger au maximum 601 kg (1325 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 460 litres. Avec les sièges arrière rabattus, cette capacité passe à 1600 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
+
+Le poids maximum du véhicule est de 2030 kg, avec un poids de base de 1429 kg. Cela permet une charge maximale de 601 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 

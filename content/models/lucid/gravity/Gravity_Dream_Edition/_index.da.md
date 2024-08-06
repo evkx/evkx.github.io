@@ -231,12 +231,13 @@ Med ADAS  niveau 2-systemet får du følgende funktioner til køreautomatisering
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 700 liter. Med bagsædet nede er det 3170 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 226 liter (8,0 CU FT). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2500 kg (5512 lbs), kan du maksimalt laste 780 kg (1720 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 700 liter. Med det bageste sæde foldet ned, udvides dette til 3170 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 226 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2700, og på ubremset er den 750 kg (5952/1653 lbs).
+Køretøjets maksimale vægt er 3280 kg, med en basisvægt på 2500 kg. Dette giver en maksimal last på 780 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 2700 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

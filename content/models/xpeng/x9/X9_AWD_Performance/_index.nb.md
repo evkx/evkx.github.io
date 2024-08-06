@@ -211,12 +211,11 @@ Med XPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 755 liter. Med setet på tredje rad nede er det 2554 liter.
+Bagasjerommet tilbyr en lastekapasitet på 755 liter. Med tredje seterad nedfelt, utvides dette til 2554 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">

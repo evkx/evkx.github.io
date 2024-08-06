@@ -251,12 +251,13 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 1054 liter. Med setet på tredje rad nede er det 1800 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2763 kg kan du maksimalt laste 637 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 1054 liter. Med tredje seterad nedfelt, utvides dette til 1800 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 32 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 3400 kg, med en basisvekt på 2763 kg. Dette gir en maksimal lastekapasitet på 637 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

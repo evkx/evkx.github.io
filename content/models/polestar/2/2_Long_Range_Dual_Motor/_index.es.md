@@ -215,12 +215,13 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 405 litros. Con el asiento trasero abatido, es de 1095 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 31 litros (1,1 CU FT). El peso máximo del automóvil es 2520 kg (5556 lbs), y con el peso base de 2025 kg (4464 lbs), puedes cargar como máximo 495 kg (1091 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 405 litros. Con el asiento trasero plegado, esto se expande a 1095 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 31 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).<div class="mt-3 mb-3">
+El peso máximo del vehículo es 2520 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 495 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Polestar 2 </strong>
 </a>

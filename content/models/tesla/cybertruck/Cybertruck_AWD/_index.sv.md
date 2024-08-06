@@ -245,12 +245,13 @@ Med Full Self-Driving Capability  nivå 3-systemet får du ytterligare funktione
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten för lastbilen är 1897,23 liter. Bredden på lastflaket är 1295 mm och längden är 1849 mm. Den maximala lastvikten i lastflaket är 1134 kg. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 201 liter. Bilens maximala vikt är 4159 kg, och med basvikten på 3025 kg kan du lasta maximalt 1134 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastutrymmet i flaket erbjuder en lastkapacitet på 1897,23 liter. Det har en bredd på 1295 mm och en längd på 1849 mm, med en maximal lastvikt på 1134 kg. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 201 liter.
 
-Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 4990, och på obromsad är den 750 kg.
+Fordonets maximala vikt är 4159 kg, med en grundvikt på 3025 kg. Detta tillåter en maximal last på 1134 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 4990, och för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

@@ -243,12 +243,13 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), c
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 151 litres. Le poids maximum de la voiture est de 2750 kg (6063 lbs), et avec le poids de base de 2340 kg (5159 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 151 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2750 kg, avec un poids de base de 2340 kg. Cela permet une charge maximale de 410 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 ### Disponibilité et prix
 

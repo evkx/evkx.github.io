@@ -234,10 +234,11 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 310 liter. Med baksetet nede er det 1200 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 1910 kg, og med basisvekten på 1416 kg kan du maksimalt laste 494 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 310 liter. Med baksetene nedfelt, utvides dette til 1200 liter. På taket kan du laste opptil 75 kg.
+
+Kjøretøyets maksimale vekt er 1910 kg, med en basisvekt på 1416 kg. Dette gir en maksimal lastekapasitet på 494 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

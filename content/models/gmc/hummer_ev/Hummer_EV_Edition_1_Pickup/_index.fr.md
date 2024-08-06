@@ -204,12 +204,13 @@ Avec le système Super Cruise  de niveau 2, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1272 mm et la longueur est de 1524 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 320 litres (11,3 CU FT). Le poids maximum de la voiture est de 4717 kg (10399 lbs), et avec le poids de base de 4103 kg (9046 lbs), vous pouvez charger au maximum 614 kg (1354 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La caisse du camion offre une capacité de chargement de 1039 litres. Elle a une largeur de 1272 mm et une longueur de 1524 mm, avec un poids maximal de chargement de 614 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 320 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3402, et sur une remorque non freinée, il est de 750 kg (7500/1653 lbs).
+Le poids maximum du véhicule est de 4717 kg, avec un poids de base de 4103 kg. Cela permet une charge maximale de 614 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 3402 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ### Disponibilité et prix
 

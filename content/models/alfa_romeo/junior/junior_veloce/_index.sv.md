@@ -204,12 +204,13 @@ Med DS Drive Assist  nivå 1-systemet får du följande funktioner för körauto
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 400 liter. Med baksätet nedfällt är det 1467 liter. Bilens maximala vikt är 2030 kg, och med basvikten på 1573 kg kan du lasta maximalt 457 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 400 liter. Med baksätena nedfällda ökar detta till 1467 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+Fordonets maximala vikt är 2030 kg, med en grundvikt på 1573 kg. Detta tillåter en maximal last på 457 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/trunk_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

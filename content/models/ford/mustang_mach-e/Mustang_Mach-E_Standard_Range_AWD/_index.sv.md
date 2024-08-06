@@ -223,12 +223,13 @@ Med Ford BlueCruise  nivå 2-systemet får du följande funktioner för körauto
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 402 liter. Med baksätet nedfällt är det 1420 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 100 liter. Bilens maximala vikt är 2640 kg, och med basvikten på 2063 kg kan du lasta maximalt 577 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 402 liter. Med baksätena nedfällda ökar detta till 1420 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 100 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2640 kg, med en grundvikt på 2063 kg. Detta tillåter en maximal last på 577 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/trunk_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

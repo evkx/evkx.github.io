@@ -221,12 +221,13 @@ Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomat
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 670 liter. Med baksätet nedfällt är det 3374 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 345 liter. Bilens maximala vikt är 4717 kg, och med basvikten på 4103 kg kan du lasta maximalt 614 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 670 liter. Med baksätena nedfällda ökar detta till 3374 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 345 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3628, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 4717 kg, med en grundvikt på 4103 kg. Detta tillåter en maximal last på 614 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 3628 kg, medan för en obromsad släpvagn är den 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
 </a>

@@ -207,12 +207,13 @@ Con el sistema   de nivel 1, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 300 litros. Con el asiento trasero abatido, es de 900 litros. El peso máximo del automóvil es 1550 kg (3417 lbs), y con el peso base de 1240 kg (2734 lbs), puedes cargar como máximo 310 kg (683 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 300 litros. Con el asiento trasero plegado, esto se expande a 900 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
+El peso máximo del vehículo es 1550 kg, con un peso base de 1240 kg. Esto permite una carga máxima de 310 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seagull </strong>
 </a>

@@ -234,10 +234,11 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 310 liter. Med baksätet nedfällt är det 1200 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 1910 kg, och med basvikten på 1416 kg kan du lasta maximalt 494 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 310 liter. Med baksätena nedfällda ökar detta till 1200 liter. På taket kan du lasta upp till 75 kg.
+
+Fordonets maximala vikt är 1910 kg, med en grundvikt på 1416 kg. Detta tillåter en maximal last på 494 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

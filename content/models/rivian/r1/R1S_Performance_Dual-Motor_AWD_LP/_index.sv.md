@@ -224,12 +224,11 @@ Med Driver+  nivå 2-systemet får du följande funktioner för körautomatiseri
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 498 liter. Med baksätena nedfällda ökar detta till 2965 liter. På taket kan du lasta upp till 113 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 314 liter.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3500, och på en obromsad är den 750 kg.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 3500 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1920" height="1080"  >}}
 

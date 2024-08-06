@@ -214,12 +214,13 @@ Avec le système DS Drive Assist  de niveau 1, vous obtenez les fonctionnalités
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 361 litres. Avec la banquette arrière rabattue, elle est de 1271 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1684 kg (3713 lbs), vous pouvez charger au maximum 426 kg (939 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 361 litres. Avec les sièges arrière rabattus, cette capacité passe à 1271 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 2110 kg, avec un poids de base de 1684 kg. Cela permet une charge maximale de 426 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 

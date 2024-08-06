@@ -235,12 +235,13 @@ Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 345 litres. Avec la banquette arrière rabattue, elle est de 1310 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Le poids maximum de la voiture est de 2068 kg (4559 lbs), et avec le poids de base de 1658 kg (3655 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 345 litres. Avec les sièges arrière rabattus, cette capacité passe à 1310 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 0, et sur une remorque non freinée, il est de 0 kg (0/0 lbs).
+Le poids maximum du véhicule est de 2068 kg, avec un poids de base de 1658 kg. Cela permet une charge maximale de 410 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 0 kg, tandis que pour une remorque non freinée, il est de 0 kg.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

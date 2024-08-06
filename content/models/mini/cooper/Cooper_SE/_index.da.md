@@ -185,12 +185,11 @@ Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 200 liter. Med bagsædet nede er det 800 liter.
+Bagagerummet har en lastekapacitet på 200 liter. Med det bageste sæde foldet ned, udvides dette til 800 liter.
 
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 ### Tilgængelighed og priser
 

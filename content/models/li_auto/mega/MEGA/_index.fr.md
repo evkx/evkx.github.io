@@ -251,12 +251,13 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 1054 litres. Avec le siège de troisième rangée abaissé, elle est de 1800 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 32 litres (1,1 CU FT). Le poids maximum de la voiture est de 3400 kg (7496 lbs), et avec le poids de base de 2763 kg (6091 lbs), vous pouvez charger au maximum 637 kg (1404 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 1054 litres. Avec le siège de la troisième rangée rabattu, cette capacité passe à 1800 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 32 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Le poids maximum du véhicule est de 3400 kg, avec un poids de base de 2763 kg. Cela permet une charge maximale de 637 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

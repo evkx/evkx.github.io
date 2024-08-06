@@ -204,12 +204,13 @@ Con el sistema DS Drive Assist  de nivel 1, obtienes las siguientes funciones de
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 400 litros. Con el asiento trasero abatido, es de 1467 litros. El peso máximo del automóvil es 2030 kg (4475 lbs), y con el peso base de 1573 kg (3468 lbs), puedes cargar como máximo 457 kg (1008 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 400 litros. Con el asiento trasero plegado, esto se expande a 1467 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 2030 kg, con un peso base de 1573 kg. Esto permite una carga máxima de 457 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

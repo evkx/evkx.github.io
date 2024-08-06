@@ -233,12 +233,13 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 280 litros. Con el asiento trasero abatido, es de 1050 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 1700 kg (3748 lbs), y con el peso base de 1375 kg (3031 lbs), puedes cargar como máximo 325 kg (717 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 280 litros. Con el asiento trasero plegado, esto se expande a 1050 litros. En el techo, puedes cargar hasta 75 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 1700 kg, con un peso base de 1375 kg. Esto permite una carga máxima de 325 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 

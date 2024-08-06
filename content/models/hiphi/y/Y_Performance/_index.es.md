@@ -227,12 +227,11 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 692 litros. Con el asiento trasero abatido, es de 1848 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 85 litros (3,0 CU FT).
+El maletero ofrece una capacidad de carga de 692 litros. Con el asiento trasero plegado, esto se expande a 1848 litros. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 85 litros.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 ### Disponibilidad y precios
 

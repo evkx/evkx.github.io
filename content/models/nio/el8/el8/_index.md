@@ -270,7 +270,7 @@ Up to one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 552 liters (19.5 CU FT). With the third-row seat folded down, this expands to 810 liters (19.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 552 liters (19.5 CU FT). With the third-row seat folded down, this expands to 810 liters (28.6 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2612 kg (5758 lbs). This allows for a maximum load of 578 kg (1274 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

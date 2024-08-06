@@ -218,12 +218,13 @@ Con el sistema MAX  de nivel 2, obtienes las siguientes funciones de automatizac
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 585 litros. Con el asiento trasero abatido, es de 1710 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2117 kg (4667 lbs), puedes cargar como máximo 633 kg (1396 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 585 litros. Con el asiento trasero plegado, esto se expande a 1710 litros. En el techo, puedes cargar hasta 75 kg.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+El peso máximo del vehículo es 2750 kg, con un peso base de 2117 kg. Esto permite una carga máxima de 633 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 ### Disponibilidad y precios
 

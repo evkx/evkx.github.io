@@ -222,12 +222,11 @@ Con el sistema Super Cruise  de nivel 2, obtienes funciones adicionales de autom
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 748 litros. Con el asiento trasero abatido, es de 1614 litros.
+El maletero ofrece una capacidad de carga de 748 litros. Con el asiento trasero plegado, esto se expande a 1614 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 680, y sin freno, es de 680 kg (1499/1499 lbs).
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 680 kg, mientras que para un tráiler sin freno es de 680 kg.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/trunk_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

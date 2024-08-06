@@ -198,12 +198,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 479 liter. Med bagsædet nede er det 1367 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2017 kg (4447 lbs), og med basisvægten på 1562 kg (3444 lbs), kan du maksimalt laste 455 kg (1003 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 479 liter. Med det bageste sæde foldet ned, udvides dette til 1367 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
+Køretøjets maksimale vægt er 2017 kg, med en basisvægt på 1562 kg. Dette giver en maksimal last på 455 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

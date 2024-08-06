@@ -231,12 +231,13 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1480 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2640 kg, och med basvikten på 2008 kg kan du lasta maximalt 632 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 520 liter. Med baksätena nedfällda ökar detta till 1480 liter. På taket kan du lasta upp till 80 kg.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1250, och på en obromsad är den 750 kg.
+Fordonets maximala vikt är 2640 kg, med en grundvikt på 2008 kg. Detta tillåter en maximal last på 632 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1250 kg, medan för en obromsad släpvagn är den 750 kg.
 
 ### Tillgänglighet och pris
 

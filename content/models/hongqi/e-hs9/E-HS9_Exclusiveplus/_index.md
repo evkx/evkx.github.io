@@ -232,7 +232,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 225 liters (7.9 CU FT). With the third-row seat folded down, this expands to 622 liters (7.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 225 liters (7.9 CU FT). With the third-row seat folded down, this expands to 622 liters (22.0 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3180 kg (7011 lbs), with a base weight of 2630 kg (5798 lbs). This allows for a maximum load of 550 kg (1213 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

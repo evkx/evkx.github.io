@@ -221,12 +221,13 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 318 liter. Med baksetet nede er det 904 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 7 liter. Maksimumsvekten til bilen er 2338 kg, og med basisvekten på 1869 kg kan du maksimalt laste 469 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 318 liter. Med baksetene nedfelt, utvides dette til 904 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 7 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2338 kg, med en basisvekt på 1869 kg. Dette gir en maksimal lastekapasitet på 469 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/trunk_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

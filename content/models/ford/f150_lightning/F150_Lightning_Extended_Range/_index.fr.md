@@ -228,10 +228,11 @@ Avec le système Ford Co-Pilot360™ Active 2.0  de niveau 2, vous obtenez des f
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans la caisse du camion est de 1495 litres. La largeur de la caisse est de 1285 mm et la longueur est de 1704 mm. Le poids de charge maximal dans la caisse est de 907 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 399 litres (14,1 CU FT). Le poids maximum de la voiture est de 3878 kg (8550 lbs), et avec le poids de base de 2988 kg (6587 lbs), vous pouvez charger au maximum 890 kg (1962 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La caisse du camion offre une capacité de chargement de 1495 litres. Elle a une largeur de 1285 mm et une longueur de 1704 mm, avec un poids maximal de chargement de 907 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 399 litres.
+
+Le poids maximum du véhicule est de 3878 kg, avec un poids de base de 2988 kg. Cela permet une charge maximale de 890 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 

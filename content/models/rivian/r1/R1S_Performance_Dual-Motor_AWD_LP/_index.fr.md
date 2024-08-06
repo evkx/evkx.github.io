@@ -224,12 +224,11 @@ Avec le système Driver+  de niveau 2, vous obtenez les fonctionnalités suivant
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT).
+Le coffre offre une capacité de chargement de 498 litres. Avec les sièges arrière rabattus, cette capacité passe à 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 314 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3500, et sur une remorque non freinée, il est de 750 kg (7716/1653 lbs).
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 3500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1920" height="1080"  >}}
 

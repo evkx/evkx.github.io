@@ -213,7 +213,7 @@ With the XPILOT  level 2 system, you get the following driving automation featur
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 755 liters (26.7 CU FT). With the third-row seat folded down, this expands to 2554 liters (26.7 CU FT).
+The trunk offers a cargo capacity of 755 liters (26.7 CU FT). With the third-row seat folded down, this expands to 2554 liters (90.2 CU FT).
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

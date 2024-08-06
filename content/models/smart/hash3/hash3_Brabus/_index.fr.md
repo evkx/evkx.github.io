@@ -213,12 +213,13 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 370 litres. Avec la banquette arrière rabattue, elle est de 1160 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 15 litres (0,5 CU FT). Le poids maximum de la voiture est de 2360 kg (5203 lbs), et avec le poids de base de 1910 kg (4211 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 370 litres. Avec les sièges arrière rabattus, cette capacité passe à 1160 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 15 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+Le poids maximum du véhicule est de 2360 kg, avec un poids de base de 1910 kg. Cela permet une charge maximale de 450 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ### Disponibilité et prix
 

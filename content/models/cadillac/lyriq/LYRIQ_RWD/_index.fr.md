@@ -212,12 +212,11 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 793 litres. Avec la banquette arrière rabattue, elle est de 1723 litres.
+Le coffre offre une capacité de chargement de 793 litres. Avec les sièges arrière rabattus, cette capacité passe à 1723 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1588, et sur une remorque non freinée, il est de 750 kg (3501/1653 lbs).
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1588 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

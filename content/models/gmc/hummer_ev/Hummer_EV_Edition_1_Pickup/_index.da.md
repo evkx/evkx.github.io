@@ -204,12 +204,13 @@ Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautoma
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1272 mm, og længden er 1524 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 320 liter (11,3 CU FT). Bilens maksimale vægt er 4717 kg (10399 lbs), og med basisvægten på 4103 kg (9046 lbs), kan du maksimalt laste 614 kg (1354 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lastbeddet har en lastekapacitet på 1039 liter. Det har en bredde på 1272 mm og en længde på 1524 mm, med en maksimal belastning på 614 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 320 liter.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3402, og på ubremset er den 750 kg (7500/1653 lbs).
+Køretøjets maksimale vægt er 4717 kg, med en basisvægt på 4103 kg. Dette giver en maksimal last på 614 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3402 kg, mens den for en ubremset trailer er 750 kg.
 
 ### Tilgængelighed og priser
 

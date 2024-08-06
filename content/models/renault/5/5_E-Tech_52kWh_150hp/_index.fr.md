@@ -218,12 +218,13 @@ Avec le système ProPILOT  de niveau 2, vous obtenez les fonctionnalités suivan
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 326 litres. Le poids maximum de la voiture est de 1780 kg (3924 lbs), et avec le poids de base de 1350 kg (2976 lbs), vous pouvez charger au maximum 430 kg (948 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 326 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 500, et sur une remorque non freinée, il est de 500 kg (1102/1102 lbs).<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 1780 kg, avec un poids de base de 1350 kg. Cela permet une charge maximale de 430 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 500 kg, tandis que pour une remorque non freinée, il est de 500 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Renault 5 </strong>
 </a>

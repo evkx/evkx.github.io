@@ -201,12 +201,13 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende funktioner ti
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1460 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2940 kg (6482 lbs), og med basisvægten på 2420 kg (5335 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 500 liter. Med det bageste sæde foldet ned, udvides dette til 1460 liter. På taget kan du laste op til 75 kg.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
+Køretøjets maksimale vægt er 2940 kg, med en basisvægt på 2420 kg. Dette giver en maksimal last på 520 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1800 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
 <div class="mt-3 mb-3">

@@ -212,12 +212,13 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 313 litros. Con el asiento trasero abatido, es de 976 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 15 litros (0,5 CU FT). El peso máximo del automóvil es 2325 kg (5126 lbs), y con el peso base de 1925 kg (4244 lbs), puedes cargar como máximo 400 kg (882 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 313 litros. Con el asiento trasero plegado, esto se expande a 976 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 15 litros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1600, y sin freno, es de 750 kg (3527/1653 lbs).
+El peso máximo del vehículo es 2325 kg, con un peso base de 1925 kg. Esto permite una carga máxima de 400 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1600 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 ### Disponibilidad y precios
 

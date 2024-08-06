@@ -234,10 +234,11 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1200 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 1910 kg (4211 lbs), y con el peso base de 1416 kg (3122 lbs), puedes cargar como máximo 494 kg (1089 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+El maletero ofrece una capacidad de carga de 310 litros. Con el asiento trasero plegado, esto se expande a 1200 litros. En el techo, puedes cargar hasta 75 kg.
+
+El peso máximo del vehículo es 1910 kg, con un peso base de 1416 kg. Esto permite una carga máxima de 494 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

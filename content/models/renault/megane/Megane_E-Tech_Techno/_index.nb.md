@@ -235,12 +235,13 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1332 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2158 kg, og med basisvekten på 1636 kg kan du maksimalt laste 522 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 440 liter. Med baksetene nedfelt, utvides dette til 1332 liter. På taket kan du laste opptil 80 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 900, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2158 kg, med en basisvekt på 1636 kg. Dette gir en maksimal lastekapasitet på 522 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 900 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

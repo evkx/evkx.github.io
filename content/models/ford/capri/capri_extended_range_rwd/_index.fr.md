@@ -238,12 +238,13 @@ Avec le système Assistantpackage  de niveau 2, vous obtenez des fonctionnalité
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 627 litres. Avec la banquette arrière rabattue, elle est de 1510 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2685 kg (5919 lbs), et avec le poids de base de 2098 kg (4625 lbs), vous pouvez charger au maximum 587 kg (1294 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 627 litres. Avec les sièges arrière rabattus, cette capacité passe à 1510 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Le poids maximum du véhicule est de 2685 kg, avec un poids de base de 2098 kg. Cela permet une charge maximale de 587 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/trunk_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 

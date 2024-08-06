@@ -245,12 +245,13 @@ Con el sistema Full Self-Driving Capability  de nivel 3, obtienes funciones adic
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en la plataforma del camión es 1897,23 litros. El ancho de la plataforma es 1295 mm y el largo es 1849 mm. El peso máximo de carga en la plataforma es 1134 kg. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 201 litros (7,1 CU FT). El peso máximo del automóvil es 4159 kg (9169 lbs), y con el peso base de 3025 kg (6669 lbs), puedes cargar como máximo 1134 kg (2500 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La caja del camión ofrece una capacidad de carga de 1897,23 litros. Tiene un ancho de 1295 mm  y una longitud de 1849 mm, con un peso máximo de carga de 1134 kg. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 201 litros.
 
-Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 4990, y sin freno, es 750 kg (11000/1653 lbs).
+El peso máximo del vehículo es 4159 kg, con un peso base de 3025 kg. Esto permite una carga máxima de 1134 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+
+Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 4990, y en uno sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

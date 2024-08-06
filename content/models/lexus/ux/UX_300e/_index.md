@@ -236,7 +236,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 367 liters (13.0 CU FT). With the third-row seat folded down, this expands to 1451 liters (13.0 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 367 liters (13.0 CU FT). With the third-row seat folded down, this expands to 1451 liters (51.2 CU FT). On the roof, you can load up to 80 kg (176.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2245 kg (4949 lbs), with a base weight of 1810 kg (3990 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

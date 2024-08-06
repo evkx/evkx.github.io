@@ -198,12 +198,13 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 560 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 72 liter (2,5 CU FT). Bilens maksimale vægt er 2945 kg (6493 lbs), og med basisvægten på 2340 kg (5159 lbs), kan du maksimalt laste 605 kg (1334 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 560 liter. Med det bageste sæde foldet ned, udvides dette til 1320 liter. På taget kan du laste op til 75 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 72 liter.
 
-Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 2000, og på ubremset er den 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
+Køretøjets maksimale vægt er 2945 kg, med en basisvægt på 2340 kg. Dette giver en maksimal last på 605 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+
+En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 2000, og for en ubremset trailer er det 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> VOYAH FREE </strong>
 </a>

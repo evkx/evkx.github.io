@@ -221,12 +221,13 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 539 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2350 kg kan du maksimalt laste 730 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 539 liter. Med baksetene nedfelt, utvides dette til 1411 liter. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 32 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 3080 kg, med en basisvekt på 2350 kg. Dette gir en maksimal lastekapasitet på 730 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/trunk_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2001"  >}}
 

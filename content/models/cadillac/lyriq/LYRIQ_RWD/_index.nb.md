@@ -212,12 +212,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 793 liter. Med baksetet nede er det 1723 liter.
+Bagasjerommet tilbyr en lastekapasitet på 793 liter. Med baksetene nedfelt, utvides dette til 1723 liter.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1588, og på ubremset er den 750 kg.
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

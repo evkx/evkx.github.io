@@ -225,12 +225,13 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), ått
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 517 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2430 kg, og med basisvekten på 1980 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 517 liter. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 105 liter.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+Kjøretøyets maksimale vekt er 2430 kg, med en basisvekt på 1980 kg. Dette gir en maksimal lastekapasitet på 450 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ### Tilgjengelighet & pris
 

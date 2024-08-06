@@ -249,12 +249,13 @@ Con el sistema Driver Assistance Package  de nivel 1, obtienes las siguientes fu
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 495 litros. Con el asiento trasero abatido, es de 1410 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2580 kg (5688 lbs), y con el peso base de 2100 kg (4630 lbs), puedes cargar como máximo 480 kg (1058 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 480kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+El maletero ofrece una capacidad de carga de 495 litros. Con el asiento trasero plegado, esto se expande a 1410 litros. En el techo, puedes cargar hasta 75 kg. Se encuentran disponibles rieles de techo opcionales para facilitar la instalación de una caja o portaequipajes en el techo.
 
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+El peso máximo del vehículo es 2580 kg, con un peso base de 2100 kg. Esto permite una carga máxima de 480 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 480 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
+
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

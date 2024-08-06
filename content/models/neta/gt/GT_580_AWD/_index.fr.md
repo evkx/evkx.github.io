@@ -204,12 +204,11 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 297 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 50 litres (1,8 CU FT).
+Le coffre offre une capacité de chargement de 297 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 50 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 ### Disponibilité et prix
 

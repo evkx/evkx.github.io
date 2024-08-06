@@ -199,12 +199,13 @@ Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 308 liter. Med baksätet nedfällt är det 1004 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 35 liter. Bilens maximala vikt är 1250 kg, och med basvikten på 984 kg kan du lasta maximalt 266 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Bagageutrymmet erbjuder en lastkapacitet på 308 liter. Med baksätena nedfällda ökar detta till 1004 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 35 liter.
 
-Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.<div class="mt-3 mb-3">
+Fordonets maximala vikt är 1250 kg, med en grundvikt på 984 kg. Detta tillåter en maximal last på 266 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Dacia Spring </strong>
 </a>

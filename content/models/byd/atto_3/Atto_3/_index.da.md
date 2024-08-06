@@ -235,10 +235,11 @@ Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110,2 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Bagagerummet har en lastekapacitet på 440 liter. Med det bageste sæde foldet ned, udvides dette til 1338 liter. På taget kan du laste op til 50 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+
+Køretøjets maksimale vægt er 2160 kg, med en basisvægt på 1750 kg. Dette giver en maksimal last på 410 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

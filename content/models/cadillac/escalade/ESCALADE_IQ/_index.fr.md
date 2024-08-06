@@ -221,12 +221,13 @@ Avec le système Super Cruise  de niveau 2, vous obtenez les fonctionnalités su
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 670 litres. Avec la banquette arrière rabattue, elle est de 3374 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 345 litres (12,2 CU FT). Le poids maximum de la voiture est de 4717 kg (10399 lbs), et avec le poids de base de 4103 kg (9046 lbs), vous pouvez charger au maximum 614 kg (1354 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+Le coffre offre une capacité de chargement de 670 litres. Avec les sièges arrière rabattus, cette capacité passe à 3374 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 345 litres.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3628, et sur une remorque non freinée, il est de 750 kg (7998/1653 lbs).<div class="mt-3 mb-3">
+Le poids maximum du véhicule est de 4717 kg, avec un poids de base de 4103 kg. Cela permet une charge maximale de 614 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 3628 kg, tandis que pour une remorque non freinée, il est de 750 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
 </a>

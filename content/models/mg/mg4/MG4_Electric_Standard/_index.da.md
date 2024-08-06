@@ -198,12 +198,11 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastkapacitet og træk-kapacitet
 
-Bilens maksimale vægt er 2133 kg (4702 lbs), og med basisvægten på 1715 kg (3781 lbs), kan du maksimalt laste 418 kg (922 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Køretøjets maksimale vægt er 2133 kg, med en basisvægt på 1715 kg. Dette giver en maksimal last på 418 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

@@ -261,12 +261,13 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 {{<evkxdisplayaddarticle />}}
 
-
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 543 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2164 kg kan du maksimalt laste 586 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Bagasjerommet tilbyr en lastekapasitet på 543 liter. Med baksetene nedfelt, utvides dette til 1575 liter. På taket kan du laste opptil 75 kg.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+Kjøretøyets maksimale vekt er 2750 kg, med en basisvekt på 2164 kg. Dette gir en maksimal lastekapasitet på 586 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1200 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
