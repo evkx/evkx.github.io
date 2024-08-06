@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.7 GTX To
 				Vridmoment
 			</td>
 			<td>
-				679 nm
+				560 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.7 GTX To
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				5,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -190,7 +190,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				350
+				383
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bredd inklusive speglar
 			</td>
 			<td>
-				2118 mm
+				2141 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Axelavstånd
 			</td>
 			<td>
-				2966 mm
+				2971 mm
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2197 kg
+				2264 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2630 kg
+				2800 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				433 kg
+				536 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				1000 kg
+				1200 kg
 			</td>
 		</tr>
 		<tr>

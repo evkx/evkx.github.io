@@ -28,11 +28,11 @@ Nous avons séparé notre article Volkswagen ID.7 GTX Tourer en sections. Si vou
 
 ## Performances
 
-La Volkswagen ID.7 GTX Tourer offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 679 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
+La Volkswagen ID.7 GTX Tourer offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 560 Nm. Elle peut accélérer de 0 à 100 km/h en 5,5 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 383 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 685 et 622 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,6 kWh/100 km pour le modèle de base et à 13,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -250,9 +250,9 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 605 litres. Avec la banquette arrière rabattue, elle est de 1714 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2630 kg (5798 lbs), et avec le poids de base de 2197 kg (4844 lbs), vous pouvez charger au maximum 433 kg (955 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 605 litres. Avec la banquette arrière rabattue, elle est de 1714 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2800 kg (6173 lbs), et avec le poids de base de 2264 kg (4991 lbs), vous pouvez charger au maximum 536 kg (1182 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

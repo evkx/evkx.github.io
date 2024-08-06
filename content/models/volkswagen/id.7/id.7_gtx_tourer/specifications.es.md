@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.7 GT
 				Salida de par eléctrico
 			</td>
 			<td>
-				679 nm (501 pies-libra)
+				560 nm (413 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.7 GT
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				5,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -190,7 +190,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				350
+				383
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2118 mm (83,4")
+				2141 mm (84,3")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2966 mm (116,8")
+				2971 mm (117,0")
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2197 kg (4844 lbs)
+				2264 kg (4991 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2630 kg (5798 lbs)
+				2800 kg (6173 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				433 kg (955 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1000 kg (2205 lbs)
+				1200 kg (2646 lbs)
 			</td>
 		</tr>
 		<tr>

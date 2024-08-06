@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 GTX 
 				Electrical torque output
 			</td>
 			<td>
-				679 nm (501 lb-ft)
+				560 nm (413 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 GTX 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				5,5 s
 			</td>
 		</tr>
 	</tbody>
@@ -190,7 +190,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				350
+				383
 			</td>
 		</tr>
 	</tbody>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2118 mm (83,4")
+				2141 mm (84,3")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Wheelbase
 			</td>
 			<td>
-				2966 mm (116,8")
+				2971 mm (117,0")
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2197 kg (4844 lbs)
+				2264 kg (4991 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2630 kg (5798 lbs)
+				2800 kg (6173 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				433 kg (955 lbs)
+				536 kg (1182 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				1000 kg (2205 lbs)
+				1200 kg (2646 lbs)
 			</td>
 		</tr>
 		<tr>

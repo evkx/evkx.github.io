@@ -168,6 +168,8 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+Rivian R1T Performance Dual-Motor AWD MP har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Rivian integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+
 ### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.

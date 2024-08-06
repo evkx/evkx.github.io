@@ -174,6 +174,8 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Rivian R1S Performance Dual-Motor AWD LP features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Rivian has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
+
 ### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.

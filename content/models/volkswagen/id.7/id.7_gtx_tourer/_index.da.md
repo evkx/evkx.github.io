@@ -28,11 +28,11 @@ Vi har opdelt vores Volkswagen ID.7 GTX Tourer artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Volkswagen ID.7 GTX Tourer leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 679 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Volkswagen ID.7 GTX Tourer leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 560 Nm. Den kan accelerere fra 0 til 100 km/t på 5,5 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 91 kWh og en nettoanvendelig kapacitet på 86 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 91 kWh og en nettoanvendelig kapacitet på 86 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 383 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 685 og 622 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,6 kWh/100 km for basismodellen og 13,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -250,9 +250,9 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 605 liter. Med bagsædet nede er det 1714 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2197 kg (4844 lbs), kan du maksimalt laste 433 kg (955 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 605 liter. Med bagsædet nede er det 1714 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2264 kg (4991 lbs), kan du maksimalt laste 536 kg (1182 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
