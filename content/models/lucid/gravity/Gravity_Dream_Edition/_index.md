@@ -206,21 +206,21 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Lucid Gravity Dream Edition has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lucid Gravity Dream Edition includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Lucid Gravity Dream Edition, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Lucid Gravity Dream Edition, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Lucid Gravity Dream Edition, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Lucid Gravity Dream Edition, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Lucid Gravity Dream Edition, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Lucid Gravity Dream Edition, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Lucid Gravity Dream Edition, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Lucid Gravity Dream Edition, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Lucid Gravity Dream Edition, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Lucid Gravity Dream Edition, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Lucid Gravity Dream Edition. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Lucid Gravity Dream Edition, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 

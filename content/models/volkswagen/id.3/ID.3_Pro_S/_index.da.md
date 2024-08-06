@@ -204,7 +204,7 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 Volkswagen ID.3 Pro S har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er Standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
 
 ### Sikkerhedssystemer
 

@@ -183,23 +183,23 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The BYD Seagull 38kWh has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Seagull 38kWh includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the BYD Seagull 38kWh, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the BYD Seagull 38kWh, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the BYD Seagull 38kWh, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the BYD Seagull 38kWh, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the BYD Seagull 38kWh, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the BYD Seagull 38kWh, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Optional on the BYD Seagull 38kWh, is a driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the BYD Seagull 38kWh, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Optional on the BYD Seagull 38kWh, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Optional on the BYD Seagull 38kWh, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 ### Driving Automation
 
-The BYD Seagull 38kWh offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The BYD Seagull 38kWh offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)

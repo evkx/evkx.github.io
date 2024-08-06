@@ -224,7 +224,7 @@ Derudover har du to muligheder for baglygter:
 
 Audi Q4 Sportback 50 e-tron quattro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er Standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
 
 ### Sikkerhedssystemer
 

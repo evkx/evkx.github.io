@@ -193,25 +193,25 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Ford F150 Lightning Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Ford F150 Lightning Standard Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Ford F150 Lightning Standard Range, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Ford F150 Lightning Standard Range, this system prevents the wheels from locking during braking.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Ford F150 Lightning Standard Range, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Ford F150 Lightning Standard Range, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Ford F150 Lightning Standard Range, is a driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Ford F150 Lightning Standard Range, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Ford F150 Lightning Standard Range, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Ford F150 Lightning Standard Range, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Optional on the Ford F150 Lightning Standard Range, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the Ford F150 Lightning Standard Range, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Ford F150 Lightning Standard Range. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Ford F150 Lightning Standard Range, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-The Ford F150 Lightning Standard Range offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Ford F150 Lightning Standard Range offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Ford Co-Pilot360™ 2.0  level 1 system, you get the following driving automation features.
 - Cruise control.

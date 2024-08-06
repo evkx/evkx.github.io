@@ -236,7 +236,7 @@ Las luces traseras estándar usan tecnología LED, asegurando visibilidad y efic
 
 El Volkswagen ID.5 Pro Performance tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema Estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
 
 ### Sistemas de seguridad
 

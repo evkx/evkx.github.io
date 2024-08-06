@@ -192,7 +192,7 @@ Les feux arrière standard utilisent la technologie LED, assurant visibilité et
 
 Le Volvo EX30 Single Motor Extended Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+[**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système Standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
 
 ### Systèmes de sécurité
 

@@ -204,19 +204,19 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Lexus RZ 450e has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lexus RZ 450e includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Lexus RZ 450e, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Lexus RZ 450e, this system prevents the wheels from locking during braking.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Lexus RZ 450e, is a driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Lexus RZ 450e, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Lexus RZ 450e, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Lexus RZ 450e, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Lexus RZ 450e, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Lexus RZ 450e, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Lexus RZ 450e. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Lexus RZ 450e, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 

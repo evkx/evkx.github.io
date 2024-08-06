@@ -262,7 +262,7 @@ I tillegg har du to alternativer for baklykter:
 
 Audi Q6 e-tron quattro har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er Standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
 
 ### Sikkerhetssystemer
 

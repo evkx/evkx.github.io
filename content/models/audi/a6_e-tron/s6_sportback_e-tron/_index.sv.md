@@ -242,7 +242,7 @@ Dessutom har du två alternativ för bakljus:
 
 Audi S6 Sportback e-tron har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är Standard-system som hjälper förare att köra förebyggande och spara energi.
 
 ### Säkerhetssystem
 

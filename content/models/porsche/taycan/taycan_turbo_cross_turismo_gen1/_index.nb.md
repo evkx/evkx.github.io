@@ -244,7 +244,7 @@ Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 Porsche Taycan Turbo Cross Turismo (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er Standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
 
 ### Sikkerhetssystemer
 

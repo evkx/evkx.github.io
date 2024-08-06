@@ -171,31 +171,31 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Mercedes-EQ EQC 400 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Mercedes-EQ EQC 400 4MATIC includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Mercedes-EQ EQC 400 4MATIC, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Mercedes-EQ EQC 400 4MATIC, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Mercedes-EQ EQC 400 4MATIC, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Mercedes-EQ EQC 400 4MATIC, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Mercedes-EQ EQC 400 4MATIC, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Mercedes-EQ EQC 400 4MATIC, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Mercedes-EQ EQC 400 4MATIC, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Mercedes-EQ EQC 400 4MATIC, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : Optional on the Mercedes-EQ EQC 400 4MATIC, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optional on the Mercedes-EQ EQC 400 4MATIC, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Optional on the Mercedes-EQ EQC 400 4MATIC, is a driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the Mercedes-EQ EQC 400 4MATIC, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Mercedes-EQ EQC 400 4MATIC, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Mercedes-EQ EQC 400 4MATIC, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Optional on the Mercedes-EQ EQC 400 4MATIC, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the Mercedes-EQ EQC 400 4MATIC, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Mercedes-EQ EQC 400 4MATIC. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Mercedes-EQ EQC 400 4MATIC, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-The Mercedes-EQ EQC 400 4MATIC offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Mercedes-EQ EQC 400 4MATIC offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Driver Assistance Package  level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)

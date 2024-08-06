@@ -233,7 +233,7 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 Porsche Macan 4S har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är Standard-system som hjälper förare att köra förebyggande och spara energi.
 
 ### Säkerhetssystem
 

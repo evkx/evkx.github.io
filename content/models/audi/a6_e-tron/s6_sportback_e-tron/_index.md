@@ -240,35 +240,35 @@ Additionally, you have two options for taillights:
 
 ## Advanced Driver Assistance Systems
 
-The Audi S6 Sportback e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi S6 Sportback e-tron includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) : A a standard feature that helps drivers anticipate driving conditions and conserve energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Audi S6 Sportback e-tron, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Audi S6 Sportback e-tron, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Audi S6 Sportback e-tron, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Audi S6 Sportback e-tron, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
-[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Audi S6 Sportback e-tron, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Audi S6 Sportback e-tron, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Audi S6 Sportback e-tron, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Audi S6 Sportback e-tron, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : Optional on the Audi S6 Sportback e-tron, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optional on the Audi S6 Sportback e-tron, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Audi S6 Sportback e-tron, is a driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Audi S6 Sportback e-tron, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Audi S6 Sportback e-tron, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Audi S6 Sportback e-tron, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Audi S6 Sportback e-tron, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Audi S6 Sportback e-tron, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Audi S6 Sportback e-tron. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Audi S6 Sportback e-tron, this side assist system helps to detect traffic in blind spots.
 
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) : Optional on the Audi S6 Sportback e-tron, is a system that alerts occupants against opening doors if there is a risk of hitting something.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Audi S6 Sportback e-tron, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
-The Audi S6 Sportback e-tron offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
+The Audi S6 Sportback e-tron offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
@@ -279,7 +279,7 @@ With the Adaptive Cruise Assist  level 2 system, you get additional driving auto
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}

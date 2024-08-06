@@ -202,15 +202,15 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Fiat Grande Panda has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Fiat Grande Panda includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety Systems
 
-[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Fiat Grande Panda, this system prevents the wheels from locking during braking.
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Fiat Grande Panda, this system prevents the wheels from locking during braking.
 
-[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Fiat Grande Panda, this system improves the vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Fiat Grande Panda, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
-[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Fiat Grande Panda, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Fiat Grande Panda, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 ### Driving Automation
 
@@ -219,7 +219,7 @@ With the standard system the model offers no driving automation.
 
 ### Sensors & Cameras
 
-This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
