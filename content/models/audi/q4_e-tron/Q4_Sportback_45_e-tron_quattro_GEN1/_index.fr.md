@@ -234,25 +234,23 @@ Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose de plusieurs [systèmes av
 
 ### Systèmes de sécurité
 
+Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
-Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
 
-Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
+Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
+[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un Facultatif système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
 
-Le Audi Q4 Sportback 45 e-tron quattro (GEN1) dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un Facultatif système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
-[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un un facultatif système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
-
-[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un facultatif système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
-
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un facultatif système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un Facultatif système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la conduite
 
@@ -261,7 +259,6 @@ Le Audi Q4 Sportback 45 e-tron quattro (GEN1) propose [l'automatisation de la co
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - Régulateur de vitesse.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
-
 
 Avec le système Assistantpackage Tour  niveau 2, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

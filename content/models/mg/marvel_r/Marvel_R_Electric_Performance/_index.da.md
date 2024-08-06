@@ -188,13 +188,9 @@ MG Marvel R Electric Performance har flere standard- og valgfrie [avancerede fø
 
 ### Sikkerhedssystemer
 
-
-
-MG Marvel R Electric Performance har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+MG Marvel R Electric Performance har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 ### Køreautomatisering
-
-
 
 Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

@@ -183,17 +183,13 @@ VOYAH FREE har flere standard og valgfrie [avanserte førerassistentsystemer](..
 
 ### Sikkerhetssystemer
 
+VOYAH FREE har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
+VOYAH FREE har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-VOYAH FREE har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
-
-VOYAH FREE har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
-
-VOYAH FREE har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+VOYAH FREE har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
 ### Kjøreautomatisering
-
-
 
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

@@ -200,21 +200,17 @@ Cadillac ESCALADE IQ har flere standard og valgfrie [avanserte førerassistentsy
 
 ### Sikkerhetssystemer
 
+Cadillac ESCALADE IQ har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
+Cadillac ESCALADE IQ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Cadillac ESCALADE IQ har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Cadillac ESCALADE IQ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-Cadillac ESCALADE IQ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-Cadillac ESCALADE IQ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
-
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er standard førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
-
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er Standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
-
-
 
 Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

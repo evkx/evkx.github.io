@@ -223,28 +223,23 @@ Le Li Auto MEGA dispose de plusieurs [systèmes avancés d'aide à la conduite](
 
 ### Systèmes de sécurité
 
+Le Li Auto MEGA dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
+Le Li Auto MEGA dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Li Auto MEGA dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un Standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-Le Li Auto MEGA dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un un standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
-
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
-
-Le Li Auto MEGA dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
+Le Li Auto MEGA dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
 ### Automatisation de la conduite
-
-
 
 Avec le système AD Pro  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 - Régulateur de vitesse avancé qui suit la navigation et s'éteint sur les routes principales pour atteindre la cible.
 - [**Changement de voie automatique**](../../../../technology/driverassistance/automatedlanechange/)
-
 
 Avec le système AD Max  niveau 2, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).

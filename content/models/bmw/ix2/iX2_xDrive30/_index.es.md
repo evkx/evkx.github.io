@@ -223,25 +223,21 @@ El BMW iX2 xDrive30 tiene varios [sistemas avanzados de asistencia al conductor]
 
 ### Sistemas de seguridad
 
+El BMW iX2 xDrive30 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
+El BMW iX2 xDrive30 tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema Estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 
-El BMW iX2 xDrive30 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+El BMW iX2 xDrive30 tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-El BMW iX2 xDrive30 tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un Opcional sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
 
-El BMW iX2 xDrive30 tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un Opcional sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un un opcional sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
+El BMW iX2 xDrive30 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un opcional sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
-
-El BMW iX2 xDrive30 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
-
-[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un opcional sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
+[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un Opcional sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
 
 ### Automatización de conducción
-
-
 
 Con el sistema Driving Assistant Professional  nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

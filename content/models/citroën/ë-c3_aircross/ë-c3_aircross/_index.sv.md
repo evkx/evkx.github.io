@@ -218,17 +218,13 @@ Citroën ë-C3 Aircross har flera standard- och valfria [avancerade förarassist
 
 ### Säkerhetssystem
 
+Citroën ë-C3 Aircross har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+Citroën ë-C3 Aircross har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-Citroën ë-C3 Aircross har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
-
-Citroën ë-C3 Aircross har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
-
-Citroën ë-C3 Aircross har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+Citroën ë-C3 Aircross har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 ### Körautomation
-
-
 
 Med standardsystemet erbjuder modellen ingen körautomatisering.
 - Farthållare.

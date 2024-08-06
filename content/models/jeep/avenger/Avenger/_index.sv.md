@@ -187,13 +187,11 @@ Jeep Avenger har flera standard- och valfria [avancerade förarassistanssystem](
 
 ### Säkerhetssystem
 
+Jeep Avenger har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+Jeep Avenger har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-Jeep Avenger har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
-
-Jeep Avenger har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
-
-Jeep Avenger har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+Jeep Avenger har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 ### Körautomation
 

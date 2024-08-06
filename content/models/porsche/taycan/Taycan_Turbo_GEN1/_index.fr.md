@@ -234,25 +234,23 @@ Le Porsche Taycan Turbo (GEN1) dispose de plusieurs [systèmes avancés d'aide �
 
 ### Systèmes de sécurité
 
+Le Porsche Taycan Turbo (GEN1) dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Porsche Taycan Turbo (GEN1) dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
-Le Porsche Taycan Turbo (GEN1) dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Porsche Taycan Turbo (GEN1) dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Porsche Taycan Turbo (GEN1) dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
 
-Le Porsche Taycan Turbo (GEN1) dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un Facultatif système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un un facultatif système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
+Le Porsche Taycan Turbo (GEN1) dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
+[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un Standard système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
 
-Le Porsche Taycan Turbo (GEN1) dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un un standard système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
-
-[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un facultatif système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un Facultatif système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
 ### Automatisation de la conduite
 
@@ -261,7 +259,6 @@ Le Porsche Taycan Turbo (GEN1) propose [l'automatisation de la conduite au nivea
 Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
-
 
 Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.

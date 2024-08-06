@@ -185,19 +185,15 @@ El Aion Hyper GT 710 Supercharged tiene varios [sistemas avanzados de asistencia
 
 ### Sistemas de seguridad
 
+El Aion Hyper GT 710 Supercharged tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
+El Aion Hyper GT 710 Supercharged tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema Estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 
-El Aion Hyper GT 710 Supercharged tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+El Aion Hyper GT 710 Supercharged tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-El Aion Hyper GT 710 Supercharged tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
-
-El Aion Hyper GT 710 Supercharged tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
-
-El Aion Hyper GT 710 Supercharged tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+El Aion Hyper GT 710 Supercharged tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
 ### Automatización de conducción
-
-
 
 Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

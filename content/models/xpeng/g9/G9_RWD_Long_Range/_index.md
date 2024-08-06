@@ -191,36 +191,32 @@ One type of sound system is available for the XPENG G9 RWD Long Range.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the XPENG G9 RWD Long Range, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the XPENG G9 RWD Long Range, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The XPENG G9 RWD Long Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the XPENG G9 RWD Long Range, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-The XPENG G9 RWD Long Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-The XPENG G9 RWD Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : An Standard system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the XPENG G9 RWD Long Range, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the XPENG G9 RWD Long Range, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
-
-The XPENG G9 RWD Long Range has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the XPENG G9 RWD Long Range. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-
-
 With the   level 2 system, you get the following driving automation features.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 

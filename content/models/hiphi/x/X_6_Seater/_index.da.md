@@ -210,27 +210,23 @@ HiPhi X 6 Seater har flere standard- og valgfrie [avancerede førerassistentsyst
 
 ### Sikkerhedssystemer
 
+HiPhi X 6 Seater har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+HiPhi X 6 Seater har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-HiPhi X 6 Seater har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+HiPhi X 6 Seater har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-HiPhi X 6 Seater har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er Standard førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
 
-HiPhi X 6 Seater har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er en standard førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
+HiPhi X 6 Seater har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
-HiPhi X 6 Seater har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
-
-[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er en standard førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
+[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er Standard førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
-
-
 
 Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

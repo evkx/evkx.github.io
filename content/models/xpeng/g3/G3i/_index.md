@@ -167,26 +167,22 @@ The model has 4 USB-A connections as standard.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The XPENG G3i has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The XPENG G3i has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the XPENG G3i, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the XPENG G3i, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-The XPENG G3i has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
-
-The XPENG G3i has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is a standard driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) : Standard on the XPENG G3i, is a system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
-
-
 With the standard system the model offers no driving automation.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}

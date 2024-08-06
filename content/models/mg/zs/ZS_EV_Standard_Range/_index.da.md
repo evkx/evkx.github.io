@@ -194,19 +194,15 @@ MG ZS EV Standard Range har flere standard- og valgfrie [avancerede førerassist
 
 ### Sikkerhedssystemer
 
+MG ZS EV Standard Range har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
+MG ZS EV Standard Range har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-MG ZS EV Standard Range har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-MG ZS EV Standard Range har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
-
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en valgfri førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Valgfrit førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
 ### Køreautomatisering
-
-
 
 Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

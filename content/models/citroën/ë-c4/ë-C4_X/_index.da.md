@@ -184,9 +184,7 @@ Citroën ë-C4 X har flere standard- og valgfrie [avancerede førerassistentsyst
 
 ### Sikkerhedssystemer
 
-
-
-Citroën ë-C4 X har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+Citroën ë-C4 X har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
 ### Køreautomatisering
 

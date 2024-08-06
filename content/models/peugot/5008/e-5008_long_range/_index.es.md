@@ -213,17 +213,15 @@ El Peugot E-5008 Long Range tiene varios [sistemas avanzados de asistencia al co
 
 ### Sistemas de seguridad
 
+El Peugot E-5008 Long Range tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
+El Peugot E-5008 Long Range tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-El Peugot E-5008 Long Range tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un Opcional sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
 
-El Peugot E-5008 Long Range tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+El Peugot E-5008 Long Range tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un un opcional sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
-
-El Peugot E-5008 Long Range tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
-
-[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un opcional sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es Opcional sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
 ### Automatización de conducción
 
@@ -231,7 +229,6 @@ El Peugot E-5008 Long Range ofrece [automatización de la conducción en el nive
 
 Con el sistema Drive Assist  nivel 1, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-
 
 Con el sistema Drive Assist Plus  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.

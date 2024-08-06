@@ -204,21 +204,17 @@ Volvo EX90 Twin Motor Performance har flere standard- og valgfrie [avancerede f�
 
 ### Sikkerhedssystemer
 
+Volvo EX90 Twin Motor Performance har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
+Volvo EX90 Twin Motor Performance har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-Volvo EX90 Twin Motor Performance har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er Standard førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
-Volvo EX90 Twin Motor Performance har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en standard førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
-
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
-
-Volvo EX90 Twin Motor Performance har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+Volvo EX90 Twin Motor Performance har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 ### Køreautomatisering
-
-
 
 Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

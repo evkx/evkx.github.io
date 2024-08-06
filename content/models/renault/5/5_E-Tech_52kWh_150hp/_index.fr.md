@@ -194,25 +194,21 @@ Le Renault 5 E-Tech 52kWh 150hp dispose de plusieurs [systèmes avancés d'aide 
 
 ### Systèmes de sécurité
 
+Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
-Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
 
-Le Renault 5 E-Tech 52kWh 150hp dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
+Le Renault 5 E-Tech 52kWh 150hp dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un facultatif système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
-
-Le Renault 5 E-Tech 52kWh 150hp dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un Standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
 ### Automatisation de la conduite
-
-
 
 Avec le système ProPILOT  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

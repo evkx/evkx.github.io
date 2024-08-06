@@ -188,17 +188,13 @@ GMC Hummer EV Edition 1 Pickup har flera standard- och valfria [avancerade föra
 
 ### Säkerhetssystem
 
+GMC Hummer EV Edition 1 Pickup har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+GMC Hummer EV Edition 1 Pickup har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-GMC Hummer EV Edition 1 Pickup har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
-
-GMC Hummer EV Edition 1 Pickup har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
-
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är Standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomation
-
-
 
 Med Super Cruise  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

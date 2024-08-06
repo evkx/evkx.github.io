@@ -197,19 +197,17 @@ Ford F150 Lightning Standard Range har flere standard- og valgfrie [avancerede f
 
 ### Sikkerhedssystemer
 
+Ford F150 Lightning Standard Range har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+Ford F150 Lightning Standard Range har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-Ford F150 Lightning Standard Range har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-Ford F150 Lightning Standard Range har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+Ford F150 Lightning Standard Range har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en standard førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er Valgfrit førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
 
-Ford F150 Lightning Standard Range har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er en valgfri førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en valgfri førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Valgfrit førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
 ### Køreautomatisering
 
@@ -218,11 +216,9 @@ Ford F150 Lightning Standard Range tilbyder [kørselsautomatisering på niveau 1
 Med Ford Co-Pilot360™ 2.0  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - Fartpilot.
 
-
 Med Ford Co-Pilot360™ Assist 2.0  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-
 
 Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.

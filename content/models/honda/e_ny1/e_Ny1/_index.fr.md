@@ -158,10 +158,7 @@ Le Honda e:Ny1 dispose de plusieurs [systèmes avancés d'aide à la conduite](.
 
 ### Systèmes de sécurité
 
-
 ### Automatisation de la conduite
-
-
 
 Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 

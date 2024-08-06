@@ -200,31 +200,29 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro S.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Volkswagen ID.3 Pro S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Volkswagen ID.3 Pro S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard feature that helps drivers anticipate driving conditions and conserve energy.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Volkswagen ID.3 Pro S, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Volkswagen ID.3 Pro S, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Volkswagen ID.3 Pro S has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Volkswagen ID.3 Pro S, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-The Volkswagen ID.3 Pro S has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-The Volkswagen ID.3 Pro S has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Volkswagen ID.3 Pro S, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Volkswagen ID.3 Pro S, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Volkswagen ID.3 Pro S, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-The Volkswagen ID.3 Pro S has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Volkswagen ID.3 Pro S. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
@@ -233,10 +231,8 @@ The Volkswagen ID.3 Pro S offers [driving automation on level 1 or 2](../../../.
 With the standard system the model offers no driving automation.
 - Cruise control.
 
-
 With the   level 1 system, you get thadditional driving automation features to the ones listed above.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.

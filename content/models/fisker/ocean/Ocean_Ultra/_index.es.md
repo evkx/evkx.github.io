@@ -190,27 +190,23 @@ El Fisker Ocean Ultra tiene varios [sistemas avanzados de asistencia al conducto
 
 ### Sistemas de seguridad
 
+El Fisker Ocean Ultra tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
+El Fisker Ocean Ultra tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema Estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 
-El Fisker Ocean Ultra tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+El Fisker Ocean Ultra tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-El Fisker Ocean Ultra tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un Estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
 
-El Fisker Ocean Ultra tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+El Fisker Ocean Ultra tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
+[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un Estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
 
-El Fisker Ocean Ultra tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es Estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
-[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
-
-[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
-
-[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un un estándar sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
+[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un Estándar sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
 
 ### Automatización de conducción
-
-
 
 Con el sistema Fisker Intelligent Pilot  nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

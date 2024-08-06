@@ -158,10 +158,7 @@ Honda e:Ny1 har flere standard og valgfrie [avanserte førerassistentsystemer](.
 
 ### Sikkerhetssystemer
 
-
 ### Kjøreautomatisering
-
-
 
 Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 

@@ -190,21 +190,17 @@ El Chevrolet Blazer EV RS AWD tiene varios [sistemas avanzados de asistencia al 
 
 ### Sistemas de seguridad
 
+El Chevrolet Blazer EV RS AWD tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un Opcional sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
 
-El Chevrolet Blazer EV RS AWD tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un Estándar sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un opcional sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
+El Chevrolet Blazer EV RS AWD tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un un estándar sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
-
-El Chevrolet Blazer EV RS AWD tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
-
-[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es Estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
 ### Automatización de conducción
-
-
 
 Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

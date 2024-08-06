@@ -225,21 +225,19 @@ BMW i5 eDrive40 har flera standard- och valfria [avancerade förarassistanssyste
 
 ### Säkerhetssystem
 
+BMW i5 eDrive40 har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+BMW i5 eDrive40 har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-BMW i5 eDrive40 har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+BMW i5 eDrive40 har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-BMW i5 eDrive40 har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är Valfritt förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
 
-BMW i5 eDrive40 har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett Valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) är valfritt förarassistanssystem som använder sensorer för att detektera närmar sig fordon från sidan när du backar ut från en parkeringsplats eller uppfart.
+BMW i5 eDrive40 har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
-
-BMW i5 eDrive40 har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
-
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är Valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
 ### Körautomation
 
@@ -248,7 +246,6 @@ BMW i5 eDrive40 erbjuder [nivå 1 eller 2 körautomation](../../../../technology
 Med Driving Assistant  nivå 1-systemet får du följande körautomationsfunktioner.
 - Farthållare.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
-
 
 Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

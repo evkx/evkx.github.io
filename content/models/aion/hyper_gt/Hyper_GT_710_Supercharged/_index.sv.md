@@ -185,19 +185,15 @@ Aion Hyper GT 710 Supercharged har flera standard- och valfria [avancerade föra
 
 ### Säkerhetssystem
 
+Aion Hyper GT 710 Supercharged har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+Aion Hyper GT 710 Supercharged har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-Aion Hyper GT 710 Supercharged har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+Aion Hyper GT 710 Supercharged har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-Aion Hyper GT 710 Supercharged har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
-
-Aion Hyper GT 710 Supercharged har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
-
-Aion Hyper GT 710 Supercharged har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+Aion Hyper GT 710 Supercharged har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 ### Körautomation
-
-
 
 Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

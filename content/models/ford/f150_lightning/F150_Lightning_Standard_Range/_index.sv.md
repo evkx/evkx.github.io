@@ -197,19 +197,17 @@ Ford F150 Lightning Standard Range har flera standard- och valfria [avancerade f
 
 ### Säkerhetssystem
 
+Ford F150 Lightning Standard Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+Ford F150 Lightning Standard Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-Ford F150 Lightning Standard Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett Standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-Ford F150 Lightning Standard Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+Ford F150 Lightning Standard Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är Valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
-Ford F150 Lightning Standard Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
-
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
-
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är Valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomation
 
@@ -218,11 +216,9 @@ Ford F150 Lightning Standard Range erbjuder [nivå 1 eller 2 körautomation](../
 Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande körautomationsfunktioner.
 - Farthållare.
 
-
 Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
-
 
 Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.

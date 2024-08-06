@@ -188,17 +188,13 @@ GMC Hummer EV Edition 1 Pickup har flere standard og valgfrie [avanserte førera
 
 ### Sikkerhetssystemer
 
+GMC Hummer EV Edition 1 Pickup har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
+GMC Hummer EV Edition 1 Pickup har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-GMC Hummer EV Edition 1 Pickup har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
-
-GMC Hummer EV Edition 1 Pickup har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
-
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er Standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
-
-
 
 Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

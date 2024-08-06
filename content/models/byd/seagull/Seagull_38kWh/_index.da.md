@@ -187,17 +187,15 @@ BYD Seagull 38kWh har flere standard- og valgfrie [avancerede førerassistentsys
 
 ### Sikkerhedssystemer
 
+BYD Seagull 38kWh har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+BYD Seagull 38kWh har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-BYD Seagull 38kWh har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+BYD Seagull 38kWh har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-BYD Seagull 38kWh har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Valgfrit førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-BYD Seagull 38kWh har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
-
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en valgfri førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
-
-BYD Seagull 38kWh har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en valgfri-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+BYD Seagull 38kWh har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Valgfrit-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 ### Køreautomatisering
 

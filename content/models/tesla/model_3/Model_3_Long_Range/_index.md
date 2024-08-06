@@ -194,44 +194,40 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Tesla Model 3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Tesla Model 3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Tesla Model 3 Long Range, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Tesla Model 3 Long Range, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Tesla Model 3 Long Range has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Tesla Model 3 Long Range, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-The Tesla Model 3 Long Range has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-The Tesla Model 3 Long Range has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Tesla Model 3 Long Range, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Tesla Model 3 Long Range, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Tesla Model 3 Long Range, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-The Tesla Model 3 Long Range has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Tesla Model 3 Long Range. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
 The Tesla Model 3 Long Range offers [driving automation on level 2 or 3](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the Basic Autopilot  level 2 system, you get the following driving automation features.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-
 
 With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
-- [**Automatic lane change**](../../../../technology/driverassistance/automatedlanechange/)
-
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
 - Traffic light control - follow traffic lights.

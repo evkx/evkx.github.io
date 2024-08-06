@@ -194,25 +194,21 @@ KGM Torres EVX har flere standard- og valgfrie [avancerede førerassistentsystem
 
 ### Sikkerhedssystemer
 
+KGM Torres EVX har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+KGM Torres EVX har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-KGM Torres EVX har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+KGM Torres EVX har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-KGM Torres EVX har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er Valgfrit førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
-KGM Torres EVX har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+KGM Torres EVX har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en valgfri førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Valgfrit førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
-KGM Torres EVX har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en valgfri førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
-
-[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er en valgfri førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
+[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er Valgfrit førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
-
-
 
 Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

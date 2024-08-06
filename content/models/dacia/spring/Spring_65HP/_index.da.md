@@ -186,17 +186,13 @@ Dacia Spring 65HP har flere standard- og valgfrie [avancerede førerassistentsys
 
 ### Sikkerhedssystemer
 
+Dacia Spring 65HP har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+Dacia Spring 65HP har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-Dacia Spring 65HP har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
-
-Dacia Spring 65HP har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
-
-Dacia Spring 65HP har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+Dacia Spring 65HP har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
 ### Køreautomatisering
-
-
 
 Med standardsystemet tilbyder modellen ingen køreautomatisering.
 

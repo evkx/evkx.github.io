@@ -178,22 +178,20 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Citroën ë-C4 X has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Citroën ë-C4 X has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
-
-
-The Citroën ë-C4 X has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Citroën ë-C4 X, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
 ### Driving Automation
 
 The Citroën ë-C4 X offers [driving automation on level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the DS Drive Assist  level 1 system, you get the following driving automation features.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}

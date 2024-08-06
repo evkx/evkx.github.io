@@ -187,30 +187,26 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/headlights_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="1973"  >}}
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Cadillac LYRIQ RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Cadillac LYRIQ RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Cadillac LYRIQ RWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-The Cadillac LYRIQ RWD has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : An Standard system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is an optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Cadillac LYRIQ RWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is a standard driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
-
-The Cadillac LYRIQ RWD has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Cadillac LYRIQ RWD. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-
-
 With the   level 2 system, you get the following driving automation features.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 

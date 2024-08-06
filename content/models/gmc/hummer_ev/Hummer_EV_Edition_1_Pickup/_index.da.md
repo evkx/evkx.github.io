@@ -188,17 +188,13 @@ GMC Hummer EV Edition 1 Pickup har flere standard- og valgfrie [avancerede føre
 
 ### Sikkerhedssystemer
 
+GMC Hummer EV Edition 1 Pickup har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+GMC Hummer EV Edition 1 Pickup har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-GMC Hummer EV Edition 1 Pickup har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
-
-GMC Hummer EV Edition 1 Pickup har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
 ### Køreautomatisering
-
-
 
 Med Super Cruise  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

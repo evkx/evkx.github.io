@@ -211,25 +211,21 @@ Renault Megane E-Tech Techno har flere standard- og valgfrie [avancerede førera
 
 ### Sikkerhedssystemer
 
+Renault Megane E-Tech Techno har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+Renault Megane E-Tech Techno har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-Renault Megane E-Tech Techno har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+Renault Megane E-Tech Techno har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-Renault Megane E-Tech Techno har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er Valgfrit førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
 
-Renault Megane E-Tech Techno har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Valgfrit førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er en valgfri førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
+Renault Megane E-Tech Techno har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en valgfri førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
-
-Renault Megane E-Tech Techno har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
 ### Køreautomatisering
-
-
 
 Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

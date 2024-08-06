@@ -192,30 +192,26 @@ You can choose between two types of headlights for the Toyota bZ4X AWD.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Toyota bZ4X AWD, this system prevents the wheels from locking during braking.
 
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Toyota bZ4X AWD, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
-The Toyota bZ4X AWD has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Toyota bZ4X AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Toyota bZ4X AWD, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-The Toyota bZ4X AWD has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
-
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is an optional driver-assist system. This side assist system helps to detect traffic in blind spots.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Toyota bZ4X AWD. This side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-
-
 With the standard system the model offers no driving automation.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}

@@ -173,17 +173,13 @@ XPENG G3i har flere standard og valgfrie [avanserte førerassistentsystemer](../
 
 ### Sikkerhetssystemer
 
+XPENG G3i har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
+XPENG G3i har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-XPENG G3i har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
-
-XPENG G3i har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
-
-[**Avkjøringsvarsel**](../../../../technology/driverassistance/exitwarning/) er standard førerassistansesystem utviklet for å advare passasjerer mot å åpne dører hvis det er fare for å treffe noe.
+[**Avkjøringsvarsel**](../../../../technology/driverassistance/exitwarning/) er Standard førerassistansesystem utviklet for å advare passasjerer mot å åpne dører hvis det er fare for å treffe noe.
 
 ### Kjøreautomatisering
-
-
 
 Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

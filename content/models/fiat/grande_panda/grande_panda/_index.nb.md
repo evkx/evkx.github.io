@@ -206,17 +206,13 @@ Fiat Grande Panda har flere standard og valgfrie [avanserte førerassistentsyste
 
 ### Sikkerhetssystemer
 
+Fiat Grande Panda har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
+Fiat Grande Panda har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Fiat Grande Panda har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
-
-Fiat Grande Panda har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
-
-Fiat Grande Panda har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
+Fiat Grande Panda har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
-
-
 
 Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 - Cruisekontroll.

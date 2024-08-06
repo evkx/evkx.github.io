@@ -226,21 +226,19 @@ BMW i5 M60 xDrive Touring har flere standard- og valgfrie [avancerede førerassi
 
 ### Sikkerhedssystemer
 
+BMW i5 M60 xDrive Touring har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+BMW i5 M60 xDrive Touring har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-BMW i5 M60 xDrive Touring har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+BMW i5 M60 xDrive Touring har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-BMW i5 M60 xDrive Touring har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er Valgfrit førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
-BMW i5 M60 xDrive Touring har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Valgfrit førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en valgfri førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
+BMW i5 M60 xDrive Touring har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en valgfri førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
-
-BMW i5 M60 xDrive Touring har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er en valgfri førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er Valgfrit førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
 
 ### Køreautomatisering
 
@@ -249,7 +247,6 @@ BMW i5 M60 xDrive Touring tilbyder [kørselsautomatisering på niveau 1 eller 2]
 Med Driving Assistant  niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - Fartpilot.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
-
 
 Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

@@ -242,23 +242,21 @@ Mercedes-AMG EQE 53 4MATIC+ har flere standard og valgfrie [avanserte førerassi
 
 ### Sikkerhetssystemer
 
+Mercedes-AMG EQE 53 4MATIC+ har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
 
+Mercedes-AMG EQE 53 4MATIC+ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
 
-Mercedes-AMG EQE 53 4MATIC+ har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+Mercedes-AMG EQE 53 4MATIC+ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
 
-Mercedes-AMG EQE 53 4MATIC+ har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er Tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-Mercedes-AMG EQE 53 4MATIC+ har et [**kjørefeltassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Dette systemet bidrar til å forhindre at bilen kommer ut av kjørefeltet. I tillegg har den et [**filskiftevarsel**](../../../../technology/driverassistance/lanedeparturewarning/) system som varsler sjåføren hvis kjøretøyet forlater kjørefeltet.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er tilvalg førerassistentsystem som hjelper sjåfører med å oppdage møtende trafikk når du krysser et veikryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+Mercedes-AMG EQE 53 4MATIC+ har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er tilvalg førerassistentsystem for å hjelpe sjåfører med å unngå eller dempe frontal kollisjoner.
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er Tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
 
-Mercedes-AMG EQE 53 4MATIC+ har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
-
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er tilvalg førerassistentsystem utviklet for å hjelpe sjåfører med å unngå kollisjoner ved å automatisk styring av kjøretøyet i en nødsituasjon.
-
-[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er Tilvalg førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -267,7 +265,6 @@ Mercedes-AMG EQE 53 4MATIC+ tilbyr [kjøreautomatisering på nivå 1 eller 2](..
 Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
-
 
 Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner enn de som er oppført ovenfor.
 - [**Autostyring**](../../../../technology/driverassistance/autosteer/): holder bilen i kjørefeltet og bremser ned om nødvendig i trafikk. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.

@@ -227,23 +227,21 @@ El Volkswagen ID.4 Pro 4MOTION tiene varios [sistemas avanzados de asistencia al
 
 ### Sistemas de seguridad
 
+El Volkswagen ID.4 Pro 4MOTION tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
 
+El Volkswagen ID.4 Pro 4MOTION tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema Estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
 
-El Volkswagen ID.4 Pro 4MOTION tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+El Volkswagen ID.4 Pro 4MOTION tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
-El Volkswagen ID.4 Pro 4MOTION tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un Estándar sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
 
-El Volkswagen ID.4 Pro 4MOTION tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un Estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
+El Volkswagen ID.4 Pro 4MOTION tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
+[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un Estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
 
-El Volkswagen ID.4 Pro 4MOTION tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
-
-[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
-
-[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un opcional sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es Opcional sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
 ### Automatización de conducción
 
@@ -251,7 +249,6 @@ El Volkswagen ID.4 Pro 4MOTION ofrece [automatización de la conducción en el n
 
 Con el sistema   nivel 1, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-
 
 Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.

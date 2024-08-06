@@ -190,15 +190,13 @@ Le Opel Astra Sports Tourer Electric dispose de plusieurs [systèmes avancés d'
 
 ### Systèmes de sécurité
 
+Le Opel Astra Sports Tourer Electric dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Opel Astra Sports Tourer Electric dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Opel Astra Sports Tourer Electric dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Opel Astra Sports Tourer Electric dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-Le Opel Astra Sports Tourer Electric dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
-
-Le Opel Astra Sports Tourer Electric dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un Standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
 ### Automatisation de la conduite
 

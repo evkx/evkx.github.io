@@ -257,25 +257,23 @@ Porsche Taycan har flere standard- og valgfrie [avancerede førerassistentsystem
 
 ### Sikkerhedssystemer
 
+Porsche Taycan har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
 
+Porsche Taycan har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
 
-Porsche Taycan har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som en standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+Porsche Taycan har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
-Porsche Taycan har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som en standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er Valgfrit førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
 
-Porsche Taycan har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er Valgfrit førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) er en valgfri førerassistentsystem, der hjælper chauffører med at registrere modkørende trafik når du krydser et vejkryds eller drejer til venstre eller højre fra en standset position.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er Valgfrit førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) er en valgfri førerassistentsystem, der bruger sensorer til at registrere nærmer sig køretøjer fra siden, når de bakker ud af en parkeringsplads eller indkørsel.
+Porsche Taycan har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) er en valgfri førerassistentsystem, der hjælper chauffører med at undgå eller afbøde frontal kollisioner.
+[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er Standard førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
 
-Porsche Taycan har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Automatisk nødstyring**](../../../../technology/driverassistance/automaticemergencysteering/) er en standard førerassistentsystem designet til at hjælpe chauffører med at undgå kollisioner ved at automatisk styring af køretøjet i en nødsituation.
-
-[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en valgfri førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
+[**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er Valgfrit førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
 ### Køreautomatisering
 
@@ -284,7 +282,6 @@ Porsche Taycan tilbyder [kørselsautomatisering på niveau 1 eller 2](../../../.
 Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
-
 
 Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiseringsfunktioner ud over dem, der er anført ovenfor.
 - [**Autosteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten, hvis det er nødvendigt i trafik. Systemet begrænser, hvor længe du kan køre uden at røre ved rattet.

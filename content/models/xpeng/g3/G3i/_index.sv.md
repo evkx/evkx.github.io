@@ -173,17 +173,13 @@ XPENG G3i har flera standard- och valfria [avancerade förarassistanssystem](../
 
 ### Säkerhetssystem
 
+XPENG G3i har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
+XPENG G3i har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
-XPENG G3i har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
-
-XPENG G3i har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
-
-[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är standard förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är Standard förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
 
 ### Körautomation
-
-
 
 Med standardsystemet erbjuder modellen ingen körautomatisering.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

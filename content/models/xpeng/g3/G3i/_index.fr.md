@@ -173,17 +173,13 @@ Le XPENG G3i dispose de plusieurs [systèmes avancés d'aide à la conduite](../
 
 ### Systèmes de sécurité
 
+Le XPENG G3i dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
+Le XPENG G3i dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-Le XPENG G3i dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
-
-Le XPENG G3i dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un standard système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un Standard système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la conduite
-
-
 
 Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

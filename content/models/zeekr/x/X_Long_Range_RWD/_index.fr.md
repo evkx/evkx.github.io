@@ -189,25 +189,21 @@ Le Zeekr X Long Range RWD dispose de plusieurs [systèmes avancés d'aide à la 
 
 ### Systèmes de sécurité
 
+Le Zeekr X Long Range RWD dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Zeekr X Long Range RWD dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
-Le Zeekr X Long Range RWD dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Zeekr X Long Range RWD dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Zeekr X Long Range RWD dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un Standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
 
-Le Zeekr X Long Range RWD dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) est un un standard système d'aide à la conduite qui utilise des capteurs pour détecter l'approche véhicules par le côté lors de la marche arrière d'une place de stationnement ou d'une allée.
+Le Zeekr X Long Range RWD dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
-
-Le Zeekr X Long Range RWD dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un standard système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un Standard système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la conduite
-
-
 
 Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)

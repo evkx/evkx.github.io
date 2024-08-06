@@ -173,17 +173,13 @@ El XPENG G3i tiene varios [sistemas avanzados de asistencia al conductor](../../
 
 ### Sistemas de seguridad
 
+El XPENG G3i tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
 
+El XPENG G3i tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
-El XPENG G3i tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
-
-El XPENG G3i tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
-
-[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un un estándar sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
+[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un Estándar sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
 
 ### Automatización de conducción
-
-
 
 Con el sistema estándar, el modelo no ofrece automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)

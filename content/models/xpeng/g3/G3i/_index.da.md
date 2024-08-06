@@ -173,17 +173,13 @@ XPENG G3i har flere standard- og valgfrie [avancerede førerassistentsystemer](.
 
 ### Sikkerhedssystemer
 
+XPENG G3i har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
 
+XPENG G3i har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
 
-XPENG G3i har en [**vognbaneassistent**](../../../../technology/driverassistance/lanekeepingassist/) som en standard-system. Dette system hjælper med at forhindre bilen i at komme ud af sin vognbane. Derudover har den et [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader kørebanen.
-
-XPENG G3i har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som en standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
-
-[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er en standard førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
+[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er Standard førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
-
-
 
 Med standardsystemet tilbyder modellen ingen køreautomatisering.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)

@@ -231,25 +231,23 @@ Audi Q4 45 e-tron har flera standard- och valfria [avancerade förarassistanssys
 
 ### Säkerhetssystem
 
+Audi Q4 45 e-tron har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
+Audi Q4 45 e-tron har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-Audi Q4 45 e-tron har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+Audi Q4 45 e-tron har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
-Audi Q4 45 e-tron har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är Valfritt förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
 
-Audi Q4 45 e-tron har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett Valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är valfritt förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
+Audi Q4 45 e-tron har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är Valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
-Audi Q4 45 e-tron har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är Valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
-
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
-
-[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är valfritt förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är Valfritt förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
 
 ### Körautomation
 
@@ -258,7 +256,6 @@ Audi Q4 45 e-tron erbjuder [nivå 1 eller 2 körautomation](../../../../technolo
 Med   nivå 1-systemet får du följande körautomationsfunktioner.
 - Farthållare.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
-
 
 Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)

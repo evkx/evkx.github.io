@@ -200,23 +200,19 @@ Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Fiat Grande Panda has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Fiat Grande Panda has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Fiat Grande Panda, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Fiat Grande Panda, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Fiat Grande Panda has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
-
-The Fiat Grande Panda has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
-
-The Fiat Grande Panda has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Fiat Grande Panda, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 ### Driving Automation
-
-
 
 With the standard system the model offers no driving automation.
 - Cruise control.

@@ -249,7 +249,7 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 You can choose between two types of headlights for the Audi Q6 e-tron performance.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:**Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. The daytime running lights (DRL) for this option also feature multiple LED segments, allowing you to customize your preferred DRL signature. For enhanced safety, it includes corner lights that illuminate the side when turning.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. The daytime running lights (DRL) for this option also feature multiple LED segments, allowing you to customize your preferred DRL signature. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Additionally, you have two options for taillights:
 
@@ -258,44 +258,41 @@ Additionally, you have two options for taillights:
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/headlights_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
-## Advanced driver assistance systems
+## Advanced Driver Assistance Systems
 
-The Audi Q6 e-tron performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+The Audi Q6 e-tron performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard feature that helps drivers anticipate driving conditions and conserve energy.
 
 ### Safety systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) : Standard on the Audi Q6 e-tron performance, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/) : Standard on the Audi Q6 e-tron performance, is a system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
 
-The Audi Q6 e-tron performance has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Audi Q6 e-tron performance, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-The Audi Q6 e-tron performance has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-The Audi Q6 e-tron performance has a [**lane-keeping assist**](../../../../technology/driverassistance/lanekeepingassist/)  as a standard system. This system helps to prevent the car from getting out of its lane. In addition, it has a [**lane departure warning**](../../../../technology/driverassistance/lanedeparturewarning/) system that warns the driver if the vehicle leaves the driving lane.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : An Optional system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is a standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Audi Q6 e-tron performance, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) is an optional driver assist system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Automatic Emergency Braking**](../../../../technology/driverassistance/automaticemergencybraking/) : Standard on the Audi Q6 e-tron performance, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) is a standard driver assist system to help drivers avoid or mitigate frontal collisions.
+[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Audi Q6 e-tron performance, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-The Audi Q6 e-tron performance has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
+[**Blind-spot monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Audi Q6 e-tron performance. This side assist system helps to detect traffic in blind spots.
 
-[**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) is a standard  driver assist system designed to help drivers avoid collisions by automatically steering the vehicle in an emergency.
-
-[**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
-
-[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something.
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) : Optional on the Audi Q6 e-tron performance, is a system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
 The Audi Q6 e-tron performance offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
 With the   level 1 system, you get the following driving automation features.
-- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
-
 
 With the Adaptive Cruise Assist  level 2 system, you get additional driving automation features to the ones listed above.
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.

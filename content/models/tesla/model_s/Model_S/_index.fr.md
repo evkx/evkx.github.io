@@ -191,23 +191,21 @@ Le Tesla Model S dispose de plusieurs [systèmes avancés d'aide à la conduite]
 
 ### Systèmes de sécurité
 
+Le Tesla Model S dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
 
+Le Tesla Model S dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
 
-Le Tesla Model S dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme un standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+Le Tesla Model S dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système Standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
 
-Le Tesla Model S dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme un standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un Standard système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
 
-Le Tesla Model S dispose d'un [**assistance au maintien de voie**](../../../../technology/driverassistance/lanekeepingassist/) comme système un standard. Ce Le système aide à empêcher la voiture de sortir de sa voie. De plus, il dispose d'un système [**lane exit alert**](../../../../technology/driverassistance/lanedeparturewarning/) qui avertit le conducteur si le véhicule quitte la voie de circulation.
+[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un Standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) est un un standard système d'assistance à la conduite qui aide les conducteurs à détecter le trafic venant en sens inverse. lorsque vous traversez une intersection ou tournez à gauche ou à droite à partir d'une position arrêtée.
+Le Tesla Model S dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) est un un standard système d'assistance à la conduite qui aide les conducteurs à éviter ou à atténuer les collisions frontales. collisions.
+[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un Standard système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
 
-Le Tesla Model S dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système un standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
-
-[**Direction d'urgence automatique**](../../../../technology/driverassistance/automaticemergencysteering/) est un un standard système d'aide à la conduite conçu pour aider les conducteurs à éviter les collisions en diriger automatiquement le véhicule en cas d'urgence.
-
-[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un Standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
 ### Automatisation de la conduite
 
@@ -217,12 +215,10 @@ Avec le système Basic Autopilot  niveau 2, vous bénéficiez des fonctionnalit�
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
-
 Avec le système Enhanced Autopilot  niveau 2, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - Régulateur de vitesse avancé qui suit la navigation et s'éteint sur les routes principales pour atteindre la cible.
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement de voie automatique**](../../../../technology/driverassistance/automatedlanechange/)
-
 
 Avec le système Full Self-Driving Capability  niveau 3, vous bénéficiez de fonctionnalités d'automatisation de conduite supplémentaires par rapport à celles répertoriées ci-dessus.
 - Contrôle des feux de circulation - suivre les feux de circulation.
