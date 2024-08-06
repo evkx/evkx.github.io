@@ -202,7 +202,7 @@ The Lucid Air Sapphire has several standard and optional [advanced driver assist
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Lucid Air Sapphire, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Standard driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Lucid Air Sapphire, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
 [**Automatic emergency steering**](../../../../technology/driverassistance/automaticemergencysteering/) : Standard on the Lucid Air Sapphire, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 

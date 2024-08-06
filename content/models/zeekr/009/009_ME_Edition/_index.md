@@ -212,7 +212,7 @@ The Zeekr 009 ME Edition has several standard and optional [advanced driver assi
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Zeekr 009 ME Edition, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : An Standard system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : Standard on the Zeekr 009 ME Edition, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Standard on the Zeekr 009 ME Edition, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 

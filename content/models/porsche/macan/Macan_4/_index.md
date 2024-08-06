@@ -250,9 +250,9 @@ The Porsche Macan 4 has several standard and optional [advanced driver assistanc
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/) : Standard on the Porsche Macan 4, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) is Optional driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the Porsche Macan 4, is a driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
-[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : An Optional system that uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/) : Optional on the Porsche Macan 4, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/) : Optional on the Porsche Macan 4, is a driver assist system to help drivers avoid or mitigate frontal collisions.
 
