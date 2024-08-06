@@ -923,7 +923,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -947,7 +947,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -987,7 +987,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

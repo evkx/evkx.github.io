@@ -1024,7 +1024,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1048,7 +1048,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1088,7 +1088,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>

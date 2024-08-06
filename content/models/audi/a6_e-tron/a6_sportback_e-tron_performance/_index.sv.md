@@ -136,10 +136,13 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 - elektrisk justering
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}

@@ -1024,7 +1024,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1048,7 +1048,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1088,7 +1088,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

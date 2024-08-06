@@ -923,7 +923,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -947,7 +947,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -987,7 +987,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

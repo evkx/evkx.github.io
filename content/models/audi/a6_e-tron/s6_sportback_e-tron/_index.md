@@ -131,10 +131,13 @@ The following functionalities are available on the **Sport** seat.
 The following functionalities are available on the **Sport Plus** seat.
 
 - electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}

@@ -131,10 +131,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 - ajuste eléctrico
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}

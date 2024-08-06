@@ -133,10 +133,13 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
 - elektrisk justering
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
