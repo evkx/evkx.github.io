@@ -207,25 +207,25 @@ Les feux arrière standard utilisent la technologie LED, assurant visibilité et
 
 ## Systèmes avancés d'aide à la conduite
 
-Le Opel Frontera dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+Le Opel Frontera comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
 
-### Systèmes de sécurité
+### Systèmes de Sécurité
 
-Le Opel Frontera dispose d'un [**système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) comme Standard. Ce système permet d'éviter le blocage des roues d'un véhicule lors du freinage.
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Opel Frontera, ce système empêche les roues de se bloquer lors du freinage.
 
-Le Opel Frontera dispose d'un [**Contrôle électronique de stabilité**](../../../../technology/driverassistance/electronicstabilitycontrol/) comme Standard système conçu pour améliorer la stabilité et la maniabilité d'un véhicule lors de manœuvres brusques ou de routes glissantes.
+[**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Opel Frontera, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
 
-Le Opel Frontera dispose du [**freinage d'urgence automatique**](../../../../technology/driverassistance/automaticemergencybraking/) comme système Standard. Ce système aide prévenir ou atténuer les collisions en appliquant les freins de manière autonome si le conducteur ne réagit pas à une collision imminente.
+[**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Opel Frontera, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-### Automatisation de la conduite
+### Automatisation de la Conduite
 
-Avec le système standard, le modèle n'offre aucune automatisation de conduite.
+Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 - Régulateur de vitesse.
 
-### Capteurs et caméras
+### Capteurs & Caméras
 
-Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour les systèmes d'aide à la conduite.
-Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/), et quatre [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/) et quatre [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -154,13 +154,13 @@ Les feux arrière standard utilisent la technologie LED, assurant visibilité et
 
 ## Systèmes avancés d'aide à la conduite
 
-Le Honda e:Ny1 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+Le Honda e:Ny1 comprend plusieurs [systèmes avancés d'assistance au conducteur](../../../../technology/driverassistance/) (ADAS) de série et en option pour améliorer la sécurité et le confort.
 
-### Systèmes de sécurité
+### Systèmes de Sécurité
 
-### Automatisation de la conduite
+### Automatisation de la Conduite
 
-Avec le système standard, le modèle n'offre aucune automatisation de conduite.
+Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
 
 {{<evkxdisplayaddarticle />}}

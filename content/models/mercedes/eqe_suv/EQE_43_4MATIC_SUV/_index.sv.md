@@ -240,36 +240,36 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Mercedes-AMG EQE 43 4MATIC SUV har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+Mercedes-AMG EQE 43 4MATIC SUV inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
 
 ### Säkerhetssystem
 
-Mercedes-AMG EQE 43 4MATIC SUV har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Mercedes-AMG EQE 43 4MATIC SUV, detta system förhindrar att hjulen låser sig under bromsning.
 
-Mercedes-AMG EQE 43 4MATIC SUV har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Mercedes-AMG EQE 43 4MATIC SUV, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
 
-Mercedes-AMG EQE 43 4MATIC SUV har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Mercedes-AMG EQE 43 4MATIC SUV, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
-[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är Valfritt förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
+[**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valfritt på Mercedes-AMG EQE 43 4MATIC SUV, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett Valfritt förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valfritt på Mercedes-AMG EQE 43 4MATIC SUV, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
 
-Mercedes-AMG EQE 43 4MATIC SUV har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Mercedes-AMG EQE 43 4MATIC SUV, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är Valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Mercedes-AMG EQE 43 4MATIC SUV, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är Valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Mercedes-AMG EQE 43 4MATIC SUV, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
-### Körautomation
+### Körautomatisering
 
-Mercedes-AMG EQE 43 4MATIC SUV erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
+Mercedes-AMG EQE 43 4MATIC SUV erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Driver Assistance Package  nivå 1-systemet får du följande körautomationsfunktioner.
-- [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
+Med Driver Assistance Package  nivå 1-systemet får du följande funktioner för körautomatisering.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
-Med Driver Assistance Package Plus  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
-- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
+Med Driver Assistance Package Plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 
 {{<evkxdisplayaddarticle />}}

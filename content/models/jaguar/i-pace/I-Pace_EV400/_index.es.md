@@ -223,19 +223,19 @@ Las luces traseras estándar usan tecnología LED, asegurando visibilidad y efic
 
 ## Sistemas avanzados de asistencia al conductor
 
-El Jaguar I-Pace EV400 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+El Jaguar I-Pace EV400 incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
 
-### Sistemas de seguridad
+### Sistemas de Seguridad
 
-El Jaguar I-Pace EV400 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como Estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Jaguar I-Pace EV400, este sistema evita que las ruedas se bloqueen durante el frenado.
 
-El Jaguar I-Pace EV400 tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Jaguar I-Pace EV400, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
-El Jaguar I-Pace EV400 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Jaguar I-Pace EV400, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-### Automatización de conducción
+### Automatización de la Conducción
 
-Con el sistema estándar, el modelo no ofrece automatización de conducción.
+Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 
 {{<evkxdisplayaddarticle />}}

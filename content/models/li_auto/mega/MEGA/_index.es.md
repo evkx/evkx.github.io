@@ -217,37 +217,37 @@ Las luces traseras estándar usan tecnología LED, asegurando visibilidad y efic
 
 ## Sistemas avanzados de asistencia al conductor
 
-El Li Auto MEGA tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+El Li Auto MEGA incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
 
-[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema Estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+[**Asistencia de Eficiencia**](../../../../technology/driverassistance/efficencyassist/): Una función Estándar que ayuda a los conductores a anticipar las condiciones de manejo y conservar energía.
 
-### Sistemas de seguridad
+### Sistemas de Seguridad
 
-El Li Auto MEGA tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema Estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Li Auto MEGA, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
 
-El Li Auto MEGA tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema Estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Li Auto MEGA, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
-[**Rear Cross Traffic Alert**](../../../../technology/driverassistance/rearcrosstrafficalert/) es un Estándar sistema de asistencia al conductor que utiliza sensores para detectar vehículos que se aproximan. vehículos desde un lado al salir marcha atrás de un espacio de estacionamiento o camino de entrada.
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Li Auto MEGA, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
 
-[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un Estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Li Auto MEGA, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
-El Li Auto MEGA tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema Estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Li Auto MEGA, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-### Automatización de conducción
+### Automatización de la Conducción
 
-Con el sistema AD Pro  nivel 2, obtienes las siguientes funciones de automatización de conducción.
-- [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
-- Control de crucero avanzado que sigue la navegación y gira y gira en las carreteras principales para alcanzar el objetivo.
-- [**Cambio de carril automático**](../../../../technology/driverassistance/automatedlanechange/)
+Con el sistema AD Pro  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- Control de crucero avanzado que sigue la navegación y se apaga y enciende en carreteras principales para llegar al destino.
+- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-Con el sistema AD Max  nivel 2, obtienes funciones de automatización de conducción adicionales a las enumeradas anteriormente.
+Con el sistema AD Max  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
-### Sensores y cámaras
+### Sensores y Cámaras
 
-Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para los sistemas de asistencia al conductor.
-Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
+Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

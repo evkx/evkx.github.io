@@ -194,36 +194,36 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Ford F150 Lightning Extended Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+Ford F150 Lightning Extended Range inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
 
 ### Säkerhetssystem
 
-Ford F150 Lightning Extended Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Ford F150 Lightning Extended Range, detta system förhindrar att hjulen låser sig under bromsning.
 
-Ford F150 Lightning Extended Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som Standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Ford F150 Lightning Extended Range, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
-[**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett Standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Ford F150 Lightning Extended Range, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
 
-Ford F150 Lightning Extended Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford F150 Lightning Extended Range, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
-[**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är Valfritt förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valfritt på Ford F150 Lightning Extended Range, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är Valfritt förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Ford F150 Lightning Extended Range, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
-### Körautomation
+### Körautomatisering
 
-Ford F150 Lightning Extended Range erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
+Ford F150 Lightning Extended Range erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande körautomationsfunktioner.
+Med Ford Co-Pilot360™ 2.0  nivå 1-systemet får du följande funktioner för körautomatisering.
 - Farthållare.
 
-Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
-- [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+Med Ford Co-Pilot360™ Assist 2.0  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
-Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
-- [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
-- [**Automatisk filbyte**](../../../../technology/driverassistance/automatedlanechange/)
+Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
 
 {{<evkxdisplayaddarticle />}}

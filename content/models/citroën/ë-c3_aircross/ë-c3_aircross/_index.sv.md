@@ -214,25 +214,25 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Citroën ë-C3 Aircross har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+Citroën ë-C3 Aircross inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
 
 ### Säkerhetssystem
 
-Citroën ë-C3 Aircross har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Citroën ë-C3 Aircross, detta system förhindrar att hjulen låser sig under bromsning.
 
-Citroën ë-C3 Aircross har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket Standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Citroën ë-C3 Aircross, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
 
-Citroën ë-C3 Aircross har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Citroën ë-C3 Aircross, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
-### Körautomation
+### Körautomatisering
 
-Med standardsystemet erbjuder modellen ingen körautomatisering.
+Med standardutrustningen erbjuder modellen ingen körautomatisering.
 - Farthållare.
 
-### Sensorer och kameror
+### Sensorer & Kameror
 
-Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
-Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), en [kameraer](../../../../technology/sensorsandcameras/cameras/), og fyra [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [kameror](../../../../technology/sensorsandcameras/cameras/) och fyra [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 {{<evkxdisplayaddarticle />}}
 

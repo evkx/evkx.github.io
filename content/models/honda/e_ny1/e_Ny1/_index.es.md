@@ -154,13 +154,13 @@ Las luces traseras estándar usan tecnología LED, asegurando visibilidad y efic
 
 ## Sistemas avanzados de asistencia al conductor
 
-El Honda e:Ny1 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+El Honda e:Ny1 incluye varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mejorar la seguridad y el confort.
 
-### Sistemas de seguridad
+### Sistemas de Seguridad
 
-### Automatización de conducción
+### Automatización de la Conducción
 
-Con el sistema estándar, el modelo no ofrece automatización de conducción.
+Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 
 {{<evkxdisplayaddarticle />}}

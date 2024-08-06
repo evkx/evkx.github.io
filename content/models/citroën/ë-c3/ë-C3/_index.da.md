@@ -212,25 +212,25 @@ Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivite
 
 ## Avancerede førerassistentsystemer
 
-Citroën ë-C3 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+Den Citroën ë-C3 inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
 
 ### Sikkerhedssystemer
 
-Citroën ë-C3 har et [**blokeringsfrit bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) som Standard system. Dette system hjælper med at forhindre, at et køretøjs hjul låser sig under bremsning.
+[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Citroën ë-C3, dette system forhindrer hjulene i at låse under opbremsning.
 
-Citroën ë-C3 har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som Standard-system designet til at forbedre et køretøjs stabilitet og håndtering under pludselige manøvrer eller glatte vejforhold.
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Citroën ë-C3, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
 
-Citroën ë-C3 har [**automatisk nødbremse**](../../../../technology/driverassistance/automaticemergencybraking/) som Standard-system. Dette system hjælper forhindre eller afbøde kollisioner ved at aktivere bremserne autonomt, hvis føreren ikke reagerer på en forestående kollision.
+[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Citroën ë-C3, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
 ### Køreautomatisering
 
-Med standardsystemet tilbyder modellen ingen køreautomatisering.
+Med standardudstyret tilbyder modellen ingen køreautomatisering.
 - Fartpilot.
 
-### Sensorer og kameraer
+### Sensorer & Kameraer
 
-Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsystemerne.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [kameraer](../../../../technology/sensorsandcameras/cameras/), og fire [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [kameraer](../../../../technology/sensorsandcameras/cameras/) og fire [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

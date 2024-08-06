@@ -154,13 +154,13 @@ Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effek
 
 ## Avancerade förarassistanssystem
 
-Honda e:Ny1 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+Honda e:Ny1 inkluderar flera [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) som standard och som tillval för att förbättra säkerheten och komforten.
 
 ### Säkerhetssystem
 
-### Körautomation
+### Körautomatisering
 
-Med standardsystemet erbjuder modellen ingen körautomatisering.
+Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
