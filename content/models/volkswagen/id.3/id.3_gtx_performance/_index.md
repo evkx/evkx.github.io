@@ -34,9 +34,9 @@ The high-capacity battery has a gross capacity of 84 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 601 km (374 miles), with an energy consumption rate of 13.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 185 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 19 minutes and 4 seconds..
+The vehicle supports fast DC charging with a maximum power of 185 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 54%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 20 minutes and 34 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 38 minutes. This journey would require four charging stops from 2% to 44%, with a total charging time of 78 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 25 minutes. This journey would require three charging stops from 2% to 58%, with a total charging time of 66 minutes.
 
 ### Onboard charger
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance has a rear-wheel drive system supported by one m
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The Sport Suspension with DCC suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 150 mm.
 
 ### Steering
 
@@ -70,7 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Volkswagen ID.3 GTX Performance, with dimensions of 4261 mm in length, 1809 mm in width, and 1568 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX Performance is available in a total of 5 paint colors, including both solid and metallic options.
+The Volkswagen ID.3 GTX Performance, with dimensions of 4264 mm in length, 1809 mm in width, and 1564 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX Performance is available in a total of 5 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.3 GTX Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -171,10 +171,7 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Volkswagen ID.3 GTX Performance.
-
-- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
@@ -227,7 +224,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT). On the roof, you can load up to 0 kg (0.0 lbs).
 
-The vehicle’s maximum weight is 2420 kg (5335 lbs), with a base weight of 1884 kg (4154 lbs). This allows for a maximum load of 536 kg (1182 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2430 kg (5357 lbs), with a base weight of 2000 kg (4409 lbs). This allows for a maximum load of 430 kg (948 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

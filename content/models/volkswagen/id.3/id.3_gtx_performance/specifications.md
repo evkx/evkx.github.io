@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4261 mm (167,8")
+				4264 mm (167,9")
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1568 mm (61,7")
+				1564 mm (61,6")
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1536 mm (60,5")
+				1514 mm (59,6")
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1513 mm (59,6")
+				1526 mm (60,1")
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Overhang angle front
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
-				10,3 meter (405,5")
+				10,5 meter (413,4")
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1884 kg (4154 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2420 kg (5335 lbs)
+				2430 kg (5357 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				536 kg (1182 lbs)
+				430 kg (948 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping front</a>
 			</td>
 			<td>
-				Yes (Dynamic Chassis Control), optional equipment
+				Yes (Dynamic Chassis Control), standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +452,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Adjustable damping rear</a>
 			</td>
 			<td>
-				Yes (Dynamic Chassis Control), optional equipment
+				Yes (Dynamic Chassis Control), standard equipment
 			</td>
 		</tr>
 		<tr>

@@ -34,9 +34,9 @@ La batterie haute capacité a une capacité brute de 84 kWh et une capacité net
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 601 km, avec une consommation d'énergie de 13,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 185kW. Une charge complète de 0 à 100 % prendrait 64 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 102kW. Chaque session de charge prendrait 19 minutes et 4 secondes.
+La vitesse de charge DC maximale est de 185kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 20 minutes et 34 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 38 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 44%, avec un temps de recharge total de 78 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 58%, avec un temps de recharge total de 66 minutes.
 
 ### Chargeur embarqué
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance dispose d'un système de propulsion arrière pri
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 150 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Sport Suspension with DCC est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 150 mm.
 
 ### Pilotage
 
@@ -70,7 +70,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen ID.3 GTX Performance, avec des dimensions de 4261 mm de longueur, 1809 mm de largeur et 1568 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX Performance est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Volkswagen ID.3 GTX Performance, avec des dimensions de 4264 mm de longueur, 1809 mm de largeur et 1564 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX Performance est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 GTX Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -171,10 +171,7 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.3 GTX Performance.
-
-- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
@@ -227,7 +224,7 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg.
 
-Le poids maximum du véhicule est de 2420 kg, avec un poids de base de 1884 kg. Cela permet une charge maximale de 536 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2430 kg, avec un poids de base de 2000 kg. Cela permet une charge maximale de 430 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 

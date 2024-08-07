@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 84 kWh og en nettoanvendeli
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 601 km, med et energiforbrugsrate på 13,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 185kW. En fuld opladning fra 0 - 100 % ville tage 64 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 19 minutter og 4 sekunder.
+Den maksimale DC-opladningshastighed er 185kW. En fuld opladning fra 0 - 100 % ville tage 51 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 27 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 124kW. Hver opladningssession ville tage 20 minutter og 34 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 38 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 44%, med en samlet opladningstid på 78 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 58%, med en samlet opladningstid på 66 minutter
 
 ### Ombordlader
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance har et baghjulstræksystem, der understøttes af
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 150 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Sport Suspension with DCC affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Styring
 
@@ -70,7 +70,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den Volkswagen ID.3 GTX Performance, med dimensioner på 4261 mm i længde, 1809 mm i bredde og 1568 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Volkswagen ID.3 GTX Performance fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
+Den Volkswagen ID.3 GTX Performance, med dimensioner på 4264 mm i længde, 1809 mm i bredde og 1564 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Volkswagen ID.3 GTX Performance fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.3 GTX Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -171,10 +171,7 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Volkswagen ID.3 GTX Performance.
-
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -227,7 +224,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter. På taget kan du laste op til 0 kg.
 
-Køretøjets maksimale vægt er 2420 kg, med en basisvægt på 1884 kg. Dette giver en maksimal last på 536 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2430 kg, med en basisvægt på 2000 kg. Dette giver en maksimal last på 430 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 

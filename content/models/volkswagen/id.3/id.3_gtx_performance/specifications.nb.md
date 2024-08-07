@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde foran
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
-				10,3 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +444,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping foran
 			</td>
 			<td>
-				Ja (Dynamic Chassis Control), tileggsutstyr
+				Ja (Dynamic Chassis Control), standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +452,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar demping bak
 			</td>
 			<td>
-				Ja (Dynamic Chassis Control), tileggsutstyr
+				Ja (Dynamic Chassis Control), standardutstyr
 			</td>
 		</tr>
 		<tr>

@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 84 kWh og en netto brukbar k
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 601 km, med et energiforbruk på 13,1 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 185 kW. En full lading fra 0 - 100 % vil ta 64 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 102kW. Hver ladeøkt vil ta 19 minutter og 4 sekunder.
+Maksimal DC-ladehastighet er 185 kW. En full lading fra 0 - 100 % vil ta 51 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 124kW. Hver ladeøkt vil ta 20 minutter og 34 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 9 timer og 38 minutter. Denne reisen ville kreve to ladestopp fra 2% til 44%, med en total ladetid på 78 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 9 timer og 25 minutter. Denne reisen ville kreve to ladestopp fra 2% til 58%, med en total ladetid på 66 minutter.
 
 ### Ombordlader
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance har et bakhjulsdriftssystem støttet av en motor
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 150 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Sport Suspension with DCC-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 150 mm.
 
 ### Styring
 
@@ -70,7 +70,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Volkswagen ID.3 GTX Performance, med dimensjoner på 4261 mm i lengde, 1809 mm i bredde og 1568 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Volkswagen ID.3 GTX Performance er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
+Volkswagen ID.3 GTX Performance, med dimensjoner på 4264 mm i lengde, 1809 mm i bredde og 1564 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Volkswagen ID.3 GTX Performance er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.3 GTX Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -171,10 +171,7 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
-Du kan velge mellom to typer frontlykter for Volkswagen ID.3 GTX Performance.
-
-- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -227,7 +224,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 Bagasjerommet tilbyr en lastekapasitet på 385 liter. Med baksetene nedfelt, utvides dette til 1267 liter. På taket kan du laste opptil 0 kg.
 
-Kjøretøyets maksimale vekt er 2420 kg, med en basisvekt på 1884 kg. Dette gir en maksimal lastekapasitet på 536 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2430 kg, med en basisvekt på 2000 kg. Dette gir en maksimal lastekapasitet på 430 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 

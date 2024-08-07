@@ -99,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP avec perte de charge
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Cercle de tournage
 			</td>
 			<td>
-				10,3 mètre
+				10,5 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +444,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement réglable avant
 			</td>
 			<td>
-				Oui (Dynamic Chassis Control), équipement en option
+				Oui (Dynamic Chassis Control), équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +452,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Amortissement arrière réglable
 			</td>
 			<td>
-				Oui (Dynamic Chassis Control), équipement en option
+				Oui (Dynamic Chassis Control), équipement standard
 			</td>
 		</tr>
 		<tr>

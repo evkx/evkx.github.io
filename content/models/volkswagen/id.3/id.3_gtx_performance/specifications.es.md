@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
-				10,3 metros
+				10,5 metros
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +444,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación delantera ajustable
 			</td>
 			<td>
-				Sí (Dynamic Chassis Control), equipo opcional
+				Sí (Dynamic Chassis Control), equipo estándar
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +452,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Amortiguación trasera ajustable
 			</td>
 			<td>
-				Sí (Dynamic Chassis Control), equipo opcional
+				Sí (Dynamic Chassis Control), equipo estándar
 			</td>
 		</tr>
 		<tr>

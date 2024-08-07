@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 84 kWh och en nettoanvändbar
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 601 km (199 miles), med en energiförbrukningshastighet på 13,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 185 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 19 minuter och 4 sekunder.
+Maximal DC-laddningshastighet är 185 kW. En full laddning från 0 - 100 % tar 51 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 20 minuter och 34 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 38 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 44%, med en total laddningstid på 78 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 25 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 58%, med en total laddningstid på 66 minuter.
 
 ### Ombordladdare
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance har ett bakhjulsdriftssystem som stöds av en mo
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 150 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Sport Suspension with DCC-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 150 mm.
 
 ### Styrning
 
@@ -70,7 +70,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Volkswagen ID.3 GTX Performance, med dimensioner på 4261 mm i längd, 1809 mm i bredd och 1568 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Volkswagen ID.3 GTX Performance finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Volkswagen ID.3 GTX Performance, med dimensioner på 4264 mm i längd, 1809 mm i bredd och 1564 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Volkswagen ID.3 GTX Performance finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID.3 GTX Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -171,10 +171,7 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Volkswagen ID.3 GTX Performance.
-
-- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -227,7 +224,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter. På taket kan du lasta upp till 0 kg.
 
-Fordonets maximala vikt är 2420 kg, med en grundvikt på 1884 kg. Detta tillåter en maximal last på 536 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2430 kg, med en grundvikt på 2000 kg. Detta tillåter en maximal last på 430 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 

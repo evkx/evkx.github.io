@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 84 kWh y una capacida
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 601 km, con una tasa de consumo de energía de 13,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 185kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 102kW. Cada sesión de carga tardaría 19 minutos y 4 segundos.
+La velocidad máxima de carga de CC es 185kW. Una carga completa del 0 al 100 % tardaría 51 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 54%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 124kW. Cada sesión de carga tardaría 20 minutos y 34 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 38 minutos. Este viaje requeriría dos paradas de carga del 2% al 44%, con un tiempo total de carga de 78 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 2% al 58%, con un tiempo total de carga de 66 minutos.
 
 ### Cargador a bordo
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX Performance tiene un sistema de tracción trasera sostenido 
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Sport Suspension with DCC tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 150 mm.
 
 ### Dirección
 
@@ -70,7 +70,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Volkswagen ID.3 GTX Performance, con dimensiones de 4261 mm de longitud, 1809 mm de anchura y 1568 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Volkswagen ID.3 GTX Performance está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Volkswagen ID.3 GTX Performance, con dimensiones de 4264 mm de longitud, 1809 mm de anchura y 1564 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Volkswagen ID.3 GTX Performance está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.3 GTX Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -171,10 +171,7 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Volkswagen ID.3 GTX Performance.
-
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -227,7 +224,7 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 
 El maletero ofrece una capacidad de carga de 385 litros. Con el asiento trasero plegado, esto se expande a 1267 litros. En el techo, puedes cargar hasta 0 kg.
 
-El peso máximo del vehículo es 2420 kg, con un peso base de 1884 kg. Esto permite una carga máxima de 536 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2430 kg, con un peso base de 2000 kg. Esto permite una carga máxima de 430 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 

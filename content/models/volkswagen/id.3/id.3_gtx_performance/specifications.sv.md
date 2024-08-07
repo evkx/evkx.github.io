@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning med förlust av laddning
 			</td>
 			<td>
-				15,7 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Längd
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>
-				10,3 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -428,7 +444,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning fram
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja (Dynamic Chassis Control), valfritt
+				<i class="bi-check-lg" style="color: green;"></i> Ja (Dynamic Chassis Control), standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +452,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbar dämpning bak
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja (Dynamic Chassis Control), valfritt
+				<i class="bi-check-lg" style="color: green;"></i> Ja (Dynamic Chassis Control), standardfunktion
 			</td>
 		</tr>
 		<tr>
