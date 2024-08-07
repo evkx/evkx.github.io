@@ -134,10 +134,13 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

@@ -134,10 +134,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
 - réglage électrique
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
