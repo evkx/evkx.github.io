@@ -74,9 +74,8 @@ El Volkswagen ID.3 GTX Performance, con dimensiones de 4264 mm de longitud, 1809
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.3 GTX Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 215/55 en llantas de 18
-- Neumáticos 215/50 en llantas de 19
 - Neumáticos 215/45 en llantas de 20
+- Neumáticos 235/40 en llantas de 20
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
@@ -94,11 +93,11 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ### Asientos
 
-Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+El Volkswagen ID.3 GTX Performance tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
 
 #### Asientos de primera fila
 
-El Volkswagen ID.3 GTX Performance ofrece un único tipo de asiento delantero.
+Para la primera fila, el Volkswagen ID.3 GTX Performance ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -106,7 +105,17 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
+
+- ajuste eléctrico (opcional)
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [masaje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -120,9 +129,8 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
-Hay dos opciones de sistema de climatización disponibles:
+Hay un sistema climático disponible.
 
-- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
@@ -150,6 +158,8 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/screens_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+
 ## Infoentretenimiento
 
 ### Sistema de navegación
@@ -165,7 +175,7 @@ Además, el Volkswagen ID.3 GTX Performance es compatible con Android Auto y App
 Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.3 GTX Performance.
 
 - Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios.
-- Con el Volkswagen Soundsystem, obtienes siete parlantes con una salida máxima del sistema de 450 vatios.
+- Con el Harman Kardon sound system, obtienes ocho parlantes con una salida máxima del sistema de 480 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
 

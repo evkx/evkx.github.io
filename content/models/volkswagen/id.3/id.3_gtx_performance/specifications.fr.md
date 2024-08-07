@@ -580,7 +580,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +588,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -701,6 +701,167 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### ergoActive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				Siège conducteur et passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la profondeur du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la hauteur du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
+			</td>
+			<td>
+				Fonctionnalité facultative
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Siège conducteur à mémoire
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Siège passager à mémoire
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Fonctionnalité standard
 			</td>
 		</tr>
 	</tbody>
@@ -1058,7 +1219,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1338,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### Harman Kardon sound system
 
 <table class="table table-striped border">
 	<thead>
@@ -1196,7 +1357,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Nombre de haut-parleurs
 			</td>
 			<td>
-				7
+				8
 			</td>
 		</tr>
 		<tr>
@@ -1204,7 +1365,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Effet total
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

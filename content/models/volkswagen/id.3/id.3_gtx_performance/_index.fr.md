@@ -74,9 +74,8 @@ La Volkswagen ID.3 GTX Performance, avec des dimensions de 4264 mm de longueur, 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 GTX Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 215/55 sur jantes de 18"
-- Pneus 215/50 sur jantes de 19"
 - Pneus 215/45 sur jantes de 20"
+- Pneus 235/40 sur jantes de 20"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
@@ -94,11 +93,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ### Sièges
 
-Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Le Volkswagen ID.3 GTX Performance peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
 
 #### Sièges de première rangée
 
-Le Volkswagen ID.3 GTX Performance propose un seul type de siège avant.
+Pour la première rangée, l'Volkswagen ID.3 GTX Performance propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -106,7 +105,17 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
+
+- réglage électrique (facultatif)
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -120,9 +129,8 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système de climatisation
 
-Deux options de système de climatisation sont disponibles :
+Un système climatique est disponible.
 
-- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
@@ -150,6 +158,8 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/screens_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
 
 ### Système de navigation
@@ -165,7 +175,7 @@ De plus, le Volkswagen ID.3 GTX Performance prend en charge Android Auto et Appl
 Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.3 GTX Performance.
 
 - Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts.
-- Avec le Volkswagen Soundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de 450 watts.
+- Avec le Harman Kardon sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 480 watts.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

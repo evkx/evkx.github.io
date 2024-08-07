@@ -580,7 +580,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +588,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +668,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -701,6 +701,167 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### ergoActive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				Asiento del conductor y del pasajero
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de la profundidad del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste de altura del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del ángulo del respaldo
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste eléctrico de altura, reclinación y ángulo
+			</td>
+			<td>
+				Función opcional
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memoria del asiento del conductor
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Asiento del pasajero con memoria
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Función estándar
 			</td>
 		</tr>
 	</tbody>
@@ -1058,7 +1219,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1338,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### Harman Kardon sound system
 
 <table class="table table-striped border">
 	<thead>
@@ -1196,7 +1357,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Número de altavoces
 			</td>
 			<td>
-				7
+				8
 			</td>
 		</tr>
 		<tr>
@@ -1204,7 +1365,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Efecto total
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

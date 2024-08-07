@@ -74,9 +74,8 @@ Volkswagen ID.3 GTX Performance, med dimensjoner på 4264 mm i lengde, 1809 mm i
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.3 GTX Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-- 215/55 dekk på 18" felger
-- 215/50 dekk på 19" felger
 - 215/45 dekk på 20" felger
+- 235/40 dekk på 20" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
@@ -94,11 +93,11 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ### Seter
 
-Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Volkswagen ID.3 GTX Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
 
 #### Forseter
 
-Volkswagen ID.3 GTX Performance Long Range tilbyr kun én type forsete.
+For første rad tilbyr Volkswagen ID.3 GTX Performance to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -106,7 +105,17 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
-Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+Følgende funksjoner er tilgjengelige på **ergoActive** setet.
+
+- elektrisk justering (tilvalg)
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [massasje](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -120,9 +129,8 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-To klimasystemalternativer er tilgjengelige:
+Det er ett tilgjengelig klimasystem.
 
-- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
@@ -150,6 +158,8 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/screens_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
 ## Infotainment
 
 ### Navigasjonssystem
@@ -165,7 +175,7 @@ I tillegg støtter Volkswagen ID.3 GTX Performance Android Auto og Apple CarPlay
 Du kan velge mellom to lydsystemer på Volkswagen ID.3 GTX Performance.
 
 - Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt.
-- Med Volkswagen Soundsystem får du syv høyttalere med en maksimal systemeffekt på 450 watt.
+- Med Harman Kardon sound system får du åtte høyttalere med en maksimal systemeffekt på 480 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
