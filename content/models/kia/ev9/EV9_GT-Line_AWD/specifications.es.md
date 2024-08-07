@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Kia EV9 GT-Line AW
 				Potencia máxima
 			</td>
 			<td>
-				283 KW (385 hp /380 bhp)
+				283 KW (385 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Kia EV9 GT-Line AW
 				Salida de par eléctrico
 			</td>
 			<td>
-				700 nm (517 pies-libra)
+				700 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Kia EV9 GT-Line AW
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				5010 mm (197,2")
+				5010 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1755 mm (69,1")
+				1755 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1980 mm (78,0")
+				1980 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				3100 mm (122,0")
+				3100 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,3 metros (484,3")
+				12,3 metros
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2637 kg (5814 lbs)
+				2637 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3190 kg (7033 lbs)
+				3190 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				553 kg (1219 lbs)
+				553 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				333 litro (12 pies cúbicos)
+				333 litro
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				2393 litro (85 pies cúbicos)
+				2393 litro
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				828 litro (29 pies cúbicos)
+				828 litro
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				55 litro (2 pies cúbicos)
+				55 litro
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2500 kg (5512 lbs)
+				2500 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -492,7 +492,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +500,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>

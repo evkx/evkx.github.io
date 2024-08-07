@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.5 GT
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.5 GT
 				Elektrisk momentudgang
 			</td>
 			<td>
-				679 nm (501 lb-ft)
+				679 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.5 GT
 				Tophastighed
 			</td>
 			<td>
-				180 km/t (112 mph)
+				180 km/t
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4599 mm (181,1")
+				4599 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1615 mm (63,6")
+				1615 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1852 mm (72,9")
+				1852 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2108 mm (83,0")
+				2108 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2771 mm (109,1")
+				2771 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1587 mm (62,5")
+				1587 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1567 mm (61,7")
+				1567 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,57 meter (455,5")
+				11,57 meter
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2167 kg (4777 lbs)
+				2167 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				583 kg (1285 lbs)
+				583 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				549 liter (19 cu-ft)
+				549 liter
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1561 liter (55 cu-ft)
+				1561 liter
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1200 kg (2646 lbs)
+				1200 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -496,7 +496,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +504,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +617,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				153 mm (6,0")
+				153 mm
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +625,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				153 mm (6,0")
+				153 mm
 			</td>
 		</tr>
 		<tr>

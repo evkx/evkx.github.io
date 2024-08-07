@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Nissan Ariya 87kWh
 				Potencia máxima
 			</td>
 			<td>
-				225 KW (306 hp /302 bhp)
+				225 KW (306 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Nissan Ariya 87kWh
 				Salida de par eléctrico
 			</td>
 			<td>
-				600 nm (443 pies-libra)
+				600 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Nissan Ariya 87kWh
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4595 mm (180,9")
+				4595 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1660 mm (65,4")
+				1660 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1850 mm (72,8")
+				1850 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2172 mm (85,5")
+				2172 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2775 mm (109,3")
+				2775 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1587 mm (62,5")
+				1587 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				165 mm (6,5")
+				165 mm
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				10,8 metros (425,2")
+				10,8 metros
 			</td>
 		</tr>
 	</tbody>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1875 kg (4134 lbs)
+				1875 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2400 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				525 kg (1157 lbs)
+				525 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				415 litro (15 pies cúbicos)
+				415 litro
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1490 litro (53 pies cúbicos)
+				1490 litro
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -516,7 +516,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -524,7 +524,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>

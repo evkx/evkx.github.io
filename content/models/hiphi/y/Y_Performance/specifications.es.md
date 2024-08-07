@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para HiPhi Y Performanc
 				Potencia máxima
 			</td>
 			<td>
-				371 KW (504 hp /498 bhp)
+				371 KW (504 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para HiPhi Y Performanc
 				Salida de par eléctrico
 			</td>
 			<td>
-				620 nm (458 pies-libra)
+				620 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para HiPhi Y Performanc
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4938 mm (194,4")
+				4938 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1658 mm (65,3")
+				1658 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1958 mm (77,1")
+				1958 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2950 mm (116,1")
+				2950 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,6 metros (456,7")
+				11,6 metros
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2580 kg (5688 lbs)
+				2580 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				692 litro (24 pies cúbicos)
+				692 litro
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1848 litro (65 pies cúbicos)
+				1848 litro
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				85 litro (3 pies cúbicos)
+				85 litro
 			</td>
 		</tr>
 	</tbody>
@@ -380,7 +380,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>

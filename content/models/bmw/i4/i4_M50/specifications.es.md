@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i4 M50. Haga c
 				Potencia máxima
 			</td>
 			<td>
-				400 KW (544 hp /536 bhp)
+				400 KW (544 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i4 M50. Haga c
 				Salida de par eléctrico
 			</td>
 			<td>
-				795 nm (587 pies-libra)
+				795 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i4 M50. Haga c
 				Velocidad máxima
 			</td>
 			<td>
-				225 kph (140 mph)
+				225 kph
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4783 mm (188,3")
+				4783 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1448 mm (57,0")
+				1448 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1852 mm (72,9")
+				1852 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2856 mm (112,4")
+				2856 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1589 mm (62,6")
+				1589 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1606 mm (63,2")
+				1606 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,5 metros (492,1")
+				12,5 metros
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2215 kg (4883 lbs)
+				2215 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2735 kg (6030 lbs)
+				2735 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				520 kg (1146 lbs)
+				520 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				470 litro (17 pies cúbicos)
+				470 litro
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1290 litro (46 pies cúbicos)
+				1290 litro
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1600 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -476,7 +476,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>
@@ -484,7 +484,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>

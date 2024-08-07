@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Xiaomi SU7 Pro. Kl
 				Popeffekt
 			</td>
 			<td>
-				220 KW (299 hk /295 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Xiaomi SU7 Pro. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				400 nm (295 lb-ft)
+				400 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Xiaomi SU7 Pro. Kl
 				Tophastighed
 			</td>
 			<td>
-				210 km/t (131 mph)
+				210 km/t
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4997 mm (196,7")
+				4997 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1455 mm (57,3")
+				1455 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3000 mm (118,1")
+				3000 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,4 meter (448,8")
+				11,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2205 kg (4861 lbs)
+				2205 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				545 kg (1202 lbs)
+				545 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				517 liter (18 cu-ft)
+				517 liter
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				105 liter (4 cu-ft)
+				105 liter
 			</td>
 		</tr>
 	</tbody>
@@ -380,7 +380,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

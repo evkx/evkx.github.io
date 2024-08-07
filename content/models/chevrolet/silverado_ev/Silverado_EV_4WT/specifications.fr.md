@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Puissance de pointe
 			</td>
 			<td>
-				380 KW (517 ch /510 bhp)
+				380 KW (517 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Couple de sortie électrique
 			</td>
 			<td>
-				834 nm (615 lb-ft)
+				834 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h (106 mph)
+				170 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5920 mm (233,1")
+				5920 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				2009 mm (79,1")
+				2009 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				2072 mm (81,6")
+				2072 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2385 mm (93,9")
+				2385 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3700 mm (145,7")
+				3700 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1749 mm (68,9")
+				1749 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1749 mm (68,9")
+				1749 mm
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				3882 kg (8558 lbs)
+				3882 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				4531 kg (9989 lbs)
+				4531 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				649 kg (1431 lbs)
+				649 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				303 litre (11 pieds cubes)
+				303 litre
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Volume du lit
 			</td>
 			<td>
-				1039 litre (37 pieds cubes)
+				1039 litre
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la surface de chargement
 			</td>
 			<td>
-				614 kg (1354 lbs)
+				614 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur du lit
 			</td>
 			<td>
-				1803 mm (71,0")
+				1803 mm
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur du lit
 			</td>
 			<td>
-				1286 mm (50,6")
+				1286 mm
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				4536 kg (10000 lbs)
+				4536 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +468,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				227 mm (8,9")
+				227 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				227 mm (8,9")
+				227 mm
 			</td>
 		</tr>
 		<tr>

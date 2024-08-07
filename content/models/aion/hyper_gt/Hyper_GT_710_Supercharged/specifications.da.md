@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Aion Hyper GT 710 
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Aion Hyper GT 710 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 lb-ft)
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Aion Hyper GT 710 
 				Tophastighed
 			</td>
 			<td>
-				257 km/t (160 mph)
+				257 km/t
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4886 mm (192,4")
+				4886 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1449 mm (57,0")
+				1449 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1885 mm (74,2")
+				1885 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2920 mm (115,0")
+				2920 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,5 meter (452,8")
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1920 kg (4233 lbs)
+				1920 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				500 liter (18 cu-ft)
+				500 liter
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1100 liter (39 cu-ft)
+				1100 liter
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				60 liter (2 cu-ft)
+				60 liter
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>

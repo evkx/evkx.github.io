@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac OPTIQ AWD
 				Popeffekt
 			</td>
 			<td>
-				224 KW (305 hk /300 hk)
+				224 KW (305 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac OPTIQ AWD
 				Elektrisk momentudgang
 			</td>
 			<td>
-				480 nm (354 lb-ft)
+				480 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac OPTIQ AWD
 				Tophastighed
 			</td>
 			<td>
-				210 km/t (131 mph)
+				210 km/t
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4820 mm (189,8")
+				4820 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1644 mm (64,7")
+				1644 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2126 mm (83,7")
+				2126 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2954 mm (116,3")
+				2954 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,25 meter (442,9")
+				11,25 meter
 			</td>
 		</tr>
 	</tbody>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2355 kg (5192 lbs)
+				2355 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				545 kg (1202 lbs)
+				545 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				793 liter (28 cu-ft)
+				793 liter
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1723 liter (61 cu-ft)
+				1723 liter
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1588 kg (3501 lbs)
+				1588 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>

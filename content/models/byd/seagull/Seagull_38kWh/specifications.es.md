@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para BYD Seagull 38kWh.
 				Potencia máxima
 			</td>
 			<td>
-				55 KW (75 hp /74 bhp)
+				55 KW (75 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para BYD Seagull 38kWh.
 				Salida de par eléctrico
 			</td>
 			<td>
-				135 nm (100 pies-libra)
+				135 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para BYD Seagull 38kWh.
 				Velocidad máxima
 			</td>
 			<td>
-				130 kph (81 mph)
+				130 kph
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				3780 mm (148,8")
+				3780 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1540 mm (60,6")
+				1540 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1715 mm (67,5")
+				1715 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2500 mm (98,4")
+				2500 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				9,9 metros (389,8")
+				9,9 metros
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1240 kg (2734 lbs)
+				1240 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				1550 kg (3417 lbs)
+				1550 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				310 kg (683 lbs)
+				310 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				300 litro (11 pies cúbicos)
+				300 litro
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				900 litro (32 pies cúbicos)
+				900 litro
 			</td>
 		</tr>
 	</tbody>
@@ -404,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +412,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

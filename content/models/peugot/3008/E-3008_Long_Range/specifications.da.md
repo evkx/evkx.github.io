@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Peugot E-3008 Long
 				Popeffekt
 			</td>
 			<td>
-				157 KW (213 hk /211 hk)
+				157 KW (213 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Peugot E-3008 Long
 				Elektrisk momentudgang
 			</td>
 			<td>
-				345 nm (255 lb-ft)
+				345 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Peugot E-3008 Long
 				Tophastighed
 			</td>
 			<td>
-				170 km/t (106 mph)
+				170 km/t
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4542 mm (178,8")
+				4542 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1641 mm (64,6")
+				1641 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1895 mm (74,6")
+				1895 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2108 mm (83,0")
+				2108 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2739 mm (107,8")
+				2739 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1630 mm (64,2")
+				1630 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1636 mm (64,4")
+				1636 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,6 meter (417,3")
+				10,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2108 kg (4647 lbs)
+				2108 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2640 kg (5820 lbs)
+				2640 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				532 kg (1173 lbs)
+				532 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				520 liter (18 cu-ft)
+				520 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1480 liter (52 cu-ft)
+				1480 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1250 kg (2756 lbs)
+				1250 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +468,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				198 mm (7,8")
+				198 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				198 mm (7,8")
+				198 mm
 			</td>
 		</tr>
 		<tr>

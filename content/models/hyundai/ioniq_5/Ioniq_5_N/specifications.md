@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				Peak power with  boost
 			</td>
 			<td>
-				478 Kw
+				478 KW (609 hp /601 bhp)
 			</td>
 		</tr>
 		<tr>

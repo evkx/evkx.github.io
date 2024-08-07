@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Popeffekt
 			</td>
 			<td>
-				448 KW (609 hk /601 hk)
+				448 KW (609 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Popkraft med boost
 			</td>
 			<td>
-				478 Kw
+				478 KW (609 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Elektrisk momentudgang
 			</td>
 			<td>
-				714 nm (527 lb-ft)
+				714 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Tophastighed
 			</td>
 			<td>
-				260 km/t (162 mph)
+				260 km/t
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1585 mm (62,4")
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1940 mm (76,4")
+				1940 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3000 mm (118,1")
+				3000 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1628 mm (64,1")
+				1628 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1637 mm (64,4")
+				1637 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12 meter (472,4")
+				12 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2214 kg (4881 lbs)
+				2214 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2660 kg (5864 lbs)
+				2660 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				446 kg (983 lbs)
+				446 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				527 liter (19 cu-ft)
+				527 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1578 liter (56 cu-ft)
+				1578 liter
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				24 liter (1 cu-ft)
+				24 liter
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1600 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -492,7 +492,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				158 mm (6,2")
+				158 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +500,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				158 mm (6,2")
+				158 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Jeep Avenger. Klik
 				Popeffekt
 			</td>
 			<td>
-				115 KW (156 hk /154 hk)
+				115 KW (156 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Jeep Avenger. Klik
 				Elektrisk momentudgang
 			</td>
 			<td>
-				260 nm (192 lb-ft)
+				260 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Jeep Avenger. Klik
 				Tophastighed
 			</td>
 			<td>
-				150 km/t (93 mph)
+				150 km/t
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4084 mm (160,8")
+				4084 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1528 mm (60,2")
+				1528 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1776 mm (69,9")
+				1776 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2562 mm (100,9")
+				2562 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,5 meter (413,4")
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1520 kg (3351 lbs)
+				1520 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2025 kg (4464 lbs)
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				505 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				355 liter (13 cu-ft)
+				355 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1050 liter (37 cu-ft)
+				1050 liter
 			</td>
 		</tr>
 	</tbody>
@@ -452,7 +452,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +460,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Maserati GranCabri
 				Potencia máxima
 			</td>
 			<td>
-				410 KW (557 hp /550 bhp)
+				410 KW (557 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Maserati GranCabri
 				Salida de par eléctrico
 			</td>
 			<td>
-				820 nm (605 pies-libra)
+				820 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Maserati GranCabri
 				Velocidad máxima
 			</td>
 			<td>
-				220 kph (137 mph)
+				220 kph
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4966 mm (195,5")
+				4966 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1651 mm (65,0")
+				1651 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1957 mm (77,0")
+				1957 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2113 mm (83,2")
+				2113 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2929 mm (115,3")
+				2929 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1611 mm (63,4")
+				1611 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1689 mm (66,5")
+				1689 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,4 metros (488,2")
+				12,4 metros
 			</td>
 		</tr>
 	</tbody>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2340 kg (5159 lbs)
+				2340 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				410 kg (904 lbs)
+				410 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				151 litro (5 pies cúbicos)
+				151 litro
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				205 mm (8,1")
+				205 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				145 mm (5,7")
+				145 mm
 			</td>
 		</tr>
 		<tr>

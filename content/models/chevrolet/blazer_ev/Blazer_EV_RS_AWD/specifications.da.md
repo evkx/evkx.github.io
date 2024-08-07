@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer E
 				Popeffekt
 			</td>
 			<td>
-				214 KW (291 hk /287 hk)
+				214 KW (291 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer E
 				Elektrisk momentudgang
 			</td>
 			<td>
-				451 nm (333 lb-ft)
+				451 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer E
 				Tophastighed
 			</td>
 			<td>
-				210 km/t (131 mph)
+				210 km/t
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5067 mm (199,5")
+				5067 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1725 mm (67,9")
+				1725 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1963 mm (77,3")
+				1963 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3094 mm (121,8")
+				3094 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12,1 meter (476,4")
+				12,1 meter
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2626 kg (5789 lbs)
+				2626 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				863 liter (30 cu-ft)
+				863 liter
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1676 liter (59 cu-ft)
+				1676 liter
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1588 kg (3501 lbs)
+				1588 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -404,7 +404,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +412,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>

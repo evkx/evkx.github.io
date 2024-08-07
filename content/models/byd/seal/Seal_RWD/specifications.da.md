@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Seal RWD. Klik
 				Popeffekt
 			</td>
 			<td>
-				230 KW (313 hk /308 hk)
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Seal RWD. Klik
 				Elektrisk momentudgang
 			</td>
 			<td>
-				360 nm (266 lb-ft)
+				360 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Seal RWD. Klik
 				Tophastighed
 			</td>
 			<td>
-				180 km/t (112 mph)
+				180 km/t
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4800 mm (189,0")
+				4800 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1460 mm (57,5")
+				1460 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1875 mm (73,8")
+				1875 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2920 mm (115,0")
+				2920 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1640 mm (64,6")
+				1640 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1640 mm (64,6")
+				1640 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,4 meter (448,8")
+				11,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2155 kg (4751 lbs)
+				2155 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2501 kg (5514 lbs)
+				2501 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				346 kg (763 lbs)
+				346 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				402 liter (14 cu-ft)
+				402 liter
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				53 liter (2 cu-ft)
+				53 liter
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +468,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

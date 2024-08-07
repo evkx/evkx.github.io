@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G9 RWD Stand
 				Popeffekt
 			</td>
 			<td>
-				230 KW (313 hk /308 hk)
+				230 KW (313 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G9 RWD Stand
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 lb-ft)
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G9 RWD Stand
 				Tophastighed
 			</td>
 			<td>
-				200 km/t (124 mph)
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4891 mm (192,6")
+				4891 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1670 mm (65,7")
+				1670 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1937 mm (76,3")
+				1937 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2998 mm (118,0")
+				2998 mm
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2255 kg (4971 lbs)
+				2255 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2680 kg (5908 lbs)
+				2680 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				425 kg (937 lbs)
+				425 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				660 liter (23 cu-ft)
+				660 liter
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1576 liter (56 cu-ft)
+				1576 liter
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				71 liter (3 cu-ft)
+				71 liter
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				195 mm (7,7")
+				195 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				95 mm (3,7")
+				95 mm
 			</td>
 		</tr>
 		<tr>

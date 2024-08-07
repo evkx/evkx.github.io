@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET9. 
 				Puissance de pointe
 			</td>
 			<td>
-				520 KW (707 ch /697 bhp)
+				520 KW (707 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET9. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				900 nm (664 lb-ft)
+				900 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET9. 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5325 mm (209,6")
+				5325 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1620 mm (63,8")
+				1620 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				2016 mm (79,4")
+				2016 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3250 mm (128,0")
+				3250 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,9 mètre (429,1")
+				10,9 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2379 kg (5245 lbs)
+				2379 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				521 kg (1149 lbs)
+				521 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				363 litre (13 pieds cubes)
+				363 litre
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

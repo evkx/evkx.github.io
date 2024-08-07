@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Puissance de pointe
 			</td>
 			<td>
-				212 KW (288 ch /284 bhp)
+				212 KW (288 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Couple de sortie électrique
 			</td>
 			<td>
-				665 nm (491 lb-ft)
+				665 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4674 mm (184,0")
+				4674 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1618 mm (63,7")
+				1618 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1919 mm (75,6")
+				1919 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2097 mm (82,6")
+				2097 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2805 mm (110,4")
+				2805 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,5 mètre (452,8")
+				11,5 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1920 kg (4233 lbs)
+				1920 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2373 kg (5232 lbs)
+				2373 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				453 kg (999 lbs)
+				453 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				359 litre (13 pieds cubes)
+				359 litre
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1396 litre (49 pieds cubes)
+				1396 litre
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				150 litre (5 pieds cubes)
+				150 litre
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

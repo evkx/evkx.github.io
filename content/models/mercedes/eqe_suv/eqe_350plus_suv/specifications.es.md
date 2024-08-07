@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQE 35
 				Potencia máxima
 			</td>
 			<td>
-				215 KW (292 hp /288 bhp)
+				215 KW (292 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQE 35
 				Salida de par eléctrico
 			</td>
 			<td>
-				565 nm (417 pies-libra)
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQE 35
 				Velocidad máxima
 			</td>
 			<td>
-				210 kph (131 mph)
+				210 kph
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4863 mm (191,5")
+				4863 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1685 mm (66,3")
+				1685 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1931 mm (76,0")
+				1931 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2141 mm (84,3")
+				2141 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				3030 mm (119,3")
+				3030 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1654 mm (65,1")
+				1654 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1659 mm (65,3")
+				1659 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,3 metros (484,3")
+				12,3 metros
 			</td>
 		</tr>
 	</tbody>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2560 kg (5644 lbs)
+				2560 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3095 kg (6823 lbs)
+				3095 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				535 kg (1179 lbs)
+				535 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				520 litro (18 pies cúbicos)
+				520 litro
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1675 litro (59 pies cúbicos)
+				1675 litro
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1800 kg (3968 lbs)
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -500,7 +500,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				204 mm (8,0")
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				154 mm (6,1")
+				154 mm
 			</td>
 		</tr>
 		<tr>

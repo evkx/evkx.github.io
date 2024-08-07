@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac OPTIQ AWD
 				Potencia máxima
 			</td>
 			<td>
-				224 KW (305 hp /300 bhp)
+				224 KW (305 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac OPTIQ AWD
 				Salida de par eléctrico
 			</td>
 			<td>
-				480 nm (354 pies-libra)
+				480 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac OPTIQ AWD
 				Velocidad máxima
 			</td>
 			<td>
-				210 kph (131 mph)
+				210 kph
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4820 mm (189,8")
+				4820 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1644 mm (64,7")
+				1644 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2126 mm (83,7")
+				2126 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2954 mm (116,3")
+				2954 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,25 metros (442,9")
+				11,25 metros
 			</td>
 		</tr>
 	</tbody>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2355 kg (5192 lbs)
+				2355 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				545 kg (1202 lbs)
+				545 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				793 litro (28 pies cúbicos)
+				793 litro
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1723 litro (61 pies cúbicos)
+				1723 litro
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1588 kg (3501 lbs)
+				1588 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				178 mm (7,0")
+				178 mm
 			</td>
 		</tr>
 		<tr>

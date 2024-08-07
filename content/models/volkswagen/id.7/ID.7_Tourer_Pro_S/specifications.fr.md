@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Puissance de pointe
 			</td>
 			<td>
-				210 KW (286 ch /282 bhp)
+				210 KW (286 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Couple de sortie électrique
 			</td>
 			<td>
-				550 nm (406 lb-ft)
+				550 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h (112 mph)
+				180 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4961 mm (195,3")
+				4961 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1532 mm (60,3")
+				1532 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1862 mm (73,3")
+				1862 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2118 mm (83,4")
+				2118 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2966 mm (116,8")
+				2966 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1588 mm (62,5")
+				1588 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1567 mm (61,7")
+				1567 mm
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,9 mètre (429,1")
+				10,9 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2197 kg (4844 lbs)
+				2197 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2630 kg (5798 lbs)
+				2630 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				433 kg (955 lbs)
+				433 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				605 litre (21 pieds cubes)
+				605 litre
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1714 litre (61 pieds cubes)
+				1714 litre
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1000 kg (2205 lbs)
+				1000 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -508,7 +508,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				149 mm (5,9")
+				149 mm
 			</td>
 		</tr>
 		<tr>
@@ -516,7 +516,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				149 mm (5,9")
+				149 mm
 			</td>
 		</tr>
 		<tr>

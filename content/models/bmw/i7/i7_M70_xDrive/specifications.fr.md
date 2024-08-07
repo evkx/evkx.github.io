@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M7
 				Puissance de pointe
 			</td>
 			<td>
-				485 KW (659 ch /650 bhp)
+				485 KW (659 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M7
 				Couple de sortie électrique
 			</td>
 			<td>
-				1015 nm (749 lb-ft)
+				1015 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M7
 				Vitesse maximale
 			</td>
 			<td>
-				250 km/h (155 mph)
+				250 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5391 mm (212,2")
+				5391 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1544 mm (60,8")
+				1544 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1950 mm (76,8")
+				1950 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3215 mm (126,6")
+				3215 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1714 mm (67,5")
+				1714 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1735 mm (68,3")
+				1735 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				13,1 mètre (515,7")
+				13,1 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2640 kg (5820 lbs)
+				2640 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				3250 kg (7165 lbs)
+				3250 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				610 kg (1345 lbs)
+				610 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				500 litre (18 pieds cubes)
+				500 litre
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -492,7 +492,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				223 mm (8,8")
+				223 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +500,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				193 mm (7,6")
+				193 mm
 			</td>
 		</tr>
 		<tr>

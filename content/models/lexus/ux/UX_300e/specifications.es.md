@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Lexus UX 300e. Hag
 				Potencia máxima
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				150 KW (204 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Lexus UX 300e. Hag
 				Salida de par eléctrico
 			</td>
 			<td>
-				300 nm (221 pies-libra)
+				300 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Lexus UX 300e. Hag
 				Velocidad máxima
 			</td>
 			<td>
-				160 kph (99 mph)
+				160 kph
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4495 mm (177,0")
+				4495 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1545 mm (60,8")
+				1545 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1840 mm (72,4")
+				1840 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2078 mm (81,8")
+				2078 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2640 mm (103,9")
+				2640 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,4 metros (448,8")
+				11,4 metros
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1810 kg (3990 lbs)
+				1810 kg
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2245 kg (4949 lbs)
+				2245 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				435 kg (959 lbs)
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				367 litro (13 pies cúbicos)
+				367 litro
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				1451 litro (51 pies cúbicos)
+				1451 litro
 			</td>
 		</tr>
 	</tbody>
@@ -530,7 +530,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -538,7 +538,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>

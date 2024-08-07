@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQB 30
 				Potencia máxima
 			</td>
 			<td>
-				168 KW (228 hp /225 bhp)
+				168 KW (228 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQB 30
 				Salida de par eléctrico
 			</td>
 			<td>
-				390 nm (288 pies-libra)
+				390 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Mercedes-EQ EQB 30
 				Velocidad máxima
 			</td>
 			<td>
-				160 kph (99 mph)
+				160 kph
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4684 mm (184,4")
+				4684 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1701 mm (67,0")
+				1701 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1834 mm (72,2")
+				1834 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2020 mm (79,5")
+				2020 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2829 mm (111,4")
+				2829 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1585 mm (62,4")
+				1585 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1584 mm (62,4")
+				1584 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,7 metros (460,6")
+				11,7 metros
 			</td>
 		</tr>
 	</tbody>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2100 kg (4630 lbs)
+				2100 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2580 kg (5688 lbs)
+				2580 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				480 kg (1058 lbs)
+				480 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				495 litro (17 pies cúbicos)
+				495 litro
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1410 litro (50 pies cúbicos)
+				1410 litro
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +468,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +476,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>

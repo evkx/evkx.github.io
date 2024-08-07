@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 				Max effekt med boost
 			</td>
 			<td>
-				390 Kw
+				390 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S Spor
 				Max effekt med boost
 			</td>
 			<td>
-				420 Kw
+				420 KW (435 hk)
 			</td>
 		</tr>
 		<tr>

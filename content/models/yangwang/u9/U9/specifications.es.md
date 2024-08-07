@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				Potencia máxima
 			</td>
 			<td>
-				960 KW (1305 hp /1287 bhp)
+				960 KW (1305 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				Salida de par eléctrico
 			</td>
 			<td>
-				1680 nm (1240 pies-libra)
+				1680 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para YangWang U9. Haga 
 				Velocidad máxima
 			</td>
 			<td>
-				309 kph (192 mph)
+				309 kph
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4966 mm (195,5")
+				4966 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1295 mm (51,0")
+				1295 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				2029 mm (79,9")
+				2029 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1719 mm (67,7")
+				1719 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1676 mm (66,0")
+				1676 mm
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2475 kg (5456 lbs)
+				2475 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2625 kg (5787 lbs)
+				2625 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				150 kg (331 lbs)
+				150 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				200 litro (7 pies cúbicos)
+				200 litro
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>

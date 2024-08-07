@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para SKODA Elroq 60. Ha
 				Potencia máxima
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				150 KW (204 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para SKODA Elroq 60. Ha
 				Salida de par eléctrico
 			</td>
 			<td>
-				310 nm (229 pies-libra)
+				310 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para SKODA Elroq 60. Ha
 				Velocidad máxima
 			</td>
 			<td>
-				160 kph (99 mph)
+				160 kph
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4488 mm (176,7")
+				4488 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1625 mm (64,0")
+				1625 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1879 mm (74,0")
+				1879 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2148 mm (84,6")
+				2148 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2766 mm (108,9")
+				2766 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1600 mm (63,0")
+				1600 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1573 mm (61,9")
+				1573 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				9,3 metros (366,1")
+				9,3 metros
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1700 kg (3748 lbs)
+				1700 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2250 kg (4960 lbs)
+				2250 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				550 kg (1213 lbs)
+				550 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				490 litro (17 pies cúbicos)
+				490 litro
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1610 litro (57 pies cúbicos)
+				1610 litro
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1200 kg (2646 lbs)
+				1200 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -452,7 +452,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				173 mm (6,8")
+				173 mm
 			</td>
 		</tr>
 		<tr>
@@ -460,7 +460,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				173 mm (6,8")
+				173 mm
 			</td>
 		</tr>
 		<tr>

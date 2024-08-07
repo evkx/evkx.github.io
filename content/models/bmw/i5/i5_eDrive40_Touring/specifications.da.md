@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				250 KW (340 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 lb-ft)
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 eDrive40 To
 				Tophastighed
 			</td>
 			<td>
-				193 km/t (120 mph)
+				193 km/t
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5060 mm (199,2")
+				5060 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1515 mm (59,6")
+				1515 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1900 mm (74,8")
+				1900 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2995 mm (117,9")
+				2995 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1625 mm (64,0")
+				1625 mm
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,9 meter (468,5")
+				11,9 meter
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2180 kg (4806 lbs)
+				2180 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2790 kg (6151 lbs)
+				2790 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				610 kg (1345 lbs)
+				610 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				570 liter (20 cu-ft)
+				570 liter
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1700 liter (60 cu-ft)
+				1700 liter
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -512,7 +512,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +520,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +633,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +641,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +754,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ Modellen tilbyder 3 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para MG Cyberster AWD L
 				Potencia máxima
 			</td>
 			<td>
-				400 KW (544 hp /536 bhp)
+				400 KW (544 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para MG Cyberster AWD L
 				Salida de par eléctrico
 			</td>
 			<td>
-				725 nm (535 pies-libra)
+				725 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para MG Cyberster AWD L
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4535 mm (178,5")
+				4535 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1325 mm (52,2")
+				1325 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1913 mm (75,3")
+				1913 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2690 mm (105,9")
+				2690 mm
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1985 kg (4376 lbs)
+				1985 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2250 kg (4960 lbs)
+				2250 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				265 kg (584 lbs)
+				265 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				0 kg (0 lbs)
+				0 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				240 litro (8 pies cúbicos)
+				240 litro
 			</td>
 		</tr>
 	</tbody>
@@ -380,7 +380,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>

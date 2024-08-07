@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi Z 4
 				Puissance de pointe
 			</td>
 			<td>
-				494 KW (672 ch /662 bhp)
+				494 KW (672 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi Z 4
 				Couple de sortie électrique
 			</td>
 			<td>
-				820 nm (605 lb-ft)
+				820 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi Z 4
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5036 mm (198,3")
+				5036 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1439 mm (56,7")
+				1439 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				2018 mm (79,4")
+				2018 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3150 mm (124,0")
+				3150 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,4 mètre (448,8")
+				11,4 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2539 kg (5598 lbs)
+				2539 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				316 litre (11 pieds cubes)
+				316 litre
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				654 litre (23 pieds cubes)
+				654 litre
 			</td>
 		</tr>
 	</tbody>
@@ -364,7 +364,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

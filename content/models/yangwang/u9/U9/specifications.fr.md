@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Puissance de pointe
 			</td>
 			<td>
-				960 KW (1305 ch /1287 bhp)
+				960 KW (1305 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Couple de sortie électrique
 			</td>
 			<td>
-				1680 nm (1240 lb-ft)
+				1680 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Vitesse maximale
 			</td>
 			<td>
-				309 km/h (192 mph)
+				309 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4966 mm (195,5")
+				4966 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1295 mm (51,0")
+				1295 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				2029 mm (79,9")
+				2029 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1719 mm (67,7")
+				1719 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1676 mm (66,0")
+				1676 mm
 			</td>
 		</tr>
 	</tbody>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2475 kg (5456 lbs)
+				2475 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2625 kg (5787 lbs)
+				2625 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				150 kg (331 lbs)
+				150 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				200 litre (7 pieds cubes)
+				200 litre
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +396,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				120 mm (4,7")
+				120 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Gravity Drea
 				Popeffekt
 			</td>
 			<td>
-				600 KW (816 hk /805 hk)
+				600 KW (816 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Gravity Drea
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1000 nm (738 lb-ft)
+				1000 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Gravity Drea
 				Tophastighed
 			</td>
 			<td>
-				250 km/t (155 mph)
+				250 km/t
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5034 mm (198,2")
+				5034 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1656 mm (65,2")
+				1656 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1999 mm (78,7")
+				1999 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2198 mm (86,5")
+				2198 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3035 mm (119,5")
+				3035 mm
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2500 kg (5512 lbs)
+				2500 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				3280 kg (7231 lbs)
+				3280 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				780 kg (1720 lbs)
+				780 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				700 liter (25 cu-ft)
+				700 liter
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				3170 liter (112 cu-ft)
+				3170 liter
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				1200 liter (42 cu-ft)
+				1200 liter
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				226 liter (8 cu-ft)
+				226 liter
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				2700 kg (5952 lbs)
+				2700 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -445,7 +445,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -453,7 +453,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm
 			</td>
 		</tr>
 		<tr>
@@ -563,7 +563,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				220 mm (8,7")
+				220 mm
 			</td>
 		</tr>
 		<tr>
@@ -571,7 +571,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				155 mm (6,1")
+				155 mm
 			</td>
 		</tr>
 		<tr>

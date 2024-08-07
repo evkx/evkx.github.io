@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Puissance de pointe
 			</td>
 			<td>
-				489 KW (665 ch /656 bhp)
+				489 KW (665 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Couple de sortie électrique
 			</td>
 			<td>
-				1123 nm (829 lb-ft)
+				1123 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Vitesse maximale
 			</td>
 			<td>
-				201 km/h (125 mph)
+				201 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5100 mm (200,8")
+				5100 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1966 mm (77,4")
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2078 mm (81,8")
+				2078 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3076 mm (121,1")
+				3076 mm
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				113 kg (249 lbs)
+				113 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				498 litre (18 pieds cubes)
+				498 litre
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				2965 litre (105 pieds cubes)
+				2965 litre
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec les sièges de troisième rangée rabattus
 			</td>
 			<td>
-				1132 litre (40 pieds cubes)
+				1132 litre
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				314 litre (11 pieds cubes)
+				314 litre
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				3500 kg (7716 lbs)
+				3500 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -412,7 +412,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				365 mm (14,4")
+				365 mm
 			</td>
 		</tr>
 		<tr>
@@ -420,7 +420,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				205 mm (8,1")
+				205 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ET5. Klik på 
 				Popeffekt
 			</td>
 			<td>
-				480 KW (653 hk /644 hk)
+				480 KW (653 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ET5. Klik på 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				850 nm (627 lb-ft)
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ET5. Klik på 
 				Tophastighed
 			</td>
 			<td>
-				200 km/t (124 mph)
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4790 mm (188,6")
+				4790 mm
 			</td>
 		</tr>
 		<tr>
@@ -402,7 +402,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1499 mm (59,0")
+				1499 mm
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1960 mm (77,2")
+				1960 mm
 			</td>
 		</tr>
 		<tr>
@@ -418,7 +418,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2202 mm (86,7")
+				2202 mm
 			</td>
 		</tr>
 		<tr>
@@ -426,7 +426,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2888 mm (113,7")
+				2888 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +442,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12,4 meter (488,2")
+				12,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -467,7 +467,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2379 kg (5245 lbs)
+				2379 kg
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				521 kg (1149 lbs)
+				521 kg
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				363 liter (13 cu-ft)
+				363 liter
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +507,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +515,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -588,7 +588,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

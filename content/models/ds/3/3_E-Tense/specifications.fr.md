@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour DS 3 E-Te
 				Puissance de pointe
 			</td>
 			<td>
-				115 KW (156 ch /154 bhp)
+				115 KW (156 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour DS 3 E-Te
 				Couple de sortie électrique
 			</td>
 			<td>
-				260 nm (192 lb-ft)
+				260 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour DS 3 E-Te
 				Vitesse maximale
 			</td>
 			<td>
-				150 km/h (93 mph)
+				150 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4118 mm (162,1")
+				4118 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1534 mm (60,4")
+				1534 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1802 mm (70,9")
+				1802 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				1988 mm (78,3")
+				1988 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2558 mm (100,7")
+				2558 mm
 			</td>
 		</tr>
 	</tbody>
@@ -339,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1550 kg (3417 lbs)
+				1550 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2008 kg (4427 lbs)
+				2008 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				458 kg (1010 lbs)
+				458 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				350 litre (12 pieds cubes)
+				350 litre
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1050 litre (37 pieds cubes)
+				1050 litre
 			</td>
 		</tr>
 	</tbody>
@@ -436,7 +436,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +444,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para MG ZS EV Long Rang
 				Potencia máxima
 			</td>
 			<td>
-				115 KW (156 hp /154 bhp)
+				115 KW (156 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para MG ZS EV Long Rang
 				Salida de par eléctrico
 			</td>
 			<td>
-				280 nm (207 pies-libra)
+				280 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para MG ZS EV Long Rang
 				Velocidad máxima
 			</td>
 			<td>
-				175 kph (109 mph)
+				175 kph
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4323 mm (170,2")
+				4323 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1649 mm (64,9")
+				1649 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1809 mm (71,2")
+				1809 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2581 mm (101,6")
+				2581 mm
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1620 kg (3571 lbs)
+				1620 kg
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2070 kg (4564 lbs)
+				2070 kg
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				450 kg (992 lbs)
+				450 kg
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				448 litro (16 pies cúbicos)
+				448 litro
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1166 litro (41 pies cúbicos)
+				1166 litro
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				150 litro (5 pies cúbicos)
+				150 litro
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				500 kg (1102 lbs)
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				500 kg (1102 lbs)
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				50 kg (110 lbs)
+				50 kg
 			</td>
 		</tr>
 	</tbody>
@@ -428,7 +428,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				161 mm (6,3")
+				161 mm
 			</td>
 		</tr>
 		<tr>
@@ -436,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				161 mm (6,3")
+				161 mm
 			</td>
 		</tr>
 		<tr>

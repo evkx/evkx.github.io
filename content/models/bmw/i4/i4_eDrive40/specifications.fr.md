@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Puissance de pointe
 			</td>
 			<td>
-				250 KW (340 ch /335 bhp)
+				250 KW (340 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Couple de sortie électrique
 			</td>
 			<td>
-				430 nm (317 lb-ft)
+				430 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Vitesse maximale
 			</td>
 			<td>
-				190 km/h (118 mph)
+				190 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4783 mm (188,3")
+				4783 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1448 mm (57,0")
+				1448 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1852 mm (72,9")
+				1852 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2856 mm (112,4")
+				2856 mm
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1589 mm (62,6")
+				1589 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1606 mm (63,2")
+				1606 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,5 mètre (492,1")
+				12,5 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -347,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2050 kg (4519 lbs)
+				2050 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2605 kg (5743 lbs)
+				2605 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				555 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				470 litre (17 pieds cubes)
+				470 litre
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1290 litre (46 pieds cubes)
+				1290 litre
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1600 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +480,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +488,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +601,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +609,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>

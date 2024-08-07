@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET5. 
 				Puissance de pointe
 			</td>
 			<td>
-				480 KW (653 ch /644 bhp)
+				480 KW (653 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET5. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				850 nm (627 lb-ft)
+				850 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET5. 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4790 mm (188,6")
+				4790 mm
 			</td>
 		</tr>
 		<tr>
@@ -402,7 +402,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1499 mm (59,0")
+				1499 mm
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1960 mm (77,2")
+				1960 mm
 			</td>
 		</tr>
 		<tr>
@@ -418,7 +418,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2202 mm (86,7")
+				2202 mm
 			</td>
 		</tr>
 		<tr>
@@ -426,7 +426,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2888 mm (113,7")
+				2888 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +442,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,4 mètre (488,2")
+				12,4 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -467,7 +467,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2379 kg (5245 lbs)
+				2379 kg
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				521 kg (1149 lbs)
+				521 kg
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				363 litre (13 pieds cubes)
+				363 litre
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +507,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +515,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -588,7 +588,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

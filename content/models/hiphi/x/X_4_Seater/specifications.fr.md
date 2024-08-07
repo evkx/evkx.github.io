@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 				Puissance de pointe
 			</td>
 			<td>
-				433 KW (589 ch /581 bhp)
+				433 KW (589 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 				Couple de sortie électrique
 			</td>
 			<td>
-				820 nm (605 lb-ft)
+				820 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5200 mm (204,7")
+				5200 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1618 mm (63,7")
+				1618 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3150 mm (124,0")
+				3150 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,6 mètre (456,7")
+				11,6 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -275,7 +275,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2580 kg (5688 lbs)
+				2580 kg
 			</td>
 		</tr>
 		<tr>
@@ -283,7 +283,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				204 litre (7 pieds cubes)
+				204 litre
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec les sièges de troisième rangée rabattus
 			</td>
 			<td>
-				587 litre (21 pieds cubes)
+				587 litre
 			</td>
 		</tr>
 	</tbody>
@@ -356,7 +356,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

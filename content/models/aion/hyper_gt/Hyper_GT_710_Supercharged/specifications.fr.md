@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Aion Hype
 				Puissance de pointe
 			</td>
 			<td>
-				250 KW (340 ch /335 bhp)
+				250 KW (340 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Aion Hype
 				Couple de sortie électrique
 			</td>
 			<td>
-				430 nm (317 lb-ft)
+				430 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Aion Hype
 				Vitesse maximale
 			</td>
 			<td>
-				257 km/h (160 mph)
+				257 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4886 mm (192,4")
+				4886 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1449 mm (57,0")
+				1449 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1885 mm (74,2")
+				1885 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2920 mm (115,0")
+				2920 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,5 mètre (452,8")
+				11,5 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1920 kg (4233 lbs)
+				1920 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				500 litre (18 pieds cubes)
+				500 litre
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1100 litre (39 pieds cubes)
+				1100 litre
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				60 litre (2 pieds cubes)
+				60 litre
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>

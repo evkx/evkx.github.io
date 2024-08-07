@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for CUPRA BORN 58 e-BOO
 				Maks effekt med boost
 			</td>
 			<td>
-				170 Kw
+				170 KW (204 hk)
 			</td>
 		</tr>
 		<tr>

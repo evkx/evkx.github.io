@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Puissance de pointe
 			</td>
 			<td>
-				285 KW (387 ch /382 bhp)
+				285 KW (387 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm (631 lb-ft)
+				855 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Vitesse maximale
 			</td>
 			<td>
-				210 km/h (131 mph)
+				210 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -352,7 +352,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4771 mm (187,8")
+				4771 mm
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1685 mm (66,3")
+				1685 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1939 mm (76,3")
+				1939 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2193 mm (86,3")
+				2193 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2899 mm (114,1")
+				2899 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,1 mètre (476,4")
+				12,1 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -433,7 +433,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2325 kg (5126 lbs)
+				2325 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2965 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				640 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				526 litre (19 pieds cubes)
+				526 litre
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1529 litre (54 pieds cubes)
+				1529 litre
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				64 litre (2 pieds cubes)
+				64 litre
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2400 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -574,7 +574,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>
@@ -582,7 +582,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				164 mm (6,5")
+				164 mm
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				164 mm (6,5")
+				164 mm
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +816,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +824,7 @@ Le modèle propose 3 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				185 mm (7,3")
+				185 mm
 			</td>
 		</tr>
 		<tr>

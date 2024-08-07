@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 eDrive40 To
 				Potencia máxima
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				250 KW (340 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 eDrive40 To
 				Salida de par eléctrico
 			</td>
 			<td>
-				430 nm (317 pies-libra)
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 eDrive40 To
 				Velocidad máxima
 			</td>
 			<td>
-				193 kph (120 mph)
+				193 kph
 			</td>
 		</tr>
 		<tr>
@@ -290,7 +290,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				5060 mm (199,2")
+				5060 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1515 mm (59,6")
+				1515 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1900 mm (74,8")
+				1900 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2995 mm (117,9")
+				2995 mm
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1625 mm (64,0")
+				1625 mm
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,9 metros (468,5")
+				11,9 metros
 			</td>
 		</tr>
 	</tbody>
@@ -379,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2180 kg (4806 lbs)
+				2180 kg
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2790 kg (6151 lbs)
+				2790 kg
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				610 kg (1345 lbs)
+				610 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				570 litro (20 pies cúbicos)
+				570 litro
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1700 litro (60 pies cúbicos)
+				1700 litro
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 	</tbody>
@@ -512,7 +512,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +520,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				144 mm (5,7")
+				144 mm
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +633,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +641,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>
@@ -754,7 +754,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +762,7 @@ El modelo ofrece 3 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>

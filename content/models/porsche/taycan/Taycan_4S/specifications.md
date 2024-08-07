@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. C
 				Peak power with  boost
 			</td>
 			<td>
-				390 Kw
+				390 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S. C
 				Peak power with  boost
 			</td>
 			<td>
-				420 Kw
+				420 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>

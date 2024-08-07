@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Nio ET5. Haga clic
 				Potencia máxima
 			</td>
 			<td>
-				480 KW (653 hp /644 bhp)
+				480 KW (653 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Nio ET5. Haga clic
 				Salida de par eléctrico
 			</td>
 			<td>
-				850 nm (627 pies-libra)
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Nio ET5. Haga clic
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4790 mm (188,6")
+				4790 mm
 			</td>
 		</tr>
 		<tr>
@@ -402,7 +402,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1499 mm (59,0")
+				1499 mm
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1960 mm (77,2")
+				1960 mm
 			</td>
 		</tr>
 		<tr>
@@ -418,7 +418,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2202 mm (86,7")
+				2202 mm
 			</td>
 		</tr>
 		<tr>
@@ -426,7 +426,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2888 mm (113,7")
+				2888 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +442,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,4 metros (488,2")
+				12,4 metros
 			</td>
 		</tr>
 	</tbody>
@@ -467,7 +467,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2379 kg (5245 lbs)
+				2379 kg
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2900 kg (6393 lbs)
+				2900 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				521 kg (1149 lbs)
+				521 kg
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				363 litro (13 pies cúbicos)
+				363 litro
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +507,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +515,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -588,7 +588,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -596,7 +596,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

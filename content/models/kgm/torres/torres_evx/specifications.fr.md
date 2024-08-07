@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torre
 				Puissance de pointe
 			</td>
 			<td>
-				152,2 KW (207 ch /204 bhp)
+				152,2 KW (207 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torre
 				Couple de sortie électrique
 			</td>
 			<td>
-				339 nm (250 lb-ft)
+				339 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torre
 				Vitesse maximale
 			</td>
 			<td>
-				175 km/h (109 mph)
+				175 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -304,7 +304,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -312,7 +312,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1725 mm (67,9")
+				1725 mm
 			</td>
 		</tr>
 		<tr>
@@ -320,7 +320,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				1890 mm (74,4")
+				1890 mm
 			</td>
 		</tr>
 		<tr>
@@ -328,7 +328,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2680 mm (105,5")
+				2680 mm
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +336,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,8 mètre (425,2")
+				10,8 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -361,7 +361,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1915 kg (4222 lbs)
+				1915 kg
 			</td>
 		</tr>
 		<tr>
@@ -369,7 +369,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2410 kg (5313 lbs)
+				2410 kg
 			</td>
 		</tr>
 		<tr>
@@ -377,7 +377,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				495 kg (1091 lbs)
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -385,7 +385,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -393,7 +393,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				703 litre (25 pieds cubes)
+				703 litre
 			</td>
 		</tr>
 		<tr>
@@ -401,7 +401,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1662 litre (59 pieds cubes)
+				1662 litre
 			</td>
 		</tr>
 		<tr>
@@ -409,7 +409,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -417,7 +417,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				500 kg (1102 lbs)
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -425,7 +425,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				85 kg (187 lbs)
+				85 kg
 			</td>
 		</tr>
 	</tbody>
@@ -490,7 +490,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt med boost
 			</td>
 			<td>
-				320 Kw
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan. Klicka
 				Max effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>

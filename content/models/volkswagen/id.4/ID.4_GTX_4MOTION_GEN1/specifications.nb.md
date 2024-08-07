@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Volkswagen ID.4 GTX
 				Maks effekt med boost
 			</td>
 			<td>
-				220 Kw
+				220 KW (265 hk)
 			</td>
 		</tr>
 		<tr>

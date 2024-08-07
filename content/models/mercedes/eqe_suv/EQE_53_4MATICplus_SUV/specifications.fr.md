@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Puissance de pointe
 			</td>
 			<td>
-				460 KW (625 ch /617 bhp)
+				460 KW (625 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Couple de sortie électrique
 			</td>
 			<td>
-				950 nm (701 lb-ft)
+				950 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Vitesse maximale
 			</td>
 			<td>
-				220 km/h (137 mph)
+				220 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Puissance de pointe
 			</td>
 			<td>
-				505 KW (687 ch /677 bhp)
+				505 KW (687 ch)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Couple de sortie électrique
 			</td>
 			<td>
-				1000 nm (738 lb-ft)
+				1000 nm 
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Vitesse maximale
 			</td>
 			<td>
-				240 km/h (149 mph)
+				240 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4879 mm (192,1")
+				4879 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1672 mm (65,8")
+				1672 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1931 mm (76,0")
+				1931 mm
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2103 mm (82,8")
+				2103 mm
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3030 mm (119,3")
+				3030 mm
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1654 mm (65,1")
+				1654 mm
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1659 mm (65,3")
+				1659 mm
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,9 mètre (429,1")
+				10,9 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -419,7 +419,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2690 kg (5930 lbs)
+				2690 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				3195 kg (7044 lbs)
+				3195 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				505 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				520 litre (18 pieds cubes)
+				520 litre
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1675 litre (59 pieds cubes)
+				1675 litre
 			</td>
 		</tr>
 		<tr>
@@ -467,7 +467,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1800 kg (3968 lbs)
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -548,7 +548,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				204 mm (8,0")
+				204 mm
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				154 mm (6,1")
+				154 mm
 			</td>
 		</tr>
 		<tr>

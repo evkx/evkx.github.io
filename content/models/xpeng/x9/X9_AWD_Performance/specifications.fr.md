@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 
 				Puissance de pointe
 			</td>
 			<td>
-				370 KW (503 ch /496 bhp)
+				370 KW (503 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 
 				Couple de sortie électrique
 			</td>
 			<td>
-				640 nm (472 lb-ft)
+				640 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				5293 mm (208,4")
+				5293 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1785 mm (70,3")
+				1785 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1785 mm (70,3")
+				1785 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				3160 mm (124,4")
+				3160 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				10,8 mètre (425,2")
+				10,8 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				755 litre (27 pieds cubes)
+				755 litre
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec les sièges de troisième rangée rabattus
 			</td>
 			<td>
-				2554 litre (90 pieds cubes)
+				2554 litre
 			</td>
 		</tr>
 	</tbody>
@@ -364,7 +364,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				220 mm (8,7")
+				220 mm
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>

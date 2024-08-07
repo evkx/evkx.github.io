@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik 
 				Popeffekt
 			</td>
 			<td>
-				150 KW (204 hk /201 hk)
+				150 KW (204 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				310 nm (229 lb-ft)
+				310 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Honda e:Ny1. Klik 
 				Tophastighed
 			</td>
 			<td>
-				160 km/t (99 mph)
+				160 km/t
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4390 mm (172,8")
+				4390 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1790 mm (70,5")
+				1790 mm
 			</td>
 		</tr>
 	</tbody>
@@ -251,7 +251,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1677 kg (3697 lbs)
+				1677 kg
 			</td>
 		</tr>
 		<tr>
@@ -259,7 +259,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2080 kg (4586 lbs)
+				2080 kg
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				403 kg (888 lbs)
+				403 kg
 			</td>
 		</tr>
 		<tr>
@@ -275,7 +275,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				346 liter (12 cu-ft)
+				346 liter
 			</td>
 		</tr>
 	</tbody>
@@ -340,7 +340,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>

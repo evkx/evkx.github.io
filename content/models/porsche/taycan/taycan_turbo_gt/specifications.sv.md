@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo G
 				Max effekt med boost
 			</td>
 			<td>
-				815 Kw
+				815 KW (1108 hk)
 			</td>
 		</tr>
 		<tr>

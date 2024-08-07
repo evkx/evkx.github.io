@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron 55. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (360 hk)
 			</td>
 		</tr>
 		<tr>

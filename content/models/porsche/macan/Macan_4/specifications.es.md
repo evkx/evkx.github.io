@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 				Potencia máxima
 			</td>
 			<td>
-				285 KW (387 hp /382 bhp)
+				285 KW (387 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 Kw
+				300 KW (387 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 				Salida de par eléctrico
 			</td>
 			<td>
-				650 nm (480 pies-libra)
+				650 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 				Velocidad máxima
 			</td>
 			<td>
-				220 kph (137 mph)
+				220 kph
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,1 metros (437,0")
+				11,1 metros
 			</td>
 		</tr>
 	</tbody>
@@ -441,7 +441,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2255 kg (4971 lbs)
+				2255 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2920 kg (6437 lbs)
+				2920 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				665 kg (1466 lbs)
+				665 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				540 litro (19 pies cúbicos)
+				540 litro
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1348 litro (48 pies cúbicos)
+				1348 litro
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				84 litro
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -574,7 +574,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>
@@ -582,7 +582,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				185 mm (7,3")
+				185 mm
 			</td>
 		</tr>
 		<tr>

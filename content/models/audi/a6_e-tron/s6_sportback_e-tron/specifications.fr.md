@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 				Puissance de pointe
 			</td>
 			<td>
-				370 KW (503 ch /496 bhp)
+				370 KW (503 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 				Puissance maximale avec boost
 			</td>
 			<td>
-				405 Kw
+				405 KW (503 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm (631 lb-ft)
+				855 nm 
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 				Vitesse maximale
 			</td>
 			<td>
-				240 km/h (149 mph)
+				240 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4928 mm (194,0")
+				4928 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1487 mm (58,5")
+				1487 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1923 mm (75,7")
+				1923 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2193 mm (86,3")
+				2193 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2946 mm (116,0")
+				2946 mm
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,3 mètre (484,3")
+				12,3 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -473,7 +473,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2325 kg (5126 lbs)
+				2325 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2965 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				640 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				514 litre (18 pieds cubes)
+				514 litre
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1517 litre (54 pieds cubes)
+				1517 litre
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				27 litre (1 pieds cubes)
+				27 litre
 			</td>
 		</tr>
 		<tr>
@@ -529,7 +529,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2100 kg (4630 lbs)
+				2100 kg
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +537,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -610,7 +610,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				145 mm (5,7")
+				145 mm
 			</td>
 		</tr>
 		<tr>
@@ -618,7 +618,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				105 mm (4,1")
+				105 mm
 			</td>
 		</tr>
 		<tr>

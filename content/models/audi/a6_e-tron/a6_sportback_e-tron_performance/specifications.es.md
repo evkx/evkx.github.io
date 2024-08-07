@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Potencia máxima
 			</td>
 			<td>
-				270 KW (367 hp /362 bhp)
+				270 KW (367 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Salida de par eléctrico
 			</td>
 			<td>
-				565 nm (417 pies-libra)
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Velocidad máxima
 			</td>
 			<td>
-				210 kph (131 mph)
+				210 kph
 			</td>
 		</tr>
 		<tr>
@@ -352,7 +352,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4928 mm (194,0")
+				4928 mm
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1487 mm (58,5")
+				1487 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1923 mm (75,7")
+				1923 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2193 mm (86,3")
+				2193 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2946 mm (116,0")
+				2946 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,3 metros (484,3")
+				12,3 metros
 			</td>
 		</tr>
 	</tbody>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2175 kg (4795 lbs)
+				2175 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2750 kg (6063 lbs)
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				575 kg (1268 lbs)
+				575 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				514 litro (18 pies cúbicos)
+				514 litro
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1517 litro (54 pies cúbicos)
+				1517 litro
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				27 litro (1 pies cúbicos)
+				27 litro
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2400 kg (5291 lbs)
+				2400 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -590,7 +590,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				143 mm (5,6")
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				143 mm (5,6")
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				145 mm (5,7")
+				145 mm
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				105 mm (4,1")
+				105 mm
 			</td>
 		</tr>
 		<tr>

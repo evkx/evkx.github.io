@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Puissance de pointe
 			</td>
 			<td>
-				265 KW (360 ch /355 bhp)
+				265 KW (360 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Puissance maximale avec boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (360 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Couple de sortie électrique
 			</td>
 			<td>
-				561 nm (414 lb-ft)
+				561 nm 
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h (124 mph)
+				200 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4901 mm (193,0")
+				4901 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1629 mm (64,1")
+				1629 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1935 mm (76,2")
+				1935 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2189 mm (86,2")
+				2189 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2927 mm (115,2")
+				2927 mm
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1655 mm (65,2")
+				1655 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1655 mm (65,2")
+				1655 mm
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2520 kg (5556 lbs)
+				2520 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				3170 kg (6989 lbs)
+				3170 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				650 kg (1433 lbs)
+				650 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				660 litre (23 pieds cubes)
+				660 litre
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1725 litre (61 pieds cubes)
+				1725 litre
 			</td>
 		</tr>
 		<tr>
@@ -529,7 +529,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				1800 kg (3968 lbs)
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +537,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -614,7 +614,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				248 mm (9,8")
+				248 mm
 			</td>
 		</tr>
 		<tr>
@@ -622,7 +622,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				152 mm (6,0")
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -735,7 +735,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				248 mm (9,8")
+				248 mm
 			</td>
 		</tr>
 		<tr>
@@ -743,7 +743,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				152 mm (6,0")
+				152 mm
 			</td>
 		</tr>
 		<tr>

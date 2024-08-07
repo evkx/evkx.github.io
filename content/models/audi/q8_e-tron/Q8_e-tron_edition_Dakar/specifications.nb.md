@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q8 e-tron edit
 				Maks effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (360 hk)
 			</td>
 		</tr>
 		<tr>

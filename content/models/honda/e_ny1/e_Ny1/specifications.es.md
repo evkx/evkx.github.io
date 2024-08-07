@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Honda e:Ny1. Haga 
 				Potencia máxima
 			</td>
 			<td>
-				150 KW (204 hp /201 bhp)
+				150 KW (204 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Honda e:Ny1. Haga 
 				Salida de par eléctrico
 			</td>
 			<td>
-				310 nm (229 pies-libra)
+				310 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Honda e:Ny1. Haga 
 				Velocidad máxima
 			</td>
 			<td>
-				160 kph (99 mph)
+				160 kph
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4390 mm (172,8")
+				4390 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1790 mm (70,5")
+				1790 mm
 			</td>
 		</tr>
 	</tbody>
@@ -251,7 +251,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1677 kg (3697 lbs)
+				1677 kg
 			</td>
 		</tr>
 		<tr>
@@ -259,7 +259,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2080 kg (4586 lbs)
+				2080 kg
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +267,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				403 kg (888 lbs)
+				403 kg
 			</td>
 		</tr>
 		<tr>
@@ -275,7 +275,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				346 litro (12 pies cúbicos)
+				346 litro
 			</td>
 		</tr>
 	</tbody>
@@ -340,7 +340,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>
@@ -348,7 +348,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				140 mm (5,5")
+				140 mm
 			</td>
 		</tr>
 		<tr>

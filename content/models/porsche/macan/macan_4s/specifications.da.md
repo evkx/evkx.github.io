@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4S. 
 				Popeffekt
 			</td>
 			<td>
-				330 KW (449 hk /443 hk)
+				330 KW (449 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4S. 
 				Popkraft med boost
 			</td>
 			<td>
-				380 Kw
+				380 KW (449 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4S. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				820 nm (605 lb-ft)
+				820 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4S. 
 				Tophastighed
 			</td>
 			<td>
-				240 km/t (149 mph)
+				240 km/t
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,1 meter (437,0")
+				11,1 meter
 			</td>
 		</tr>
 	</tbody>
@@ -449,7 +449,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2330 kg (5137 lbs)
+				2330 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2950 kg (6504 lbs)
+				2950 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				620 kg (1367 lbs)
+				620 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				480 liter (17 cu-ft)
+				480 liter
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1288 liter (45 cu-ft)
+				1288 liter
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				84 liter (3 cu-ft)
+				84 liter
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -578,7 +578,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm
 			</td>
 		</tr>
 		<tr>
@@ -586,7 +586,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>

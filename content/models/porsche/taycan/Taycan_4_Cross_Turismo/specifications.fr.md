@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				280 KW (381 ch /375 bhp)
+				280 KW (381 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				350 Kw
+				350 KW (381 ch)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				220 km/h (137 mph)
+				220 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4974 mm (195,8")
+				4974 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1409 mm (55,5")
+				1409 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1964 mm (77,3")
+				1964 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2904 mm (114,3")
+				2904 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,7 mètre (460,6")
+				11,7 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -473,7 +473,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2245 kg (4949 lbs)
+				2245 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2885 kg (6360 lbs)
+				2885 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				640 kg (1411 lbs)
+				640 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				446 litre (16 pieds cubes)
+				446 litre
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1171 litre (41 pieds cubes)
+				1171 litre
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				84 litre (3 pieds cubes)
+				84 litre
 			</td>
 		</tr>
 	</tbody>
@@ -590,7 +590,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				176 mm (6,9")
+				176 mm
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				126 mm (5,0")
+				126 mm
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				186 mm (7,3")
+				186 mm
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>

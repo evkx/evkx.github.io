@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron GT. Kli
 				Maks effekt med boost
 			</td>
 			<td>
-				390 Kw
+				390 KW (476 hk)
 			</td>
 		</tr>
 		<tr>

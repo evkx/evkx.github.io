@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan GTS. Kl
 				Max effekt med boost
 			</td>
 			<td>
-				440 Kw
+				440 KW (435 hk)
 			</td>
 		</tr>
 		<tr>

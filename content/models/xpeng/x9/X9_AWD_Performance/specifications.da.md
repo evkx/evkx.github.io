@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG X9 AWD Perfo
 				Popeffekt
 			</td>
 			<td>
-				370 KW (503 hk /496 hk)
+				370 KW (503 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG X9 AWD Perfo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				640 nm (472 lb-ft)
+				640 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG X9 AWD Perfo
 				Tophastighed
 			</td>
 			<td>
-				200 km/t (124 mph)
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5293 mm (208,4")
+				5293 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1785 mm (70,3")
+				1785 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1785 mm (70,3")
+				1785 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3160 mm (124,4")
+				3160 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,8 meter (425,2")
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -291,7 +291,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				755 liter (27 cu-ft)
+				755 liter
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				2554 liter (90 cu-ft)
+				2554 liter
 			</td>
 		</tr>
 	</tbody>
@@ -364,7 +364,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				220 mm (8,7")
+				220 mm
 			</td>
 		</tr>
 		<tr>
@@ -372,7 +372,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>

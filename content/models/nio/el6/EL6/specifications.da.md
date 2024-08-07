@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio EL6. Klik på 
 				Popeffekt
 			</td>
 			<td>
-				480 KW (653 hk /644 hk)
+				480 KW (653 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio EL6. Klik på 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				850 nm (627 lb-ft)
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio EL6. Klik på 
 				Tophastighed
 			</td>
 			<td>
-				200 km/t (124 mph)
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4854 mm (191,1")
+				4854 mm
 			</td>
 		</tr>
 		<tr>
@@ -402,7 +402,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1703 mm (67,0")
+				1703 mm
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1995 mm (78,5")
+				1995 mm
 			</td>
 		</tr>
 		<tr>
@@ -418,7 +418,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2271 mm (89,4")
+				2271 mm
 			</td>
 		</tr>
 		<tr>
@@ -426,7 +426,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2915 mm (114,8")
+				2915 mm
 			</td>
 		</tr>
 		<tr>
@@ -434,7 +434,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1668 mm (65,7")
+				1668 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +442,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1672 mm (65,8")
+				1672 mm
 			</td>
 		</tr>
 		<tr>
@@ -458,7 +458,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				12,4 meter (488,2")
+				12,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -483,7 +483,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2366 kg (5216 lbs)
+				2366 kg
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2850 kg (6283 lbs)
+				2850 kg
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				484 kg (1067 lbs)
+				484 kg
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +507,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +515,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				668 liter (24 cu-ft)
+				668 liter
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1430 liter (51 cu-ft)
+				1430 liter
 			</td>
 		</tr>
 		<tr>
@@ -531,7 +531,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1200 kg (2646 lbs)
+				1200 kg
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +539,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -547,7 +547,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +612,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +620,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				170 mm (6,7")
+				170 mm
 			</td>
 		</tr>
 		<tr>

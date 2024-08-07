@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Aion Hyper GT 710 
 				Potencia máxima
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				250 KW (340 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Aion Hyper GT 710 
 				Salida de par eléctrico
 			</td>
 			<td>
-				430 nm (317 pies-libra)
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Aion Hyper GT 710 
 				Velocidad máxima
 			</td>
 			<td>
-				257 kph (160 mph)
+				257 kph
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +218,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4886 mm (192,4")
+				4886 mm
 			</td>
 		</tr>
 		<tr>
@@ -226,7 +226,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1449 mm (57,0")
+				1449 mm
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1885 mm (74,2")
+				1885 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2920 mm (115,0")
+				2920 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,5 metros (452,8")
+				11,5 metros
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1920 kg (4233 lbs)
+				1920 kg
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				500 litro (18 pies cúbicos)
+				500 litro
 			</td>
 		</tr>
 		<tr>
@@ -299,7 +299,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1100 litro (39 pies cúbicos)
+				1100 litro
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +307,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				60 litro (2 pies cúbicos)
+				60 litro
 			</td>
 		</tr>
 	</tbody>
@@ -372,7 +372,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>
@@ -380,7 +380,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				130 mm (5,1")
+				130 mm
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4S. 
 				Potencia máxima
 			</td>
 			<td>
-				330 KW (449 hp /443 bhp)
+				330 KW (449 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4S. 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				380 Kw
+				380 KW (449 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4S. 
 				Salida de par eléctrico
 			</td>
 			<td>
-				820 nm (605 pies-libra)
+				820 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4S. 
 				Velocidad máxima
 			</td>
 			<td>
-				240 kph (149 mph)
+				240 kph
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,1 metros (437,0")
+				11,1 metros
 			</td>
 		</tr>
 	</tbody>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2330 kg (5137 lbs)
+				2330 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2950 kg (6504 lbs)
+				2950 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				620 kg (1367 lbs)
+				620 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				480 litro (17 pies cúbicos)
+				480 litro
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1288 litro (45 pies cúbicos)
+				1288 litro
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				84 litro
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -578,7 +578,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm
 			</td>
 		</tr>
 		<tr>
@@ -586,7 +586,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>

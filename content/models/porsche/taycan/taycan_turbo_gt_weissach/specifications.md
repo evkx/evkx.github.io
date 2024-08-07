@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Turbo
 				Peak power with  boost
 			</td>
 			<td>
-				815 Kw
+				815 KW (1108 hp /1093 bhp)
 			</td>
 		</tr>
 		<tr>

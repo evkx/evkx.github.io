@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus UX 
 				Puissance de pointe
 			</td>
 			<td>
-				150 KW (204 ch /201 bhp)
+				150 KW (204 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus UX 
 				Couple de sortie électrique
 			</td>
 			<td>
-				300 nm (221 lb-ft)
+				300 nm 
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus UX 
 				Vitesse maximale
 			</td>
 			<td>
-				160 km/h (99 mph)
+				160 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4495 mm (177,0")
+				4495 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1545 mm (60,8")
+				1545 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1840 mm (72,4")
+				1840 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2078 mm (81,8")
+				2078 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2640 mm (103,9")
+				2640 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,4 mètre (448,8")
+				11,4 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1810 kg (3990 lbs)
+				1810 kg
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2245 kg (4949 lbs)
+				2245 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				435 kg (959 lbs)
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				367 litre (13 pieds cubes)
+				367 litre
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec les sièges de troisième rangée rabattus
 			</td>
 			<td>
-				1451 litre (51 pieds cubes)
+				1451 litre
 			</td>
 		</tr>
 	</tbody>
@@ -530,7 +530,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -538,7 +538,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>

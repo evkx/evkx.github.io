@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Potencia máxima
 			</td>
 			<td>
-				520 KW (707 hp /697 bhp)
+				520 KW (707 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Potencia máxima con impulso
 			</td>
 			<td>
-				650 Kw
+				650 KW (707 hp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Velocidad máxima
 			</td>
 			<td>
-				260 kph (162 mph)
+				260 kph
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4963 mm (195,4")
+				4963 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1381 mm (54,4")
+				1381 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1966 mm (77,4")
+				1966 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,7 metros (460,6")
+				11,7 metros
 			</td>
 		</tr>
 	</tbody>
@@ -473,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2220 kg (4894 lbs)
+				2220 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2870 kg (6327 lbs)
+				2870 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				650 kg (1433 lbs)
+				650 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				405 litro (14 pies cúbicos)
+				405 litro
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1171 litro (41 pies cúbicos)
+				1171 litro
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				84 litro
 			</td>
 		</tr>
 	</tbody>
@@ -586,7 +586,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				128 mm (5,0")
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -594,7 +594,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				103 mm (4,1")
+				103 mm
 			</td>
 		</tr>
 		<tr>

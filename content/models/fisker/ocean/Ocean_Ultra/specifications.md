@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Ultra. 
 				Peak power with  boost
 			</td>
 			<td>
-				400 Kw
+				400 KW (468 hp /461 bhp)
 			</td>
 		</tr>
 		<tr>

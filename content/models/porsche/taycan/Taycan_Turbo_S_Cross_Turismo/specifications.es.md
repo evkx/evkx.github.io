@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Potencia máxima
 			</td>
 			<td>
-				570 KW (775 hp /764 bhp)
+				570 KW (775 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Potencia máxima con impulso
 			</td>
 			<td>
-				700 Kw
+				700 KW (775 hp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Velocidad máxima
 			</td>
 			<td>
-				250 kph (155 mph)
+				250 kph
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4974 mm (195,8")
+				4974 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1407 mm (55,4")
+				1407 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1967 mm (77,4")
+				1967 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2904 mm (114,3")
+				2904 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +448,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,2 metros (440,9")
+				11,2 metros
 			</td>
 		</tr>
 	</tbody>
@@ -473,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2250 kg (4960 lbs)
+				2250 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2880 kg (6349 lbs)
+				2880 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				630 kg (1389 lbs)
+				630 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				405 litro (14 pies cúbicos)
+				405 litro
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1171 litro (41 pies cúbicos)
+				1171 litro
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				84 litro
 			</td>
 		</tr>
 	</tbody>
@@ -590,7 +590,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				173 mm (6,8")
+				173 mm
 			</td>
 		</tr>
 		<tr>
@@ -598,7 +598,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				143 mm (5,6")
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -711,7 +711,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				186 mm (7,3")
+				186 mm
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +719,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				136 mm (5,4")
+				136 mm
 			</td>
 		</tr>
 		<tr>

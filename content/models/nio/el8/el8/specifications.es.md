@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Nio EL8. Haga clic
 				Potencia máxima
 			</td>
 			<td>
-				480 KW (653 hp /644 bhp)
+				480 KW (653 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Nio EL8. Haga clic
 				Salida de par eléctrico
 			</td>
 			<td>
-				850 nm (627 pies-libra)
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Nio EL8. Haga clic
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				5099 mm (200,7")
+				5099 mm
 			</td>
 		</tr>
 		<tr>
@@ -402,7 +402,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1750 mm (68,9")
+				1750 mm
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1989 mm (78,3")
+				1989 mm
 			</td>
 		</tr>
 		<tr>
@@ -418,7 +418,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2199 mm (86,6")
+				2199 mm
 			</td>
 		</tr>
 		<tr>
@@ -426,7 +426,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				3070 mm (120,9")
+				3070 mm
 			</td>
 		</tr>
 		<tr>
@@ -434,7 +434,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1668 mm (65,7")
+				1668 mm
 			</td>
 		</tr>
 		<tr>
@@ -442,7 +442,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1672 mm (65,8")
+				1672 mm
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2612 kg (5758 lbs)
+				2612 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3190 kg (7033 lbs)
+				3190 kg
 			</td>
 		</tr>
 		<tr>
@@ -491,7 +491,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				578 kg (1274 lbs)
+				578 kg
 			</td>
 		</tr>
 		<tr>
@@ -499,7 +499,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -507,7 +507,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				552 litro (19 pies cúbicos)
+				552 litro
 			</td>
 		</tr>
 		<tr>
@@ -515,7 +515,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con los asientos de la tercera fila plegados
 			</td>
 			<td>
-				810 litro (29 pies cúbicos)
+				810 litro
 			</td>
 		</tr>
 		<tr>
@@ -523,7 +523,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -531,7 +531,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +539,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -604,7 +604,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				200 mm (7,9")
+				200 mm
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				110 mm (4,3")
+				110 mm
 			</td>
 		</tr>
 		<tr>

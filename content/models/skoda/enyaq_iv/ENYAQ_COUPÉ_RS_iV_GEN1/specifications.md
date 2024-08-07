@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ COUPÉ R
 				Peak power with  boost
 			</td>
 			<td>
-				220 Kw
+				220 KW (265 hp /261 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lexus UX 300e. Kli
 				Popeffekt
 			</td>
 			<td>
-				150 KW (204 hk /201 hk)
+				150 KW (204 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lexus UX 300e. Kli
 				Elektrisk momentudgang
 			</td>
 			<td>
-				300 nm (221 lb-ft)
+				300 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lexus UX 300e. Kli
 				Tophastighed
 			</td>
 			<td>
-				160 km/t (99 mph)
+				160 km/t
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4495 mm (177,0")
+				4495 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1545 mm (60,8")
+				1545 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1840 mm (72,4")
+				1840 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2078 mm (81,8")
+				2078 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2640 mm (103,9")
+				2640 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,4 meter (448,8")
+				11,4 meter
 			</td>
 		</tr>
 	</tbody>
@@ -425,7 +425,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1810 kg (3990 lbs)
+				1810 kg
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +433,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2245 kg (4949 lbs)
+				2245 kg
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				435 kg (959 lbs)
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				80 kg (176 lbs)
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				367 liter (13 cu-ft)
+				367 liter
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med foldede sæder på tredje række
 			</td>
 			<td>
-				1451 liter (51 cu-ft)
+				1451 liter
 			</td>
 		</tr>
 	</tbody>
@@ -530,7 +530,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>
@@ -538,7 +538,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				177 mm (7,0")
+				177 mm
 			</td>
 		</tr>
 		<tr>

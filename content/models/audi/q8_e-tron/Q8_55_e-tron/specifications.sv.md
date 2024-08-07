@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q8 55 e-tron. Kli
 				Max effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (360 hk)
 			</td>
 		</tr>
 		<tr>

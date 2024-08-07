@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi S e-tron GT. 
 				Popeffekt
 			</td>
 			<td>
-				500 KW (680 hk /671 hk)
+				500 KW (680 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi S e-tron GT. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				740 nm (546 lb-ft)
+				740 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi S e-tron GT. 
 				Tophastighed
 			</td>
 			<td>
-				245 km/t (152 mph)
+				245 km/t
 			</td>
 		</tr>
 		<tr>
@@ -352,7 +352,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4989 mm (196,4")
+				4989 mm
 			</td>
 		</tr>
 		<tr>
@@ -360,7 +360,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1396 mm (55,0")
+				1396 mm
 			</td>
 		</tr>
 		<tr>
@@ -368,7 +368,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1964 mm (77,3")
+				1964 mm
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2158 mm (85,0")
+				2158 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,6 meter (456,7")
+				11,6 meter
 			</td>
 		</tr>
 	</tbody>
@@ -465,7 +465,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2340 kg (5159 lbs)
+				2340 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2860 kg (6305 lbs)
+				2860 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				520 kg (1146 lbs)
+				520 kg
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				405 liter (14 cu-ft)
+				405 liter
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				85 liter (3 cu-ft)
+				85 liter
 			</td>
 		</tr>
 	</tbody>
@@ -574,7 +574,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				165 mm (6,5")
+				165 mm
 			</td>
 		</tr>
 		<tr>
@@ -582,7 +582,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>
@@ -695,7 +695,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				165 mm (6,5")
+				165 mm
 			</td>
 		</tr>
 		<tr>
@@ -703,7 +703,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				125 mm (4,9")
+				125 mm
 			</td>
 		</tr>
 		<tr>

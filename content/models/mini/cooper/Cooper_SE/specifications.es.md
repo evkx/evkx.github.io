@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Mini Cooper SE. Ha
 				Potencia máxima
 			</td>
 			<td>
-				160 KW (218 hp /215 bhp)
+				160 KW (218 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Mini Cooper SE. Ha
 				Salida de par eléctrico
 			</td>
 			<td>
-				330 nm (244 pies-libra)
+				330 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Mini Cooper SE. Ha
 				Velocidad máxima
 			</td>
 			<td>
-				170 kph (106 mph)
+				170 kph
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				3900 mm (153,5")
+				3900 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1450 mm (57,1")
+				1450 mm
 			</td>
 		</tr>
 		<tr>
@@ -274,7 +274,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1750 mm (68,9")
+				1750 mm
 			</td>
 		</tr>
 		<tr>
@@ -282,7 +282,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2495 mm (98,2")
+				2495 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				10,7 metros (421,3")
+				10,7 metros
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1525 kg (3362 lbs)
+				1525 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				200 litro (7 pies cúbicos)
+				200 litro
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				800 litro (28 pies cúbicos)
+				800 litro
 			</td>
 		</tr>
 	</tbody>
@@ -404,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				128 mm (5,0")
+				128 mm
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +412,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				128 mm (5,0")
+				128 mm
 			</td>
 		</tr>
 		<tr>

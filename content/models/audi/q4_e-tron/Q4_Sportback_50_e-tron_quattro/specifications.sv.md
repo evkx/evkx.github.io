@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 Sportback 50 e
 				Max effekt med boost
 			</td>
 			<td>
-				220 Kw
+				220 KW (265 hk)
 			</td>
 		</tr>
 		<tr>

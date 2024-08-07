@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para KGM Torres EVX. Ha
 				Potencia máxima
 			</td>
 			<td>
-				152,2 KW (207 hp /204 bhp)
+				152,2 KW (207 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para KGM Torres EVX. Ha
 				Salida de par eléctrico
 			</td>
 			<td>
-				339 nm (250 pies-libra)
+				339 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para KGM Torres EVX. Ha
 				Velocidad máxima
 			</td>
 			<td>
-				175 kph (109 mph)
+				175 kph
 			</td>
 		</tr>
 		<tr>
@@ -304,7 +304,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -312,7 +312,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1725 mm (67,9")
+				1725 mm
 			</td>
 		</tr>
 		<tr>
@@ -320,7 +320,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				1890 mm (74,4")
+				1890 mm
 			</td>
 		</tr>
 		<tr>
@@ -328,7 +328,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2680 mm (105,5")
+				2680 mm
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +336,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				10,8 metros (425,2")
+				10,8 metros
 			</td>
 		</tr>
 	</tbody>
@@ -361,7 +361,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1915 kg (4222 lbs)
+				1915 kg
 			</td>
 		</tr>
 		<tr>
@@ -369,7 +369,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2410 kg (5313 lbs)
+				2410 kg
 			</td>
 		</tr>
 		<tr>
@@ -377,7 +377,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				495 kg (1091 lbs)
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -385,7 +385,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -393,7 +393,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				703 litro (25 pies cúbicos)
+				703 litro
 			</td>
 		</tr>
 		<tr>
@@ -401,7 +401,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1662 litro (59 pies cúbicos)
+				1662 litro
 			</td>
 		</tr>
 		<tr>
@@ -409,7 +409,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -417,7 +417,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				500 kg (1102 lbs)
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -425,7 +425,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				85 kg (187 lbs)
+				85 kg
 			</td>
 		</tr>
 	</tbody>
@@ -490,7 +490,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>

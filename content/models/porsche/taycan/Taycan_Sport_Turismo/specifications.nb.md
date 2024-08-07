@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 				Maks effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (326 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Spor
 				Maks effekt med boost
 			</td>
 			<td>
-				350 Kw
+				350 KW (381 hk)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Neta GT 580 AWD. H
 				Potencia máxima
 			</td>
 			<td>
-				340 KW (462 hp /456 bhp)
+				340 KW (462 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Neta GT 580 AWD. H
 				Salida de par eléctrico
 			</td>
 			<td>
-				620 nm (458 pies-libra)
+				620 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Neta GT 580 AWD. H
 				Velocidad máxima
 			</td>
 			<td>
-				190 kph (118 mph)
+				190 kph
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +234,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1415 mm (55,7")
+				1415 mm
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1979 mm (77,9")
+				1979 mm
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +258,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2770 mm (109,1")
+				2770 mm
 			</td>
 		</tr>
 	</tbody>
@@ -283,7 +283,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				297 litro (10 pies cúbicos)
+				297 litro
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +291,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				50 litro (2 pies cúbicos)
+				50 litro
 			</td>
 		</tr>
 	</tbody>
@@ -356,7 +356,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -364,7 +364,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				150 mm (5,9")
+				150 mm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Macan 4S. Klic
 				Max effekt med boost
 			</td>
 			<td>
-				380 Kw
+				380 KW (449 hk)
 			</td>
 		</tr>
 		<tr>

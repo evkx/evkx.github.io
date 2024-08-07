@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo S
 				Max effekt med boost
 			</td>
 			<td>
-				700 Kw
+				700 KW (843 hk)
 			</td>
 		</tr>
 		<tr>

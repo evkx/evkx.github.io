@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Popeffekt
 			</td>
 			<td>
-				484 KW (658 hk /649 hk)
+				484 KW (658 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Elektrisk momentudgang
 			</td>
 			<td>
-				858 nm (633 lb-ft)
+				858 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Tophastighed
 			</td>
 			<td>
-				220 km/t (137 mph)
+				220 km/t
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Popeffekt
 			</td>
 			<td>
-				560 KW (761 hk /751 hk)
+				560 KW (761 hk)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1020 nm (753 lb-ft)
+				1020 nm
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Tophastighed
 			</td>
 			<td>
-				250 km/t (155 mph)
+				250 km/t
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +330,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				5223 mm (205,6")
+				5223 mm
 			</td>
 		</tr>
 		<tr>
@@ -338,7 +338,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1520 mm (59,8")
+				1520 mm
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +346,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1926 mm (75,8")
+				1926 mm
 			</td>
 		</tr>
 		<tr>
@@ -354,7 +354,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2136 mm (84,1")
+				2136 mm
 			</td>
 		</tr>
 		<tr>
@@ -362,7 +362,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				3210 mm (126,4")
+				3210 mm
 			</td>
 		</tr>
 		<tr>
@@ -370,7 +370,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1660 mm (65,4")
+				1660 mm
 			</td>
 		</tr>
 		<tr>
@@ -378,7 +378,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1653 mm (65,1")
+				1653 mm
 			</td>
 		</tr>
 		<tr>
@@ -394,7 +394,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,5 meter (452,8")
+				11,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -419,7 +419,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2580 kg (5688 lbs)
+				2580 kg
 			</td>
 		</tr>
 		<tr>
@@ -427,7 +427,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				3225 kg (7110 lbs)
+				3225 kg
 			</td>
 		</tr>
 		<tr>
@@ -435,7 +435,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				645 kg (1422 lbs)
+				645 kg
 			</td>
 		</tr>
 		<tr>
@@ -443,7 +443,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 		<tr>
@@ -451,7 +451,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				610 liter (22 cu-ft)
+				610 liter
 			</td>
 		</tr>
 		<tr>
@@ -459,7 +459,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1770 liter (63 cu-ft)
+				1770 liter
 			</td>
 		</tr>
 		<tr>
@@ -467,7 +467,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -475,7 +475,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -483,7 +483,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -548,7 +548,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				127 mm (5,0")
+				127 mm
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				82 mm (3,2")
+				82 mm
 			</td>
 		</tr>
 		<tr>

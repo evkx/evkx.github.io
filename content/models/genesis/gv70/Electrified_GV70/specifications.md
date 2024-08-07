@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Genesis Electrified 
 				Peak power with  boost
 			</td>
 			<td>
-				360 Kw
+				360 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>

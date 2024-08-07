@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima
 			</td>
 			<td>
-				340 KW (462 hp /456 bhp)
+				340 KW (462 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				400 Kw
+				400 KW (462 hp)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Velocidad máxima
 			</td>
 			<td>
-				250 kph (155 mph)
+				250 kph
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima
 			</td>
 			<td>
-				380 KW (517 hp /510 bhp)
+				380 KW (517 hp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				440 Kw
+				440 KW (517 hp)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Velocidad máxima
 			</td>
 			<td>
-				250 kph (155 mph)
+				250 kph
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +552,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4963 mm (195,4")
+				4963 mm
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +560,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1395 mm (54,9")
+				1395 mm
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +568,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1964 mm (77,3")
+				1964 mm
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +576,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +592,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +600,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -640,7 +640,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				11,7 metros (460,6")
+				11,7 metros
 			</td>
 		</tr>
 	</tbody>
@@ -665,7 +665,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2170 kg (4784 lbs)
+				2170 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +673,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2875 kg (6338 lbs)
+				2875 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +681,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				705 kg
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +689,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +697,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				446 litro (16 pies cúbicos)
+				446 litro
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1212 litro (43 pies cúbicos)
+				1212 litro
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +713,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				84 litro (3 pies cúbicos)
+				84 litro
 			</td>
 		</tr>
 	</tbody>
@@ -778,7 +778,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				127 mm (5,0")
+				127 mm
 			</td>
 		</tr>
 		<tr>
@@ -786,7 +786,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				103 mm (4,1")
+				103 mm
 			</td>
 		</tr>
 		<tr>

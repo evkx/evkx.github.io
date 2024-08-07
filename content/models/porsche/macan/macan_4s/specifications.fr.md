@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Puissance de pointe
 			</td>
 			<td>
-				330 KW (449 ch /443 bhp)
+				330 KW (449 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Puissance maximale avec boost
 			</td>
 			<td>
-				380 Kw
+				380 KW (449 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Couple de sortie électrique
 			</td>
 			<td>
-				820 nm (605 lb-ft)
+				820 nm 
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Vitesse maximale
 			</td>
 			<td>
-				240 km/h (149 mph)
+				240 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -376,7 +376,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4784 mm (188,3")
+				4784 mm
 			</td>
 		</tr>
 		<tr>
@@ -384,7 +384,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1622 mm (63,9")
+				1622 mm
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1938 mm (76,3")
+				1938 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2152 mm (84,7")
+				2152 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2893 mm (113,9")
+				2893 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,1 mètre (437,0")
+				11,1 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -449,7 +449,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2330 kg (5137 lbs)
+				2330 kg
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2950 kg (6504 lbs)
+				2950 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				620 kg (1367 lbs)
+				620 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +473,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +481,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				480 litre (17 pieds cubes)
+				480 litre
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1288 litre (45 pieds cubes)
+				1288 litre
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				84 litre (3 pieds cubes)
+				84 litre
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				2000 kg (4409 lbs)
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque non freinée
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 	</tbody>
@@ -578,7 +578,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				224 mm (8,8")
+				224 mm
 			</td>
 		</tr>
 		<tr>
@@ -586,7 +586,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				184 mm (7,2")
+				184 mm
 			</td>
 		</tr>
 		<tr>

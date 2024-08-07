@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOS
 				Peak power with  boost
 			</td>
 			<td>
-				170 Kw
+				170 KW (204 hp /201 bhp)
 			</td>
 		</tr>
 		<tr>

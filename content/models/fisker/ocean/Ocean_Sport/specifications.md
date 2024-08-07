@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Sport. 
 				Peak power with  boost
 			</td>
 			<td>
-				209 Kw
+				209 KW (245 hp /241 bhp)
 			</td>
 		</tr>
 		<tr>

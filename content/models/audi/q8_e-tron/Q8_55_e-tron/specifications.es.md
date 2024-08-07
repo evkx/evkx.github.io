@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q8 55 e-tron.
 				Potencia máxima
 			</td>
 			<td>
-				265 KW (360 hp /355 bhp)
+				265 KW (360 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q8 55 e-tron.
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 Kw
+				300 KW (360 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q8 55 e-tron.
 				Salida de par eléctrico
 			</td>
 			<td>
-				561 nm (414 pies-libra)
+				561 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q8 55 e-tron.
 				Velocidad máxima
 			</td>
 			<td>
-				200 kph (124 mph)
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +392,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4901 mm (193,0")
+				4901 mm
 			</td>
 		</tr>
 		<tr>
@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1629 mm (64,1")
+				1629 mm
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +408,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1935 mm (76,2")
+				1935 mm
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +416,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2189 mm (86,2")
+				2189 mm
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2927 mm (115,2")
+				2927 mm
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1655 mm (65,2")
+				1655 mm
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1655 mm (65,2")
+				1655 mm
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2520 kg (5556 lbs)
+				2520 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				3170 kg (6989 lbs)
+				3170 kg
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				650 kg (1433 lbs)
+				650 kg
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -529,7 +529,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				660 litro (23 pies cúbicos)
+				660 litro
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +537,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1725 litro (61 pies cúbicos)
+				1725 litro
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +545,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1800 kg (3968 lbs)
+				1800 kg
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +553,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +561,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				100 kg (220 lbs)
+				100 kg
 			</td>
 		</tr>
 	</tbody>
@@ -630,7 +630,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				248 mm (9,8")
+				248 mm
 			</td>
 		</tr>
 		<tr>
@@ -638,7 +638,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				152 mm (6,0")
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -751,7 +751,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				248 mm (9,8")
+				248 mm
 			</td>
 		</tr>
 		<tr>
@@ -759,7 +759,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				152 mm (6,0")
+				152 mm
 			</td>
 		</tr>
 		<tr>

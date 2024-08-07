@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for KGM Torres EVX. Kl
 				Popeffekt
 			</td>
 			<td>
-				152,2 KW (207 hk /204 hk)
+				152,2 KW (207 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for KGM Torres EVX. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				339 nm (250 lb-ft)
+				339 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for KGM Torres EVX. Kl
 				Tophastighed
 			</td>
 			<td>
-				175 km/t (109 mph)
+				175 km/t
 			</td>
 		</tr>
 		<tr>
@@ -304,7 +304,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4715 mm (185,6")
+				4715 mm
 			</td>
 		</tr>
 		<tr>
@@ -312,7 +312,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1725 mm (67,9")
+				1725 mm
 			</td>
 		</tr>
 		<tr>
@@ -320,7 +320,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				1890 mm (74,4")
+				1890 mm
 			</td>
 		</tr>
 		<tr>
@@ -328,7 +328,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2680 mm (105,5")
+				2680 mm
 			</td>
 		</tr>
 		<tr>
@@ -336,7 +336,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				10,8 meter (425,2")
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -361,7 +361,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1915 kg (4222 lbs)
+				1915 kg
 			</td>
 		</tr>
 		<tr>
@@ -369,7 +369,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2410 kg (5313 lbs)
+				2410 kg
 			</td>
 		</tr>
 		<tr>
@@ -377,7 +377,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				495 kg (1091 lbs)
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -385,7 +385,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -393,7 +393,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				703 liter (25 cu-ft)
+				703 liter
 			</td>
 		</tr>
 		<tr>
@@ -401,7 +401,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1662 liter (59 cu-ft)
+				1662 liter
 			</td>
 		</tr>
 		<tr>
@@ -409,7 +409,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				1500 kg (3307 lbs)
+				1500 kg
 			</td>
 		</tr>
 		<tr>
@@ -417,7 +417,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks. anhængervægt uden bremse
 			</td>
 			<td>
-				500 kg (1102 lbs)
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -425,7 +425,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal trækkuglevægt
 			</td>
 			<td>
-				85 kg (187 lbs)
+				85 kg
 			</td>
 		</tr>
 	</tbody>
@@ -490,7 +490,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				175 mm (6,9")
+				175 mm
 			</td>
 		</tr>
 		<tr>

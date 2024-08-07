@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				340 KW (462 ch /456 bhp)
+				340 KW (462 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				400 Kw
+				400 KW (462 ch)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				250 km/h (155 mph)
+				250 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				380 KW (517 ch /510 bhp)
+				380 KW (517 ch)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				440 Kw
+				440 KW (517 ch)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				250 km/h (155 mph)
+				250 km/h 
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +552,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Longueur
 			</td>
 			<td>
-				4963 mm (195,4")
+				4963 mm
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +560,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Hauteur
 			</td>
 			<td>
-				1395 mm (54,9")
+				1395 mm
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +568,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur hors miroirs
 			</td>
 			<td>
-				1964 mm (77,3")
+				1964 mm
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +576,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur incluant les miroirs
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Empattement
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +592,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de la voie avant
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +600,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Largeur de voie arrière
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -640,7 +640,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				11,7 mètre (460,6")
+				11,7 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -665,7 +665,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2170 kg (4784 lbs)
+				2170 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +673,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2875 kg (6338 lbs)
+				2875 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +681,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				705 kg (1554 lbs)
+				705 kg
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +689,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +697,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				446 litre (16 pieds cubes)
+				446 litre
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1212 litre (43 pieds cubes)
+				1212 litre
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +713,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				84 litre (3 pieds cubes)
+				84 litre
 			</td>
 		</tr>
 	</tbody>
@@ -778,7 +778,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				127 mm (5,0")
+				127 mm
 			</td>
 		</tr>
 		<tr>
@@ -786,7 +786,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				103 mm (4,1")
+				103 mm
 			</td>
 		</tr>
 		<tr>

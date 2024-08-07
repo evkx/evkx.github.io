@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				320 KW (435 hk /429 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				320 Kw
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				420 nm (310 lb-ft)
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Tophastighed
 			</td>
 			<td>
-				230 km/t (143 mph)
+				230 km/t
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popeffekt
 			</td>
 			<td>
-				300 KW (408 hk /402 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +103,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				410 nm (303 lb-ft)
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan. Kl
 				Tophastighed
 			</td>
 			<td>
-				230 km/t (143 mph)
+				230 km/t
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +568,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4963 mm (195,4")
+				4963 mm
 			</td>
 		</tr>
 		<tr>
@@ -576,7 +576,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1395 mm (54,9")
+				1395 mm
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde ekskl. spejle
 			</td>
 			<td>
-				1964 mm (77,3")
+				1964 mm
 			</td>
 		</tr>
 		<tr>
@@ -592,7 +592,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bredde inklusive spejle
 			</td>
 			<td>
-				2144 mm (84,4")
+				2144 mm
 			</td>
 		</tr>
 		<tr>
@@ -600,7 +600,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Wheelbase
 			</td>
 			<td>
-				2900 mm (114,2")
+				2900 mm
 			</td>
 		</tr>
 		<tr>
@@ -608,7 +608,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1710 mm (67,3")
+				1710 mm
 			</td>
 		</tr>
 		<tr>
@@ -616,7 +616,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1694 mm (66,7")
+				1694 mm
 			</td>
 		</tr>
 		<tr>
@@ -656,7 +656,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Vendecirkel
 			</td>
 			<td>
-				11,7 meter (460,6")
+				11,7 meter
 			</td>
 		</tr>
 	</tbody>
@@ -681,7 +681,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2075 kg (4575 lbs)
+				2075 kg
 			</td>
 		</tr>
 		<tr>
@@ -689,7 +689,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2795 kg (6162 lbs)
+				2795 kg
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +697,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				720 kg (1587 lbs)
+				720 kg
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +705,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +713,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				407 liter (14 cu-ft)
+				407 liter
 			</td>
 		</tr>
 		<tr>
@@ -721,7 +721,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Størrelse frunk
 			</td>
 			<td>
-				84 liter (3 cu-ft)
+				84 liter
 			</td>
 		</tr>
 	</tbody>
@@ -786,7 +786,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				127 mm (5,0")
+				127 mm
 			</td>
 		</tr>
 		<tr>
@@ -794,7 +794,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				103 mm (4,1")
+				103 mm
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Hyundai Ioniq 5 N. Kli
 				Max effekt med boost
 			</td>
 			<td>
-				478 Kw
+				478 KW (609 hk)
 			</td>
 		</tr>
 		<tr>

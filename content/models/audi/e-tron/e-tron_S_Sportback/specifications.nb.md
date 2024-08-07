@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron S Sport
 				Maks effekt med boost
 			</td>
 			<td>
-				370 Kw
+				370 KW (435 hk)
 			</td>
 		</tr>
 		<tr>

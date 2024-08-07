@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Macan 4. Kl
 				Maks effekt med boost
 			</td>
 			<td>
-				300 Kw
+				300 KW (387 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Extreme
 				Peak power with  boost
 			</td>
 			<td>
-				415 Kw
+				415 KW (468 hp /461 bhp)
 			</td>
 		</tr>
 		<tr>

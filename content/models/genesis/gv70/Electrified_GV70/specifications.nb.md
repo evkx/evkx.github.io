@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis Electrified
 				Maks effekt med boost
 			</td>
 			<td>
-				360 Kw
+				360 KW (435 hk)
 			</td>
 		</tr>
 		<tr>

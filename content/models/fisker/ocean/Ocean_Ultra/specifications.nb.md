@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Ultra.
 				Maks effekt med boost
 			</td>
 			<td>
-				400 Kw
+				400 KW (468 hk)
 			</td>
 		</tr>
 		<tr>

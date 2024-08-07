@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model Y Stan
 				Potencia máxima
 			</td>
 			<td>
-				255 KW (347 hp /342 bhp)
+				255 KW (347 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model Y Stan
 				Salida de par eléctrico
 			</td>
 			<td>
-				420 nm (310 pies-libra)
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Tesla Model Y Stan
 				Velocidad máxima
 			</td>
 			<td>
-				217 kph (135 mph)
+				217 kph
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4751 mm (187,0")
+				4751 mm
 			</td>
 		</tr>
 		<tr>
@@ -506,7 +506,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1624 mm (63,9")
+				1624 mm
 			</td>
 		</tr>
 		<tr>
@@ -514,7 +514,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1921 mm (75,6")
+				1921 mm
 			</td>
 		</tr>
 		<tr>
@@ -522,7 +522,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2129 mm (83,8")
+				2129 mm
 			</td>
 		</tr>
 		<tr>
@@ -530,7 +530,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Distancia entre ejes
 			</td>
 			<td>
-				2890 mm (113,8")
+				2890 mm
 			</td>
 		</tr>
 		<tr>
@@ -538,7 +538,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía frontal
 			</td>
 			<td>
-				1636 mm (64,4")
+				1636 mm
 			</td>
 		</tr>
 		<tr>
@@ -546,7 +546,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho de vía trasera
 			</td>
 			<td>
-				1636 mm (64,4")
+				1636 mm
 			</td>
 		</tr>
 		<tr>
@@ -554,7 +554,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros (476,4")
+				12,1 metros
 			</td>
 		</tr>
 	</tbody>
@@ -579,7 +579,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2135 kg (4707 lbs)
+				2135 kg
 			</td>
 		</tr>
 		<tr>
@@ -587,7 +587,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2720 kg (5997 lbs)
+				2720 kg
 			</td>
 		</tr>
 		<tr>
@@ -595,7 +595,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				585 kg (1290 lbs)
+				585 kg
 			</td>
 		</tr>
 		<tr>
@@ -603,7 +603,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -611,7 +611,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				854 litro (30 pies cúbicos)
+				854 litro
 			</td>
 		</tr>
 		<tr>
@@ -619,7 +619,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				2158 litro (76 pies cúbicos)
+				2158 litro
 			</td>
 		</tr>
 		<tr>
@@ -627,7 +627,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				117 litro (4 pies cúbicos)
+				117 litro
 			</td>
 		</tr>
 		<tr>
@@ -635,7 +635,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				1600 kg (3527 lbs)
+				1600 kg
 			</td>
 		</tr>
 		<tr>
@@ -643,7 +643,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque sin frenos
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				750 kg
 			</td>
 		</tr>
 		<tr>
@@ -651,7 +651,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo de la bola de remolque
 			</td>
 			<td>
-				75 kg (165 lbs)
+				75 kg
 			</td>
 		</tr>
 	</tbody>
@@ -716,7 +716,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				167 mm (6,6")
+				167 mm
 			</td>
 		</tr>
 		<tr>
@@ -724,7 +724,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				167 mm (6,6")
+				167 mm
 			</td>
 		</tr>
 		<tr>

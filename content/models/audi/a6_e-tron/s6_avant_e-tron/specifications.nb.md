@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi S6 Avant e-tro
 				Maks effekt med boost
 			</td>
 			<td>
-				405 Kw
+				405 KW (503 hk)
 			</td>
 		</tr>
 		<tr>
