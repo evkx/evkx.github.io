@@ -121,7 +121,9 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
 
 #### Asiento de segunda fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+- reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -237,7 +239,7 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 385 litros. Con el asiento trasero plegado, esto se expande a 1267 litros. En el techo, puedes cargar hasta 0 kg.
+El maletero ofrece una capacidad de carga de 385 litros. Con el asiento trasero plegado, esto se expande a 1267 litros.
 
 El peso máximo del vehículo es 2430 kg, con un peso base de 2000 kg. Esto permite una carga máxima de 430 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

@@ -121,7 +121,9 @@ Följande funktioner är tillgängliga på **ergoActive** sätet.
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+- höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -237,7 +239,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter. På taket kan du lasta upp till 0 kg.
+Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter.
 
 Fordonets maximala vikt är 2430 kg, med en grundvikt på 2000 kg. Detta tillåter en maximal last på 430 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

@@ -121,7 +121,9 @@ Følgende funktioner er tilgængelige på **ergoActive** sædet.
 
 #### Sæde på anden række
 
-Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+
+- højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -237,7 +239,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter. På taget kan du laste op til 0 kg.
+Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter.
 
 Køretøjets maksimale vægt er 2430 kg, med en basisvægt på 2000 kg. Dette giver en maksimal last på 430 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

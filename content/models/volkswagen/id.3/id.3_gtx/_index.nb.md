@@ -223,7 +223,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 385 liter. Med baksetene nedfelt, utvides dette til 1267 liter. På taket kan du laste opptil 0 kg.
+Bagasjerommet tilbyr en lastekapasitet på 385 liter. Med baksetene nedfelt, utvides dette til 1267 liter.
 
 Kjøretøyets maksimale vekt er 2420 kg, med en basisvekt på 1884 kg. Dette gir en maksimal lastekapasitet på 536 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

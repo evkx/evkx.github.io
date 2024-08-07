@@ -223,7 +223,7 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg.
+Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres.
 
 Le poids maximum du véhicule est de 2420 kg, avec un poids de base de 1884 kg. Cela permet une charge maximale de 536 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

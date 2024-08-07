@@ -223,7 +223,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter. På taket kan du lasta upp till 0 kg.
+Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter.
 
 Fordonets maximala vikt är 2420 kg, med en grundvikt på 1884 kg. Detta tillåter en maximal last på 536 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

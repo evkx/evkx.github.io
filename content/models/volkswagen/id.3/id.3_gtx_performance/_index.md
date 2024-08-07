@@ -121,7 +121,9 @@ The following functionalities are available on the **ergoActive** seat.
 
 #### Second-row seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+- height adjustable headrest
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -237,7 +239,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT). On the roof, you can load up to 0 kg (0.0 lbs).
+The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT).
 
 The vehicle’s maximum weight is 2430 kg (5357 lbs), with a base weight of 2000 kg (4409 lbs). This allows for a maximum load of 430 kg (948 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

@@ -223,7 +223,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT). On the roof, you can load up to 0 kg (0.0 lbs).
+The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT).
 
 The vehicle’s maximum weight is 2420 kg (5335 lbs), with a base weight of 1884 kg (4154 lbs). This allows for a maximum load of 536 kg (1182 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

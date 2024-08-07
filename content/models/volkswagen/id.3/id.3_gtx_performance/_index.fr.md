@@ -121,7 +121,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+
+- appui-tête réglable en hauteur
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
@@ -237,7 +239,7 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg.
+Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres.
 
 Le poids maximum du véhicule est de 2430 kg, avec un poids de base de 2000 kg. Cela permet une charge maximale de 430 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

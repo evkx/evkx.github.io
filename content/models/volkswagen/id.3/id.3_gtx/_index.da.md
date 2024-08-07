@@ -223,7 +223,7 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter. På taget kan du laste op til 0 kg.
+Bagagerummet har en lastekapacitet på 385 liter. Med det bageste sæde foldet ned, udvides dette til 1267 liter.
 
 Køretøjets maksimale vægt er 2420 kg, med en basisvægt på 1884 kg. Dette giver en maksimal last på 536 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
