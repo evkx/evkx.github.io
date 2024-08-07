@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan 4S 
 				Popkraft med boost
 			</td>
 			<td>
-				420 KW (489 hk)
+				420 KW (571 hk)
 			</td>
 		</tr>
 		<tr>

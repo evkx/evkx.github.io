@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Popkraft med boost
 			</td>
 			<td>
-				478 KW (609 hk)
+				478 KW (650 hk)
 			</td>
 		</tr>
 		<tr>

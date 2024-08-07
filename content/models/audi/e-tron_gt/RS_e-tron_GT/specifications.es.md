@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 				Potencia máxima con impulso
 			</td>
 			<td>
-				630 KW (761 hp)
+				630 KW (857 hp)
 			</td>
 		</tr>
 		<tr>

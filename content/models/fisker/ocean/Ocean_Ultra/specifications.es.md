@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Fisker Ocean Ultra
 				Potencia máxima con impulso
 			</td>
 			<td>
-				400 KW (468 hp)
+				400 KW (544 hp)
 			</td>
 		</tr>
 		<tr>

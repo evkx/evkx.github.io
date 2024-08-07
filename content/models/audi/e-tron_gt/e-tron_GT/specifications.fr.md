@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Puissance maximale avec boost
 			</td>
 			<td>
-				390 KW (476 ch)
+				390 KW (530 ch)
 			</td>
 		</tr>
 		<tr>

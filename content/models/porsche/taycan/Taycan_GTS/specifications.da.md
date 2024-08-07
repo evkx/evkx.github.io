@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan GTS
 				Popkraft med boost
 			</td>
 			<td>
-				440 KW (435 hk)
+				440 KW (598 hk)
 			</td>
 		</tr>
 		<tr>

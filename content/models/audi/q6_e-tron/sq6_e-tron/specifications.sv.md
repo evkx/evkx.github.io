@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi SQ6 e-tron. Klick
 				Max effekt med boost
 			</td>
 			<td>
-				385 KW (489 hk)
+				385 KW (523 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi SQ8 e-tron. K
 				Popkraft med boost
 			</td>
 			<td>
-				370 KW (435 hk)
+				370 KW (503 hk)
 			</td>
 		</tr>
 		<tr>

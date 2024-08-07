@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi SQ8 Sportback e-t
 				Max effekt med boost
 			</td>
 			<td>
-				370 KW (435 hk)
+				370 KW (503 hk)
 			</td>
 		</tr>
 		<tr>

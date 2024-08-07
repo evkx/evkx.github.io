@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Genesis G
 				Puissance maximale avec boost
 			</td>
 			<td>
-				360 KW (435 ch)
+				360 KW (489 ch)
 			</td>
 		</tr>
 		<tr>

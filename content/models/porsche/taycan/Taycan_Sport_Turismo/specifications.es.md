@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 KW (326 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima con impulso
 			</td>
 			<td>
-				350 KW (381 hp)
+				350 KW (476 hp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron S Sportb
 				Peak power with  boost
 			</td>
 			<td>
-				370 KW (435 hp /429 bhp)
+				370 KW (503 hp /496 bhp)
 			</td>
 		</tr>
 		<tr>

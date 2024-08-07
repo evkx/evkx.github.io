@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Fisker Ocean Sport. Kl
 				Max effekt med boost
 			</td>
 			<td>
-				209 KW (245 hk)
+				209 KW (284 hk)
 			</td>
 		</tr>
 		<tr>

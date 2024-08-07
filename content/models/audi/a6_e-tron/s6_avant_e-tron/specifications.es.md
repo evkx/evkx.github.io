@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi S6 Avant e-tr
 				Potencia máxima con impulso
 			</td>
 			<td>
-				405 KW (503 hp)
+				405 KW (551 hp)
 			</td>
 		</tr>
 		<tr>

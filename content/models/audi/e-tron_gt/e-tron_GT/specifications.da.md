@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi e-tron GT. Kl
 				Popkraft med boost
 			</td>
 			<td>
-				390 KW (476 hk)
+				390 KW (530 hk)
 			</td>
 		</tr>
 		<tr>

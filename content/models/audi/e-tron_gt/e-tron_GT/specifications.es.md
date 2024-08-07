@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi e-tron GT. Ha
 				Potencia máxima con impulso
 			</td>
 			<td>
-				390 KW (476 hp)
+				390 KW (530 hp)
 			</td>
 		</tr>
 		<tr>

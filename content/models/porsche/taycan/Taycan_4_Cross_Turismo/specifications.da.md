@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan 4 C
 				Popkraft med boost
 			</td>
 			<td>
-				350 KW (381 hk)
+				350 KW (476 hk)
 			</td>
 		</tr>
 		<tr>

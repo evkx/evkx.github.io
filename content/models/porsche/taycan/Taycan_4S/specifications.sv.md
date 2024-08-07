@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S. Kli
 				Max effekt med boost
 			</td>
 			<td>
-				390 KW (435 hk)
+				390 KW (530 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4S. Kli
 				Max effekt med boost
 			</td>
 			<td>
-				420 KW (435 hk)
+				420 KW (571 hk)
 			</td>
 		</tr>
 		<tr>

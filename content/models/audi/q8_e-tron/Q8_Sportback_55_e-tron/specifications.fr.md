@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q8 S
 				Puissance maximale avec boost
 			</td>
 			<td>
-				300 KW (360 ch)
+				300 KW (408 ch)
 			</td>
 		</tr>
 		<tr>

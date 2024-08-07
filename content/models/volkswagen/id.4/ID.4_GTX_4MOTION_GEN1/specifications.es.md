@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Volkswagen ID.4 GT
 				Potencia máxima con impulso
 			</td>
 			<td>
-				220 KW (265 hp)
+				220 KW (299 hp)
 			</td>
 		</tr>
 		<tr>

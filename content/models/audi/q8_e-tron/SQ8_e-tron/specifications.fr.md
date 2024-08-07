@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi SQ8 
 				Puissance maximale avec boost
 			</td>
 			<td>
-				370 KW (435 ch)
+				370 KW (503 ch)
 			</td>
 		</tr>
 		<tr>

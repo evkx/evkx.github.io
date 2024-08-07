@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Fisker Ocean Extre
 				Potencia máxima con impulso
 			</td>
 			<td>
-				415 KW (468 hp)
+				415 KW (564 hp)
 			</td>
 		</tr>
 		<tr>

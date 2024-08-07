@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Genesis GV60 AWD Pe
 				Maks effekt med boost
 			</td>
 			<td>
-				360 KW (435 hk)
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>

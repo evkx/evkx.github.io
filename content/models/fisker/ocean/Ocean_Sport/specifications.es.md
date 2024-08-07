@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Fisker Ocean Sport
 				Potencia máxima con impulso
 			</td>
 			<td>
-				209 KW (245 hp)
+				209 KW (284 hp)
 			</td>
 		</tr>
 		<tr>

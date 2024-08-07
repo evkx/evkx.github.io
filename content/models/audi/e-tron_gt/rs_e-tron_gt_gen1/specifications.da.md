@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi RS e-tron GT 
 				Popkraft med boost
 			</td>
 			<td>
-				475 KW (598 hk)
+				475 KW (646 hk)
 			</td>
 		</tr>
 		<tr>

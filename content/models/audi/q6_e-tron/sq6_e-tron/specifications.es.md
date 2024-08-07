@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ6 e-tron. H
 				Potencia máxima con impulso
 			</td>
 			<td>
-				385 KW (489 hp)
+				385 KW (523 hp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fisker Oc
 				Puissance maximale avec boost
 			</td>
 			<td>
-				400 KW (468 ch)
+				400 KW (544 ch)
 			</td>
 		</tr>
 		<tr>

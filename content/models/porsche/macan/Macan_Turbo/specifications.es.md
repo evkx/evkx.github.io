@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan Turb
 				Potencia máxima con impulso
 			</td>
 			<td>
-				470 KW (585 hp)
+				470 KW (639 hp)
 			</td>
 		</tr>
 		<tr>

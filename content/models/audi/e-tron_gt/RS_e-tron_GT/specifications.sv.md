@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi RS e-tron GT. Kli
 				Max effekt med boost
 			</td>
 			<td>
-				630 KW (761 hk)
+				630 KW (857 hk)
 			</td>
 		</tr>
 		<tr>

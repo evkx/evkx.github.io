@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan Turb
 				Popkraft med boost
 			</td>
 			<td>
-				470 KW (585 hk)
+				470 KW (639 hk)
 			</td>
 		</tr>
 		<tr>

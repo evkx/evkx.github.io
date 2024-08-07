@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan (GEN1).
 				Max effekt med boost
 			</td>
 			<td>
-				300 KW (326 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan (GEN1).
 				Max effekt med boost
 			</td>
 			<td>
-				350 KW (381 hk)
+				350 KW (476 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi SQ6 
 				Puissance maximale avec boost
 			</td>
 			<td>
-				385 KW (489 ch)
+				385 KW (523 ch)
 			</td>
 		</tr>
 		<tr>

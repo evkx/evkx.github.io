@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4S. 
 				Popkraft med boost
 			</td>
 			<td>
-				380 KW (449 hk)
+				380 KW (517 hk)
 			</td>
 		</tr>
 		<tr>

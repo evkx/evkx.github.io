@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi RS e
 				Puissance maximale avec boost
 			</td>
 			<td>
-				475 KW (598 ch)
+				475 KW (646 ch)
 			</td>
 		</tr>
 		<tr>

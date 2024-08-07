@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Tur
 				Potencia máxima con impulso
 			</td>
 			<td>
-				500 KW (625 hp)
+				500 KW (680 hp)
 			</td>
 		</tr>
 		<tr>

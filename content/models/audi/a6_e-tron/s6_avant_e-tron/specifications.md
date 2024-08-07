@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi S6 Avant e-tron
 				Peak power with  boost
 			</td>
 			<td>
-				405 KW (503 hp /496 bhp)
+				405 KW (551 hp /543 bhp)
 			</td>
 		</tr>
 		<tr>

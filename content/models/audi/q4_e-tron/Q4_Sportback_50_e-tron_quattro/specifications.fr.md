@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q4 S
 				Puissance maximale avec boost
 			</td>
 			<td>
-				220 KW (265 ch)
+				220 KW (299 ch)
 			</td>
 		</tr>
 		<tr>

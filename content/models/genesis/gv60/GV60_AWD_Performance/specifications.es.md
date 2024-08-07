@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Genesis GV60 AWD P
 				Potencia máxima con impulso
 			</td>
 			<td>
-				360 KW (435 hp)
+				360 KW (489 hp)
 			</td>
 		</tr>
 		<tr>

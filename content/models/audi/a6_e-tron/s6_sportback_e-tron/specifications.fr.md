@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 				Puissance maximale avec boost
 			</td>
 			<td>
-				405 KW (503 ch)
+				405 KW (551 ch)
 			</td>
 		</tr>
 		<tr>

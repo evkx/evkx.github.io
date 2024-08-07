@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan 4. Cli
 				Peak power with  boost
 			</td>
 			<td>
-				300 KW (387 hp /382 bhp)
+				300 KW (408 hp /402 bhp)
 			</td>
 		</tr>
 		<tr>

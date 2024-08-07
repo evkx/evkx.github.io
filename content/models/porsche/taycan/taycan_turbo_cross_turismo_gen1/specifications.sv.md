@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Turbo C
 				Max effekt med boost
 			</td>
 			<td>
-				500 KW (625 hk)
+				500 KW (680 hk)
 			</td>
 		</tr>
 		<tr>

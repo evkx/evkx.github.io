@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi e-tron 55 Spor
 				Maks effekt med boost
 			</td>
 			<td>
-				300 KW (360 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Macan 4S. K
 				Maks effekt med boost
 			</td>
 			<td>
-				380 KW (449 hk)
+				380 KW (517 hk)
 			</td>
 		</tr>
 		<tr>

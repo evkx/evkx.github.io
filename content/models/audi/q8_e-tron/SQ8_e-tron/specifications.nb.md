@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ8 e-tron. Kl
 				Maks effekt med boost
 			</td>
 			<td>
-				370 KW (435 hk)
+				370 KW (503 hk)
 			</td>
 		</tr>
 		<tr>

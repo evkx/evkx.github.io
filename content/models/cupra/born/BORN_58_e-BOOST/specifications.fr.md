@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour CUPRA BOR
 				Puissance maximale avec boost
 			</td>
 			<td>
-				170 KW (204 ch)
+				170 KW (231 ch)
 			</td>
 		</tr>
 		<tr>

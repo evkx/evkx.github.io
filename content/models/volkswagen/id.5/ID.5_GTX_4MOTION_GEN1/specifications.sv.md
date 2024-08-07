@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Volkswagen ID.5 GTX 4M
 				Max effekt med boost
 			</td>
 			<td>
-				220 KW (265 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>

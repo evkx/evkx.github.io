@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4S. 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				380 KW (449 hp)
+				380 KW (517 hp)
 			</td>
 		</tr>
 		<tr>

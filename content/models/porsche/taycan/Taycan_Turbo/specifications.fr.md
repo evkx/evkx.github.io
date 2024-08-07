@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				650 KW (707 ch)
+				650 KW (884 ch)
 			</td>
 		</tr>
 		<tr>

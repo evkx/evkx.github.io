@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para CUPRA BORN 77 e-BO
 				Potencia máxima con impulso
 			</td>
 			<td>
-				170 KW (204 hp)
+				170 KW (231 hp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan. Kli
 				Popkraft med boost
 			</td>
 			<td>
-				265 KW (340 hk)
+				265 KW (360 hk)
 			</td>
 		</tr>
 		<tr>

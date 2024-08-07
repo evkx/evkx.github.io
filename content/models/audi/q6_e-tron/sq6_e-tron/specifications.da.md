@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi SQ6 e-tron. K
 				Popkraft med boost
 			</td>
 			<td>
-				385 KW (489 hk)
+				385 KW (523 hk)
 			</td>
 		</tr>
 		<tr>

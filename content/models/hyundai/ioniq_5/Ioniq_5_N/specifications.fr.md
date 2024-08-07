@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai I
 				Puissance maximale avec boost
 			</td>
 			<td>
-				478 KW (609 ch)
+				478 KW (650 ch)
 			</td>
 		</tr>
 		<tr>

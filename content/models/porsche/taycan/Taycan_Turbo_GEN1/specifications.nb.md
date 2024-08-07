@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan Turb
 				Maks effekt med boost
 			</td>
 			<td>
-				500 KW (625 hk)
+				500 KW (680 hk)
 			</td>
 		</tr>
 		<tr>

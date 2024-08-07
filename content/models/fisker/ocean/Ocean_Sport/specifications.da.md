@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Fisker Ocean Sport
 				Popkraft med boost
 			</td>
 			<td>
-				209 KW (245 hk)
+				209 KW (284 hk)
 			</td>
 		</tr>
 		<tr>

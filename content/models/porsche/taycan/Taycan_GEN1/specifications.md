@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan (GEN1
 				Peak power with  boost
 			</td>
 			<td>
-				300 KW (326 hp /322 bhp)
+				300 KW (408 hp /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan (GEN1
 				Peak power with  boost
 			</td>
 			<td>
-				350 KW (381 hp /375 bhp)
+				350 KW (476 hp /469 bhp)
 			</td>
 		</tr>
 		<tr>

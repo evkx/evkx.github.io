@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för CUPRA BORN 77 e-BOOST.
 				Max effekt med boost
 			</td>
 			<td>
-				170 KW (204 hk)
+				170 KW (231 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Macan 4. H
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 KW (387 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>

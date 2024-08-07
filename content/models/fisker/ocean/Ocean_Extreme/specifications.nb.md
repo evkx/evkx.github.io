@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Fisker Ocean Extrem
 				Maks effekt med boost
 			</td>
 			<td>
-				415 KW (468 hk)
+				415 KW (564 hk)
 			</td>
 		</tr>
 		<tr>

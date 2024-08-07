@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Fisker Ocean Extre
 				Popkraft med boost
 			</td>
 			<td>
-				415 KW (468 hk)
+				415 KW (564 hk)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ COUPÉ RS 
 				Max effekt med boost
 			</td>
 			<td>
-				220 KW (265 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>

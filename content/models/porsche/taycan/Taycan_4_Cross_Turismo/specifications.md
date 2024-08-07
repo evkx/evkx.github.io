@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4 Cro
 				Peak power with  boost
 			</td>
 			<td>
-				350 KW (381 hp /375 bhp)
+				350 KW (476 hp /469 bhp)
 			</td>
 		</tr>
 		<tr>

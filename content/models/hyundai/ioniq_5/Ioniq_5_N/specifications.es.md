@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Hyundai Ioniq 5 N.
 				Potencia máxima con impulso
 			</td>
 			<td>
-				478 KW (609 hp)
+				478 KW (650 hp)
 			</td>
 		</tr>
 		<tr>

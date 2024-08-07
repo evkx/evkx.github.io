@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan GTS
 				Potencia máxima con impulso
 			</td>
 			<td>
-				440 KW (435 hp)
+				440 KW (598 hp)
 			</td>
 		</tr>
 		<tr>

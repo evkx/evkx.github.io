@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for SKODA ENYAQ COUPÉ
 				Popkraft med boost
 			</td>
 			<td>
-				220 KW (265 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>

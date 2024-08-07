@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for SKODA ENYAQ RS iV (G
 				Peak power with  boost
 			</td>
 			<td>
-				220 KW (265 hp /261 bhp)
+				220 KW (299 hp /295 bhp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan GTS. 
 				Peak power with  boost
 			</td>
 			<td>
-				440 KW (435 hp /429 bhp)
+				440 KW (598 hp /590 bhp)
 			</td>
 		</tr>
 		<tr>

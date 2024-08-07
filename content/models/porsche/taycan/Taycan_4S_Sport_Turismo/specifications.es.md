@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				400 KW (462 hp)
+				400 KW (544 hp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4S 
 				Potencia máxima con impulso
 			</td>
 			<td>
-				440 KW (517 hp)
+				440 KW (598 hp)
 			</td>
 		</tr>
 		<tr>

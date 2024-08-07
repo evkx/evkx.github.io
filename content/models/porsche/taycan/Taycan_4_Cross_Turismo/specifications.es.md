@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan 4 C
 				Potencia máxima con impulso
 			</td>
 			<td>
-				350 KW (381 hp)
+				350 KW (476 hp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4. K
 				Popkraft med boost
 			</td>
 			<td>
-				300 KW (387 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>

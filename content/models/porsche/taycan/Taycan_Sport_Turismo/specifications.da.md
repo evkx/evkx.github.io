@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popkraft med boost
 			</td>
 			<td>
-				300 KW (326 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popkraft med boost
 			</td>
 			<td>
-				350 KW (381 hk)
+				350 KW (476 hk)
 			</td>
 		</tr>
 		<tr>

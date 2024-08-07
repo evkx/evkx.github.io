@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ8 e-tron. H
 				Potencia máxima con impulso
 			</td>
 			<td>
-				370 KW (435 hp)
+				370 KW (503 hp)
 			</td>
 		</tr>
 		<tr>

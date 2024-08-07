@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi S6 Avant e-tr
 				Popkraft med boost
 			</td>
 			<td>
-				405 KW (503 hk)
+				405 KW (551 hk)
 			</td>
 		</tr>
 		<tr>

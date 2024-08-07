@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Tur
 				Popkraft med boost
 			</td>
 			<td>
-				500 KW (625 hk)
+				500 KW (680 hk)
 			</td>
 		</tr>
 		<tr>

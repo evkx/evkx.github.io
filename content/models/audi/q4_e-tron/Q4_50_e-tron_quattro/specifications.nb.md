@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 50 e-tron q
 				Maks effekt med boost
 			</td>
 			<td>
-				220 KW (265 hk)
+				220 KW (299 hk)
 			</td>
 		</tr>
 		<tr>

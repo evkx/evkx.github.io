@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi e-tron 55 Spo
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 KW (360 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Puissance maximale avec boost
 			</td>
 			<td>
-				470 KW (585 ch)
+				470 KW (639 ch)
 			</td>
 		</tr>
 		<tr>

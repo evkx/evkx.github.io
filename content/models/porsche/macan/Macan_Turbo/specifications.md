@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan Turbo.
 				Peak power with  boost
 			</td>
 			<td>
-				470 KW (585 hp /577 bhp)
+				470 KW (639 hp /630 bhp)
 			</td>
 		</tr>
 		<tr>

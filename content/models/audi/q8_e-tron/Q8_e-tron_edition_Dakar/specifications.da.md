@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q8 e-tron edi
 				Popkraft med boost
 			</td>
 			<td>
-				300 KW (360 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>

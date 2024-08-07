@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S S
 				Maks effekt med boost
 			</td>
 			<td>
-				400 KW (462 hk)
+				400 KW (544 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Porsche Taycan 4S S
 				Maks effekt med boost
 			</td>
 			<td>
-				440 KW (517 hk)
+				440 KW (598 hk)
 			</td>
 		</tr>
 		<tr>

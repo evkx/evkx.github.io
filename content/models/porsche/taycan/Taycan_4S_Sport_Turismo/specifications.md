@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				Peak power with  boost
 			</td>
 			<td>
-				400 KW (462 hp /456 bhp)
+				400 KW (544 hp /536 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +95,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan 4S Sp
 				Peak power with  boost
 			</td>
 			<td>
-				440 KW (517 hp /510 bhp)
+				440 KW (598 hp /590 bhp)
 			</td>
 		</tr>
 		<tr>

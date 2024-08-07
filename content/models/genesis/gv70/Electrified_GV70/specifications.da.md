@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Genesis Electrifie
 				Popkraft med boost
 			</td>
 			<td>
-				360 KW (435 hk)
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>

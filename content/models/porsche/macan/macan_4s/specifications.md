@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan 4S. Cl
 				Peak power with  boost
 			</td>
 			<td>
-				380 KW (449 hp /443 bhp)
+				380 KW (517 hp /510 bhp)
 			</td>
 		</tr>
 		<tr>

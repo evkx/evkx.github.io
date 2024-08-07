@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan. Click
 				Peak power with  boost
 			</td>
 			<td>
-				265 KW (340 hp /335 bhp)
+				265 KW (360 hp /355 bhp)
 			</td>
 		</tr>
 		<tr>

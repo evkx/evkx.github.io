@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi S6 Sportback e-tr
 				Max effekt med boost
 			</td>
 			<td>
-				405 KW (503 hk)
+				405 KW (551 hk)
 			</td>
 		</tr>
 		<tr>

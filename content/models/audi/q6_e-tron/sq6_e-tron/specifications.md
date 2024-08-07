@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ6 e-tron. Cli
 				Peak power with  boost
 			</td>
 			<td>
-				385 KW (489 hp /483 bhp)
+				385 KW (523 hp /516 bhp)
 			</td>
 		</tr>
 		<tr>

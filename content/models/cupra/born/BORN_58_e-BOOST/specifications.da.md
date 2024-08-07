@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for CUPRA BORN 58 e-BO
 				Popkraft med boost
 			</td>
 			<td>
-				170 KW (204 hk)
+				170 KW (231 hk)
 			</td>
 		</tr>
 		<tr>

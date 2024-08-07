@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan 4 Cross
 				Max effekt med boost
 			</td>
 			<td>
-				350 KW (381 hk)
+				350 KW (476 hk)
 			</td>
 		</tr>
 		<tr>
