@@ -30,13 +30,13 @@ Volkswagen ID.3 GTX levererar en solid prestanda med en maximal effekt på 210 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 3 kWh (3,7%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 3 kWh (3,7%) för batteriskydd. Med en nominell spänning på 352 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 13,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 51 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 20 minuter och 34 sekunder.
+Maximal DC-laddningshastighet är 185 kW. En full laddning från 0 - 100 % tar 51 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 20 minuter och 50 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 25 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 58%, med en total laddningstid på 66 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 9 timmar och 24 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 57%, med en total laddningstid på 65 minuter.
 
 ### Ombordladdare
 
@@ -70,13 +70,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Volkswagen ID.3 GTX, med dimensioner på 4261 mm i längd, 1809 mm i bredd och 1568 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Volkswagen ID.3 GTX finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Volkswagen ID.3 GTX, med dimensioner på 4264 mm i längd, 1809 mm i bredd och 1564 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Volkswagen ID.3 GTX finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID.3 GTX, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 215/55 däck på 18" fälgar
-- 215/50 däck på 19" fälgar
 - 215/45 däck på 20" fälgar
+- 235/40 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -100,7 +99,7 @@ Volkswagen ID.3 GTX rymmer fem passagerare med två säten fram och en tre-sitsi
 
 #### Framsäten
 
-Volkswagen ID.3 GTX erbjuder endast en typ av framsäte.
+För första raden erbjuder Volkswagen ID.3 GTX två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -108,13 +107,31 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-Du kan välja mellan 2 olika material/färger för denna sitstyp.
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+
+Följande funktioner är tillgängliga på **ergoActive** sätet.
+
+- elektrisk justering (valfritt)
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [massage](../../../../technology/seats/adjustment/#massage)
+
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+- Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+- höjdjusterbart nackstöd
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -150,7 +167,11 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
+
+Volkswagen ID.3 GTX har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Volkswagen integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
 
 ### Navigationssystem
 
@@ -165,7 +186,7 @@ Dessutom stöder Volkswagen ID.3 GTX Android Auto och Apple CarPlay. Denna funkt
 Du kan välja mellan två ljudsystem på Volkswagen ID.3 GTX.
 
 - Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt.
-- Med Volkswagen Soundsystem får du sju högtalare med en maximal systemeffekt på 450 watt.
+- Med Harman Kardon sound system får du åtta högtalare med en maximal systemeffekt på 480 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -204,6 +225,8 @@ Volkswagen ID.3 GTX inkluderar flera [avancerade förarassistanssystem](../../..
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Volkswagen ID.3 GTX, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Valfritt på Volkswagen ID.3 GTX, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
 Volkswagen ID.3 GTX erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
@@ -211,6 +234,7 @@ Volkswagen ID.3 GTX erbjuder [körautomatisering på nivå 1 eller 2](../../../.
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - Farthållare.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
 
@@ -219,7 +243,6 @@ Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering ut
 Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -227,7 +250,7 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 
 Bagageutrymmet erbjuder en lastkapacitet på 385 liter. Med baksätena nedfällda ökar detta till 1267 liter.
 
-Fordonets maximala vikt är 2420 kg, med en grundvikt på 1884 kg. Detta tillåter en maximal last på 536 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2430 kg, med en grundvikt på 2000 kg. Detta tillåter en maximal last på 430 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 

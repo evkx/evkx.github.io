@@ -142,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				175 kW
+				185 kW
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				350
+				352
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Längd
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>
-				10,3 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +564,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +572,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +652,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -644,7 +660,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +690,171 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
+#### ergoActive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Säte typ
+			</td>
+			<td>
+				Förar- och passagerarsäte
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering sätesdjup
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering säteshöjd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering av höjd, lutning och vinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnesförarsäte
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory Passenger Seat
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höjdjusterbart nackstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LengthAdjustableHeadrest
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbart lårstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggstödsjustering
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av sittdyna, sidostöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ### Sätesrad 2
 
 
-#### optional
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -704,7 +881,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +889,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -720,7 +897,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +905,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +913,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +921,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +929,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +937,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -768,7 +945,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +953,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1203,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Röststyrning
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1145,7 +1322,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### Harman Kardon sound system
 
 <table class="table table-striped border">
 	<thead>
@@ -1164,7 +1341,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antal högtalare
 			</td>
 			<td>
-				7
+				8
 			</td>
 		</tr>
 		<tr>
@@ -1172,7 +1349,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Total effekt
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

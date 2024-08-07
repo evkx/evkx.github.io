@@ -30,13 +30,13 @@ La Volkswagen ID.3 GTX offre des performances solides avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 79 kWh, offrant une réserve de 3 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 79 kWh, offrant une réserve de 3 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 352 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 600 km, avec une consommation d'énergie de 13,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 175kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 20 minutes et 34 secondes.
+La vitesse de charge DC maximale est de 185kW. Une charge complète de 0 à 100 % prendrait 51 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 20 minutes et 50 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 58%, avec un temps de recharge total de 66 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 24 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 57%, avec un temps de recharge total de 65 minutes.
 
 ### Chargeur embarqué
 
@@ -70,13 +70,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen ID.3 GTX, avec des dimensions de 4261 mm de longueur, 1809 mm de largeur et 1568 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Volkswagen ID.3 GTX, avec des dimensions de 4264 mm de longueur, 1809 mm de largeur et 1564 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 GTX, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 215/55 sur jantes de 18"
-- Pneus 215/50 sur jantes de 19"
 - Pneus 215/45 sur jantes de 20"
+- Pneus 235/40 sur jantes de 20"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
@@ -100,7 +99,7 @@ Le Volkswagen ID.3 GTX peut accueillir cinq passagers avec deux sièges à l'ava
 
 #### Sièges de première rangée
 
-Le Volkswagen ID.3 GTX propose un seul type de siège avant.
+Pour la première rangée, l'Volkswagen ID.3 GTX propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -108,13 +107,31 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+
+Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
+
+- réglage électrique (facultatif)
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [massage](../../../../technology/seats/adjustment/#massage)
+
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+
+- appui-tête réglable en hauteur
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -150,7 +167,11 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
+
+Le Volkswagen ID.3 GTX dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Volkswagen a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres complets du véhicule et bien plus encore.
 
 ### Système de navigation
 
@@ -165,7 +186,7 @@ De plus, le Volkswagen ID.3 GTX prend en charge Android Auto et Apple CarPlay. C
 Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.3 GTX.
 
 - Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts.
-- Avec le Volkswagen Soundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de 450 watts.
+- Avec le Harman Kardon sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 480 watts.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
@@ -204,6 +225,8 @@ Le Volkswagen ID.3 GTX comprend plusieurs [systèmes avancés d'assistance au co
 
 [**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Volkswagen ID.3 GTX, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Facultatif sur le Volkswagen ID.3 GTX, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la Conduite
 
 Volkswagen ID.3 GTX offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
@@ -211,6 +234,7 @@ Volkswagen ID.3 GTX offre [l'automatisation de la conduite aux niveaux 1 ou 2](.
 Avec le système standard, le modèle n'offre aucune automatisation de la conduite.
 
 - Régulateur de vitesse.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 Avec le système   de niveau 1, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
 
@@ -219,7 +243,6 @@ Avec le système   de niveau 1, vous obtenez des fonctionnalités supplémentair
 Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionnalités supplémentaires d'automatisation de la conduite en plus de celles mentionnées ci-dessus.
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
-- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -227,7 +250,7 @@ Avec le système Assistantpackage plus  de niveau 2, vous obtenez des fonctionna
 
 Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arrière rabattus, cette capacité passe à 1267 litres.
 
-Le poids maximum du véhicule est de 2420 kg, avec un poids de base de 1884 kg. Cela permet une charge maximale de 536 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2430 kg, avec un poids de base de 2000 kg. Cela permet une charge maximale de 430 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 

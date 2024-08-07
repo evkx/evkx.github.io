@@ -142,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				175 kW
+				185 kW
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				350
+				352
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengde
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde foran
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Sporbredde bak
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
-				10,3 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +564,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +572,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +652,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -644,7 +660,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +690,171 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
+#### ergoActive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				Sjåfør- og passasjersete
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Setedybdejustering
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setehøyde
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering av høyde, hvile og vinkel
+			</td>
+			<td>
+				Valgfri funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minne førersete
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minne passasjersete
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ### Seter på andre rad
 
 
-#### optional
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -704,7 +881,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +889,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -720,7 +897,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +905,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +913,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +921,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +929,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +937,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -768,7 +945,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +953,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1203,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Stemmestyring
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1145,7 +1322,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### Harman Kardon sound system
 
 <table class="table table-striped border">
 	<thead>
@@ -1164,7 +1341,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Antall høyttalere
 			</td>
 			<td>
-				7
+				8
 			</td>
 		</tr>
 		<tr>
@@ -1172,7 +1349,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Total effekt
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

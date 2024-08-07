@@ -142,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				175 kW
+				185 kW
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				350
+				352
 			</td>
 		</tr>
 	</tbody>
@@ -258,7 +258,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længde
 			</td>
 			<td>
-				4261 mm
+				4264 mm
 			</td>
 		</tr>
 		<tr>
@@ -266,7 +266,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				1568 mm
+				1564 mm
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde foran
 			</td>
 			<td>
-				1536 mm
+				1514 mm
 			</td>
 		</tr>
 		<tr>
@@ -306,7 +306,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sporbredde bagtil
 			</td>
 			<td>
-				1513 mm
+				1526 mm
 			</td>
 		</tr>
 		<tr>
@@ -327,10 +327,26 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Overhængsvinkel foran
+			</td>
+			<td>
+				13,6
+			</td>
+		</tr>
+		<tr>
+			<td>
+				OverhangAngleRear
+			</td>
+			<td>
+				17
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendecirkel
 			</td>
 			<td>
-				10,3 meter
+				10,5 meter
 			</td>
 		</tr>
 	</tbody>
@@ -355,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1884 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2420 kg
+				2430 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				536 kg
+				430 kg
 			</td>
 		</tr>
 		<tr>
@@ -548,7 +564,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +572,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +652,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -644,7 +660,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -674,10 +690,171 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
+#### ergoActive
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				Fører- og passagersæde
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædedybdejustering
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædehøjdejustering
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets vinkel
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering af højde, tilbagelæning og vinkel
+			</td>
+			<td>
+				Valgfri funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory førersæde
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passagersæde
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 ### Sæder på anden række
 
 
-#### optional
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -704,7 +881,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +889,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -720,7 +897,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -728,7 +905,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +913,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +921,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +929,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +937,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -768,7 +945,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +953,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -1026,7 +1203,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Stemmestyring
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1145,7 +1322,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-### Volkswagen Soundsystem
+### Harman Kardon sound system
 
 <table class="table table-striped border">
 	<thead>
@@ -1164,7 +1341,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Antal højttalere
 			</td>
 			<td>
-				7
+				8
 			</td>
 		</tr>
 		<tr>
@@ -1172,7 +1349,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Samlet effekt
 			</td>
 			<td>
-				450
+				480
 			</td>
 		</tr>
 	</tbody>

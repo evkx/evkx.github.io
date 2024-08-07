@@ -30,13 +30,13 @@ The Volkswagen ID.3 GTX delivers a solid performance with a maximum power of 210
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 miles), with an energy consumption rate of 13.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 54%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 20 minutes and 34 seconds..
+The vehicle supports fast DC charging with a maximum power of 185 kW. Charging from 0% to 100% takes approximately 51 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 54%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 20 minutes and 50 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 25 minutes. This journey would require three charging stops from 2% to 58%, with a total charging time of 66 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 24 minutes. This journey would require three charging stops from 1% to 57%, with a total charging time of 65 minutes.
 
 ### Onboard charger
 
@@ -70,13 +70,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Volkswagen ID.3 GTX, with dimensions of 4261 mm in length, 1809 mm in width, and 1568 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX is available in a total of 5 paint colors, including both solid and metallic options.
+The Volkswagen ID.3 GTX, with dimensions of 4264 mm in length, 1809 mm in width, and 1564 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX is available in a total of 5 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.3 GTX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 215/55 tires on 18" rims
-- 215/50 tires on 19" rims
 - 215/45 tires on 20" rims
+- 235/40 tires on 20" rims
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
@@ -100,7 +99,7 @@ The Volkswagen ID.3 GTX accommodates five passengers with two seats in the front
 
 #### First row seats
 
-The Volkswagen ID.3 GTX offers a single type of front seat.
+For the front row, the Volkswagen ID.3 GTX offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 
@@ -108,13 +107,31 @@ The following functionalities are available on the **standard** seat.
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type.
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
+The following functionalities are available on the **ergoActive** seat.
+
+- electric adjustment (optional)
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [massage](../../../../technology/seats/adjustment/#massage)
+
+You can choose from 1 different materials/colors for this seat type.
+
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 #### Second-row seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+- height adjustable headrest
 
 There is only one type of steering wheel available.
 
@@ -150,7 +167,11 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 ## Infotainment
+
+The Volkswagen ID.3 GTX features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Volkswagen has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
 
 ### Navigation System
 
@@ -165,7 +186,7 @@ Furthermore, the Volkswagen ID.3 GTX supports Android Auto and Apple CarPlay. Th
 You can choose between two sound systems on the Volkswagen ID.3 GTX.
 
 - With the Sound system, you get five speakers with a max system output of 140 watts.
-- With the Volkswagen Soundsystem, you get seven speakers with a max system output of 450 watts.
+- With the Harman Kardon sound system, you get eight speakers with a max system output of 480 watts.
 
 The model has 4 USB-C connections as standard.
 
@@ -204,6 +225,8 @@ The Volkswagen ID.3 GTX includes several standard and optional [advanced driver 
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Volkswagen ID.3 GTX, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Volkswagen ID.3 GTX, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The Volkswagen ID.3 GTX offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -211,6 +234,7 @@ The Volkswagen ID.3 GTX offers [driving automation at levels 1 or 2](../../../..
 With the standard system the model offers no driving automation.
 
 - Cruise control.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 With the   level 1 system, you get thadditional driving automation features to the ones listed above.
 
@@ -219,7 +243,6 @@ With the   level 1 system, you get thadditional driving automation features to t
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -227,7 +250,7 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat folded down, this expands to 1267 liters (44.7 CU FT).
 
-The vehicle’s maximum weight is 2420 kg (5335 lbs), with a base weight of 1884 kg (4154 lbs). This allows for a maximum load of 536 kg (1182 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2430 kg (5357 lbs), with a base weight of 2000 kg (4409 lbs). This allows for a maximum load of 430 kg (948 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
