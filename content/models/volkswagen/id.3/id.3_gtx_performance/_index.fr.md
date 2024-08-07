@@ -91,6 +91,8 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+L'intérieur de la Volkswagen ID.3 GTX Performance est fonctionnel, avec des matériaux de qualité moyenne utilisés partout. Il comprend une console centrale flottante qui crée un espace ouvert entre le passager et le conducteur, offrant des options de rangement pratiques. Le design global privilégie la praticité et la facilité d'utilisation.
+
 ### Sièges
 
 Le Volkswagen ID.3 GTX Performance peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
@@ -107,6 +109,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
 
 - réglage électrique (facultatif)
@@ -116,6 +120,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 

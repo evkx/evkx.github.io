@@ -91,6 +91,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+Interiøret i Volkswagen ID.3 GTX Performance er funksjonelt, med materialer av middels kvalitet brukt gjennomgående. Den inkluderer en flytende midtkonsoll som skaper et åpent rom mellom passasjeren og sjåføren, noe som gir praktiske oppbevaringsmuligheter. Det overordnede designet prioriterer praktisk anvendelse og brukervennlighet.
+
 ### Seter
 
 Volkswagen ID.3 GTX Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -107,6 +109,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+
 Følgende funksjoner er tilgjengelige på **ergoActive** setet.
 
 - elektrisk justering (tilvalg)
@@ -116,6 +120,10 @@ Følgende funksjoner er tilgjengelige på **ergoActive** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
