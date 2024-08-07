@@ -267,7 +267,7 @@ The Audi A6 Avant e-tron performance includes several standard and optional [adv
 
 The Audi A6 Avant e-tron performance offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
 
-With the   level 1 system, you get the following driving automation features.
+With the Standard  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)

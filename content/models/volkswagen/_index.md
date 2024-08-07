@@ -56,7 +56,7 @@ Volkswagen Id. UNYX is a Coupe SUV available in 1 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 is a hatcback available in 4 variants.
+Volkswagen ID.3 is a hatcback available in 5 variants.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

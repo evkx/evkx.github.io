@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-6d138500
+  translation: Volkswagen ID.3 GTX Performance er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 601 km (374 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-3c8e420a
   translation: Audi A6 Sportback e-tron performance er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 756 km (470 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a2864f4e
   translation: Polestar 3 Long Range Single Motor er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 650 km (404 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-eec779be
-  translation: Polestar 3 Long Range Dual Motor er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 631 km (392 miles). EVKX.net har alle detaljerne.
 

@@ -269,7 +269,7 @@ Den Audi A6 Sportback e-tron performance inkluderer flere standard- og valgfri [
 
 Audi A6 Sportback e-tron performance tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
 
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Standard  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)

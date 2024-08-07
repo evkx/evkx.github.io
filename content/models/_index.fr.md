@@ -623,7 +623,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="volkswagen/"><img src="https://media.evkx.net/multimedia/models/volkswagen/brandevs_st.jpg" class="img-fluid mb-2" alt="Volkswagen" ></a>
 	<h2>Volkswagen</h2>
 	<p>
-	Volkswagen a 6 modèles avec un total de 26 variantes.
+	Volkswagen a 6 modèles avec un total de 27 variantes.
 	</p>
 	<a href="volkswagen/" class="btn btn-outline-primary" role="button">Aller à la Volkswagen présentation du modèle EV</a>
 </div>

@@ -56,7 +56,7 @@ Volkswagen Id. UNYX är en Coupe SUV tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.3 är en halvkombi tillgänglig i 4 varianter.
+Volkswagen ID.3 är en halvkombi tillgänglig i 5 varianter.
 </p>
 	<a href="id.3/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

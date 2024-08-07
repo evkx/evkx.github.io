@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-6d138500
+  translation: Volkswagen ID.3 GTX Performance es un hatchback totalmente eléctrico con un WLTP alcance de hasta 601 km (374 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-3c8e420a
   translation: Audi A6 Sportback e-tron performance es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 756 km (470 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a2864f4e
   translation: Polestar 3 Long Range Single Motor es un SUV totalmente eléctrico con una autonomía WLTP de hasta 650 km (404 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-eec779be
-  translation: Polestar 3 Long Range Dual Motor es un SUV totalmente eléctrico con una autonomía WLTP de hasta 631 km (392 millas). EVKX.net tiene todos los detalles.
 

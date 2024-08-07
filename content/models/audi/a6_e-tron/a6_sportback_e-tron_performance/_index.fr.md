@@ -269,7 +269,7 @@ Le Audi A6 Sportback e-tron performance comprend plusieurs [systèmes avancés d
 
 Audi A6 Sportback e-tron performance offre [l'automatisation de la conduite aux niveaux 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système Standard  de niveau 1, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/). (facultatif)

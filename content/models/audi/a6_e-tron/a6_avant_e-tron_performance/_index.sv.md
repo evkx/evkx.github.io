@@ -267,7 +267,7 @@ Audi A6 Avant e-tron performance inkluderar flera [avancerade förarassistanssys
 
 Audi A6 Avant e-tron performance erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
 
-Med   nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Standard  nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-6d138500
+  translation: Volkswagen ID.3 GTX Performance er en helelektrisk kombi med en WLTP rekkevidde på opptil 601 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-3c8e420a
   translation: Audi A6 Sportback e-tron performance er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 756 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a2864f4e
   translation: Polestar 3 Long Range Single Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 650 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-eec779be
-  translation: Polestar 3 Long Range Dual Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 631 km. EVKX.net har alle detaljene.
 
