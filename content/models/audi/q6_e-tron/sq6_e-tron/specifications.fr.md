@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi SQ6 
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm 
+				855 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi SQ6 
 				Vitesse maximale
 			</td>
 			<td>
-				230 km/h 
+				230 km/h
 			</td>
 		</tr>
 		<tr>

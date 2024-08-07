@@ -77,6 +77,7 @@ Lucid Gravity Dream Edition, med dimensjoner på 5034 mm i lengde, 1999 mm i bre
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Gravity Dream Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 - 245/45 dekk på 20" felger
+- 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
 - 265/40 dekk på 22" felger foran og 285/40 dekk på 22" felger bak
 - 265/35 dekk på 23" felger foran og 285/35 dekk på 23" felger bak

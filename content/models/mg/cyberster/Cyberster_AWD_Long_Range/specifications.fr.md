@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Cybers
 				Couple de sortie électrique
 			</td>
 			<td>
-				725 nm 
+				725 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Cybers
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

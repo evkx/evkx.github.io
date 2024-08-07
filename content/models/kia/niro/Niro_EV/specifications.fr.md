@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia Niro 
 				Couple de sortie électrique
 			</td>
 			<td>
-				255 nm 
+				255 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia Niro 
 				Vitesse maximale
 			</td>
 			<td>
-				167 km/h 
+				167 km/h
 			</td>
 		</tr>
 		<tr>

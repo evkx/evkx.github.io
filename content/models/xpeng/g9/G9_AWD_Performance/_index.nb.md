@@ -70,7 +70,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 XPENG G9 AWD Performance, med dimensjoner på 4891 mm i lengde, 1937 mm i bredde og 1670 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på XPENG G9 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på XPENG G9 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

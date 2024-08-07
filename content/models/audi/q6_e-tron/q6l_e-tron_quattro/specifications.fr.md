@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6L 
 				Couple de sortie électrique
 			</td>
 			<td>
-				650 nm 
+				650 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6L 
 				Vitesse maximale
 			</td>
 			<td>
-				210 km/h 
+				210 km/h
 			</td>
 		</tr>
 		<tr>

@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 A
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm 
+				855 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 A
 				Vitesse maximale
 			</td>
 			<td>
-				240 km/h 
+				240 km/h
 			</td>
 		</tr>
 		<tr>

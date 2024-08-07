@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Couple de sortie électrique
 			</td>
 			<td>
-				420 nm 
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				230 km/h 
+				230 km/h
 			</td>
 		</tr>
 		<tr>
@@ -111,7 +111,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Couple de sortie électrique
 			</td>
 			<td>
-				410 nm 
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				230 km/h 
+				230 km/h
 			</td>
 		</tr>
 		<tr>

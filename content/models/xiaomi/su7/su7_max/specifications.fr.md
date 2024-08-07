@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Xiaomi SU
 				Couple de sortie électrique
 			</td>
 			<td>
-				838 nm 
+				838 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Xiaomi SU
 				Vitesse maximale
 			</td>
 			<td>
-				265 km/h 
+				265 km/h
 			</td>
 		</tr>
 		<tr>

@@ -70,7 +70,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 MG MG4 Electric XPOWER, med dimensioner på 4287 mm i längd, 1836 mm i bredd och 1504 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. MG MG4 Electric XPOWER finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
-Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG MG4 Electric XPOWER, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+Du kan välja mellan flera hjulalternativ i olika storlekar på MG MG4 Electric XPOWER, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och den åkandes komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 

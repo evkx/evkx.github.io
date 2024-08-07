@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Mod
 				Couple de sortie électrique
 			</td>
 			<td>
-				420 nm 
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Mod
 				Vitesse maximale
 			</td>
 			<td>
-				225 km/h 
+				225 km/h
 			</td>
 		</tr>
 		<tr>

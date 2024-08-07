@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Cyb
 				Couple de sortie électrique
 			</td>
 			<td>
-				930 nm 
+				930 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Cyb
 				Vitesse maximale
 			</td>
 			<td>
-				209 km/h 
+				209 km/h
 			</td>
 		</tr>
 		<tr>

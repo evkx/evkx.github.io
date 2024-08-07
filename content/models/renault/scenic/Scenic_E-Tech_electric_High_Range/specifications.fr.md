@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Renault S
 				Couple de sortie électrique
 			</td>
 			<td>
-				300 nm 
+				300 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Renault S
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h 
+				170 km/h
 			</td>
 		</tr>
 		<tr>

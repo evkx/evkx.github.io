@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 eD
 				Couple de sortie électrique
 			</td>
 			<td>
-				650 nm 
+				650 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 eD
 				Vitesse maximale
 			</td>
 			<td>
-				205 km/h 
+				205 km/h
 			</td>
 		</tr>
 		<tr>

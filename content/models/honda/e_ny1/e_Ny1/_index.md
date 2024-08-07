@@ -63,7 +63,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Honda e:Ny1, with dimensions of 4390 mm in length, 1790 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
 
-You can select from multiple wheel designs, all available in the same size, on the Honda e:Ny1, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the Honda e:Ny1, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof for this model.
 

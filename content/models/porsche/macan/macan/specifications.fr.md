@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Couple de sortie électrique
 			</td>
 			<td>
-				563 nm 
+				563 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Vitesse maximale
 			</td>
 			<td>
-				220 km/h 
+				220 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio EL6. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				850 nm 
+				850 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio EL6. 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

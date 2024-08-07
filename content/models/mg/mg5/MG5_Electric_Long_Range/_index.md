@@ -70,7 +70,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The MG MG5 Electric Long Range, with dimensions of 4600 mm in length, 1818 mm in width, and 1543 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The MG MG5 Electric Long Range is available in a total of 4 paint colors, including several striking metallic options.
 
-You can select from multiple wheel designs, all available in the same size, on the MG MG5 Electric Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the MG MG5 Electric Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof for this model.
 

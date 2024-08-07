@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 M5
 				Couple de sortie électrique
 			</td>
 			<td>
-				795 nm 
+				795 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 M5
 				Vitesse maximale
 			</td>
 			<td>
-				225 km/h 
+				225 km/h
 			</td>
 		</tr>
 		<tr>

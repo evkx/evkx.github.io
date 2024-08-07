@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Seres 5 4
 				Couple de sortie électrique
 			</td>
 			<td>
-				940 nm 
+				940 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Seres 5 4
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

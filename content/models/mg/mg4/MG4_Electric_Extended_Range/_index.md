@@ -70,7 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG MG4 Electric Extended Range, with dimensions of 4287 mm in length, 1836 mm in width, and 1504 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric Extended Range is available in a total of 7 paint colors, including several striking metallic options.
 
-You can select from multiple wheel designs, all available in the same size, on the MG MG4 Electric Extended Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the MG MG4 Electric Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

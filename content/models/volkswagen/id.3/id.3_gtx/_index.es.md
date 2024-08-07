@@ -92,9 +92,11 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El interior del Volkswagen ID.3 GTX es funcional, con materiales de calidad media utilizados en todo el vehículo. Incluye una consola central flotante que crea un espacio abierto entre el pasajero y el conductor, proporcionando opciones de almacenamiento convenientes. El diseño general prioriza la practicidad y la facilidad de uso.
+
 ### Asientos
 
-Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+El Volkswagen ID.3 GTX tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
 
 #### Asientos de primera fila
 

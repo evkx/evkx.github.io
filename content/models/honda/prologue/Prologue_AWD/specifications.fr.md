@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Honda Pro
 				Couple de sortie électrique
 			</td>
 			<td>
-				451 nm 
+				451 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Honda Pro
 				Vitesse maximale
 			</td>
 			<td>
-				185 km/h 
+				185 km/h
 			</td>
 		</tr>
 		<tr>

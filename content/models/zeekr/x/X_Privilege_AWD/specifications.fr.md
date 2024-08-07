@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr X P
 				Couple de sortie électrique
 			</td>
 			<td>
-				543 nm 
+				543 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr X P
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

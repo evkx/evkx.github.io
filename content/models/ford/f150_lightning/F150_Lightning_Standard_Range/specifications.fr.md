@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford F150
 				Couple de sortie électrique
 			</td>
 			<td>
-				1050 nm 
+				1050 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford F150
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

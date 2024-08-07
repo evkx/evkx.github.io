@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET7. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				700 nm 
+				700 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET7. 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Couple de sortie électrique
 			</td>
 			<td>
-				400 nm 
+				400 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Vitesse maximale
 			</td>
 			<td>
-				190 km/h 
+				190 km/h
 			</td>
 		</tr>
 		<tr>

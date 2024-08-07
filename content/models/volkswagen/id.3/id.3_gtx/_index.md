@@ -92,9 +92,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+The interior of the Volkswagen ID.3 GTX is functional, with medium-quality materials used throughout. It includes a floating center console that creates an open space between the passenger and driver, providing convenient storage options. The overall design prioritizes practicality and ease of use.
+
 ### Seats
 
-This model offers a four-seat layout or an optional 4+1 layout.
+The Volkswagen ID.3 GTX accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
 #### First row seats
 

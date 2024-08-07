@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm 
+				855 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Vitesse maximale
 			</td>
 			<td>
-				210 km/h 
+				210 km/h
 			</td>
 		</tr>
 		<tr>

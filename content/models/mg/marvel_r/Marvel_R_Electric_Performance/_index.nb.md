@@ -68,7 +68,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 MG Marvel R Electric Performance, med dimensjoner på 4674 mm i lengde, 1919 mm i bredde og 1618 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. MG Marvel R Electric Performance er tilgjengelig i totalt 5 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MG Marvel R Electric Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på MG Marvel R Electric Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

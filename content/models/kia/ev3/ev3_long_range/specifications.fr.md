@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV3 L
 				Couple de sortie électrique
 			</td>
 			<td>
-				283 nm 
+				283 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV3 L
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h 
+				170 km/h
 			</td>
 		</tr>
 		<tr>

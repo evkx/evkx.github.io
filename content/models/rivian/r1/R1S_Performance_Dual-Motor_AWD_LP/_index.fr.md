@@ -72,7 +72,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Rivian R1S Performance Dual-Motor AWD LP, avec des dimensions de 5100 mm de longueur,  mm de largeur et 1966 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Rivian R1S Performance Dual-Motor AWD LP est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Rivian R1S Performance Dual-Motor AWD LP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Rivian R1S Performance Dual-Motor AWD LP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon divisé](../../../../technology/doors/#split-tailgate) où la partie inférieure tombe et la partie supérieure se soulève.
 

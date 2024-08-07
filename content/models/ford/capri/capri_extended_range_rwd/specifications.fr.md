@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford Capr
 				Couple de sortie électrique
 			</td>
 			<td>
-				545 nm 
+				545 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford Capr
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

@@ -83,6 +83,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Macan 4S
 - 235/55 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
 - 245/45 däck på 21" fälgar fram och 295/40 däck på 21" fälgar bak
 - 255/40 däck på 22" fälgar fram och 295/35 däck på 22" fälgar bak
+- 265/35 däck på 22" fälgar fram och 305/30 däck på 22" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo C40
 				Couple de sortie électrique
 			</td>
 			<td>
-				420 nm 
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo C40
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

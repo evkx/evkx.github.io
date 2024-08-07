@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo EX9
 				Couple de sortie électrique
 			</td>
 			<td>
-				910 nm 
+				910 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo EX9
 				Vitesse maximale
 			</td>
 			<td>
-				210 km/h 
+				210 km/h
 			</td>
 		</tr>
 		<tr>

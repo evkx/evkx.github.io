@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Couple de sortie électrique
 			</td>
 			<td>
-				410 nm 
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Vitesse maximale
 			</td>
 			<td>
-				160 km/h 
+				160 km/h
 			</td>
 		</tr>
 		<tr>

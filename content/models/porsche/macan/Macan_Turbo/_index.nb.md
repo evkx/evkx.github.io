@@ -81,6 +81,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsch
 - 235/55 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
 - 245/45 dekk på 21" felger foran og 295/40 dekk på 21" felger bak
 - 255/40 dekk på 22" felger foran og 295/35 dekk på 22" felger bak
+- 265/35 dekk på 22" felger foran og 305/30 dekk på 22" felger bak
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 

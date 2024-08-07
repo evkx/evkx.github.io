@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S e-
 				Couple de sortie électrique
 			</td>
 			<td>
-				740 nm 
+				740 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S e-
 				Vitesse maximale
 			</td>
 			<td>
-				245 km/h 
+				245 km/h
 			</td>
 		</tr>
 		<tr>

@@ -92,9 +92,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+Interiøret i Volkswagen ID.3 GTX er funktionelt, med materialer af middel kvalitet brugt overalt. Det inkluderer en svævende midterkonsol, der skaber et åbent rum mellem passageren og føreren, hvilket giver praktiske opbevaringsmuligheder. Det overordnede design prioriterer praktisk anvendelse og brugervenlighed.
+
 ### Sæder
 
-Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Volkswagen ID.3 GTX har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
 
 #### Første række sæder
 

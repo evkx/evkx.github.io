@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus RZ 
 				Couple de sortie électrique
 			</td>
 			<td>
-				435 nm 
+				435 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus RZ 
 				Vitesse maximale
 			</td>
 			<td>
-				160 km/h 
+				160 km/h
 			</td>
 		</tr>
 		<tr>

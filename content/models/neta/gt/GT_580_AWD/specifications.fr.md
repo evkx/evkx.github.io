@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Neta GT 5
 				Couple de sortie électrique
 			</td>
 			<td>
-				620 nm 
+				620 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Neta GT 5
 				Vitesse maximale
 			</td>
 			<td>
-				190 km/h 
+				190 km/h
 			</td>
 		</tr>
 		<tr>

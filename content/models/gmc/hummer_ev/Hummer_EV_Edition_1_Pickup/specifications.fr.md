@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour GMC Humme
 				Couple de sortie électrique
 			</td>
 			<td>
-				1150 nm 
+				1150 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour GMC Humme
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h 
+				170 km/h
 			</td>
 		</tr>
 		<tr>

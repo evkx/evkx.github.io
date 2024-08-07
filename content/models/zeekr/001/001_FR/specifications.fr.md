@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr 001
 				Couple de sortie électrique
 			</td>
 			<td>
-				1200 nm 
+				1200 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr 001
 				Vitesse maximale
 			</td>
 			<td>
-				280 km/h 
+				280 km/h
 			</td>
 		</tr>
 		<tr>

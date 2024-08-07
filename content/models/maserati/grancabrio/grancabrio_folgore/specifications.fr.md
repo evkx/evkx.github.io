@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Maserati 
 				Couple de sortie électrique
 			</td>
 			<td>
-				820 nm 
+				820 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Maserati 
 				Vitesse maximale
 			</td>
 			<td>
-				220 km/h 
+				220 km/h
 			</td>
 		</tr>
 		<tr>

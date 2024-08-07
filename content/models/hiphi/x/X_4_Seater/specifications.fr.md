@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 				Couple de sortie électrique
 			</td>
 			<td>
-				820 nm 
+				820 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour HiPhi X 4
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

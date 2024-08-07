@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Couple de sortie électrique
 			</td>
 			<td>
-				660 nm 
+				660 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Vitesse maximale
 			</td>
 			<td>
-				202 km/h 
+				202 km/h
 			</td>
 		</tr>
 		<tr>

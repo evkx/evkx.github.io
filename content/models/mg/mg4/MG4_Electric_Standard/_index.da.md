@@ -70,7 +70,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Den MG MG4 Electric Standard, med dimensioner på 4287 mm i længde, 1836 mm i bredde og 1504 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. MG MG4 Electric Standard fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG MG4 Electric Standard, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjul i forskellige størrelser på MG MG4 Electric Standard, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 

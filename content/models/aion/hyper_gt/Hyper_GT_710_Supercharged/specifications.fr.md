@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Aion Hype
 				Couple de sortie électrique
 			</td>
 			<td>
-				430 nm 
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Aion Hype
 				Vitesse maximale
 			</td>
 			<td>
-				257 km/h 
+				257 km/h
 			</td>
 		</tr>
 		<tr>

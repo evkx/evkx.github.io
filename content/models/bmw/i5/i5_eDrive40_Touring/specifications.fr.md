@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 eD
 				Couple de sortie électrique
 			</td>
 			<td>
-				430 nm 
+				430 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 eD
 				Vitesse maximale
 			</td>
 			<td>
-				193 km/h 
+				193 km/h
 			</td>
 		</tr>
 		<tr>

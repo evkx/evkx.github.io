@@ -72,7 +72,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Rivian R1T Performance Dual-Motor AWD MP fås i alt 9 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Rivian R1T Performance Dual-Motor AWD MP, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjul i forskellige størrelser på Rivian R1T Performance Dual-Motor AWD MP, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Bagklappen er elektrisk drevet.
 

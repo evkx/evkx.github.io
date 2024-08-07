@@ -65,7 +65,7 @@ Subaru Solterra AWD har et firehjulsdriftssystem som støttes av to motorer, en 
 
 Subaru Solterra AWD, med dimensjoner på 4690 mm i lengde, 1860 mm i bredde og 1650 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Subaru Solterra AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Subaru Solterra AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

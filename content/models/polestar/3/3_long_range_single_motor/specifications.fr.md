@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Polestar 
 				Couple de sortie électrique
 			</td>
 			<td>
-				490 nm 
+				490 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Polestar 
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Opel Astr
 				Couple de sortie électrique
 			</td>
 			<td>
-				260 nm 
+				260 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Opel Astr
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h 
+				170 km/h
 			</td>
 		</tr>
 		<tr>

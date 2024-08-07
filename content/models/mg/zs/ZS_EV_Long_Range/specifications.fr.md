@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG ZS EV 
 				Couple de sortie électrique
 			</td>
 			<td>
-				280 nm 
+				280 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG ZS EV 
 				Vitesse maximale
 			</td>
 			<td>
-				175 km/h 
+				175 km/h
 			</td>
 		</tr>
 		<tr>

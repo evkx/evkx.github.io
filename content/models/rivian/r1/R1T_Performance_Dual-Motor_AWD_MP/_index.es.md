@@ -72,7 +72,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Rivian R1T Performance Dual-Motor AWD MP está disponible en un total de 9 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Rivian R1T Performance Dual-Motor AWD MP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Rivian R1T Performance Dual-Motor AWD MP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. La puerta trasera funciona eléctricamente.
 

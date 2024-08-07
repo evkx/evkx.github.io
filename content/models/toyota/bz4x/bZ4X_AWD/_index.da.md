@@ -65,7 +65,7 @@ Toyota bZ4X AWD har et firehjulstræk, der understøttes af to motorer, en på h
 
 Den Toyota bZ4X AWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
-Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Toyota bZ4X AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjul i forskellige størrelser på Toyota bZ4X AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fisker Oc
 				Couple de sortie électrique
 			</td>
 			<td>
-				386 nm 
+				386 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fisker Oc
 				Vitesse maximale
 			</td>
 			<td>
-				188 km/h 
+				188 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G9 
 				Couple de sortie électrique
 			</td>
 			<td>
-				717 nm 
+				717 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G9 
 				Vitesse maximale
 			</td>
 			<td>
-				205 km/h 
+				205 km/h
 			</td>
 		</tr>
 		<tr>

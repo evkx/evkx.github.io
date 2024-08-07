@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Dacia Spr
 				Couple de sortie électrique
 			</td>
 			<td>
-				113 nm 
+				113 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Dacia Spr
 				Vitesse maximale
 			</td>
 			<td>
-				125 km/h 
+				125 km/h
 			</td>
 		</tr>
 		<tr>

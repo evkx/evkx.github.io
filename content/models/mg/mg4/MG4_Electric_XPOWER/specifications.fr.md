@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG MG4 El
 				Couple de sortie électrique
 			</td>
 			<td>
-				600 nm 
+				600 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG MG4 El
 				Vitesse maximale
 			</td>
 			<td>
-				160 km/h 
+				160 km/h
 			</td>
 		</tr>
 		<tr>

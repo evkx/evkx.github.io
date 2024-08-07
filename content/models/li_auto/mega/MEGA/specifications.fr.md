@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Li Auto M
 				Couple de sortie électrique
 			</td>
 			<td>
-				542 nm 
+				542 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Li Auto M
 				Vitesse maximale
 			</td>
 			<td>
-				190 km/h 
+				190 km/h
 			</td>
 		</tr>
 		<tr>

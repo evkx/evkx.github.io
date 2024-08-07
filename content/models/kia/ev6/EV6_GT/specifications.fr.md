@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV6 G
 				Couple de sortie électrique
 			</td>
 			<td>
-				740 nm 
+				740 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV6 G
 				Vitesse maximale
 			</td>
 			<td>
-				260 km/h 
+				260 km/h
 			</td>
 		</tr>
 		<tr>

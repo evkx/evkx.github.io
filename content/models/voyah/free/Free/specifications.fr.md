@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour VOYAH FRE
 				Couple de sortie électrique
 			</td>
 			<td>
-				720 nm 
+				720 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour VOYAH FRE
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h 
+				200 km/h
 			</td>
 		</tr>
 		<tr>

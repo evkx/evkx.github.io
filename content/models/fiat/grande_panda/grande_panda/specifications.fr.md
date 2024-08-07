@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fiat Gran
 				Couple de sortie électrique
 			</td>
 			<td>
-				120 nm 
+				120 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fiat Gran
 				Vitesse maximale
 			</td>
 			<td>
-				135 km/h 
+				135 km/h
 			</td>
 		</tr>
 		<tr>

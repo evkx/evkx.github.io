@@ -68,7 +68,7 @@ The maximum regenerative power is 400 kW.
 
 The GMC Hummer EV Edition 1 Pickup is available in a total of 1 paint colors, including several striking metallic options.
 
-You can select from multiple wheel designs, all available in the same size, on the GMC Hummer EV Edition 1 Pickup, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the GMC Hummer EV Edition 1 Pickup, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

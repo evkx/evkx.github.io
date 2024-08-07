@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Alfa Rome
 				Couple de sortie électrique
 			</td>
 			<td>
-				400 nm 
+				400 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Alfa Rome
 				Vitesse maximale
 			</td>
 			<td>
-				150 km/h 
+				150 km/h
 			</td>
 		</tr>
 		<tr>

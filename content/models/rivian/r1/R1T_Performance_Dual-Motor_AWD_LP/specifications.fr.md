@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Couple de sortie électrique
 			</td>
 			<td>
-				1124 nm 
+				1124 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Vitesse maximale
 			</td>
 			<td>
-				201 km/h 
+				201 km/h
 			</td>
 		</tr>
 		<tr>

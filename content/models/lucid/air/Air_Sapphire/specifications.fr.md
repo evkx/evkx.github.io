@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Air
 				Couple de sortie électrique
 			</td>
 			<td>
-				1390 nm 
+				1390 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Air
 				Vitesse maximale
 			</td>
 			<td>
-				330 km/h 
+				330 km/h
 			</td>
 		</tr>
 		<tr>

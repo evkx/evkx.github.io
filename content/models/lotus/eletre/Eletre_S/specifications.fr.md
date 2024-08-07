@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lotus Ele
 				Couple de sortie électrique
 			</td>
 			<td>
-				710 nm 
+				710 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lotus Ele
 				Vitesse maximale
 			</td>
 			<td>
-				258 km/h 
+				258 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 M6
 				Couple de sortie électrique
 			</td>
 			<td>
-				795 nm 
+				795 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 M6
 				Vitesse maximale
 			</td>
 			<td>
-				230 km/h 
+				230 km/h
 			</td>
 		</tr>
 		<tr>

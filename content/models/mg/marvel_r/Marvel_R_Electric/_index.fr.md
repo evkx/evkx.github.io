@@ -68,7 +68,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La MG Marvel R Electric, avec des dimensions de 4674 mm de longueur, 1919 mm de largeur et 1618 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La MG Marvel R Electric est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
-Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG Marvel R Electric, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'MG Marvel R Electric, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

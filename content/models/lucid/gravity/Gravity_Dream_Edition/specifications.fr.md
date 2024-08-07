@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Gra
 				Couple de sortie électrique
 			</td>
 			<td>
-				1000 nm 
+				1000 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Gra
 				Vitesse maximale
 			</td>
 			<td>
-				250 km/h 
+				250 km/h
 			</td>
 		</tr>
 		<tr>

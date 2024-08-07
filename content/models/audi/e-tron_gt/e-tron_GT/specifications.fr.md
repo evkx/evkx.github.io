@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Couple de sortie électrique
 			</td>
 			<td>
-				630 nm 
+				630 nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +63,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Vitesse maximale
 			</td>
 			<td>
-				245 km/h 
+				245 km/h
 			</td>
 		</tr>
 		<tr>

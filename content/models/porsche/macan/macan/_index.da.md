@@ -81,6 +81,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Porsche Macan, så
 - 235/55 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
 - 245/45 dæk på 21" fælge foran og 295/40 dæk på 21" fælge bagpå
 - 255/40 dæk på 22" fælge foran og 295/35 dæk på 22" fælge bagpå
+- 265/35 dæk på 22" fælge foran og 305/30 dæk på 22" fælge bagpå
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 

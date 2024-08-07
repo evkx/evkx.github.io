@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rimac Nev
 				Couple de sortie électrique
 			</td>
 			<td>
-				2340 nm 
+				2340 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rimac Nev
 				Vitesse maximale
 			</td>
 			<td>
-				412 km/h 
+				412 km/h
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Toyota bZ
 				Couple de sortie électrique
 			</td>
 			<td>
-				337 nm 
+				337 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Toyota bZ
 				Vitesse maximale
 			</td>
 			<td>
-				160 km/h 
+				160 km/h
 			</td>
 		</tr>
 		<tr>

@@ -72,7 +72,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1T Performance Dual-Motor AWD MP is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel designs, all available in the same size, on the Rivian R1T Performance Dual-Motor AWD MP, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the Rivian R1T Performance Dual-Motor AWD MP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 

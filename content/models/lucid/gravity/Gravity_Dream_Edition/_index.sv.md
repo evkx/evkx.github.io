@@ -77,6 +77,7 @@ Lucid Gravity Dream Edition, med dimensioner på 5034 mm i längd, 1999 mm i bre
 Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Gravity Dream Edition, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
 - 245/45 däck på 20" fälgar
+- 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 - 265/40 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
 - 265/35 däck på 23" fälgar fram och 285/35 däck på 23" fälgar bak

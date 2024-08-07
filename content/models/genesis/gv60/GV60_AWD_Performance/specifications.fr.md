@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Genesis G
 				Couple de sortie électrique
 			</td>
 			<td>
-				700 nm 
+				700 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Genesis G
 				Vitesse maximale
 			</td>
 			<td>
-				235 km/h 
+				235 km/h
 			</td>
 		</tr>
 		<tr>

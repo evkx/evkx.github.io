@@ -81,6 +81,7 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 - Pneus 235/55 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 20" à l'arrière
 - Pneus 245/45 sur jantes de 21" à l'avant et pneus 295/40 sur jantes de 21" à l'arrière
 - Pneus 255/40 sur jantes de 22" à l'avant et pneus 295/35 sur jantes de 22" à l'arrière
+- Pneus 265/35 sur jantes de 22" à l'avant et pneus 305/30 sur jantes de 22" à l'arrière
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 

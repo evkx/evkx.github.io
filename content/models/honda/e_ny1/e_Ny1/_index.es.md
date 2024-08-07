@@ -63,7 +63,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Honda e:Ny1, con dimensiones de 4390 mm de longitud, 1790 mm de anchura y  mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda e:Ny1, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Honda e:Ny1, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
 Sólo hay un techo para este modelo.
 

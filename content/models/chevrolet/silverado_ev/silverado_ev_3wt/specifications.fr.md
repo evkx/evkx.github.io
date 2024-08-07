@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Couple de sortie électrique
 			</td>
 			<td>
-				834 nm 
+				834 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Vitesse maximale
 			</td>
 			<td>
-				170 km/h 
+				170 km/h
 			</td>
 		</tr>
 		<tr>

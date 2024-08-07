@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Vitesse maximale
 			</td>
 			<td>
-				300 km/h 
+				300 km/h
 			</td>
 		</tr>
 		<tr>

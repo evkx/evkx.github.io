@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour CUPRA Tav
 				Couple de sortie électrique
 			</td>
 			<td>
-				679 nm 
+				679 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour CUPRA Tav
 				Vitesse maximale
 			</td>
 			<td>
-				180 km/h 
+				180 km/h
 			</td>
 		</tr>
 		<tr>

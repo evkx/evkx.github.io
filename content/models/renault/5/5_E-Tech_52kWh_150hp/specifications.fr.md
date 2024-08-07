@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Renault 5
 				Couple de sortie électrique
 			</td>
 			<td>
-				245 nm 
+				245 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Renault 5
 				Vitesse maximale
 			</td>
 			<td>
-				150 km/h 
+				150 km/h
 			</td>
 		</tr>
 		<tr>

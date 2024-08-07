@@ -70,7 +70,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El XPENG G9 RWD Standard Range, con dimensiones de 4891 mm de longitud, 1937 mm de anchura y 1670 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
-Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el XPENG G9 RWD Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el XPENG G9 RWD Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

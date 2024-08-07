@@ -65,7 +65,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The Toyota bZ4X FWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1550 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 1 different paint colors when ordering this model.
 
-You can select from multiple wheel designs, all available in the same size, on the Toyota bZ4X FWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the Toyota bZ4X FWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

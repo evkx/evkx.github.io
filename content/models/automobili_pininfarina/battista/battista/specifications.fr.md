@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Automobil
 				Couple de sortie électrique
 			</td>
 			<td>
-				2340 nm 
+				2340 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Automobil
 				Vitesse maximale
 			</td>
 			<td>
-				350 km/h 
+				350 km/h
 			</td>
 		</tr>
 		<tr>

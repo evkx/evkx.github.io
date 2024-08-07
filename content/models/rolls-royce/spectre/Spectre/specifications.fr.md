@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rolls-Roy
 				Couple de sortie électrique
 			</td>
 			<td>
-				900 nm 
+				900 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rolls-Roy
 				Vitesse maximale
 			</td>
 			<td>
-				250 km/h 
+				250 km/h
 			</td>
 		</tr>
 		<tr>

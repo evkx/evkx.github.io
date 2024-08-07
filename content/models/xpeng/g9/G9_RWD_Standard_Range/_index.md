@@ -70,7 +70,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The XPENG G9 RWD Standard Range, with dimensions of 4891 mm in length, 1937 mm in width, and 1670 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 5 different paint colors when ordering this model.
 
-You can select from multiple wheel designs, all available in the same size, on the XPENG G9 RWD Standard Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+You can select from multiple wheel options in different sizes on the XPENG G9 RWD Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

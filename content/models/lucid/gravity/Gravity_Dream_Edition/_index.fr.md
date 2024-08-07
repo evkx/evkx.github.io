@@ -77,6 +77,7 @@ La Lucid Gravity Dream Edition, avec des dimensions de 5034 mm de longueur, 1999
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lucid Gravity Dream Edition, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 - Pneus 245/45 sur jantes de 20"
+- Pneus 245/40 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
 - Pneus 245/40 sur jantes de 21" à l'avant et pneus 265/40 sur jantes de 21" à l'arrière
 - Pneus 265/40 sur jantes de 22" à l'avant et pneus 285/40 sur jantes de 22" à l'arrière
 - Pneus 265/35 sur jantes de 23" à l'avant et pneus 285/35 sur jantes de 23" à l'arrière

@@ -77,6 +77,7 @@ The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm i
 You can select from multiple wheel options in different sizes on the Lucid Gravity Dream Edition, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/45 tires on 20" rims
+- 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 285/40 tires on 22" rims rear
 - 265/35 tires on 23" rims front and 285/35 tires on 23" rims rear

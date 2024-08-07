@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Couple de sortie électrique
 			</td>
 			<td>
-				1680 nm 
+				1680 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Vitesse maximale
 			</td>
 			<td>
-				309 km/h 
+				309 km/h
 			</td>
 		</tr>
 		<tr>

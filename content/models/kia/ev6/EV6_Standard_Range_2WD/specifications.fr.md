@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV6 S
 				Couple de sortie électrique
 			</td>
 			<td>
-				350 nm 
+				350 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV6 S
 				Vitesse maximale
 			</td>
 			<td>
-				185 km/h 
+				185 km/h
 			</td>
 		</tr>
 		<tr>

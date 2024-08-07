@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Cadillac 
 				Couple de sortie électrique
 			</td>
 			<td>
-				450 nm 
+				450 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Cadillac 
 				Vitesse maximale
 			</td>
 			<td>
-				190 km/h 
+				190 km/h
 			</td>
 		</tr>
 		<tr>

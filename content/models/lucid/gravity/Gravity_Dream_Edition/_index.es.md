@@ -77,6 +77,7 @@ El Lucid Gravity Dream Edition, con dimensiones de 5034 mm de longitud, 1999 mm 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lucid Gravity Dream Edition, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
 - Neumáticos 245/45 en llantas de 20
+- Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
 - Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 285/40 en llantas de 22" traseras
 - Neumáticos 265/35 en llantas de 23" delanteras y neumáticos 285/35 en llantas de 23" traseras

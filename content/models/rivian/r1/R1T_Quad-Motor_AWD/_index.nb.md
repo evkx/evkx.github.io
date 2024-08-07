@@ -73,7 +73,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Rivian R1T Quad-Motor AWD er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
-Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Rivian R1T Quad-Motor AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian R1T Quad-Motor AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. Bakluken er elektrisk drevet.
 

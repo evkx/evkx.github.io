@@ -90,6 +90,7 @@ You can select from multiple wheel options in different sizes on the Porsche Mac
 - 235/55 tires on 20" rims front and 285/45 tires on 20" rims rear
 - 245/45 tires on 21" rims front and 295/40 tires on 21" rims rear
 - 255/40 tires on 22" rims front and 295/35 tires on 22" rims rear
+- 265/35 tires on 22" rims front and 305/30 tires on 22" rims rear
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
