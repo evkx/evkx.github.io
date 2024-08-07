@@ -521,7 +521,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
 			</td>
 			<td>
-				100 kg (220 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 	</tbody>

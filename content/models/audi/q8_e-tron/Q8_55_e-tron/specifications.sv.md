@@ -561,7 +561,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Släpvagnskopplingens maximala vikt
 			</td>
 			<td>
-				100 kg
+				80 kg
 			</td>
 		</tr>
 	</tbody>
