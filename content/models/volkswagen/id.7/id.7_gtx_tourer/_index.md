@@ -66,17 +66,17 @@ The Volkswagen ID.7 GTX Tourer uses [disc brakes](../../../../technology/brakes/
 
 ### Regenerative braking
 
-The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
 ## Exterior
 
-The Volkswagen ID.7 GTX Tourer, with dimensions of 4961 mm in length, 1862 mm in width, and 1532 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 GTX Tourer is available in a total of 10 paint colors, including both solid and metallic options.
+The Volkswagen ID.7 GTX Tourer, with dimensions of 4961 mm in length, 1862 mm in width, and 1549 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 GTX Tourer is available in a total of 5 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.7 GTX Tourer, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
-- 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
-- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
+- 235/50 tires on 19" rims front and 255/45 tires on 19" rims rear
+- 235/45 tires on 20" rims front and 255/40 tires on 20" rims rear
+- 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
@@ -105,23 +105,24 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type.
 
-The following functionalities are available on the **ergoActive Top-Sport** seat.
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
+The following functionalities are available on the **ergoActive** seat.
 
 - electric adjustment (optional)
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 1 different materials/colors for this seat type.
+
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -159,15 +160,17 @@ Key screen details:
 - The  screen on the steering column is 5.0 inches large
 - The touch screen on the dashboard's center is 15.0 inches large
 
-A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 
 ### Navigation System
 
-With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Phone Mirroring
 
@@ -178,13 +181,13 @@ Furthermore, the Volkswagen ID.7 GTX Tourer supports Android Auto and Apple CarP
 You can choose between two sound systems on the Volkswagen ID.7 GTX Tourer.
 
 - With the Sound system, you get six speakers with a max system output of 140 watts.
-- With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+- With the Harman Kardon Soundsystem, you get 12 speakers with a max system output of 700 watts.
 
 The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+lights.technology.standard.ledmatrix.corneringlight
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
@@ -206,13 +209,17 @@ The Volkswagen ID.7 GTX Tourer includes several standard and optional [advanced 
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Volkswagen ID.7 GTX Tourer, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Volkswagen ID.7 GTX Tourer, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Volkswagen ID.7 GTX Tourer, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Volkswagen ID.7 GTX Tourer, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Volkswagen ID.7 GTX Tourer, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Volkswagen ID.7 GTX Tourer, this side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Volkswagen ID.7 GTX Tourer, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Volkswagen ID.7 GTX Tourer, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -225,13 +232,18 @@ With the   level 1 system, you get the following driving automation features.
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 605 liters (21.4 CU FT). With the rear seat folded down, this expands to 1714 liters (60.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+The trunk offers a cargo capacity of 605 liters (21.4 CU FT). With the rear seat folded down, this expands to 1714 liters (60.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2800 kg (6173 lbs), with a base weight of 2264 kg (4991 lbs). This allows for a maximum load of 536 kg (1182 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

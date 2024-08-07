@@ -70,7 +70,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Volkswagen ID.3 GTX, med dimensjoner på 4264 mm i lengde, 1809 mm i bredde og 1564 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Volkswagen ID.3 GTX er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
+Volkswagen ID.3 GTX, med dimensjoner på 4264 mm i lengde, 1809 mm i bredde og 1564 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Volkswagen ID.3 GTX er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.3 GTX, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

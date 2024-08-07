@@ -70,7 +70,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen ID.3 GTX Performance, avec des dimensions de 4264 mm de longueur, 1809 mm de largeur et 1564 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX Performance est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Volkswagen ID.3 GTX Performance, avec des dimensions de 4264 mm de longueur, 1809 mm de largeur et 1564 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 GTX Performance est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 GTX Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

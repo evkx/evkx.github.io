@@ -70,7 +70,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Volkswagen ID.3 GTX, con dimensiones de 4264 mm de longitud, 1809 mm de anchura y 1564 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Volkswagen ID.3 GTX está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Volkswagen ID.3 GTX, con dimensiones de 4264 mm de longitud, 1809 mm de anchura y 1564 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Volkswagen ID.3 GTX está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.3 GTX, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

@@ -70,7 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Volkswagen ID.3 GTX, with dimensions of 4264 mm in length, 1809 mm in width, and 1564 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX is available in a total of 5 paint colors, including both solid and metallic options.
+The Volkswagen ID.3 GTX, with dimensions of 4264 mm in length, 1809 mm in width, and 1564 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX is available in a total of 5 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.3 GTX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
