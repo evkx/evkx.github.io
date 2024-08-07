@@ -416,7 +416,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,21
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Främre överhängsvinkel
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bakre överhängsvinkel
 			</td>
 			<td>
-				23,7
+				17,2
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				514 liter
+				502 liter
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1517 liter
+				1330 liter
 			</td>
 		</tr>
 		<tr>

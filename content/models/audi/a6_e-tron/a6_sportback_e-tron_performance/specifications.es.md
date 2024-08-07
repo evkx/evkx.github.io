@@ -36,10 +36,26 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 		</tr>
 		<tr>
 			<td>
+				Potencia máxima con impulso
+			</td>
+			<td>
+				280 KW (381 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Salida de par eléctrico
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aumento de la salida de par eléctrico
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -481,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				514 litro
+				502 litro
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1517 litro
+				1330 litro
 			</td>
 		</tr>
 		<tr>

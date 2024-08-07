@@ -416,7 +416,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,21
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Zone frontale
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Angle de porte-à-faux avant
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Angle de porte-à-faux arrière
 			</td>
 			<td>
-				23,7
+				17,2
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				514 litre
+				502 litre
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1517 litre
+				1330 litre
 			</td>
 		</tr>
 		<tr>

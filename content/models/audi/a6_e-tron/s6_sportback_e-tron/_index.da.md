@@ -280,7 +280,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 514 liter. Med det bageste sæde foldet ned, udvides dette til 1517 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 27 liter.
+Bagagerummet har en lastekapacitet på 502 liter. Med det bageste sæde foldet ned, udvides dette til 1330 liter. På taget kan du laste op til 75 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 27 liter.
 
 Køretøjets maksimale vægt er 2965 kg, med en basisvægt på 2325 kg. Dette giver en maksimal last på 640 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

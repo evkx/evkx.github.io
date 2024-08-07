@@ -36,10 +36,26 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 		</tr>
 		<tr>
 			<td>
+				Peak power with  boost
+			</td>
+			<td>
+				280 KW (381 hp /375 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Electrical torque output
 			</td>
 			<td>
 				565 nm (417 lb-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Sportback e-
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -481,7 +505,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				514 liter (18 cu-ft)
+				502 liter (18 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +513,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1517 liter (54 cu-ft)
+				1330 liter (47 cu-ft)
 			</td>
 		</tr>
 		<tr>

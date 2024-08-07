@@ -36,10 +36,26 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Sportback e
 		</tr>
 		<tr>
 			<td>
+				Maks effekt med boost
+			</td>
+			<td>
+				280 KW (381 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Dreiemoment
 			</td>
 			<td>
 				565 nm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				565 Nm
 			</td>
 		</tr>
 		<tr>
@@ -53,6 +69,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Sportback e
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				5,4 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				5,4 s
@@ -481,7 +505,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				514 liter
+				502 liter
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +513,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1517 liter
+				1330 liter
 			</td>
 		</tr>
 		<tr>

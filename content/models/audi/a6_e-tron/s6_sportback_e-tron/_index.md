@@ -280,7 +280,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 514 liters (18.2 CU FT). With the rear seat folded down, this expands to 1517 liters (53.6 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Optional roof rails are available for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 27 liters (1.0 CU FT).
+The trunk offers a cargo capacity of 502 liters (17.7 CU FT). With the rear seat folded down, this expands to 1330 liters (47.0 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Optional roof rails are available for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 27 liters (1.0 CU FT).
 
 The vehicle’s maximum weight is 2965 kg (6537 lbs), with a base weight of 2325 kg (5126 lbs). This allows for a maximum load of 640 kg (1411 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

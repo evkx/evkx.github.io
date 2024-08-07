@@ -513,7 +513,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1422 liter
+				1330 liter
 			</td>
 		</tr>
 		<tr>

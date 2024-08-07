@@ -416,7 +416,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,21
+				0,24
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Área frontal
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo frontal
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +440,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo trasero
 			</td>
 			<td>
-				23,7
+				17,2
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				514 litro
+				502 litro
 			</td>
 		</tr>
 		<tr>
@@ -513,7 +513,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1517 litro
+				1330 litro
 			</td>
 		</tr>
 		<tr>

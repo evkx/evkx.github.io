@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av Audi A6 Sportback e-tron performance i avsni
 
 ## Prestanda
 
-Audi A6 Sportback e-tron performance levererar en solid prestanda med en maximal effekt på 270 kW (367 hk) och ett totalt vridmoment på 565 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
+Med overboost når Audi A6 Sportback e-tron performance en maximal effekt på 280 kW (381 hk). Utan overboost levererar den 270 kW (367 hk). Det maximala vridmomentet är 565 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 210 km/h, vilket demonstrerar dess solida prestanda.
 
 ## Batteri, räckvidd och laddning
 
@@ -287,7 +287,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 514 liter. Med baksätena nedfällda ökar detta till 1517 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 27 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 502 liter. Med baksätena nedfällda ökar detta till 1330 liter. På taket kan du lasta upp till 75 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 27 liter.
 
 Fordonets maximala vikt är 2750 kg, med en grundvikt på 2175 kg. Detta tillåter en maximal last på 575 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

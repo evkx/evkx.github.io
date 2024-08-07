@@ -26,7 +26,7 @@ Nous avons séparé notre article Audi A6 Sportback e-tron performance en sectio
 
 ## Performances
 
-La Audi A6 Sportback e-tron performance offre des performances solides avec une puissance maximale de 270 kW (367 ch) et un couple total de 565 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
+Avec overboost, l'Audi A6 Sportback e-tron performance atteint une puissance maximale de  280 kW (381 ch). Sans overboost, elle délivre 270 kW (367 ch). Le couple maximal est de 565 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteint une vitesse maximale de 210 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 
@@ -287,7 +287,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 514 litres. Avec les sièges arrière rabattus, cette capacité passe à 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 27 litres.
+Le coffre offre une capacité de chargement de 502 litres. Avec les sièges arrière rabattus, cette capacité passe à 1330 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 27 litres.
 
 Le poids maximum du véhicule est de 2750 kg, avec un poids de base de 2175 kg. Cela permet une charge maximale de 575 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
