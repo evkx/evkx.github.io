@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				84 kWh
+				82 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1275,7 +1275,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Infotainmentskärm
 			</td>
 			<td>
-				Ja, 12,3
+				Ja, 12,9
 			</td>
 		</tr>
 		<tr>

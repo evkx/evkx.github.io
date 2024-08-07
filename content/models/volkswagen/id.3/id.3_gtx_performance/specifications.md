@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				84 kWh
+				82 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1275,7 +1275,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 12,3"
+				Yes, 12,9"
 			</td>
 		</tr>
 		<tr>

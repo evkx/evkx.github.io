@@ -1066,7 +1066,39 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Dispositions d'écran disponibles
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Affichage numérique du pilote
+			</td>
+			<td>
+				Oui, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement
+			</td>
+			<td>
+				Oui, 12,9"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement du passager avant
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Écran d'infodivertissement passager arrière
+			</td>
+			<td>
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

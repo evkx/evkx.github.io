@@ -30,7 +30,7 @@ The Volkswagen ID.3 GTX Performance delivers a solid performance with a maximum 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 84 kWh and a net usable capacity of 79 kWh, providing an 5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 601 km (374 miles), with an energy consumption rate of 13.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -129,8 +129,9 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available.
+Two climate system options are available:
 
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
@@ -152,7 +153,7 @@ The Volkswagen ID.3 GTX Performance has twin screens with information for the dr
 Key screen details:
 
 - The  screen on the steering column is 5.0 inches large
-- The touch screen on the dashboard's center is 12.3 inches large
+- The touch screen on the dashboard's center is 12.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
@@ -161,6 +162,8 @@ A head-up display is an optional system that projects speed and other important 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
+
+The Volkswagen ID.3 GTX Performance features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Volkswagen has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
 
 ### Navigation System
 
@@ -211,6 +214,8 @@ The Volkswagen ID.3 GTX Performance includes several standard and optional [adva
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Volkswagen ID.3 GTX Performance, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Optional on the Volkswagen ID.3 GTX Performance, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The Volkswagen ID.3 GTX Performance offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -218,6 +223,7 @@ The Volkswagen ID.3 GTX Performance offers [driving automation at levels 1 or 2]
 With the standard system the model offers no driving automation.
 
 - Cruise control.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 With the   level 1 system, you get thadditional driving automation features to the ones listed above.
 
@@ -226,7 +232,6 @@ With the   level 1 system, you get thadditional driving automation features to t
 With the Assistantpackage plus  level 2 system, you get additional driving automation features to the ones listed above.
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 {{<evkxdisplayaddarticle />}}
 

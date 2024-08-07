@@ -1066,7 +1066,39 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Tilgængelige skærmlayouts
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital drivervisning
+			</td>
+			<td>
+				Ja, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskærm
+			</td>
+			<td>
+				Ja, 12,9"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Forreste passagerinfotainmentskærm
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagstpassager Infotainmentskærm
+			</td>
+			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>

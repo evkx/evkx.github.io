@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				84 kWh
+				82 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1275,7 +1275,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 12,3"
+				Sí, 12,9"
 			</td>
 		</tr>
 		<tr>

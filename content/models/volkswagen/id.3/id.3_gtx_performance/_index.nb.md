@@ -30,7 +30,7 @@ Volkswagen ID.3 GTX Performance leverer solid ytelse med en maksimal effekt på 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 84 kWh og en netto brukbar kapasitet på 79 kWh, som gir en buffer på 5 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 352 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 79 kWh, som gir en buffer på 3 kWh (3,7%) for batteribeskyttelse. Med en nominell spenning på 352 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 601 km, med et energiforbruk på 13,1 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -129,8 +129,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem.
+To klimasystemalternativer er tilgjengelige:
 
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
@@ -152,7 +153,7 @@ Volkswagen ID.3 GTX Performance har to skjermer med informasjon for sjåføren o
 Viktige skjermdetaljer:
 
 - -skjermen på rattstammen er 5,0 tommer stor
-- touch-skjermen i dashbordets sentrum er 12,3 tommer stor
+- touch-skjermen i dashbordets sentrum er 12,9 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
@@ -161,6 +162,8 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
+
+Volkswagen ID.3 GTX Performance har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Volkswagen integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
 
 ### Navigasjonssystem
 
@@ -211,6 +214,8 @@ Volkswagen ID.3 GTX Performance inkluderer flere [avanserte førerassistanse sys
 
 [**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Volkswagen ID.3 GTX Performance, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Tilvalg på Volkswagen ID.3 GTX Performance, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+
 ### Kjøreautomatisering
 
 Volkswagen ID.3 GTX Performance tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivået.
@@ -218,6 +223,7 @@ Volkswagen ID.3 GTX Performance tilbyr [kjøreautomatisering på nivå 1 eller 2
 Med standardutstyr tilbyr modellen ingen kjøreautomatisering.
 
 - Fartsbegrenser.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
@@ -226,7 +232,6 @@ Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
 {{<evkxdisplayaddarticle />}}
 

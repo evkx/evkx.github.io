@@ -137,21 +137,12 @@ The Volkswagen ID.3 GTX includes several features to enhance comfort and conveni
 
 ## User interface and control
 
-Two different screen setups are available on the Volkswagen ID.3 GTX.
-
-The standard layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+The Volkswagen ID.3 GTX has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
 
 - The  screen on the steering column is 5.0 inches large
-- The touch screen on the dashboard's center is 10.0 inches large
-
-The optional  layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
-
-Key screen details:
-
-- The  screen on the steering column is 5.0 inches large
-- The touch screen on the dashboard's center is 12.0 inches large
+- The touch screen on the dashboard's center is 12.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 

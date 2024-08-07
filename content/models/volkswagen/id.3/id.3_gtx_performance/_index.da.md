@@ -30,7 +30,7 @@ Volkswagen ID.3 GTX Performance leverer en solid præstation med en maksimal eff
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 84 kWh og en nettoanvendelig kapacitet på 79 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 352 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 82 kWh og en nettoanvendelig kapacitet på 79 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 352 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 601 km, med et energiforbrugsrate på 13,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -129,8 +129,9 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem.
+To klimaanlægsmuligheder er tilgængelige:
 
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
@@ -152,7 +153,7 @@ Volkswagen ID.3 GTX Performance har to skærme med information til fører og pas
 Vigtige skærmdetaljer:
 
 - Skærmen  på ratstammen er 5,0 tommer stor
-- Skærmen touch i dashboardets midte er 12,3 tommer stor
+- Skærmen touch i dashboardets midte er 12,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
@@ -161,6 +162,8 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
+
+Volkswagen ID.3 GTX Performance har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Volkswagen integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
 
 ### Navigationssystem
 
@@ -211,6 +214,8 @@ Den Volkswagen ID.3 GTX Performance inkluderer flere standard- og valgfri [avanc
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Volkswagen ID.3 GTX Performance, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Valgfrit på Volkswagen ID.3 GTX Performance, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
 Volkswagen ID.3 GTX Performance tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
@@ -218,6 +223,7 @@ Volkswagen ID.3 GTX Performance tilbyder [køreautomatisering på niveau 1 eller
 Med standardudstyret tilbyder modellen ingen køreautomatisering.
 
 - Fartpilot.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med   niveau 1-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
 
@@ -226,7 +232,6 @@ Med   niveau 1-systemet får du yderligere funktioner til køreautomatisering ud
 Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
 
 {{<evkxdisplayaddarticle />}}
 

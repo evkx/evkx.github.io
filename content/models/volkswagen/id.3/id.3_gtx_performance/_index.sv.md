@@ -30,7 +30,7 @@ Volkswagen ID.3 GTX Performance levererar en solid prestanda med en maximal effe
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 84 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 352 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 3 kWh (3,7%) för batteriskydd. Med en nominell spänning på 352 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 601 km (199 miles), med en energiförbrukningshastighet på 13,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -129,8 +129,9 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem.
+Två klimatsystemalternativ är tillgängliga:
 
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
@@ -152,7 +153,7 @@ Volkswagen ID.3 GTX Performance har två skärmar med information för föraren 
 Viktiga skärmdetaljer:
 
 - Skärmen  på rattstången är 5,0 tum
-- Skärmen touch i mitten av instrumentbrädan är 12,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 12,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
@@ -161,6 +162,8 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
+
+Volkswagen ID.3 GTX Performance har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Volkswagen integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
 
 ### Navigationssystem
 
@@ -211,6 +214,8 @@ Volkswagen ID.3 GTX Performance inkluderar flera [avancerade förarassistanssyst
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Volkswagen ID.3 GTX Performance, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Valfritt på Volkswagen ID.3 GTX Performance, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
 Volkswagen ID.3 GTX Performance erbjuder [körautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
@@ -218,6 +223,7 @@ Volkswagen ID.3 GTX Performance erbjuder [körautomatisering på nivå 1 eller 2
 Med standardutrustningen erbjuder modellen ingen körautomatisering.
 
 - Farthållare.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
 
@@ -226,7 +232,6 @@ Med   nivå 1-systemet får du ytterligare funktioner för körautomatisering ut
 Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för körautomatisering utöver de som nämnts ovan.
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
 {{<evkxdisplayaddarticle />}}
 

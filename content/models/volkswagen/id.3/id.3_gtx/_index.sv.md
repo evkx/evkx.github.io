@@ -137,21 +137,12 @@ Volkswagen ID.3 GTX inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Två olika skärmlayouter är tillgängliga på Volkswagen ID.3 GTX.
-
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
+Volkswagen ID.3 GTX har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
 
 Viktiga skärmdetaljer:
 
 - Skärmen  på rattstången är 5,0 tum
-- Skärmen touch i mitten av instrumentbrädan är 10,0 tum
-
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
-
-Viktiga skärmdetaljer:
-
-- Skärmen  på rattstången är 5,0 tum
-- Skärmen touch i mitten av instrumentbrädan är 12,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 12,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 

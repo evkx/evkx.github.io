@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				84 kWh
+				82 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1275,7 +1275,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Oui, 12,3"
+				Oui, 12,9"
 			</td>
 		</tr>
 		<tr>

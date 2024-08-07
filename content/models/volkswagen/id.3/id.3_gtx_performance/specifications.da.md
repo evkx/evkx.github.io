@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				84 kWh
+				82 kWh
 			</td>
 		</tr>
 		<tr>
@@ -1275,7 +1275,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Infotainmentskærm
 			</td>
 			<td>
-				Ja, 12,3"
+				Ja, 12,9"
 			</td>
 		</tr>
 		<tr>

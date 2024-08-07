@@ -1066,7 +1066,39 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Tillgängliga skärmlayouter
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Digital drivrutinsdisplay
+			</td>
+			<td>
+				Ja, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskärm
+			</td>
+			<td>
+				Ja, 12,9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Infotainmentskärm främre passagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre infotainmentskärm
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>

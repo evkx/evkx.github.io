@@ -30,7 +30,7 @@ El Volkswagen ID.3 GTX Performance ofrece un rendimiento sólido con una potenci
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 84 kWh y una capacidad neta utilizable de 79 kWh, proporcionando un buffer de 5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 352 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 79 kWh, proporcionando un buffer de 3 kWh (3,7%) para la protección de la batería. Con un voltaje nominal de 352 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 601 km, con una tasa de consumo de energía de 13,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -129,8 +129,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema de climatización
 
-Hay un sistema climático disponible.
+Hay dos opciones de sistema de climatización disponibles:
 
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
@@ -152,7 +153,7 @@ El Volkswagen ID.3 GTX Performance tiene pantallas gemelas con información para
 Detalles clave de la pantalla:
 
 - La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño
-- La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 12,9 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
@@ -161,6 +162,8 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
+
+El Volkswagen ID.3 GTX Performance cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, Volkswagen ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
 
 ### Sistema de navegación
 
@@ -211,6 +214,8 @@ El Volkswagen ID.3 GTX Performance incluye varios [sistemas avanzados de asisten
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Volkswagen ID.3 GTX Performance, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Opcional en el Volkswagen ID.3 GTX Performance, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 Volkswagen ID.3 GTX Performance ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
@@ -218,6 +223,7 @@ Volkswagen ID.3 GTX Performance ofrece [automatización de la conducción en niv
 Con el sistema estándar, el modelo no ofrece automatización de la conducción.
 
 - Control de crucero.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 Con el sistema   de nivel 1, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
 
@@ -226,7 +232,6 @@ Con el sistema   de nivel 1, obtienes funciones adicionales de automatización d
 Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales de automatización de la conducción además de las mencionadas anteriormente.
 
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
-- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
 {{<evkxdisplayaddarticle />}}
 

@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.3_gtx_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.3/id.3_gtx_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.3 GTX Performance" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 84 kWh <i class="bi bi-ev-station"></i> 185 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 185 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

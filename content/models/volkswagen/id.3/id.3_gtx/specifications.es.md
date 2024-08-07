@@ -1066,7 +1066,39 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Diseños de pantalla disponibles
 			</td>
 			<td>
-				2
+				1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla del controlador digital
+			</td>
+			<td>
+				Sí, 5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento
+			</td>
+			<td>
+				Sí, 12,9"
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero delantero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pantalla de infoentretenimiento del pasajero trasero
+			</td>
+			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>
