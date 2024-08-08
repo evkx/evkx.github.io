@@ -513,7 +513,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1330 liter
+				1422 liter
 			</td>
 		</tr>
 		<tr>

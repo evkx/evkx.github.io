@@ -101,7 +101,7 @@ Volkswagen ID.5 es un SUV Coupé disponible en 4 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.7 es un sedán/camioneta disponible en 5 variantes.
+Volkswagen ID.7 es un sedán/camioneta disponible en 6 variantes.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

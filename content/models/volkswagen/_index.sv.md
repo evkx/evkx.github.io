@@ -101,7 +101,7 @@ Volkswagen ID.5 är en Coupe SUV tillgänglig i 4 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Volkswagen ID.7 är en sedan/kombi som finns i 5 varianter.
+Volkswagen ID.7 är en sedan/kombi som finns i 6 varianter.
 </p>
 	<a href="id.7/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>
