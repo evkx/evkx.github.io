@@ -94,6 +94,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
+Volkswagen ID.7 Pro har en förarfokuserad interiör som förbättrar cockpitkänslan med premiummaterial i alla nyckelområden. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet.
+
 ### Säten
 
 Volkswagen ID.7 Pro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
@@ -173,7 +175,7 @@ Volkswagen ID.7 Pro har ett avancerat infotainmentsystem baserat på Android Aut
 
 ### Navigationssystem
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
 
 ### Telefon spegling
 

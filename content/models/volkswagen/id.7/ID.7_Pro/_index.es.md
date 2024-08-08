@@ -94,6 +94,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
+El Volkswagen ID.7 Pro cuenta con un interior enfocado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en todas las áreas clave. Una característica destacada es la consola central de dos niveles, que separa al conductor y al pasajero mientras ofrece almacenamiento conveniente y funcionalidad mejorada.
+
 ### Asientos
 
 El Volkswagen ID.7 Pro tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -173,7 +175,7 @@ El Volkswagen ID.7 Pro cuenta con un sistema de infoentretenimiento avanzado bas
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Espejo del teléfono
 

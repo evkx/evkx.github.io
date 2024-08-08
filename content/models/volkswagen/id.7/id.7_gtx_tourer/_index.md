@@ -94,6 +94,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+The Volkswagen ID.7 GTX Tourer boasts a driver-focused interior, enhancing the cockpit feel with premium materials throughout all key areas. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+
 ### Seats
 
 The Volkswagen ID.7 GTX Tourer accommodates five passengers with two seats in the front and a three-seat bench in the rear.
@@ -174,7 +176,7 @@ The Volkswagen ID.7 GTX Tourer features an advanced infotainment system built on
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 

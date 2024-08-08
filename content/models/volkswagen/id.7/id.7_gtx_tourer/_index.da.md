@@ -94,6 +94,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
+Volkswagen ID.7 GTX Tourer har en førerfokuseret kabine, der forbedrer cockpitfornemmelsen med premium materialer i alle nøgleområder. Et fremtrædende træk er det todelte midterkonsol, som adskiller føreren og passageren, samtidig med at det giver bekvem opbevaring og forbedret funktionalitet.
+
 ### Sæder
 
 Volkswagen ID.7 GTX Tourer har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -174,7 +176,7 @@ Volkswagen ID.7 GTX Tourer har et avanceret infotainmentsystem bygget på Androi
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger, der sikrer en effektiv og stressfri rejse.
 
 ### Telefon spejling
 

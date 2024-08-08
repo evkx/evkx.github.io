@@ -94,6 +94,8 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
+Le Volkswagen ID.7 Pro S dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux haut de gamme dans toutes les zones clés. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
+
 ### Sièges
 
 Le Volkswagen ID.7 Pro S peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
@@ -173,7 +175,7 @@ Le Volkswagen ID.7 Pro S dispose d'un système d'infodivertissement avancé bas�
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### Réplication du téléphone
 

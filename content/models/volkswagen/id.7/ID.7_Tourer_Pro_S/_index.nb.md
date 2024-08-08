@@ -92,6 +92,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
+Volkswagen ID.7 Tourer Pro S har et førerfokusert interiør som forbedrer cockpitfølelsen med førsteklasses materialer i alle viktige områder. Et fremtredende trekk er det todelte midtkonsollen, som skiller føreren og passasjeren samtidig som det gir praktisk oppbevaring og forbedret funksjonalitet.
+
 ### Seter
 
 Volkswagen ID.7 Tourer Pro S har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -171,7 +173,7 @@ Volkswagen ID.7 Tourer Pro S har et avansert infotainmentsystem bygget på Andro
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
 ### Telefonspeiling
 
