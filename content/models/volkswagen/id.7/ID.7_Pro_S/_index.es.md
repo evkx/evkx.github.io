@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 Pro S
 linktitle: "ID.7 Pro S"
-description: "Volkswagen ID.7 Pro S es un sedán totalmente eléctrico con un WLTP alcance de hasta 700 km (435 millas). EVKX.net tiene todos los detalles."
+description: "Volkswagen ID.7 Pro S es un sedán totalmente eléctrico con un WLTP alcance de hasta 709 km (441 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ El Volkswagen ID.7 Pro S ofrece un rendimiento sólido con una potencia máxima 
 
 La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 700 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,3 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 709 km, con una tasa de consumo de energía de 12,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 55 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 54%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 126kW. Cada sesión de carga tardaría 21 minutos y 51 segundos.
 

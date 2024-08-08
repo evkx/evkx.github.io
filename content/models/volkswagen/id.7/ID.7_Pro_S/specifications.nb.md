@@ -80,50 +80,26 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 	<tbody>
 		<tr>
 			<td>
-				WLTP-rekkevidde for grunnmodell
+				WLTP-rekkevidde
 			</td>
 			<td>
-				700 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-forbruk grunnmodell
-			</td>
-			<td>
-				12,3 kWh/100km
+				709 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-forbruk grunnmodell med ladetap
+				WLTP-forbruk
 			</td>
 			<td>
-				17,9 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-rekkevidde
-			</td>
-			<td>
-				622 km
+				12,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Topputstyrt WLTP-forbruk
+				WLTP-forbruk med ladetap
 			</td>
 			<td>
-				13,8 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topputstyrt WLTP-forbruk med ladetap
-			</td>
-			<td>
-				21,4 kwh/100km
+				13,6 kWh/100km
 			</td>
 		</tr>
 	</tbody>

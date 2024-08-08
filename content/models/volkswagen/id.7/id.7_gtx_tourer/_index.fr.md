@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 GTX Tourer
 linktitle: "ID.7 GTX Tourer"
-description: "Volkswagen ID.7 GTX Tourer est un break tout électrique avec une autonomie de WLTP allant jusqu'à 685 km (426 miles). EVKX.net a tous les détails."
+description: "Volkswagen ID.7 GTX Tourer est un break tout électrique avec une autonomie de WLTP allant jusqu'à 584 km (363 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,11 +32,11 @@ La Volkswagen ID.7 GTX Tourer offre des performances solides avec une puissance 
 
 La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 383 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 685 et 622 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,6 kWh/100 km pour le modèle de base et à 13,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 584 km, avec une consommation d'énergie de 14,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 55 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 126kW. Chaque session de charge prendrait 21 minutes et 51 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19 kWh/100 km, le voyage prendrait environ 9 heures et 11 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 46%, avec un temps de recharge total de 52 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 20 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 53%, avec un temps de recharge total de 60 minutes.
 
 ### Chargeur embarqué
 
@@ -67,6 +67,8 @@ La Volkswagen ID.7 GTX Tourer utilise des [freins à disques](../../../../techno
 ### Freinage régénératif
 
 Le système de [freinage régénératif](../../../../technology/regen/) de ce modèle propose plusieurs modes pour améliorer l'efficacité et l'expérience de conduite. L'option la plus efficace est le [**Mode de Régénération Automatique**](../../../../technology/regen/#automatic-regen-adaptive), où le véhicule roule en roue libre lorsque c'est possible et utilise le freinage régénératif pour réduire la vitesse au besoin. <br /><br />**Régénération manuelle** est un autre mode, où le freinage régénératif est contrôlé en appuyant sur la pédale de frein. Le système de freinage n'utilise les freins physiques que lorsque cela est nécessaire. <br /><br/> Une autre option est le mode [**Régénération sur Pédale d'Accélérateur**](../../../../technology/regen/#one-pedal-driving), où le freinage régénératif est activé lorsque le conducteur relâche la pédale d'accélérateur. Ce système permet au véhicule de ralentir et de récupérer de l'énergie sans que le conducteur ait besoin d'appuyer sur la pédale de frein, une fonction souvent appelée **conduite à un seul pied**. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
 ## Extérieur
 
