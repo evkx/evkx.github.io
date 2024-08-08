@@ -173,7 +173,7 @@ Volkswagen ID.7 Tourer Pro S har ett avancerat infotainmentsystem baserat på An
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Telefon spegling
 

@@ -68,7 +68,9 @@ The Volkswagen ID.7 Pro uses [disc brakes](../../../../technology/brakes/#disc-b
 
 ### Regenerative braking
 
-The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+If you lift away the foot completly the regen is at one fixed level. This cant be adjusted.
 
 ## Exterior
 
@@ -109,29 +111,28 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 2 different materials/colors for this seat type.
 
-The following functionalities are available on the **ergoActive Top-Sport** seat.
+The following functionalities are available on the **ergoActive** seat.
 
 - electric adjustment (optional)
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
 #### Second-row seat
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+- height adjustable headrest
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
@@ -186,7 +187,7 @@ Furthermore, the Volkswagen ID.7 Pro supports Android Auto and Apple CarPlay. Th
 You can choose between two sound systems on the Volkswagen ID.7 Pro.
 
 - With the Sound system, you get six speakers with a max system output of 140 watts.
-- With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+- With the Harman Kardon Soundsystem, you get 12 speakers with a max system output of 700 watts.
 
 The model has 4 USB-C connections as standard.
 
@@ -237,6 +238,11 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

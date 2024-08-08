@@ -173,7 +173,7 @@ Volkswagen ID.7 Tourer Pro har et avansert infotainmentsystem bygget på Android
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Telefonspeiling
 

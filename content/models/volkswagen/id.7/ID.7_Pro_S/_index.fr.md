@@ -175,7 +175,7 @@ Le Volkswagen ID.7 Pro S dispose d'un système d'infodivertissement avancé bas�
 
 ### Système de navigation
 
-Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Réplication du téléphone
 

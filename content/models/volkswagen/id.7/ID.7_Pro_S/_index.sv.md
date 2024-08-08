@@ -175,7 +175,7 @@ Volkswagen ID.7 Pro S har ett avancerat infotainmentsystem baserat på Android A
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Telefon spegling
 

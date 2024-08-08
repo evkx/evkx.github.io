@@ -173,7 +173,7 @@ El Volkswagen ID.7 Tourer Pro S cuenta con un sistema de infoentretenimiento ava
 
 ### Sistema de navegación
 
-El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Espejo del teléfono
 

@@ -175,7 +175,7 @@ The Volkswagen ID.7 Pro S features an advanced infotainment system built on Andr
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
 
 ### Phone Mirroring
 
