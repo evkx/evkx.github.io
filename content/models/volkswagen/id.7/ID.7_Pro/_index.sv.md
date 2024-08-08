@@ -159,6 +159,8 @@ Volkswagen ID.7 Pro inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Volkswagen ID.7 Pro har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
 
 Viktiga skärmdetaljer:
@@ -196,7 +198,7 @@ Modellen har 4 USB-C-anslutningar som standard.
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.7 Pro.
 
 - **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 

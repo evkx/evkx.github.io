@@ -30,7 +30,7 @@ El Volkswagen ID.7 Tourer Pro S ofrece un rendimiento sólido con una potencia m
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 685 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,6 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -66,7 +66,9 @@ El Volkswagen ID.7 Tourer Pro S utiliza [frenos de disco](../../../../technology
 
 ### Frenado regenerativo
 
-El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**.
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+
+Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
 ## Exterior
 
@@ -107,29 +109,28 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - ajuste eléctrico (opcional)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
-- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
-Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top-Sport**.
+Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
 
 - ajuste eléctrico (opcional)
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
+- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+- reposacabezas ajustable en altura
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
@@ -156,6 +157,8 @@ El Volkswagen ID.7 Tourer Pro S incluye varias características para mejorar la 
 
 ## Interfaz de usuario y control
 
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+
 El Volkswagen ID.7 Tourer Pro S tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
@@ -173,7 +176,7 @@ El Volkswagen ID.7 Tourer Pro S cuenta con un sistema de infoentretenimiento ava
 
 ### Sistema de navegación
 
-infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
+El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Espejo del teléfono
 
@@ -184,7 +187,7 @@ Además, el Volkswagen ID.7 Tourer Pro S es compatible con Android Auto y Apple 
 Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.7 Tourer Pro S.
 
 - Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios.
-- Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+- Con el Harman Kardon Soundsystem, obtienes 12 parlantes con una salida máxima del sistema de 700 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
 
@@ -193,7 +196,7 @@ El modelo tiene 4 conexiones USB-C de serie.
 Puedes elegir entre dos tipos de faros para el Volkswagen ID.7 Tourer Pro S.
 
 - **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- **Faros LED Matrix:** Disponibles como una mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico en sentido contrario. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -213,13 +216,17 @@ El Volkswagen ID.7 Tourer Pro S incluye varios [sistemas avanzados de asistencia
 
 [**Asistencia de Tráfico Cruzado Delantero (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a detectar tráfico que se aproxima al cruzar una intersección o al girar a la izquierda o derecha desde una posición detenida.
 
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
 [**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Volkswagen ID.7 Tourer Pro S, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 
@@ -234,11 +241,16 @@ Con el sistema Assistantpackage plus  de nivel 2, obtienes funciones adicionales
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 605 litros. Con el asiento trasero plegado, esto se expande a 1714 litros. En el techo, puedes cargar hasta 75 kg.
+El maletero ofrece una capacidad de carga de 605 litros. Con el asiento trasero plegado, esto se expande a 1714 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 2630 kg, con un peso base de 2197 kg. Esto permite una carga máxima de 433 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

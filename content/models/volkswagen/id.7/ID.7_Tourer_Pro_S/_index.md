@@ -30,7 +30,7 @@ The Volkswagen ID.7 Tourer Pro S delivers a solid performance with a maximum pow
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (5.5%) for battery protection. With a nominal voltage of 383 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 685 to 622 km (426-387 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 13.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,7 +66,9 @@ The Volkswagen ID.7 Tourer Pro S uses [disc brakes](../../../../technology/brake
 
 ### Regenerative braking
 
-The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+If you lift away the foot completly the regen is at one fixed level. This cant be adjusted.
 
 ## Exterior
 
@@ -107,29 +109,28 @@ The following functionalities are available on the **standard** seat.
 - electric adjustment (optional)
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 2 different materials/colors for this seat type.
 
-The following functionalities are available on the **ergoActive Top-Sport** seat.
+The following functionalities are available on the **ergoActive** seat.
 
 - electric adjustment (optional)
+- height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
 #### Second-row seat
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+- height adjustable headrest
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
@@ -156,6 +157,8 @@ The Volkswagen ID.7 Tourer Pro S includes several features to enhance comfort an
 
 ## User interface and control
 
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
 The Volkswagen ID.7 Tourer Pro S has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -173,7 +176,7 @@ The Volkswagen ID.7 Tourer Pro S features an advanced infotainment system built 
 
 ### Navigation System
 
-infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -184,7 +187,7 @@ Furthermore, the Volkswagen ID.7 Tourer Pro S supports Android Auto and Apple Ca
 You can choose between two sound systems on the Volkswagen ID.7 Tourer Pro S.
 
 - With the Sound system, you get six speakers with a max system output of 140 watts.
-- With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+- With the Harman Kardon Soundsystem, you get 12 speakers with a max system output of 700 watts.
 
 The model has 4 USB-C connections as standard.
 
@@ -193,7 +196,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Volkswagen ID.7 Tourer Pro S.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
@@ -213,13 +216,17 @@ The Volkswagen ID.7 Tourer Pro S includes several standard and optional [advance
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Volkswagen ID.7 Tourer Pro S, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Volkswagen ID.7 Tourer Pro S, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Volkswagen ID.7 Tourer Pro S, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Volkswagen ID.7 Tourer Pro S, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Volkswagen ID.7 Tourer Pro S, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Volkswagen ID.7 Tourer Pro S, this side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Volkswagen ID.7 Tourer Pro S, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Volkswagen ID.7 Tourer Pro S, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -234,11 +241,16 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 605 liters (21.4 CU FT). With the rear seat folded down, this expands to 1714 liters (60.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
+The trunk offers a cargo capacity of 605 liters (21.4 CU FT). With the rear seat folded down, this expands to 1714 liters (60.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 2630 kg (5798 lbs), with a base weight of 2197 kg (4844 lbs). This allows for a maximum load of 433 kg (955 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

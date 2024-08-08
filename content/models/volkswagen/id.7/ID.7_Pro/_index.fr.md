@@ -159,6 +159,8 @@ L'Volkswagen ID.7 Pro comprend plusieurs fonctionnalités pour améliorer le con
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+
 Le Volkswagen ID.7 Pro dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
@@ -196,7 +198,7 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.7 Pro.
 
 - **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

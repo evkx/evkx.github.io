@@ -159,6 +159,8 @@ Volkswagen ID.7 Pro inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 ## Brugergrænseflade og kontrol
 
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
+
 Volkswagen ID.7 Pro har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
 Vigtige skærmdetaljer:
@@ -196,7 +198,7 @@ Modellen har 4 USB-C-forbindelser som standard.
 Du kan vælge mellem to typer forlygter til Volkswagen ID.7 Pro.
 
 - **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **LED Matrix Forlygter:** Tilgængelige som en opgradering, dette adaptive system opdeler den traditionelle forlygtebjælke i dusinvis af mindre stråler, som lysstyringen kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 

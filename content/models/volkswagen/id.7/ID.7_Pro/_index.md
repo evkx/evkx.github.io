@@ -159,6 +159,8 @@ The Volkswagen ID.7 Pro includes several features to enhance comfort and conveni
 
 ## User interface and control
 
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
 The Volkswagen ID.7 Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -196,7 +198,7 @@ The model has 4 USB-C connections as standard.
 You can choose between two types of headlights for the Volkswagen ID.7 Pro.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+- **LED Matrix Headlights:** Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 

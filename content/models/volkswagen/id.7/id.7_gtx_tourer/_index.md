@@ -161,6 +161,8 @@ The Volkswagen ID.7 GTX Tourer includes several features to enhance comfort and 
 
 ## User interface and control
 
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
 The Volkswagen ID.7 GTX Tourer has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:

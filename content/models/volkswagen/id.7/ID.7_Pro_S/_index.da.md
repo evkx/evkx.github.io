@@ -30,7 +30,7 @@ Volkswagen ID.7 Pro S leverer en solid præstation med en maksimal effekt på 21
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 91 kWh og en nettoanvendelig kapacitet på 86 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 91 kWh og en nettoanvendelig kapacitet på 86 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 709 km, med et energiforbrugsrate på 12,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -68,7 +68,9 @@ Volkswagen ID.7 Pro S bruger [skivebremser](../../../../technology/brakes/#disc-
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**.
+Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+
+Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
 
 ## Udvendig
 
@@ -109,29 +111,28 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - elektrisk justering (valgfrit)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
+Følgende funktioner er tilgængelige på **ergoActive** sædet.
 
 - elektrisk justering (valgfrit)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
+- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+
+- højdejusterbar nakkestøtte
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
@@ -158,6 +159,8 @@ Volkswagen ID.7 Pro S inkluderer flere funktioner, der forbedrer komfort og bekv
 
 ## Brugergrænseflade og kontrol
 
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
+
 Volkswagen ID.7 Pro S har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
 Vigtige skærmdetaljer:
@@ -175,7 +178,7 @@ Volkswagen ID.7 Pro S har et avanceret infotainmentsystem bygget på Android Aut
 
 ### Navigationssystem
 
-infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning, hvor du kan definere det ønskede ladningsniveau ved din destination eller under ladestop. Systemet giver realtids trafikoplysninger, der sikrer en effektiv og stressfri rejse.
 
 ### Telefon spejling
 
@@ -186,7 +189,7 @@ Yderligere understøtter Volkswagen ID.7 Pro S Android Auto og Apple CarPlay. De
 Du kan vælge mellem to lydsystemer på Volkswagen ID.7 Pro S.
 
 - Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt.
-- Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+- Med Harman Kardon Soundsystem får du 12 højttalere med en maksimal systemeffekt på 700 watt.
 
 Modellen har 4 USB-C-forbindelser som standard.
 
@@ -195,7 +198,7 @@ Modellen har 4 USB-C-forbindelser som standard.
 Du kan vælge mellem to typer forlygter til Volkswagen ID.7 Pro S.
 
 - **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **LED Matrix Forlygter:** Tilgængelige som en opgradering, dette adaptive system opdeler den traditionelle forlygtebjælke i dusinvis af mindre stråler, som lysstyringen kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -217,13 +220,17 @@ Den Volkswagen ID.7 Pro S inkluderer flere standard- og valgfri [avancerede før
 
 [**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Volkswagen ID.7 Pro S, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volkswagen ID.7 Pro S, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID.7 Pro S, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID.7 Pro S, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.7 Pro S, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Volkswagen ID.7 Pro S, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Volkswagen ID.7 Pro S, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Volkswagen ID.7 Pro S, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 
@@ -237,6 +244,11 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere funktioner til k
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

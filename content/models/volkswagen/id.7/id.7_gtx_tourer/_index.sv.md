@@ -161,6 +161,8 @@ Volkswagen ID.7 GTX Tourer inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Volkswagen ID.7 GTX Tourer har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
 
 Viktiga skärmdetaljer:

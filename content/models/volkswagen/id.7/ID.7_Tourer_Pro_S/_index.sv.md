@@ -30,7 +30,7 @@ Volkswagen ID.7 Tourer Pro S levererar en solid prestanda med en maximal effekt 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 383 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 685 och 622 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,6 kWh/100 km för basmodellen och 13,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -66,7 +66,9 @@ SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brak
 
 ### Regenerativ bromsning
 
-Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**.
+Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell erbjuder flera lägen för att förbättra effektiviteten och körupplevelsen. Det mest effektiva alternativet är [**Automatiskt Regenereringsläge**](../../../../technology/regen/#automatic-regen-adaptive), där fordonet seglar när det är möjligt och använder regenerativ bromsning för att minska hastigheten vid behov. <br /><br />**Manuell regenerering** är ett annat läge, där regenerativ bromsning styrs genom att trycka på bromspedalen. Bromssystemet blandar in fysiska bromsar endast när det är nödvändigt. <br /><br/> Ett annat alternativ är läget [**Regen på Gaspedal**](../../../../technology/regen/#one-pedal-driving), där regenerativ bromsning aktiveras när föraren släpper gaspedalen. Detta system tillåter fordonet att sakta ner och återvinna energi utan att föraren behöver trycka på bromspedalen, en funktion som ofta kallas **enpedalskörning**. Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+
+Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
 
 ## Exteriör
 
@@ -107,29 +109,28 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering (valfritt)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
-Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
+Följande funktioner är tillgängliga på **ergoActive** sätet.
 
 - elektrisk justering (valfritt)
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
+- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
+- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+- höjdjusterbart nackstöd
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
@@ -156,6 +157,8 @@ Volkswagen ID.7 Tourer Pro S inkluderar flera funktioner för att förbättra ko
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Volkswagen ID.7 Tourer Pro S har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
 
 Viktiga skärmdetaljer:
@@ -173,7 +176,7 @@ Volkswagen ID.7 Tourer Pro S har ett avancerat infotainmentsystem baserat på An
 
 ### Navigationssystem
 
-infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
 
 ### Telefon spegling
 
@@ -184,7 +187,7 @@ Dessutom stöder Volkswagen ID.7 Tourer Pro S Android Auto och Apple CarPlay. De
 Du kan välja mellan två ljudsystem på Volkswagen ID.7 Tourer Pro S.
 
 - Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt.
-- Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
+- Med Harman Kardon Soundsystem får du 12 högtalare med en maximal systemeffekt på 700 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
 
@@ -193,7 +196,7 @@ Modellen har 4 USB-C-anslutningar som standard.
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.7 Tourer Pro S.
 
 - **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -213,13 +216,17 @@ Volkswagen ID.7 Tourer Pro S inkluderar flera [avancerade förarassistanssystem]
 
 [**Frontkorsningstrafikassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Volkswagen ID.7 Tourer Pro S, detta förarassistanssystem hjälper till att upptäcka mötande trafik vid korsningar eller vid svängning till vänster eller höger från en stillastående position.
 
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Volkswagen ID.7 Tourer Pro S, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
 [**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Volkswagen ID.7 Tourer Pro S, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
 
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Volkswagen ID.7 Tourer Pro S, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
 [**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.7 Tourer Pro S, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Volkswagen ID.7 Tourer Pro S, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Volkswagen ID.7 Tourer Pro S, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Volkswagen ID.7 Tourer Pro S, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
 
 ### Körautomatisering
 
@@ -234,11 +241,16 @@ Med Assistantpackage plus  nivå 2-systemet får du ytterligare funktioner för 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valfritt)
 
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 605 liter. Med baksätena nedfällda ökar detta till 1714 liter. På taket kan du lasta upp till 75 kg.
+Bagageutrymmet erbjuder en lastkapacitet på 605 liter. Med baksätena nedfällda ökar detta till 1714 liter. På taket kan du lasta upp till 75 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 2630 kg, med en grundvikt på 2197 kg. Detta tillåter en maximal last på 433 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

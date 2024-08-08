@@ -66,7 +66,9 @@ Volkswagen ID.7 Tourer Pro bruker [skivebremser](../../../../technology/brakes/#
 
 ### Regenerativ bremsing
 
-Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**.
+Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**. Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+
+Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
 
 ## Eksteriør
 
@@ -107,29 +109,28 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - elektrisk justering (tilvalg)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
+Følgende funksjoner er tilgjengelige på **ergoActive** setet.
 
 - elektrisk justering (tilvalg)
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+- høydejusterbar hodestøtte
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
@@ -156,6 +157,8 @@ Volkswagen ID.7 Tourer Pro inkluderer flere funksjoner for å forbedre komfort o
 
 ## Brukergrensesnitt og kontroll
 
+Kontrollgrensesnittet for denne elbilmodellen inkluderer en intuitiv kombinasjon av knapper, hendler og skjermer, som gir en sømløs og brukervennlig opplevelse.
+
 Volkswagen ID.7 Tourer Pro har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
 Viktige skjermdetaljer:
@@ -173,7 +176,7 @@ Volkswagen ID.7 Tourer Pro har et avansert infotainmentsystem bygget på Android
 
 ### Navigasjonssystem
 
-infotainment.navigation.routeplanning.rtt.minsocdest.minsocdest
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
 ### Telefonspeiling
 
@@ -184,7 +187,7 @@ I tillegg støtter Volkswagen ID.7 Tourer Pro Android Auto og Apple CarPlay. Den
 Du kan velge mellom to lydsystemer på Volkswagen ID.7 Tourer Pro.
 
 - Med Sound system får du seks høyttalere med en maksimal systemeffekt på 140 watt.
-- Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
+- Med Harman Kardon Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 700 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
@@ -193,7 +196,7 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Du kan velge mellom to typer frontlykter for Volkswagen ID.7 Tourer Pro.
 
 - **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -219,7 +222,9 @@ Volkswagen ID.7 Tourer Pro inkluderer flere [avanserte førerassistanse systemer
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.7 Tourer Pro, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Volkswagen ID.7 Tourer Pro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Volkswagen ID.7 Tourer Pro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Volkswagen ID.7 Tourer Pro, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
@@ -234,11 +239,16 @@ Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiserings
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 605 liter. Med baksetene nedfelt, utvides dette til 1714 liter. På taket kan du laste opptil 75 kg.
+Bagasjerommet tilbyr en lastekapasitet på 605 liter. Med baksetene nedfelt, utvides dette til 1714 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 2630 kg, med en basisvekt på 2152 kg. Dette gir en maksimal lastekapasitet på 478 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
