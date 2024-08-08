@@ -193,6 +193,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				383
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -30,7 +30,7 @@ Volkswagen ID.7 GTX Tourer levererar en solid prestanda med en maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 383 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 383 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 685 och 622 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,6 kWh/100 km för basmodellen och 13,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Volkswagen ID.7 GTX Tourer har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+Volkswagen ID.7 GTX Tourer har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
 ### Hjulupphängning
 

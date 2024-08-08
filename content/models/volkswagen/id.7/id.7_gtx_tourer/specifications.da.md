@@ -193,6 +193,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				383
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 

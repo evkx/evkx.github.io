@@ -30,7 +30,7 @@ Volkswagen ID.7 GTX Tourer leverer solid ytelse med en maksimal effekt på 250 k
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 91 kWh og en netto brukbar kapasitet på 86 kWh, som gir en buffer på 5 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 383 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 91 kWh og en netto brukbar kapasitet på 86 kWh, som gir en buffer på 5 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 383 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 685 og 622 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 12,6 kWh/100 km for basismodellen og 13,8 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -50,7 +50,7 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Volkswagen ID.7 GTX Tourer har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+Volkswagen ID.7 GTX Tourer har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
 ### Hjuloppheng
 

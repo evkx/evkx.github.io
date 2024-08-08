@@ -30,7 +30,7 @@ La Volkswagen ID.7 GTX Tourer offre des performances solides avec une puissance 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 383 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 383 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 685 et 622 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,6 kWh/100 km pour le modèle de base et à 13,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -50,7 +50,7 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-Volkswagen ID.7 GTX Tourer dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Volkswagen ID.7 GTX Tourer dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 ### Suspension
 

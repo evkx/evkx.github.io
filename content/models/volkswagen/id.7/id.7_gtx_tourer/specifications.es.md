@@ -193,6 +193,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				383
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 

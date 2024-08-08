@@ -30,7 +30,7 @@ El Volkswagen ID.7 GTX Tourer ofrece un rendimiento sólido con una potencia má
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 685 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,6 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -50,7 +50,7 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-Volkswagen ID.7 GTX Tourer tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Volkswagen ID.7 GTX Tourer tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
 ### Suspensión
 
