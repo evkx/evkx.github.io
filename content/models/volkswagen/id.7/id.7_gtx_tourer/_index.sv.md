@@ -187,7 +187,7 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-lights.technology.standard.ledmatrix.corneringlight
+Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 

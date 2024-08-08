@@ -187,7 +187,7 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 ## Luces
 
-lights.technology.standard.ledmatrix.corneringlight
+Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 

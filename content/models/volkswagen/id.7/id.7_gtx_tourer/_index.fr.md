@@ -187,7 +187,7 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
-lights.technology.standard.ledmatrix.corneringlight
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

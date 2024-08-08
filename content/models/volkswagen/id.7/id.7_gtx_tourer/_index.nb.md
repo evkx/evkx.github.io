@@ -187,7 +187,7 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
-lights.technology.standard.ledmatrix.corneringlight
+Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 

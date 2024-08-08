@@ -187,7 +187,7 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 ## Lys
 
-lights.technology.standard.ledmatrix.corneringlight
+De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 

@@ -187,7 +187,7 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-lights.technology.standard.ledmatrix.corneringlight
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
