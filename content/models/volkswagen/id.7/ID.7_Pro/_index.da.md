@@ -169,6 +169,8 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
+Volkswagen ID.7 Pro har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Volkswagen integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+
 ### Navigationssystem
 
 Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.

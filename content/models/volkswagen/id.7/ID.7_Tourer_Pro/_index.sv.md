@@ -167,6 +167,8 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+Volkswagen ID.7 Tourer Pro har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Volkswagen integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
+
 ### Navigationssystem
 
 Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.

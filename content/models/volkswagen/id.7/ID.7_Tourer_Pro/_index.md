@@ -167,6 +167,8 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
+The Volkswagen ID.7 Tourer Pro features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Volkswagen has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
+
 ### Navigation System
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
