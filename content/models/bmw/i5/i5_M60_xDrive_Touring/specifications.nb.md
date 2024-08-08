@@ -31,6 +31,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 M60 xDrive T
 				Maks effekt
 			</td>
 			<td>
+				380 KW (517 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks effekt med boost
+			</td>
+			<td>
 				442 KW (601 hk)
 			</td>
 		</tr>
@@ -44,6 +52,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 M60 xDrive T
 		</tr>
 		<tr>
 			<td>
+				Dreiemoment med boost
+			</td>
+			<td>
+				820 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Topphastighet
 			</td>
 			<td>
@@ -53,6 +69,14 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for BMW i5 M60 xDrive T
 		<tr>
 			<td>
 				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				3,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
 				3,8 s
@@ -83,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-rekkevidde for grunnmodell
 			</td>
 			<td>
-				515 km
+				506 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell
 			</td>
 			<td>
-				15,8 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-forbruk grunnmodell med ladetap
 			</td>
 			<td>
-				18,2 kWh/100km
+				18,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +131,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				456 km
+				445 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +139,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				17,8 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +147,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +636,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +652,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +660,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +724,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -708,7 +732,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +797,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +805,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +813,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +829,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne førersete
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +837,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne passasjersete
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -837,7 +861,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -861,7 +885,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -869,7 +893,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -877,7 +901,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +993,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1001,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

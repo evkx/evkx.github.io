@@ -31,6 +31,14 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 M60 xDrive 
 				Potencia máxima
 			</td>
 			<td>
+				380 KW (517 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Potencia máxima con impulso
+			</td>
+			<td>
 				442 KW (601 hp)
 			</td>
 		</tr>
@@ -44,6 +52,14 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 M60 xDrive 
 		</tr>
 		<tr>
 			<td>
+				Aumento de la salida de par eléctrico
+			</td>
+			<td>
+				820 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Velocidad máxima
 			</td>
 			<td>
@@ -53,6 +69,14 @@ EVKX.net busca tener las especificaciones más completas para BMW i5 M60 xDrive 
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				3,8 s
@@ -83,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				515 km
+				506 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				15,8 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				18,2 kWh/100km
+				18,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				456 km
+				445 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				17,8 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +147,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +636,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +652,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +660,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +724,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -708,7 +732,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +797,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +805,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +813,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +829,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Memoria del asiento del conductor
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +837,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asiento del pasajero con memoria
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -837,7 +861,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -861,7 +885,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -869,7 +893,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -877,7 +901,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +993,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1001,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

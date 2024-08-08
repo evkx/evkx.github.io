@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive Touring
 linktitle: "i5 M60 xDrive Touring"
-description: "BMW i5 M60 xDrive Touring is an all-electric premium station wagon with a WLTP range of up to 515 km (320 miles). EVKX.net has all the details."
+description: "BMW i5 M60 xDrive Touring is an all-electric premium station wagon with a WLTP range of up to 506 km (315 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BMW i5 M60 xDrive Touring packs an impressive punch with a maximum power of 442 kW (601 hp / 593 bhp) and a commanding total torque of 795 Nm (587 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 230 km/h (143 mph), making it a standout in its class.
+With overboost, the BMW i5 M60 xDrive Touring reaches a maximum power of 442 kW (601 hp / 593 bhp). Without overboost, it provides a strong 380 kW (517 hp / 510 bhp). The maxium torque is at 820 Nm (605 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds and reaches a top speed of 230 km/h (143 mph), showcasing its impressive performance.
 
 ## Battery, range, and charging
 
 The high-capacity battery has a gross capacity of 84,4 kWh and a net usable capacity of 81,2 kWh, providing an 3,2 kWh buffer (3.8%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 515 to 456 km (320-283 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.8 kWh/100 km for the base model and 17.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 506 to 445 km (315-277 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.0 kWh/100 km for the base model and 18.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 106 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 46%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 19 minutes and 20 seconds..
 
@@ -64,6 +64,8 @@ Dynamic steering is a standard feature on the BMW i5 M60 xDrive Touring. Dynamic
 
 ### Brakes
 
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 348mm, and the rear discs are 345mm.
+
 ### Regenerative braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
@@ -72,10 +74,11 @@ The maximum regenerative power is 116 kW.
 
 ## Exterior
 
-The BMW i5 M60 xDrive Touring, with dimensions of 5060 mm in length, 1900 mm in width, and 1505 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The BMW i5 M60 xDrive Touring is available in a total of 12 paint colors, including several striking metallic options.
+The BMW i5 M60 xDrive Touring, with dimensions of 5060 mm in length, 1900 mm in width, and 1505 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The BMW i5 M60 xDrive Touring is available in a total of 12 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the BMW i5 M60 xDrive Touring, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
+- 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
 - 245/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 285/35 tires on 21" rims rear
@@ -94,6 +97,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+The BMW i5 M60 xDrive Touring features a driver-focused interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+
 ### Seats
 
 The BMW i5 M60 xDrive Touring accommodates five passengers with two seats in the front and a three-seat bench in the rear.
@@ -104,7 +109,7 @@ For the front row, the BMW i5 M60 xDrive Touring offers two different seat types
 
 The following functionalities are available on the **Sport** seat.
 
-- electric adjustment (optional)
+- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -118,10 +123,11 @@ The following functionalities are available on the **Comfort seats** seat.
 - electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
@@ -194,10 +200,7 @@ The model has 6 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the BMW i5 M60 xDrive Touring.
-
-- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
@@ -236,6 +239,11 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

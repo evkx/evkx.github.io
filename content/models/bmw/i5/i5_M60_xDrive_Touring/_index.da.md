@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive Touring
 linktitle: "i5 M60 xDrive Touring"
-description: "BMW i5 M60 xDrive Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 515 km (320 miles). EVKX.net har alle detaljerne."
+description: "BMW i5 M60 xDrive Touring er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 506 km (315 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har opdelt vores BMW i5 M60 xDrive Touring artikel i sektioner. Hvis du vil v
 
 ## Ydeevne
 
-BMW i5 M60 xDrive Touring imponerer med en maksimal effekt på 442 kW (601 hk) og et imponerende samlet drejningsmoment på 795 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 230 km/h, hvilket gør den til en standout i sin klasse.
+Med overboost når BMW i5 M60 xDrive Touring en maksimal effekt på 442 kW (601 hk). Uden overboost leverer den en stærk 380 kW (517 hk). Det maksimale drejningsmoment er på 820 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 3,8 sekunder og har en topfart på 230 km/t, hvilket fremhæver dens imponerende præstationer.
 
 ## Batteri, rækkevidde og opladning
 
 Det højkapacitetsbatteri har en bruttokapacitet på 84,4 kWh og en nettoanvendelig kapacitet på 81,2 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 400 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 515 og 456 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,8 kWh/100 km for basismodellen og 17,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 506 og 445 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,0 kWh/100 km for basismodellen og 18,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 205kW. En fuld opladning fra 0 - 100 % ville tage 56 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 46%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 113kW. Hver opladningssession ville tage 19 minutter og 20 sekunder.
 
@@ -64,6 +64,8 @@ Dynamisk styring er en standard-funktion på BMW i5 M60 xDrive Touring. Dynamisk
 
 ### Bremser
 
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 348mm, og de bagerste skiver er 345mm.
+
 ### Regenerativ bremsning
 
 Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
@@ -72,10 +74,11 @@ Den maksimale regenerative effekt er 116 kW.
 
 ## Udvendig
 
-Den BMW i5 M60 xDrive Touring, med dimensioner på 5060 mm i længde, 1900 mm i bredde og 1505 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. BMW i5 M60 xDrive Touring fås i alt 12 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den BMW i5 M60 xDrive Touring, med dimensioner på 5060 mm i længde, 1900 mm i bredde og 1505 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. BMW i5 M60 xDrive Touring fås i alt 12 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i5 M60 xDrive Touring, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
+- 245/45 dæk på 19" fælge foran og 275/40 dæk på 19" fælge bagpå
 - 245/50 dæk on 19" fælge
 - 255/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 255/40 dæk på 21" fælge foran og 285/35 dæk på 21" fælge bagpå
@@ -94,6 +97,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
+BMW i5 M60 xDrive Touring har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
+
 ### Sæder
 
 BMW i5 M60 xDrive Touring har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -104,7 +109,7 @@ For første række tilbyder BMW i5 M60 xDrive Touring to forskellige sædetyper 
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
-- elektrisk justering (valgfrit)
+- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
@@ -118,10 +123,11 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 - elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
+- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
@@ -194,10 +200,7 @@ Modellen har 6 USB-C-forbindelser som standard.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til BMW i5 M60 xDrive Touring.
-
-- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+De standard forlygter bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt for at dæmpe små områder foran. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
@@ -236,6 +239,11 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere funktio
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -31,6 +31,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 M6
 				Puissance de pointe
 			</td>
 			<td>
+				380 KW (517 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Puissance maximale avec boost
+			</td>
+			<td>
 				442 KW (601 ch)
 			</td>
 		</tr>
@@ -44,6 +52,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 M6
 		</tr>
 		<tr>
 			<td>
+				Augmentation de la sortie de couple électrique
+			</td>
+			<td>
+				820 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vitesse maximale
 			</td>
 			<td>
@@ -53,6 +69,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 M6
 		<tr>
 			<td>
 				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				3,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
 				3,8 s
@@ -83,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				515 km
+				506 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				15,8 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				18,2 kWh/100km
+				18,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				456 km
+				445 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				17,8 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +147,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +636,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +652,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +660,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +724,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -708,7 +732,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +797,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +805,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +813,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +829,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Siège conducteur à mémoire
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +837,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Siège passager à mémoire
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -837,7 +861,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -861,7 +885,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -869,7 +893,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -877,7 +901,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +993,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1001,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

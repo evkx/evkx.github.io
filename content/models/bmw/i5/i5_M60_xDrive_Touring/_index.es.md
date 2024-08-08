@@ -1,7 +1,7 @@
 ---
 title: BMW i5 M60 xDrive Touring
 linktitle: "i5 M60 xDrive Touring"
-description: "BMW i5 M60 xDrive Touring es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 515 km (320 millas). EVKX.net tiene todos los detalles."
+description: "BMW i5 M60 xDrive Touring es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 506 km (315 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Hemos separado nuestro artículo BMW i5 M60 xDrive Touring en secciones. Si dese
 
 ## Rendimiento
 
-El BMW i5 M60 xDrive Touring impresiona con una potencia máxima de 442 kW (601 hp) y un impresionante par total de 795 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 230 km/h, destacándose en su clase.
+Con overboost, el BMW i5 M60 xDrive Touring alcanza una potencia máxima de 442 kW (601 hp). Sin overboost, proporciona una sólida potencia de 380 kW (517 hp). El par máximo es de 820 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 230 km/h, mostrando su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 84,4 kWh y una capacidad neta utilizable de 81,2 kWh, proporcionando un buffer de 3,2 kWh (3,8%) para la protección de la batería. Con un voltaje nominal de 400 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 515 y 456 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,8 kWh/100 km para el modelo base y 17,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 506 y 445 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,0 kWh/100 km para el modelo base y 18,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 113kW. Cada sesión de carga tardaría 19 minutos y 20 segundos.
 
@@ -64,6 +64,8 @@ La dirección dinámica es una característica un estándar en el BMW i5 M60 xDr
 
 ### Frenos
 
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 348 mm y los discos traseros de 345 mm.
+
 ### Frenado regenerativo
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
@@ -72,10 +74,11 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-El BMW i5 M60 xDrive Touring, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1505 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El BMW i5 M60 xDrive Touring está disponible en un total de 12 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El BMW i5 M60 xDrive Touring, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1505 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El BMW i5 M60 xDrive Touring está disponible en un total de 12 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i5 M60 xDrive Touring, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
+- Neumáticos 245/45 en llantas de 19" delanteras y neumáticos 275/40 en llantas de 19" traseras
 - Neumáticos 245/50 en llantas de 19
 - Neumáticos 255/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
 - Neumáticos 255/40 en llantas de 21" delanteras y neumáticos 285/35 en llantas de 21" traseras
@@ -94,6 +97,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
+El BMW i5 M60 xDrive Touring cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
+
 ### Asientos
 
 El BMW i5 M60 xDrive Touring tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -104,7 +109,7 @@ Para la primera fila, el BMW i5 M60 xDrive Touring ofrece dos tipos diferentes d
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
-- ajuste eléctrico (opcional)
+- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
@@ -118,10 +123,11 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort seats*
 - ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
+- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
@@ -194,10 +200,7 @@ El modelo tiene 6 conexiones USB-C de serie.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el BMW i5 M60 xDrive Touring.
-
-- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -236,6 +239,11 @@ Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones ad
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

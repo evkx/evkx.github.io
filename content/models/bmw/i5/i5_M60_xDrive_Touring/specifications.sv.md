@@ -31,6 +31,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 M60 xDrive Tour
 				Max effekt
 			</td>
 			<td>
+				380 KW (517 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max effekt med boost
+			</td>
+			<td>
 				442 KW (601 hk)
 			</td>
 		</tr>
@@ -44,6 +52,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 M60 xDrive Tour
 		</tr>
 		<tr>
 			<td>
+				Vridmoment med boost
+			</td>
+			<td>
+				820 Nm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Topphastighet
 			</td>
 			<td>
@@ -53,6 +69,14 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i5 M60 xDrive Tour
 		<tr>
 			<td>
 				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				3,8 s
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
 				3,8 s
@@ -83,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				515 km
+				506 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				15,8 kWh/100km
+				16,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18,2 kWh/100km
+				18,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +131,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				456 km
+				445 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +139,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				17,8 kWh/100km
+				18,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +147,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				20,6 kwh/100km
+				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +636,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -628,7 +652,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -636,7 +660,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +724,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -708,7 +732,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +797,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +805,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -789,7 +813,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -805,7 +829,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Minnesförarsäte
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -813,7 +837,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Memory Passenger Seat
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -837,7 +861,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -861,7 +885,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -869,7 +893,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -877,7 +901,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +993,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -977,7 +1001,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
