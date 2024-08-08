@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 GTX
 linktitle: "ID.7 GTX"
-description: "Volkswagen ID.7 GTX er en helelektrisk sedan med en WLTP rekkevidde på opptil 584 km. EVKX.net har alle detaljene."
+description: "Volkswagen ID.7 GTX er en helelektrisk sedan med en WLTP rekkevidde på opptil 595 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delt vår beskrivelse av Volkswagen ID.7 GTX i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Volkswagen ID.7 GTX leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 560 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Volkswagen ID.7 GTX leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 560 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
 Høykapasitetsbatteriet har en brutto kapasitet på 91 kWh og en netto brukbar kapasitet på 86 kWh, som gir en buffer på 5 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 383 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 584 km, med et energiforbruk på 14,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 595 km, med et energiforbruk på 14,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 55 minutter, mens et mer vanlig scenario på 10-80 % vil ta 29 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 126kW. Hver ladeøkt vil ta 21 minutter og 51 sekunder.
 

@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,5 s
+				5,4 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP
 			</td>
 			<td>
-				584 km
+				595 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP
 			</td>
 			<td>
-				14,7 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP avec perte de charge
 			</td>
 			<td>
-				16,6 kWh/100km
+				16,2 kWh/100km
 			</td>
 		</tr>
 	</tbody>

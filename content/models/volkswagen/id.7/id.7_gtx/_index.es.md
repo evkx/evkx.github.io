@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 GTX
 linktitle: "ID.7 GTX"
-description: "Volkswagen ID.7 GTX es un sedán totalmente eléctrico con un WLTP alcance de hasta 584 km (363 millas). EVKX.net tiene todos los detalles."
+description: "Volkswagen ID.7 GTX es un sedán totalmente eléctrico con un WLTP alcance de hasta 595 km (370 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Hemos separado nuestro artículo Volkswagen ID.7 GTX en secciones. Si desea espe
 
 ## Rendimiento
 
-El Volkswagen ID.7 GTX ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 560 Nm. Puede acelerar de 0 a 100 km/h en 5,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
+El Volkswagen ID.7 GTX ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 560 Nm. Puede acelerar de 0 a 100 km/h en 5,4 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 383 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 584 km, con una tasa de consumo de energía de 14,7 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 595 km, con una tasa de consumo de energía de 14,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 55 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 54%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 126kW. Cada sesión de carga tardaría 21 minutos y 51 segundos.
 

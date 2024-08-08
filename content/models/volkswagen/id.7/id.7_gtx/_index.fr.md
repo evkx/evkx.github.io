@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 GTX
 linktitle: "ID.7 GTX"
-description: "Volkswagen ID.7 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 584 km (363 miles). EVKX.net a tous les détails."
+description: "Volkswagen ID.7 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 595 km (370 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article Volkswagen ID.7 GTX en sections. Si vous souha
 
 ## Performances
 
-La Volkswagen ID.7 GTX offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 560 Nm. Elle peut accélérer de 0 à 100 km/h en 5,5 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
+La Volkswagen ID.7 GTX offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 560 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 383 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 584 km, avec une consommation d'énergie de 14,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 595 km, avec une consommation d'énergie de 14,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 55 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 29 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 126kW. Chaque session de charge prendrait 21 minutes et 51 secondes.
 

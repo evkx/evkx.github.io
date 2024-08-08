@@ -1,7 +1,7 @@
 ---
 title: Volkswagen ID.7 GTX
 linktitle: "ID.7 GTX"
-description: "Volkswagen ID.7 GTX is an all-electric sedan with a WLTP range of up to 584 km (363 miles). EVKX.net has all the details."
+description: "Volkswagen ID.7 GTX is an all-electric sedan with a WLTP range of up to 595 km (370 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Volkswagen ID.7 GTX delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 560 Nm (413 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Volkswagen ID.7 GTX delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 560 Nm (413 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
 The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing an 5 kWh buffer (5.5%) for battery protection. With a nominal voltage of 383 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 584 km (363 miles), with an energy consumption rate of 14.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 595 km (370 miles), with an energy consumption rate of 14.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 55 minutes, while a more typical charging scenario from 10% to 80% takes 29 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 54%. This results in an effective charging speed, including time lost, of 126 kW, with each charging session taking about 21 minutes and 51 seconds..
 
