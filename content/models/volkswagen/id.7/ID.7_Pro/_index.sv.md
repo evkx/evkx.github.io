@@ -74,7 +74,7 @@ Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte jus
 
 ## Exteriör
 
-Volkswagen ID.7 Pro, med dimensioner på 4961 mm i längd, 1862 mm i bredd och 1532 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Volkswagen ID.7 Pro finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ.
+Volkswagen ID.7 Pro, med dimensioner på 4961 mm i längd, 1862 mm i bredd och 1532 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Volkswagen ID.7 Pro finns i totalt 13 lackfärger, inklusive både solida och metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID.7 Pro, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 

@@ -74,7 +74,7 @@ Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan 
 
 ## Eksteriør
 
-Volkswagen ID.7 Pro, med dimensjoner på 4961 mm i lengde, 1862 mm i bredde og 1532 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Volkswagen ID.7 Pro er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metalliske alternativer.
+Volkswagen ID.7 Pro, med dimensjoner på 4961 mm i lengde, 1862 mm i bredde og 1532 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Volkswagen ID.7 Pro er tilgjengelig i totalt 13 lakkfarger, inkludert både solide og metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.7 Pro, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

@@ -74,7 +74,7 @@ Si vous levez complètement le pied, la régénération se fait à un niveau fix
 
 ## Extérieur
 
-La Volkswagen ID.7 Pro S, avec des dimensions de 4961 mm de longueur, 1862 mm de largeur et 1532 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Volkswagen ID.7 Pro S est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Volkswagen ID.7 Pro S, avec des dimensions de 4961 mm de longueur, 1862 mm de largeur et 1532 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Volkswagen ID.7 Pro S est disponible en un total de 13 couleurs de peinture, comprenant des options à la fois solides et métalliques. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.7 Pro S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

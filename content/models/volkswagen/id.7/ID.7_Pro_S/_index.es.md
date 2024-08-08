@@ -74,7 +74,7 @@ Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto 
 
 ## Exterior
 
-El Volkswagen ID.7 Pro S, con dimensiones de 4961 mm de longitud, 1862 mm de anchura y 1532 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Volkswagen ID.7 Pro S está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Volkswagen ID.7 Pro S, con dimensiones de 4961 mm de longitud, 1862 mm de anchura y 1532 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Volkswagen ID.7 Pro S está disponible en un total de 13 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.7 Pro S, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

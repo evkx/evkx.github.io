@@ -72,7 +72,7 @@ If you lift away the foot completly the regen is at one fixed level. This cant b
 
 ## Exterior
 
-The Volkswagen ID.7 GTX Tourer, with dimensions of 4961 mm in length, 1862 mm in width, and 1549 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 GTX Tourer is available in a total of 5 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
+The Volkswagen ID.7 GTX Tourer, with dimensions of 4961 mm in length, 1862 mm in width, and 1549 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 GTX Tourer is available in a total of 7 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 You can select from multiple wheel options in different sizes on the Volkswagen ID.7 GTX Tourer, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 

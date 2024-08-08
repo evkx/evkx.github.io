@@ -72,7 +72,7 @@ Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke jus
 
 ## Udvendig
 
-Den Volkswagen ID.7 GTX Tourer, med dimensioner på 4961 mm i længde, 1862 mm i bredde og 1549 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Volkswagen ID.7 GTX Tourer fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
+Den Volkswagen ID.7 GTX Tourer, med dimensioner på 4961 mm i længde, 1862 mm i bredde og 1549 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Volkswagen ID.7 GTX Tourer fås i alt 7 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.7 GTX Tourer, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
