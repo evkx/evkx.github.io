@@ -265,6 +265,19 @@ Le poids maximum du véhicule est de 2960 kg, avec un poids de base de 2350 kg. 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/trunk_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2250"  >}}
+
+### Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 07.02.2024 et les livraisons ont commencé en August 2024.
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BMW i5 M60 xDrive Touring qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Audi S6 Avant e-tron](/models/audi/a6_e-tron/s6_avant_e-tron/)
+- [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)
+
+<a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>

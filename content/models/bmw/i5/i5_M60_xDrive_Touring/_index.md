@@ -265,6 +265,19 @@ The vehicle’s maximum weight is 2960 kg (6526 lbs), with a base weight of 2350
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/trunk_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2250"  >}}
+
+### Availability & Pricing
+
+This model had a world premiere on 07.02.2024, and deliveries started in August 2024.
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the BMW i5 M60 xDrive Touring that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Audi S6 Avant e-tron](/models/audi/a6_e-tron/s6_avant_e-tron/)
+- [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)
+
+<a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Explore a detailed comparison of these models.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>
