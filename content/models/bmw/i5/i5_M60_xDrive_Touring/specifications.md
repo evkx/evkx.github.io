@@ -1178,7 +1178,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1202,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				Not available
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>

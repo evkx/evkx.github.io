@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal: Stunning Looks and a Smooth Ride | Full Review</h3>
+<p>It's Only Electric: 08.08.2024</p>
+
+{{< youtube 5mi21QE2f5A >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive A BYD For The First Time! The Seal Is A Direct Tesla Model 3 Competitor In China & Europe</h3>
 <p>Out of Spec Reviews: 17.07.2024</p>
 

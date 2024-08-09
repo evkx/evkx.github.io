@@ -68,6 +68,8 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 [**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
 
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
+
 La puissance régénérative maximale est de 200 kW.
 
 ## Extérieur

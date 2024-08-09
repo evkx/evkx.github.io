@@ -68,6 +68,8 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 [**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+
 La potencia regenerativa máxima es de 200 kW.
 
 ## Exterior

@@ -1178,7 +1178,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de collision avant
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1202,7 +1202,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au trafic transversal
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>

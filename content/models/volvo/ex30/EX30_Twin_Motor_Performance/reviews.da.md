@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Drive The Volvo EX30 For The First Time! Everything Was Great… Until It Wasn’t</h3>
+<p>Out of Spec Reviews: 08.08.2024</p>
+
+{{< youtube RAl43bcR3TE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Volvo EX30 Twin Performance Ultra driving impressions and summary</h3>
 <p>Bjørn Nyland: 21.04.2024</p>
 

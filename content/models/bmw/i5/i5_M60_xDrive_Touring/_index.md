@@ -163,6 +163,8 @@ The BMW i5 M60 xDrive Touring includes several features to enhance comfort and c
 
 ## User interface and control
 
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
 The BMW i5 M60 xDrive Touring has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -180,9 +182,11 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
+The BMW i5 M60 xDrive Touring features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, BMW has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Phone Mirroring
 
@@ -218,13 +222,19 @@ The BMW i5 M60 xDrive Touring includes several standard and optional [advanced d
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the BMW i5 M60 xDrive Touring, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the BMW i5 M60 xDrive Touring, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Optional on the BMW i5 M60 xDrive Touring, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the BMW i5 M60 xDrive Touring, this driver assist system helps drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the BMW i5 M60 xDrive Touring, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the BMW i5 M60 xDrive Touring, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the BMW i5 M60 xDrive Touring, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the BMW i5 M60 xDrive Touring, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the BMW i5 M60 xDrive Touring, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -232,18 +242,17 @@ The BMW i5 M60 xDrive Touring offers [driving automation at levels 1 or 2](../..
 
 With the Driving Assistant  level 1 system, you get the following driving automation features.
 
-- Cruise control.
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
 With the Driving Assistant Professional  level 2 system, you get additional driving automation features to the ones listed above.
 
-- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), six [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

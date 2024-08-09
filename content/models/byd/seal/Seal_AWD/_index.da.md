@@ -68,6 +68,8 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
 
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+
 Den maksimale regenerative effekt er 200 kW.
 
 ## Udvendig
