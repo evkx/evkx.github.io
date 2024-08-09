@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 84,4 kWh y una capaci
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 560 y 483 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,5 kWh/100 km para el modelo base y 16,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 29 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 50%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 118kW. Cada sesión de carga tardaría 19 minutos y 26 segundos.
+La velocidad máxima de carga de CC es 205kW. Una carga completa del 0 al 100 % tardaría 56 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 113kW. Cada sesión de carga tardaría 19 minutos y 21 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 31 minutos. Este viaje requeriría dos paradas de carga del 3% al 46%, con un tiempo total de carga de 71 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 2% al 45%, con un tiempo total de carga de 74 minutos.
 
 ### Cargador a bordo
 
@@ -68,6 +68,8 @@ La dirección dinámica es una característica un estándar en el BMW i5 eDrive4
 
 ### Frenos
 
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 348 mm y los discos traseros de 345 mm.
+
 ### Frenado regenerativo
 
 El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
@@ -76,7 +78,7 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-El BMW i5 eDrive40 Touring, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1515 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El BMW i5 eDrive40 Touring está disponible en un total de 12 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El BMW i5 eDrive40 Touring, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1515 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El BMW i5 eDrive40 Touring está disponible en un total de 12 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i5 eDrive40 Touring, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -97,6 +99,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El BMW i5 eDrive40 Touring cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
 
 ### Asientos
 
@@ -122,10 +126,11 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort seats*
 - ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
+- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
@@ -161,6 +166,8 @@ El BMW i5 eDrive40 Touring incluye varias características para mejorar la comod
 
 ## Interfaz de usuario y control
 
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+
 El BMW i5 eDrive40 Touring tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Detalles clave de la pantalla:
@@ -172,11 +179,17 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/screens_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+
+Un sistema de control de gestos que te permite controlar funciones específicas usando tus manos.
+
 ## Infoentretenimiento
+
+El BMW i5 eDrive40 Touring cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, BMW ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Espejo del teléfono
 
@@ -197,7 +210,7 @@ El modelo tiene 6 conexiones USB-C de serie.
 Puedes elegir entre dos tipos de faros para el BMW i5 eDrive40 Touring.
 
 - **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- **Faros LED Matrix:** Disponibles como una mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico en sentido contrario. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
@@ -223,6 +236,10 @@ El BMW i5 eDrive40 Touring incluye varios [sistemas avanzados de asistencia al c
 
 [**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Opcional en el BMW i5 eDrive40 Touring, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
 
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el BMW i5 eDrive40 Touring, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el BMW i5 eDrive40 Touring, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 BMW i5 eDrive40 Touring ofrece [automatización de la conducción en niveles 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
@@ -237,6 +254,11 @@ Con el sistema Driving Assistant Professional  de nivel 2, obtienes funciones ad
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), seis [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -248,6 +270,20 @@ El peso máximo del vehículo es 2790 kg, con un peso base de 2180 kg. Esto perm
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}
+
+### Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 07.02.2024 y las entregas comenzaron en August 2024.
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al BMW i5 eDrive40 Touring que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Audi A6 Avant e-tron Performance](/models/audi/a6_e-tron/a6_avant_e-tron_performance/)
+- [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
+- [Porsche Taycan Sport Turismo](/models/porsche/taycan/taycan_sport_turismo/)
+
+<a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2c63fac7" target="_blank">Explora una comparación detallada de estos modelos.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>
