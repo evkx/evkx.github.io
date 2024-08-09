@@ -224,7 +224,11 @@ El maletero ofrece una capacidad de carga de 476 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2974 kg, con un peso base de 2433 kg. Esto permite una carga máxima de 541 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1820 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1820 kg, mientras que para un tráiler sin freno es de 750 kg.
+
+### Disponibilidad y precios
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
 </a>

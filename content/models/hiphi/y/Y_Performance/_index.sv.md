@@ -221,7 +221,7 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 ### Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.04.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 18.04.2023 och leveranser startade i March 2024. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

@@ -227,6 +227,9 @@ Bagageutrymmet erbjuder en lastkapacitet på 204 liter. Med tredje raden säten 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
+
+### Tillgänglighet och pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi X </strong>

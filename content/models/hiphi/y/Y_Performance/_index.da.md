@@ -221,7 +221,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.04.2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 18.04.2023, og leveringerne startede i March 2024. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

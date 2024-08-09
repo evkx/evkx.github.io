@@ -215,7 +215,11 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 Le coffre offre une capacité de chargement de 316 litres. Avec les sièges arrière rabattus, cette capacité passe à 654 litres.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+
+### Disponibilité et prix
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

@@ -210,7 +210,11 @@ Bagagerummet har en lastekapacitet på 476 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 2974 kg, med en basisvægt på 2225 kg. Dette giver en maksimal last på 749 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1090 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1090 kg, mens den for en ubremset trailer er 750 kg.
+
+### Tilgængelighed og priser
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
 </a>

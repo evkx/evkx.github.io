@@ -223,6 +223,9 @@ Bagasjerommet tilbyr en lastekapasitet på 204 liter. Med tredje seterad nedfelt
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
+
+### Tilgjengelighet & pris
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi X </strong>

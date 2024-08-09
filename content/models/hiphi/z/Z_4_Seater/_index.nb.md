@@ -215,7 +215,11 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Bagasjerommet tilbyr en lastekapasitet på 316 liter. Med baksetene nedfelt, utvides dette til 654 liter.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.<div class="mt-3 mb-3">
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+
+### Tilgjengelighet & pris
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

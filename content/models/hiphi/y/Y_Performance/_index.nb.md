@@ -221,7 +221,7 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ### Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.04.2023, og leveringene forventes å starte om March 2024.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 18.04.2023, og leveringene startet i March 2024. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Y </strong>
 </a>

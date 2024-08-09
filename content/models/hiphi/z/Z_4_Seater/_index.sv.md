@@ -215,7 +215,11 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 
 Bagageutrymmet erbjuder en lastkapacitet på 316 liter. Med baksätena nedfällda ökar detta till 654 liter.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.<div class="mt-3 mb-3">
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+
+### Tillgänglighet och pris
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

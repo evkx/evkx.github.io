@@ -6,6 +6,8 @@ weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+<h2>Discontinued variants</h2>
+
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>HiPhi Z 4 Seater</h3>
 	<div class="row">

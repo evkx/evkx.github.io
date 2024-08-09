@@ -213,7 +213,11 @@ Bagagerummet har en lastekapacitet på 316 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 2950 kg, med en basisvægt på 2548 kg. Dette giver en maksimal last på 402 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.<div class="mt-3 mb-3">
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+
+### Tilgængelighed og priser
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

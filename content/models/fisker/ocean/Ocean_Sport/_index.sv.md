@@ -210,7 +210,11 @@ Bagageutrymmet erbjuder en lastkapacitet på 476 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 2974 kg, med en grundvikt på 2225 kg. Detta tillåter en maximal last på 749 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1090 kg, medan för en obromsad släpvagn är den 750 kg.<div class="mt-3 mb-3">
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1090 kg, medan för en obromsad släpvagn är den 750 kg.
+
+### Tillgänglighet och pris
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Fisker Ocean </strong>
 </a>

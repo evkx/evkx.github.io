@@ -213,7 +213,11 @@ Bagageutrymmet erbjuder en lastkapacitet på 316 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 2950 kg, med en grundvikt på 2548 kg. Detta tillåter en maximal last på 402 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.<div class="mt-3 mb-3">
+Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+
+### Tillgänglighet och pris
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

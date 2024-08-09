@@ -227,6 +227,9 @@ The trunk offers a cargo capacity of 204 liters (7.2 CU FT). With the third-row 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
+
+### Availability & Pricing
+
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi X </strong>

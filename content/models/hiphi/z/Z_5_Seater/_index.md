@@ -213,7 +213,11 @@ The trunk offers a cargo capacity of 316 liters (11.2 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2950 kg (6504 lbs), with a base weight of 2548 kg (5617 lbs). This allows for a maximum load of 402 kg (886 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+### Availability & Pricing
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>

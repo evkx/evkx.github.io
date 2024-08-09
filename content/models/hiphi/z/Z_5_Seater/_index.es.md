@@ -213,7 +213,11 @@ El maletero ofrece una capacidad de carga de 316 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2950 kg, con un peso base de 2548 kg. Esto permite una carga máxima de 402 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.<div class="mt-3 mb-3">
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+
+### Disponibilidad y precios
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
 </a>
