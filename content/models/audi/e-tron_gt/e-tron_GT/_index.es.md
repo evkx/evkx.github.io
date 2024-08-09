@@ -195,6 +195,18 @@ Puedes elegir entre dos sistemas de sonido en el Audi e-tron GT.
 - Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios.
 - Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
 
+## Aplicación móvil
+
+El Audi e-tron GT viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Programar carga**: Planifica y programa sesiones de carga antes de tus viajes.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
+- **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
+
 ## Luces
 
 Puedes elegir entre tres tipos de faros para el Audi e-tron GT.

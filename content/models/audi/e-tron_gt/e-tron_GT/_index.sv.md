@@ -195,6 +195,18 @@ Du kan välja mellan två ljudsystem på Audi e-tron GT.
 - Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
 
+## Mobilapp
+
+Audi e-tron GT kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+
 ## Ljus
 
 Du kan välja mellan tre typer av strålkastare för Audi e-tron GT.

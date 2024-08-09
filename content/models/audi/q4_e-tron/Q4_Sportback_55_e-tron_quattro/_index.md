@@ -195,6 +195,17 @@ You can choose between two sound systems on the Audi Q4 Sportback 55 e-tron quat
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
+## Mobile App
+
+The Audi Q4 Sportback 55 e-tron quattro comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle**: Easily check the current location of your car.
+- **Preconditioning**: Preheat or cool your car before you start your journey for optimal comfort.
+- **Scheduled Charging**: Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target**: Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning**: Plan your route and send it directly to your car's navigation system.
+- **Driving History**: Review the details of your past trips.
+
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 Sportback 55 e-tron quattro.

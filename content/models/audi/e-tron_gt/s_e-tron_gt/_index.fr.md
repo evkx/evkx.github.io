@@ -201,6 +201,18 @@ Vous pouvez choisir entre deux systèmes audio sur le Audi S e-tron GT.
 - Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts.
 - Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
 
+## Application mobile
+
+Le Audi S e-tron GT est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
+
 ## Lumières
 
 Vous pouvez choisir entre trois types de phares pour le Audi S e-tron GT.

@@ -201,6 +201,18 @@ Du kan velge mellom to lydsystemer på Audi RS e-tron GT.
 - Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt.
 - Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
 
+## Mobilapp
+
+Audi RS e-tron GT kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
+
 ## Lys
 
 Du kan velge mellom tre typer frontlykter for Audi RS e-tron GT.

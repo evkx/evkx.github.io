@@ -199,6 +199,17 @@ Du kan vælge mellem to lydsystemer på Audi Q4 45 e-tron quattro (GEN1).
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 
+## Mobilapp
+
+Audi Q4 45 e-tron quattro (GEN1) kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Planlagt opladning**: Planlæg og tidsindstil opladningssessioner før dine ture.
+- **Juster ladningsmål**: Indstil din ønskede opladningstilstand for at starte eller stoppe opladning efter behov.
+- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
+- **Kørehistorik**: Gennemgå detaljer om dine tidligere ture.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi Q4 45 e-tron quattro (GEN1).

@@ -221,6 +221,18 @@ Du kan välja mellan två ljudsystem på Audi A6 Avant e-tron performance.
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 
+## Mobilapp
+
+Audi A6 Avant e-tron performance kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Audi A6 Avant e-tron performance.
