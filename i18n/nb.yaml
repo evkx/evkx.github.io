@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-f349adfd
+  translation: Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 678 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-4bb6a764
   translation: Volkswagen ID.7 GTX er en helelektrisk sedan med en WLTP rekkevidde på opptil 595 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ee8cb93d
   translation: Opel Frontera er en helelektrisk crossover med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-13db8135
-  translation: Cadillac OPTIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 483 km. EVKX.net har alle detaljene.
 

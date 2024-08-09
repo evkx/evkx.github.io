@@ -283,7 +283,7 @@ I det raskt voksende markedet for elbiler har EVKX.net identifisert flere altern
 - [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
 - [Porsche Taycan Sport Turismo](/models/porsche/taycan/taycan_sport_turismo/)
 
-<a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2c63fac7" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2cfeb279" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BMW i5 </strong>

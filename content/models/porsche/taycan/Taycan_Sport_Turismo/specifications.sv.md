@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport Turismo. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Porsche Taycan Sport Turismo, gå till [chargeinfo](../chargecurve/) för Porsche Taycan Sport Turismo med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Max effekt
 			</td>
 			<td>
-				240 KW (326 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Max effekt med boost
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment
+			</td>
+			<td>
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Vridmoment med boost
 			</td>
 			<td>
-				345 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +95,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Max effekt
 			</td>
 			<td>
-				280 KW (381 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Max effekt med boost
 			</td>
 			<td>
-				350 KW (476 hk)
+				300 KW (408 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vridmoment
+			</td>
+			<td>
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				Vridmoment med boost
 			</td>
 			<td>
-				357 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +135,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Porsche Taycan Sport T
 				0-100 km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +163,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				431 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +171,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +179,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				20,4 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				354 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				24,8 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +235,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +294,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				79,2 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +302,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				71 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +310,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				225 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +318,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Antal moduler
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +326,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Packkonfiguration
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +334,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +366,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				93,4 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +374,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				83,7 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +681,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2075 kg
+				2115 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +689,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2795 kg
+				2770 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +697,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				720 kg
+				655 kg
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +736,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 ## Hjulupphängning
-
-Modellen erbjuder 2 fjädringsvarianter
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Specifikation
-			</th>
-			<th>
-				Värde
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptive Suspension
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning fram
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dämpning bak
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd fram
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar höjd bak
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Max markfrigång
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minsta markfrigång
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre stötdämpare
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Främre fjädring
-			</td>
-			<td>
-				Skruvfjäder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Bakre fjädring
-			</td>
-			<td>
-				Skruvfjäder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning foran
-			</td>
-			<td>
-				Dubbel länkarmsfjädring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hjulupphängning bak
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -1015,7 +906,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>

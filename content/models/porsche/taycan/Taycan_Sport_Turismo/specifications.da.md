@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687" >}}
 EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Sport Turismo. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Porsche Taycan Sport Turismo, besøg [chargeinfo](../chargecurve/) for Porsche Taycan Sport Turismo med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popeffekt
 			</td>
 			<td>
-				240 KW (326 hk)
+				320 KW (435 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popkraft med boost
 			</td>
 			<td>
-				300 KW (408 hk)
+				320 KW (435 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				345 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +95,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popeffekt
 			</td>
 			<td>
-				280 KW (381 hk)
+				300 KW (408 hk)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Popkraft med boost
 			</td>
 			<td>
-				350 KW (476 hk)
+				300 KW (408 hk)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk momentudgang
+			</td>
+			<td>
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				357 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +135,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Taycan Spo
 				0-100 km/t (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +163,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				431 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +171,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +179,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				20,4 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				354 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				24,8 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +235,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +294,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				79,2 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +302,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				71 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +310,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				225 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +318,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Antal moduler
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +326,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Pakkekonfiguration
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +334,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +366,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				93,4 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +374,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				83,7 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +681,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2075 kg
+				2115 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +689,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2795 kg
+				2770 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +697,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				720 kg
+				655 kg
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +736,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 </table>
 
 ## Suspension
-
-Modellen tilbyder 2 affjedringsvarianter
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Adaptiv suspension
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning foran
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar dæmpning bagtil
-			</td>
-			<td>
-				Ja, standardudstyr
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde foran
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Justerbar højde bag
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Maks frihøjde
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minimum frihøjde
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Spjældtype foran
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dæmper type bag
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype foran
-			</td>
-			<td>
-				Spiralfjeder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Fjedertype bagtil
-			</td>
-			<td>
-				Spiralfjeder
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ophængstype foran
-			</td>
-			<td>
-				Dobbelt wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Suspension type bag
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -1015,7 +906,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

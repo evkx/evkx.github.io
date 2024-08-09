@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo
 linktitle: "Taycan Sport Turismo"
-description: "Porsche Taycan Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 484 km (301 miles). EVKX.net a tous les détails."
+description: "Porsche Taycan Sport Turismo est un break de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 678 km (421 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article Porsche Taycan Sport Turismo en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
@@ -26,37 +26,35 @@ Nous avons séparé notre article Porsche Taycan Sport Turismo en sections. Si v
 
 ## Performances
 
-Avec overboost, l'Porsche Taycan Sport Turismo atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 240 kW (326 ch). Le couple maximal est de 345 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
-
-Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, l'Porsche Taycan Sport Turismo atteint une puissance maximale de  350 kW (476 ch). Sans overboost, elle délivre 280 kW (381 ch). Le couple maximal est de 357 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
+Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiffres de performances. Avec overboost, l'Porsche Taycan Sport Turismo atteint une puissance maximale de  320 kW (435 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 420 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides. Avec overboost, l'Porsche Taycan Sport Turismo atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 300 kW (408 ch). Le couple maximal est de 410 Nm. Elle peut accélérer de 0 à 100 km/h en 4,8 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
 
 ## Batterie, autonomie et charge
 
 Porsche Taycan Sport Turismo propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 
-### Performance Battery
-
-La batterie haute capacité a une capacité brute de 79,2 kWh et une capacité nette utilisable de 71 kWh, offrant une réserve de 8,2 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 615 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
-
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 431 et 354 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,5 kWh/100 km pour le modèle de base et à 20,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
-
-La vitesse de charge DC maximale est de 225kW. Une charge complète de 0 à 100 % prendrait 45 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 19 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 67 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 136kW. Chaque session de charge prendrait 21 minutes et 2 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan Sport Turismo une option pratique pour les voyages longue distance.
-
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 26 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 70%, avec un temps de recharge total de 66 minutes.
-
 ### Performance Battery Plus
 
-La batterie haute capacité a une capacité brute de 93,4 kWh et une capacité nette utilisable de 83,7 kWh, offrant une réserve de 9,7 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 105 kWh et une capacité nette utilisable de 97 kWh, offrant une réserve de 8 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 484 et 407 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,5 kWh/100 km pour le modèle de base et à 20,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 678 et 579 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,3 kWh/100 km pour le modèle de base et à 16,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 165kW. Chaque session de charge prendrait 19 minutes et 53 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan Sport Turismo une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes. Cette capacité de charge exceptionnellement rapide fait de la Porsche Taycan Sport Turismo l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 10 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 58%, avec un temps de recharge total de 51 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 8 heures et 52 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 64%, avec un temps de recharge total de 33 minutes.
+
+### Performance Battery
+
+La batterie haute capacité a une capacité brute de 89 kWh et une capacité nette utilisable de 83,6 kWh, offrant une réserve de 5,4 kWh (6,1%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 590 et 503 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,3 kWh/100 km pour le modèle de base et à 16,8 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+
+La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 50 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 165kW. Chaque session de charge prendrait 19 minutes et 52 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan Sport Turismo une option pratique pour les voyages longue distance.
+
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 7 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 55%, avec un temps de recharge total de 47 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 27 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 3 heures et 13 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
 
 ### Port de recharge
 
@@ -69,8 +67,6 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 Porsche Taycan Sport Turismo dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
-
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 127 mm.
 
 Vous pouvez commander Porsche Taycan Sport Turismo avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 103 mm et la garde au sol maximale est de 127 mm.
 
@@ -106,7 +102,7 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -123,7 +119,7 @@ Pour la première rangée, l'Porsche Taycan Sport Turismo propose trois types de
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
 - réglage électrique
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 
@@ -154,8 +150,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan Sport Turismo.
@@ -167,8 +161,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1912"  >}}
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -202,7 +194,7 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Infodivertissement
 
@@ -231,7 +223,7 @@ Vous pouvez choisir entre deux types de phares pour le Porsche Taycan Sport Turi
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 
@@ -278,12 +270,13 @@ Avec le système Porsche InnoDrive  de niveau 2, vous obtenez des fonctionnalit�
 
 Le coffre offre une capacité de chargement de 446 litres. Avec les sièges arrière rabattus, cette capacité passe à 1212 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Le poids maximum du véhicule est de 2795 kg, avec un poids de base de 2075 kg. Cela permet une charge maximale de 720 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2770 kg, avec un poids de base de 2115 kg. Cela permet une charge maximale de 655 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+### Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 07.02.2024 et les livraisons ont commencé en August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

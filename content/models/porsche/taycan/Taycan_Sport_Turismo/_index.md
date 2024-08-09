@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo
 linktitle: "Taycan Sport Turismo"
-description: "Porsche Taycan Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 484 km (301 miles). EVKX.net has all the details."
+description: "Porsche Taycan Sport Turismo is an all-electric luxury station wagon with a WLTP range of up to 678 km (421 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -26,37 +26,35 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-With overboost, the Porsche Taycan Sport Turismo reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 240 kW (326 hp / 322 bhp). The maximum torque is 345 Nm (255 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
-
-With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Sport Turismo reaches a maximum power of 350 kW (476 hp / 469 bhp). Without overboost, it delivers 280 kW (381 hp / 376 bhp). The maximum torque is 357 Nm (263 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
+With the optional Performance Battery Plus battery, you get other performance numbers. With overboost, the Porsche Taycan Sport Turismo reaches a maximum power of 320 kW (435 hp / 429 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 420 Nm (310 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance. With overboost, the Porsche Taycan Sport Turismo reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 300 kW (408 hp / 402 bhp). The maximum torque is 410 Nm (303 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
 
 ## Battery, range, and charging
 
 Porsche Taycan Sport Turismo has two battery options with different specifications. Below you see how this affects range and charging.
 
-### Performance Battery
-
-The high-capacity battery has a gross capacity of 79,2 kWh and a net usable capacity of 71 kWh, providing an 8,2 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 615 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
-
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 431 to 354 km (268-220 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.5 kWh/100 km for the base model and 20.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
-
-The vehicle supports fast DC charging with a maximum power of 225 kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 156 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 67%. This results in an effective charging speed, including time lost, of 136 kW, with each charging session taking about 21 minutes and 2 seconds.. This efficient charging capability makes the Porsche Taycan Sport Turismo a convenient option for long-distance travel.
-
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 26 minutes. This journey would require three charging stops from 0% to 70%, with a total charging time of 66 minutes.
-
 ### Performance Battery Plus
 
-The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing an 9,7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 484 to 407 km (301-253 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.5 kWh/100 km for the base model and 20.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 678 to 579 km (421-360 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 165 kW, with each charging session taking about 19 minutes and 53 seconds.. This efficient charging capability makes the Porsche Taycan Sport Turismo a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds.. This exceptionally fast charging capability makes the Porsche Taycan Sport Turismo one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 10 minutes. This journey would require three charging stops from 3% to 58%, with a total charging time of 51 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 52 minutes. This journey would require two charging stops from 5% to 64%, with a total charging time of 33 minutes.
+
+### Performance Battery
+
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (6.1%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 590 to 503 km (367-313 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+
+The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 165 kW, with each charging session taking about 19 minutes and 52 seconds.. This efficient charging capability makes the Porsche Taycan Sport Turismo a convenient option for long-distance travel.
+
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 7 minutes. This journey would require three charging stops from 4% to 55%, with a total charging time of 47 minutes.
 
 ### Onboard charger
 
-The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 27 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 3 hours and 13 minutes at home.
+The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
 ### Charge port
 
@@ -69,8 +67,6 @@ The charge port is conveniently located on the [right front side](../../../../te
 Porsche Taycan Sport Turismo has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
-
-The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 127 mm.
 
 You can order Porsche Taycan Sport Turismo with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 103 mm, and the maximum is 127 mm.
 
@@ -113,7 +109,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -130,7 +126,7 @@ For the front row, the Porsche Taycan Sport Turismo offers three different seat 
 The following functionalities are available on the **Comfort** seat.
 
 - electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
@@ -161,8 +157,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan Sport Turismo.
@@ -174,8 +168,6 @@ The standard option is two integrated seats in the second row. In addition, the 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1912"  >}}
 
 There is only one type of steering wheel available.
 
@@ -209,7 +201,7 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Infotainment
 
@@ -238,7 +230,7 @@ You can choose between two types of headlights for the Porsche Taycan Sport Turi
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Advanced Driver Assistance Systems
 
@@ -285,12 +277,13 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 The trunk offers a cargo capacity of 446 liters (15.8 CU FT). With the rear seat folded down, this expands to 1212 liters (42.8 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2795 kg (6162 lbs), with a base weight of 2075 kg (4575 lbs). This allows for a maximum load of 720 kg (1587 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2770 kg (6107 lbs), with a base weight of 2115 kg (4663 lbs). This allows for a maximum load of 655 kg (1444 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+### Availability & Pricing
+
+This model had a world premiere on 07.02.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

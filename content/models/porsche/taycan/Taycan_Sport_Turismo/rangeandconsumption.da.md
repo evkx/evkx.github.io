@@ -42,10 +42,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				431 km / 268 mi
+				678 km / 421 mi
 			</td>
 			<td>
-				16,47kWh/100km / 3,8 mi/kWh
+				14,31kWh/100km / 4,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -55,10 +55,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				354 km / 220 mi
+				579 km / 360 mi
 			</td>
 			<td>
-				20,06 kWh/100km / 3,1 mi/kWh
+				16,75 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -89,10 +89,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række grundlæggende trim med 2KW AC
 			</td>
 			<td>
-				 342km / 213 mi 
+				 521km / 324 mi 
 			</td>
 			<td>
-				-20,6%
+				-23,2%
 			</td>
 		</tr>
 		<tr>
@@ -100,10 +100,10 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 				WLTP række top trim med 2KW AC
 			</td>
 			<td>
-				291 km / 181 mi
+				461 km / 286 mi
 			</td>
 			<td>
-				-17,8%
+				-20,4%
 			</td>
 		</tr>
 	</tbody>
@@ -131,13 +131,57 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 	<tbody>
 		<tr>
 			<td>
+				90kmt/56mph perfekt stand
+			</td>
+			<td>
+				647km / 402 mi
+			</td>
+			<td>
+				15 kWh/100km / 4,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				90kmt/56mph med 2KW opvarmning
+			</td>
+			<td>
+				582km /350mi
+			</td>
+			<td>
+				17,2 kWh/100km /3,6 mi/kWh 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh perfekt stand
+			</td>
+			<td>
+				539 km / 335 mi
+			</td>
+			<td>
+				18 kWh/100km / 3,5 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				70mph/112kmh med 2KW opvarmning
+			</td>
+			<td>
+				491km / 305mi
+			</td>
+			<td>
+				19,8 kWh/100km / 3,1 mi/kWh  
+			</td>
+		</tr>
+		<tr>
+			<td>
 				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				323 km / 201 mi
+				462 km / 287 mi
 			</td>
 			<td>
-				22 kWh/100km / 2,8 mi/kWh
+				21 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -145,10 +189,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				300 km /186mi
+				428 km /266mi
 			</td>
 			<td>
-				23,7 kWh/100km /2,6 mi/kWh
+				22,7 kWh/100km /2,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -184,10 +228,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				484 km / 301 mi
+				590 km / 367 mi
 			</td>
 			<td>
-				kWh/100km /  mi/kWh
+				17,29kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -197,10 +241,10 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				</a>
 			</td>
 			<td>
-				407 km / 253 mi
+				503 km / 313 mi
 			</td>
 			<td>
-				 kWh/100km /  mi/kWh
+				20,57 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -226,6 +270,28 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP række grundlæggende trim med 2KW AC
+			</td>
+			<td>
+				 472km / 293 mi 
+			</td>
+			<td>
+				-20,0%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP række top trim med 2KW AC
+			</td>
+			<td>
+				416 km / 258 mi
+			</td>
+			<td>
+				-17,3%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -249,6 +315,28 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				120kmt/75mph perfekt stand
+			</td>
+			<td>
+				380 km / 236 mi
+			</td>
+			<td>
+				21 kWh/100km / 3,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				120kmt/75mph med 2KW opvarmning
+			</td>
+			<td>
+				352 km /219mi
+			</td>
+			<td>
+				22,7 kWh/100km /2,7 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>

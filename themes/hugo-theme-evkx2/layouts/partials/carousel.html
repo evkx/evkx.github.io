@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/porsche/taycan/taycan_sport_turismo/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_sport_turismo/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Porsche Taycan Sport Turismo</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-f349adfd"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/volkswagen/id.7/id.7_gtx/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_gtx/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Audi S6 Sportback e-tron</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-dbb2a6ae"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/audi/a6_e-tron/s6_avant_e-tron/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/s6_avant_e-tron/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Audi S6 Avant e-tron</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-80822ada"}}</p>
 				</div>
 			</div>
 		</div>

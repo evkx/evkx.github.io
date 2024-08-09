@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687" >}}
 EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche Taycan Sport Turismo. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Porsche Taycan Sport Turismo, visitez les [chargeinfo](../chargecurve/) pour Porsche Taycan Sport Turismo avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				240 KW (326 ch)
+				320 KW (435 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				300 KW (408 ch)
+				320 KW (435 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				345 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +95,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance de pointe
 			</td>
 			<td>
-				280 KW (381 ch)
+				300 KW (408 ch)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Puissance maximale avec boost
 			</td>
 			<td>
-				350 KW (476 ch)
+				300 KW (408 ch)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Couple de sortie électrique
+			</td>
+			<td>
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de la sortie de couple électrique
 			</td>
 			<td>
-				357 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +135,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche T
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +163,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				431 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +171,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +179,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				20,4 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				354 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				24,8 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +235,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +294,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				79,2 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +302,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				71 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +310,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				225 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +318,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Nombre de modules
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +326,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +334,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +366,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				93,4 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +374,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				83,7 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +681,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2075 kg
+				2115 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +689,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2795 kg
+				2770 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +697,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				720 kg
+				655 kg
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +736,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 ## Suspension
-
-Le modèle propose 2 variantes de suspension
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspension adaptative
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortissement réglable avant
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortissement arrière réglable
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Avant réglable en hauteur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hauteur arrière réglable
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Garde au sol maximale
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Garde au sol minimale
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type d'amortisseur avant
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type d'amortisseur arrière
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Avant à ressort
-			</td>
-			<td>
-				Ressort hélicoïdal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type à ressort arrière
-			</td>
-			<td>
-				Ressort hélicoïdal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type de suspension avant
-			</td>
-			<td>
-				Suspension à double triangulation
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type de suspension arrière
-			</td>
-			<td>
-				Multi-liens
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -1015,7 +906,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

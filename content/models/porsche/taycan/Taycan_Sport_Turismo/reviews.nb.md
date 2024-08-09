@@ -9,31 +9,38 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Porsche Taycan Standard Battery (79.2 kWh) RWD 70-MPH Highway Range Test!</h3>
-<p>Out of Spec Reviews: 17.05.2022</p>
+<h3>NEW 2025 Porsche Taycan Review: 510-Mile Range?!</h3>
+<p>AutoTrader: 03.04.2024</p>
 
-{{< youtube aBWCVGgsYUU >}}
-
-</div>
-<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Porsche Taycan RWD FULL REVIEW - less or more fun with the new base model?</h3>
-<p>Autogefühl: 17.05.2022</p>
-
-{{< youtube MsMyICm3cNk >}}
+{{< youtube QIZ1zqD9naE >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>NEW Porsche Taycan RWD Review: More Fun Than Petrol?</h3>
-<p>AutoTrader: 10.02.2021</p>
+<h3>Why this is the best Porsche Taycan! 2024 facelift driving REVIEW</h3>
+<p>Autogefühl: 03.04.2024</p>
 
-{{< youtube qfXsEfLVPTE >}}
+{{< youtube SBqHv5SpYC0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>Porsche Taycan RWD review: 0-60mph, 1/4 mile & drift test!</h3>
-<p>carwow: 03.02.2021</p>
+<h3>2024 Porsche Taycan facelift REVIEW - even quicker in acceleration and recharging!</h3>
+<p>Autogefühl: 07.02.2024</p>
 
-{{< youtube qinXZ7qwAMI >}}
+{{< youtube oyLWLtSwZlI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Porsche Taycan Facelift Full Tour! Software, Range, Charging, Design, Suspension, & More Detailed</h3>
+<p>Out of Spec Reviews: 07.02.2024</p>
+
+{{< youtube 11XbivJhsLA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Insane Porsche Charging Performance! New Taycan Facelift Charging Test & Comparison</h3>
+<p>Out of Spec Reviews: 06.02.2024</p>
+
+{{< youtube YyuvG8Ey1JA >}}
 
 </div>
 <div class="mt-3 mb-3">

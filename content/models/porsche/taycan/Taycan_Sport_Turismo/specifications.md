@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687" >}}
 EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport Turismo. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Porsche Taycan Sport Turismo, visit the [chargeinfo](../chargecurve/) for Porsche Taycan Sport Turismo with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak power
 			</td>
 			<td>
-				240 KW (326 hp /322 bhp)
+				320 KW (435 hp /429 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak power with  boost
 			</td>
 			<td>
-				300 KW (408 hp /402 bhp)
+				320 KW (435 hp /429 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				420 nm (310 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Electrical torque output boost
 			</td>
 			<td>
-				345 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +95,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak power
 			</td>
 			<td>
-				280 KW (381 hp /375 bhp)
+				300 KW (408 hp /402 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Peak power with  boost
 			</td>
 			<td>
-				350 KW (476 hp /469 bhp)
+				300 KW (408 hp /402 bhp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Electrical torque output
+			</td>
+			<td>
+				410 nm (303 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				Electrical torque output boost
 			</td>
 			<td>
-				357 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +135,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Taycan Sport
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +163,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				431 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +171,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +179,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				20,4 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				354 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				24,8 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +235,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +294,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				79,2 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +302,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				71 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +310,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				225 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +318,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Number of modules
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +326,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +334,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +366,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				93,4 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +374,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				83,7 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +681,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2075 kg (4575 lbs)
+				2115 kg (4663 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +689,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2795 kg (6162 lbs)
+				2770 kg (6107 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +697,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				720 kg (1587 lbs)
+				655 kg (1444 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +736,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 ## Suspension
-
-The model offers 2 suspension variants
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				127 mm (5,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				127 mm (5,0")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type front</a>
-			</td>
-			<td>
-				Double wishbone suspension
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type rear</a>
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -1015,7 +906,7 @@ This model is available with a seat configuration with five seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

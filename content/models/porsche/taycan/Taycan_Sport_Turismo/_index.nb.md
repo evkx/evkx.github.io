@@ -1,7 +1,7 @@
 ---
 title: Porsche Taycan Sport Turismo
 linktitle: "Taycan Sport Turismo"
-description: "Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 484 km. EVKX.net har alle detaljene."
+description: "Porsche Taycan Sport Turismo er en helelektrisk luksusstasjonsvogn med en WLTP rekkevidde på opptil 678 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 Vi har delt vår beskrivelse av Porsche Taycan Sport Turismo i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
@@ -26,37 +26,35 @@ Vi har delt vår beskrivelse av Porsche Taycan Sport Turismo i seksjoner. Hvis d
 
 ## Ytelse
 
-Med overboost når Porsche Taycan Sport Turismo en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 240 kW (326 hk). Maksimalt dreiemoment er 345 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
-
-Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan Sport Turismo en maksimal effekt på 350 kW (476 hk). Uten overboost leverer den 280 kW (381 hk). Maksimalt dreiemoment er 357 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
+Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. Med overboost når Porsche Taycan Sport Turismo en maksimal effekt på 320 kW (435 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 420 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse. Med overboost når Porsche Taycan Sport Turismo en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 300 kW (408 hk). Maksimalt dreiemoment er 410 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 
 Porsche Taycan Sport Turismo har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 
-### Performance Battery
-
-Høykapasitetsbatteriet har en brutto kapasitet på 79,2 kWh og en netto brukbar kapasitet på 71 kWh, som gir en buffer på 8,2 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 615 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
-
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 431 og 354 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
-
-Maksimal DC-ladehastighet er 225 kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 21 minutter og 2 sekunder. Denne effektive ladekapasiteten gjør Porsche Taycan Sport Turismo til et praktisk valg for langdistansereiser.
-
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 9 timer og 26 minutter. Denne reisen ville kreve to ladestopp fra 0% til 70%, med en total ladetid på 66 minutter.
-
 ### Performance Battery Plus
 
-Høykapasitetsbatteriet har en brutto kapasitet på 93,4 kWh og en netto brukbar kapasitet på 83,7 kWh, som gir en buffer på 9,7 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 105 kWh og en netto brukbar kapasitet på 97 kWh, som gir en buffer på 8 kWh (7,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 484 og 407 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 678 og 579 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,3 kWh/100 km for basismodellen og 16,8 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 53 sekunder. Denne effektive ladekapasiteten gjør Porsche Taycan Sport Turismo til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder. Denne eksepsjonelt raske ladeevnen gjør Porsche Taycan Sport Turismo til en av de mest effektive og praktiske elbilene for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 9 timer og 10 minutter. Denne reisen ville kreve to ladestopp fra 3% til 58%, med en total ladetid på 51 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 8 timer og 52 minutter. Denne reisen ville kreve to ladestopp fra 5% til 64%, med en total ladetid på 33 minutter.
+
+### Performance Battery
+
+Høykapasitetsbatteriet har en brutto kapasitet på 89 kWh og en netto brukbar kapasitet på 83,6 kWh, som gir en buffer på 5,4 kWh (6,1%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 590 og 503 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,3 kWh/100 km for basismodellen og 16,8 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+
+Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 52 sekunder. Denne effektive ladekapasiteten gjør Porsche Taycan Sport Turismo til et praktisk valg for langdistansereiser.
+
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 9 timer og 7 minutter. Denne reisen ville kreve to ladestopp fra 4% til 55%, med en total ladetid på 47 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 27 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 3 timer og 13 minutter hjemme.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 49 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 4 timer og 24 minutter hjemme.
 
 ### Ladeport
 
@@ -69,8 +67,6 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 Porsche Taycan Sport Turismo har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
-
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 127 mm.
 
 Du kan bestille Porsche Taycan Sport Turismo med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 127 mm.
 
@@ -106,7 +102,7 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -123,7 +119,7 @@ For første rad tilbyr Porsche Taycan Sport Turismo tre forskjellige setetyper �
 Følgende funksjoner er tilgjengelige på **Comfort** setet.
 
 - elektrisk justering
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 
@@ -154,8 +150,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan Sport Turismo.
@@ -167,8 +161,6 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1912"  >}}
 
 Det er bare én type ratt tilgjengelig.
 
@@ -202,7 +194,7 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Infotainment
 
@@ -231,7 +223,7 @@ Du kan velge mellom to typer frontlykter for Porsche Taycan Sport Turismo.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1688"  >}}
 
 ## Avanserte førerassistentsystemer
 
@@ -278,12 +270,13 @@ Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunk
 
 Bagasjerommet tilbyr en lastekapasitet på 446 liter. Med baksetene nedfelt, utvides dette til 1212 liter. På taket kan du laste opptil 75 kg.
 
-Kjøretøyets maksimale vekt er 2795 kg, med en basisvekt på 2075 kg. Dette gir en maksimal lastekapasitet på 720 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2770 kg, med en basisvekt på 2115 kg. Dette gir en maksimal lastekapasitet på 655 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1747"  >}}
-<div class="mt-3 mb-3">
+### Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere 07.02.2024, og leveringene startet i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
 </a>

@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000" >}}
+{{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/main_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="1687" >}}
 EVKX.net busca tener las especificaciones más completas para Porsche Taycan Sport Turismo. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Porsche Taycan Sport Turismo, visite [chargeinfo](../chargecurve/) para Porsche Taycan Sport Turismo con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima
 			</td>
 			<td>
-				240 KW (326 hp)
+				320 KW (435 hp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,15 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima con impulso
 			</td>
 			<td>
-				300 KW (408 hp)
+				320 KW (435 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				420 nm
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				345 Nm
+				420 Nm
 			</td>
 		</tr>
 		<tr>
@@ -63,7 +71,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +95,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima
 			</td>
 			<td>
-				280 KW (381 hp)
+				300 KW (408 hp)
 			</td>
 		</tr>
 		<tr>
@@ -95,7 +103,15 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Potencia máxima con impulso
 			</td>
 			<td>
-				350 KW (476 hp)
+				300 KW (408 hp)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Salida de par eléctrico
+			</td>
+			<td>
+				410 nm
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +119,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				357 Nm
+				410 Nm
 			</td>
 		</tr>
 		<tr>
@@ -119,7 +135,7 @@ EVKX.net busca tener las especificaciones más completas para Porsche Taycan Spo
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,4 s
+				4,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -147,7 +163,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				431 km
+				678 km
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +171,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -163,7 +179,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				20,4 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +187,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				354 km
+				579 km
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +195,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -187,7 +203,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				24,8 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -211,7 +227,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				484 km
+				590 km
 			</td>
 		</tr>
 		<tr>
@@ -219,7 +235,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,5 kWh/100km
+				14,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -227,7 +243,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				21,5 kWh/100km
+				16,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -235,7 +251,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				407 km
+				503 km
 			</td>
 		</tr>
 		<tr>
@@ -243,7 +259,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				20,1 kWh/100km
+				16,8 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -251,7 +267,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				25,4 kwh/100km
+				19,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -278,7 +294,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				79,2 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -286,7 +302,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				71 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -294,7 +310,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				225 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +318,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Número de módulos
 			</td>
 			<td>
-				28
+				33
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +326,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				168s2p
+				198s2p
 			</td>
 		</tr>
 		<tr>
@@ -318,7 +334,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				615
+				725
 			</td>
 		</tr>
 		<tr>
@@ -350,7 +366,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				93,4 kWh
+				89 kWh
 			</td>
 		</tr>
 		<tr>
@@ -358,7 +374,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				83,7 kWh
+				83,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +681,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2075 kg
+				2115 kg
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +689,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2795 kg
+				2770 kg
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +697,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				720 kg
+				655 kg
 			</td>
 		</tr>
 		<tr>
@@ -720,131 +736,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 ## Suspensión
-
-El modelo ofrece 2 variantes de suspensión
-
-### Standard
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspensión adaptativa
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación delantera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frente regulable en altura
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Altura trasera ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia máxima al suelo
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia mínima al suelo
-			</td>
-			<td>
-				127 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador delantero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador trasero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Delantero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Trasero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				Suspensión de doble horquilla
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension
 
 <table class="table table-striped border">
 	<thead>
@@ -1015,7 +906,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
