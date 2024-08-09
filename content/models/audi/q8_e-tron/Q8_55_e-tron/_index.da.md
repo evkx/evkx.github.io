@@ -247,7 +247,7 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 
 ## Mobilapp
 
-Audi Q8 55 e-tron kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+Den Audi Q8 55 e-tron kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
 
 - **Find din bil**: Tjek nemt bilens aktuelle placering.
 - **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
