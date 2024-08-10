@@ -306,7 +306,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om December 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om December 2024. Denne model er kun tilgængelig i Europa.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
 </a>

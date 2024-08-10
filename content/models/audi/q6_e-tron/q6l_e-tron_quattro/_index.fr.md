@@ -306,7 +306,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 14.04.2024 et les livraisons devraient commencer en January 2025.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 14.04.2024 et les livraisons devraient commencer en January 2025. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q6 e-tron </strong>
 </a>

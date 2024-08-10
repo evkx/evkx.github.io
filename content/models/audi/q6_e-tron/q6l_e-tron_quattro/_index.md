@@ -306,7 +306,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 14.04.2024, with deliveries anticipated to begin in January 2025.<div class="mt-3 mb-3">
+This model made its world premiere on 14.04.2024, with deliveries anticipated to begin in January 2025. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q6 e-tron </strong>
 </a>

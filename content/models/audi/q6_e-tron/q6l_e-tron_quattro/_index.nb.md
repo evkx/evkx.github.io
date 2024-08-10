@@ -306,7 +306,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2024, og leveringene forventes å starte om January 2025.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 14.04.2024, og leveringene forventes å starte om January 2025. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q6 e-tron </strong>
 </a>

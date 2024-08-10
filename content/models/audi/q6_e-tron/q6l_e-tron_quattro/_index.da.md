@@ -306,7 +306,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2024, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 14.04.2024, og leveringer forventes at starte om January 2025. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q6 e-tron </strong>
 </a>

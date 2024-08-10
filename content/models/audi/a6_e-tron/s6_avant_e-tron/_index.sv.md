@@ -306,7 +306,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024. Denna modell är endast tillgänglig i Europa.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
 </a>
