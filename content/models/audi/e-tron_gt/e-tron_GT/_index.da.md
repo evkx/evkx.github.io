@@ -270,7 +270,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 09.02.2021, og leveringerne startede i May 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

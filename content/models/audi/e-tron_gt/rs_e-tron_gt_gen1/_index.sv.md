@@ -272,7 +272,7 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/trunk_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 09.02.2021 och leveranser startade i May 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

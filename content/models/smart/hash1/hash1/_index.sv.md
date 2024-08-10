@@ -214,7 +214,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 07.04.2022 och leveranser förväntas starta om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

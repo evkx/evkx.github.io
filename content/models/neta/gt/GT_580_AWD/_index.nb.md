@@ -189,7 +189,7 @@ Bagasjerommet tilbyr en lastekapasitet på 297 liter. I tillegg er det en frunk 
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 13.07.2023, og leveringene startet i December 2023. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

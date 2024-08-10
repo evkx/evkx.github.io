@@ -236,7 +236,7 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

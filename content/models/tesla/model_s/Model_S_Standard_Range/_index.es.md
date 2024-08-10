@@ -225,7 +225,7 @@ Un enganche es equipo estándar en este modelo. El peso máximo total en un trá
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 20.08.2023 y las entregas comenzaron en September 2023. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

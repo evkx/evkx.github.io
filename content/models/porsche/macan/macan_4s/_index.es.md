@@ -264,7 +264,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/trunk_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 16.07.2024 y se espera que las entregas comiencen en December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

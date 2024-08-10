@@ -228,7 +228,7 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

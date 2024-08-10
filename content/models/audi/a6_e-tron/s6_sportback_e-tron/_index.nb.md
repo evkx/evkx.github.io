@@ -300,7 +300,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/trunk_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

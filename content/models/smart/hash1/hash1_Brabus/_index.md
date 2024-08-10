@@ -212,9 +212,9 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 07.04.2022, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model made its world premiere on 07.04.2022, with deliveries anticipated to begin in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #1 </strong>
 </a>

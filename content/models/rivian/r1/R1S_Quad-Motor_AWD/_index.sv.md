@@ -216,7 +216,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 26.11.2018 och leveranser startade i December 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

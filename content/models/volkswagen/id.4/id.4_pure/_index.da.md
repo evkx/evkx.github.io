@@ -249,7 +249,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pure/trunk_1_st.jpg" title="Volkswagen ID.4 Pure" width="3000" height="2000"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 10.11.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

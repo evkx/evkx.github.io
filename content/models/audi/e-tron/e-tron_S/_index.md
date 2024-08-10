@@ -294,7 +294,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 19.11.2019, and deliveries started in May 2020. This models has now been discontined. This model has been replaced by [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

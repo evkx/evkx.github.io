@@ -261,7 +261,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

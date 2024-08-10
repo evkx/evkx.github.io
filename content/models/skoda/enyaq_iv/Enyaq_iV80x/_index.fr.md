@@ -239,7 +239,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.01.2020 et les livraisons ont commencé en March 2021. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

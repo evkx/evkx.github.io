@@ -248,7 +248,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/trunk_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 10.10.2023, og leveringene startet i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

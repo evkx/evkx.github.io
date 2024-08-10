@@ -272,7 +272,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/trunk_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 09.02.2021 et les livraisons ont commencé en May 2021. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

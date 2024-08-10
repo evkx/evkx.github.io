@@ -242,7 +242,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

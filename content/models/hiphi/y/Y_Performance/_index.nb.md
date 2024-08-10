@@ -219,7 +219,7 @@ Bagasjerommet tilbyr en lastekapasitet på 692 liter. Med baksetene nedfelt, utv
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 18.04.2023, og leveringene startet i March 2024. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

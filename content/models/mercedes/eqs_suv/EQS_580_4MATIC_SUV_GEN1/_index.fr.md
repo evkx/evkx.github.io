@@ -269,7 +269,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -307,7 +307,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

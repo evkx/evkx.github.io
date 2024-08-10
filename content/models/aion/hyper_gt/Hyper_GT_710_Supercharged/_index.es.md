@@ -191,7 +191,7 @@ El maletero ofrece una capacidad de carga de 500 litros. Con el asiento trasero 
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.12.2022 y las entregas comenzaron en October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

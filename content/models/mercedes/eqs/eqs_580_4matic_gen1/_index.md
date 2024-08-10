@@ -272,7 +272,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 15.04.2021, and deliveries started in September 2021. This models has now been discontined. This model has been replaced by [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -239,7 +239,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 10.10.2023 och leveranserna startade i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

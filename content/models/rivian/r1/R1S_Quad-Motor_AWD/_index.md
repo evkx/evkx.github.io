@@ -216,7 +216,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 26.11.2018, and deliveries started in December 2021. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

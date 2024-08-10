@@ -318,7 +318,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/trunk_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 17.10.2018 y las entregas comenzaron en May 2020. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

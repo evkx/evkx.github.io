@@ -211,7 +211,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 18.05.2022, and deliveries started in August 2022. This models has now been discontined. This model has been replaced by [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

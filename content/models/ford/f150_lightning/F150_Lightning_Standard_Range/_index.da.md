@@ -224,7 +224,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 19.05.2021, og leveringerne startede i December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

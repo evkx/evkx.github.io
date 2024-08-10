@@ -227,7 +227,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.01.2020 y las entregas comenzaron en March 2021. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -228,7 +228,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

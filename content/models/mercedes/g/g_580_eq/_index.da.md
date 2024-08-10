@@ -263,7 +263,7 @@ Køretøjets maksimale vægt er 3500 kg, med en basisvægt på 3010 kg. Dette gi
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

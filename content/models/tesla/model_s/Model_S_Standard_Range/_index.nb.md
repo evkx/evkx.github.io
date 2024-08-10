@@ -225,7 +225,7 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 20.08.2023, og leveringene startet i September 2023. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

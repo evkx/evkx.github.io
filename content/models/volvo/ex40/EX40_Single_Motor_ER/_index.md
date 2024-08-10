@@ -201,7 +201,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/trunk_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 20.02.2024, and deliveries started in April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

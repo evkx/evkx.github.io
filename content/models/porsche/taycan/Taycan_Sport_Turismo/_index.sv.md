@@ -274,7 +274,7 @@ Fordonets maximala vikt är 2770 kg, med en grundvikt på 2115 kg. Detta tillåt
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 07.02.2024 och leveranserna startade i August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

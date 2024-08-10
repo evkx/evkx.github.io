@@ -229,9 +229,9 @@ The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 2379
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 23.12.2023, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">
+This model made its world premiere on 23.12.2023, with deliveries anticipated to begin in February 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Nio ET9 </strong>
 </a>

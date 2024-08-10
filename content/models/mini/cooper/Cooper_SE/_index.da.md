@@ -172,7 +172,7 @@ Bagagerummet har en lastekapacitet på 200 liter. Med det bageste sæde foldet n
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

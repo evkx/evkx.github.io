@@ -305,9 +305,17 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024. Este modelo sólo está disponible en Europa.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- ?77 250,00 (Alemania)
+- 777 900,00 NOK (Noruega)
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
 </a>

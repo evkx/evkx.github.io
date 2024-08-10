@@ -226,7 +226,7 @@ Un enganche es equipo estándar en este modelo. El peso máximo total en un trá
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 30.11.2023 y las entregas comenzaron en November 2023. Este modelo sólo está disponible en Norteamérica.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -293,7 +293,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/trunk_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

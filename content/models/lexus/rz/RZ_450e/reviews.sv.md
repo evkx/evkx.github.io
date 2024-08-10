@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Electric Lexus: Please Try Again</h3>
+<p>Auto Focus: 09.08.2024</p>
+
+{{< youtube 2lb1DlFHtkw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>I Drive The Electric Lexus RZ 450e For The First Time! Is This A Joke?</h3>
 <p>Out of Spec Reviews: 06.10.2023</p>
 

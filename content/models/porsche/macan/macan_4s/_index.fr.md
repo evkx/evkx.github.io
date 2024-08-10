@@ -264,7 +264,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/trunk_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 16.07.2024 et les livraisons devraient commencer en December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

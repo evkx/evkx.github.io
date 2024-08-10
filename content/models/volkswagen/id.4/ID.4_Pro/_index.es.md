@@ -249,7 +249,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 10.11.2023 y las entregas comenzaron en January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

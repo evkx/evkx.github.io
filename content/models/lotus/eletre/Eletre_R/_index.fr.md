@@ -243,7 +243,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/trunk_1_st.jpg" title="Lotus Eletre R" width="3000" height="1687"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 29.01.2021 et les livraisons ont commencé en March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

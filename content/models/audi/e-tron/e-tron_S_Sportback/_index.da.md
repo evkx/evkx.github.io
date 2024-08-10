@@ -291,7 +291,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 19.11.2019, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

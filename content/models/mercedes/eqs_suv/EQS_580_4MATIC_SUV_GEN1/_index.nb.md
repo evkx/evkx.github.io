@@ -269,7 +269,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

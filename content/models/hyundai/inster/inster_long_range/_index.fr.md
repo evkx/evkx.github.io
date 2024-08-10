@@ -230,7 +230,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 27.06.2024 et les livraisons devraient commencer en January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -247,9 +247,9 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 01.03.2024, and deliveries is expected to start in May 2024. This model is only available in China.<div class="mt-3 mb-3">
+This model made its world premiere on 01.03.2024, with deliveries anticipated to begin in May 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Li Auto MEGA </strong>
 </a>

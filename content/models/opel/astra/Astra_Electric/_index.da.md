@@ -208,7 +208,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 06.07.2023, og leveringerne startede i November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

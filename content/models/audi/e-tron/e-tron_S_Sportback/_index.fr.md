@@ -291,7 +291,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 19.11.2019 et les livraisons ont commencé en May 2020. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

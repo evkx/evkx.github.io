@@ -271,7 +271,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 15.04.2021 et les livraisons ont commencé en September 2021. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

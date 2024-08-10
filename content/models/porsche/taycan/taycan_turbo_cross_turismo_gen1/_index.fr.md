@@ -271,7 +271,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo (GEN1)" width="3000" height="1449"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -259,7 +259,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx/trunk_1_st.jpg" title="Volkswagen ID.7 GTX" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 13.03.2024, og leveringene startet i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -231,7 +231,7 @@ El peso máximo del vehículo es 2675 kg, con un peso base de 2192 kg. Esto perm
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1000 kg, mientras que para un tráiler sin freno es de 750 kg.
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 26.03.2024 y las entregas comenzaron en November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

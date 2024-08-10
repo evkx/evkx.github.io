@@ -286,7 +286,7 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/trunk_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="2250"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

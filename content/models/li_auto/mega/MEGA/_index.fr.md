@@ -247,7 +247,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.03.2024 et les livraisons devraient commencer en May 2024. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

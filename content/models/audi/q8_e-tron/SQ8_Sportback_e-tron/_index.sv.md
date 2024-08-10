@@ -297,7 +297,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2023. Denna modell är tillgänglig i Nordamerika, Kina, Europa och Mellanöstern.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

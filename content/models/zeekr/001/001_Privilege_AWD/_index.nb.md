@@ -218,7 +218,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/trunk_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2001"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

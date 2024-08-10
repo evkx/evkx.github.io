@@ -215,7 +215,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 26.11.2018, og leveringerne startede i September 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

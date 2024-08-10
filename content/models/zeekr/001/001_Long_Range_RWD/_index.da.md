@@ -216,7 +216,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2001"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

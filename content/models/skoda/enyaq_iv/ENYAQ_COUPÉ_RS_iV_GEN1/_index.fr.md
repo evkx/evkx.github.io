@@ -227,7 +227,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.01.2020 et les livraisons ont commencé en March 2021. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

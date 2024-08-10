@@ -258,7 +258,7 @@ El peso máximo del vehículo es 2430 kg, con un peso base de 2000 kg. Esto perm
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 06.08.2024 y se espera que las entregas comiencen en November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

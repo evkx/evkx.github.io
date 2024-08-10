@@ -305,9 +305,17 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
-Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024. Denna modell är endast tillgänglig i Europa.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- ?77 250,00 (Tyskland)
+- 777 900,00 NOK (Norge)
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
 </a>

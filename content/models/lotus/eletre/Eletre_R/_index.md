@@ -243,7 +243,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/trunk_1_st.jpg" title="Lotus Eletre R" width="3000" height="1687"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 29.01.2021, and deliveries started in March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

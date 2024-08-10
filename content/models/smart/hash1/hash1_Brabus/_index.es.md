@@ -212,7 +212,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 07.04.2022 y se espera que las entregas comiencen en November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

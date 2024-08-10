@@ -216,7 +216,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 26.11.2018 y las entregas comenzaron en December 2021. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

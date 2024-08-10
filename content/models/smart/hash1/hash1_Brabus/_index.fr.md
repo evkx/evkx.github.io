@@ -212,7 +212,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 07.04.2022 et les livraisons devraient commencer en November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

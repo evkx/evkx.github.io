@@ -230,9 +230,9 @@ The vehicle’s maximum weight is 1910 kg (4211 lbs), with a base weight of 1416
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 17.10.2023, and deliveries is expected to start in May 2024.<div class="mt-3 mb-3">
+This model made its world premiere on 17.10.2023, with deliveries anticipated to begin in May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Citroën ë-C3 </strong>
 </a>

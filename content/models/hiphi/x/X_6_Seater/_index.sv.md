@@ -228,7 +228,7 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

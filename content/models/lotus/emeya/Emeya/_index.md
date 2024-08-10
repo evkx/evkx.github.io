@@ -238,9 +238,9 @@ The vehicle’s maximum weight is 3100 kg (6834 lbs), with a base weight of 2565
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1225 kg (2701 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 12.10.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">
+This model made its world premiere on 12.10.2023, with deliveries anticipated to begin in March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Emeya </strong>
 </a>

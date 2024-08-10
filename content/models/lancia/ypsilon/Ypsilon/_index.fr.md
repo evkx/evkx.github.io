@@ -208,7 +208,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/trunk_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 14.02.2024 et les livraisons ont commencé en June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

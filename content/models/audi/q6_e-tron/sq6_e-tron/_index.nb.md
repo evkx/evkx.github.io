@@ -307,7 +307,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/trunk_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 18.03.2024, og leveringene forventes å starte om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

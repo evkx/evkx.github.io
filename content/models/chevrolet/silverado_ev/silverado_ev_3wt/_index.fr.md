@@ -204,7 +204,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons ont commencé en September 2023. Ce modèle est uniquement disponible en Amérique du Nord.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

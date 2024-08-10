@@ -305,9 +305,17 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om December 2024.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 31.07.2024, og leveringer forventes at starte om December 2024. Denne model er kun tilgængelig i Europa.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- ?77 250,00 (Tyskland)
+- 777 900,00 NOK (Norge)
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
 </a>

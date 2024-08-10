@@ -172,7 +172,7 @@ Bagasjerommet tilbyr en lastekapasitet på 200 liter. Med baksetene nedfelt, utv
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

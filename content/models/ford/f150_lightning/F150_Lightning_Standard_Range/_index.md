@@ -224,7 +224,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 19.05.2021, and deliveries started in December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

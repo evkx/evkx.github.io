@@ -189,7 +189,7 @@ Le coffre offre une capacité de chargement de 297 litres. De plus, il y a un fr
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 13.07.2023 et les livraisons ont commencé en December 2023. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

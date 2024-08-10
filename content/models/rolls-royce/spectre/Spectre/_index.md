@@ -228,7 +228,7 @@ The vehicle’s maximum weight is 3400 kg (7496 lbs), with a base weight of 2890
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 18.10.2022, and deliveries started in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

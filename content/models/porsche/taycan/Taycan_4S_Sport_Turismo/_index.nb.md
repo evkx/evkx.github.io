@@ -276,7 +276,7 @@ Kjøretøyets maksimale vekt er 2875 kg, med en basisvekt på 2170 kg. Dette gir
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 07.02.2024, og leveringene startet i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

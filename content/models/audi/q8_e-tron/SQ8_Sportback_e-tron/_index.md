@@ -298,7 +298,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 09.11.2022, and deliveries started in March 2023. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

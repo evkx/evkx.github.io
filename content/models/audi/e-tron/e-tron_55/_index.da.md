@@ -318,7 +318,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/trunk_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 17.10.2018, og leveringerne startede i May 2020. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

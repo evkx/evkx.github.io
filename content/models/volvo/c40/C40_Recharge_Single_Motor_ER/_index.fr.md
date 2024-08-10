@@ -211,7 +211,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 18.05.2022 et les livraisons ont commencé en August 2022. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

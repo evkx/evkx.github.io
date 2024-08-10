@@ -269,7 +269,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -204,9 +204,9 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 06.07.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model made its world premiere on 06.07.2023, with deliveries anticipated to begin in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opel Astra </strong>
 </a>

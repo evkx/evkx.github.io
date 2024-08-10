@@ -212,7 +212,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 07.04.2022, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

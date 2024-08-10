@@ -211,7 +211,7 @@ El peso máximo del vehículo es 2974 kg, con un peso base de 2433 kg. Esto perm
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1820 kg, mientras que para un tráiler sin freno es de 750 kg.
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

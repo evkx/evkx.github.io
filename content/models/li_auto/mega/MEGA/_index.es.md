@@ -247,7 +247,7 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.03.2024 y se espera que las entregas comiencen en May 2024. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

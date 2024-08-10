@@ -271,7 +271,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 10.04.2024, og leveringerne startede i September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

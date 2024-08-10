@@ -201,7 +201,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/trunk_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2250"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 20.02.2024 y las entregas comenzaron en April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

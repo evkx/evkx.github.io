@@ -208,7 +208,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 06.07.2023 et les livraisons ont commencé en November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

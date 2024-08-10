@@ -326,7 +326,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 03.01.2024, og leveringerne startede i May 2024. Denne model er tilgængelig i Nordamerika, Kina, Europa og Mellemøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

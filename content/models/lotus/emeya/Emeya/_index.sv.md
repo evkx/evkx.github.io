@@ -238,7 +238,7 @@ Fordonets maximala vikt är 3100 kg, med en grundvikt på 2565 kg. Detta tillåt
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1225 kg, medan för en obromsad släpvagn är den 750 kg.
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 12.10.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

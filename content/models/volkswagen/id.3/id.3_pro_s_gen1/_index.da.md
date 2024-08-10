@@ -242,7 +242,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

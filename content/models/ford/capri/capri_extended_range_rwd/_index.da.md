@@ -235,7 +235,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/trunk_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 11.07.2024, og leveringerne startede i November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

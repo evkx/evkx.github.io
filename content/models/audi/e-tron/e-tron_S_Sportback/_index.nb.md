@@ -291,7 +291,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 19.11.2019, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

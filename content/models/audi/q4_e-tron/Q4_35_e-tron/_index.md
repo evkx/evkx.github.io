@@ -274,7 +274,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/trunk_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2249"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 17.07.2024, and deliveries started in October 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

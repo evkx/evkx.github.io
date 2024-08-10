@@ -231,7 +231,7 @@ Køretøjets maksimale vægt er 2232 kg, med en basisvægt på 1844 kg. Dette gi
 
 En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 1000, og for en ubremset trailer er det 750 kg.
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.04.2016, og leveringerne startede i July 2017. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -208,9 +208,9 @@ The vehicle’s maximum weight is 2360 kg (5203 lbs), with a base weight of 1910
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 03.09.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">
+This model made its world premiere on 03.09.2023, with deliveries anticipated to begin in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Smart #3 </strong>
 </a>

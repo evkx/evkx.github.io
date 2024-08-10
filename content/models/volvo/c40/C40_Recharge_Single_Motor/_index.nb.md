@@ -211,7 +211,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 18.05.2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

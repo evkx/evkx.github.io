@@ -205,7 +205,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/trunk_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 20.02.2024, og leveringene startet i April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

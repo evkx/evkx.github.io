@@ -271,7 +271,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 07.02.2024, and deliveries started in August 2024.
 

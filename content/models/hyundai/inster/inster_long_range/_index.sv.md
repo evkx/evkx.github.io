@@ -230,7 +230,7 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

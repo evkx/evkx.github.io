@@ -232,7 +232,7 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/trunk_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 27.06.2024 y se espera que las entregas comiencen en January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

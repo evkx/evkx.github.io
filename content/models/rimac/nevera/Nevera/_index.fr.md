@@ -198,7 +198,7 @@ Le poids maximum du véhicule est de 2550 kg, avec un poids de base de 2300 kg. 
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.06.2021 et les livraisons ont commencé en January 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

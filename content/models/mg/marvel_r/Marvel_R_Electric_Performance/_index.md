@@ -193,7 +193,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

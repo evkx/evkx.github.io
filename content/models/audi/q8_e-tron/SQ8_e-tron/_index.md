@@ -292,7 +292,7 @@ The vehicle’s maximum weight is 3280 kg (7231 lbs), with a base weight of 2655
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 09.11.2022, and deliveries started in March 2023. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

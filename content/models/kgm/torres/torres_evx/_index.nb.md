@@ -218,7 +218,7 @@ Kjøretøyets maksimale vekt er 2410 kg, med en basisvekt på 1915 kg. Dette gir
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 500 kg.
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 30.03.2023, og leveringene startet i March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

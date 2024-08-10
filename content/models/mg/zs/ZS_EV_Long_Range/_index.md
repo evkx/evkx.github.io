@@ -207,7 +207,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

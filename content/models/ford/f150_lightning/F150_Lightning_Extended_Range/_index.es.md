@@ -223,7 +223,7 @@ El peso máximo del vehículo es 3878 kg, con un peso base de 2988 kg. Esto perm
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 19.05.2021 y las entregas comenzaron en December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

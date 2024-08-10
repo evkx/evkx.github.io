@@ -326,7 +326,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 03.01.2024 et les livraisons ont commencé en May 2024. Ce modèle est disponible en Amérique du Nord, en Chine, en Europe et au Moyen-Orient.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

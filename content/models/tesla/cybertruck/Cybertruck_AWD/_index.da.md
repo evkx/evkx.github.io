@@ -243,7 +243,7 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 30.11.2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

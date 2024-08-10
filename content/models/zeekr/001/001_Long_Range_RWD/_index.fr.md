@@ -216,7 +216,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2001"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 14.04.2021 et les livraisons ont commencé en October 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

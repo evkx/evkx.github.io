@@ -263,9 +263,9 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 25.01.2024, and deliveries is expected to start in August 2024.<div class="mt-3 mb-3">
+This model made its world premiere on 25.01.2024, with deliveries anticipated to begin in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
 </a>

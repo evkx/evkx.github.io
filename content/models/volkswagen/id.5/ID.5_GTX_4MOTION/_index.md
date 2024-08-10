@@ -239,7 +239,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 10.10.2023, and deliveries started in November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

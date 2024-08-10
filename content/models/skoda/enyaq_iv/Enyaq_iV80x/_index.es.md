@@ -239,7 +239,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.01.2020 y las entregas comenzaron en March 2021. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

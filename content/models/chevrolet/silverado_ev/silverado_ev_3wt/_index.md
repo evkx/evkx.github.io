@@ -204,9 +204,9 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 05.01.2022, and deliveries started in September 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 05.01.2022, and deliveries started in September 2023. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
 </a>

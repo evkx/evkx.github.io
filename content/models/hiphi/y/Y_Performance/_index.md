@@ -219,7 +219,7 @@ The trunk offers a cargo capacity of 692 liters (24.4 CU FT). With the rear seat
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 18.04.2023, and deliveries started in March 2024. This models has now been discontined.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -215,7 +215,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1920" height="1080"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 26.11.2018 et les livraisons ont commencé en December 2021.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

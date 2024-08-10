@@ -219,7 +219,7 @@ Bagageutrymmet erbjuder en lastkapacitet på 692 liter. Med baksätena nedfälld
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.04.2023 och leveranser startade i March 2024. Denna modell har nu utgått.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

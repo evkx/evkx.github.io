@@ -243,7 +243,7 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 30.11.2023 et les livraisons ont commencé en November 2023. Ce modèle est uniquement disponible en Amérique du Nord.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

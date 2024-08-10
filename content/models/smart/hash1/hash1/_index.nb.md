@@ -214,7 +214,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

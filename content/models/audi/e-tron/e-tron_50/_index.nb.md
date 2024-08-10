@@ -318,7 +318,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/trunk_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 17.10.2018, og leveringene startet i May 2020. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

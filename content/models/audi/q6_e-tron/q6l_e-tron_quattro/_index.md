@@ -304,9 +304,9 @@ The vehicle’s maximum weight is 2965 kg (6537 lbs), with a base weight of 2325
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2400 kg (5291 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 14.04.2024, and deliveries is expected to start in January 2025.<div class="mt-3 mb-3">
+This model made its world premiere on 14.04.2024, with deliveries anticipated to begin in January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q6 e-tron </strong>
 </a>

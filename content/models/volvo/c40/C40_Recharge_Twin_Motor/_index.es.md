@@ -211,7 +211,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.05.2022 y las entregas comenzaron en August 2022. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

@@ -222,9 +222,9 @@ The vehicle’s maximum weight is 2030 kg (4475 lbs), with a base weight of 1439
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 15.05.2024, and deliveries is expected to start in September 2024.<div class="mt-3 mb-3">
+This model made its world premiere on 15.05.2024, with deliveries anticipated to begin in September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Opel Frontera </strong>
 </a>

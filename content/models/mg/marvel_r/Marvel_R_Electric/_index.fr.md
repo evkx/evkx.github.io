@@ -193,7 +193,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 07.10.2021 et les livraisons ont commencé en January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

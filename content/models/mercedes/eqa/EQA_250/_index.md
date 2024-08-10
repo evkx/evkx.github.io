@@ -236,7 +236,7 @@ The vehicle’s maximum weight is 2535 kg (5589 lbs), with a base weight of 2030
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

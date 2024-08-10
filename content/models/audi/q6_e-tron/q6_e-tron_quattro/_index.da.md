@@ -314,7 +314,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/trunk_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 18.03.2024, og leveringer forventes at starte om August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

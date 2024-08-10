@@ -280,7 +280,7 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/trunk_1_st.jpg" title="Porsche Taycan" width="3000" height="2250"  >}}
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

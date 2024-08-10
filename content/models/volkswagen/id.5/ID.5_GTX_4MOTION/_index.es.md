@@ -239,7 +239,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 10.10.2023 y las entregas comenzaron en November 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

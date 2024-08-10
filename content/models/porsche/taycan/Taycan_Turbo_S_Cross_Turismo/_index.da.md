@@ -254,7 +254,7 @@ Køretøjets maksimale vægt er 2880 kg, med en basisvægt på 2250 kg. Dette gi
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 07.02.2024, og leveringerne startede i June 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

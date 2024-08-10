@@ -232,7 +232,7 @@ Le poids maximum du véhicule est de 2880 kg, avec un poids de base de 2230 kg. 
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

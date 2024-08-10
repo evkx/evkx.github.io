@@ -236,7 +236,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

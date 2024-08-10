@@ -225,7 +225,7 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/trunk_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 20.08.2023 et les livraisons ont commencé en September 2023. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

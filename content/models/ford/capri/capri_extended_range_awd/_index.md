@@ -235,7 +235,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
 This model had a world premiere on 11.07.2024, and deliveries started in November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

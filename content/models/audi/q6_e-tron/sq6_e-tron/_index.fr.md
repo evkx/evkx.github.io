@@ -307,7 +307,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/trunk_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 18.03.2024 et les livraisons devraient commencer en August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

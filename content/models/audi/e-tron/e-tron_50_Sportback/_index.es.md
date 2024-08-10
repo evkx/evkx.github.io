@@ -320,7 +320,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/trunk_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2001"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 19.11.2019 y las entregas comenzaron en May 2020. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

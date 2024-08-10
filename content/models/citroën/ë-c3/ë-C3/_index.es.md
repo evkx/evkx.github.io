@@ -230,7 +230,7 @@ El peso máximo del vehículo es 1910 kg, con un peso base de 1416 kg. Esto perm
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 17.10.2023 y se espera que las entregas comiencen en May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

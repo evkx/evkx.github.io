@@ -196,9 +196,9 @@ The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 410
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 3402 kg (7500 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 20.10.2020, and deliveries started in December 2021. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

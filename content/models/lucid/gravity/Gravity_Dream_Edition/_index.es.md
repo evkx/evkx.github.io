@@ -228,7 +228,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 16.11.2023 y se espera que las entregas comiencen en December 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

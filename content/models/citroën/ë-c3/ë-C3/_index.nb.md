@@ -230,7 +230,7 @@ Kjøretøyets maksimale vekt er 1910 kg, med en basisvekt på 1416 kg. Dette gir
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 17.10.2023, og leveringene forventes å starte om May 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

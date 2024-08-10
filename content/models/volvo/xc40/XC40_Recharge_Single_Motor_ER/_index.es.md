@@ -207,7 +207,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2250"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.05.2022 y las entregas comenzaron en August 2022. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er).<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

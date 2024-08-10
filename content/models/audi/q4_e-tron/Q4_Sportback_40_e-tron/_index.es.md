@@ -268,7 +268,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/trunk_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2000"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 14.04.2021 y las entregas comenzaron en January 2022. Este modelo ahora ha sido descontinuado.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

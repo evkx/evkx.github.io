@@ -212,7 +212,7 @@ Køretøjets maksimale vægt er 2974 kg, med en basisvægt på 2225 kg. Dette gi
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1090 kg, mens den for en ubremset trailer er 750 kg.
 
-### Tilgængelighed og priser
+## Tilgængelighed og priser
 
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

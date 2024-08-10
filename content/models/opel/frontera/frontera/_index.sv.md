@@ -222,7 +222,7 @@ Fordonets maximala vikt är 2030 kg, med en grundvikt på 1439 kg. Detta tillåt
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 
-### Tillgänglighet och pris
+## Tillgänglighet och pris
 
 Denna modell hade världspremiär 15.05.2024 och leveranser förväntas starta om September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

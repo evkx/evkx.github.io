@@ -204,7 +204,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 
-### Disponibilidad y precios
+## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 05.01.2022 y se espera que las entregas comiencen en July 2024. Este modelo sólo está disponible en Norteamérica.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

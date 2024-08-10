@@ -326,7 +326,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 03.01.2024, og leveringene startet i May 2024. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

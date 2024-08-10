@@ -226,9 +226,9 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-### Availability & Pricing
+## Availability & Pricing
 
-This model had a world premiere on 30.11.2023, and deliveries started in November 2023. This model is only available in North America.<div class="mt-3 mb-3">
+This model had a world premiere on 30.11.2023, and deliveries started in November 2023. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Cybertruck </strong>
 </a>

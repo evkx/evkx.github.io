@@ -218,7 +218,7 @@ Le poids maximum du véhicule est de 2200 kg, avec un poids de base de 1650 kg. 
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1200 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
-### Disponibilité et prix
+## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.07.2024 et les livraisons devraient commencer en February 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

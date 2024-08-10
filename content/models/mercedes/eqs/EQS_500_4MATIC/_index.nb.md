@@ -274,7 +274,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
 
-### Tilgjengelighet & pris
+## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 15.04.2021, og leveringene startet i September 2021. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
