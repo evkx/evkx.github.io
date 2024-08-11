@@ -62,7 +62,7 @@ Dynamisk styring er standard-funksjonen på Tesla Model Y Performance. Dynamisk 
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 335mm.
 
 ### Regenerativ bremsing
 
@@ -72,7 +72,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Tesla Model Y Performance, med dimensjoner på 4751 mm i lengde, 1921 mm i bredde og 1624 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Tesla Model Y Performance er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
+Tesla Model Y Performance, med dimensjoner på 4751 mm i lengde, 1921 mm i bredde og 1624 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Tesla Model Y Performance er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model Y Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -94,6 +94,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+Interiøret i Tesla Model Y Performance er designet med en minimalistisk estetikk og har materialer av middels kvalitet gjennomgående. En tradisjonell midtkonsoll skiller fører og passasjer og tilbyr praktiske oppbevaringsløsninger og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
@@ -110,6 +112,9 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black/White [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
@@ -149,6 +154,8 @@ Tesla Model Y Performance inkluderer flere funksjoner for å forbedre komfort og
 
 ## Brukergrensesnitt og kontroll
 
+Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
+
 Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
 
 Viktige skjermdetaljer:
@@ -159,11 +166,26 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
+
 ## Infotainment
+
+Tesla Model Y Performance har et Tesla Infotainment-system som kjører på et spesialbygd, Linux-basert operativsystem, designet for en jevn og responsiv brukeropplevelse. Den intuitive grensesnittet er optimalisert for enkel bruk, noe som lar føreren navigere gjennom menyer og innstillinger med minimale distraksjoner. Systemet støtter over-the-air oppdateringer, og sikrer kontinuerlige forbedringer og tilgang til de nyeste funksjonene uten behov for verkstedsbesøk. Strømlinjeformet stemmekontrollfunksjonalitet og berøringsskjermkontroller gir rask tilgang til viktige funksjoner, noe som forbedrer den totale brukervennligheten. Operativsystemet tilbyr også en høy grad av tilpasning, slik at brukerne kan skreddersy opplevelsen etter egne preferanser.
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
+
+### Forhåndsinstallerte Apper
+
+Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et utvalg av forhåndsinstallerte tredjepartsapper som kjører direkte på bilens skjerm, uavhengig av en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **Netflix** Nyt filmer og serier direkte på skjermen i kjøretøyet ditt, perfekt for underholdning når du er parkert.
+- **YouTube** Se dine favorittvideoer, kanaler og spillelister på infotainmentskjermen i bilen, og gjør det enkelt å holde deg underholdt mens du er parkert.
+- **Twitch** Strøm live spillinnhold eller se dine favorittstreamere på farten.
+- **TIDAL** Nyt musikkstrømming i høy kvalitet og eksklusivt innhold fra dine favorittartister, og leverer en premium lydopplevelse rett til kjøretøyet ditt.
+- **TuneIn** Få tilgang til direktesendte radiostasjoner, podkaster og nyheter fra hele verden.
 
 ### Lydsystem
 
@@ -173,9 +195,24 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 
+## Mobilapp
+
+Tesla Model Y Performance kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Fjernparkering**: Styr bilen din for å parkere eller forlate en parkeringsplass eksternt.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Vinduskontroll**: Åpne og lukk vinduene fra hvor som helst.
+- **Planlagt lading**: Planlegg og tidsbestem ladeøkter før turene dine.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
+- **Kjørelogg**: Gå gjennom detaljer om dine tidligere turer.
+
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+Standard frontlykter bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å dempe små områder foran.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
@@ -238,7 +275,30 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">
+Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- $47 990,00 (USA)
+- 449 990,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det raskt voksende markedet for elbiler har EVKX.net identifisert flere alternativer til Tesla Model Y Performance som er verdt å vurdere basert på funksjoner, spesifikasjoner og pris. Selv om disse modellene kanskje ikke er helt identiske, kan det være nyttig å sammenligne dem før du tar din endelige kjøpsbeslutning:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=1ee65f%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

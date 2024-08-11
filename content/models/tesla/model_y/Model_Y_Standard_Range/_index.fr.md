@@ -96,7 +96,7 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model Y 
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 335 mm.
 
 ### Freinage régénératif
 
@@ -106,7 +106,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Tesla Model Y Standard Range, avec des dimensions de 4751 mm de longueur, 1921 mm de largeur et 1624 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Tesla Model Y Standard Range est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Tesla Model Y Standard Range, avec des dimensions de 4751 mm de longueur, 1921 mm de largeur et 1624 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Tesla Model Y Standard Range est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model Y Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -128,6 +128,8 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+L'intérieur du Tesla Model Y Standard Range est conçu avec une esthétique minimaliste, avec des matériaux de qualité moyenne utilisés partout. Une console centrale traditionnelle sépare le conducteur et le passager, offrant des solutions de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
+
 ### Sièges
 
 De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
@@ -144,6 +146,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black/White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
@@ -183,6 +188,8 @@ L'Tesla Model Y Standard Range comprend plusieurs fonctionnalités pour amélior
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
+
 Le Tesla Model Y Standard Range a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
 
 Détails clés de l'écran :
@@ -193,11 +200,26 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
+
 ## Infodivertissement
+
+Le Tesla Model Y Standard Range dispose d'un système Infotainment Tesla fonctionnant sur un système d'exploitation Linux personnalisé, conçu pour offrir une expérience utilisateur fluide et réactive. L'interface intuitive est optimisée pour une utilisation facile, permettant aux conducteurs de naviguer dans les menus et les paramètres avec un minimum de distractions. Le système prend en charge les mises à jour over-the-air, garantissant des améliorations continues et l'accès aux dernières fonctionnalités sans avoir besoin de se rendre en concession. Les commandes vocales simplifiées et les contrôles tactiles offrent un accès rapide aux fonctions essentielles, améliorant ainsi l'utilisabilité globale. Le système d'exploitation offre également un haut degré de personnalisation, permettant aux utilisateurs de personnaliser leur expérience selon leurs préférences.
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
+
+### Applications Préinstallées
+
+Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Netflix** Profitez de films et de séries directement sur l'écran de votre véhicule, parfait pour vous divertir lorsque vous êtes stationné.
+- **YouTube** Regardez vos vidéos, chaînes et playlists préférées sur l'écran d'infodivertissement de votre voiture, facilitant le divertissement pendant que vous êtes stationné.
+- **Twitch** Diffusez du contenu de jeux en direct ou regardez vos streamers préférés en déplacement.
+- **TIDAL** Profitez du streaming musical en haute fidélité et du contenu exclusif de vos artistes préférés, offrant une expérience audio premium directement dans votre véhicule.
+- **TuneIn** Accédez à des stations de radio en direct, des podcasts et des actualités du monde entier.
 
 ### Système audio
 
@@ -207,9 +229,24 @@ Un type de système audio est disponible pour le Tesla Model Y Standard Range.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
+## Application mobile
+
+Le Tesla Model Y Standard Range est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
+
 ## Lumières
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
@@ -272,7 +309,30 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 19.03.2019 et les livraisons ont commencé en March 2020.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 19.03.2019 et les livraisons ont commencé en March 2020.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- $47 990,00 (États-Unis)
+- 449 990,00 NOK (Norvège)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Tesla Model Y Standard Range qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=fcf585%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

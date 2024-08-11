@@ -96,7 +96,7 @@ Dynamisk styrning är standard-funktionen för Tesla Model Y Standard Range. Dyn
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 335mm.
 
 ### Regenerativ bromsning
 
@@ -106,7 +106,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Tesla Model Y Standard Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Standard Range finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Tesla Model Y Standard Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Standard Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model Y Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -128,6 +128,8 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+Interiören i Tesla Model Y Standard Range är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. En traditionell mittkonsol separerar föraren och passageraren och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
+
 ### Säten
 
 Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
@@ -144,6 +146,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
@@ -183,6 +188,8 @@ Tesla Model Y Standard Range inkluderar flera funktioner för att förbättra ko
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
+
 Tesla Model Y Standard Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
 
 Viktiga skärmdetaljer:
@@ -193,11 +200,26 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 ## Infotainment
+
+Tesla Model Y Standard Range har ett Tesla Infotainment-system som körs på ett specialbyggt, Linux-baserat operativsystem, designat för en smidig och responsiv användarupplevelse. Det intuitiva gränssnittet är optimerat för enkel användning, vilket gör att förare kan navigera genom menyer och inställningar med minimala distraktioner. Systemet stöder över-the-air-uppdateringar, vilket säkerställer kontinuerliga förbättringar och tillgång till de senaste funktionerna utan behov av att besöka en återförsäljare. Strömlinjeformad röststyrningsfunktionalitet och pekskärmskontroller ger snabb åtkomst till viktiga funktioner och förbättrar den övergripande användbarheten. Operativsystemet erbjuder också en hög grad av anpassning, vilket gör att användarna kan skräddarsy sin upplevelse efter sina preferenser.
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
+
+### Förinstallerade Appar
+
+Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- **Netflix** Njut av filmer och serier direkt på skärmen i ditt fordon, perfekt för underhållning när du är parkerad.
+- **YouTube** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att hålla dig underhållen medan du är parkerad.
+- **Twitch** Strömma liveinnehåll från spel eller titta på dina favoritstreamare när du är på språng.
+- **TIDAL** Njut av högkvalitativ musikstreaming och exklusivt innehåll från dina favoritartister, vilket ger en premium ljudupplevelse direkt i ditt fordon.
+- **TuneIn** Få tillgång till livesända radiostationer, podcaster och nyheter från hela världen.
 
 ### Ljudsystem
 
@@ -207,9 +229,24 @@ En typ av ljudsystem är tillgänglig för Tesla Model Y Standard Range.
 
 Modellen har 4 USB-C-anslutningar som standard.
 
+## Mobilapp
+
+Tesla Model Y Standard Range kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+
 ## Ljus
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
@@ -272,7 +309,30 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.<div class="mt-3 mb-3">
+Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- $47 990,00 (USA)
+- 449 990,00 NOK (Norge)
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Tesla Model Y Standard Range som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=fcf585%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

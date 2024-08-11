@@ -72,7 +72,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Tesla Model Y Long Range, con dimensiones de 4751 mm de longitud, 1921 mm de anchura y 1624 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Tesla Model Y Long Range está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Tesla Model Y Long Range, con dimensiones de 4751 mm de longitud, 1921 mm de anchura y 1624 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Tesla Model Y Long Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model Y Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -94,7 +94,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-El interior del Tesla Model Y Long Range está diseñado con una estética minimalista y cuenta con materiales de calidad media en todo el vehículo. Una consola central tradicional separa al conductor del pasajero, ofreciendo soluciones de almacenamiento prácticas y una funcionalidad mejorada.
+El interior del Tesla Model Y Long Range está diseñado con una estética minimalista y cuenta con materiales de calidad media en todo el vehículo. Una consola central tradicional separa al conductor del pasajero, ofreciendo soluciones de almacenamiento prácticas y una funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 

@@ -72,7 +72,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Tesla Model Y Long Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Long Range finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
+Tesla Model Y Long Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Long Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model Y Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -94,7 +94,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Tesla Model Y Long Range är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. En traditionell mittkonsol separerar föraren och passageraren och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet.
+Interiören i Tesla Model Y Long Range är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. En traditionell mittkonsol separerar föraren och passageraren och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 

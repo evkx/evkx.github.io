@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Tesla Model Y Performance. Dynamic
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 335mm.
 
 ### Regenerative braking
 
@@ -72,7 +72,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Tesla Model Y Performance, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Tesla Model Y Performance is available in a total of 5 paint colors, including both solid and metallic options.
+The Tesla Model Y Performance, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Tesla Model Y Performance is available in a total of 6 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Tesla Model Y Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -94,6 +94,8 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+The interior of the Tesla Model Y Performance is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. A traditional center console separates the driver and passenger, offering practical storage solutions and enhanced functionality. You can choose between several interior designs.
+
 ### Seats
 
 is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
@@ -110,6 +112,9 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 
 You can choose from 2 different materials/colors for this seat type.
+
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
@@ -149,6 +154,8 @@ The Tesla Model Y Performance includes several features to enhance comfort and c
 
 ## User interface and control
 
+The control interface for the  is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Tesla Model Y Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
@@ -159,11 +166,26 @@ The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 ## Infotainment
+
+The Tesla Model Y Performance features a Tesla Infotainment system that runs on a custom-built, Linux-based OS, designed for a smooth and responsive user experience. The intuitive interface is optimized for ease of use, allowing drivers to navigate menus and settings with minimal distractions. The system supports over-the-air updates, ensuring continuous improvements and access to the latest features without needing a dealership visit. Streamlined voice command functionality and touchscreen controls provide quick access to essential functions, enhancing overall usability. The OS also offers a high degree of customization, enabling users to tailor their experience to their preferences.
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Netflix** Enjoy movies and shows right from your vehicle's screen, perfect for entertainment while parked.
+- **YouTube** Watch your favorite videos, channels, and playlists on your car's infotainment screen, making it easy to stay entertained while parked.
+- **Twitch** Stream live gaming content or watch your favorite streamers on the go.
+- **TIDAL** Enjoy high-fidelity music streaming and exclusive content from your favorite artists, delivering a premium audio experience right to your vehicle.
+- **TuneIn** Access live radio stations, podcasts, and news from around the world.
 
 ### Sound system
 
@@ -173,9 +195,24 @@ The Tesla Model Y Performance comes equipped with one sound system option:
 
 Additionally, the model includes 4 USB-C connections as standard.
 
+## Mobile App
+
+The Tesla Model Y Performance comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle**: Easily check the current location of your car.
+- **Preconditioning**: Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking**: Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock**: Securely lock or unlock your car doors with a tap.
+- **Window Control**: Open and close the windows from anywhere.
+- **Scheduled Charging**: Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target**: Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car**: Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning**: Plan your route and send it directly to your car's navigation system.
+- **Driving History**: Review the details of your past trips.
+
 ## Lights
 
-**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
@@ -238,7 +275,30 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
+This model had a world premiere on 19.03.2019, and deliveries started in March 2020.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $47 990,00 (USA)
+- 449 990,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Tesla Model Y Performance that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=1ee65f%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Explore a detailed comparison of these models.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>
