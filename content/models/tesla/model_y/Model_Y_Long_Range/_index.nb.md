@@ -167,11 +167,11 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-infotainment.os.TESLA
+Tesla Model Y Long Range har et Tesla Infotainment-system som kjører på et spesialbygd, Linux-basert operativsystem, designet for en jevn og responsiv brukeropplevelse. Den intuitive grensesnittet er optimalisert for enkel bruk, noe som lar føreren navigere gjennom menyer og innstillinger med minimale distraksjoner. Systemet støtter over-the-air oppdateringer, og sikrer kontinuerlige forbedringer og tilgang til de nyeste funksjonene uten behov for verkstedsbesøk. Strømlinjeformet stemmekontrollfunksjonalitet og berøringsskjermkontroller gir rask tilgang til viktige funksjoner, noe som forbedrer den totale brukervennligheten. Operativsystemet tilbyr også en høy grad av tilpasning, slik at brukerne kan skreddersy opplevelsen etter egne preferanser.
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon som sikrer en effektiv og stressfri reise.
 
 ### Lydsystem
 

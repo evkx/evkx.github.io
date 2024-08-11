@@ -167,11 +167,11 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-infotainment.os.TESLA
+El Tesla Model Y Long Range cuenta con un sistema de Infotainment de Tesla que funciona con un sistema operativo basado en Linux, diseñado para una experiencia de usuario fluida y receptiva. La interfaz intuitiva está optimizada para facilitar el uso, permitiendo a los conductores navegar por menús y configuraciones con mínimas distracciones. El sistema admite actualizaciones por aire, garantizando mejoras continuas y acceso a las últimas funciones sin necesidad de visitar un concesionario. La funcionalidad de comando por voz y los controles táctiles están optimizados para un acceso rápido a funciones esenciales, mejorando la usabilidad general. El sistema operativo también ofrece un alto grado de personalización, permitiendo a los usuarios adaptar su experiencia a sus preferencias.
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Sistema de sonido
 

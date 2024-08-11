@@ -171,7 +171,7 @@ The Tesla Model Y Long Range features a Tesla Infotainment system that runs on a
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Sound system
 
