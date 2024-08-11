@@ -165,9 +165,9 @@ Furthermore, the Genesis Electrified GV70 supports Android Auto and Apple CarPla
 
 ### Sound system
 
-One type of sound system is available for the Genesis Electrified GV70.
+The Genesis Electrified GV70 comes equipped with one sound system option:
 
-- With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
+- **Bose Premium Sound System**: This system features eight speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 

@@ -165,10 +165,10 @@ Furthermore, the BMW iX xDrive40 supports Android Auto and Apple CarPlay. This f
 
 You can choose between two sound systems on the BMW iX xDrive40.
 
-- With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts.
-- With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
+- **Harman Kardon Surround Sound system**: This system features 18 speakers and delivers a maximum output of 655 watts.
+- **Bowers & Wilkins Diamond surround sound system**: This system features 30 speakers and delivers a maximum output of 1615 watts.
 
-The model has 6 USB-C connections as standard.
+Additionally, the model includes 6 USB-C connections as standard.
 
 ## Lights
 

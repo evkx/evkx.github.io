@@ -149,11 +149,11 @@ Furthermore, the MG Cyberster AWD Long Range supports Android Auto and Apple Car
 
 ### Sound system
 
-One type of sound system is available for the MG Cyberster AWD Long Range.
+The MG Cyberster AWD Long Range comes equipped with one sound system option:
 
-- With the Bose Sound System, you get six speakers with a max system output of 300 watts.
+- **Bose Sound System**: This system features six speakers and delivers a maximum output of 300 watts.
 
-The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

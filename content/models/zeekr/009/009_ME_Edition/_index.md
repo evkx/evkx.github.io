@@ -173,11 +173,11 @@ Furthermore, the Zeekr 009 ME Edition supports Android Auto and Apple CarPlay. T
 
 ### Sound system
 
-One type of sound system is available for the Zeekr 009 ME Edition.
+The Zeekr 009 ME Edition comes equipped with one sound system option:
 
-- With the Yamaha Sound System, you get 20 speakers with a max system output of 300 watts.
+- **Yamaha Sound System**: This system features 20 speakers and delivers a maximum output of 300 watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

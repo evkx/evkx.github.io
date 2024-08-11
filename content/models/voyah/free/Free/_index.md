@@ -150,11 +150,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the VOYAH FREE.
+The VOYAH FREE comes equipped with one sound system option:
 
-- With the DYNAUDIO HIFI Sound system, you get NULL speakers with a max system output of  watts.
+- **DYNAUDIO HIFI Sound system**: This system features NULL speakers and delivers a maximum output of  watts.
 
-The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
+Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
 ## Lights
 

@@ -152,9 +152,9 @@ Furthermore, the Jeep Avenger supports Android Auto and Apple CarPlay. This func
 
 ### Sound system
 
-One type of sound system is available for the Jeep Avenger.
+The Jeep Avenger comes equipped with one sound system option:
 
-- With the , you get NULL speakers with a max system output of  watts.
+- ****: This system features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 

@@ -167,10 +167,10 @@ A head-up display is a standard system that projects speed and other important d
 
 You can choose between two sound systems on the Volvo EX90 Twin Motor.
 
-- With the High Performance, you get eight speakers with a max system output of 200 watts.
-- With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts.
+- **High Performance**: This system features eight speakers and delivers a maximum output of 200 watts.
+- **Bowers & Wilkins**: This system features 25 speakers and delivers a maximum output of 1610 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

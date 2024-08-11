@@ -171,10 +171,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems on the HiPhi X 4 Seater.
 
-- With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts.
-- With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts.
+- **SONIC LINE SYSTEM**: This system features nine speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM**: This system features 17 speakers and delivers a maximum output of 600 watts.
 
-The model has 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
 ## Lights
 

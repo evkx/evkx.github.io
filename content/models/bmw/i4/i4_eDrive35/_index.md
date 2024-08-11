@@ -224,10 +224,10 @@ Furthermore, the BMW i4 eDrive35 supports Android Auto and Apple CarPlay. This f
 
 You can choose between two sound systems on the BMW i4 eDrive35.
 
-- With the Hifi Sound system, you get ten speakers with a max system output of 200 watts.
-- With the Harman Kardon Surround Sound system, you get 17 speakers with a max system output of 445 watts.
+- **Hifi Sound system**: This system features ten speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Surround Sound system**: This system features 17 speakers and delivers a maximum output of 445 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

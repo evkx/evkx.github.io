@@ -156,11 +156,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Seres 5 4WD Premium.
+The Seres 5 4WD Premium comes equipped with one sound system option:
 
-- With the , you get 11 speakers with a max system output of  watts.
+- ****: This system features 11 speakers and delivers a maximum output of  watts.
 
-The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
 ## Lights
 

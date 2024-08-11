@@ -158,10 +158,10 @@ Furthermore, the Kia EV6 GT supports Android Auto and Apple CarPlay. This functi
 
 You can choose between two sound systems on the Kia EV6 GT.
 
-- With the Standard, you get six speakers with a max system output of  watts.
-- With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
+- **Standard**: This system features six speakers and delivers a maximum output of  watts.
+- **Meridian Premium Sound System**: This system features 14 speakers and delivers a maximum output of  watts.
 
-The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

@@ -159,11 +159,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the XPENG G6 RWD Standard Range.
+The XPENG G6 RWD Standard Range comes equipped with one sound system option:
 
-- With the , you get 18 speakers with a max system output of 1200 watts.
+- ****: This system features 18 speakers and delivers a maximum output of 1200 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

@@ -164,10 +164,10 @@ Furthermore, the CUPRA BORN 58 e-BOOST supports Android Auto and Apple CarPlay. 
 
 You can choose between two sound systems on the CUPRA BORN 58 e-BOOST.
 
-- With the Sound system, you get five speakers with a max system output of 140 watts.
-- With the Beats Audio, you get nine speakers with a max system output of 395 watts.
+- **Sound system**: This system features five speakers and delivers a maximum output of 140 watts.
+- **Beats Audio**: This system features nine speakers and delivers a maximum output of 395 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

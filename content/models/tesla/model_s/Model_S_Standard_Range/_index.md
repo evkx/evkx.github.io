@@ -161,9 +161,9 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model S Standard Range.
+The Tesla Model S Standard Range comes equipped with one sound system option:
 
-- With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts.
+- **Tesla Premium Sound**: This system features 22 speakers and delivers a maximum output of 560 watts.
 
 ## Lights
 

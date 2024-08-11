@@ -191,10 +191,10 @@ Furthermore, the Kia EV9 RWD supports Android Auto and Apple CarPlay. This funct
 
 You can choose between two sound systems on the Kia EV9 RWD.
 
-- With the Standard, you get six speakers with a max system output of  watts.
-- With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
+- **Standard**: This system features six speakers and delivers a maximum output of  watts.
+- **Meridian Premium Sound System**: This system features 14 speakers and delivers a maximum output of  watts.
 
-The model has 6 USB-C connections as standard.
+Additionally, the model includes 6 USB-C connections as standard.
 
 ## Lights
 

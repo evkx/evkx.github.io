@@ -184,11 +184,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Nio EL6.
+The Nio EL6 comes equipped with one sound system option:
 
-- With the Premium sound system, you get 23 speakers with a max system output of  watts.
+- **Premium sound system**: This system features 23 speakers and delivers a maximum output of  watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

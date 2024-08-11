@@ -162,11 +162,11 @@ Furthermore, the KGM Torres EVX supports Android Auto and Apple CarPlay. This fu
 
 ### Sound system
 
-One type of sound system is available for the KGM Torres EVX.
+The KGM Torres EVX comes equipped with one sound system option:
 
-- With the KGM, you get six speakers with a max system output of 100 watts.
+- **KGM**: This system features six speakers and delivers a maximum output of 100 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

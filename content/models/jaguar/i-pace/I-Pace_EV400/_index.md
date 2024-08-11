@@ -195,8 +195,8 @@ Furthermore, the Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay. Th
 
 You can choose between two sound systems on the Jaguar I-Pace EV400.
 
-- With the Meridian Sound System, you get 11 speakers with a max system output of 400 watts.
-- With the Meridian 3D Surround, you get 16 speakers with a max system output of 750 watts.
+- **Meridian Sound System**: This system features 11 speakers and delivers a maximum output of 400 watts.
+- **Meridian 3D Surround**: This system features 16 speakers and delivers a maximum output of 750 watts.
 
 ## Lights
 

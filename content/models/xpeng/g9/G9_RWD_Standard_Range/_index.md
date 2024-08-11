@@ -166,9 +166,9 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the XPENG G9 RWD Standard Range.
+The XPENG G9 RWD Standard Range comes equipped with one sound system option:
 
-- With the , you get eight speakers with a max system output of 500 watts.
+- ****: This system features eight speakers and delivers a maximum output of 500 watts.
 
 ## Lights
 

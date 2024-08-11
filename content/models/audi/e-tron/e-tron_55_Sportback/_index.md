@@ -250,10 +250,10 @@ Furthermore, the Audi e-tron 55 Sportback supports Android Auto and Apple CarPla
 
 You can choose between two sound systems on the Audi e-tron 55 Sportback.
 
-- With the Audi Sound system, you get ten speakers with a max system output of 180 watts.
-- With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
+- **Audi Sound system**: This system features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System**: This system features 16 speakers and delivers a maximum output of 700 watts.
 
-The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Lights
 

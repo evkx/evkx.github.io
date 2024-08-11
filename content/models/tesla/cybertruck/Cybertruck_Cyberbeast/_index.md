@@ -160,9 +160,9 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Tesla Cybertruck Cyberbeast.
+The Tesla Cybertruck Cyberbeast comes equipped with one sound system option:
 
-- With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts.
+- **Tesla Premium Sound**: This system features 17 speakers and delivers a maximum output of 560 watts.
 
 ## Lights
 

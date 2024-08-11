@@ -169,10 +169,10 @@ Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPla
 
 You can choose between two sound systems on the Peugot E-3008 Long Range.
 
-- With the , you get six speakers with a max system output of 100 watts.
-- With the , you get ten speakers with a max system output of 690 watts.
+- ****: This system features six speakers and delivers a maximum output of 100 watts.
+- ****: This system features ten speakers and delivers a maximum output of 690 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

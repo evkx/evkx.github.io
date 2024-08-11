@@ -182,10 +182,10 @@ Furthermore, the Lotus Emeya supports Android Auto and Apple CarPlay. This funct
 
 You can choose between two sound systems on the Lotus Emeya.
 
-- With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts.
-- With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
+- **KEF Premium Audio system**: This system features 15 speakers and delivers a maximum output of 1380 watts.
+- **KEF Reference Audio system**: This system features 23 speakers and delivers a maximum output of 2160 watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

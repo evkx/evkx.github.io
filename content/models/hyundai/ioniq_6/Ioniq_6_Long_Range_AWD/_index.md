@@ -160,11 +160,11 @@ Furthermore, the Hyundai Ioniq 6 Long Range AWD supports Android Auto and Apple 
 
 ### Sound system
 
-One type of sound system is available for the Hyundai Ioniq 6 Long Range AWD.
+The Hyundai Ioniq 6 Long Range AWD comes equipped with one sound system option:
 
-- With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
+- **Bose Premium Sound System**: This system features eight speakers and delivers a maximum output of  watts.
 
-The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

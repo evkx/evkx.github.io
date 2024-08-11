@@ -157,9 +157,9 @@ Furthermore, the YangWang U9 supports Android Auto and Apple CarPlay. This funct
 
 ### Sound system
 
-One type of sound system is available for the YangWang U9.
+The YangWang U9 comes equipped with one sound system option:
 
-- With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
+- **Rimac Nevera Sound System**: This system features eight speakers and delivers a maximum output of 1200 watts.
 
 ## Lights
 

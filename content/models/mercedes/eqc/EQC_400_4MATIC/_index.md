@@ -145,9 +145,9 @@ Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarP
 
 You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC.
 
-- With the Standard, you get seven speakers with a max system output of 100 watts.
-- With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
-- With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
+- **Standard**: This system features seven speakers and delivers a maximum output of 100 watts.
+- **Advanced Soundsystem**: This system features nine speakers and delivers a maximum output of 225 watts.
+- **Burmester Surround Soundsystem**: This system features 13 speakers and delivers a maximum output of 590 watts.
 
 ## Lights
 

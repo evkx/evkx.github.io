@@ -204,9 +204,9 @@ Furthermore, the Porsche Taycan Turbo S (GEN1) supports Android Auto and Apple C
 
 You can choose between three sound systems on the Porsche Taycan Turbo S (GEN1).
 
-- With the Porsche Sound system, you get ten speakers with a max system output of 150 watts.
-- With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts.
-- With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
+- **Porsche Sound system**: This system features ten speakers and delivers a maximum output of 150 watts.
+- ** BOSE® Surround Sound System**: This system features 14 speakers and delivers a maximum output of 710 watts.
+- ** Burmester® 3D High-End Surround Sound System**: This system features 21 speakers and delivers a maximum output of 1455 watts.
 
 ## Lights
 

@@ -167,17 +167,19 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Tesla Model Y Long Range features a Tesla Infotainment system that runs on a custom-built, Linux-based OS, designed for a smooth and responsive user experience. The intuitive interface is optimized for ease of use, allowing drivers to navigate menus and settings with minimal distractions. The system supports over-the-air updates, ensuring continuous improvements and access to the latest features without needing a dealership visit. Streamlined voice command functionality and touchscreen controls provide quick access to essential functions, enhancing overall usability. The OS also offers a high degree of customization, enabling users to tailor their experience to their preferences.
+
 ### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model Y Long Range.
+The Tesla Model Y Long Range comes equipped with one sound system option:
 
-- With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
+- **Tesla Premium Sound**: This system features 13 speakers and delivers a maximum output of 560 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
@@ -262,11 +264,11 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 - [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
 - [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
 - [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
-- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
 - [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
 - [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
 
-<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2c5e9046%2c5e9046%2cfd9e1f" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Explore a detailed comparison of these models.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>

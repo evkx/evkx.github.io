@@ -168,11 +168,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model 3 (GEN1).
+The Tesla Model 3 (GEN1) comes equipped with one sound system option:
 
-- With the Tesla Immersive Sound, you get seven speakers with a max system output of 560 watts.
+- **Tesla Immersive Sound**: This system features seven speakers and delivers a maximum output of 560 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

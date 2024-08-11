@@ -158,11 +158,11 @@ Furthermore, the Chevrolet Silverado EV SRT supports Android Auto and Apple CarP
 
 ### Sound system
 
-One type of sound system is available for the Chevrolet Silverado EV SRT.
+The Chevrolet Silverado EV SRT comes equipped with one sound system option:
 
-- With the Chevrolet Sound System, you get six speakers with a max system output of 200 watts.
+- **Chevrolet Sound System**: This system features six speakers and delivers a maximum output of 200 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

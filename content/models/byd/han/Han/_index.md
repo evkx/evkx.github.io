@@ -170,10 +170,10 @@ Furthermore, the BYD Han supports Android Auto and Apple CarPlay. This functiona
 
 You can choose between two sound systems on the BYD Han.
 
-- With the Surroundsystem, you get seven speakers with a max system output of  watts.
-- With the Premium sound system, you get 12 speakers with a max system output of  watts.
+- **Surroundsystem**: This system features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system**: This system features 12 speakers and delivers a maximum output of  watts.
 
-The model has 1 USB-C connections as standard. The model has 5 USB-A connections as standard.
+Additionally, the model includes 1 USB-C connections as standard. The model has 5 USB-A connections as standard.
 
 ## Lights
 

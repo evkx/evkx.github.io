@@ -167,11 +167,11 @@ Furthermore, the Zeekr 001 Privilege AWD supports Android Auto and Apple CarPlay
 
 ### Sound system
 
-One type of sound system is available for the Zeekr 001 Privilege AWD.
+The Zeekr 001 Privilege AWD comes equipped with one sound system option:
 
-- With the Yamaha Sound System, you get 12 speakers with a max system output of 300 watts.
+- **Yamaha Sound System**: This system features 12 speakers and delivers a maximum output of 300 watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

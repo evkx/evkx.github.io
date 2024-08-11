@@ -152,9 +152,9 @@ Furthermore, the MG Marvel R Electric Performance supports Android Auto and Appl
 
 ### Sound system
 
-One type of sound system is available for the MG Marvel R Electric Performance.
+The MG Marvel R Electric Performance comes equipped with one sound system option:
 
-- With the , you get NULL speakers with a max system output of  watts.
+- ****: This system features NULL speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 

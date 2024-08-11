@@ -187,10 +187,10 @@ Furthermore, the Mercedes-EQ EQB 300 4MATIC supports Android Auto and Apple CarP
 
 You can choose between two sound systems on the Mercedes-EQ EQB 300 4MATIC.
 
-- With the Standard, you get seven speakers with a max system output of 100 watts.
-- With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
+- **Standard**: This system features seven speakers and delivers a maximum output of 100 watts.
+- **Advanced Soundsystem**: This system features nine speakers and delivers a maximum output of 225 watts.
 
-The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Lights
 

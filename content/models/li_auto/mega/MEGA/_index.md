@@ -185,11 +185,11 @@ Furthermore, the Li Auto MEGA supports Android Auto and Apple CarPlay. This func
 
 ### Sound system
 
-One type of sound system is available for the Li Auto MEGA.
+The Li Auto MEGA comes equipped with one sound system option:
 
-- With the Platinum audio system, you get 21 speakers with a max system output of 2160 watts.
+- **Platinum audio system**: This system features 21 speakers and delivers a maximum output of 2160 watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

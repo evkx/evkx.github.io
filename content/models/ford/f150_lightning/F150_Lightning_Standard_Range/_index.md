@@ -164,9 +164,9 @@ Furthermore, the Ford F150 Lightning Standard Range supports Android Auto and Ap
 
 You can choose between three sound systems on the Ford F150 Lightning Standard Range.
 
-- With the Ford, you get four speakers with a max system output of 80 watts.
-- With the B&O Sound System, you get eight speakers with a max system output of 640 watts.
-- With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts.
+- **Ford**: This system features four speakers and delivers a maximum output of 80 watts.
+- **B&O Sound System**: This system features eight speakers and delivers a maximum output of 640 watts.
+- **B&O Unleashed Sound System**: This system features 18 speakers and delivers a maximum output of 1080 watts.
 
 ## Lights
 

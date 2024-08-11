@@ -164,11 +164,11 @@ Furthermore, the VinFast VF8 Eco supports Android Auto and Apple CarPlay. This f
 
 ### Sound system
 
-One type of sound system is available for the VinFast VF8 Eco.
+The VinFast VF8 Eco comes equipped with one sound system option:
 
-- With the , you get 11 speakers with a max system output of  watts.
+- ****: This system features 11 speakers and delivers a maximum output of  watts.
 
-The model has 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
+Additionally, the model includes 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
 
 ## Lights
 

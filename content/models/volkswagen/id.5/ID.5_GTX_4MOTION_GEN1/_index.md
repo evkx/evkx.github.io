@@ -192,10 +192,10 @@ Furthermore, the Volkswagen ID.5 GTX 4MOTION (GEN1) supports Android Auto and Ap
 
 You can choose between two sound systems on the Volkswagen ID.5 GTX 4MOTION (GEN1).
 
-- With the Sound system, you get six speakers with a max system output of 140 watts.
-- With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+- **Sound system**: This system features six speakers and delivers a maximum output of 140 watts.
+- **Volkswagen Soundsystem**: This system features six speakers and delivers a maximum output of 450 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

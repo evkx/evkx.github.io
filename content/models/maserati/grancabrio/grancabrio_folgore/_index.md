@@ -178,10 +178,10 @@ Furthermore, the Maserati GranCabrio Folgore supports Android Auto and Apple Car
 
 You can choose between two sound systems on the Maserati GranCabrio Folgore.
 
-- With the Sonus Faber Premium Sound System, you get 14 speakers with a max system output of 860 watts.
-- With the Sonus Faber High Premium Sound System, you get 21 speakers with a max system output of 1285 watts.
+- **Sonus Faber Premium Sound System**: This system features 14 speakers and delivers a maximum output of 860 watts.
+- **Sonus Faber High Premium Sound System**: This system features 21 speakers and delivers a maximum output of 1285 watts.
 
-The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Lights
 

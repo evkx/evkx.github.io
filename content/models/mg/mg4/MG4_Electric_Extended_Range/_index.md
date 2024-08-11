@@ -149,11 +149,11 @@ Furthermore, the MG MG4 Electric Extended Range supports Android Auto and Apple 
 
 ### Sound system
 
-One type of sound system is available for the MG MG4 Electric Extended Range.
+The MG MG4 Electric Extended Range comes equipped with one sound system option:
 
-- With the , you get NULL speakers with a max system output of  watts.
+- ****: This system features NULL speakers and delivers a maximum output of  watts.
 
-The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

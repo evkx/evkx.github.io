@@ -168,10 +168,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems on the HiPhi Y Performance.
 
-- With the SONIC LINE SYSTEM, you get 14 speakers with a max system output of 600 watts.
-- With the SONIC PRO SYSTEM, you get 25 speakers with a max system output of 2820 watts.
+- **SONIC LINE SYSTEM**: This system features 14 speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM**: This system features 25 speakers and delivers a maximum output of 2820 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

@@ -138,9 +138,9 @@ A head-up display is an optional system that projects speed and other important 
 
 ### Sound system
 
-One type of sound system is available for the Mini Cooper SE.
+The Mini Cooper SE comes equipped with one sound system option:
 
-- With the , you get NULL speakers with a max system output of  watts.
+- ****: This system features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 

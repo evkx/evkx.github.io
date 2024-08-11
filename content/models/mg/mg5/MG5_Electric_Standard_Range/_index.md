@@ -152,11 +152,11 @@ Furthermore, the MG MG5 Electric Standard Range supports Android Auto and Apple 
 
 ### Sound system
 
-One type of sound system is available for the MG MG5 Electric Standard Range.
+The MG MG5 Electric Standard Range comes equipped with one sound system option:
 
-- With the , you get six speakers with a max system output of  watts.
+- ****: This system features six speakers and delivers a maximum output of  watts.
 
-The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
 ## Lights
 

@@ -159,9 +159,9 @@ Furthermore, the Rimac Nevera supports Android Auto and Apple CarPlay. This func
 
 ### Sound system
 
-One type of sound system is available for the Rimac Nevera.
+The Rimac Nevera comes equipped with one sound system option:
 
-- With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
+- **Rimac Nevera Sound System**: This system features eight speakers and delivers a maximum output of 1200 watts.
 
 ## Lights
 

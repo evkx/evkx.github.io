@@ -164,10 +164,10 @@ Furthermore, the Volkswagen Id. UNYX supports Android Auto and Apple CarPlay. Th
 
 You can choose between two sound systems on the Volkswagen Id. UNYX.
 
-- With the Sound system, you get five speakers with a max system output of 140 watts.
-- With the Sennheiser Soundsystem, you get 12 speakers with a max system output of 395 watts.
+- **Sound system**: This system features five speakers and delivers a maximum output of 140 watts.
+- **Sennheiser Soundsystem**: This system features 12 speakers and delivers a maximum output of 395 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

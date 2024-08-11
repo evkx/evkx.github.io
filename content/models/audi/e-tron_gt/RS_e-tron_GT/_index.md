@@ -199,8 +199,8 @@ Furthermore, the Audi RS e-tron GT supports Android Auto and Apple CarPlay. This
 
 You can choose between two sound systems on the Audi RS e-tron GT.
 
-- With the Audi Sound system, you get ten speakers with a max system output of 180 watts.
-- With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
+- **Audi Sound system**: This system features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System**: This system features 16 speakers and delivers a maximum output of 700 watts.
 
 ## Mobile App
 

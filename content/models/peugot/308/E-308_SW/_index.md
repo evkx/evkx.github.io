@@ -156,11 +156,11 @@ Furthermore, the Peugot E-308 SW supports Android Auto and Apple CarPlay. This f
 
 ### Sound system
 
-One type of sound system is available for the Peugot E-308 SW.
+The Peugot E-308 SW comes equipped with one sound system option:
 
-- With the , you get NULL speakers with a max system output of  watts.
+- ****: This system features NULL speakers and delivers a maximum output of  watts.
 
-The model has 3 USB-C connections as standard.
+Additionally, the model includes 3 USB-C connections as standard.
 
 ## Lights
 

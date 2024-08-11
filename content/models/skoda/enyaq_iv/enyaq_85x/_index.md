@@ -163,11 +163,11 @@ Furthermore, the SKODA ENYAQ 85x supports Android Auto and Apple CarPlay. This f
 
 ### Sound system
 
-One type of sound system is available for the SKODA ENYAQ 85x.
+The SKODA ENYAQ 85x comes equipped with one sound system option:
 
-- With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
+- **Canton Soundsystem**: This system features ten speakers and delivers a maximum output of 550 watts.
 
-The model has 4 USB-C connections as standard.
+Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 

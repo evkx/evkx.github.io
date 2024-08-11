@@ -190,10 +190,10 @@ Furthermore, the Audi Q4 Sportback 40 e-tron supports Android Auto and Apple Car
 
 You can choose between two sound systems on the Audi Q4 Sportback 40 e-tron.
 
-- With the Audi Sound system, you get eight speakers with a max system output of 180 watts.
-- With the Sonos Sound System, you get ten speakers with a max system output of 580 watts.
+- **Audi Sound system**: This system features eight speakers and delivers a maximum output of 180 watts.
+- **Sonos Sound System**: This system features ten speakers and delivers a maximum output of 580 watts.
 
-The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Mobile App
 

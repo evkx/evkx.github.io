@@ -172,10 +172,10 @@ Furthermore, the Renault Scenic E-Tech electric High Range supports Android Auto
 
 You can choose between two sound systems on the Renault Scenic E-Tech electric High Range.
 
-- With the DAB Audiosystem, you get six speakers with a max system output of  watts.
-- With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
+- **DAB Audiosystem**: This system features six speakers and delivers a maximum output of  watts.
+- **BOSE Premium Sound System**: This system features ten speakers and delivers a maximum output of  watts.
 
-The model has 6 USB-C connections as standard.
+Additionally, the model includes 6 USB-C connections as standard.
 
 ## Lights
 

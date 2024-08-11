@@ -211,10 +211,10 @@ Furthermore, the Audi S6 Sportback e-tron supports Android Auto and Apple CarPla
 
 You can choose between two sound systems on the Audi S6 Sportback e-tron.
 
-- With the Audi Sound System, you get five speakers with a max system output of 200 watts.
-- With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
+- **Audi Sound System**: This system features five speakers and delivers a maximum output of 200 watts.
+- **Bang & Olufsen Sound System**: This system features 20 speakers and delivers a maximum output of 830 watts.
 
-The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Mobile App
 

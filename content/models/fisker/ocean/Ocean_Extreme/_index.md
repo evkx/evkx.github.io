@@ -172,11 +172,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound system
 
-One type of sound system is available for the Fisker Ocean Extreme.
+The Fisker Ocean Extreme comes equipped with one sound system option:
 
-- With the Fisker Hypersound 3D, you get 16 speakers with a max system output of 500 watts.
+- **Fisker Hypersound 3D**: This system features 16 speakers and delivers a maximum output of 500 watts.
 
-The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 

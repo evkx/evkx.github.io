@@ -183,11 +183,11 @@ Furthermore, the Volkswagen ID. Buzz GTX supports Android Auto and Apple CarPlay
 
 ### Sound system
 
-One type of sound system is available for the Volkswagen ID. Buzz GTX.
+The Volkswagen ID. Buzz GTX comes equipped with one sound system option:
 
-- With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
+- **Volkswagen Soundsystem**: This system features six speakers and delivers a maximum output of 450 watts.
 
-The model has 5 USB-C connections as standard.
+Additionally, the model includes 5 USB-C connections as standard.
 
 ## Lights
 

@@ -182,10 +182,10 @@ Furthermore, the SKODA Enyaq iV80x supports Android Auto and Apple CarPlay. This
 
 You can choose between two sound systems on the SKODA Enyaq iV80x.
 
-- With the Sound system, you get eight speakers with a max system output of 80 watts.
-- With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
+- **Sound system**: This system features eight speakers and delivers a maximum output of 80 watts.
+- **Canton Soundsystem**: This system features ten speakers and delivers a maximum output of 550 watts.
 
-The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Lights
 
