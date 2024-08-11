@@ -113,6 +113,9 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black/White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

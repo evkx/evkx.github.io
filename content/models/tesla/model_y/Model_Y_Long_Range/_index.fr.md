@@ -113,6 +113,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black/White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

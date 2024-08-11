@@ -113,6 +113,9 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black/White [læderbetræk](../../../../technology/seats/materials/#leatherette)
+
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Sæde på anden række

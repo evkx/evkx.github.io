@@ -113,6 +113,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black/White [läderklädsel](../../../../technology/seats/materials/#leatherette)
+
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

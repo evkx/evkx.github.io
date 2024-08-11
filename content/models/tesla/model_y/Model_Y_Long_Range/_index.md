@@ -113,6 +113,9 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
