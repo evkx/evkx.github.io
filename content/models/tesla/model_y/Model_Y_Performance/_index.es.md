@@ -30,7 +30,7 @@ El Tesla Model Y Performance ofrece un rendimiento sólido con una potencia máx
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 75 kWh, proporcionando un buffer de 7 kWh (8,5%) para la protección de la batería. Con un voltaje nominal de 357 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 75 kWh, proporcionando un buffer de 7 kWh (8,5%) para la protección de la batería. Con un voltaje nominal de 357 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 514 km, con una tasa de consumo de energía de 14,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -281,23 +281,18 @@ Este modelo tuvo un estreno mundial el 19.03.2019 y las entregas comenzaron en M
 
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
-- $47 990,00 (EE.UU.)
-- 449 990,00 NOK (Noruega)
+- $51 490,00 (EE.UU.)
+- 479 990,00 NOK (Noruega)
 
 ## Modelos Alternativos
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Tesla Model Y Performance que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
 
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
-- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
-- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
-- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+- [Ford Mustang Mach-E GT](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+- [Kia EV6 GT](/models/kia/ev6/ev6_gt/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
 
-<a href="https://db.evkx.net/evcompare?evs=1ee65f%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Explora una comparación detallada de estos modelos.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>

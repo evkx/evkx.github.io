@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron - Review, Drive and One thing You Didn't Know!</h3>
+<p>Nevo EV Review Ireland: 11.08.2024</p>
+
+{{< youtube RRMH5jaG31Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>2024 Audi Q6 e-tron vs 2021 e-tron 55 side-by-side comparison</h3>
 <p>Bjørn Nyland: 25.07.2024</p>
 

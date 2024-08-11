@@ -30,7 +30,7 @@ Tesla Model Y Performance leverer solid ytelse med en maksimal effekt på 393 kW
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 7 kWh (8,5%) for batteribeskyttelse. Med en nominell spenning på 357 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 7 kWh (8,5%) for batteribeskyttelse. Med en nominell spenning på 357 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 514 km, med et energiforbruk på 14,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -281,23 +281,18 @@ Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
-- $47 990,00 (USA)
-- 449 990,00 NOK (Norge)
+- $51 490,00 (USA)
+- 479 990,00 NOK (Norge)
 
 ## Alternative Modeller
 
 I det raskt voksende markedet for elbiler har EVKX.net identifisert flere alternativer til Tesla Model Y Performance som er verdt å vurdere basert på funksjoner, spesifikasjoner og pris. Selv om disse modellene kanskje ikke er helt identiske, kan det være nyttig å sammenligne dem før du tar din endelige kjøpsbeslutning:
 
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
-- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
-- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
-- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+- [Ford Mustang Mach-E GT](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+- [Kia EV6 GT](/models/kia/ev6/ev6_gt/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
 
-<a href="https://db.evkx.net/evcompare?evs=1ee65f%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+<a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>

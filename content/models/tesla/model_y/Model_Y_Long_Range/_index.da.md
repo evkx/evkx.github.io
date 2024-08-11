@@ -296,8 +296,9 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 - [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
 - [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
 - [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
 
-<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f%2cbf704f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>

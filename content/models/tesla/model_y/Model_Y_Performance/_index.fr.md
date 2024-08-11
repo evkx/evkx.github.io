@@ -30,7 +30,7 @@ La Tesla Model Y Performance offre des performances solides avec une puissance m
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 75 kWh, offrant une réserve de 7 kWh (8,5%) pour la protection de la batterie. Avec une tension nominale de 357 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 75 kWh, offrant une réserve de 7 kWh (8,5%) pour la protection de la batterie. Avec une tension nominale de 357 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 514 km, avec une consommation d'énergie de 14,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -281,23 +281,18 @@ Ce modèle a été présenté en première mondiale le 19.03.2019 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- $47 990,00 (États-Unis)
-- 449 990,00 NOK (Norvège)
+- $51 490,00 (États-Unis)
+- 479 990,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
 Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Tesla Model Y Performance qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
 
-- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
-- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
-- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
-- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
-- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
-- [Audi Q4 Sportback 55 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/)
-- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
-- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+- [Ford Mustang Mach-E GT](/models/ford/mustang_mach-e/mustang_mach-e_gt/)
+- [Kia EV6 GT](/models/kia/ev6/ev6_gt/)
+- [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
 
-<a href="https://db.evkx.net/evcompare?evs=1ee65f%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>

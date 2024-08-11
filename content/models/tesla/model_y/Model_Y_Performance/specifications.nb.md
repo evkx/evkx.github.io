@@ -193,6 +193,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				357
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
+			</td>
+		</tr>
 	</tbody>
 </table>
 
