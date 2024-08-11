@@ -130,7 +130,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ### Seats
 
-In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
+is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
 
 #### First row seats
 

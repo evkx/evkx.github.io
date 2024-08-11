@@ -94,11 +94,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The interior of the Tesla Model Y Long Range is minimalistic, with medium-quality materials used throughout. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+The interior of the Tesla Model Y Long Range is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. A traditional center console separates the driver and passenger, offering practical storage solutions and enhanced functionality.
 
 ### Seats
 
-In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
+is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
 
 #### First row seats
 

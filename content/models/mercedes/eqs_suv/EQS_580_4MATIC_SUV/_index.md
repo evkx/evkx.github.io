@@ -96,7 +96,7 @@ There are two different roof options to select from. The standard is just a regu
 
 ### Seats
 
-In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
+is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
 
 #### First row seats
 

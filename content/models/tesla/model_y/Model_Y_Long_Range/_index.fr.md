@@ -94,7 +94,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-interior.intro.minimalistic.standard.traditional
+L'intérieur du Tesla Model Y Long Range est conçu avec une esthétique minimaliste, avec des matériaux de qualité moyenne utilisés partout. Une console centrale traditionnelle sépare le conducteur et le passager, offrant des solutions de rangement pratiques et une fonctionnalité améliorée.
 
 ### Sièges
 
@@ -151,7 +151,7 @@ L'Tesla Model Y Long Range comprend plusieurs fonctionnalités pour améliorer l
 
 ## Interface utilisateur et contrôle
 
-uiandcontrols.hmi.type.ScreenFocusWithStalksAndLimitedButtons
+L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
 
 Le Tesla Model Y Long Range a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
 
@@ -250,7 +250,7 @@ Ce modèle a été présenté en première mondiale le 19.03.2019 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- $47 990,00 (common.country.UnitedStates)
+- $47 990,00 (États-Unis)
 - 449 990,00 NOK (Norvège)
 
 ## Modèles Alternatifs

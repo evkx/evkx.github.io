@@ -94,7 +94,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.intro.minimalistic.standard.traditional
+Interiören i Tesla Model Y Long Range är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. En traditionell mittkonsol separerar föraren och passageraren och erbjuder praktiska förvaringslösningar och förbättrad funktionalitet.
 
 ### Säten
 
@@ -151,7 +151,7 @@ Tesla Model Y Long Range inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-uiandcontrols.hmi.type.ScreenFocusWithStalksAndLimitedButtons
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
 
 Tesla Model Y Long Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
 
@@ -250,7 +250,7 @@ Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
-- $47 990,00 (common.country.UnitedStates)
+- $47 990,00 (USA)
 - 449 990,00 NOK (Norge)
 
 ## Alternativa Modeller
