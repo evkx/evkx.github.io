@@ -173,6 +173,17 @@ Tesla Model Y Long Range har ett Tesla Infotainment-system som körs på ett spe
 
 Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera önskad laddningsnivå vid din destination eller under laddstopp. Systemet ger realtids trafikinformation som säkerställer en effektiv och stressfri resa.
 
+### Förinstallerade Appar
+
+Även om infotainmentsystemet inte inkluderar en appbutik, levereras det med ett urval av förinstallerade tredjepartsappar som körs direkt på bilens skärm, oberoende av en ansluten telefon. Tillgängliga appar varierar beroende på marknad, men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- **Netflix** Njut av filmer och serier direkt på skärmen i ditt fordon, perfekt för underhållning när du är parkerad.
+- **YouTube** Titta på dina favoritvideor, kanaler och spellistor på bilens infotainmentskärm, vilket gör det enkelt att hålla dig underhållen medan du är parkerad.
+- **Twitch** Strömma liveinnehåll från spel eller titta på dina favoritstreamare när du är på språng.
+- **TIDAL** Njut av högkvalitativ musikstreaming och exklusivt innehåll från dina favoritartister, vilket ger en premium ljudupplevelse direkt i ditt fordon.
+- **TuneIn** Få tillgång till livesända radiostationer, podcaster och nyheter från hela världen.
+
 ### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range.
@@ -181,9 +192,24 @@ En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range.
 
 Modellen har 4 USB-C-anslutningar som standard.
 
+## Mobilapp
+
+Tesla Model Y Long Range kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Fjärrparkering**: Styr din bil på distans för att parkera eller lämna en parkeringsplats.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Fönsterkontroll**: Öppna och stäng fönstren varifrån som helst.
+- **Schemalagd laddning**: Planera och schemalägg laddningssessioner inför dina resor.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
+- **Körhistorik**: Granska detaljerna för dina tidigare resor.
+
 ## Ljus
 
-**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+Standard strålkastare använder LED Matrix-teknik. LED Matrix är ett adaptivt system som delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt för att släcka små områden framför.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 

@@ -205,9 +205,9 @@ El sistema de navegación integrado utiliza mapas detallados y ofrece una planif
 
 El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
 
-- **Spotify**
-- **TIDAL**
-- **YouTube**
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **TIDAL** Disfruta de la transmisión de música en alta fidelidad y contenido exclusivo de tus artistas favoritos, ofreciendo una experiencia de audio premium directamente en tu vehículo.
+- **YouTube** Mira tus videos, canales y listas de reproducción favoritas en la pantalla de infoentretenimiento de tu coche, haciendo que sea fácil mantenerte entretenido mientras estás estacionado.
 
 ### Espejo del teléfono
 

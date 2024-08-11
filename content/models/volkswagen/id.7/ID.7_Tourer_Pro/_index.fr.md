@@ -178,6 +178,12 @@ Le Volkswagen ID.7 Tourer Pro dispose d'un système d'infodivertissement avancé
 
 Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
+### Applications Préinstallées
+
+Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+
 ### Réplication du téléphone
 
 De plus, le Volkswagen ID.7 Tourer Pro prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.

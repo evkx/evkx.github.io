@@ -173,6 +173,17 @@ Le Tesla Model Y Long Range dispose d'un système Infotainment Tesla fonctionnan
 
 Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée où vous pouvez définir le niveau de charge cible à votre destination ou pendant les arrêts de recharge. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
+### Applications Préinstallées
+
+Bien que le système d'infodivertissement ne comprenne pas de boutique d'applications, il est livré avec une sélection d'applications tierces préinstallées qui fonctionnent nativement sur l'écran de la voiture, indépendamment d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **Netflix** Profitez de films et de séries directement sur l'écran de votre véhicule, parfait pour vous divertir lorsque vous êtes stationné.
+- **YouTube** Regardez vos vidéos, chaînes et playlists préférées sur l'écran d'infodivertissement de votre voiture, facilitant le divertissement pendant que vous êtes stationné.
+- **Twitch** Diffusez du contenu de jeux en direct ou regardez vos streamers préférés en déplacement.
+- **TIDAL** Profitez du streaming musical en haute fidélité et du contenu exclusif de vos artistes préférés, offrant une expérience audio premium directement dans votre véhicule.
+- **TuneIn** Accédez à des stations de radio en direct, des podcasts et des actualités du monde entier.
+
 ### Système audio
 
 Un type de système audio est disponible pour le Tesla Model Y Long Range.
@@ -181,9 +192,24 @@ Un type de système audio est disponible pour le Tesla Model Y Long Range.
 
 Le modèle dispose de 4 connexions USB-C en standard.
 
+## Application mobile
+
+Le Tesla Model Y Long Range est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
+- **Planification de la recharge** : Planifiez et programmez des sessions de recharge avant vos trajets.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
+- **Historique de conduite** : Consultez les détails de vos trajets précédents.
+
 ## Lumières
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

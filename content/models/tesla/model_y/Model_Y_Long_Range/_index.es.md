@@ -173,6 +173,17 @@ El Tesla Model Y Long Range cuenta con un sistema de Infotainment de Tesla que f
 
 El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
+### Aplicaciones Preinstaladas
+
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **Netflix** Disfruta de películas y programas directamente en la pantalla de tu vehículo, perfecto para el entretenimiento mientras estás estacionado.
+- **YouTube** Mira tus videos, canales y listas de reproducción favoritas en la pantalla de infoentretenimiento de tu coche, haciendo que sea fácil mantenerte entretenido mientras estás estacionado.
+- **Twitch** Transmite contenido de juegos en vivo o mira a tus streamers favoritos mientras estás en movimiento.
+- **TIDAL** Disfruta de la transmisión de música en alta fidelidad y contenido exclusivo de tus artistas favoritos, ofreciendo una experiencia de audio premium directamente en tu vehículo.
+- **TuneIn** Accede a estaciones de radio en vivo, podcasts y noticias de todo el mundo.
+
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Tesla Model Y Long Range.
@@ -181,9 +192,24 @@ Un tipo de sistema de sonido está disponible para el Tesla Model Y Long Range.
 
 El modelo tiene 4 conexiones USB-C de serie.
 
+## Aplicación móvil
+
+El Tesla Model Y Long Range viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Ubicar tu vehículo**: Verifica fácilmente la ubicación actual de tu coche.
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Estacionamiento remoto**: Controla tu coche de forma remota para estacionar o salir de un espacio de estacionamiento.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
+- **Programar carga**: Planifica y programa sesiones de carga antes de tus viajes.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
+- **Historial de conducción**: Revisa los detalles de tus viajes anteriores.
+
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+Los faros estándar usan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente para atenuar pequeñas áreas al frente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 

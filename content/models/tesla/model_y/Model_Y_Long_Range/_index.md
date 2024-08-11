@@ -173,6 +173,17 @@ The Tesla Model Y Long Range features a Tesla Infotainment system that runs on a
 
 The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **Netflix** Enjoy movies and shows right from your vehicle's screen, perfect for entertainment while parked.
+- **YouTube** Watch your favorite videos, channels, and playlists on your car's infotainment screen, making it easy to stay entertained while parked.
+- **Twitch** Stream live gaming content or watch your favorite streamers on the go.
+- **TIDAL** Enjoy high-fidelity music streaming and exclusive content from your favorite artists, delivering a premium audio experience right to your vehicle.
+- **TuneIn** Access live radio stations, podcasts, and news from around the world.
+
 ### Sound system
 
 The Tesla Model Y Long Range comes equipped with one sound system option:
@@ -181,9 +192,24 @@ The Tesla Model Y Long Range comes equipped with one sound system option:
 
 Additionally, the model includes 4 USB-C connections as standard.
 
+## Mobile App
+
+The Tesla Model Y Long Range comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle**: Easily check the current location of your car.
+- **Preconditioning**: Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking**: Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock**: Securely lock or unlock your car doors with a tap.
+- **Window Control**: Open and close the windows from anywhere.
+- **Scheduled Charging**: Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target**: Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car**: Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning**: Plan your route and send it directly to your car's navigation system.
+- **Driving History**: Review the details of your past trips.
+
 ## Lights
 
-**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 

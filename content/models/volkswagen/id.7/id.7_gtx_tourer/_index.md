@@ -184,6 +184,12 @@ The Volkswagen ID.7 GTX Tourer features an advanced infotainment system built on
 
 The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+
 ### Phone Mirroring
 
 Furthermore, the Volkswagen ID.7 GTX Tourer supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.

@@ -199,9 +199,9 @@ Le système de navigation intégré utilise des cartes détaillées et offre une
 
 Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
 
-- **Spotify**
-- **TIDAL**
-- **YouTube**
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- **TIDAL** Profitez du streaming musical en haute fidélité et du contenu exclusif de vos artistes préférés, offrant une expérience audio premium directement dans votre véhicule.
+- **YouTube** Regardez vos vidéos, chaînes et playlists préférées sur l'écran d'infodivertissement de votre voiture, facilitant le divertissement pendant que vous êtes stationné.
 
 ### Réplication du téléphone
 

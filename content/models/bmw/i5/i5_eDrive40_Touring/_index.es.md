@@ -191,6 +191,13 @@ El BMW i5 eDrive40 Touring cuenta con un sistema de infoentretenimiento avanzado
 
 El sistema de navegación incorporado utiliza mapas detallados y ofrece una planificación de rutas avanzada donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
+### Aplicaciones Preinstaladas
+
+Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, viene con una selección de aplicaciones de terceros preinstaladas que se ejecutan de forma nativa en la pantalla del coche, independientemente de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- **YouTube** Mira tus videos, canales y listas de reproducción favoritas en la pantalla de infoentretenimiento de tu coche, haciendo que sea fácil mantenerte entretenido mientras estás estacionado.
+
 ### Espejo del teléfono
 
 Además, el BMW i5 eDrive40 Touring es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.

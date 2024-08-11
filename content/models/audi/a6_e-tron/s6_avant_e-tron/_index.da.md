@@ -203,9 +203,9 @@ Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret r
 
 Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
 
-- **Spotify**
-- **TIDAL**
-- **YouTube**
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- **TIDAL** Nyd musikstreaming i høj kvalitet og eksklusivt indhold fra dine yndlingskunstnere, der leverer en førsteklasses lydoplevelse direkte til dit køretøj.
+- **YouTube** Se dine yndlingsvideoer, kanaler og playlister på bilens infotainmentskærm, hvilket gør det nemt at holde sig underholdt, mens du holder parkeret.
 
 ### Telefon spejling
 

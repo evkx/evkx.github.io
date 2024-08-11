@@ -204,9 +204,9 @@ Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert rute
 
 Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
 
-- **Spotify**
-- **TIDAL**
-- **YouTube**
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- **TIDAL** Nyt musikkstrømming i høy kvalitet og eksklusivt innhold fra dine favorittartister, og leverer en premium lydopplevelse rett til kjøretøyet ditt.
+- **YouTube** Se dine favorittvideoer, kanaler og spillelister på infotainmentskjermen i bilen, og gjør det enkelt å holde deg underholdt mens du er parkert.
 
 ### Telefonspeiling
 
