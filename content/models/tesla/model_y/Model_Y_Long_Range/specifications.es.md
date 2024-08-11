@@ -375,6 +375,38 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Área frontal
+			</td>
+			<td>
+				2,65
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				9,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>

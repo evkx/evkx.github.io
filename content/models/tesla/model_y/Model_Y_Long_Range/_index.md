@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Tesla Model Y Long Range. Dynamic 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 335mm.
 
 ### Regenerative braking
 

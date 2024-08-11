@@ -62,7 +62,7 @@ Dynamisk styring er en standard-funktion på Tesla Model Y Long Range. Dynamisk 
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 335mm.
 
 ### Regenerativ bremsning
 

@@ -375,6 +375,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontal area
+			</td>
+			<td>
+				2,65
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				9,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>

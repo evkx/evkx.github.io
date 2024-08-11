@@ -62,7 +62,7 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model Y 
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 335 mm.
 
 ### Freinage régénératif
 

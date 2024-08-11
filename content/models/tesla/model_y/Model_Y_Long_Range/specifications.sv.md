@@ -375,6 +375,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Dragkoefficient
+			</td>
+			<td>
+				0,23
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,65
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				9
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				9,8
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>

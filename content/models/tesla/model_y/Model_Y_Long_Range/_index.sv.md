@@ -62,7 +62,7 @@ Dynamisk styrning är standard-funktionen för Tesla Model Y Long Range. Dynamis
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 335mm.
 
 ### Regenerativ bromsning
 
