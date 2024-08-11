@@ -403,7 +403,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse frunk
 			</td>
 			<td>
-				55 liter
+				52 liter
 			</td>
 		</tr>
 		<tr>

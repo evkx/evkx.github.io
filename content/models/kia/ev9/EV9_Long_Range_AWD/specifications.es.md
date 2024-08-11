@@ -403,7 +403,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				55 litro
+				52 litro
 			</td>
 		</tr>
 		<tr>

@@ -379,7 +379,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				55 liter
+				90 liter
 			</td>
 		</tr>
 		<tr>

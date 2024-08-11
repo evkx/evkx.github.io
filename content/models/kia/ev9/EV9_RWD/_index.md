@@ -237,7 +237,7 @@ With the   level 2 system, you get the following driving automation features.
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 55 liters (1.9 CU FT).
+The trunk offers a cargo capacity of 333 liters (11.8 CU FT). With the rear seat folded down, this expands to 2393 liters (84.5 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 90 liters (3.2 CU FT).
 
 The vehicle’s maximum weight is 3190 kg (7033 lbs), with a base weight of 2637 kg (5814 lbs). This allows for a maximum load of 553 kg (1219 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

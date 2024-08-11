@@ -237,7 +237,7 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 333 litros. Con el asiento trasero plegado, esto se expande a 2393 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 55 litros.
+El maletero ofrece una capacidad de carga de 333 litros. Con el asiento trasero plegado, esto se expande a 2393 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 52 litros.
 
 El peso máximo del vehículo es 3190 kg, con un peso base de 2637 kg. Esto permite una carga máxima de 553 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

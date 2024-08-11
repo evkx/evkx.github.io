@@ -237,7 +237,7 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 55 liter.
+Bagagerummet har en lastekapacitet på 333 liter. Med det bageste sæde foldet ned, udvides dette til 2393 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 52 liter.
 
 Køretøjets maksimale vægt er 3190 kg, med en basisvægt på 2637 kg. Dette giver en maksimal last på 553 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

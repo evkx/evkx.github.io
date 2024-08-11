@@ -237,7 +237,7 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 333 liter. Med baksetene nedfelt, utvides dette til 2393 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 55 liter.
+Bagasjerommet tilbyr en lastekapasitet på 333 liter. Med baksetene nedfelt, utvides dette til 2393 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 52 liter.
 
 Kjøretøyets maksimale vekt er 3190 kg, med en basisvekt på 2637 kg. Dette gir en maksimal lastekapasitet på 553 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
-				55 liter (2 cu-ft)
+				90 liter (3 cu-ft)
 			</td>
 		</tr>
 		<tr>

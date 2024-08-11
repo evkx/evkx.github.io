@@ -94,6 +94,8 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+The interior of the Tesla Model Y Long Range is minimalistic, with medium-quality materials used throughout. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+
 ### Seats
 
 In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
@@ -148,6 +150,8 @@ The Tesla Model Y Long Range includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 ## User interface and control
+
+The control interface for this EV model is focused around screen interation and only have a limited functionality available on buttons and stalks. This can for some cause less than ideal user expericne and usablitiy.
 
 The Tesla Model Y Long Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
 
@@ -240,7 +244,30 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">
+This model had a world premiere on 19.03.2019, and deliveries started in March 2020.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $47 990,00 (USA)
+- 449 990,00 NOK (Norway)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Tesla Model Y Long Range that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2c5e9046%2c5e9046%2cfd9e1f" target="_blank">Explore a detailed comparison of these models.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

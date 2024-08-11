@@ -237,7 +237,7 @@ Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'au
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arrière rabattus, cette capacité passe à 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 55 litres.
+Le coffre offre une capacité de chargement de 333 litres. Avec les sièges arrière rabattus, cette capacité passe à 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 90 litres.
 
 Le poids maximum du véhicule est de 3190 kg, avec un poids de base de 2637 kg. Cela permet une charge maximale de 553 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

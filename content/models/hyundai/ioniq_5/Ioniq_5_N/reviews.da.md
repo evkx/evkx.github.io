@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2025 Hyundai Ioniq5 N Is A Mind Bogglingly Quick Electric Hot Hatch With German Vibes</h3>
+<p>Red Line Reviews: 10.08.2024</p>
+
+{{< youtube O0HOpDZOXYk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Hyundai Ioniq 5N | Long Trip Test</h3>
 <p>Kris Rifa: 21.05.2024</p>
 

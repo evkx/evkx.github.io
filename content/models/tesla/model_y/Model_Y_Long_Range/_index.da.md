@@ -94,6 +94,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+interior.intro.minimalistic.standard.traditional
+
 ### Sæder
 
 Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
@@ -148,6 +150,8 @@ Tesla Model Y Long Range inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+uiandcontrols.hmi.type.ScreenFocusWithStalksAndLimitedButtons
 
 Tesla Model Y Long Range har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
 
@@ -240,7 +244,30 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- $47 990,00 (common.country.UnitedStates)
+- 449 990,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Tesla Model Y Long Range, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)
+- [Ford Mustang Mach-E Long Range AWD](/models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Audi Q4 55 e-tron quattro](/models/audi/q4_e-tron/q4_55_e-tron_quattro/)
+- [Skoda ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/)
+- [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
+
+<a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2c5e9046%2c5e9046%2cfd9e1f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
 </a>

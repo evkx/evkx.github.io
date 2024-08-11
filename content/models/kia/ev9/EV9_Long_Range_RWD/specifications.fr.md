@@ -379,7 +379,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				55 litre
+				90 litre
 			</td>
 		</tr>
 		<tr>
