@@ -155,7 +155,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large
 - The touch screen at the top of the center console is 15.4 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

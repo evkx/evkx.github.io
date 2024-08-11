@@ -145,7 +145,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large
 - The touch screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" title="XPENG P7 AWD Performance" width="2000" height="1334"  >}}
 

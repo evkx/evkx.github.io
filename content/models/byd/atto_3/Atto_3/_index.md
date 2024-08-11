@@ -159,7 +159,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
 - The touch screen on the dashboard's center is 15.6 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 

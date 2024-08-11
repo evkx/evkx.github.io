@@ -170,7 +170,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
 - The touch screen at the top of the center console is 15.3 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

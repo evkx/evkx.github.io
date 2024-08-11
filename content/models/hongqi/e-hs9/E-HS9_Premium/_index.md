@@ -150,7 +150,7 @@ Key screen details:
 - The touch screen in front of the passenger in the dashboard is 16.2 inches large
 - The touch screen in the middle of the center console is 10.2 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
 

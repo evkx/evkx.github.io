@@ -130,7 +130,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
 - The touch screen in the middle of the center console is 15.6 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

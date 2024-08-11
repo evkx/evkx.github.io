@@ -148,13 +148,13 @@ The Tesla Model 3 includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The Tesla Model 3 has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+The Tesla Model 3 has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
 
 - The  screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 

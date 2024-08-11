@@ -149,13 +149,13 @@ The Tesla Model Y Long Range RWD includes several features to enhance comfort an
 
 ## User interface and control
 
-The Tesla Model Y Long Range RWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+The Tesla Model Y Long Range RWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
 
 - The touch screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
 

@@ -144,7 +144,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
 - The touch screen on the dashboard's center is 11.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 

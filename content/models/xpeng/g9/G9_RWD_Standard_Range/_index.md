@@ -152,7 +152,7 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.0 inches large
 - The touch screen in front of the passenger on the dashboard is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/screens_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 

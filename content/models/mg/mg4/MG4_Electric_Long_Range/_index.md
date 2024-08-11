@@ -131,7 +131,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large
 - The touch screen at the top of the center console is 10.2 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/screens_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 

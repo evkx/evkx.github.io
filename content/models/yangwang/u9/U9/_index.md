@@ -141,7 +141,7 @@ Key screen details:
 - The touch screen at the top of the center console is 11.0 inches large
 - The touch screen in front of the passenger in the dashboard is 10.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 

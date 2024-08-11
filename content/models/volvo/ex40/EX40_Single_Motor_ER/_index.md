@@ -138,7 +138,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
 - The touch screen at the top of the center console is 9.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/screens_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2249"  >}}
 

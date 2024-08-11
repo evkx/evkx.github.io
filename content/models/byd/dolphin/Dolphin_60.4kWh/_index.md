@@ -159,7 +159,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
 - The touch screen on the dashboard's center is 15.6 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 

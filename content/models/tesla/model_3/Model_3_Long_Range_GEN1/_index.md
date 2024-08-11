@@ -150,13 +150,13 @@ The Tesla Model 3 Long Range (GEN1) includes several features to enhance comfort
 
 ## User interface and control
 
-The Tesla Model 3 Long Range (GEN1) has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+The Tesla Model 3 Long Range (GEN1) has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
 
 - The  screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 

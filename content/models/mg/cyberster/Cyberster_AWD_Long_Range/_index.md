@@ -131,7 +131,7 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 8.0 inches large
 - The touch screen in the middle of the center console is 7.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 

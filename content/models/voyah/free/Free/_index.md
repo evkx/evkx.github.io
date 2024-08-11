@@ -138,7 +138,7 @@ Key screen details:
 - The  screen in the dashboard's center is 12.3 inches large
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 

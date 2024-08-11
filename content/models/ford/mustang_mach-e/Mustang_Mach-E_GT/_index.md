@@ -145,7 +145,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
 - The touch screen at the top of the center console is 15.5 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 

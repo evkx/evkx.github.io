@@ -150,7 +150,7 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 12.0 inches large
 - The touch screen in the middle of the center console is 12.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 

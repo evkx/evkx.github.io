@@ -140,7 +140,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large
 - The touch screen on the dashboard's center is 10.1 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 

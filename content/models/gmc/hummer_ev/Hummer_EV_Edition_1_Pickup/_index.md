@@ -138,7 +138,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
 - The touch screen on the dashboard's center is 13.4 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 

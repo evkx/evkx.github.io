@@ -160,7 +160,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large
 - The touch screen at the top of the center console is 15.4 inches large
 For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 

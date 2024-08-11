@@ -140,7 +140,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 8.0 inches large
 - The touch screen at the top of the center console is 14.6 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 

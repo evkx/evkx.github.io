@@ -145,7 +145,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
 - The touch screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/screens_1_st.jpg" title="XPENG G6 RWD Standard Range" width="3000" height="1546"  >}}
 

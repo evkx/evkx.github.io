@@ -148,7 +148,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
 - The touch screen at the top of the center console is 9.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/screens_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 

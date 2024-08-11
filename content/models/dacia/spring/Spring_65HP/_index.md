@@ -132,7 +132,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large
 - The touch screen on the dashboard's center is 10.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 

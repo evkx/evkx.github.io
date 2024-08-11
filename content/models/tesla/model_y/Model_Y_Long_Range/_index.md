@@ -151,15 +151,15 @@ The Tesla Model Y Long Range includes several features to enhance comfort and co
 
 ## User interface and control
 
-The control interface for this EV model is focused around screen interation and only have a limited functionality available on buttons and stalks. This can for some cause less than ideal user expericne and usablitiy.
+The control interface for the  is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
-The Tesla Model Y Long Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+The Tesla Model Y Long Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
 
 - The touch screen on the dashboard's center is 15.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
 

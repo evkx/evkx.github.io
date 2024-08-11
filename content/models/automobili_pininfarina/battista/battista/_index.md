@@ -141,7 +141,7 @@ Key screen details:
 - The touch screen at the top of the center console is 13.8 inches large
 - The touch screen in front of the passenger in the dashboard is 8.8 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 

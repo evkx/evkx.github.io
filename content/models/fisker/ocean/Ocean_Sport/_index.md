@@ -147,7 +147,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large
 - The touch screen in the middle of the center console is 17.1 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 

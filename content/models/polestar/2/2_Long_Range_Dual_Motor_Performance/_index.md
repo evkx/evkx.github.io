@@ -150,7 +150,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
 - The touch screen at the top of the center console is 11.2 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 

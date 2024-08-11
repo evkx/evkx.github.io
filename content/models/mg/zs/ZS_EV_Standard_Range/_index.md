@@ -141,7 +141,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large
 - The touch screen at the top of the center console is 10.2 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/screens_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1015"  >}}
 

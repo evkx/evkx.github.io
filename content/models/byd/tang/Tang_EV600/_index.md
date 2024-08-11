@@ -154,7 +154,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
 - The touch screen on the dashboard's center is 12.8 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 

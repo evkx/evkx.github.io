@@ -146,7 +146,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
 - The  screen on the dashboard's center is 15.5 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/screens_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 

@@ -139,13 +139,13 @@ The Volvo EX30 Twin Motor Performance includes several features to enhance comfo
 
 ## User interface and control
 
-The Volvo EX30 Twin Motor Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+The Volvo EX30 Twin Motor Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
 Key screen details:
 
 - The touch screen on the dashboard's center is 12.3 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2776"  >}}
 

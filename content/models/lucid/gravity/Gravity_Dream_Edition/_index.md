@@ -165,7 +165,7 @@ Key screen details:
 - The touch screen behind the steering wheel accross the the center of the dash is 34.0 inches large
 - The touch screen in the middle of the center console is 12.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 

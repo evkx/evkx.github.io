@@ -151,7 +151,7 @@ Key screen details:
 - The  screen behind the steering wheel on the left of the frame is 10.0 inches large
 - The touch screen at the right part of the shared frame is 10.0 inches large
 
-The model does not have a head-up display.
+The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
 
