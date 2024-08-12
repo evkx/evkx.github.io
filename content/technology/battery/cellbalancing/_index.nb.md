@@ -5,18 +5,15 @@ description: Cellebalansering er viktig for å få mest mulig ut av batteriet.
 weight: 8
 ---
 <!-- markdownlint-disable MD033 -->
-Cellebalansering er nødvendig når en gruppe celler har høyere eller lavere SOC enn andre grupper av celler.
+
+Cellebalansering er nødvendig når noen celler i en batteripakke har en høyere eller lavere ladetilstand (SOC) enn andre.
 
 <img src="cellbalancing.drawio.svg" class="img-fluid">
 
-I dette eksemplet er den øverste gruppen av celler 100 % ladet og ladeprosedyren er fullført.
-Imidlertid er høyspenningsbatteriets ladenivå bare 96 %. Balansering gjør at denne cellen nå utlades via en motstand og kan dermed fortsette å lades til alle cellene har nådd samme ladenivå. Dette gjør at høyspentbatteriet oppnår sin maksimale kapasitans.
+I dette eksempelet er den øverste gruppen av celler 100% ladet, og ladeprosedyren er fullført. Imidlertid er det totale høyspenningsbatteriets ladingsnivå bare 96%. Balansering innebærer å utlade de fulladede cellene via en motstand, slik at ladeprosessen kan fortsette til alle cellene når samme ladingsnivå. Dette sikrer at høyspenningsbatteriet oppnår sin maksimale kapasitet.
 
-{{<evkxdisplayaddarticle />}}
+{{< evkxdisplayaddarticle />}}
 
-For å gjøre dette sammenligner batterireguleringskontrollenheten spenningene til cellegruppene. Hvis cellegrupper har høy cellespenning, mottar den ansvarlige batterimodulens kontrollenhet balanseringsinformasjonen. Balansering utføres når spenningsforskjeller på større enn ca. 1 % oppstår når høyspentbatteriet lades. Etter at tenningen er slått av, kontrollerer batterireguleringsenheten om balansering er nødvendig og utløser den om nødvendig. Typisk balansering utføres ved ladenivåer over 30 %.
+Batterireguleringsenheten sammenligner spenningene til cellegruppene. Hvis noen cellegrupper har høyere spenning, mottar den ansvarlige batterimodulens kontrollenhet balanseringsinformasjonen. Balansering utføres når spenningsforskjeller større enn omtrent 1% oppstår under lading. Etter at tenningen er slått av, sjekker batterireguleringsenheten om balansering er nødvendig og utløser det hvis nødvendig. Vanligvis utføres balansering ved ladingsnivåer over 30%.
 
-<div class="mt-3 mb-3">
-    <a href="../thermalmanagement/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Termisk styring</strong></a>
-    <a href="../charging/" class="text-decoration-none text-black float-end"><strong>Lading <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../thermalmanagement/" b_title="Termisk styring" f_url="../charging/" f_title="Lading" >}}
