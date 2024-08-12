@@ -95,9 +95,6 @@ Le Chevrolet Silverado EV 3WT propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
@@ -110,7 +107,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -129,7 +125,6 @@ L'Chevrolet Silverado EV 3WT comprend plusieurs fonctionnalités pour améliorer
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**
-- **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 

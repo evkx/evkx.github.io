@@ -95,9 +95,6 @@ Chevrolet Silverado EV 4WT Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -110,7 +107,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -129,7 +125,6 @@ Chevrolet Silverado EV 4WT inkluderer flere funksjoner for å forbedre komfort o
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
-- **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
 

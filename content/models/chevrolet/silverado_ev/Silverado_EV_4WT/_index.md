@@ -95,9 +95,6 @@ The Chevrolet Silverado EV 4WT offers a single type of front seat.
 The following functionalities are available on the **** seat.
 
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
 
@@ -110,7 +107,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -129,7 +125,6 @@ The Chevrolet Silverado EV 4WT includes several features to enhance comfort and 
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**
-- **Wireless phone charging**
 
 {{<evkxdisplayaddarticle />}}
 

@@ -95,9 +95,6 @@ El Chevrolet Silverado EV 4WT ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -110,7 +107,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -129,7 +125,6 @@ El Chevrolet Silverado EV 4WT incluye varias características para mejorar la co
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**
-- **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
 

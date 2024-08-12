@@ -95,9 +95,6 @@ Chevrolet Silverado EV 4WT erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -110,7 +107,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -129,7 +125,6 @@ Chevrolet Silverado EV 4WT inkluderar flera funktioner för att förbättra komf
 - **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Elektriskt justerbar ratt**
-- **Trådlös laddning av telefon**
 
 {{<evkxdisplayaddarticle />}}
 
