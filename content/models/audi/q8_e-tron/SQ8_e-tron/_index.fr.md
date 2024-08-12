@@ -199,7 +199,7 @@ Le Audi SQ8 e-tron est équipé d'un seul type de volant :
 
 ### Rétroviseurs
 
-Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+Pour les rétroviseurs extérieurs, vous pouvez choisir entre des rétroviseurs à caméra avec écrans intérieurs ou des rétroviseurs traditionnels. Le rétroviseur intérieur est un rétroviseur standard.
 
 ## Infodivertissement
 

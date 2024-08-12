@@ -172,7 +172,7 @@ Lotus Eletre S er utstyrt med en enkelt type ratt:
 
 ### Speil
 
-Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+For de utvendige speilene kan du velge mellom kamerabaserte speil med innvendige skjermer eller tradisjonelle speil. Det innvendige speilet er et standardspeil.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 

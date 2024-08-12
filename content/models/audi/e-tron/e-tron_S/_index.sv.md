@@ -211,7 +211,7 @@ Audi e-tron S är utrustad med en enda typ av ratt:
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+För de yttre speglarna kan du välja mellan kamerabaserade speglar med inre skärmar eller traditionella speglar. Den inre spegeln är en standardspegel.
 
 ## Infotainment
 

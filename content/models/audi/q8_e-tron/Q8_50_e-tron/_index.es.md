@@ -232,7 +232,7 @@ El Audi Q8 50 e-tron está equipado con un solo tipo de volante:
 
 ### Espejos
 
-Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+Para los espejos exteriores, puedes elegir entre espejos basados en cámaras con pantallas interiores o espejos tradicionales. El espejo interior es un espejo estándar.
 
 ## Infoentretenimiento
 

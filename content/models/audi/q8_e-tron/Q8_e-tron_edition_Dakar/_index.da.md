@@ -233,7 +233,7 @@ Audi Q8 e-tron edition Dakar er udstyret med en enkelt type rat:
 
 ### Spejle
 
-Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+For de udvendige spejle kan du vælge mellem kamera-baserede spejle med indvendige skærme eller traditionelle spejle. Det indvendige spejl er et standard spejl.
 
 ## Infotainment
 

@@ -240,7 +240,7 @@ The Audi e-tron 55 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+For the exterior mirrors, you can choose between camera-based mirrors with interior screens or traditional mirrors. The interior mirror is a standard mirror.
 
 ## Infotainment
 

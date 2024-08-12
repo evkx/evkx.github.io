@@ -191,7 +191,7 @@ Audi S6 Sportback e-tron är utrustad med en enda typ av ratt:
 
 ### Speglar
 
-Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+För de yttre speglarna kan du välja mellan kamerabaserade speglar med inre skärmar eller traditionella speglar. Den inre spegeln är en standardspegel.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
