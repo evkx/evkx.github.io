@@ -92,7 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem flere interiørdesigns.
+interior.intro.driverfocused.standard.splitlevel Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -106,6 +106,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
@@ -118,7 +119,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -157,9 +158,17 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 Xiaomi SU7 Max er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det inkluderer også fysiske knapper og rullehjul, der giver dig mulighed for at kontrollere infotainmentsystemet, justere lydstyrken, skifte musiknumre og nemt styre andre vigtige funktioner.
 
 ## Infotainment
+
+### Navigationssystem
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### Telefon spejling
+
+Yderligere understøtter Xiaomi SU7 Max Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
 ### Lydsystem
 

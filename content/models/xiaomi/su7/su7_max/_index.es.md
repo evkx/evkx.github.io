@@ -92,7 +92,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre varios diseños de interiores.
+interior.intro.driverfocused.standard.splitlevel Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -106,6 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
@@ -118,7 +119,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 #### Asiento de segunda fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -157,9 +158,17 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 El Xiaomi SU7 Max está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También incluye botones físicos y ruedas de desplazamiento, que te permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
+
+### Sistema de navegación
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### Espejo del teléfono
+
+Además, el Xiaomi SU7 Max es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
 ### Sistema de sonido
 

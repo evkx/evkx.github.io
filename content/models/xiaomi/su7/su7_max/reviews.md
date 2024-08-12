@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xiaomi SU7: AMAZING Performance EV with HUGE PROBLEM!</h3>
+<p>ChinaDriven: 11.08.2024</p>
+
+{{< youtube TdZlaLYNE6s >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The AMAZING Electric Car Made By A Phone Company??</h3>
 <p>Fully Charged Show: 21.05.2024</p>
 

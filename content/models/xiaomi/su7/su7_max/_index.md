@@ -92,7 +92,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-You can choose between several interior designs.
+interior.intro.driverfocused.standard.splitlevel You can choose between several interior designs.
 
 ### Seats
 
@@ -106,6 +106,7 @@ The following functionalities are available on the **** seat.
 
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 4 different materials/colors for this seat type.
 
@@ -118,7 +119,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 #### Second-row seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -157,9 +158,17 @@ A head-up display is a standard system that projects speed and other important d
 
 The Xiaomi SU7 Max is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ## Infotainment
+
+### Navigation System
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone Mirroring
+
+Furthermore, the Xiaomi SU7 Max supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
