@@ -124,8 +124,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -157,6 +155,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
+
+### Steering Wheel
+
+The BYD Tang EV600 is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

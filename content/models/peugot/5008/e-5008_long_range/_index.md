@@ -128,8 +128,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -160,6 +158,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
+
+### Steering Wheel
+
+The Peugot E-5008 Long Range is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

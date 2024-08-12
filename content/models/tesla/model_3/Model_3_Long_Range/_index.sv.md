@@ -125,8 +125,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - höjdjusterbart nackstöd
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -157,6 +155,12 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
+
+### Ratt
+
+Tesla Model 3 Long Range är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 

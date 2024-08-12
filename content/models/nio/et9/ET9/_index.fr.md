@@ -129,8 +129,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
-Il n'y a qu'un seul type de volant disponible.
-
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -156,6 +154,12 @@ Détails clés de l'écran :
 - L'écran touch au milieu de la console centrale mesure 15,6 pouces
 Pour les passagers arrière, il y a des écrans d'infodivertissement à l'arrière des sièges de la première rangée
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+
+### Volant
+
+Le Nio ET9 est équipé d'un seul type de volant :
+
+- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 

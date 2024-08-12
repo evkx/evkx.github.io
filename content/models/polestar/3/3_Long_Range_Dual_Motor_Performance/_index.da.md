@@ -120,8 +120,6 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2248"  >}}
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -153,6 +151,12 @@ Vigtige skærmdetaljer:
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
+
+### Rat
+
+Polestar 3 Long Range Dual Motor Performance er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infotainment
 

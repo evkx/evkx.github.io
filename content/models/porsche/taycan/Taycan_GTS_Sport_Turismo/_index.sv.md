@@ -152,8 +152,6 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -185,6 +183,12 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
+
+### Ratt
+
+Porsche Taycan GTS Sport Turismo är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

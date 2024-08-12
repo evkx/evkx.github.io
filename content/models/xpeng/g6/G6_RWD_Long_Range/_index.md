@@ -115,8 +115,6 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 - height adjustable headrest
 
-There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
-
 ## Climate system
 
 There is one climate system available.
@@ -148,6 +146,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/screens_1_st.jpg" title="XPENG G6 RWD Long Range" width="3000" height="1546"  >}}
+
+### Steering Wheel
+
+The XPENG G6 RWD Long Range is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

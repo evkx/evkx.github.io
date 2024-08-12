@@ -119,8 +119,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -149,6 +147,12 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
+
+### Ratt
+
+Kia EV3 Long Range er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

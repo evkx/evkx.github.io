@@ -109,8 +109,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -135,6 +133,12 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
+
+### Ratt
+
+Dacia Spring 65HP är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

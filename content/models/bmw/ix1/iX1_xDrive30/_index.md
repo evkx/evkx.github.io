@@ -136,8 +136,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/secondrowseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-There is only one type of steering wheel available. The stock steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
-
 ## Climate system
 
 There is one climate system available.
@@ -168,6 +166,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
+
+### Steering Wheel
+
+The BMW iX1 xDrive30 is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

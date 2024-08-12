@@ -110,8 +110,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -141,6 +139,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
+
+### Volante
+
+El Smart #3 Brabus está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

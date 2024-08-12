@@ -109,8 +109,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -141,6 +139,12 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/screens_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2249"  >}}
+
+### Volante
+
+El Volvo EX40 Twin Motor está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

@@ -111,8 +111,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -142,6 +140,12 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 10,1 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+### Rat
+
+Renault 5 E-Tech 52kWh 150hp er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

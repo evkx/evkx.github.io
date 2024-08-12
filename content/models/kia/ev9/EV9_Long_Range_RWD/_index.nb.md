@@ -142,8 +142,6 @@ Den tredje raden har en to-seters benk med en 50:50-deling. Igjen kan du legge n
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="1350" height="900"  >}}
 
-Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -176,6 +174,12 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/screens_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
+
+### Ratt
+
+Kia EV9 Long Range RWD er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har valgfri integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

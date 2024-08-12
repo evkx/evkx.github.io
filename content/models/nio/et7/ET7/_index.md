@@ -139,8 +139,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -168,6 +166,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/nio/et7/et7/screens_1_st.jpg" title="Nio ET7" width="1390" height="758"  >}}
+
+### Steering Wheel
+
+The Nio ET7 is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

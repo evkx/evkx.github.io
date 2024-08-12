@@ -123,8 +123,6 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 
 Den tredje raden har en tre-seters benk med en 60:40 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -155,6 +153,12 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
+
+### Ratt
+
+Cadillac ESCALADE IQ er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

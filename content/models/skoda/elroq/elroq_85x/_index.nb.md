@@ -116,8 +116,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -146,6 +144,12 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 13,0 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+### Ratt
+
+SKODA Elroq 85x er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

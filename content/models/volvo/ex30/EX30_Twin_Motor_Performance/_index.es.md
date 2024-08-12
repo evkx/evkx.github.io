@@ -116,8 +116,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -148,6 +146,12 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2776"  >}}
+
+### Volante
+
+El Volvo EX30 Twin Motor Performance está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

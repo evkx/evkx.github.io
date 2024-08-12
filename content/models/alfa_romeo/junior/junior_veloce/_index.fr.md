@@ -116,8 +116,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
-Il n'y a qu'un seul type de volant disponible.
-
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -141,6 +139,12 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 10,3 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+
+### Volant
+
+Le Alfa Romeo Junior Veloce est équipé d'un seul type de volant :
+
+- **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ## Infodivertissement
 

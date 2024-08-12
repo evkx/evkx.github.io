@@ -158,8 +158,6 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 
 Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -187,6 +185,12 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
+
+### Rat
+
+Nio EL8 er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

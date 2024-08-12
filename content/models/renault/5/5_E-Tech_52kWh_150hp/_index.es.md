@@ -111,8 +111,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -142,6 +140,12 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+### Volante
+
+El Renault 5 E-Tech 52kWh 150hp está equipado con un solo tipo de volante:
+
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 

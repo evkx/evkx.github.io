@@ -130,8 +130,6 @@ Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -165,6 +163,12 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
+
+### Ratt
+
+Tesla Model Y Long Range er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også to multifunksjonelle rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 

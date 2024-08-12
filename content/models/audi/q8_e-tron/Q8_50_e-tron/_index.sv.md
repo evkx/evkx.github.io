@@ -189,8 +189,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2250"  >}}
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -225,6 +223,12 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/screens_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
+
+### Ratt
+
+Audi Q8 50 e-tron är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

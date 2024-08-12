@@ -101,8 +101,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -134,6 +132,12 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
+
+### Volante
+
+El MG Cyberster AWD Long Range está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 

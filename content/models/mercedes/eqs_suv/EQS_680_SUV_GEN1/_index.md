@@ -142,8 +142,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -177,6 +175,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
+
+### Steering Wheel
+
+The Mercedes-Maybach EQS 680 SUV is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

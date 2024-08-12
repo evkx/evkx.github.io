@@ -129,8 +129,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -159,6 +157,12 @@ Detalles clave de la pantalla:
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
+
+### Volante
+
+El Opel Frontera está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 

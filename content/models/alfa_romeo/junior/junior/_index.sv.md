@@ -116,8 +116,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/secondrowseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -141,6 +139,12 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 10,3 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+
+### Ratt
+
+Alfa Romeo Junior är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

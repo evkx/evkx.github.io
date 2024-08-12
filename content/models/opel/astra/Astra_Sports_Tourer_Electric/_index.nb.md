@@ -112,8 +112,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 - høydejusterbar hodestøtte
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -143,6 +141,12 @@ Viktige skjermdetaljer:
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/screens_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
+
+### Ratt
+
+Opel Astra Sports Tourer Electric er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

@@ -120,8 +120,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2248"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -153,6 +151,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
+
+### Volante
+
+El Polestar 3 Long Range Dual Motor Performance está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

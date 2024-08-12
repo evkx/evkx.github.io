@@ -190,8 +190,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -226,6 +224,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
+
+### Volante
+
+El Audi Q8 e-tron edition Dakar está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

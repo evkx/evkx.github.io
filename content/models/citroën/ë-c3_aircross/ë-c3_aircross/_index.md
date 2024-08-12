@@ -139,8 +139,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -169,6 +167,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
+
+### Steering Wheel
+
+The Citroën ë-C3 Aircross is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

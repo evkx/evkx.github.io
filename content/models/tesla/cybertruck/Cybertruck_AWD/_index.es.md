@@ -133,8 +133,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -166,6 +164,12 @@ Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimi
 El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/screens_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
+
+### Volante
+
+El Tesla Cybertruck AWD está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

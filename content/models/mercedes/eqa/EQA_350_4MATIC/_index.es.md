@@ -134,8 +134,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - reposacabezas ajustable en altura
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -165,6 +163,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
+
+### Volante
+
+El Mercedes-EQ EQA 350 4MATIC está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 

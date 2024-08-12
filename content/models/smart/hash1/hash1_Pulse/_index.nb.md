@@ -110,8 +110,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -141,6 +139,12 @@ Viktige skjermdetaljer:
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
+
+### Ratt
+
+Smart #1 Pulse er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

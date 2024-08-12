@@ -108,8 +108,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -141,6 +139,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
+
+### Steering Wheel
+
+The GMC Hummer EV Edition 1 Pickup is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

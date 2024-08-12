@@ -116,8 +116,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 - höjdjusterbart nackstöd
 
-Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -148,6 +146,12 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/screens_1_st.jpg" title="XPENG G6 AWD Performance" width="3000" height="1546"  >}}
+
+### Ratt
+
+XPENG G6 AWD Performance är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 

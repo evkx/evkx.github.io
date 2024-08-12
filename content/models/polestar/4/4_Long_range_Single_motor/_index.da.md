@@ -117,8 +117,6 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -148,6 +146,12 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+### Rat
+
+Polestar 4 Long range Single motor er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infotainment
 

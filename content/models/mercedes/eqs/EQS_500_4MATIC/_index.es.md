@@ -151,8 +151,6 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2250"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -193,6 +191,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1875"  >}}
+
+### Volante
+
+El Mercedes-EQ EQS 500 4MATIC está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 

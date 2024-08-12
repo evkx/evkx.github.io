@@ -116,8 +116,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -149,6 +147,12 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="1600" height="1067"  >}}
+
+### Rat
+
+Rivian R1T Performance Dual-Motor AWD MP er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

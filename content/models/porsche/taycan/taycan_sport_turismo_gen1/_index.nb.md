@@ -170,8 +170,6 @@ Alternativet second er to integrerte seter i andre rad med et tredje mindre sete
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -203,6 +201,12 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="2001"  >}}
+
+### Ratt
+
+Porsche Taycan Sport Turismo (GEN1) er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

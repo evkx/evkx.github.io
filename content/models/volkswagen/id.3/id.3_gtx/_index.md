@@ -133,8 +133,6 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 - height adjustable headrest
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -166,6 +164,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
+
+### Steering Wheel
+
+The Volkswagen ID.3 GTX is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

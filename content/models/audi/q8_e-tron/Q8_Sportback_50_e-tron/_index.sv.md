@@ -185,8 +185,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - höjdjusterbart nackstöd
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -219,6 +217,12 @@ Viktiga skärmdetaljer:
 - Skärmen touch botten av mittkonsolen är 8,6 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+
+### Ratt
+
+Audi Q8 Sportback 50 e-tron är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

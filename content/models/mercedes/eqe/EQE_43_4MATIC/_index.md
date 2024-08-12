@@ -142,8 +142,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -186,6 +184,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}
+
+### Steering Wheel
+
+The Mercedes-AMG EQE 43 4MATIC is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

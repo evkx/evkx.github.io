@@ -115,8 +115,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -147,6 +145,12 @@ Vigtige skærmdetaljer:
 Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="3000" height="2249"  >}}
+
+### Rat
+
+Volvo XC40 Recharge Single Motor ER er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infotainment
 

@@ -121,8 +121,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/secondrowseats_1_st.jpeg" title="XPENG G9 RWD Long Range" width="3000" height="1687"  >}}
 
-Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -155,6 +153,12 @@ Viktiga skärmdetaljer:
 Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/screens_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
+
+### Ratt
+
+XPENG G9 RWD Long Range är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 

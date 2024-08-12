@@ -179,8 +179,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
-
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -209,6 +207,12 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 14,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+
+### Ratt
+
+BMW i4 eDrive40 är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt har valfri integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

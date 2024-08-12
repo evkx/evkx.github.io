@@ -106,8 +106,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2004"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -137,6 +135,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
+
+### Steering Wheel
+
+The MG MG5 Electric Long Range is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

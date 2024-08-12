@@ -125,8 +125,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="2400"  >}}
 
-There is only one type of steering wheel available. The  steering wheel is heated, and you can control the audio system with buttons on the steering wheel.
-
 ## Climate system
 
 There is one climate system available.
@@ -155,6 +153,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/screens_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="2003"  >}}
+
+### Steering Wheel
+
+The Kia EV6 Standard Range 2WD is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

@@ -122,8 +122,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -155,6 +153,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1800"  >}}
+
+### Steering Wheel
+
+The Hongqi E-HS9 Exclusive is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

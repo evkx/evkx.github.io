@@ -115,8 +115,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/secondrowseats_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1706"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -144,6 +142,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/screens_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1015"  >}}
+
+### Steering Wheel
+
+The MG ZS EV Standard Range is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

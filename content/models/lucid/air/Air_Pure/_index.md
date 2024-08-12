@@ -118,8 +118,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/secondrowseats_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -153,6 +151,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
+
+### Steering Wheel
+
+The Lucid Air Pure is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

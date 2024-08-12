@@ -110,8 +110,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Två klimatsystemalternativ är tillgängliga:
@@ -141,6 +139,12 @@ Viktiga skärmdetaljer:
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
+
+### Ratt
+
+Smart #3 Brabus är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

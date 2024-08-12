@@ -117,8 +117,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -148,6 +146,12 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 15,4 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+### Volante
+
+El Polestar 4 Long range Dual motor está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

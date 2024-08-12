@@ -140,8 +140,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -173,6 +171,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
+
+### Steering Wheel
+
+The Rivian R1S Quad-Motor AWD MP is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

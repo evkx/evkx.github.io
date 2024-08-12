@@ -130,8 +130,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 
 La troisième rangée est dotée d'une banquette à deux places divisée en 40:60. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
 
-Il n'y a qu'un seul type de volant disponible.
-
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -163,6 +161,12 @@ Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit 
 Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
+
+### Volant
+
+Le Volvo EM90 est équipé d'un seul type de volant :
+
+- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 

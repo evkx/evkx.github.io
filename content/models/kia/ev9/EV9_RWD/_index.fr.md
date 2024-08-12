@@ -142,8 +142,6 @@ La troisième rangée est dotée d'une banquette à deux places divisée en 50:5
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 RWD" width="1350" height="900"  >}}
 
-Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
-
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -176,6 +174,12 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/screens_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
+
+### Volant
+
+Le Kia EV9 RWD est équipé d'un seul type de volant :
+
+- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ## Infodivertissement
 

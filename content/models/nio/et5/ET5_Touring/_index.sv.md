@@ -143,8 +143,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -170,6 +168,12 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av mittkonsolen är 12,3 tum
 
 Modellen är inte tillgänglig med head-up display.
+
+### Ratt
+
+Nio ET5 Touring är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 

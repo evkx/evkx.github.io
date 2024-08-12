@@ -138,8 +138,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - height adjustable headrest
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -171,6 +169,12 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.0 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
+
+### Steering Wheel
+
+The Volkswagen ID.7 GTX is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

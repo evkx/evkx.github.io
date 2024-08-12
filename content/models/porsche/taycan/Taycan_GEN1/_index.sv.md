@@ -174,8 +174,6 @@ Alternativet second är två integrerade säten i andra raden med en tredje mind
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-Det finns bara en typ av ratt tillgänglig.
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
@@ -207,6 +205,12 @@ Viktiga skärmdetaljer:
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/screens_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="1870"  >}}
+
+### Ratt
+
+Porsche Taycan (GEN1) är utrustad med en enda typ av ratt:
+
+- **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
 ## Infotainment
 

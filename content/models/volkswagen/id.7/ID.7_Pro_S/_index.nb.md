@@ -136,8 +136,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -171,6 +169,12 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/screens_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
+
+### Ratt
+
+Volkswagen ID.7 Pro S er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

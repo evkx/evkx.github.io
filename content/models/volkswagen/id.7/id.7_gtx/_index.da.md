@@ -138,8 +138,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - højdejusterbar nakkestøtte
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -171,6 +169,12 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 15,0 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+### Rat
+
+Volkswagen ID.7 GTX er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

@@ -129,8 +129,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -156,6 +154,12 @@ Key screen details:
 - The touch screen in the middle of the center console is 15.6 inches large
 For the rear seat passengers there are infotainment screens in the back of the first row seats
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+
+### Steering Wheel
+
+The Nio ET9 is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

@@ -116,8 +116,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -149,6 +147,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="1600" height="1067"  >}}
+
+### Steering Wheel
+
+The Rivian R1T Performance Dual-Motor AWD MP is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

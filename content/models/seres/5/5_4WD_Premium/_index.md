@@ -119,8 +119,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -147,6 +145,12 @@ Key screen details:
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
+
+### Steering Wheel
+
+The Seres 5 4WD Premium is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

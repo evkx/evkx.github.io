@@ -129,8 +129,6 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
-Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
-
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -161,6 +159,12 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
+
+### Rat
+
+BMW i7 M70 xDrive er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infotainment
 

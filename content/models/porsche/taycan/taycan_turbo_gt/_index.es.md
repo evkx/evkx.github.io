@@ -139,8 +139,6 @@ La opción second son dos asientos integrados en la segunda fila con un tercer a
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -172,6 +170,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/screens_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
+
+### Volante
+
+El Porsche Taycan Turbo GT está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ## Infoentretenimiento
 

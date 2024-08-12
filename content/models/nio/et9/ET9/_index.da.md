@@ -129,8 +129,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
@@ -156,6 +154,12 @@ Vigtige skærmdetaljer:
 - Skærmen touch i midten af midterkonsollen er 15,6 tommer stor
 For bagsædepassagererne er der infotainmentskærme bagerst på sæderne på første række
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
+
+### Rat
+
+Nio ET9 er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 

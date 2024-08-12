@@ -137,8 +137,6 @@ Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_35_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 35 e-tron" width="3000" height="2001"  >}}
 
-Der er kun én type rat tilgængelig.
-
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
@@ -171,6 +169,12 @@ Vigtige skærmdetaljer:
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_35_e-tron/screens_1_st.jpg" title="Audi Q4 Sportback 35 e-tron" width="3000" height="2001"  >}}
+
+### Rat
+
+Audi Q4 Sportback 35 e-tron er udstyret med en enkelt type rat:
+
+- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infotainment
 

@@ -117,8 +117,6 @@ Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan fol
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -148,6 +146,12 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+### Ratt
+
+Polestar 4 Long range Dual motor er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

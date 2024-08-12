@@ -147,8 +147,6 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2001"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -189,6 +187,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
+
+### Steering Wheel
+
+The Mercedes-EQ EQS 450+ SUV is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

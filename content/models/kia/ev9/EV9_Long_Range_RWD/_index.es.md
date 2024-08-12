@@ -142,8 +142,6 @@ La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamen
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="1350" height="900"  >}}
 
-Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -176,6 +174,12 @@ Detalles clave de la pantalla:
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/screens_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
+
+### Volante
+
+El Kia EV9 Long Range RWD está equipado con un solo tipo de volante:
+
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infoentretenimiento
 

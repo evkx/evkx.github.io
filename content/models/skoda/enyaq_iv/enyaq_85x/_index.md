@@ -118,8 +118,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="1945"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -150,6 +148,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/screens_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="1999"  >}}
+
+### Steering Wheel
+
+The SKODA ENYAQ 85x is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

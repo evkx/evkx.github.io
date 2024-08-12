@@ -129,8 +129,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -156,6 +154,12 @@ Detalles clave de la pantalla:
 - La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño
 Para los pasajeros de los asientos traseros hay pantallas de infoentretenimiento en la parte trasera de los asientos de la primera fila
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+### Volante
+
+El Nio ET9 está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 

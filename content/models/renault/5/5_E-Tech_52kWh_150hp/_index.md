@@ -111,8 +111,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -142,6 +140,12 @@ Key screen details:
 - The touch screen on the dashboard's center is 10.1 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
+
+### Steering Wheel
+
+The Renault 5 E-Tech 52kWh 150hp is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

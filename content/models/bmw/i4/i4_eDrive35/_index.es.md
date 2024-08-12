@@ -179,8 +179,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
-
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
@@ -209,6 +207,12 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+### Volante
+
+El BMW i4 eDrive35 está equipado con un solo tipo de volante:
+
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ## Infoentretenimiento
 

@@ -125,8 +125,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="2400"  >}}
 
-Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
-
 ## Système de climatisation
 
 Un système climatique est disponible.
@@ -155,6 +153,12 @@ Détails clés de l'écran :
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/screens_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="2003"  >}}
+
+### Volant
+
+Le Kia EV6 Standard Range 2WD est équipé d'un seul type de volant :
+
+- **Volant Circulaire** : Ce volant dispose d'un chauffage intégré en option pour un confort accru par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ## Infodivertissement
 

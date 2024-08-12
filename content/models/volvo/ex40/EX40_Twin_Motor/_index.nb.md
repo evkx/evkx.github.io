@@ -109,8 +109,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
@@ -141,6 +139,12 @@ Viktige skjermdetaljer:
 Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/screens_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2249"  >}}
+
+### Ratt
+
+Volvo EX40 Twin Motor er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

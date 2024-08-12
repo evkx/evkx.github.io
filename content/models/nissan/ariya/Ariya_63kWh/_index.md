@@ -123,8 +123,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -156,6 +154,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
+
+### Steering Wheel
+
+The Nissan Ariya 63kWh is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 

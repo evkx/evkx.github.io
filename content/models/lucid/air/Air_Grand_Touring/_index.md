@@ -122,8 +122,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/secondrowseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2077"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -157,6 +155,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/screens_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1999"  >}}
+
+### Steering Wheel
+
+The Lucid Air Grand Touring is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

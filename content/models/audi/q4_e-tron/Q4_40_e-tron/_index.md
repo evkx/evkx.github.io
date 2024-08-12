@@ -149,8 +149,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/secondrowseats_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2000"  >}}
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 Two climate system options are available:
@@ -183,6 +181,12 @@ Key screen details:
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/screens_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1686"  >}}
+
+### Steering Wheel
+
+The Audi Q4 40 e-tron is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 

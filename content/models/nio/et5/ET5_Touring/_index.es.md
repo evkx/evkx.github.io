@@ -143,8 +143,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-Sólo hay un tipo de volante disponible.
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
@@ -170,6 +168,12 @@ Detalles clave de la pantalla:
 - La touch pantalla en el medio de la consola central mide 12,3 pulgadas de tamaño
 
 El modelo no tiene head-up display.
+
+### Volante
+
+El Nio ET5 Touring está equipado con un solo tipo de volante:
+
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.
 

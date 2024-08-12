@@ -137,8 +137,6 @@ Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
 
-Det er bare én type ratt tilgjengelig.
-
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
@@ -171,6 +169,12 @@ Viktige skjermdetaljer:
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
+
+### Ratt
+
+Audi Q4 Sportback 45 e-tron quattro er utstyrt med en enkelt type ratt:
+
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ## Infotainment
 

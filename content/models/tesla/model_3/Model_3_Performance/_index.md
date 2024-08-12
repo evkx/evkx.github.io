@@ -125,8 +125,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - height adjustable headrest
 
-There is only one type of steering wheel available.
-
 ## Climate system
 
 There is one climate system available.
@@ -157,6 +155,12 @@ Key screen details:
 The model does not include a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
+
+### Steering Wheel
+
+The Tesla Model 3 Performance is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ## Infotainment
 
