@@ -1,6 +1,6 @@
 ---
-title: Battery basics
-linktitle: Battery basics
+title: Battery Basics
+linktitle: Battery Basics
 description: The fundamental principle of a lithium-ion (Li-ion) battery is that it generates electrical energy through an electrochemical reaction between two different metals with varying affinities for electrons.
 weight: 1
 ---
@@ -8,24 +8,22 @@ weight: 1
 
 A Li-ion battery consists of several key components: two electrodes (anode and cathode), a separator, an electrolyte, and two current collectors (positive and negative).
 
-
 {{<evkxdisplayaddarticle />}}
 
-### How it works:
+### How It Works:
 
 - **During Discharge:** When the battery discharges, a chemical reaction at the anode releases positive lithium ions into the electrolyte. The electrolyte then transports these lithium ions to the cathode.
-- The anode undergoes oxidation, losing lithium atoms and releasing electrons, which accumulate in the anode, making it negatively charged.- This process is known as oxidation.
-- Simultaneously, the cathode undergoes reduction, gaining lithium ions from the electrolyte and electrons from the external circuit, making it positively charged. This process is known as reduction.
+- The anode undergoes oxidation, losing lithium atoms and releasing electrons, which accumulate in the anode, making it negatively charged.
+- Simultaneously, the cathode undergoes reduction, gaining lithium ions from the electrolyte and electrons from the external circuit, making it positively charged.
 
 <figure>
 <img src="batteryconcept.drawio.svg" class="img-fluid mx-auto d-block">
 <figcaption>
-        <p class="lead text-center fw-semibold">
-            Battery concept
-        </p>
-    </figcaption>
+    <p class="lead text-center fw-semibold">
+        Battery Concept
+    </p>
+</figcaption>
 </figure>
-
 
 - **Charge Difference:** The anode becomes negatively charged due to the buildup of electrons, while the cathode becomes positively charged due to the influx of lithium ions.
 - This charge difference creates a potential difference, measured in volts, which depends on the battery's state of charge (SOC) and its specific chemistry. For instance, a typical lithium-ion cell has a voltage range of 3.2 to 4.2 volts.
@@ -33,7 +31,6 @@ A Li-ion battery consists of several key components: two electrodes (anode and c
 ### External Circuit:
 
 In an electric vehicle (EV), this potential difference can be harnessed by creating an external circuit through an electric motor or other electronic components. Electrons flow from the anode to the cathode through this external circuit, driving the motor and powering the vehicle.
-
 
 ### Current Collectors:
 
@@ -43,7 +40,4 @@ For those interested in a deeper understanding of how a lithium-ion battery func
 
 {{< youtube 4-1psMHSpKs >}}
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> EV Batteries intro </strong></a>
-    <a href="../cellchemistry/" class="text-decoration-none text-black float-end"><strong>Cell chemistry and parts <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="EV Batteries Intro" f_url="../cellchemistry/" f_title="Cell Chemistry and Parts" >}}

@@ -19,21 +19,17 @@ By the end of this article, you will gain a deeper understanding of the current 
 
 To facilitate your reading, we have divided the article into the following sections:
 
-- [Battery Basics](basic/) - The fundamental concepts of a battery
+- [Battery Basics](basic/) - Fundamental concepts of a battery
 - [Cell Chemistry & Parts](cellchemistry/) - A deep dive into the different chemistries and components of battery cells
 - [Cell Housing](cell/) - An exploration of various cell housings, including pouch, prismatic, blade, and cylindrical designs
-- [Battery Pack & configuration](batterypack/) - Comparing 400 volts vs. 800 volts, and examining cell-to-module vs. cell-to-pack configurations
-- [Battery management system (BMS)](batterymanagment/) - Understanding the "brain" of the battery system
-- [Thermal management](thermalmanagement/) - The importance of thermal management for performance and how it works
+- [Battery Pack & Configuration](batterypack/) - Comparing 400 volts vs. 800 volts, and examining cell-to-module vs. cell-to-pack configurations
+- [Battery Management System (BMS)](batterymanagment/) - Understanding the "brain" of the battery system
+- [Thermal Management](thermalmanagement/) - The importance of thermal management for performance and how it works
 - [Charging](charging/) - The mechanics of how EV batteries are charged
 - [Cell Balancing](cellbalancing/) - What cell balancing is and why it matters
-- [Degradation](degredation/) -  The process of battery degradation and strategies to mitigate it
+- [Degradation](degredation/) - The process of battery degradation and strategies to mitigate it
 - [Buffer](buffer/) - The concept of battery buffer and its significance
 - [Manufacturers](manufactors/) - Profiles of the largest battery producers in the industry
 - [Warranty](warranty/) - Typical battery warranties and what they cover
 
-
-<div class="mt-3 mb-3">
-    <a href="../doors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Doors</strong></a>
-    <a href="basic/" class="text-decoration-none text-black float-end"><strong>Battery Basics <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../doors/" b_title="Doors" f_url="basic/" f_title="Battery Basics" >}}
