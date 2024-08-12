@@ -92,7 +92,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-interior.intro.driverfocused.standard.splitlevel Vous pouvez choisir entre plusieurs aménagements intérieurs.
+Le Xiaomi SU7 Max dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de qualité moyenne utilisés partout. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 

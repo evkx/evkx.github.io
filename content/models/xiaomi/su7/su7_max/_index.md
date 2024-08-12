@@ -92,7 +92,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-interior.intro.driverfocused.standard.splitlevel You can choose between several interior designs.
+The Xiaomi SU7 Max boasts a driver-focused interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 

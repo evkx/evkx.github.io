@@ -92,7 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-interior.intro.driverfocused.standard.splitlevel Du kan vælge mellem flere interiørdesigns.
+Xiaomi SU7 Max har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af mellem kvalitet brugt overalt. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, mens den tilbyder praktisk opbevaring og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 

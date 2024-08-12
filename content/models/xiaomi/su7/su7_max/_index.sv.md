@@ -92,7 +92,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.intro.driverfocused.standard.splitlevel Du kan välja mellan flera inredningsdesigner.
+Xiaomi SU7 Max har en förarfokuserad interiör som förbättrar cockpitkänslan med material av medelkvalitet som används överallt. En framstående funktion är den delade mittkonsolen, som separerar föraren och passageraren samtidigt som den erbjuder praktisk förvaring och förbättrad funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
