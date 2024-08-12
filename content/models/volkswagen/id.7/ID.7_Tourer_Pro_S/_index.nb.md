@@ -174,6 +174,10 @@ Volkswagen ID.7 Tourer Pro S er utstyrt med en enkelt type ratt:
 
 - **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
+### Speil
+
+Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
 ## Infotainment
 
 Volkswagen ID.7 Tourer Pro S har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Volkswagen integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.

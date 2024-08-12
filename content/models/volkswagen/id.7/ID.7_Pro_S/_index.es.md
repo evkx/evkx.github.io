@@ -176,6 +176,10 @@ El Volkswagen ID.7 Pro S está equipado con un solo tipo de volante:
 
 - **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
 ## Infoentretenimiento
 
 El Volkswagen ID.7 Pro S cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, Volkswagen ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.

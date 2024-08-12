@@ -160,6 +160,10 @@ VinFast VF8 Plus er udstyret med en enkelt type rat:
 
 - **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
+### Spejle
+
+Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment

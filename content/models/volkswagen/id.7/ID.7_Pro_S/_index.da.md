@@ -176,6 +176,10 @@ Volkswagen ID.7 Pro S er udstyret med en enkelt type rat:
 
 - **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
+### Spejle
+
+Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
 ## Infotainment
 
 Volkswagen ID.7 Pro S har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Volkswagen integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.

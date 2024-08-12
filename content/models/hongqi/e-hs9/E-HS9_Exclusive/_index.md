@@ -160,6 +160,10 @@ The Hongqi E-HS9 Exclusive is equipped with a single type of steering wheel:
 
 - **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
+### Mirrors
+
+Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
 ## Infotainment

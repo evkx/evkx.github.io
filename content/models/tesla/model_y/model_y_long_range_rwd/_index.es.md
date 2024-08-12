@@ -170,6 +170,10 @@ El Tesla Model Y Long Range RWD está equipado con un solo tipo de volante:
 
 - **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También incluye dos ruedas de desplazamiento multifuncionales, que te permiten controlar el sistema de infoentretenimiento, ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento

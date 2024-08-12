@@ -180,6 +180,10 @@ El BMW i5 M60 xDrive Touring está equipado con un solo tipo de volante:
 
 - **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 Un sistema de control de gestos que te permite controlar funciones específicas usando tus manos.

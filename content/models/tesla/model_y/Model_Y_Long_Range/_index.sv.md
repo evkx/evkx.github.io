@@ -170,6 +170,10 @@ Tesla Model Y Long Range är utrustad med en enda typ av ratt:
 
 - **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det inkluderar även två multifunktionella rullhjul som gör det möjligt att styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
+### Speglar
+
+Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment

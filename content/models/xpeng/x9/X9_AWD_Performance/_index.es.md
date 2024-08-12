@@ -147,6 +147,10 @@ El XPENG X9 AWD Performance está equipado con un solo tipo de volante:
 
 - **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
 ## Infoentretenimiento
 
 ### Sistema de sonido

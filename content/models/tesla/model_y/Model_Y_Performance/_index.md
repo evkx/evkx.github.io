@@ -170,6 +170,10 @@ The Tesla Model Y Performance is equipped with a single type of steering wheel:
 
 - **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
+### Mirrors
+
+Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment

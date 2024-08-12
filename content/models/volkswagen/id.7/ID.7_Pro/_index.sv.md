@@ -176,6 +176,10 @@ Volkswagen ID.7 Pro är utrustad med en enda typ av ratt:
 
 - **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
+### Speglar
+
+Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
 ## Infotainment
 
 Volkswagen ID.7 Pro har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Volkswagen integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.

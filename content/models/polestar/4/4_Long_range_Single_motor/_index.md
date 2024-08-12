@@ -153,6 +153,10 @@ The Polestar 4 Long range Single motor is equipped with a single type of steerin
 
 - **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
+### Mirrors
+
+Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+
 ## Infotainment
 
 ### Sound system

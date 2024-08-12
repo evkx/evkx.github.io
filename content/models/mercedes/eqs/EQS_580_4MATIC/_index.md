@@ -194,6 +194,10 @@ The Mercedes-EQ EQS 580 4MATIC is equipped with a single type of steering wheel:
 
 - **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
+### Mirrors
+
+Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
 This model also has an optional gesture control system that lets you control specific features.

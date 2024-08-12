@@ -160,6 +160,10 @@ Xiaomi SU7 Max er utstyrt med en enkelt type ratt:
 
 - **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også fysiske knapper og rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
 
+### Speil
+
+Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
 ## Infotainment
 
 ### Navigasjonssystem

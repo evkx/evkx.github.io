@@ -184,6 +184,10 @@ El BMW i7 xDrive60 está equipado con un solo tipo de volante:
 
 - **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
+### Espejos
+
+Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
 ## Infoentretenimiento
 
 ### Sistema de navegación

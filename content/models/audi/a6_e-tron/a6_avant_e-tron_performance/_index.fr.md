@@ -194,6 +194,10 @@ Le Audi A6 Avant e-tron performance est équipé d'un seul type de volant :
 
 - **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
+### Rétroviseurs
+
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
 ## Infodivertissement

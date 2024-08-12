@@ -174,6 +174,10 @@ Le Volkswagen ID.7 Tourer Pro est équipé d'un seul type de volant :
 
 - **Volant Circulaire** : Ce volant offre un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
+### Rétroviseurs
+
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+
 ## Infodivertissement
 
 Le Volkswagen ID.7 Tourer Pro dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Volkswagen a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres complets du véhicule et bien plus encore.

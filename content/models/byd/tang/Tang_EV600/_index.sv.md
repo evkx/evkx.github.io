@@ -162,6 +162,10 @@ BYD Tang EV600 är utrustad med en enda typ av ratt:
 
 - **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
+### Speglar
+
+Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
 ## Infotainment
 
 ### Navigationssystem

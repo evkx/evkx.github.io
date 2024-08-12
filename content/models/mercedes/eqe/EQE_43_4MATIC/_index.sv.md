@@ -187,6 +187,10 @@ Mercedes-AMG EQE 43 4MATIC är utrustad med en enda typ av ratt:
 
 - **Cirkulärt Ratt**: Detta ratt ger intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
 
+### Speglar
+
+Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.
 
 Denna modell har också ett valfritt gestkontrollsystem som låter dig styra specifika funktioner.

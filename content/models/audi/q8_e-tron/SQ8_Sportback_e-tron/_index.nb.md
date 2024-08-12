@@ -201,6 +201,10 @@ Audi SQ8 Sportback e-tron er utstyrt med en enkelt type ratt:
 
 - **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
+### Speil
+
+Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
 ## Infotainment
 
 ### Navigasjonssystem

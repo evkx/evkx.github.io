@@ -153,6 +153,10 @@ XPENG G6 RWD Long Range er utstyrt med en enkelt type ratt:
 
 - **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
+### Speil
+
+Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment

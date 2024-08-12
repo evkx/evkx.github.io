@@ -160,6 +160,10 @@ Le Xiaomi SU7 Max est équipé d'un seul type de volant :
 
 - **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des molettes, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
+### Rétroviseurs
+
+Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+
 ## Infodivertissement
 
 ### Système de navigation
