@@ -6,55 +6,50 @@ weight: 9
 ---
 <!-- markdownlint-disable MD033 -->
 
-One of the primary causes of battery degradation in EVs is the chemical reactions that occur during charging and discharging cycles. Over time, these reactions can cause physical changes to the battery's electrodes and electrolyte, leading to a reduction in the battery's capacity or performance.
+Battery degradation in EVs is primarily caused by chemical reactions during charging and discharging cycles. Over time, these reactions can lead to physical changes in the battery's electrodes and electrolyte, reducing its capacity and performance.
 
-Exposure to high temperatures can also accelerate battery degradation in EVs, as can charging or discharging the battery to extreme levels. Additionally, frequent use of fast charging can cause increased wear on the battery, which can also contribute to degradation over time.
-
-While it may not be possible to completely prevent battery degradation in EVs, there are steps that can be taken to slow its progression and extend the lifespan of the battery. For example, avoiding exposure to high temperatures, limiting the depth of discharge, and reducing the frequency of charging and discharging cycles can all help to minimize the impact of degradation. Additionally, using a battery management system (BMS) that actively monitors and regulates the battery's performance can help to optimize its lifespan and performance.
+High temperatures, extreme levels of charging or discharging, and frequent use of fast charging can accelerate battery degradation. However, there are steps to slow its progression and extend the battery's lifespan. These include avoiding high temperatures, limiting the depth of discharge, and reducing the frequency of charging and discharging cycles. Additionally, using a battery management system (BMS) that actively monitors and regulates the battery's performance can help optimize its lifespan and performance.
 
 ## Calendar Aging
 
-Calendar aging is a type of battery degradation that occurs in EV batteries over time, even when they are not in use. Unlike cycle aging, which occurs as a result of repeated charging and discharging cycles, calendar aging is caused by a combination of factors such as temperature, humidity, and time.
+Calendar aging refers to battery degradation that occurs over time, even when the battery is not in use. Unlike cycle aging, which results from repeated charging and discharging cycles, calendar aging is influenced by factors such as temperature, humidity, and time.
 
-During calendar aging, the battery's chemistry can change, which can cause a gradual loss of capacity and an increase in internal resistance. This can result in a reduced driving range for the EV, as well as a shorter overall lifespan for the battery.
+During calendar aging, the battery's chemistry can change, leading to a gradual loss of capacity and an increase in internal resistance. This can reduce the EV's driving range and shorten the battery's overall lifespan.
 
-High temperatures can accelerate the rate of calendar aging, which is why it is important to store EV batteries in a cool, dry place when not in use. Additionally, charging the battery to a high state of charge and leaving it in a fully charged state for extended periods can also contribute to calendar aging.
+High temperatures can accelerate calendar aging, so it is important to store EV batteries in a cool, dry place when not in use. Additionally, charging the battery to a high state of charge and leaving it fully charged for extended periods can contribute to calendar aging.
 
-To prevent or minimize the impact of calendar aging on EV batteries, it is recommended to follow manufacturer guidelines for battery storage and charging.
+To minimize the impact of calendar aging, follow the manufacturer's guidelines for battery storage and charging.
 
 {{< sitefiguresized thumb="guides/degradation/evstoragestress_st.png" width="623" height="473" title="Storage stress" >}}
 
-## Cycle aging
+## Cycle Aging
 
-Cycle aging is a type of battery degradation that occurs in EV batteries as a result of repeated charging and discharging cycles. Each cycle can cause some wear and tear on the battery, which can lead to a gradual loss of capacity and performance over time.
+Cycle aging occurs as a result of repeated charging and discharging cycles. Each cycle can cause wear and tear on the battery, leading to a gradual loss of capacity and performance over time.
 
-{{<evkxdisplayaddarticle />}}
+{{< evkxdisplayaddarticle />}}
 
-During cycle aging, the active materials in the electrodes can degrade and lose their ability to store and release energy. This can cause an increase in the battery's internal resistance, which can reduce the battery's capacity and overall performance. Additionally, cycle aging can cause physical changes to the battery, such as the formation of solid-electrolyte interface (SEI) layers or the growth of dendrites, which can further reduce the battery's capacity and performance.
+During cycle aging, the active materials in the electrodes can degrade, losing their ability to store and release energy. This can increase the battery's internal resistance, reducing its capacity and overall performance. Additionally, cycle aging can cause physical changes to the battery, such as the formation of solid-electrolyte interface (SEI) layers or the growth of dendrites, further reducing the battery's capacity and performance.
 
-### Cycle aging based on SOC area
+### Cycle Aging Based on SOC Area
 
-The below diagram shows how the SOC area used when charging/discharging affect the degradation
+The diagram below shows how the state of charge (SOC) area used during charging and discharging affects degradation.
 
 {{< sitefiguresized thumb="guides/degradation/dstcycles_st.png" width="570" height="456" title="Cycle stress" >}}
 
-### Charging speed effect on cycle aging
+### Charging Speed Effect on Cycle Aging
 
-The most important factor for cycle charging is the charging speed. High-speed DC charging increases  the effect called lithium plating that converts the lithium ions to lithium metal.
+The most important factor for cycle aging is the charging speed. High-speed DC charging increases the effect called lithium plating, which converts lithium ions to lithium metal.
 
-When this happens the available ions in the battery are reduced. Higher speed charging increases the number of lithium ions that are not able to reach the anode. This is again caused by limitations on the chemistry process. If you want to learn more about lithium plating you can read [this presentation](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) from Nasa.
+When lithium plating occurs, the available ions in the battery are reduced. Higher-speed charging increases the number of lithium ions that cannot reach the anode due to limitations in the chemical process. For more information on lithium plating, you can read [this presentation](https://www.nasa.gov/sites/default/files/atoms/files/1-lithium_plating_azimmerman.pdf) from NASA.
 
-### Real world degredation statistics
+### Real-World Degradation Statistics
 
-Tesla has in the [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) given their most updated data on the Model S and Model X.
+Tesla's [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) provides updated data on the Model S and Model X.
 
 {{< sitefiguresized thumb="technology/battery/degradation/teslastats_1_st.png" width="991" height="550" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
 
-## How to preserve battery
+## How to Preserve Battery
 
-Read how to preserver your battery in our [guide](../../../guides/protectingbattery/).
+Read our [guide](../../../guides/protectingbattery/) on how to preserve your battery.
 
-<div class="mt-3 mb-3">
-    <a href="../charging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Charging</strong></a>
-    <a href="../buffer/" class="text-decoration-none text-black float-end"><strong>Buffer <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../charging/" b_title="Charging" f_url="../buffer/" f_title="Buffer" >}}
