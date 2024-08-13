@@ -30,7 +30,7 @@ The Volkswagen ID.3 GTX delivers a solid performance with a maximum power of 210
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing a 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 79.0 kWh, providing a 3.0 kWh buffer (3.7%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 miles), with an energy consumption rate of 13.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The standard suspension has steel springs with a fixed height but an optional da
 
 ### Steering
 
-Dynamic steering is an optional feature on the Volkswagen ID.3 GTX. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Volkswagen ID.3 GTX, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -72,12 +72,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Volkswagen ID.3 GTX, with dimensions of 4264 mm in length, 1809 mm in width, and 1564 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 GTX is available in a total of 5 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-You can select from multiple wheel options in different sizes on the Volkswagen ID.3 GTX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volkswagen ID.3 GTX offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/45 tires on 20" rims
 - 235/40 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

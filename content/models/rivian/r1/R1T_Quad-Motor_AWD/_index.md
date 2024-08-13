@@ -30,7 +30,7 @@ The Rivian R1T Quad-Motor AWD delivers a jaw-dropping maximum power of 620 KW (8
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 135 kWh and a net usable capacity of 125 kWh, providing a 10 kWh buffer (7.4%) for battery protection.
+The high-capacity battery has a gross capacity of 135.0 kWh and a net usable capacity of 125.0 kWh, providing a 10.0 kWh buffer (7.4%) for battery protection.
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 289 miles (516-465 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.6 mi/kWh for the base model and 2.3 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
@@ -61,7 +61,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343 mm, and the rear discs are 328 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -73,7 +73,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1T Quad-Motor AWD is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Rivian R1T Quad-Motor AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Rivian R1T Quad-Motor AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 

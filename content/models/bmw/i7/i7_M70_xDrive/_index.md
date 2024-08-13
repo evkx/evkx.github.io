@@ -30,7 +30,7 @@ The BMW i7 M70 xDrive packs an impressive punch with a maximum power of 485 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105,7 kWh and a net usable capacity of 101,7 kWh, providing a 4,0 kWh buffer (3.8%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 105.7 kWh and a net usable capacity of 101.7 kWh, providing a 4.0 kWh buffer (3.8%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 560 to 488 km (348-303 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.2 kWh/100 km for the base model and 20.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW i7 M70 xDrive. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the BMW i7 M70 xDrive, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -70,13 +70,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The BMW i7 M70 xDrive, with dimensions of 5391 mm in length, 1950 mm in width, and 1544 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 12 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the BMW i7 M70 xDrive, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The BMW i7 M70 xDrive offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 285/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.
 

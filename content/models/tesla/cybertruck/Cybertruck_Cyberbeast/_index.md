@@ -30,7 +30,7 @@ The Tesla Cybertruck Cyberbeast delivers a jaw-dropping maximum power of 630 KW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing a 0,5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 123.0 kWh and a net usable capacity of 122.5 kWh, providing a 0.5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 320 miles (515 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,11 +60,11 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Cybertruck Cyberbeast. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Tesla Cybertruck Cyberbeast, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 

@@ -30,7 +30,7 @@ The Mercedes-AMG EQE 43 4MATIC SUV delivers a solid performance with a maximum p
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 96,12 kWh and a net usable capacity of 90,6 kWh, providing a 5,52 kWh buffer (5.7%) for battery protection. With a nominal voltage of 328 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 96.1 kWh and a net usable capacity of 90.6 kWh, providing a 5.5 kWh buffer (5.7%) for battery protection. With a nominal voltage of 328 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 488 to 431 km (303-268 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.6 kWh/100 km for the base model and 21.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Mercedes-AMG EQE 43 4MATIC SUV. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Mercedes-AMG EQE 43 4MATIC SUV, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -74,19 +74,19 @@ The maximum regenerative power is 260 kW.
 
 The Mercedes-AMG EQE 43 4MATIC SUV, with dimensions of 4879 mm in length, 1931 mm in width, and 1672 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Mercedes-AMG EQE 43 4MATIC SUV offers a selection of 7 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-You can select from multiple wheel options in different sizes on the Mercedes-AMG EQE 43 4MATIC SUV, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Mercedes-AMG EQE 43 4MATIC SUV offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/40 tires on 20" rims front and 295/35 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 - 265/35 tires on 22" rims front and 295/30 tires on 22" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

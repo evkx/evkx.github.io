@@ -30,7 +30,7 @@ The Ford F150 Lightning Extended Range packs an impressive punch with a maximum 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 150 kWh and a net usable capacity of 130 kWh, providing a 20 kWh buffer (13.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 150.0 kWh and a net usable capacity of 130.0 kWh, providing a 20.0 kWh buffer (13.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 320 to 300 miles (515-483 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.5 mi/kWh for the base model and 2.3 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
@@ -69,13 +69,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Ford F150 Lightning Extended Range is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Ford F150 Lightning Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Ford F150 Lightning Extended Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/70 tires on 18" rims
 - 275/60 tires on 20" rims
 - 285/45 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

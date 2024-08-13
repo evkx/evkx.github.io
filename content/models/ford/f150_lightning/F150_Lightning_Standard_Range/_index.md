@@ -30,7 +30,7 @@ The Ford F150 Lightning Standard Range packs an impressive punch with a maximum 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 98 kWh, providing a 12 kWh buffer (10.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 110.0 kWh and a net usable capacity of 98.0 kWh, providing a 12.0 kWh buffer (10.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 427 km (265 miles), with an energy consumption rate of 23.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,13 +68,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Ford F150 Lightning Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Ford F150 Lightning Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Ford F150 Lightning Standard Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/70 tires on 18" rims
 - 275/60 tires on 20" rims
 - 285/45 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

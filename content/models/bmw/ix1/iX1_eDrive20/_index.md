@@ -30,7 +30,7 @@ The BMW iX1 eDrive20 offers modest performance with a maximum power of 150 kW (2
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68 kWh and a net usable capacity of 64,7 kWh, providing a 3,3 kWh buffer (4.9%) for battery protection. With a nominal voltage of 286 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 68.0 kWh and a net usable capacity of 64.7 kWh, providing a 3.3 kWh buffer (4.9%) for battery protection. With a nominal voltage of 286 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 475 to 430 km (295-267 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.6 kWh/100 km for the base model and 15.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The Adaptive M Suspension suspension has steel springs with a fixed height, but 
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW iX1 eDrive20. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the BMW iX1 eDrive20, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -72,13 +72,13 @@ The maximum regenerative power is 134 kW.
 
 The BMW iX1 eDrive20, with dimensions of 4500 mm in length, 1845 mm in width, and 1616 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 12 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the BMW iX1 eDrive20, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The BMW iX1 eDrive20 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 205/65 tires on 17" rims
 - 255/60 tires on 18" rims
 - 205/55 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

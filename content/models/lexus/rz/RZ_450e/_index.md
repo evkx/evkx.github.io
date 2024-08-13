@@ -30,7 +30,7 @@ The Lexus RZ 450e delivers a solid performance with a maximum power of 230 kW (3
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 71,4 kWh and a net usable capacity of 64 kWh, providing a 7,4 kWh buffer (10.4%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 71.4 kWh and a net usable capacity of 64.0 kWh, providing a 7.4 kWh buffer (10.4%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 440 to 395 km (274-246 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.5 kWh/100 km for the base model and 16.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,12 +68,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Lexus RZ 450e, with dimensions of 4805 mm in length, 1860 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 1 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Lexus RZ 450e, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Lexus RZ 450e offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/60 tires on 18" rims front and 255/55 tires on 18" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

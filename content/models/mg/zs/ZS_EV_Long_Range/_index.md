@@ -30,7 +30,7 @@ The MG ZS EV Long Range offers modest performance with a maximum power of 115 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 72,6 kWh and a net usable capacity of 68,3 kWh, providing a 4,3 kWh buffer (5.9%) for battery protection.
+The high-capacity battery has a gross capacity of 72.6 kWh and a net usable capacity of 68.3 kWh, providing a 4.3 kWh buffer (5.9%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 440 km (274 miles), with an energy consumption rate of 15.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

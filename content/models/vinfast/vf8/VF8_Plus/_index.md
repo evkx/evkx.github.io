@@ -30,7 +30,7 @@ The VinFast VF8 Plus delivers a solid performance with a maximum power of 300 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 87,7 kWh, providing a 6,3 kWh buffer (6.7%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 94.0 kWh and a net usable capacity of 87.7 kWh, providing a 6.3 kWh buffer (6.7%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 447 km (278 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -64,7 +64,7 @@ The VinFast VF8 Plus lets the user select different [drive modes](../../../../te
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375 mm, and the rear discs are 341 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 341 mm.
 
 ### Regenerative Braking
 

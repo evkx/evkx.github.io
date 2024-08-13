@@ -30,7 +30,7 @@ The Genesis Electrified GV70 delivers a solid performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing a 3,4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 470 km (292 miles), with an energy consumption rate of 15.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -70,12 +70,12 @@ The maximum regenerative power is 150 kW.
 
 The Genesis Electrified GV70, with dimensions of 4715 mm in length, 1910 mm in width, and 1630 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Genesis Electrified GV70 is available in a total of 8 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Genesis Electrified GV70, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Genesis Electrified GV70 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/50 tires on 19" rims
 - 265/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

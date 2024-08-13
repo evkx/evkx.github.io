@@ -30,7 +30,7 @@ The Mercedes-EQ EQA 250+ offers modest performance with a maximum power of 140 k
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 73,9 kWh and a net usable capacity of 70,5 kWh, providing a 3,4 kWh buffer (4.6%) for battery protection. With a nominal voltage of 367 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 73.9 kWh and a net usable capacity of 70.5 kWh, providing a 3.4 kWh buffer (4.6%) for battery protection. With a nominal voltage of 367 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 560 to 497 km (348-309 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 14.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The Mercedes-EQ EQA 250+ has a front-wheel drive system supported by one motor o
 
 ### Steering
 
-Dynamic steering is a standard feature on the Mercedes-EQ EQA 250+. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Mercedes-EQ EQA 250+, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -73,12 +73,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 The Mercedes-EQ EQA 250+, with dimensions of 4463 mm in length, 1834 mm in width, and 1624 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Mercedes-EQ EQA 250+ offers a selection of 10 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-You can select from multiple wheel options in different sizes on the Mercedes-EQ EQA 250+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Mercedes-EQ EQA 250+ offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 18" rims
 - 235/50 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

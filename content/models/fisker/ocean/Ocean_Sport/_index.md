@@ -30,7 +30,7 @@ With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 h
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing a 3 kWh buffer (4.1%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 73.0 kWh and a net usable capacity of 70.0 kWh, providing a 3.0 kWh buffer (4.1%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 464 km (288 miles), with an energy consumption rate of 15.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Fisker Ocean Sport, with dimensions of 4774 mm in length, 1982 mm in width, and 1631 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Fisker Ocean Sport is available in a total of 12 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Fisker Ocean Sport, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Fisker Ocean Sport offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

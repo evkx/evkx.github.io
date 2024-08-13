@@ -30,7 +30,7 @@ The Smart #3 Brabus delivers a solid performance with a maximum power of 315 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 66 kWh and a net usable capacity of 62 kWh, providing a 4 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 66.0 kWh and a net usable capacity of 62.0 kWh, providing a 4.0 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 415 km (258 miles), with an energy consumption rate of 14.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 333 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 333 mm.
 
 ### Regenerative Braking
 

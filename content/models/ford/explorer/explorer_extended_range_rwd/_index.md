@@ -30,7 +30,7 @@ The Ford Explorer Extended Range RWD delivers a solid performance with a maximum
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing a 5 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 77.0 kWh, providing a 5.0 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 602 to 572 km (374-356 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.8 kWh/100 km for the base model and 13.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -62,7 +62,7 @@ You can order Ford Explorer Extended Range RWD with an alternative sport suspens
 
 ### Steering
 
-Dynamic steering is an optional feature on the Ford Explorer Extended Range RWD. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Ford Explorer Extended Range RWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -76,12 +76,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Ford Explorer Extended Range RWD, with dimensions of 4468 mm in length, 1871 mm in width, and 1639 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Explorer Extended Range RWD is available in a total of 7 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Ford Explorer Extended Range RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Ford Explorer Extended Range RWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

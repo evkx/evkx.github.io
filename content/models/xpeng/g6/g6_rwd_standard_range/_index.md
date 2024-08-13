@@ -30,7 +30,7 @@ The XPENG G6 RWD Standard Range delivers a solid performance with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 67 kWh and a net usable capacity of 66 kWh, providing a 1 kWh buffer (1.5%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 67.0 kWh and a net usable capacity of 66.0 kWh, providing a 1.0 kWh buffer (1.5%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 435 km (270 miles), with an energy consumption rate of 15.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

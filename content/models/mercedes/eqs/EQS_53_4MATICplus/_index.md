@@ -32,7 +32,7 @@ If you are not happy enough with the standard performance, you can add the AMG D
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 107,8 kWh, providing a 12,2 kWh buffer (10.2%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120.0 kWh and a net usable capacity of 107.8 kWh, providing a 12.2 kWh buffer (10.2%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 570 to 513 km (354-319 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.9 kWh/100 km for the base model and 21.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -62,11 +62,11 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Mercedes-AMG EQS 53 4MATIC+. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Mercedes-AMG EQS 53 4MATIC+, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415 mm, and the rear discs are 378 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 440 mm, and the rear discs are 378 mm.
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs measure 415 mm, while the rear discs are 378 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 440 mm, while the rear discs are 378 mm.
 
 ### Regenerative Braking
 
@@ -79,12 +79,12 @@ The maximum regenerative power is 300 kW.
 The Mercedes-AMG EQS 53 4MATIC+, with dimensions of 5223 mm in length, 1926 mm in width, and 1520 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Mercedes-AMG EQS 53 4MATIC+ offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
-You can select from multiple wheel options in different sizes on the Mercedes-AMG EQS 53 4MATIC+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Mercedes-AMG EQS 53 4MATIC+ offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 - 265/35 tires on 22" rims front and 295/30 tires on 22" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

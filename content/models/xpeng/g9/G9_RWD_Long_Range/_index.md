@@ -30,7 +30,7 @@ The XPENG G9 RWD Long Range delivers a solid performance with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 98 kWh and a net usable capacity of 93,6 kWh, providing a 4,4 kWh buffer (4.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98.0 kWh and a net usable capacity of 93.6 kWh, providing a 4.4 kWh buffer (4.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 16.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,7 +70,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The XPENG G9 RWD Long Range, with dimensions of 4891 mm in length, 1937 mm in width, and 1670 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 5 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the XPENG G9 RWD Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The XPENG G9 RWD Long Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

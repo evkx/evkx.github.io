@@ -30,7 +30,7 @@ The Acura ZDX Type S delivers a solid performance with a maximum power of 373 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing a 8 kWh buffer (7.3%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 110.0 kWh and a net usable capacity of 102.0 kWh, providing a 8.0 kWh buffer (7.3%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 288 miles (463 km) with an energy consumption rate of 2.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension and rear suspension is [Multilink](../../../../technology/s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396 mm, and the rear discs are 343 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 

@@ -30,7 +30,7 @@ The Citroën ë-C3 kWh provides basic performance with a maximum power of 83 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 45 kWh and a net usable capacity of 44 kWh, providing a 1 kWh buffer (2.2%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 45.0 kWh and a net usable capacity of 44.0 kWh, providing a 1.0 kWh buffer (2.2%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 326 km (203 miles), with an energy consumption rate of 13.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,11 +60,11 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Steering
 
-Dynamic steering is a standard feature on the Citroën ë-C3. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Citroën ë-C3, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -76,12 +76,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Citroën ë-C3, with dimensions of 4015 mm in length, 1755 mm in width, and 1577 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Citroën ë-C3 is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Citroën ë-C3, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Citroën ë-C3 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 205/55 tires on 16" rims
 - 205/50 tires on 17" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -36,7 +36,7 @@ The Tesla Model 3 (GEN1) offers modest performance with a maximum power of 208 k
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing a 1 kWh buffer (1.7%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60.0 kWh and a net usable capacity of 59.0 kWh, providing a 1.0 kWh buffer (1.7%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 495 to 491 km (308-305 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.9 kWh/100 km for the base model and 12.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,11 +66,11 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Model 3 (GEN1). Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Tesla Model 3 (GEN1), varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -82,12 +82,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Tesla Model 3 (GEN1), with dimensions of 4694 mm in length, 1849 mm in width, and 1443 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Tesla Model 3 (GEN1) is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Tesla Model 3 (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Tesla Model 3 (GEN1) offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/45 tires on 18" rims
 - 255/45 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

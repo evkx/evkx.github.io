@@ -30,7 +30,7 @@ The Ford Capri Extended Range AWD delivers a solid performance with a maximum po
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing a 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 79.0 kWh, providing a 3.0 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 592 to 560 km (368-348 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.3 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Steering
 
-Dynamic steering is an optional feature on the Ford Capri Extended Range AWD. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Ford Capri Extended Range AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -74,13 +74,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Ford Capri Extended Range AWD, with dimensions of 4634 mm in length, 1872 mm in width, and 1639 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Ford Capri Extended Range AWD is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Ford Capri Extended Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Ford Capri Extended Range AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -30,7 +30,7 @@ The Rivian R1S Performance Dual-Motor AWD LP packs an impressive punch with a ma
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 135 kWh and a net usable capacity of 125 kWh, providing a 10 kWh buffer (7.4%) for battery protection.
+The high-capacity battery has a gross capacity of 135.0 kWh and a net usable capacity of 125.0 kWh, providing a 10.0 kWh buffer (7.4%) for battery protection.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 320 miles (515 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343 mm, and the rear discs are 328 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -72,7 +72,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1S Performance Dual-Motor AWD LP, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Rivian R1S Performance Dual-Motor AWD LP is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Rivian R1S Performance Dual-Motor AWD LP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Rivian R1S Performance Dual-Motor AWD LP offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 

@@ -30,7 +30,7 @@ The Maserati GranCabrio Folgore packs an impressive punch with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 96 kWh, providing a 9 kWh buffer (8.6%) for battery protection.
+The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 96.0 kWh, providing a 9.0 kWh buffer (8.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 501 to 426 km (311-265 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.2 kWh/100 km for the base model and 22.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -67,7 +67,7 @@ The Maserati GranCabrio Folgore lets the user select different [drive modes](../
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 350 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -79,13 +79,13 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Maserati GranCabrio Folgore is available in a total of 8 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Maserati GranCabrio Folgore, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Maserati GranCabrio Folgore offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 295/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

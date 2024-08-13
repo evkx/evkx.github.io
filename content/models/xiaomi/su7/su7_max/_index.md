@@ -30,7 +30,7 @@ The Xiaomi SU7 Max packs an impressive punch with a maximum power of 495 kW (673
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 101 kWh and a net usable capacity of 99 kWh, providing a 2 kWh buffer (2.0%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 101.0 kWh and a net usable capacity of 99.0 kWh, providing a 2.0 kWh buffer (2.0%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 800 km ( miles). he energy consumption is 12.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the Xiaomi SU7 Max. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Xiaomi SU7 Max, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -72,13 +72,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Xiaomi SU7 Max, with dimensions of 4997 mm in length, 1963 mm in width, and 1440 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Xiaomi SU7 Max is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Xiaomi SU7 Max, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Xiaomi SU7 Max offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/35 tires on 21" rims front and 265/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
 

@@ -30,7 +30,7 @@ The Lotus Emeya S packs an impressive punch with a maximum power of 450 kW (612 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 102 kWh and a net usable capacity of 100 kWh, providing a 2 kWh buffer (2.0%) for battery protection.
+The high-capacity battery has a gross capacity of 102.0 kWh and a net usable capacity of 100.0 kWh, providing a 2.0 kWh buffer (2.0%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 610 to 500 km (379-311 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.4 kWh/100 km for the base model and 20.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The front suspension and rear suspension is [Multilink](../../../../technology/s
 
 ### Steering
 
-Dynamic steering is a standard feature on the Lotus Emeya S. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Lotus Emeya S, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412 mm, and the rear discs are 397 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412 mm, and the rear discs are 397 mm.
+You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 412 mm, while the rear discs are 397 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 412 mm, while the rear discs are 397 mm.
 
 ### Regenerative Braking
 
@@ -74,13 +74,13 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Lotus Emeya S, with dimensions of 5139 mm in length, 2005 mm in width, and 1464 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Lotus Emeya S is available in a total of 6 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-You can select from multiple wheel options in different sizes on the Lotus Emeya S, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Lotus Emeya S offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/40 tires on 21" rims front and 305/35 tires on 21" rims rear
 - 265/35 tires on 22" rims front and 305/30 tires on 22" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

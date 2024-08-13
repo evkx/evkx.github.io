@@ -34,7 +34,7 @@ Nio EL8 has two battery options with different specifications. Below you see how
 
 ### 100kWh
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing a 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 90.0 kWh, providing a 10.0 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 510 to 493 km (317-306 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.6 kWh/100 km for the base model and 18.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -44,7 +44,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### 75kWh
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing a 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 75.0 kWh and a net usable capacity of 70.5 kWh, providing a 4.5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 390 to 379 km (242-236 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.6 kWh/100 km for the base model and 18.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -76,11 +76,11 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the Nio EL8. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Nio EL8, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -92,12 +92,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Nio EL8, with dimensions of 5099 mm in length, 1989 mm in width, and 1750 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Nio EL8 is available in a total of 5 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Nio EL8, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Nio EL8 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/50 tires on 20" rims
 - 265/45 tires on 21" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

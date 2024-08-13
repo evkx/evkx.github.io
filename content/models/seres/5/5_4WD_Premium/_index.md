@@ -30,7 +30,7 @@ The Seres 5 4WD Premium packs an impressive punch with a maximum power of 430 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 80 kWh and a net usable capacity of 78 kWh, providing a 2 kWh buffer (2.5%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 80.0 kWh and a net usable capacity of 78.0 kWh, providing a 2.0 kWh buffer (2.5%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 483 km (300 miles), with an energy consumption rate of 16.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Seres 5 4WD Premium, with dimensions of 4710 mm in length, 1930 mm in width, and 1620 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Seres 5 4WD Premium is available in a total of 8 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Seres 5 4WD Premium, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Seres 5 4WD Premium offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

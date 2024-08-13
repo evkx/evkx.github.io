@@ -30,7 +30,7 @@ The Tesla Model Y Performance delivers a solid performance with a maximum power 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 75 kWh, providing a 7 kWh buffer (8.5%) for battery protection. With a nominal voltage of 357 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 75.0 kWh, providing a 7.0 kWh buffer (8.5%) for battery protection. With a nominal voltage of 357 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 514 km (320 miles), with an energy consumption rate of 14.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Model Y Performance. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Tesla Model Y Performance, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 335 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 335 mm.
 
 ### Regenerative Braking
 
@@ -74,13 +74,13 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Tesla Model Y Performance, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Tesla Model Y Performance is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Tesla Model Y Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Tesla Model Y Performance offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/45 tires on 19" rims
 - 255/40 tires on 20" rims
 - 255/35 tires on 21" rims front and 275/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

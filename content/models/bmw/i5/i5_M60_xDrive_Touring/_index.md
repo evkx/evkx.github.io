@@ -30,7 +30,7 @@ With overboost, the BMW i5 M60 xDrive Touring reaches a maximum power of 442 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 84,4 kWh and a net usable capacity of 81,2 kWh, providing a 3,2 kWh buffer (3.8%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 84.4 kWh and a net usable capacity of 81.2 kWh, providing a 3.2 kWh buffer (3.8%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 506 to 445 km (315-277 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.0 kWh/100 km for the base model and 18.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,11 +60,11 @@ The  suspension has adaptive damping on the front and rear axle and air suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW i5 M60 xDrive Touring. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the BMW i5 M60 xDrive Touring, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 348 mm, and the rear discs are 345 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 348 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -76,14 +76,14 @@ The maximum regenerative power is 116 kW.
 
 The BMW i5 M60 xDrive Touring, with dimensions of 5060 mm in length, 1900 mm in width, and 1505 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The BMW i5 M60 xDrive Touring is available in a total of 12 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the BMW i5 M60 xDrive Touring, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The BMW i5 M60 xDrive Touring offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
 - 245/50 tires on 19" rims
 - 255/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 285/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.
 

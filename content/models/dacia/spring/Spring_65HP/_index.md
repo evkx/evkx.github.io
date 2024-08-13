@@ -30,7 +30,7 @@ The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 26,8 kWh and a net usable capacity of 25 kWh, providing a 1,8 kWh buffer (6.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 26.8 kWh and a net usable capacity of 25.0 kWh, providing a 1.8 kWh buffer (6.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 220 km (137 miles), with an energy consumption rate of 11.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,12 +66,12 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Dacia Spring 65HP, with dimensions of 3701 mm in length, 1622 mm in width, and 1519 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . The Dacia Spring 65HP is available in a total of 6 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Dacia Spring 65HP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Dacia Spring 65HP offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 165/70 tires on 14" rims
 - 175/60 tires on 15" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

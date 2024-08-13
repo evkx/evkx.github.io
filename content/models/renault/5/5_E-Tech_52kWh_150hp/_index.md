@@ -30,7 +30,7 @@ The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing a 3 kWh buffer (5.5%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 55.0 kWh and a net usable capacity of 52.0 kWh, providing a 3.0 kWh buffer (5.5%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 13.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,11 +60,11 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 
 ### Steering
 
-Dynamic steering is an optional feature on the Renault 5 E-Tech 52kWh 150hp. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Renault 5 E-Tech 52kWh 150hp, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

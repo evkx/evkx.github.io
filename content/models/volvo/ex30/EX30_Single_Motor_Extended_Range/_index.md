@@ -30,7 +30,7 @@ The Volvo EX30 Single Motor Extended Range offers modest performance with a maxi
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 69 kWh and a net usable capacity of 64 kWh, providing a 5 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 69.0 kWh and a net usable capacity of 64.0 kWh, providing a 5.0 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 460 km (286 miles), with an energy consumption rate of 13.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 333 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 333 mm.
 
 ### Regenerative Braking
 
@@ -68,12 +68,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Volvo EX30 Single Motor Extended Range, with dimensions of 4233 mm in length, 1837 mm in width, and 1549 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Volvo EX30 Single Motor Extended Range is available in a total of 5 paint colors, all of which include metallic and pearlescent options.
 
-You can select from multiple wheel options in different sizes on the Volvo EX30 Single Motor Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volvo EX30 Single Motor Extended Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/55 tires on 18" rims
 - 235/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

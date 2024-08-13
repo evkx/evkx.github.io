@@ -30,7 +30,7 @@ The Hongqi E-HS9 Exclusive packs an impressive punch with a maximum power of 405
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 99 kWh and a net usable capacity of 95,3 kWh, providing a 3,7 kWh buffer (3.7%) for battery protection. With a nominal voltage of 410 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 99.0 kWh and a net usable capacity of 95.3 kWh, providing a 3.7 kWh buffer (3.7%) for battery protection. With a nominal voltage of 410 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 465 km (289 miles), with an energy consumption rate of 20.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Hongqi E-HS9 Exclusive. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Hongqi E-HS9 Exclusive, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -72,12 +72,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Hongqi E-HS9 Exclusive, with dimensions of 5209 mm in length, 2010 mm in width, and 1713 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Hongqi E-HS9 Exclusive is available in a total of 6 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Hongqi E-HS9 Exclusive, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Hongqi E-HS9 Exclusive offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/45 tires on 21" rims
 - 275/40 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 

@@ -30,7 +30,7 @@ The BYD Dolphin 60.4kWh offers modest performance with a maximum power of 150 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 60,4 kWh and a net usable capacity of 62 kWh, providing a -1,6 kWh buffer (-2.6%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60.4 kWh and a net usable capacity of 62.0 kWh, providing a -1.6 kWh buffer (-2.6%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 427 km (265 miles), with an energy consumption rate of 14.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Steering
 
-Dynamic steering is a standard feature on the BYD Dolphin 60.4kWh. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the BYD Dolphin 60.4kWh, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

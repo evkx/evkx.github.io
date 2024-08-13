@@ -30,7 +30,7 @@ The Volvo EC40 Single Motor ER offers modest performance with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing a 3 kWh buffer (3.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 79.0 kWh, providing a 3.0 kWh buffer (3.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 581 to 566 km (361-352 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.6 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Volvo EC40 Single Motor ER, with dimensions of 4440 mm in length, 1873 mm in width, and 1596 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Volvo EC40 Single Motor ER is available in a total of 9 paint colors, all of which include metallic and pearlescent options.
 
-You can select from multiple wheel options in different sizes on the Volvo EC40 Single Motor ER, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volvo EC40 Single Motor ER offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/50 tires on 19" rims
 - 235/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

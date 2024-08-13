@@ -30,7 +30,7 @@ The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 81,4 kWh and a net usable capacity of 77 kWh, providing a 4,4 kWh buffer (5.4%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 81.4 kWh and a net usable capacity of 77.0 kWh, providing a 4.4 kWh buffer (5.4%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,12 +68,12 @@ The maximum regenerative power is 150 kW.
 
 The Kia EV3 Long Range, with dimensions of 4300 mm in length, 1850 mm in width, and 1560 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 11 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Kia EV3 Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Kia EV3 Long Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

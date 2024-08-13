@@ -30,7 +30,7 @@ The Kia Niro EV offers modest performance with a maximum power of 150 kW (204 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68 kWh and a net usable capacity of 64,8 kWh, providing a 3,2 kWh buffer (4.7%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 68.0 kWh and a net usable capacity of 64.8 kWh, providing a 3.2 kWh buffer (4.7%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 463 km (288 miles), with an energy consumption rate of 14.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -70,12 +70,12 @@ The maximum regenerative power is 150 kW.
 
 The Kia Niro EV, with dimensions of 4420 mm in length, 1825 mm in width, and 1545 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 11 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Kia Niro EV, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Kia Niro EV offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -30,7 +30,7 @@ The Renault Scenic E-Tech electric offers modest performance with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 65 kWh and a net usable capacity of 60 kWh, providing a 5 kWh buffer (7.7%) for battery protection.
+The high-capacity battery has a gross capacity of 65.0 kWh and a net usable capacity of 60.0 kWh, providing a 5.0 kWh buffer (7.7%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 450 to 429 km (280-267 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.3 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 
 ### Steering
 
-Dynamic steering is an optional feature on the Renault Scenic E-Tech electric. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Renault Scenic E-Tech electric, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -72,12 +72,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Renault Scenic E-Tech electric, with dimensions of 4470 mm in length, 1864 mm in width, and 1571 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Renault Scenic E-Tech electric is available in a total of 6 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Renault Scenic E-Tech electric, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Renault Scenic E-Tech electric offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

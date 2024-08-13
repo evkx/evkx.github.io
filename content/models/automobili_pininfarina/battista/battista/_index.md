@@ -30,7 +30,7 @@ The Automobili Pininfarina Battista delivers a jaw-dropping maximum power of 140
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 106,8 kWh, providing a 13,2 kWh buffer (11.0%) for battery protection. Operating at a nominal voltage of 630 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 120.0 kWh and a net usable capacity of 106.8 kWh, providing a 13.2 kWh buffer (11.0%) for battery protection. Operating at a nominal voltage of 630 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 490 km (305 miles), with an energy consumption rate of 21.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Automobili Pininfarina Battista. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Automobili Pininfarina Battista, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -72,7 +72,7 @@ The Automobili Pininfarina Battista lets the user select different [drive modes]
 
 ### Brakes
 
-The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390 mm, and the rear discs are 390 mm.
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 390 mm, while the rear discs are 390 mm.
 
 ### Regenerative Braking
 

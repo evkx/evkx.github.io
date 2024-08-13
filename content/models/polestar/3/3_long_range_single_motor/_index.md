@@ -30,7 +30,7 @@ The Polestar 3 Long Range Single Motor delivers a solid performance with a maxim
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 107 kWh, providing a 4 kWh buffer (3.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 111.0 kWh and a net usable capacity of 107.0 kWh, providing a 4.0 kWh buffer (3.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 650 km (404 miles), with an energy consumption rate of 16.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400 mm, and the rear discs are 390 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 400 mm, while the rear discs are 390 mm.
 
 ### Regenerative Braking
 

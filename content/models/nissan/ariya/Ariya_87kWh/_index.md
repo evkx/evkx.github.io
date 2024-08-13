@@ -30,7 +30,7 @@ The Nissan Ariya 87kWh offers modest performance with a maximum power of 178 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 87 kWh, providing a 4 kWh buffer (4.4%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 91.0 kWh and a net usable capacity of 87.0 kWh, providing a 4.0 kWh buffer (4.4%) for battery protection. With a nominal voltage of 352 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 533 to 475 km (331-295 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.3 kWh/100 km for the base model and 18.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 
 ### Steering
 
-Dynamic steering is an optional feature on the Nissan Ariya 87kWh. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Nissan Ariya 87kWh, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -72,12 +72,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Nissan Ariya 87kWh, with dimensions of 4595 mm in length, 1850 mm in width, and 1660 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Nissan Ariya 87kWh is available in a total of 9 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-You can select from multiple wheel options in different sizes on the Nissan Ariya 87kWh, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Nissan Ariya 87kWh offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

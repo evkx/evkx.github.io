@@ -30,7 +30,7 @@ The Chevrolet Equinox EV AWD delivers a solid performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing a 4 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 319 miles (513 km) with an energy consumption rate of 3.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 321 mm, and the rear discs are 345 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 321 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -68,13 +68,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Chevrolet Equinox EV AWD, with dimensions of 4867 mm in length, 1953 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV AWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
 
-You can select from multiple wheel options in different sizes on the Chevrolet Equinox EV AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Chevrolet Equinox EV AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/55 tires on 19" rims
 - 275/45 tires on 20" rims
 - 275/40 tires on 21" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

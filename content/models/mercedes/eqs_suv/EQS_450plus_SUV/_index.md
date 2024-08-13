@@ -30,7 +30,7 @@ The Mercedes-EQ EQS 450+ SUV delivers a solid performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 108,4 kWh, providing a 11,6 kWh buffer (9.7%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120.0 kWh and a net usable capacity of 108.4 kWh, providing a 11.6 kWh buffer (9.7%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 672 to 540 km (418-336 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 20.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Mercedes-EQ EQS 450+ SUV. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Mercedes-EQ EQS 450+ SUV, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415 mm, and the rear discs are 378 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 415 mm, while the rear discs are 378 mm.
 
 ### Regenerative Braking
 
@@ -74,15 +74,15 @@ The maximum regenerative power is 300 kW.
 
 The Mercedes-EQ EQS 450+ SUV, with dimensions of 5125 mm in length, 1959 mm in width, and 1718 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Mercedes-EQ EQS 450+ SUV offers a selection of 9 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
-You can select from multiple wheel options in different sizes on the Mercedes-EQ EQS 450+ SUV, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Mercedes-EQ EQS 450+ SUV offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/45 tires on 21" rims
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

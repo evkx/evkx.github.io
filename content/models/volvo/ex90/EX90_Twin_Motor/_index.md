@@ -30,7 +30,7 @@ The Volvo EX90 Twin Motor delivers a solid performance with a maximum power of 3
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 107 kWh, providing a 4 kWh buffer (3.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 111.0 kWh and a net usable capacity of 107.0 kWh, providing a 4.0 kWh buffer (3.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 580 km (361 miles), with an energy consumption rate of 18.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400 mm, and the rear discs are 390 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 400 mm, while the rear discs are 390 mm.
 
 ### Regenerative Braking
 
@@ -68,12 +68,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Volvo EX90 Twin Motor, with dimensions of 5037 mm in length, 1964 mm in width, and 1744 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Volvo EX90 Twin Motor is available in a total of 8 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Volvo EX90 Twin Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volvo EX90 Twin Motor offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/45 tires on 21" rims front and 295/45 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is a standard function for the side doors.
 

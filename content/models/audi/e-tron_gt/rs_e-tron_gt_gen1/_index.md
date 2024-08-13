@@ -30,7 +30,7 @@ With overboost, the Audi RS e-tron GT (GEN1) reaches a maximum power of 475 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing a 9,7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 93.4 kWh and a net usable capacity of 83.7 kWh, providing a 9.7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 495 to 447 km (308-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.9 kWh/100 km for the base model and 18.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -62,11 +62,11 @@ You can order Audi RS e-tron GT (GEN1) with an alternative Adaptive Air Suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Audi RS e-tron GT (GEN1). Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Audi RS e-tron GT (GEN1), varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360 mm, and the rear discs are 358 mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410 mm, and the rear discs are 365 mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420 mm, and the rear discs are 410 mm.
+You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs measure 360 mm, while the rear discs are 358 mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs measure 410 mm, while the rear discs are 365 mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 410 mm.
 
 ### Regenerative Braking
 
@@ -80,19 +80,19 @@ The maximum regenerative power is 265 kW.
 
 The Audi RS e-tron GT (GEN1), with dimensions of 4989 mm in length, 1964 mm in width, and 1396 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Audi RS e-tron GT (GEN1) is available in a total of 54 paint colors, including pearlescent and metallic options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-You can select from multiple wheel options in different sizes on the Audi RS e-tron GT (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Audi RS e-tron GT (GEN1) offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

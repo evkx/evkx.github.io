@@ -30,7 +30,7 @@ The Aion Hyper GT 710 Supercharged delivers a solid performance with a maximum p
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 80,1 kWh and a net usable capacity of 77 kWh, providing a 3,1 kWh buffer (3.9%) for battery protection.
+The high-capacity battery has a gross capacity of 80.1 kWh and a net usable capacity of 77.0 kWh, providing a 3.1 kWh buffer (3.9%) for battery protection.
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 10.8 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -56,7 +56,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -65,13 +65,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Aion Hyper GT 710 Supercharged, with dimensions of 4886 mm in length, 1885 mm in width, and 1449 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Aion Hyper GT 710 Supercharged is available in a total of 5 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Aion Hyper GT 710 Supercharged, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Aion Hyper GT 710 Supercharged offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 17" rims
 - 235/50 tires on 18" rims
 - 235/45 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 

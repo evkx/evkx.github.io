@@ -36,7 +36,7 @@ The Audi Q4 40 e-tron offers modest performance with a maximum power of 160 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 76,6 kWh, providing a 5,4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 76.6 kWh, providing a 5.4 kWh buffer (6.6%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 521 to 447 km (324-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 17.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,7 +68,7 @@ You can order Audi Q4 40 e-tron with an alternative sport suspension. The front 
 
 ### Steering
 
-Dynamic steering is an optional feature on the Audi Q4 40 e-tron. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Audi Q4 40 e-tron, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -84,19 +84,19 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Audi Q4 40 e-tron, with dimensions of 4588 mm in length, 1865 mm in width, and 1632 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 8 different paint colors when ordering this model.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-You can select from multiple wheel options in different sizes on the Audi Q4 40 e-tron, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Audi Q4 40 e-tron offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

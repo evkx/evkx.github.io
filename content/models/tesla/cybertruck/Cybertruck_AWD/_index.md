@@ -30,7 +30,7 @@ The Tesla Cybertruck AWD packs an impressive punch with a maximum power of 448 k
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing a 0,5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 123.0 kWh and a net usable capacity of 122.5 kWh, providing a 0.5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 340 miles (547 km) with an energy consumption rate of 2.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,7 +66,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Cybertruck AWD. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Tesla Cybertruck AWD, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Drive Modes
 
@@ -74,12 +74,12 @@ The Tesla Cybertruck AWD lets the user select different [drive modes](../../../.
 
 - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
 - Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
-- Custom: Custom-defined steering, suspension, and throttle response.
+- Custom: User-defined settings for steering, suspension, and throttle response.
 - Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 

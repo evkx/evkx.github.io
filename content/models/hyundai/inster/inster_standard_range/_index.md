@@ -30,7 +30,7 @@ The Hyundai INSTER Standard Range kWh provides basic performance with a maximum 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 41 kWh and a net usable capacity of 39 kWh, providing a 2 kWh buffer (4.9%) for battery protection. With a nominal voltage of 280 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 41.0 kWh and a net usable capacity of 39.0 kWh, providing a 2.0 kWh buffer (4.9%) for battery protection. With a nominal voltage of 280 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 300 km (187 miles), with an energy consumption rate of 13.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 254 mm, and the rear discs are 240 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 254 mm, while the rear discs are 240 mm.
 
 ### Regenerative Braking
 
@@ -68,12 +68,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Hyundai INSTER Standard Range, with dimensions of 3825 mm in length, 1610 mm in width, and 1610 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . The Hyundai INSTER Standard Range offers a selection of 9 paint colors, featuring solid, metallic, pearlescent, and matte options.
 
-You can select from multiple wheel options in different sizes on the Hyundai INSTER Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Hyundai INSTER Standard Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 205/55 tires on 15" rims
 - 205/45 tires on 17" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -30,7 +30,7 @@ The MG MG4 Electric Extended Range offers modest performance with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing a 2,6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 77.0 kWh and a net usable capacity of 74.4 kWh, providing a 2.6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 miles), with an energy consumption rate of 14.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,7 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG MG4 Electric Extended Range, with dimensions of 4287 mm in length, 1836 mm in width, and 1504 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric Extended Range is available in a total of 7 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the MG MG4 Electric Extended Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The MG MG4 Electric Extended Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof option for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

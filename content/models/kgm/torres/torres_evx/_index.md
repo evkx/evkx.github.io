@@ -30,7 +30,7 @@ The KGM Torres EVX offers modest performance with a maximum power of 152.2 kW (2
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 73,4 kWh, providing a 1,6 kWh buffer (2.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 75.0 kWh and a net usable capacity of 73.4 kWh, providing a 1.6 kWh buffer (2.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 462 km (287 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 260 mm, and the rear discs are 260 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 260 mm, while the rear discs are 260 mm.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The KGM Torres EVX, with dimensions of 4715 mm in length,  mm in width, and 1725 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The KGM Torres EVX is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the KGM Torres EVX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The KGM Torres EVX offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/60 tires on 18" rims
 - 245/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

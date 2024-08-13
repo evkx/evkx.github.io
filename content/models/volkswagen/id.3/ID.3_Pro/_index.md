@@ -30,7 +30,7 @@ The Volkswagen ID.3 Pro offers modest performance with a maximum power of 150 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 62 kWh and a net usable capacity of 58 kWh, providing a 4 kWh buffer (6.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 62.0 kWh and a net usable capacity of 58.0 kWh, providing a 4.0 kWh buffer (6.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 427 to 414 km (265-257 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.6 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The standard suspension has steel springs with a fixed height but an optional da
 
 ### Steering
 
-Dynamic steering is an optional feature on the Volkswagen ID.3 Pro. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Volkswagen ID.3 Pro, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -72,13 +72,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Volkswagen ID.3 Pro, with dimensions of 4261 mm in length, 1809 mm in width, and 1568 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Volkswagen ID.3 Pro is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Volkswagen ID.3 Pro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volkswagen ID.3 Pro offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/55 tires on 18" rims
 - 215/50 tires on 19" rims
 - 215/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -30,7 +30,7 @@ The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 106 kWh and a net usable capacity of 100 kWh, providing a 6 kWh buffer (5.7%) for battery protection.
+The high-capacity battery has a gross capacity of 106.0 kWh and a net usable capacity of 100.0 kWh, providing a 6.0 kWh buffer (5.7%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 20.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

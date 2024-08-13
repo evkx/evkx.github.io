@@ -30,7 +30,7 @@ The Honda Prologue FWD offers modest performance with a maximum power of 158 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing a 4 kWh buffer (4.5%) for battery protection.
+The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 296 miles (476 km) with an energy consumption rate of 3.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396 mm, and the rear discs are 343 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 396 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 

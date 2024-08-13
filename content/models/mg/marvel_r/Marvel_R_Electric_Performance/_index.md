@@ -30,7 +30,7 @@ The MG Marvel R Electric Performance delivers a solid performance with a maximum
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70 kWh, providing a 5 kWh buffer (6.7%) for battery protection.
+The high-capacity battery has a gross capacity of 75.0 kWh and a net usable capacity of 70.0 kWh, providing a 5.0 kWh buffer (6.7%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 370 km (230 miles), with an energy consumption rate of 18.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -68,7 +68,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG Marvel R Electric Performance, with dimensions of 4674 mm in length, 1919 mm in width, and 1618 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The MG Marvel R Electric Performance is available in a total of 5 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the MG Marvel R Electric Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The MG Marvel R Electric Performance offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

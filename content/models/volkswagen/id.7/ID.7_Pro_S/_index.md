@@ -30,7 +30,7 @@ The Volkswagen ID.7 Pro S delivers a solid performance with a maximum power of 2
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 91 kWh and a net usable capacity of 86 kWh, providing a 5 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 91.0 kWh and a net usable capacity of 86.0 kWh, providing a 5.0 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 709 km (441 miles), with an energy consumption rate of 12.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Steering
 
-Dynamic steering is an optional feature on the Volkswagen ID.7 Pro S. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Volkswagen ID.7 Pro S, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -76,13 +76,13 @@ If you lift away the foot completely the regen is at one fixed level. This can't
 
 The Volkswagen ID.7 Pro S, with dimensions of 4961 mm in length, 1862 mm in width, and 1532 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 Pro S is available in a total of 13 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
-You can select from multiple wheel options in different sizes on the Volkswagen ID.7 Pro S, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volkswagen ID.7 Pro S offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

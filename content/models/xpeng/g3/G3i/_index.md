@@ -30,7 +30,7 @@ The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp /
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 66 kWh and a net usable capacity of 55,9 kWh, providing a 10,1 kWh buffer (15.3%) for battery protection.
+The high-capacity battery has a gross capacity of 66.0 kWh and a net usable capacity of 55.9 kWh, providing a 10.1 kWh buffer (15.3%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 miles), with an energy consumption rate of 13.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -65,12 +65,12 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The XPENG G3i, with dimensions of 4495 mm in length, 1820 mm in width, and 1610 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the XPENG G3i, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The XPENG G3i offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/55 tires on 17" rims
 - 215/55 tires on 18" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

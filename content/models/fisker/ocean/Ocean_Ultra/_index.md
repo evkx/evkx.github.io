@@ -30,7 +30,7 @@ With overboost, the Fisker Ocean Ultra reaches a maximum power of 400 kW (544 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 113 kWh and a net usable capacity of 106,5 kWh, providing a 6,5 kWh buffer (5.8%) for battery protection. With a nominal voltage of 380 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 113.0 kWh and a net usable capacity of 106.5 kWh, providing a 6.5 kWh buffer (5.8%) for battery protection. With a nominal voltage of 380 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 690 km (429 miles), with an energy consumption rate of 15.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Fisker Ocean Ultra, with dimensions of 4774 mm in length, 1982 mm in width, and 1631 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Fisker Ocean Ultra is available in a total of 12 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Fisker Ocean Ultra, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Fisker Ocean Ultra offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

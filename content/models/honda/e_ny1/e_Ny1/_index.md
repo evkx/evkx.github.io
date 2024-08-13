@@ -30,7 +30,7 @@ The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing a 6,9 kWh buffer (10.0%) for battery protection.
+The high-capacity battery has a gross capacity of 68.8 kWh and a net usable capacity of 61.9 kWh, providing a 6.9 kWh buffer (10.0%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 miles), with an energy consumption rate of 15.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -63,7 +63,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Honda e:Ny1, with dimensions of 4390 mm in length, 1790 mm in width, and  mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Honda e:Ny1, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Honda e:Ny1 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof option for this model.
 

@@ -30,7 +30,7 @@ The Hyundai Ioniq 6 Long Range AWD delivers a solid performance with a maximum p
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing a 3,4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 583 to 519 km (362-323 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.7 kWh/100 km for the base model and 14.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,12 +68,12 @@ The maximum regenerative power is 150 kW.
 
 The Hyundai Ioniq 6 Long Range AWD, with dimensions of 4855 mm in length, 1880 mm in width, and 1495 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Hyundai Ioniq 6 Long Range AWD is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Hyundai Ioniq 6 Long Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Hyundai Ioniq 6 Long Range AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/55 tires on 18" rims
 - 245/40 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

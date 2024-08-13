@@ -30,7 +30,7 @@ The Kia EV6 Long Range 2WD offers modest performance with a maximum power of 168
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing a 3,4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 528 to 504 km (328-313 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.0 kWh/100 km for the base model and 14.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -70,12 +70,12 @@ The maximum regenerative power is 150 kW.
 
 The Kia EV6 Long Range 2WD, with dimensions of 4680 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. You can choose between 11 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Kia EV6 Long Range 2WD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Kia EV6 Long Range 2WD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

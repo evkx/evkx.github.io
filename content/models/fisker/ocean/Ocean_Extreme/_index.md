@@ -30,7 +30,7 @@ With overboost, the Fisker Ocean Extreme reaches a maximum power of 415 kW (564 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 113 kWh and a net usable capacity of 106,5 kWh, providing a 6,5 kWh buffer (5.8%) for battery protection. With a nominal voltage of 380 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 113.0 kWh and a net usable capacity of 106.5 kWh, providing a 6.5 kWh buffer (5.8%) for battery protection. With a nominal voltage of 380 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 707 to 701 km (439-436 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.1 kWh/100 km for the base model and 15.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -69,7 +69,7 @@ The Fisker Ocean Extreme lets the user select different [drive modes](../../../.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -81,12 +81,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Fisker Ocean Extreme, with dimensions of 4774 mm in length, 1982 mm in width, and 1631 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Fisker Ocean Extreme is available in a total of 12 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Fisker Ocean Extreme, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Fisker Ocean Extreme offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 20" rims
 - 255/45 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

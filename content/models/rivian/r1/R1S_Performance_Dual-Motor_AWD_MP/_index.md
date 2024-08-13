@@ -30,7 +30,7 @@ The Rivian R1S Performance Dual-Motor AWD MP packs an impressive punch with a ma
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 142,3 kWh, providing a 6,7 kWh buffer (4.5%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149.0 kWh and a net usable capacity of 142.3 kWh, providing a 6.7 kWh buffer (4.5%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 410 miles (660 km) with an energy consumption rate of 2.9 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343 mm, and the rear discs are 328 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -72,7 +72,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1S Performance Dual-Motor AWD MP, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Rivian R1S Performance Dual-Motor AWD MP is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Rivian R1S Performance Dual-Motor AWD MP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Rivian R1S Performance Dual-Motor AWD MP offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 

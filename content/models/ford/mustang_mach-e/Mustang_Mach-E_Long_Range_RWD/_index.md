@@ -30,7 +30,7 @@ The Ford Mustang Mach-E Long Range RWD delivers a solid performance with a maxim
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 98,8 kWh and a net usable capacity of 92 kWh, providing a 6,8 kWh buffer (6.9%) for battery protection. With a nominal voltage of 376 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98.8 kWh and a net usable capacity of 92.0 kWh, providing a 6.8 kWh buffer (6.9%) for battery protection. With a nominal voltage of 376 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 miles), with an energy consumption rate of 15.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 457 mm, and the rear discs are 432 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 457 mm, while the rear discs are 432 mm.
 
 ### Regenerative Braking
 
@@ -70,12 +70,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Ford Mustang Mach-E Long Range RWD, with dimensions of 4713 mm in length, 1881 mm in width, and 1624 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Ford Mustang Mach-E Long Range RWD is available in a total of 8 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Ford Mustang Mach-E Long Range RWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Ford Mustang Mach-E Long Range RWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/60 tires on 18" rims
 - 225/60 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

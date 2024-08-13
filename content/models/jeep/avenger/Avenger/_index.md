@@ -30,7 +30,7 @@ The Jeep Avenger offers modest performance with a maximum power of 115 kW (156 h
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 54 kWh and a net usable capacity of 50,8 kWh, providing a 3,2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 54.0 kWh and a net usable capacity of 50.8 kWh, providing a 3.2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 404 to 385 km (251-239 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 13.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,12 +66,12 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Jeep Avenger, with dimensions of 4084 mm in length, 1776 mm in width, and 1528 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Jeep Avenger is available in a total of 5 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Jeep Avenger, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Jeep Avenger offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -30,7 +30,7 @@ The Alfa Romeo Junior Veloce offers modest performance with a maximum power of 1
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 54 kWh and a net usable capacity of 50,8 kWh, providing a 3,2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 54.0 kWh and a net usable capacity of 50.8 kWh, providing a 3.2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 370 km (230 miles), with an energy consumption rate of 13.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,12 +66,12 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Alfa Romeo Junior Veloce, with dimensions of 4170 mm in length, 1780 mm in width, and 1500 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Alfa Romeo Junior Veloce is available in a total of 5 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Alfa Romeo Junior Veloce, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Alfa Romeo Junior Veloce offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

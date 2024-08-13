@@ -30,7 +30,7 @@ The BYD Seal U Design offers modest performance with a maximum power of 160 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 87 kWh and a net usable capacity of 87 kWh, providing a 0 kWh buffer (0.0%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 87.0 kWh and a net usable capacity of 87.0 kWh, providing a 0.0 kWh buffer (0.0%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 17.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,11 +60,11 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the BYD Seal U Design. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the BYD Seal U Design, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

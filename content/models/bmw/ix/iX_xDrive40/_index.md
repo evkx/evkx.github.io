@@ -30,7 +30,7 @@ The BMW iX xDrive40 delivers a solid performance with a maximum power of 240 kW 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 76,6 kWh and a net usable capacity of 71 kWh, providing a 5,6 kWh buffer (7.3%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 76.6 kWh and a net usable capacity of 71.0 kWh, providing a 5.6 kWh buffer (7.3%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 425 to 372 km (264-231 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.7 kWh/100 km for the base model and 19.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ You can order BMW iX xDrive40 with an alternative Adaptive Air Suspension suspen
 
 ### Steering
 
-Dynamic steering is a standard feature on the BMW iX xDrive40. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the BMW iX xDrive40, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 

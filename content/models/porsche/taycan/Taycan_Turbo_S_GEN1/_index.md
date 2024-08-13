@@ -36,7 +36,7 @@ With overboost, the Porsche Taycan Turbo S (GEN1) reaches a maximum power of 560
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing a 9,7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 93.4 kWh and a net usable capacity of 83.7 kWh, providing a 9.7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 507 to 435 km (315-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.5 kWh/100 km for the base model and 19.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,11 +66,11 @@ You can order Porsche Taycan Turbo S (GEN1) with an alternative Adaptive Air Sus
 
 ### Steering
 
-Dynamic steering is a standard feature on the Porsche Taycan Turbo S (GEN1). Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Porsche Taycan Turbo S (GEN1), varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
-The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420 mm, and the rear discs are 410 mm.
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 410 mm.
 
 ### Regenerative Braking
 
@@ -82,7 +82,7 @@ The maximum regenerative power is 275 kW.
 
 The Porsche Taycan Turbo S (GEN1), with dimensions of 4963 mm in length, 1966 mm in width, and 1381 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Porsche Taycan Turbo S (GEN1) is available in a total of 17 paint colors, including both solid and metallic options.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
 The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 
 
 
@@ -91,13 +91,13 @@ The optional SportDesign package contains a specially designed upper part front 
 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
-You can select from multiple wheel options in different sizes on the Porsche Taycan Turbo S (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Porsche Taycan Turbo S (GEN1) offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
 - 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

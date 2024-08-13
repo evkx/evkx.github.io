@@ -30,7 +30,7 @@ The Mini Cooper SE offers modest performance with a maximum power of 160 kW (218
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 54,2 kWh and a net usable capacity of 49 kWh, providing a 5,2 kWh buffer (9.6%) for battery protection.
+The high-capacity battery has a gross capacity of 54.2 kWh and a net usable capacity of 49.0 kWh, providing a 5.2 kWh buffer (9.6%) for battery protection.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 402 to 377 km (250-234 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -63,13 +63,13 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 1450 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Mini Cooper SE is available in a total of 10 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Mini Cooper SE, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Mini Cooper SE offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/55 tires on 16" rims
 - 205/50 tires on 17" rims
 - 225/40 tires on 18" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

@@ -30,7 +30,7 @@ The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing a 7 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 220.0 kWh and a net usable capacity of 213.0 kWh, providing a 7.0 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 329 miles (529 km) with an energy consumption rate of 1.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,7 +68,7 @@ The maximum regenerative power is 400 kW.
 
 The GMC Hummer EV Edition 1 Pickup is available in a total of 1 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the GMC Hummer EV Edition 1 Pickup, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The GMC Hummer EV Edition 1 Pickup offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

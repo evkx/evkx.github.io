@@ -30,7 +30,7 @@ The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing a 1 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 118.0 kWh and a net usable capacity of 117.0 kWh, providing a 1.0 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 427 miles (687 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 ### Steering
 
-Dynamic steering is a standard feature on the Lucid Air Sapphire. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Lucid Air Sapphire, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420 mm, and the rear discs are 390 mm.
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 420 mm, while the rear discs are 390 mm.
 
 ### Regenerative Braking
 

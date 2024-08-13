@@ -30,7 +30,7 @@ The Volkswagen ID.5 GTX 4MOTION delivers a solid performance with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing a 5 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 77.0 kWh, providing a 5.0 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 533 km (331 miles), with an energy consumption rate of 14.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ You can order Volkswagen ID.5 GTX 4MOTION with an alternative sport suspension. 
 
 ### Steering
 
-Dynamic steering is an optional feature on the Volkswagen ID.5 GTX 4MOTION. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Volkswagen ID.5 GTX 4MOTION, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -74,12 +74,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Volkswagen ID.5 GTX 4MOTION, with dimensions of 4599 mm in length, 1852 mm in width, and 1615 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Volkswagen ID.5 GTX 4MOTION is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Volkswagen ID.5 GTX 4MOTION, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volkswagen ID.5 GTX 4MOTION offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

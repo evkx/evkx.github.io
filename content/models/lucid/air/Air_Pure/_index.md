@@ -30,7 +30,7 @@ The Lucid Air Pure delivers a solid performance with a maximum power of 320.5 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 88 kWh and a net usable capacity of 84 kWh, providing a 4 kWh buffer (4.5%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 88.0 kWh and a net usable capacity of 84.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 747 to 708 km (464-440 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.2 kWh/100 km for the base model and 11.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 ### Steering
 
-Dynamic steering is a standard feature on the Lucid Air Pure. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Lucid Air Pure, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 380 mm, and the rear discs are 375 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 380 mm, while the rear discs are 375 mm.
 
 ### Regenerative Braking
 
@@ -72,13 +72,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Lucid Air Pure, with dimensions of 4975 mm in length, 1939 mm in width, and 1410 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 4 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Lucid Air Pure, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Lucid Air Pure offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 245/45 tires on 19" rims
 - 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

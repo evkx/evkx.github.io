@@ -30,7 +30,7 @@ The Rolls-Royce Spectre packs an impressive punch with a maximum power of 430 kW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105,7 kWh and a net usable capacity of 102 kWh, providing a 3,7 kWh buffer (3.5%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 105.7 kWh and a net usable capacity of 102.0 kWh, providing a 3.7 kWh buffer (3.5%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 miles), with an energy consumption rate of 19.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Rolls-Royce Spectre. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard on the Rolls-Royce Spectre, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 

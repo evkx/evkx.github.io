@@ -30,7 +30,7 @@ The Kia EV9 Long Range AWD delivers a solid performance with a maximum power of 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 99,8 kWh and a net usable capacity of 98 kWh, providing a 1,8 kWh buffer (1.8%) for battery protection. Operating at a nominal voltage of 552 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 99.8 kWh and a net usable capacity of 98.0 kWh, providing a 1.8 kWh buffer (1.8%) for battery protection. Operating at a nominal voltage of 552 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 512 to 505 km (318-314 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.1 kWh/100 km for the base model and 19.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -66,13 +66,13 @@ The maximum regenerative power is 150 kW.
 
 The Kia EV9 Long Range AWD, with dimensions of 5010 mm in length, 1980 mm in width, and 1755 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
 
-You can select from multiple wheel options in different sizes on the Kia EV9 Long Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Kia EV9 Long Range AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 - 285/45 tires on 21" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

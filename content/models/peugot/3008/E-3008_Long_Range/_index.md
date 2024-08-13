@@ -30,7 +30,7 @@ The Peugot E-3008 Long Range offers modest performance with a maximum power of 1
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 98 kWh and a net usable capacity of 98 kWh, providing a 0 kWh buffer (0.0%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 98.0 kWh and a net usable capacity of 98.0 kWh, providing a 0.0 kWh buffer (0.0%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 700 km (435 miles), with an energy consumption rate of 14.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,12 +68,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Peugot E-3008 Long Range, with dimensions of 4542 mm in length, 1895 mm in width, and 1641 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Peugot E-3008 Long Range is available in a total of 6 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Peugot E-3008 Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Peugot E-3008 Long Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims
 - 235/50 tires on 20" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

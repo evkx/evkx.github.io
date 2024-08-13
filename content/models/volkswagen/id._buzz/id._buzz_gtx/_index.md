@@ -30,7 +30,7 @@ The Volkswagen ID. Buzz GTX delivers a solid performance with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing a 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 79.0 kWh, providing a 3.0 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 19.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -56,7 +56,7 @@ The Volkswagen ID. Buzz GTX has a rear-wheel drive system supported by one motor
 
 ### Steering
 
-Dynamic steering is an optional feature on the Volkswagen ID. Buzz GTX. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is an optional on the Volkswagen ID. Buzz GTX, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -70,13 +70,13 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The Volkswagen ID. Buzz GTX is available in a total of 12 paint colors, including solid, metallic, and pearlescent options.
 
-You can select from multiple wheel options in different sizes on the Volkswagen ID. Buzz GTX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Volkswagen ID. Buzz GTX offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
 - 235/50 tires on 20" rims front and 265/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 

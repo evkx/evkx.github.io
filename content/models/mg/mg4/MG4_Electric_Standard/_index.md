@@ -30,7 +30,7 @@ The MG MG4 Electric Standard offers modest performance with a maximum power of 1
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 50,8 kWh, providing a 0,2 kWh buffer (0.4%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 51.0 kWh and a net usable capacity of 50.8 kWh, providing a 0.2 kWh buffer (0.4%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 350 km (218 miles), with an energy consumption rate of 14.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -70,7 +70,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG MG4 Electric Standard, with dimensions of 4287 mm in length, 1836 mm in width, and 1504 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric Standard is available in a total of 7 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the MG MG4 Electric Standard, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The MG MG4 Electric Standard offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 There is only one roof option for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

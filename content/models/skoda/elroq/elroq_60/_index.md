@@ -30,7 +30,7 @@ The SKODA Elroq 60 offers modest performance with a maximum power of 150 kW (204
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 63 kWh and a net usable capacity of 59 kWh, providing a 4 kWh buffer (6.3%) for battery protection.
+The high-capacity battery has a gross capacity of 63.0 kWh and a net usable capacity of 59.0 kWh, providing a 4.0 kWh buffer (6.3%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 390 km (242 miles), with an energy consumption rate of 15.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -60,7 +60,7 @@ The Sport suspension has steel springs with a fixed height but an optional dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the SKODA Elroq 60. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the SKODA Elroq 60, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
@@ -74,12 +74,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The SKODA Elroq 60, with dimensions of 4488 mm in length, 1879 mm in width, and 1625 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The SKODA Elroq 60 is available in a total of 9 paint colors, including solid, metallic, and pearlescent options.
 
-You can select from multiple wheel options in different sizes on the SKODA Elroq 60, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The SKODA Elroq 60 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -30,7 +30,7 @@ The Tesla Model S Plaid delivers a jaw-dropping maximum power of 760 KW (1033 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 104,96 kWh and a net usable capacity of 96 kWh, providing a 8,96 kWh buffer (8.5%) for battery protection. With a nominal voltage of 407 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 105.0 kWh and a net usable capacity of 96.0 kWh, providing a 9.0 kWh buffer (8.5%) for battery protection. With a nominal voltage of 407 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 600 km (373 miles), with an energy consumption rate of 16.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Model S Plaid. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Tesla Model S Plaid, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -74,12 +74,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Tesla Model S Plaid, with dimensions of 5021 mm in length, 1987 mm in width, and 1431 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Tesla Model S Plaid is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Tesla Model S Plaid, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Tesla Model S Plaid offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

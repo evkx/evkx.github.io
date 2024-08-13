@@ -30,7 +30,7 @@ The Hyundai Kona Standard Range offers modest performance with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 48,4 kWh, providing a 2,6 kWh buffer (5.1%) for battery protection.
+The high-capacity battery has a gross capacity of 51.0 kWh and a net usable capacity of 48.4 kWh, providing a 2.6 kWh buffer (5.1%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 377 km (234 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -68,12 +68,12 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The Hyundai Kona Standard Range, with dimensions of 4355 mm in length, 1825 mm in width, and 1575 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Hyundai Kona Standard Range offers a selection of 21 paint colors, featuring solid, metallic, pearlescent, and matte options.
 
-You can select from multiple wheel options in different sizes on the Hyundai Kona Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Hyundai Kona Standard Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 215/60 tires on 17" rims
 - 235/45 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

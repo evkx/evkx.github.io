@@ -30,7 +30,7 @@ With overboost, the Audi Q8 e-tron edition Dakar reaches a maximum power of 300 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 114 kWh and a net usable capacity of 106 kWh, providing a 8 kWh buffer (7.0%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 114.0 kWh and a net usable capacity of 106.0 kWh, providing a 8.0 kWh buffer (7.0%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 487 km (303 miles), with an energy consumption rate of 21.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -62,7 +62,7 @@ You can order Audi Q8 e-tron edition Dakar with an alternative Adaptive Air Susp
 
 ### Steering
 
-Dynamic steering is a standard feature on the Audi Q8 e-tron edition Dakar. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Audi Q8 e-tron edition Dakar, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -74,11 +74,11 @@ The Audi Q8 e-tron edition Dakar lets the user select different [drive modes](..
 - Allroad: Balanced steering, high suspension height with balanced throttle and damping.
 - Offroad: Balanced steering, max suspension height with balanced throttle and damping.
 - Auto: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Custom: Custom-defined steering, suspension, and throttle response.
+- Custom: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375 mm, and the rear discs are 350 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 375 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -90,18 +90,18 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Audi Q8 e-tron edition Dakar, with dimensions of 4901 mm in length, 1935 mm in width, and 1629 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Audi Q8 e-tron edition Dakar offers a selection of 3 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the 'Audi exclusive' palette.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
 
 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
-You can select from multiple wheel options in different sizes on the Audi Q8 e-tron edition Dakar, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Audi Q8 e-tron edition Dakar offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 265/60 tires on 18" rims
 - 255/55 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors.
 

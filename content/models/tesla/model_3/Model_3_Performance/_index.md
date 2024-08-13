@@ -30,7 +30,7 @@ The Tesla Model 3 Performance delivers a solid performance with a maximum power 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 78,1 kWh and a net usable capacity of 75 kWh, providing a 3,1 kWh buffer (4.0%) for battery protection. With a nominal voltage of 357 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 78.1 kWh and a net usable capacity of 75.0 kWh, providing a 3.1 kWh buffer (4.0%) for battery protection. With a nominal voltage of 357 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 528 km (328 miles), with an energy consumption rate of 14.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The standard suspension has a fixed height and damping. The ground clearance wit
 
 ### Steering
 
-Dynamic steering is a standard feature on the Tesla Model 3 Performance. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Tesla Model 3 Performance, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -74,12 +74,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Tesla Model 3 Performance, with dimensions of 4694 mm in length, 1849 mm in width, and 1443 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Tesla Model 3 Performance is available in a total of 5 paint colors, including both solid and metallic options.
 
-You can select from multiple wheel options in different sizes on the Tesla Model 3 Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Tesla Model 3 Performance offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/45 tires on 18" rims
 - 255/45 tires on 19" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

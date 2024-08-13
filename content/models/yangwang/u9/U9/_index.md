@@ -30,7 +30,7 @@ The YangWang U9 delivers a jaw-dropping maximum power of 960 KW (1305 hp/1287 bh
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 83 kWh and a net usable capacity of 80 kWh, providing a 3 kWh buffer (3.6%) for battery protection. Operating at a nominal voltage of 630 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 83.0 kWh and a net usable capacity of 80.0 kWh, providing a 3.0 kWh buffer (3.6%) for battery protection. Operating at a nominal voltage of 630 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 465 km ( miles). he energy consumption is 17.2 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,7 +58,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Steering
 
-Dynamic steering is a standard feature on the YangWang U9. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the YangWang U9, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -72,7 +72,7 @@ The YangWang U9 lets the user select different [drive modes](../../../../technol
 
 ### Brakes
 
-The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390 mm, and the rear discs are 390 mm.
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs measure 390 mm, while the rear discs are 390 mm.
 
 ### Regenerative Braking
 

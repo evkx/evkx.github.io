@@ -30,7 +30,7 @@ The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 90 kWh and a net usable capacity of 86,4 kWh, providing a 3,6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 90.0 kWh and a net usable capacity of 86.4 kWh, providing a 3.6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -58,11 +58,11 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Steering
 
-Dynamic steering is a standard feature on the BYD Tang EV600. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the BYD Tang EV600, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 

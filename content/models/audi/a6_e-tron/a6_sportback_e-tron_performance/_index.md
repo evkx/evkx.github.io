@@ -30,7 +30,7 @@ With overboost, the Audi A6 Sportback e-tron performance reaches a maximum power
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 94,9 kWh, providing a 5,1 kWh buffer (5.1%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 94.9 kWh, providing a 5.1 kWh buffer (5.1%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 756 to 673 km (470-418 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -64,7 +64,7 @@ For easier loading, you can lower the air suspension from the rear
 
 ### Steering
 
-Dynamic steering is a standard feature on the Audi A6 Sportback e-tron performance. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Audi A6 Sportback e-tron performance, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -74,11 +74,11 @@ The Audi A6 Sportback e-tron performance lets the user select different [drive m
 - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
 - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
 - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Individual: Custom-defined steering, suspension, and throttle response.
+- Individual: User-defined settings for steering, suspension, and throttle response.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 350 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 350 mm, while the rear discs are 350 mm.
 
 ### Regenerative Braking
 
@@ -92,15 +92,15 @@ The maximum regenerative power is 220 kW.
 
 The Audi A6 Sportback e-tron performance, with dimensions of 4928 mm in length, 1923 mm in width, and 1487 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. Audi A6 Sportback e-tron performance is available in a total of 56 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
 
-You can also choose several styling options to make your car more unique.
+You can also choose from several styling options to make your car more unique.
 
-You can select from multiple wheel options in different sizes on the Audi A6 Sportback e-tron performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Audi A6 Sportback e-tron performance offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 225/55 tires on 19" rims front and 245/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 275/35 tires on 21" rims rear
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors.
 

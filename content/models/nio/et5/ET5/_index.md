@@ -34,7 +34,7 @@ Nio ET5 has two battery options with different specifications. Below you see how
 
 ### 100kWh
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing a 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 90.0 kWh, providing a 10.0 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 590 to 540 km (367-336 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.3 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -44,7 +44,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### 75kWh
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing a 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 75.0 kWh and a net usable capacity of 70.5 kWh, providing a 4.5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 456 to 419 km (283-260 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.3 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -74,11 +74,11 @@ The Nio ET5 features an all-wheel drive system powered by two motors, one on eac
 
 ### Steering
 
-Dynamic steering is a standard feature on the Nio ET5. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Nio ET5, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -90,12 +90,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Nio ET5, with dimensions of 4790 mm in length, 1960 mm in width, and 1499 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Nio ET5 is available in a total of 10 solid paint colors.
 
-You can select from multiple wheel options in different sizes on the Nio ET5, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Nio ET5 offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 255/50 tires on 20" rims
 - 255/45 tires on 21" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 

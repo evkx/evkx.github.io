@@ -30,7 +30,7 @@ The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing a 7,5 kWh buffer (5.0%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149.0 kWh and a net usable capacity of 141.5 kWh, providing a 7.5 kWh buffer (5.0%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 340 miles (516-547 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.3 mi/kWh for the base model and 2.4 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
@@ -59,7 +59,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Steering
 
-Dynamic steering is a standard feature on the Rivian R1S Quad-Motor AWD MP. Dynamic steering varies the steering ratio as a function of driving speed.
+Dynamic steering is a standard on the Rivian R1S Quad-Motor AWD MP, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -73,7 +73,7 @@ The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](..
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343 mm, and the rear discs are 328 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 328 mm.
 
 ### Regenerative Braking
 
@@ -85,12 +85,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1S Quad-Motor AWD MP, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Rivian R1S Quad-Motor AWD MP is available in a total of 9 paint colors, including several striking metallic options.
 
-You can select from multiple wheel options in different sizes on the Rivian R1S Quad-Motor AWD MP, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+The Rivian R1S Quad-Motor AWD MP offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 275/65 tires on 20" rims front and 275/65 tires on 20" rims rear
 - 275/50 tires on 22" rims
 
-More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 
