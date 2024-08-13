@@ -6,25 +6,34 @@ weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 
-The purpose of this system is to improve safety by detecting when the driver is becoming fatigued, distracted, or impaired and providing alerts or interventions to prevent accidents.
+Driver Monitoring Systems (DMS) are designed to enhance safety by detecting signs of driver fatigue, distraction, or impairment, and providing alerts or interventions to prevent accidents.
 
-The driver monitoring system can work in various ways, depending on the specific car model and the type of sensor used. Some common features of driver monitoring systems include:
+## How It Works
 
-Eye tracking: This feature uses a camera to track the driver's eye movements and detect if they are becoming drowsy or distracted. If the system detects that the driver is not paying attention to the road, it can provide an alert to bring their focus back to driving.
+Driver monitoring systems can vary depending on the car model and the type of sensors used. Common features include:
+
+### Eye Tracking
+
+This feature uses a camera to track the driver's eye movements and detect signs of drowsiness or distraction. If the system detects that the driver is not paying attention to the road, it provides an alert to refocus their attention on driving.
 
 {{<evkxdisplayaddarticle />}}
 
-Facial recognition: This feature uses a camera to recognize the driver's face and detect if they are becoming fatigued or distracted. If the system detects that the driver is not alert, it can provide an alert or intervention to prevent accidents.
+### Facial Recognition
 
-Steering wheel sensors: This feature uses sensors on the steering wheel to detect if the driver is holding the wheel and making appropriate inputs. If the system detects that the driver is not paying attention or is becoming fatigued, it can provide an alert or intervention to prevent accidents.
+Facial recognition technology uses a camera to identify the driver's face and monitor for signs of fatigue or distraction. If the system detects that the driver is not alert, it can issue an alert or intervention to prevent accidents.
 
-Driver monitoring systems are becoming increasingly common in modern cars, and they are often included as part of a larger suite of advanced driver assistance systems (ADAS). These systems can help prevent accidents caused by driver error or inattention, and they can also provide valuable data to help improve driver behavior and safety.
+### Steering Wheel Sensors
 
-The video below show how this works on Polestar
+These sensors detect if the driver is holding the steering wheel and making appropriate inputs. If the system senses that the driver is not paying attention or is becoming fatigued, it can provide an alert or intervention to ensure safety.
+
+## Benefits
+
+Driver monitoring systems are increasingly common in modern vehicles and are often part of a larger suite of Advanced Driver Assistance Systems (ADAS). These systems help prevent accidents caused by driver error or inattention and provide valuable data to improve driver behavior and safety.
+
+## Demonstration
+
+The video below demonstrates how the Driver Monitoring System works in a Polestar vehicle:
 
 {{< youtube TZnN31wCRGE >}}
 
-<div class="mt-3 mb-3">
-    <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Driver Drowsiness Detection (DDD)</strong></a>
-    <a href="../efficencyassist/" class="text-decoration-none text-black float-end"><strong>Efficiency Assist <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../driverdrowsinessdetection/" b_title="Driver Drowsiness Detection (DDD)" f_url="../efficencyassist/" f_title="Efficiency Assist" >}}

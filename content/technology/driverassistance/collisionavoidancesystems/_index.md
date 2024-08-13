@@ -28,3 +28,5 @@ It's important to note that while these systems can help prevent or mitigate col
     <a href="../blindspotmonitoring/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Blind Spot Monitoring</strong></a>
     <a href="../driverdrowsinessdetection/" class="text-decoration-none text-black float-end"><strong>Driver Drowsiness Detection (DDD)<i class="bi-arrow-right"></i></strong></a>
 </div>
+
+{{< pagenavigation b_url="../blindspotmonitoring/" b_title="Blind Spot Monitoring" f_url="../driverdrowsinessdetection/" f_title="Driver Drowsiness Detection (DDD)" >}}
