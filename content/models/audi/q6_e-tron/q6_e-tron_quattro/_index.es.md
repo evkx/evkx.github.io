@@ -116,6 +116,8 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
+Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
+
 ### Asientos
 
 El Audi Q6 e-tron quattro tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -129,6 +131,10 @@ Las siguientes funcionalidades están disponibles en el asiento **Normal**.
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
@@ -137,6 +143,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
@@ -150,6 +163,12 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
+
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 

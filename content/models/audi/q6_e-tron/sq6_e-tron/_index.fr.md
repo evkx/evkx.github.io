@@ -116,7 +116,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-L'Audi SQ6 e-tron présente un intérieur axé sur le conducteur qui améliore la sensation de cockpit, avec des matériaux de qualité supérieure dans toutes les zones importantes. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques.
+L'Audi SQ6 e-tron présente un intérieur axé sur le conducteur qui améliore la sensation de cockpit, avec des matériaux de qualité supérieure dans toutes les zones importantes. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -135,6 +135,13 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
+Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Beige [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
+
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
 - réglage électrique
@@ -143,6 +150,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [Sellerie Dinamica/cuir](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Sellerie Dinamica/cuir](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

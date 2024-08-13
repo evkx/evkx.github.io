@@ -116,6 +116,8 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
+Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
+
 ### Säten
 
 Audi Q6 e-tron quattro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
@@ -129,6 +131,10 @@ Följande funktioner är tillgängliga på **Normal** sätet.
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+
 Följande funktioner är tillgängliga på **Sport** sätet.
 
 - elektrisk justering (valfritt)
@@ -137,6 +143,13 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
 
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
@@ -150,6 +163,12 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 

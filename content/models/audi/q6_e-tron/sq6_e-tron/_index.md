@@ -116,7 +116,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The Audi SQ6 e-tron features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+The Audi SQ6 e-tron features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
 
 ### Seats
 
@@ -135,6 +135,13 @@ The following functionalities are available on the **Sport** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+
 The following functionalities are available on the **Sport Plus** seat:
 
 - Electric adjustment
@@ -143,6 +150,12 @@ The following functionalities are available on the **Sport Plus** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+
+Available in:
+
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/leather upholstering](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/leather upholstering](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

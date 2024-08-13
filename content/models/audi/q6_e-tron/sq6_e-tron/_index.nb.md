@@ -116,7 +116,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Audi SQ6 e-tron har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
+Audi SQ6 e-tron har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -135,6 +135,13 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
+
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
@@ -143,6 +150,12 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

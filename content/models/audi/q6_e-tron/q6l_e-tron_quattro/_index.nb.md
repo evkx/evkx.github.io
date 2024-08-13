@@ -114,6 +114,8 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
+Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
+
 ### Seter
 
 Audi Q6L e-tron quattro har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
@@ -127,6 +129,10 @@ Følgende funksjoner er tilgjengelige på **Normal** setet.
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering (valgfri)
@@ -135,6 +141,13 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
 
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
@@ -148,6 +161,12 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
 
 #### Seter på andre rad
 

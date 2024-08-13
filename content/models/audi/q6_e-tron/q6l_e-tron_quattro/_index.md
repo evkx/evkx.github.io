@@ -114,6 +114,8 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
+
 ### Seats
 
 The Audi Q6L e-tron quattro accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -127,6 +129,10 @@ The following functionalities are available on the **Normal** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
 The following functionalities are available on the **Sport** seat:
 
 - Electric adjustment (optional)
@@ -135,6 +141,13 @@ The following functionalities are available on the **Sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Beige [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
 
 The following functionalities are available on the **Sport Plus** seat:
 
@@ -148,6 +161,12 @@ The following functionalities are available on the **Sport Plus** seat:
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+
+Available in:
+
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/leather upholstering](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/leather upholstering](../../../../technology/seats/materials/#microfiber)
 
 #### Second Row Seat
 

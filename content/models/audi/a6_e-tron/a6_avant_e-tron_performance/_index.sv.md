@@ -112,7 +112,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Audi A6 Avant e-tron performance har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
+Audi A6 Avant e-tron performance har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet. Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
@@ -131,6 +131,13 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
+
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Beige [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 - elektrisk justering
@@ -142,6 +149,12 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+Du kan välja mellan 3 olika material/färger för denna sitstyp.
+
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

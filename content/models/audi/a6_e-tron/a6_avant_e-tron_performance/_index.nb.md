@@ -112,7 +112,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Audi A6 Avant e-tron performance har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
+Audi A6 Avant e-tron performance har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -131,6 +131,13 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
+
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Beige [skinntrekk](../../../../technology/seats/materials/#leather)
+- Red [skinntrekk](../../../../technology/seats/materials/#leather)
+
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
@@ -142,6 +149,12 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/skinn polstring](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

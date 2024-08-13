@@ -114,6 +114,8 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
+Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
 
 Audi Q6L e-tron quattro har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -127,6 +129,10 @@ Følgende funktioner er tilgængelige på **Normal** sædet.
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
 - elektrisk justering (valgfrit)
@@ -135,6 +141,13 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
+
+Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
+
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Beige [læderpolstring](../../../../technology/seats/materials/#leather)
+- Red [læderpolstring](../../../../technology/seats/materials/#leather)
 
 Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
@@ -148,6 +161,12 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Dinamica/læder polstring](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Dinamica/læder polstring](../../../../technology/seats/materials/#microfiber)
 
 #### Sæde på anden række
 

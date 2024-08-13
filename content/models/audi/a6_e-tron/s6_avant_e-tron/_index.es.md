@@ -111,7 +111,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-El Audi S6 Avant e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
+El Audi S6 Avant e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -130,6 +130,13 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Beige [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
+
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 - ajuste eléctrico
@@ -141,6 +148,12 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
+
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
+- Black/Red [Tapicería Dinamica/cuero](../../../../technology/seats/materials/#microfiber)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 
