@@ -117,7 +117,7 @@ You can choose from 2 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -137,8 +137,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The HiPhi Z 4 Seater includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -165,7 +165,7 @@ The HiPhi Z 4 Seater is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -175,7 +175,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 The HiPhi Z 4 Seater comes equipped with one sound system option:
 
-- **SONIC PRO SYSTEM:**: This system features 23 speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:**: Features 23 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
 

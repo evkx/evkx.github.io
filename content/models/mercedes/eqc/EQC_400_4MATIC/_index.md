@@ -91,7 +91,7 @@ There is only one roof option for this model. As an option, you can order this m
 
 ### Seats
 
-The Mercedes-EQ EQC 400 4MATIC accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Mercedes-EQ EQC 400 4MATIC accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -111,8 +111,8 @@ There is one climate system available:
 
 The Mercedes-EQ EQC 400 4MATIC includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -137,7 +137,7 @@ The Mercedes-EQ EQC 400 4MATIC is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -147,15 +147,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC.
+You can choose between three sound systems for the Mercedes-EQ EQC 400 4MATIC:
 
-- **Standard:**: This system features seven speakers and delivers a maximum output of 100 watts.
-- **Advanced Soundsystem:**: This system features nine speakers and delivers a maximum output of 225 watts.
-- **Burmester Surround Soundsystem:**: This system features 13 speakers and delivers a maximum output of 590 watts.
+- **Standard:**: Features seven speakers and delivers a maximum output of 100 watts.
+- **Advanced Soundsystem:**: Features nine speakers and delivers a maximum output of 225 watts.
+- **Burmester Surround Soundsystem:**: Features 13 speakers and delivers a maximum output of 590 watts.
 
 ## Lights
 

@@ -120,7 +120,7 @@ You can choose from 2 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
@@ -142,8 +142,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Tesla Model Y Performance includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -172,7 +172,7 @@ The Tesla Model Y Performance is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -182,7 +182,7 @@ The Tesla Model Y Performance features a Tesla Infotainment system that runs on 
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Preinstalled Apps
 
@@ -199,13 +199,13 @@ While the infotainment system does not include an app store, it comes with a sel
 
 The Tesla Model Y Performance comes equipped with one sound system option:
 
-- **Tesla Premium Sound:**: This system features 13 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:**: Features 13 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
 ## Mobile App
 
-The Tesla Model Y Performance comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+The Tesla Model Y Performance comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.

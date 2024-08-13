@@ -91,7 +91,7 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-The Peugot E-3008 Long Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Peugot E-3008 Long Range accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -117,7 +117,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -134,8 +134,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Peugot E-3008 Long Range includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -161,7 +161,7 @@ The Peugot E-3008 Long Range is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -171,14 +171,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Peugot E-3008 Long Range supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Peugot E-3008 Long Range.
+You can choose between two sound systems for the Peugot E-3008 Long Range:
 
-- **:**: This system features six speakers and delivers a maximum output of 100 watts.
-- **:**: This system features ten speakers and delivers a maximum output of 690 watts.
+- **:**: Features six speakers and delivers a maximum output of 100 watts.
+- **:**: Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

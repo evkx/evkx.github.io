@@ -136,11 +136,11 @@ You can choose from 3 different materials/colors for this seat type:
 
 You can choose two seat types for the second row in the Nio ES8.
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-The standard option is two captain chairs. In addition, the following functionalities are available:
+The standard option is two captain chairs. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -159,8 +159,8 @@ There is one climate system available:
 
 The Nio ES8 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -185,7 +185,7 @@ The Nio ES8 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -197,10 +197,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems on the Nio ES8.
+You can choose between two sound systems for the Nio ES8:
 
-- **Surroundsystem:**: This system features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 3 USB-A connections as standard.
 

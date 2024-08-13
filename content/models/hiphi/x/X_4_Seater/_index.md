@@ -116,7 +116,7 @@ You can choose from 2 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available:
+For the second row, this model has two captain chairs. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -135,8 +135,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The HiPhi X 4 Seater includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -165,7 +165,7 @@ The HiPhi X 4 Seater is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -177,10 +177,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems on the HiPhi X 4 Seater.
+You can choose between two sound systems for the HiPhi X 4 Seater:
 
-- **SONIC LINE SYSTEM:**: This system features nine speakers and delivers a maximum output of 600 watts.
-- **SONIC PRO SYSTEM:**: This system features 17 speakers and delivers a maximum output of 600 watts.
+- **SONIC LINE SYSTEM:**: Features nine speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:**: Features 17 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

@@ -96,11 +96,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The BMW i5 M60 xDrive accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The BMW i5 M60 xDrive accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the BMW i5 M60 xDrive offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Sport** seat:
 
@@ -127,7 +127,7 @@ The following functionalities are available on the **Comfort seats** seat:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -146,8 +146,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The BMW i5 M60 xDrive includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -174,7 +174,7 @@ The BMW i5 M60 xDrive is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -188,15 +188,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the BMW i5 M60 xDrive supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The BMW i5 M60 xDrive supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between three sound systems on the BMW i5 M60 xDrive.
+You can choose between three sound systems for the BMW i5 M60 xDrive:
 
-- **Hifi Sound system:**: This system features six speakers and delivers a maximum output of 100 watts.
-- **Harman Kardon Surround Sound system:**: This system features 12 speakers and delivers a maximum output of 205 watts.
-- **Bower & Wilkins Surround System:**: This system features 18 speakers and delivers a maximum output of 655 watts.
+- **Hifi Sound system:**: Features six speakers and delivers a maximum output of 100 watts.
+- **Harman Kardon Surround Sound system:**: Features 12 speakers and delivers a maximum output of 205 watts.
+- **Bower & Wilkins Surround System:**: Features 18 speakers and delivers a maximum output of 655 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 

@@ -120,11 +120,11 @@ The Audi SQ6 e-tron features a driver-focused interior that enhances the cockpit
 
 ### Seats
 
-The Audi SQ6 e-tron accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Audi SQ6 e-tron accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Audi SQ6 e-tron offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Sport** seat:
 
@@ -148,7 +148,7 @@ The following functionalities are available on the **Sport Plus** seat:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -166,8 +166,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Audi SQ6 e-tron includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -176,7 +176,7 @@ The Audi SQ6 e-tron includes several features to enhance comfort and convenience
 
 ## User Interface and Control
 
-The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+The control interface for the Audi SQ6 e-tron combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Audi SQ6 e-tron features twin screens on a shared curved frame partially integrated into the dashboard. Additionally, an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) is available for the passenger.
 
@@ -198,7 +198,7 @@ The Audi SQ6 e-tron is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -208,7 +208,7 @@ The Audi SQ6 e-tron features an advanced infotainment system built on Android Au
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
 
 ### App Store
 
@@ -220,20 +220,20 @@ The infotainment system includes an App Store where you can download third-party
 
 ### Phone Mirroring
 
-Furthermore, the Audi SQ6 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Audi SQ6 e-tron supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Audi SQ6 e-tron.
+You can choose between two sound systems for the Audi SQ6 e-tron:
 
-- **Audi Sound System:**: This system features five speakers and delivers a maximum output of 200 watts.
-- **Bang & Olufsen Sound System:**: This system features 20 speakers and delivers a maximum output of 830 watts.
+- **Audi Sound System:**: Features five speakers and delivers a maximum output of 200 watts.
+- **Bang & Olufsen Sound System:**: Features 20 speakers and delivers a maximum output of 830 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Mobile App
 
-The Audi SQ6 e-tron comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+The Audi SQ6 e-tron comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.

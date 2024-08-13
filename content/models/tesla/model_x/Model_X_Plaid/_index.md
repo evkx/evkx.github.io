@@ -114,7 +114,7 @@ You can choose from 3 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
@@ -134,8 +134,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Tesla Model X Plaid includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -163,7 +163,7 @@ The Tesla Model X Plaid is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -175,7 +175,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Tesla Model X Plaid comes equipped with one sound system option:
 
-- **Tesla Premium Sound:**: This system features 22 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:**: Features 22 speakers and delivers a maximum output of 560 watts.
 
 ## Lights
 

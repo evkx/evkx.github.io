@@ -97,7 +97,7 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-The Lotus Eletre R accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Lotus Eletre R accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -124,7 +124,7 @@ You can choose from 5 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
@@ -143,8 +143,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Lotus Eletre R includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -180,14 +180,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Lotus Eletre R supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Lotus Eletre R supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Lotus Eletre R.
+You can choose between two sound systems for the Lotus Eletre R:
 
-- **KEF Premium Audio system:**: This system features 15 speakers and delivers a maximum output of 1380 watts.
-- **KEF Reference Audio system:**: This system features 23 speakers and delivers a maximum output of 2160 watts.
+- **KEF Premium Audio system:**: Features 15 speakers and delivers a maximum output of 1380 watts.
+- **KEF Reference Audio system:**: Features 23 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

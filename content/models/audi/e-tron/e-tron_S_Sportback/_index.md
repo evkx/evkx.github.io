@@ -116,11 +116,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Audi e-tron S Sportback accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Audi e-tron S Sportback accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Audi e-tron S Sportback offers three different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **s-line sport** seat:
 
@@ -165,7 +165,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 
@@ -182,8 +182,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Audi e-tron S Sportback includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
@@ -222,14 +222,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Audi e-tron S Sportback supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Audi e-tron S Sportback supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Audi e-tron S Sportback.
+You can choose between two sound systems for the Audi e-tron S Sportback:
 
-- **Audi Sound system:**: This system features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System:**: This system features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:**: Features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:**: Features 16 speakers and delivers a maximum output of 700 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

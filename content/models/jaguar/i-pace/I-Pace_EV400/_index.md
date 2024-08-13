@@ -92,11 +92,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Jaguar I-Pace EV400 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Jaguar I-Pace EV400 accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Jaguar I-Pace EV400 offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Performance** seat:
 
@@ -142,9 +142,9 @@ You can choose from 6 different materials/colors for this seat type:
 
 You can choose two seat types for the second row in the Jaguar I-Pace EV400.
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
-The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
@@ -187,7 +187,7 @@ The Jaguar I-Pace EV400 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -197,14 +197,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Jaguar I-Pace EV400.
+You can choose between two sound systems for the Jaguar I-Pace EV400:
 
-- **Meridian Sound System:**: This system features 11 speakers and delivers a maximum output of 400 watts.
-- **Meridian 3D Surround:**: This system features 16 speakers and delivers a maximum output of 750 watts.
+- **Meridian Sound System:**: Features 11 speakers and delivers a maximum output of 400 watts.
+- **Meridian 3D Surround:**: Features 16 speakers and delivers a maximum output of 750 watts.
 
 ## Lights
 

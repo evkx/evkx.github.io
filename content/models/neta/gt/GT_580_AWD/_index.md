@@ -111,8 +111,8 @@ There is one climate system available:
 
 The Neta GT 580 AWD includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -138,7 +138,7 @@ The Neta GT 580 AWD is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -148,7 +148,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 The Neta GT 580 AWD comes equipped with one sound system option:
 
-- **Neta Sky sound:**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Neta Sky sound:**: Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

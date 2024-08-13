@@ -131,7 +131,7 @@ You can choose from 3 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -152,8 +152,8 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The Rivian R1S Quad-Motor AWD MP includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -180,7 +180,7 @@ The Rivian R1S Quad-Motor AWD MP is equipped with a single type of steering whee
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -196,7 +196,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Rivian R1S Quad-Motor AWD MP comes equipped with one sound system option:
 
-- **Rivian Premium Audio:**: This system features 19 speakers and delivers a maximum output of 960 watts.
+- **Rivian Premium Audio:**: Features 19 speakers and delivers a maximum output of 960 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 

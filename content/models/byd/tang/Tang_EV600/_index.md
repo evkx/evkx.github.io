@@ -114,7 +114,7 @@ You can choose from 3 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -136,8 +136,8 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The BYD Tang EV600 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -164,7 +164,7 @@ The BYD Tang EV600 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -174,10 +174,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems on the BYD Tang EV600.
+You can choose between two sound systems for the BYD Tang EV600:
 
-- **Surroundsystem:**: This system features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 

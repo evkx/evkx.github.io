@@ -104,7 +104,7 @@ You can choose from 3 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
 
@@ -120,7 +120,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The MG Marvel R Electric Performance includes several features to enhance comfort and convenience:
 
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -144,7 +144,7 @@ The MG Marvel R Electric Performance is equipped with a single type of steering 
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -156,13 +156,13 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the MG Marvel R Electric Performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The MG Marvel R Electric Performance supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
 The MG Marvel R Electric Performance comes equipped with one sound system option:
 
-- **:**: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: Features NULL speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 

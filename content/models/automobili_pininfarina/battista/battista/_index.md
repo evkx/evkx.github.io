@@ -124,8 +124,8 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The Automobili Pininfarina Battista includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -151,7 +151,7 @@ The Automobili Pininfarina Battista is equipped with a single type of steering w
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -161,13 +161,13 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Automobili Pininfarina Battista supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Automobili Pininfarina Battista supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
 The Automobili Pininfarina Battista comes equipped with one sound system option:
 
-- **Rimac Nevera Sound System:**: This system features eight speakers and delivers a maximum output of 1200 watts.
+- **Rimac Nevera Sound System:**: Features eight speakers and delivers a maximum output of 1200 watts.
 
 ## Lights
 

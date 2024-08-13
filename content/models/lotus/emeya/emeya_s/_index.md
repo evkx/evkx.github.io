@@ -127,12 +127,12 @@ You can choose from 5 different materials/colors for this seat type:
 
 You can choose two seat types for the second row in the Lotus Emeya S.
 
-The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
+The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
@@ -148,8 +148,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Lotus Emeya S includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -173,7 +173,7 @@ The Lotus Emeya S is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -185,14 +185,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Lotus Emeya S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Lotus Emeya S supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Lotus Emeya S.
+You can choose between two sound systems for the Lotus Emeya S:
 
-- **KEF Premium Audio system:**: This system features 15 speakers and delivers a maximum output of 1380 watts.
-- **KEF Reference Audio system:**: This system features 23 speakers and delivers a maximum output of 2160 watts.
+- **KEF Premium Audio system:**: Features 15 speakers and delivers a maximum output of 1380 watts.
+- **KEF Reference Audio system:**: Features 23 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

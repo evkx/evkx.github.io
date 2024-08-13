@@ -142,7 +142,7 @@ The Dacia Spring 65HP is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -152,13 +152,13 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Dacia Spring 65HP supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Dacia Spring 65HP supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
 The Dacia Spring 65HP comes equipped with one sound system option:
 
-- **:**: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: Features NULL speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard.
 

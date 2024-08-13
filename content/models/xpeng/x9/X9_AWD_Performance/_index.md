@@ -105,7 +105,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available:
+For the second row, this model has two captain chairs. Additional functionalities include:
 
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -149,7 +149,7 @@ The XPENG X9 AWD Performance is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -157,7 +157,7 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 The XPENG X9 AWD Performance comes equipped with one sound system option:
 
-- **:**: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: Features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 

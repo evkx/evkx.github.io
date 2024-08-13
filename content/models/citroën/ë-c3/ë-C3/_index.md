@@ -97,11 +97,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Citroën ë-C3 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Citroën ë-C3 accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Citroën ë-C3 offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Start** seat:
 
@@ -174,7 +174,7 @@ The Citroën ë-C3 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -186,14 +186,14 @@ With the an optional in-car navigation system, you have all the assistance you n
 
 ### Phone Mirroring
 
-Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Citroën ë-C3 supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Citroën ë-C3.
+You can choose between two sound systems for the Citroën ë-C3:
 
-- **:**: This system features two speakers and delivers a maximum output of  watts.
-- **Max Sound system:**: This system features two speakers and delivers a maximum output of  watts.
+- **:**: Features two speakers and delivers a maximum output of  watts.
+- **Max Sound system:**: Features two speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

@@ -122,7 +122,7 @@ You can choose from 5 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available:
+For the second row, this model has two captain chairs. Additional functionalities include:
 
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -149,8 +149,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Li Auto MEGA includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -177,7 +177,7 @@ The Li Auto MEGA is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
@@ -189,13 +189,13 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Li Auto MEGA supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Li Auto MEGA supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
 The Li Auto MEGA comes equipped with one sound system option:
 
-- **Platinum audio system:**: This system features 21 speakers and delivers a maximum output of 2160 watts.
+- **Platinum audio system:**: Features 21 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

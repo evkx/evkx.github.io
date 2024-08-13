@@ -90,7 +90,7 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-The Ford F150 Lightning Standard Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Ford F150 Lightning Standard Range accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -114,7 +114,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 ## Climate System
 
@@ -156,7 +156,7 @@ The Ford F150 Lightning Standard Range is equipped with a single type of steerin
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -166,15 +166,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Ford F150 Lightning Standard Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Ford F150 Lightning Standard Range supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between three sound systems on the Ford F150 Lightning Standard Range.
+You can choose between three sound systems for the Ford F150 Lightning Standard Range:
 
-- **Ford:**: This system features four speakers and delivers a maximum output of 80 watts.
-- **B&O Sound System:**: This system features eight speakers and delivers a maximum output of 640 watts.
-- **B&O Unleashed Sound System:**: This system features 18 speakers and delivers a maximum output of 1080 watts.
+- **Ford:**: Features four speakers and delivers a maximum output of 80 watts.
+- **B&O Sound System:**: Features eight speakers and delivers a maximum output of 640 watts.
+- **B&O Unleashed Sound System:**: Features 18 speakers and delivers a maximum output of 1080 watts.
 
 ## Lights
 

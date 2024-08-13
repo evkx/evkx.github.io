@@ -111,7 +111,7 @@ You can choose from 2 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -130,8 +130,8 @@ There is one climate system available:
 
 The Hongqi E-HS9 Comfort includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -160,7 +160,7 @@ The Hongqi E-HS9 Comfort is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -174,7 +174,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Hongqi E-HS9 Comfort comes equipped with one sound system option:
 
-- **Hongqi sound system:**: This system features eight speakers and delivers a maximum output of  watts.
+- **Hongqi sound system:**: Features eight speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

@@ -86,7 +86,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ### Seats
 
-The VOYAH FREE accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The VOYAH FREE accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -110,7 +110,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 ## Climate System
 
@@ -148,7 +148,7 @@ The VOYAH FREE is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -160,7 +160,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The VOYAH FREE comes equipped with one sound system option:
 
-- **DYNAUDIO HIFI Sound system:**: This system features NULL speakers and delivers a maximum output of  watts.
+- **DYNAUDIO HIFI Sound system:**: Features NULL speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

@@ -88,7 +88,7 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-The Polestar 4 Long range Single motor accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Polestar 4 Long range Single motor accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -113,7 +113,7 @@ You can choose from 5 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
@@ -129,8 +129,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Polestar 4 Long range Single motor includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -155,16 +155,16 @@ The Polestar 4 Long range Single motor is equipped with a single type of steerin
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
 ### Sound System
 
-You can choose between two sound systems on the Polestar 4 Long range Single motor.
+You can choose between two sound systems for the Polestar 4 Long range Single motor:
 
-- **High Performance:**: This system features eight speakers and delivers a maximum output of 200 watts.
-- **Bowers & Wilkins:**: This system features 25 speakers and delivers a maximum output of 1610 watts.
+- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
+- **Bowers & Wilkins:**: Features 25 speakers and delivers a maximum output of 1610 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

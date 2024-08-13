@@ -104,11 +104,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Audi Q4 Sportback 50 e-tron quattro accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Audi Q4 Sportback 50 e-tron quattro accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Audi Q4 Sportback 50 e-tron quattro offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
 
@@ -135,9 +135,9 @@ You can choose from 4 different materials/colors for this seat type:
 
 You can choose two seat types for the second row in the Audi Q4 Sportback 50 e-tron quattro.
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
-The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
@@ -154,8 +154,8 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 
 The Audi Q4 Sportback 50 e-tron quattro includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -182,7 +182,7 @@ The Audi Q4 Sportback 50 e-tron quattro is equipped with a single type of steeri
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -192,20 +192,20 @@ With the an optional in-car navigation system, you have all the assistance you n
 
 ### Phone Mirroring
 
-Furthermore, the Audi Q4 Sportback 50 e-tron quattro supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Audi Q4 Sportback 50 e-tron quattro supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Audi Q4 Sportback 50 e-tron quattro.
+You can choose between two sound systems for the Audi Q4 Sportback 50 e-tron quattro:
 
-- **Audi Sound system:**: This system features eight speakers and delivers a maximum output of 180 watts.
-- **Sonos Sound System:**: This system features ten speakers and delivers a maximum output of 580 watts.
+- **Audi Sound system:**: Features eight speakers and delivers a maximum output of 180 watts.
+- **Sonos Sound System:**: Features ten speakers and delivers a maximum output of 580 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Mobile App
 
-The Audi Q4 Sportback 50 e-tron quattro comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+The Audi Q4 Sportback 50 e-tron quattro comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.

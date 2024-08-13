@@ -112,7 +112,7 @@ You can choose from 2 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has two captain chairs. In addition, the following functionalities are available:
+For the second row, this model has two captain chairs. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -132,8 +132,8 @@ There is one climate system available:
 
 The Hongqi E-HS9 Exclusive includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -162,7 +162,7 @@ The Hongqi E-HS9 Exclusive is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -176,7 +176,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Hongqi E-HS9 Exclusive comes equipped with one sound system option:
 
-- **Hongqi sound system:**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Hongqi sound system:**: Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

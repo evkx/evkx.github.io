@@ -85,7 +85,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 ## Climate System
 
@@ -118,7 +118,7 @@ The Honda e:Ny1 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -126,7 +126,7 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 The Honda e:Ny1 comes equipped with one sound system option:
 
-- **:**: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: Features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 

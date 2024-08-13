@@ -89,7 +89,7 @@ You can choose between different types of seat materials and interior styling. Y
 
 ### Seats
 
-The Volvo EX30 Single Motor accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Volvo EX30 Single Motor accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -110,7 +110,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
@@ -129,8 +129,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Volvo EX30 Single Motor includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -155,7 +155,7 @@ The Volvo EX30 Single Motor is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -165,10 +165,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems on the Volvo EX30 Single Motor.
+You can choose between two sound systems for the Volvo EX30 Single Motor:
 
-- **High Performance:**: This system features eight speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Premium Sound:**: This system features 13 speakers and delivers a maximum output of 1040 watts.
+- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Premium Sound:**: Features 13 speakers and delivers a maximum output of 1040 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

@@ -109,11 +109,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Audi RS e-tron GT performance accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Audi RS e-tron GT performance accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Audi RS e-tron GT performance offers three different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **sport** seat:
 
@@ -163,8 +163,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Audi RS e-tron GT performance includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -191,7 +191,7 @@ The Audi RS e-tron GT performance is equipped with a single type of steering whe
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -201,18 +201,18 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Audi RS e-tron GT performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Audi RS e-tron GT performance supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Audi RS e-tron GT performance.
+You can choose between two sound systems for the Audi RS e-tron GT performance:
 
-- **Audi Sound system:**: This system features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System:**: This system features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:**: Features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:**: Features 16 speakers and delivers a maximum output of 700 watts.
 
 ## Mobile App
 
-The Audi RS e-tron GT performance comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+The Audi RS e-tron GT performance comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 - **Locate Your Vehicle:** Easily check the current location of your car.
 - **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.

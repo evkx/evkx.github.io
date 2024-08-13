@@ -118,17 +118,17 @@ You can choose from 6 different materials/colors for this seat type:
 
 You can choose three seat types for the second row in the Kia EV9 GT-Line AWD.
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-The second option is two captain chairs. In addition, the following functionalities are available:
+The second option is two captain chairs. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
-The third option is two captain chairs. In addition, the following functionalities are available:
+The third option is two captain chairs. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -154,8 +154,8 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 
 The Kia EV9 GT-Line AWD includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -183,7 +183,7 @@ The Kia EV9 GT-Line AWD is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -193,14 +193,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Kia EV9 GT-Line AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Kia EV9 GT-Line AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Kia EV9 GT-Line AWD.
+You can choose between two sound systems for the Kia EV9 GT-Line AWD:
 
-- **Standard:**: This system features six speakers and delivers a maximum output of  watts.
-- **Meridian Premium Sound System:**: This system features 14 speakers and delivers a maximum output of  watts.
+- **Standard:**: Features six speakers and delivers a maximum output of  watts.
+- **Meridian Premium Sound System:**: Features 14 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 

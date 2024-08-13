@@ -111,7 +111,7 @@ There is only one roof option for this model. The standard roof has a large pano
 
 ### Seats
 
-The Nio EL7 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Nio EL7 accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -136,7 +136,7 @@ You can choose from 3 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -154,8 +154,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Nio EL7 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -180,7 +180,7 @@ The Nio EL7 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -194,7 +194,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Nio EL7 comes equipped with one sound system option:
 
-- **Premium sound system:**: This system features 23 speakers and delivers a maximum output of  watts.
+- **Premium sound system:**: Features 23 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 

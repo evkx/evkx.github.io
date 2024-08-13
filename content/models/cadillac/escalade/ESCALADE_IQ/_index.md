@@ -109,7 +109,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -135,8 +135,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Cadillac ESCALADE IQ includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -162,7 +162,7 @@ The Cadillac ESCALADE IQ is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -172,10 +172,10 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Sound System
 
-You can choose between two sound systems on the Cadillac ESCALADE IQ.
+You can choose between two sound systems for the Cadillac ESCALADE IQ:
 
-- **AKG Studio audi System:**: This system features 19 speakers and delivers a maximum output of 1000 watts.
-- **AKG Studio Reference System:**: This system features 40 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio audi System:**: Features 19 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio Reference System:**: Features 40 speakers and delivers a maximum output of 1000 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 

@@ -94,7 +94,7 @@ Mercedes-EQ EQB 250 is available in a standard five-seat configuration, with an 
 
 #### First Row Seats
 
-For the front row, the Mercedes-EQ EQB 250 offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
 
@@ -129,7 +129,7 @@ You can choose from 5 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 
@@ -148,8 +148,8 @@ Two climate system options are available:
 
 The Mercedes-EQ EQB 250 includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -175,7 +175,7 @@ The Mercedes-EQ EQB 250 is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 
@@ -189,14 +189,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Mercedes-EQ EQB 250 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Mercedes-EQ EQB 250 supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Mercedes-EQ EQB 250.
+You can choose between two sound systems for the Mercedes-EQ EQB 250:
 
-- **Standard:**: This system features seven speakers and delivers a maximum output of 100 watts.
-- **Advanced Soundsystem:**: This system features nine speakers and delivers a maximum output of 225 watts.
+- **Standard:**: Features seven speakers and delivers a maximum output of 100 watts.
+- **Advanced Soundsystem:**: Features nine speakers and delivers a maximum output of 225 watts.
 
 Additionally, the model includes 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

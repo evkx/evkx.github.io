@@ -100,11 +100,11 @@ The Volkswagen ID.7 Pro S boasts a driver-focused interior, enhancing the cockpi
 
 ### Seats
 
-The Volkswagen ID.7 Pro S accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Volkswagen ID.7 Pro S accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Volkswagen ID.7 Pro S offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
 
@@ -130,7 +130,7 @@ The following functionalities are available on the **ergoActive** seat:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 
@@ -149,15 +149,15 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Volkswagen ID.7 Pro S includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
 
-The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+The control interface for the Volkswagen ID.7 Pro S combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The Volkswagen ID.7 Pro S has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -178,7 +178,7 @@ The Volkswagen ID.7 Pro S is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -186,7 +186,7 @@ The Volkswagen ID.7 Pro S features an advanced infotainment system built on Andr
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+The built-in navigation system uses detailed maps and offers advanced route planning, allowing you to define the target charge level at your destination or during charging stops. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Preinstalled Apps
 
@@ -196,14 +196,14 @@ While the infotainment system does not include an app store, it comes with a sel
 
 ### Phone Mirroring
 
-Furthermore, the Volkswagen ID.7 Pro S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Volkswagen ID.7 Pro S supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Volkswagen ID.7 Pro S.
+You can choose between two sound systems for the Volkswagen ID.7 Pro S:
 
-- **Sound system:**: This system features six speakers and delivers a maximum output of 140 watts.
-- **Harman Kardon Soundsystem:**: This system features 12 speakers and delivers a maximum output of 700 watts.
+- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
+- **Harman Kardon Soundsystem:**: Features 12 speakers and delivers a maximum output of 700 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 

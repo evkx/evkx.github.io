@@ -83,7 +83,7 @@ There is only one roof option for this model. The standard roof includes a large
 
 ### Seats
 
-The Aion Hyper GT 710 Supercharged accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Aion Hyper GT 710 Supercharged accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -125,8 +125,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Aion Hyper GT 710 Supercharged includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -150,7 +150,7 @@ The Aion Hyper GT 710 Supercharged is equipped with a single type of steering wh
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -158,7 +158,7 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 The Aion Hyper GT 710 Supercharged comes equipped with one sound system option:
 
-- **:**: This system features 23 speakers and delivers a maximum output of  watts.
+- **:**: Features 23 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard.
 

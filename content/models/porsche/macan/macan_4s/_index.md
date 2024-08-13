@@ -108,11 +108,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ### Seats
 
-The Porsche Macan 4S accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The Porsche Macan 4S accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the Porsche Macan 4S offers three different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers three seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **Comfortseats** seat:
 
@@ -150,7 +150,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -169,8 +169,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The Porsche Macan 4S includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -196,7 +196,7 @@ The Porsche Macan 4S is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -206,14 +206,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Porsche Macan 4S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Porsche Macan 4S supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Porsche Macan 4S.
+You can choose between two sound systems for the Porsche Macan 4S:
 
-- ** BOSE® Surround Sound System:**: This system features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System:**: This system features 21 speakers and delivers a maximum output of 1470 watts.
+- ** BOSE® Surround Sound System:**: Features 14 speakers and delivers a maximum output of 710 watts.
+- ** Burmester® 3D High-End Surround Sound System:**: Features 21 speakers and delivers a maximum output of 1470 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

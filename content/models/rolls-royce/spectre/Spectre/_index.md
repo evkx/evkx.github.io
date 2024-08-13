@@ -119,7 +119,7 @@ You can choose from 7 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -138,8 +138,8 @@ There is one climate system available:
 
 The Rolls-Royce Spectre includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
 - **Wireless Phone Charging**
 
@@ -166,7 +166,7 @@ The Rolls-Royce Spectre is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -176,14 +176,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### Phone Mirroring
 
-Furthermore, the Rolls-Royce Spectre supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The Rolls-Royce Spectre supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the Rolls-Royce Spectre.
+You can choose between two sound systems for the Rolls-Royce Spectre:
 
-- **Harman Kardon Surround Sound system:**: This system features 18 speakers and delivers a maximum output of 655 watts.
-- **Bowers & Wilkins Diamond surround sound system:**: This system features 30 speakers and delivers a maximum output of 1615 watts.
+- **Harman Kardon Surround Sound system:**: Features 18 speakers and delivers a maximum output of 655 watts.
+- **Bowers & Wilkins Diamond surround sound system:**: Features 30 speakers and delivers a maximum output of 1615 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 

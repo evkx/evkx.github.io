@@ -98,11 +98,11 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ### Seats
 
-The SKODA Enyaq iV80x accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+The SKODA Enyaq iV80x accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
-For the front row, the SKODA Enyaq iV80x offers two different seat types to choose from, catering to a range of comfort and style preferences.
+The front row offers two seat types to cater to various comfort and style preferences:
 
 The following functionalities are available on the **standard** seat:
 
@@ -131,7 +131,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 #### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
@@ -147,8 +147,8 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The SKODA Enyaq iV80x includes several features to enhance comfort and convenience:
 
-- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless Go:** Enables starting the car without using the key.
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -174,7 +174,7 @@ The SKODA Enyaq iV80x is equipped with a single type of steering wheel:
 
 ### Mirrors
 
-Both the exterior and interior mirrors utilize conventional mirror technology to provide a clear view of the area behind the vehicle.
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
 
@@ -184,14 +184,14 @@ With the an optional in-car navigation system, you have all the assistance you n
 
 ### Phone Mirroring
 
-Furthermore, the SKODA Enyaq iV80x supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+The SKODA Enyaq iV80x supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
 
 ### Sound System
 
-You can choose between two sound systems on the SKODA Enyaq iV80x.
+You can choose between two sound systems for the SKODA Enyaq iV80x:
 
-- **Sound system:**: This system features eight speakers and delivers a maximum output of 80 watts.
-- **Canton Soundsystem:**: This system features ten speakers and delivers a maximum output of 550 watts.
+- **Sound system:**: Features eight speakers and delivers a maximum output of 80 watts.
+- **Canton Soundsystem:**: Features ten speakers and delivers a maximum output of 550 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
