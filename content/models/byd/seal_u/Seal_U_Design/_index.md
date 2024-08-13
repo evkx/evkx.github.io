@@ -109,7 +109,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
@@ -177,7 +177,7 @@ The BYD Seal U Design supports Android Auto and Apple CarPlay, allowing you to m
 
 The BYD Seal U Design comes equipped with one sound system option:
 
-- **Dynaudio Performance Audio System:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Dynaudio Performance Audio System:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -185,13 +185,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BYD Seal U Design includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Seal U Design features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

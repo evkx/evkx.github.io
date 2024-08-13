@@ -110,7 +110,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -176,8 +176,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the BYD Tang EV600:
 
-- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 
@@ -185,11 +185,11 @@ The model has 4 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The BYD Tang EV600 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Tang EV600 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

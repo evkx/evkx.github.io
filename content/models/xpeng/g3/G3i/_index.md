@@ -97,7 +97,7 @@ The following functionalities are available on the **** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -148,7 +148,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 The XPENG G3i comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 
@@ -156,11 +156,11 @@ The model has 4 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The XPENG G3i includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The XPENG G3i features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

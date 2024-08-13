@@ -111,7 +111,7 @@ The following functionalities are available on the **Sport** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -175,7 +175,7 @@ The BMW iX3 supports Android Auto and Apple CarPlay, allowing you to mirror your
 
 The BMW iX3 comes equipped with one sound system option:
 
-- **Harman Kardon Surround Sound system:**: Features 16 speakers and delivers a maximum output of 464 watts.
+- **Harman Kardon Surround Sound system:** Features 16 speakers and delivers a maximum output of 464 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -186,11 +186,11 @@ You can choose between two types of headlights for the BMW iX3.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The BMW iX3 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BMW iX3 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

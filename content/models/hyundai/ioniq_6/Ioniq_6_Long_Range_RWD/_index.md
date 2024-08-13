@@ -102,7 +102,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -170,21 +170,21 @@ The Hyundai Ioniq 6 Long Range RWD supports Android Auto and Apple CarPlay, allo
 
 The Hyundai Ioniq 6 Long Range RWD comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hyundai Ioniq 6 Long Range RWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hyundai Ioniq 6 Long Range RWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

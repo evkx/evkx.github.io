@@ -145,7 +145,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -233,7 +233,7 @@ While the infotainment system does not include an app store, it comes with a sel
 
 The Tesla Model Y Standard Range comes equipped with one sound system option:
 
-- **Tesla Premium Sound:**: Features 13 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:** Features 13 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -254,13 +254,13 @@ The Tesla Model Y Standard Range comes with a dedicated mobile app, available fo
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Tesla Model Y Standard Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Tesla Model Y Standard Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -317,7 +317,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-This model had a world premiere on 19.03.2019, and deliveries started in March 2020.
+The Volkswagen Tesla Model Y Standard Range had its world premiere on 19.03.2019, with deliveries starting in March 2020.
 
 ### Pricing
 

@@ -107,7 +107,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -174,7 +174,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Hongqi E-HS9 Comfort comes equipped with one sound system option:
 
-- **Hongqi sound system:**: Features eight speakers and delivers a maximum output of  watts.
+- **Hongqi sound system:** Features eight speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -182,13 +182,13 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hongqi E-HS9 Comfort includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hongqi E-HS9 Comfort features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

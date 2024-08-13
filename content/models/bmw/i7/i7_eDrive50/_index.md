@@ -110,7 +110,7 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 15 different materials/colors for this seat type:
+Available in:
 
 - Black/Burgundy [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Mocha [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -202,8 +202,8 @@ The BMW i7 eDrive50 supports Android Auto and Apple CarPlay, allowing you to mir
 
 You can choose between two sound systems for the BMW i7 eDrive50:
 
-- **Harman Kardon Surround Sound system:**: Features 18 speakers and delivers a maximum output of 655 watts.
-- **Bowers & Wilkins Diamond surround sound system:**: Features 30 speakers and delivers a maximum output of 1615 watts.
+- **Harman Kardon Surround Sound system:** Features 18 speakers and delivers a maximum output of 655 watts.
+- **Bowers & Wilkins Diamond surround sound system:** Features 30 speakers and delivers a maximum output of 1615 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -214,13 +214,13 @@ You can choose between two types of headlights for the BMW i7 eDrive50.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BMW i7 eDrive50 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BMW i7 eDrive50 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

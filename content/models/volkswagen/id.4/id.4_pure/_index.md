@@ -112,7 +112,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **ergoActive Top-Sport** seat:
 
@@ -123,7 +123,7 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -134,7 +134,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -194,8 +194,8 @@ The Volkswagen ID.4 Pure supports Android Auto and Apple CarPlay, allowing you t
 
 You can choose between two sound systems for the Volkswagen ID.4 Pure:
 
-- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
-- **Volkswagen Soundsystem:**: Features six speakers and delivers a maximum output of 450 watts.
+- **Sound system:** Features six speakers and delivers a maximum output of 140 watts.
+- **Volkswagen Soundsystem:** Features six speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -206,11 +206,11 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pure.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID.4 Pure includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID.4 Pure features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -259,7 +259,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 10.11.2023, and deliveries started in January 2024.<div class="mt-3 mb-3">
+The Volkswagen Volkswagen ID.4 Pure had its world premiere on 10.11.2023, with deliveries starting in January 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
 </a>

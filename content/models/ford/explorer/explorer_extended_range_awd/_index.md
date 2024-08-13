@@ -128,7 +128,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -179,22 +179,22 @@ The Ford Explorer Extended Range AWD supports Android Auto and Apple CarPlay, al
 
 You can choose between two sound systems for the Ford Explorer Extended Range AWD:
 
-- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
-- **B&O Soundsystem:**: Features ten speakers and delivers a maximum output of 480 watts.
+- **Sound system:** Features six speakers and delivers a maximum output of 140 watts.
+- **B&O Soundsystem:** Features ten speakers and delivers a maximum output of 480 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Ford Explorer Extended Range AWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Ford Explorer Extended Range AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -241,7 +241,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 26.03.2024, and deliveries started in November 2024.<div class="mt-3 mb-3">
+The Volkswagen Ford Explorer Extended Range AWD had its world premiere on 26.03.2024, with deliveries starting in November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford Explorer </strong>
 </a>

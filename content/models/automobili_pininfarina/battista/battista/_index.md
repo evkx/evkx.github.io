@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat:
 
 - Electric adjustment
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
 
@@ -167,19 +167,19 @@ The Automobili Pininfarina Battista supports Android Auto and Apple CarPlay, all
 
 The Automobili Pininfarina Battista comes equipped with one sound system option:
 
-- **Rimac Nevera Sound System:**: Features eight speakers and delivers a maximum output of 1200 watts.
+- **Rimac Nevera Sound System:** Features eight speakers and delivers a maximum output of 1200 watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Automobili Pininfarina Battista includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Automobili Pininfarina Battista features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -206,7 +206,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 01.07.2023, and deliveries started in October 2023.<div class="mt-3 mb-3">
+The Volkswagen Automobili Pininfarina Battista had its world premiere on 01.07.2023, with deliveries starting in October 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Automobili Pininfarina Battista </strong>
 </a>

@@ -101,7 +101,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -167,8 +167,8 @@ The Renault 5 E-Tech 52kWh 150hp supports Android Auto and Apple CarPlay, allowi
 
 You can choose between two sound systems for the Renault 5 E-Tech 52kWh 150hp:
 
-- **DAB Audiosystem:**: Features six speakers and delivers a maximum output of  watts.
-- **BOSE Premium Sound System:**: Features ten speakers and delivers a maximum output of  watts.
+- **DAB Audiosystem:** Features six speakers and delivers a maximum output of  watts.
+- **BOSE Premium Sound System:** Features ten speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -179,13 +179,13 @@ You can choose between two types of headlights for the Renault 5 E-Tech 52kWh 15
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/headlights_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Renault 5 E-Tech 52kWh 150hp includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Renault 5 E-Tech 52kWh 150hp features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

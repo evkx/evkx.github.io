@@ -110,7 +110,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
@@ -178,8 +178,8 @@ The BYD Han supports Android Auto and Apple CarPlay, allowing you to mirror your
 
 You can choose between two sound systems for the BYD Han:
 
-- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 5 USB-A connections as standard.
 
@@ -187,13 +187,13 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BYD Han includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Han features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

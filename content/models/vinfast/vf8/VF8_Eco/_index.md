@@ -106,7 +106,7 @@ The following functionalities are available on the **** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -174,7 +174,7 @@ The VinFast VF8 Eco supports Android Auto and Apple CarPlay, allowing you to mir
 
 The VinFast VF8 Eco comes equipped with one sound system option:
 
-- **:**: Features 11 speakers and delivers a maximum output of  watts.
+- **:** Features 11 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
 
@@ -182,11 +182,11 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The VinFast VF8 Eco includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The VinFast VF8 Eco features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

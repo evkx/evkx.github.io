@@ -107,7 +107,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -121,7 +121,7 @@ The following functionalities are available on the **ergoActive** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
@@ -195,22 +195,22 @@ The Volkswagen ID.3 GTX Performance supports Android Auto and Apple CarPlay, all
 
 You can choose between two sound systems for the Volkswagen ID.3 GTX Performance:
 
-- **Sound system:**: Features five speakers and delivers a maximum output of 140 watts.
-- **Harman Kardon sound system:**: Features eight speakers and delivers a maximum output of 480 watts.
+- **Sound system:** Features five speakers and delivers a maximum output of 140 watts.
+- **Harman Kardon sound system:** Features eight speakers and delivers a maximum output of 480 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx_performance/headlights_1_st.jpg" title="Volkswagen ID.3 GTX Performance" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID.3 GTX Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID.3 GTX Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

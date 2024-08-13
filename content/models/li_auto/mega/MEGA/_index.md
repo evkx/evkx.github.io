@@ -110,7 +110,7 @@ The following functionalities are available on the **standard** seat:
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -141,7 +141,7 @@ The third row has a three-seat bench with a 40:60 split. Again, you can fold dow
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -195,7 +195,7 @@ The Li Auto MEGA supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The Li Auto MEGA comes equipped with one sound system option:
 
-- **Platinum audio system:**: Features 21 speakers and delivers a maximum output of 2160 watts.
+- **Platinum audio system:** Features 21 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -203,13 +203,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Li Auto MEGA includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Li Auto MEGA features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

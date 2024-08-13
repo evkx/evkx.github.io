@@ -117,7 +117,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **sport** seat:
 
@@ -127,7 +127,7 @@ The following functionalities are available on the **sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_35_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 35 e-tron" width="3000" height="2001"  >}}
 
@@ -146,7 +146,7 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 Two climate system options are available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -198,8 +198,8 @@ The Audi Q4 Sportback 35 e-tron supports Android Auto and Apple CarPlay, allowin
 
 You can choose between two sound systems for the Audi Q4 Sportback 35 e-tron:
 
-- **Audi Sound system:**: Features eight speakers and delivers a maximum output of 180 watts.
-- **Sonos Sound System:**: Features ten speakers and delivers a maximum output of 580 watts.
+- **Audi Sound system:** Features eight speakers and delivers a maximum output of 180 watts.
+- **Sonos Sound System:** Features ten speakers and delivers a maximum output of 580 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -230,7 +230,7 @@ Additionally, you have two options for taillights:
 
 ## Advanced Driver Assistance Systems
 
-The Audi Q4 Sportback 35 e-tron includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi Q4 Sportback 35 e-tron features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

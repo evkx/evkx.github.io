@@ -93,7 +93,7 @@ The following functionalities are available on the **** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
@@ -101,7 +101,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 ## Climate System
 
@@ -148,7 +148,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 The Neta GT 580 AWD comes equipped with one sound system option:
 
-- **Neta Sky sound:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Neta Sky sound:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -156,11 +156,11 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Neta GT 580 AWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Neta GT 580 AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -199,7 +199,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 13.07.2023, and deliveries started in December 2023. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
+The Volkswagen Neta GT 580 AWD had its world premiere on 13.07.2023, with deliveries starting in December 2023. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Neta GT </strong>
 </a>

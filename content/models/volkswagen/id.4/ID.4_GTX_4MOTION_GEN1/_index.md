@@ -114,7 +114,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **ergoActive Top-Sport** seat:
 
@@ -125,7 +125,7 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
@@ -140,7 +140,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -200,22 +200,22 @@ The Volkswagen ID.4 GTX 4MOTION (GEN1) supports Android Auto and Apple CarPlay, 
 
 You can choose between two sound systems for the Volkswagen ID.4 GTX 4MOTION (GEN1):
 
-- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
-- **Volkswagen Soundsystem:**: Features six speakers and delivers a maximum output of 450 watts.
+- **Sound system:** Features six speakers and delivers a maximum output of 140 watts.
+- **Volkswagen Soundsystem:** Features six speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/headlights_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID.4 GTX 4MOTION (GEN1) includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID.4 GTX 4MOTION (GEN1) features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

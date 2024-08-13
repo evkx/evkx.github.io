@@ -104,7 +104,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
@@ -181,8 +181,8 @@ The Lexus UX 300e supports Android Auto and Apple CarPlay, allowing you to mirro
 
 You can choose between two sound systems for the Lexus UX 300e:
 
-- **Standard:**: Features 14 speakers and delivers a maximum output of  watts.
-- **Mark Levinson Premium Surround Sound:**: Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features 14 speakers and delivers a maximum output of  watts.
+- **Mark Levinson Premium Surround Sound:** Features 14 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -193,13 +193,13 @@ You can choose between two types of headlights for the Lexus UX 300e.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/headlights_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Lexus UX 300e includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lexus UX 300e features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

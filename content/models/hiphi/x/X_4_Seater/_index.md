@@ -109,7 +109,7 @@ The following functionalities are available on the **standard** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -127,7 +127,7 @@ For the second row, this model has two captain chairs. Additional functionalitie
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -179,8 +179,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the HiPhi X 4 Seater:
 
-- **SONIC LINE SYSTEM:**: Features nine speakers and delivers a maximum output of 600 watts.
-- **SONIC PRO SYSTEM:**: Features 17 speakers and delivers a maximum output of 600 watts.
+- **SONIC LINE SYSTEM:** Features nine speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:** Features 17 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -188,13 +188,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The HiPhi X 4 Seater includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The HiPhi X 4 Seater features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

@@ -107,7 +107,7 @@ The following functionalities are available on the **** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -168,22 +168,22 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Xiaomi SU7 Pro:
 
-- **Xiaomi Soundsystem:**: Features ten speakers and delivers a maximum output of  watts.
-- **Xiaomi Soundsystem:**: Features 25 speakers and delivers a maximum output of  watts.
+- **Xiaomi Soundsystem:** Features ten speakers and delivers a maximum output of  watts.
+- **Xiaomi Soundsystem:** Features 25 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Xiaomi SU7 Pro includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Xiaomi SU7 Pro features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -232,7 +232,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 28.12.2023, and deliveries started in March 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
+The Volkswagen Xiaomi SU7 Pro had its world premiere on 28.12.2023, with deliveries starting in March 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

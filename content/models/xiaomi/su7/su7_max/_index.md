@@ -92,7 +92,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The Xiaomi SU7 Max boasts a driver-focused interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
+The Xiaomi SU7 Max boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -178,21 +178,21 @@ The Xiaomi SU7 Max supports Android Auto and Apple CarPlay, allowing you to mirr
 
 The Xiaomi SU7 Max comes equipped with one sound system option:
 
-- **Xiaomi Soundsystem:**: Features 25 speakers and delivers a maximum output of  watts.
+- **Xiaomi Soundsystem:** Features 25 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/headlights_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Xiaomi SU7 Max includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Xiaomi SU7 Max features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -241,7 +241,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 28.12.2023, and deliveries started in March 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
+The Volkswagen Xiaomi SU7 Max had its world premiere on 28.12.2023, with deliveries starting in March 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
 </a>

@@ -101,7 +101,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
@@ -160,8 +160,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Volvo EC40 Single Motor ER:
 
-- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Premium Sound:**: Features 13 speakers and delivers a maximum output of 600 watts.
+- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Premium Sound:** Features 13 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 1 USB-C connections as standard.
 
@@ -172,13 +172,13 @@ You can choose between two types of headlights for the Volvo EC40 Single Motor E
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/headlights_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2184"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volvo EC40 Single Motor ER includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volvo EC40 Single Motor ER features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -215,7 +215,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 20.02.2024, and deliveries started in April 2024.<div class="mt-3 mb-3">
+The Volkswagen Volvo EC40 Single Motor ER had its world premiere on 20.02.2024, with deliveries starting in April 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Volvo EC40 </strong>
 </a>

@@ -106,7 +106,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -172,7 +172,7 @@ The KGM Torres EVX supports Android Auto and Apple CarPlay, allowing you to mirr
 
 The KGM Torres EVX comes equipped with one sound system option:
 
-- **KGM:**: Features six speakers and delivers a maximum output of 100 watts.
+- **KGM:** Features six speakers and delivers a maximum output of 100 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -180,13 +180,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The KGM Torres EVX includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The KGM Torres EVX features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -228,7 +228,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 30.03.2023, and deliveries started in March 2024.<div class="mt-3 mb-3">
+The Volkswagen KGM Torres EVX had its world premiere on 30.03.2023, with deliveries starting in March 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>

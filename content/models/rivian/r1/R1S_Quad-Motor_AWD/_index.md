@@ -104,7 +104,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -177,7 +177,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Rivian R1S Quad-Motor AWD comes equipped with one sound system option:
 
-- **Rivian Elevation audio system:**: Features 22 speakers and delivers a maximum output of 1100 watts.
+- **Rivian Elevation audio system:** Features 22 speakers and delivers a maximum output of 1100 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -185,11 +185,11 @@ Additionally, the model includes 6 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Rivian R1S Quad-Motor AWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Rivian R1S Quad-Motor AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

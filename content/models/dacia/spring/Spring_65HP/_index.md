@@ -93,7 +93,7 @@ The Dacia Spring 65HP offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -105,7 +105,7 @@ The following functionalities are available on the **** seat:
 
 - Height adjustable headrest
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -158,7 +158,7 @@ The Dacia Spring 65HP supports Android Auto and Apple CarPlay, allowing you to m
 
 The Dacia Spring 65HP comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard.
 
@@ -166,13 +166,13 @@ Additionally, the model includes 2 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Dacia Spring 65HP includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Dacia Spring 65HP features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

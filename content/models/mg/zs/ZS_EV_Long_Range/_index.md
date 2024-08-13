@@ -102,7 +102,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
@@ -169,8 +169,8 @@ The MG ZS EV Long Range supports Android Auto and Apple CarPlay, allowing you to
 
 You can choose between two sound systems for the MG ZS EV Long Range:
 
-- **MG standard system:**: Features four speakers and delivers a maximum output of  watts.
-- **MG luxury sound system:**: Features six speakers and delivers a maximum output of  watts.
+- **MG standard system:** Features four speakers and delivers a maximum output of  watts.
+- **MG luxury sound system:** Features six speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -178,13 +178,13 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The MG ZS EV Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The MG ZS EV Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -217,7 +217,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 07.10.2021, and deliveries started in January 2022.<div class="mt-3 mb-3">
+The Volkswagen MG ZS EV Long Range had its world premiere on 07.10.2021, with deliveries starting in January 2022.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG ZS </strong>
 </a>

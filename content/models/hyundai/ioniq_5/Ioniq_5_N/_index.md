@@ -99,7 +99,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -163,7 +163,7 @@ The Hyundai Ioniq 5 N supports Android Auto and Apple CarPlay, allowing you to m
 
 The Hyundai Ioniq 5 N comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -171,13 +171,13 @@ Additionally, the model includes 4 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2001"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hyundai Ioniq 5 N includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hyundai Ioniq 5 N features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

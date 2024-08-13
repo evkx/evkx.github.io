@@ -107,7 +107,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -174,21 +174,21 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Hongqi E-HS9 Premium comes equipped with one sound system option:
 
-- **Hongqi sound system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Hongqi sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" title="Hongqi E-HS9 Premium" width="851" height="686"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hongqi E-HS9 Premium includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hongqi E-HS9 Premium features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

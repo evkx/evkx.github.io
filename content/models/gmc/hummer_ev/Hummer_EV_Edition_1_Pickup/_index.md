@@ -97,7 +97,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -164,7 +164,7 @@ The GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay, allo
 
 The GMC Hummer EV Edition 1 Pickup comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features 14 speakers and delivers a maximum output of 625 watts.
+- **Bose Premium Sound System:** Features 14 speakers and delivers a maximum output of 625 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -172,11 +172,11 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The GMC Hummer EV Edition 1 Pickup includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The GMC Hummer EV Edition 1 Pickup features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -206,7 +206,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 20.10.2020, and deliveries started in December 2021. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
+The Volkswagen GMC Hummer EV Edition 1 Pickup had its world premiere on 20.10.2020, with deliveries starting in December 2021. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> GMC Hummer EV </strong>
 </a>

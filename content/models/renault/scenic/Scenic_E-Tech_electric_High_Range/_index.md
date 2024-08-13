@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -180,8 +180,8 @@ The Renault Scenic E-Tech electric High Range supports Android Auto and Apple Ca
 
 You can choose between two sound systems for the Renault Scenic E-Tech electric High Range:
 
-- **DAB Audiosystem:**: Features six speakers and delivers a maximum output of  watts.
-- **BOSE Premium Sound System:**: Features ten speakers and delivers a maximum output of  watts.
+- **DAB Audiosystem:** Features six speakers and delivers a maximum output of  watts.
+- **BOSE Premium Sound System:** Features ten speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -192,13 +192,13 @@ You can choose between two types of headlights for the Renault Scenic E-Tech ele
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/headlights_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Renault Scenic E-Tech electric High Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Renault Scenic E-Tech electric High Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

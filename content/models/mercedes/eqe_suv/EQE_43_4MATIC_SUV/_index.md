@@ -116,7 +116,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **multicontour** seat:
 
@@ -132,7 +132,7 @@ The following functionalities are available on the **multicontour** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -215,8 +215,8 @@ The Mercedes-AMG EQE 43 4MATIC SUV supports Android Auto and Apple CarPlay, allo
 
 You can choose between two sound systems for the Mercedes-AMG EQE 43 4MATIC SUV:
 
-- **Advanced Soundsystem:**: Features nine speakers and delivers a maximum output of 225 watts.
-- **Burmester Surround Soundsystem:**: Features 13 speakers and delivers a maximum output of 590 watts.
+- **Advanced Soundsystem:** Features nine speakers and delivers a maximum output of 225 watts.
+- **Burmester Surround Soundsystem:** Features 13 speakers and delivers a maximum output of 590 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -224,16 +224,16 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATIC SUV.
 
-- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Mercedes-AMG EQE 43 4MATIC SUV includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Mercedes-AMG EQE 43 4MATIC SUV features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

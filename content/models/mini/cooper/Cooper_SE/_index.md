@@ -95,7 +95,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -105,7 +105,7 @@ You can choose from 1 different materials/colors for this seat type:
 
 The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
@@ -148,19 +148,19 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The Mini Cooper SE comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Mini Cooper SE includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Mini Cooper SE features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

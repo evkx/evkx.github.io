@@ -106,7 +106,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -178,7 +178,7 @@ The Hyundai Ioniq 5 Long Range 2WD supports Android Auto and Apple CarPlay, allo
 
 The Hyundai Ioniq 5 Long Range 2WD comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -186,13 +186,13 @@ Additionally, the model includes 4 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hyundai Ioniq 5 Long Range 2WD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hyundai Ioniq 5 Long Range 2WD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

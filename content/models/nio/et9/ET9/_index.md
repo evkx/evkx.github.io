@@ -112,7 +112,7 @@ The following functionalities are available on the **standard** seat:
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
@@ -133,7 +133,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 ## Comfort Features
 
@@ -177,21 +177,21 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Nio ET9 comes equipped with one sound system option:
 
-- **Premium sound system:**: Features 23 speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 23 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/headlights_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Nio ET9 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Nio ET9 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

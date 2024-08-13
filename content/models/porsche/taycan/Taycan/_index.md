@@ -130,7 +130,7 @@ The following functionalities are available on the **Comfort** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **Comfortseats with memory** seat:
 
@@ -140,7 +140,7 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **Sportsseats Plus** seat:
 
@@ -155,7 +155,7 @@ The following functionalities are available on the **Sportsseats Plus** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
@@ -177,7 +177,7 @@ The second option is two integrated seats in the second row with a third smaller
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -229,9 +229,9 @@ The Porsche Taycan supports Android Auto and Apple CarPlay, allowing you to mirr
 
 You can choose between three sound systems for the Porsche Taycan:
 
-- **Porsche Sound system:**: Features ten speakers and delivers a maximum output of 150 watts.
-- ** BOSE® Surround Sound System:**: Features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System:**: Features 21 speakers and delivers a maximum output of 1455 watts.
+- **Porsche Sound system:** Features ten speakers and delivers a maximum output of 150 watts.
+- ** BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
+- ** Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1455 watts.
 
 ## Lights
 
@@ -240,13 +240,13 @@ You can choose between two types of headlights for the Porsche Taycan.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/headlights_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Porsche Taycan includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Porsche Taycan features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

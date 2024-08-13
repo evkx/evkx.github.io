@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
@@ -176,7 +176,7 @@ The BYD Seal AWD supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The BYD Seal AWD comes equipped with one sound system option:
 
-- **Dynaudio Performance Audio System:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Dynaudio Performance Audio System:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -184,13 +184,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/headlights_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BYD Seal AWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Seal AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

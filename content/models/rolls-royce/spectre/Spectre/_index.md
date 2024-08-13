@@ -105,7 +105,7 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 7 different materials/colors for this seat type:
+Available in:
 
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -182,8 +182,8 @@ The Rolls-Royce Spectre supports Android Auto and Apple CarPlay, allowing you to
 
 You can choose between two sound systems for the Rolls-Royce Spectre:
 
-- **Harman Kardon Surround Sound system:**: Features 18 speakers and delivers a maximum output of 655 watts.
-- **Bowers & Wilkins Diamond surround sound system:**: Features 30 speakers and delivers a maximum output of 1615 watts.
+- **Harman Kardon Surround Sound system:** Features 18 speakers and delivers a maximum output of 655 watts.
+- **Bowers & Wilkins Diamond surround sound system:** Features 30 speakers and delivers a maximum output of 1615 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -194,13 +194,13 @@ You can choose between two types of headlights for the Rolls-Royce Spectre.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Rolls-Royce Spectre includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Rolls-Royce Spectre features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -238,7 +238,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 18.10.2022, and deliveries started in December 2023.<div class="mt-3 mb-3">
+The Volkswagen Rolls-Royce Spectre had its world premiere on 18.10.2022, with deliveries starting in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rolls-Royce Spectre </strong>
 </a>

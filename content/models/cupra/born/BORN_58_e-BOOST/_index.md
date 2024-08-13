@@ -109,7 +109,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
 
@@ -172,8 +172,8 @@ The CUPRA BORN 58 e-BOOST supports Android Auto and Apple CarPlay, allowing you 
 
 You can choose between two sound systems for the CUPRA BORN 58 e-BOOST:
 
-- **Sound system:**: Features five speakers and delivers a maximum output of 140 watts.
-- **Beats Audio:**: Features nine speakers and delivers a maximum output of 395 watts.
+- **Sound system:** Features five speakers and delivers a maximum output of 140 watts.
+- **Beats Audio:** Features nine speakers and delivers a maximum output of 395 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -181,13 +181,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/headlights_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1976"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The CUPRA BORN 58 e-BOOST includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The CUPRA BORN 58 e-BOOST features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

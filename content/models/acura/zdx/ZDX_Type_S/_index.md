@@ -98,7 +98,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -113,7 +113,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -165,7 +165,7 @@ The Acura ZDX Type S supports Android Auto and Apple CarPlay, allowing you to mi
 
 The Acura ZDX Type S comes equipped with one sound system option:
 
-- **Bang & Olufsen sound system:**: Features 18 speakers and delivers a maximum output of  watts.
+- **Bang & Olufsen sound system:** Features 18 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -173,13 +173,13 @@ Additionally, the model includes 5 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/headlights_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Acura ZDX Type S includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Acura ZDX Type S features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

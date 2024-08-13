@@ -103,7 +103,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -171,7 +171,7 @@ The Honda Prologue FWD supports Android Auto and Apple CarPlay, allowing you to 
 
 The Honda Prologue FWD comes equipped with one sound system option:
 
-- **Bose premium audio system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Bose premium audio system:** Features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -179,11 +179,11 @@ Additionally, the model includes 5 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Honda Prologue FWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Honda Prologue FWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

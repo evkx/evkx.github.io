@@ -92,7 +92,7 @@ The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -162,7 +162,7 @@ The MG MG5 Electric Standard Range supports Android Auto and Apple CarPlay, allo
 
 The MG MG5 Electric Standard Range comes equipped with one sound system option:
 
-- **:**: Features six speakers and delivers a maximum output of  watts.
+- **:** Features six speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -170,11 +170,11 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The MG MG5 Electric Standard Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The MG MG5 Electric Standard Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

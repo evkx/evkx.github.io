@@ -105,7 +105,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -123,7 +123,7 @@ The following functionalities are available on the **comfort** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Green [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -195,7 +195,7 @@ The Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay, allowing yo
 
 The Volkswagen ID. Buzz Pro comes equipped with one sound system option:
 
-- **Volkswagen Soundsystem:**: Features six speakers and delivers a maximum output of 450 watts.
+- **Volkswagen Soundsystem:** Features six speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -206,11 +206,11 @@ You can choose between two types of headlights for the Volkswagen ID. Buzz Pro.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID. Buzz Pro includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID. Buzz Pro features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

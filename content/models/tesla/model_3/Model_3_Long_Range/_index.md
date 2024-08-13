@@ -112,7 +112,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -178,7 +178,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Tesla Model 3 Long Range comes equipped with one sound system option:
 
-- **Tesla Premium Sound:**: Features 17 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:** Features 17 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 3 USB-C connections as standard.
 
@@ -186,13 +186,13 @@ Additionally, the model includes 3 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Tesla Model 3 Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Tesla Model 3 Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -249,7 +249,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-This model had a world premiere on 01.10.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
+The Volkswagen Tesla Model 3 Long Range had its world premiere on 01.10.2023, with deliveries starting in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
 </a>

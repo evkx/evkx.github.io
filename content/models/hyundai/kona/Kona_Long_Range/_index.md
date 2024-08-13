@@ -104,7 +104,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -176,7 +176,7 @@ The Hyundai Kona Long Range supports Android Auto and Apple CarPlay, allowing yo
 
 The Hyundai Kona Long Range comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features seven speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features seven speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -184,13 +184,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hyundai Kona Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hyundai Kona Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

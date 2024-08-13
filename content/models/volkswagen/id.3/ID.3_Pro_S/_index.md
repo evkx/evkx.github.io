@@ -106,7 +106,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -177,8 +177,8 @@ The Volkswagen ID.3 Pro S supports Android Auto and Apple CarPlay, allowing you 
 
 You can choose between two sound systems for the Volkswagen ID.3 Pro S:
 
-- **Sound system:**: Features five speakers and delivers a maximum output of 140 watts.
-- **Volkswagen Soundsystem:**: Features seven speakers and delivers a maximum output of 450 watts.
+- **Sound system:** Features five speakers and delivers a maximum output of 140 watts.
+- **Volkswagen Soundsystem:** Features seven speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -189,11 +189,11 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro S.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID.3 Pro S includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID.3 Pro S features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

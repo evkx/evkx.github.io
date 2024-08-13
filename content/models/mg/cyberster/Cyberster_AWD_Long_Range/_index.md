@@ -94,7 +94,7 @@ The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
@@ -159,7 +159,7 @@ The MG Cyberster AWD Long Range supports Android Auto and Apple CarPlay, allowin
 
 The MG Cyberster AWD Long Range comes equipped with one sound system option:
 
-- **Bose Sound System:**: Features six speakers and delivers a maximum output of 300 watts.
+- **Bose Sound System:** Features six speakers and delivers a maximum output of 300 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -167,13 +167,13 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The MG Cyberster AWD Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The MG Cyberster AWD Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -198,7 +198,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 13.07.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">
+The Volkswagen MG Cyberster AWD Long Range had its world premiere on 13.07.2023, with deliveries starting in December 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> MG Cyberster </strong>
 </a>

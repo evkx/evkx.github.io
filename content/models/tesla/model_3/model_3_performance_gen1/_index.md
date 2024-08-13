@@ -111,7 +111,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
@@ -172,7 +172,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Tesla Model 3 Performance (GEN1) comes equipped with one sound system option:
 
-- **Tesla Premium Sound:**: Features 13 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:** Features 13 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -180,11 +180,11 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Tesla Model 3 Performance (GEN1) includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Tesla Model 3 Performance (GEN1) features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

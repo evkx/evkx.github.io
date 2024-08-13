@@ -106,7 +106,7 @@ The following functionalities are available on the **Performance** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -127,7 +127,7 @@ The following functionalities are available on the **Sport** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -203,8 +203,8 @@ The Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay, allowing you to
 
 You can choose between two sound systems for the Jaguar I-Pace EV400:
 
-- **Meridian Sound System:**: Features 11 speakers and delivers a maximum output of 400 watts.
-- **Meridian 3D Surround:**: Features 16 speakers and delivers a maximum output of 750 watts.
+- **Meridian Sound System:** Features 11 speakers and delivers a maximum output of 400 watts.
+- **Meridian 3D Surround:** Features 16 speakers and delivers a maximum output of 750 watts.
 
 ## Lights
 
@@ -213,13 +213,13 @@ You can choose between two types of headlights for the Jaguar I-Pace EV400.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Jaguar I-Pace EV400 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Jaguar I-Pace EV400 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -245,7 +245,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 01.03.2018, and deliveries started in October 2018.<div class="mt-3 mb-3">
+The Volkswagen Jaguar I-Pace EV400 had its world premiere on 01.03.2018, with deliveries starting in October 2018.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
 </a>

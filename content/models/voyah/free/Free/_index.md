@@ -101,7 +101,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -160,7 +160,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The VOYAH FREE comes equipped with one sound system option:
 
-- **DYNAUDIO HIFI Sound system:**: Features NULL speakers and delivers a maximum output of  watts.
+- **DYNAUDIO HIFI Sound system:** Features NULL speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
 
@@ -168,11 +168,11 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The VOYAH FREE includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The VOYAH FREE features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

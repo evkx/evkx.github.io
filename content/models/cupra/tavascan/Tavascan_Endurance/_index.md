@@ -109,7 +109,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/frontseats_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="2250"  >}}
 
@@ -172,8 +172,8 @@ The CUPRA Tavascan Endurance supports Android Auto and Apple CarPlay, allowing y
 
 You can choose between two sound systems for the CUPRA Tavascan Endurance:
 
-- **Sound system:**: Features five speakers and delivers a maximum output of 140 watts.
-- **Sennheiser Soundsystem:**: Features 12 speakers and delivers a maximum output of 395 watts.
+- **Sound system:** Features five speakers and delivers a maximum output of 140 watts.
+- **Sennheiser Soundsystem:** Features 12 speakers and delivers a maximum output of 395 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -181,13 +181,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/headlights_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1673"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The CUPRA Tavascan Endurance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The CUPRA Tavascan Endurance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

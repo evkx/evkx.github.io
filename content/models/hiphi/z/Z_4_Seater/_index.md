@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -129,7 +129,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -175,7 +175,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 The HiPhi Z 4 Seater comes equipped with one sound system option:
 
-- **SONIC PRO SYSTEM:**: Features 23 speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:** Features 23 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -183,13 +183,13 @@ Additionally, the model includes 1 USB-C connections as standard. As an option, 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The HiPhi Z 4 Seater includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The HiPhi Z 4 Seater features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

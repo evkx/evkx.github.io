@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -132,7 +132,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -183,8 +183,8 @@ The Peugot E-5008 Long Range supports Android Auto and Apple CarPlay, allowing y
 
 You can choose between two sound systems for the Peugot E-5008 Long Range:
 
-- **:**: Features six speakers and delivers a maximum output of 100 watts.
-- **:**: Features ten speakers and delivers a maximum output of 690 watts.
+- **:** Features six speakers and delivers a maximum output of 100 watts.
+- **:** Features ten speakers and delivers a maximum output of 690 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -193,15 +193,15 @@ Additionally, the model includes 4 USB-C connections as standard.
 You can choose between two types of headlights for the Peugot E-5008 Long Range.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Peugot E-5008 Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Peugot E-5008 Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -246,7 +246,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 12.09.2023, and deliveries started in February 2024.<div class="mt-3 mb-3">
+The Volkswagen Peugot E-5008 Long Range had its world premiere on 12.09.2023, with deliveries starting in February 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Peugot 5008 </strong>
 </a>

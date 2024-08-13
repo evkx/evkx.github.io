@@ -101,7 +101,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - White [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [wool upholstering](../../../../technology/seats/materials/#wool)
@@ -167,8 +167,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Volvo EX30 Single Motor:
 
-- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Premium Sound:**: Features 13 speakers and delivers a maximum output of 1040 watts.
+- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Premium Sound:** Features 13 speakers and delivers a maximum output of 1040 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -179,13 +179,13 @@ You can choose between two types of headlights for the Volvo EX30 Single Motor.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/headlights_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volvo EX30 Single Motor includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volvo EX30 Single Motor features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

@@ -131,7 +131,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **sport** seat:
 
@@ -143,7 +143,7 @@ The following functionalities are available on the **sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **s-line sport** seat:
 
@@ -155,7 +155,7 @@ The following functionalities are available on the **s-line sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **s sport** seat:
 
@@ -165,7 +165,7 @@ The following functionalities are available on the **s sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **multicontour** seat:
 
@@ -182,7 +182,7 @@ The following functionalities are available on the **multicontour** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
@@ -253,8 +253,8 @@ The Audi Q8 e-tron edition Dakar supports Android Auto and Apple CarPlay, allowi
 
 You can choose between two sound systems for the Audi Q8 e-tron edition Dakar:
 
-- **Audi Sound system:**: Features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System:**: Features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:** Features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:** Features 16 speakers and delivers a maximum output of 700 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -274,16 +274,16 @@ The Audi Q8 e-tron edition Dakar comes with a dedicated mobile app, available fo
 
 You can choose between two types of headlights for the Audi Q8 e-tron edition Dakar.
 
-- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Audi Q8 e-tron edition Dakar includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi Q8 e-tron edition Dakar features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -340,7 +340,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 03.01.2024, and deliveries started in May 2024. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
+The Volkswagen Audi Q8 e-tron edition Dakar had its world premiere on 03.01.2024, with deliveries starting in May 2024. This model is available in North America, China, Europe, and the Middle East.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q8 e-tron </strong>
 </a>

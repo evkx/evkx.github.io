@@ -92,7 +92,7 @@ The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
@@ -159,7 +159,7 @@ The MG MG4 Electric XPOWER supports Android Auto and Apple CarPlay, allowing you
 
 The MG MG4 Electric XPOWER comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -167,11 +167,11 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The MG MG4 Electric XPOWER includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The MG MG4 Electric XPOWER features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

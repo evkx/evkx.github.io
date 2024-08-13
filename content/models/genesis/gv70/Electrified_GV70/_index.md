@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Green [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -175,7 +175,7 @@ The Genesis Electrified GV70 supports Android Auto and Apple CarPlay, allowing y
 
 The Genesis Electrified GV70 comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features eight speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features eight speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 
@@ -183,11 +183,11 @@ The model has 4 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Genesis Electrified GV70 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Genesis Electrified GV70 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

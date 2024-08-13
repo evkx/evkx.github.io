@@ -194,9 +194,9 @@ The BMW i5 M60 xDrive supports Android Auto and Apple CarPlay, allowing you to m
 
 You can choose between three sound systems for the BMW i5 M60 xDrive:
 
-- **Hifi Sound system:**: Features six speakers and delivers a maximum output of 100 watts.
-- **Harman Kardon Surround Sound system:**: Features 12 speakers and delivers a maximum output of 205 watts.
-- **Bower & Wilkins Surround System:**: Features 18 speakers and delivers a maximum output of 655 watts.
+- **Hifi Sound system:** Features six speakers and delivers a maximum output of 100 watts.
+- **Harman Kardon Surround Sound system:** Features 12 speakers and delivers a maximum output of 205 watts.
+- **Bower & Wilkins Surround System:** Features 18 speakers and delivers a maximum output of 655 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -207,13 +207,13 @@ You can choose between two types of headlights for the BMW i5 M60 xDrive.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/headlights_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BMW i5 M60 xDrive includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BMW i5 M60 xDrive features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -124,7 +124,7 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -176,8 +176,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the HiPhi Y Performance:
 
-- **SONIC LINE SYSTEM:**: Features 14 speakers and delivers a maximum output of 600 watts.
-- **SONIC PRO SYSTEM:**: Features 25 speakers and delivers a maximum output of 2820 watts.
+- **SONIC LINE SYSTEM:** Features 14 speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:** Features 25 speakers and delivers a maximum output of 2820 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -185,13 +185,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/headlights_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1882"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The HiPhi Y Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The HiPhi Y Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

@@ -114,7 +114,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **ergoActive Top-Sport** seat:
 
@@ -125,7 +125,7 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
@@ -140,7 +140,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -200,8 +200,8 @@ The Volkswagen ID.4 Pro Performance supports Android Auto and Apple CarPlay, all
 
 You can choose between two sound systems for the Volkswagen ID.4 Pro Performance:
 
-- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
-- **Volkswagen Soundsystem:**: Features six speakers and delivers a maximum output of 450 watts.
+- **Sound system:** Features six speakers and delivers a maximum output of 140 watts.
+- **Volkswagen Soundsystem:** Features six speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -212,13 +212,13 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro Perfo
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/headlights_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID.4 Pro Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID.4 Pro Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

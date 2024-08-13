@@ -129,7 +129,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
@@ -180,8 +180,8 @@ The Ford Capri Extended Range AWD supports Android Auto and Apple CarPlay, allow
 
 You can choose between two sound systems for the Ford Capri Extended Range AWD:
 
-- **Sound system:**: Features six speakers and delivers a maximum output of 140 watts.
-- **B&O Soundsystem:**: Features ten speakers and delivers a maximum output of 480 watts.
+- **Sound system:** Features six speakers and delivers a maximum output of 140 watts.
+- **B&O Soundsystem:** Features ten speakers and delivers a maximum output of 480 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -192,11 +192,11 @@ You can choose between two types of headlights for the Ford Capri Extended Range
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Ford Capri Extended Range AWD includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Ford Capri Extended Range AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -245,7 +245,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 11.07.2024, and deliveries started in November 2024.<div class="mt-3 mb-3">
+The Volkswagen Ford Capri Extended Range AWD had its world premiere on 11.07.2024, with deliveries starting in November 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Ford Capri </strong>
 </a>

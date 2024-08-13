@@ -106,7 +106,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
@@ -176,8 +176,8 @@ The Kia Niro EV supports Android Auto and Apple CarPlay, allowing you to mirror 
 
 You can choose between two sound systems for the Kia Niro EV:
 
-- **Standard:**: Features six speakers and delivers a maximum output of  watts.
-- **Meridian Premium Sound System:**: Features 14 speakers and delivers a maximum output of  watts.
+- **Standard:** Features six speakers and delivers a maximum output of  watts.
+- **Meridian Premium Sound System:** Features 14 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -185,11 +185,11 @@ Additionally, the model includes 4 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Kia Niro EV includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Kia Niro EV features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

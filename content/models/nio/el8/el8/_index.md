@@ -129,7 +129,7 @@ The following functionalities are available on the **standard** seat:
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -162,7 +162,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 ## Comfort Features
 
@@ -208,20 +208,20 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Nio EL8:
 
-- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 3 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Nio EL8 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Nio EL8 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

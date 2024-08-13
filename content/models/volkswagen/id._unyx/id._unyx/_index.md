@@ -109,7 +109,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
@@ -172,8 +172,8 @@ The Volkswagen Id. UNYX supports Android Auto and Apple CarPlay, allowing you to
 
 You can choose between two sound systems for the Volkswagen Id. UNYX:
 
-- **Sound system:**: Features five speakers and delivers a maximum output of 140 watts.
-- **Sennheiser Soundsystem:**: Features 12 speakers and delivers a maximum output of 395 watts.
+- **Sound system:** Features five speakers and delivers a maximum output of 140 watts.
+- **Sennheiser Soundsystem:** Features 12 speakers and delivers a maximum output of 395 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -181,13 +181,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/headlights_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen Id. UNYX includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen Id. UNYX features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

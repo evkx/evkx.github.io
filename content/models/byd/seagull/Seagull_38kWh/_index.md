@@ -100,13 +100,13 @@ The BYD Seagull 38kWh offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
 The following functionalities are available on the **standard** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
@@ -162,7 +162,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The BYD Seagull 38kWh comes equipped with one sound system option:
 
-- **Dirac:**: Features eight speakers and delivers a maximum output of  watts.
+- **Dirac:** Features eight speakers and delivers a maximum output of  watts.
 
 The model has 1 USB-A connections as standard.
 
@@ -170,11 +170,11 @@ The model has 1 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The BYD Seagull 38kWh includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BYD Seagull 38kWh features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

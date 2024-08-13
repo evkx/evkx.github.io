@@ -105,7 +105,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -123,7 +123,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 ## Comfort Features
 
@@ -166,7 +166,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Seres 5 4WD Premium comes equipped with one sound system option:
 
-- **:**: Features 11 speakers and delivers a maximum output of  watts.
+- **:** Features 11 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -174,11 +174,11 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Seres 5 4WD Premium includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Seres 5 4WD Premium features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

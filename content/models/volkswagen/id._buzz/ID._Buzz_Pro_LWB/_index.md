@@ -103,7 +103,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
-You can choose from 6 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -121,7 +121,7 @@ The following functionalities are available on the **comfort** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Green [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -205,7 +205,7 @@ The Volkswagen ID. Buzz Pro LWB supports Android Auto and Apple CarPlay, allowin
 
 The Volkswagen ID. Buzz Pro LWB comes equipped with one sound system option:
 
-- **Volkswagen Soundsystem:**: Features six speakers and delivers a maximum output of 450 watts.
+- **Volkswagen Soundsystem:** Features six speakers and delivers a maximum output of 450 watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -216,13 +216,13 @@ You can choose between two types of headlights for the Volkswagen ID. Buzz Pro L
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volkswagen ID. Buzz Pro LWB includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volkswagen ID. Buzz Pro LWB features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

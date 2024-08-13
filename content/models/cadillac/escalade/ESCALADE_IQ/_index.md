@@ -101,7 +101,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -174,8 +174,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Cadillac ESCALADE IQ:
 
-- **AKG Studio audi System:**: Features 19 speakers and delivers a maximum output of 1000 watts.
-- **AKG Studio Reference System:**: Features 40 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio audi System:** Features 19 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio Reference System:** Features 40 speakers and delivers a maximum output of 1000 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -183,11 +183,11 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The Cadillac ESCALADE IQ includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Cadillac ESCALADE IQ features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

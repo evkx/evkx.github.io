@@ -99,7 +99,7 @@ The following functionalities are available on the **** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
@@ -157,17 +157,17 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The XPENG X9 AWD Performance comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The XPENG X9 AWD Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The XPENG X9 AWD Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

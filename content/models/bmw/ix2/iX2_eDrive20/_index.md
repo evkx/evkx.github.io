@@ -111,7 +111,7 @@ The following functionalities are available on the **Standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **Sport** seat:
 
@@ -124,7 +124,7 @@ The following functionalities are available on the **Sport** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
@@ -191,8 +191,8 @@ The BMW iX2 eDrive20 supports Android Auto and Apple CarPlay, allowing you to mi
 
 You can choose between two sound systems for the BMW iX2 eDrive20:
 
-- **Harman Kardon Surround Sound system:**: Features 16 speakers and delivers a maximum output of 464 watts.
-- **Harman Kardon Surround Sound system:**: Features 16 speakers and delivers a maximum output of 464 watts.
+- **Harman Kardon Surround Sound system:** Features 16 speakers and delivers a maximum output of 464 watts.
+- **Harman Kardon Surround Sound system:** Features 16 speakers and delivers a maximum output of 464 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -203,13 +203,13 @@ You can choose between two types of headlights for the BMW iX2 eDrive20.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/headlights_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The BMW iX2 eDrive20 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BMW iX2 eDrive20 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

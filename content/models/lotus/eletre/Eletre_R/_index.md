@@ -112,7 +112,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
@@ -186,22 +186,22 @@ The Lotus Eletre R supports Android Auto and Apple CarPlay, allowing you to mirr
 
 You can choose between two sound systems for the Lotus Eletre R:
 
-- **KEF Premium Audio system:**: Features 15 speakers and delivers a maximum output of 1380 watts.
-- **KEF Reference Audio system:**: Features 23 speakers and delivers a maximum output of 2160 watts.
+- **KEF Premium Audio system:** Features 15 speakers and delivers a maximum output of 1380 watts.
+- **KEF Reference Audio system:** Features 23 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/headlights_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Lotus Eletre R includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lotus Eletre R features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -253,7 +253,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 29.01.2021, and deliveries started in March 2023.<div class="mt-3 mb-3">
+The Volkswagen Lotus Eletre R had its world premiere on 29.01.2021, with deliveries starting in March 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Lotus Eletre </strong>
 </a>

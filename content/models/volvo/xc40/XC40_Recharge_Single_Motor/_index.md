@@ -105,7 +105,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
@@ -162,8 +162,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Volvo XC40 Recharge Single Motor:
 
-- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Premium Sound:**: Features 13 speakers and delivers a maximum output of 600 watts.
+- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Premium Sound:** Features 13 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 1 USB-C connections as standard.
 
@@ -174,13 +174,13 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Singl
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1080" height="1080"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volvo XC40 Recharge Single Motor includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volvo XC40 Recharge Single Motor features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

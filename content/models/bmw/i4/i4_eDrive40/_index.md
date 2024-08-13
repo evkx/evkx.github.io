@@ -115,7 +115,7 @@ The following functionalities are available on the **standard** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 21 different materials/colors for this seat type:
+Available in:
 
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -148,7 +148,7 @@ The following functionalities are available on the **M Sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-You can choose from 21 different materials/colors for this seat type:
+Available in:
 
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -232,8 +232,8 @@ The BMW i4 eDrive40 supports Android Auto and Apple CarPlay, allowing you to mir
 
 You can choose between two sound systems for the BMW i4 eDrive40:
 
-- **Hifi Sound system:**: Features ten speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Surround Sound system:**: Features 17 speakers and delivers a maximum output of 445 watts.
+- **Hifi Sound system:** Features ten speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Surround Sound system:** Features 17 speakers and delivers a maximum output of 445 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -244,11 +244,11 @@ You can choose between two types of headlights for the BMW i4 eDrive40.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The BMW i4 eDrive40 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The BMW i4 eDrive40 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

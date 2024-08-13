@@ -116,7 +116,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The Audi SQ6 e-tron features a driver-focused interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+The Audi SQ6 e-tron features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 
@@ -158,7 +158,7 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -226,8 +226,8 @@ The Audi SQ6 e-tron supports Android Auto and Apple CarPlay, allowing you to mir
 
 You can choose between two sound systems for the Audi SQ6 e-tron:
 
-- **Audi Sound System:**: Features five speakers and delivers a maximum output of 200 watts.
-- **Bang & Olufsen Sound System:**: Features 20 speakers and delivers a maximum output of 830 watts.
+- **Audi Sound System:** Features five speakers and delivers a maximum output of 200 watts.
+- **Bang & Olufsen Sound System:** Features 20 speakers and delivers a maximum output of 830 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -252,14 +252,14 @@ You can choose between two types of headlights for the Audi SQ6 e-tron.
 
 Additionally, you have two options for taillights:
 
-- Standard taillights use LED technology, ensuring visibility and efficiency.
+- The taillights use LED technology, ensuring both high visibility and energy efficiency.
 - Optional taillights: These feature OLED technology, offering enhanced lighting performance and a distinctive look.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/headlights_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Audi SQ6 e-tron includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi SQ6 e-tron features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat:
 
 - Electric adjustment
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [Alcantara upholstering](../../../../technology/seats/materials/#alcantara)
 
@@ -169,19 +169,19 @@ The Rimac Nevera supports Android Auto and Apple CarPlay, allowing you to mirror
 
 The Rimac Nevera comes equipped with one sound system option:
 
-- **Rimac Nevera Sound System:**: Features eight speakers and delivers a maximum output of 1200 watts.
+- **Rimac Nevera Sound System:** Features eight speakers and delivers a maximum output of 1200 watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Rimac Nevera includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Rimac Nevera features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -208,7 +208,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 01.06.2021, and deliveries started in January 2023.<div class="mt-3 mb-3">
+The Volkswagen Rimac Nevera had its world premiere on 01.06.2021, with deliveries starting in January 2023.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rimac Nevera </strong>
 </a>

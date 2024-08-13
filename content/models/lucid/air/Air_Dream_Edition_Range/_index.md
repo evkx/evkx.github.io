@@ -110,7 +110,7 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
 
@@ -176,8 +176,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Lucid Air Dream Edition Range:
 
-- **Surreal Sound:**: Features nine speakers and delivers a maximum output of 300 watts.
-- **Surreal Sound Pro:**: Features 21 speakers and delivers a maximum output of 800 watts.
+- **Surreal Sound:** Features nine speakers and delivers a maximum output of 300 watts.
+- **Surreal Sound Pro:** Features 21 speakers and delivers a maximum output of 800 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -185,13 +185,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2001"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Lucid Air Dream Edition Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lucid Air Dream Edition Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

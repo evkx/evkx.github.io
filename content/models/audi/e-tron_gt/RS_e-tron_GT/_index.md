@@ -122,7 +122,7 @@ The following functionalities are available on the **sport** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **sport plus** seat:
 
@@ -132,7 +132,7 @@ The following functionalities are available on the **sport plus** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **sport pro** seat:
 
@@ -147,7 +147,7 @@ The following functionalities are available on the **sport pro** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
@@ -155,7 +155,7 @@ You can choose from 4 different materials/colors for this seat type:
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -207,8 +207,8 @@ The Audi RS e-tron GT supports Android Auto and Apple CarPlay, allowing you to m
 
 You can choose between two sound systems for the Audi RS e-tron GT:
 
-- **Audi Sound system:**: Features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System:**: Features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:** Features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:** Features 16 speakers and delivers a maximum output of 700 watts.
 
 ## Mobile App
 
@@ -230,13 +230,13 @@ You can choose between three types of headlights for the Audi RS e-tron GT.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Audi RS e-tron GT includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi RS e-tron GT features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 
@@ -285,7 +285,7 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-This model had a world premiere on 18.06.2024, and deliveries started in September 2024.<div class="mt-3 mb-3">
+The Volkswagen Audi RS e-tron GT had its world premiere on 18.06.2024, with deliveries starting in September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

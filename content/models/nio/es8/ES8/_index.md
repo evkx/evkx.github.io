@@ -128,7 +128,7 @@ The following functionalities are available on the **standard** seat:
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
@@ -153,7 +153,7 @@ The third row has a two-seat bench with a 50:50 split. Again, you can fold down 
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 ## Comfort Features
 
@@ -199,8 +199,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Nio ES8:
 
-- **Surroundsystem:**: Features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system:**: Features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 3 USB-A connections as standard.
 
@@ -208,13 +208,13 @@ The model has 3 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Nio ES8 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Nio ES8 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

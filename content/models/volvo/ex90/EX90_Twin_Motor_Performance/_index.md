@@ -106,7 +106,7 @@ The following functionalities are available on the **standard** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 - White [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -175,8 +175,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Volvo EX90 Twin Motor Performance:
 
-- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
-- **Bowers & Wilkins:**: Features 25 speakers and delivers a maximum output of 1610 watts.
+- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Bowers & Wilkins:** Features 25 speakers and delivers a maximum output of 1610 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -187,13 +187,13 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor Per
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Volvo EX90 Twin Motor Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Volvo EX90 Twin Motor Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

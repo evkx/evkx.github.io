@@ -103,7 +103,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 5 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -168,8 +168,8 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 You can choose between two sound systems for the Polestar 2 Long Range Dual Motor:
 
-- **High Performance:**: Features eight speakers and delivers a maximum output of 200 watts.
-- **Harman Kardon Premium Sound:**: Features 13 speakers and delivers a maximum output of 600 watts.
+- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Harman Kardon Premium Sound:** Features 13 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -180,13 +180,13 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1766"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Polestar 2 Long Range Dual Motor includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Polestar 2 Long Range Dual Motor features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

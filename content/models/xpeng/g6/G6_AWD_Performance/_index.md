@@ -103,7 +103,7 @@ The following functionalities are available on the **** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -169,7 +169,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The XPENG G6 AWD Performance comes equipped with one sound system option:
 
-- **:**: Features 18 speakers and delivers a maximum output of 1200 watts.
+- **:** Features 18 speakers and delivers a maximum output of 1200 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -177,11 +177,11 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The XPENG G6 AWD Performance includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The XPENG G6 AWD Performance features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

@@ -81,7 +81,7 @@ The Honda e:Ny1 offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -126,19 +126,19 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 The Honda e:Ny1 comes equipped with one sound system option:
 
-- **:**: Features NULL speakers and delivers a maximum output of  watts.
+- **:** Features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Honda e:Ny1 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Honda e:Ny1 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

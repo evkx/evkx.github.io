@@ -131,7 +131,7 @@ The following functionalities are available on the **Comfortseats with memory** 
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **Sportsseats Plus** seat:
 
@@ -146,7 +146,7 @@ The following functionalities are available on the **Sportsseats Plus** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -212,8 +212,8 @@ The Porsche Macan 4S supports Android Auto and Apple CarPlay, allowing you to mi
 
 You can choose between two sound systems for the Porsche Macan 4S:
 
-- ** BOSE® Surround Sound System:**: Features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System:**: Features 21 speakers and delivers a maximum output of 1470 watts.
+- ** BOSE® Surround Sound System:** Features 14 speakers and delivers a maximum output of 710 watts.
+- ** Burmester® 3D High-End Surround Sound System:** Features 21 speakers and delivers a maximum output of 1470 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -221,16 +221,16 @@ Additionally, the model includes 2 USB-C connections as standard. As an option, 
 
 You can choose between two types of headlights for the Porsche Macan 4S.
 
-- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/headlights_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Porsche Macan 4S includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Porsche Macan 4S features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

@@ -105,7 +105,7 @@ The following functionalities are available on the **** seat:
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -176,17 +176,17 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The XPENG G9 RWD Standard Range comes equipped with one sound system option:
 
-- **:**: Features eight speakers and delivers a maximum output of 500 watts.
+- **:** Features eight speakers and delivers a maximum output of 500 watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 ## Advanced Driver Assistance Systems
 
-The XPENG G9 RWD Standard Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The XPENG G9 RWD Standard Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

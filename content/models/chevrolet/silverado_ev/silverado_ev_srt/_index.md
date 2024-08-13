@@ -99,7 +99,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -168,7 +168,7 @@ The Chevrolet Silverado EV SRT supports Android Auto and Apple CarPlay, allowing
 
 The Chevrolet Silverado EV SRT comes equipped with one sound system option:
 
-- **Chevrolet Sound System:**: Features six speakers and delivers a maximum output of 200 watts.
+- **Chevrolet Sound System:** Features six speakers and delivers a maximum output of 200 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -176,13 +176,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Chevrolet Silverado EV SRT includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Chevrolet Silverado EV SRT features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

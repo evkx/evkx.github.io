@@ -101,7 +101,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -176,7 +176,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Rivian R1S Dual-Motor AWD SP comes equipped with one sound system option:
 
-- **Rivian Elevation audio system:**: Features 22 speakers and delivers a maximum output of 1100 watts.
+- **Rivian Elevation audio system:** Features 22 speakers and delivers a maximum output of 1100 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -184,13 +184,13 @@ Additionally, the model includes 6 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/headlights_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Rivian R1S Dual-Motor AWD SP includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Rivian R1S Dual-Motor AWD SP features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
@@ -227,7 +227,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 06.06.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">
+The Volkswagen Rivian R1S Dual-Motor AWD SP had its world premiere on 06.06.2024, with deliveries starting in August 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Rivian R1 </strong>
 </a>

@@ -110,7 +110,7 @@ The following functionalities are available on the **Sport** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 2 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -120,7 +120,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -169,7 +169,7 @@ The SKODA Elroq 85x supports Android Auto and Apple CarPlay, allowing you to mir
 
 The SKODA Elroq 85x comes equipped with one sound system option:
 
-- **Canton Soundsystem:**: Features ten speakers and delivers a maximum output of 550 watts.
+- **Canton Soundsystem:** Features ten speakers and delivers a maximum output of 550 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -180,13 +180,13 @@ You can choose between two types of headlights for the SKODA Elroq 85x.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/headlights_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The SKODA Elroq 85x includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The SKODA Elroq 85x features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

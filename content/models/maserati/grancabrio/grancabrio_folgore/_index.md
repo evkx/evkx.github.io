@@ -116,7 +116,7 @@ The following functionalities are available on the **Sport** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
@@ -133,7 +133,7 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 There is one climate system available:
 
-- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
@@ -186,22 +186,22 @@ The Maserati GranCabrio Folgore supports Android Auto and Apple CarPlay, allowin
 
 You can choose between two sound systems for the Maserati GranCabrio Folgore:
 
-- **Sonus Faber Premium Sound System:**: Features 14 speakers and delivers a maximum output of 860 watts.
-- **Sonus Faber High Premium Sound System:**: Features 21 speakers and delivers a maximum output of 1285 watts.
+- **Sonus Faber Premium Sound System:** Features 14 speakers and delivers a maximum output of 860 watts.
+- **Sonus Faber High Premium Sound System:** Features 21 speakers and delivers a maximum output of 1285 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Maserati GranCabrio Folgore includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Maserati GranCabrio Folgore features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

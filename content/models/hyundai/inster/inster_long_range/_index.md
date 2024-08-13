@@ -104,7 +104,7 @@ The following functionalities are available on the **standard** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -118,7 +118,7 @@ The following functionalities are available on the **** seat:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -179,7 +179,7 @@ The Hyundai INSTER Long Range supports Android Auto and Apple CarPlay, allowing 
 
 The Hyundai INSTER Long Range comes equipped with one sound system option:
 
-- **Bose Premium Sound System:**: Features seven speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:** Features seven speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -187,13 +187,13 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Hyundai INSTER Long Range includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Hyundai INSTER Long Range features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 

@@ -100,7 +100,7 @@ The following functionalities are available on the **** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 - White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
@@ -164,7 +164,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Smart #1 comes equipped with one sound system option:
 
-- **Yamaha surround sound system:**: Features 13 speakers and delivers a maximum output of 1040 watts.
+- **Yamaha surround sound system:** Features 13 speakers and delivers a maximum output of 1040 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -175,13 +175,13 @@ You can choose between two types of headlights for the Smart #1.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/headlights_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Smart #1 includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Smart #1 features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

@@ -136,7 +136,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **sport** seat:
 
@@ -148,7 +148,7 @@ The following functionalities are available on the **sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 3 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **s-line sport** seat:
 
@@ -160,7 +160,7 @@ The following functionalities are available on the **s-line sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **s sport** seat:
 
@@ -170,7 +170,7 @@ The following functionalities are available on the **s sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 The following functionalities are available on the **multicontour** seat:
 
@@ -187,7 +187,7 @@ The following functionalities are available on the **multicontour** seat:
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type:
+Available in:
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/frontseats_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2249"  >}}
 
@@ -258,8 +258,8 @@ The Audi e-tron 50 Sportback supports Android Auto and Apple CarPlay, allowing y
 
 You can choose between two sound systems for the Audi e-tron 50 Sportback:
 
-- **Audi Sound system:**: Features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System:**: Features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:** Features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:** Features 16 speakers and delivers a maximum output of 700 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -271,13 +271,13 @@ You can choose between three types of headlights for the Audi e-tron 50 Sportbac
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2249"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Audi e-tron 50 Sportback includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Audi e-tron 50 Sportback features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
 

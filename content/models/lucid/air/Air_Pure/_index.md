@@ -108,7 +108,7 @@ The following functionalities are available on the **standard** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 1 different materials/colors for this seat type:
+Available in:
 
 #### Second Row Seat
 
@@ -172,8 +172,8 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 You can choose between two sound systems for the Lucid Air Pure:
 
-- **Surreal Sound:**: Features nine speakers and delivers a maximum output of 300 watts.
-- **Surreal Sound Pro:**: Features 21 speakers and delivers a maximum output of 800 watts.
+- **Surreal Sound:** Features nine speakers and delivers a maximum output of 300 watts.
+- **Surreal Sound Pro:** Features 21 speakers and delivers a maximum output of 800 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -181,13 +181,13 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard taillights use LED technology, ensuring visibility and efficiency.
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/headlights_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 
 ## Advanced Driver Assistance Systems
 
-The Lucid Air Pure includes several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) to enhance safety and comfort.
+The Lucid Air Pure features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
 
