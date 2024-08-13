@@ -114,7 +114,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
+The Audi Q6L e-tron quattro features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between different types of seats, seat materials, and interior styling. You can choose between several interior designs.
 
 ### Seats
 
