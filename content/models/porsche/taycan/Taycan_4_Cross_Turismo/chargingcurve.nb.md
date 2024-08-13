@@ -364,4 +364,4 @@ Porsche Taycan 4 Cross Turismo har batterioppvarming, noe som gjør lading ved e
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}}

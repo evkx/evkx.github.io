@@ -240,4 +240,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Range" >}}

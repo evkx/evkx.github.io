@@ -302,4 +302,4 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 
 <a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
-{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Plage" >}}

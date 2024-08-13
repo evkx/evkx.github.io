@@ -364,4 +364,4 @@ Porsche Taycan GTS Sport Turismo har batteriopvarmning, hvilket gør opladning v
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

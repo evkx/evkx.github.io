@@ -225,4 +225,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 30.10.2023 y las entregas comenzaron en January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Rango" >}}

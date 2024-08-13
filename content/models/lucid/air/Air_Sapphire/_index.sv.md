@@ -221,4 +221,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" width="2000" height="1334"  >}}
 
-{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

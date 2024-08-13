@@ -254,4 +254,4 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 30.11.2023 och leveranserna startade i November 2023. Denna modell är endast tillgänglig i Nordamerika.
-{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

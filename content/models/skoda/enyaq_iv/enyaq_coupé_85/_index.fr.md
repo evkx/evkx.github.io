@@ -229,4 +229,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -726,4 +726,4 @@ Porsche Taycan Sport Turismo (GEN1) har batterioppvarming, noe som gjør lading 
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}}

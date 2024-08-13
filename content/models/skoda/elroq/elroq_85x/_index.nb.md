@@ -229,4 +229,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 01.07.2024, med forventede leveranser som starter i February 2025.
-{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="SKODA Elroq" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

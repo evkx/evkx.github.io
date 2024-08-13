@@ -250,4 +250,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 This model made its world premiere on 12.10.2023, with deliveries anticipated to begin in March 2024.
-{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Range" >}}

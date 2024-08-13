@@ -275,4 +275,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 16.07.2024, med forventede leveranser som starter i December 2024.
-{< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

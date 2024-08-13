@@ -241,4 +241,4 @@ The vehicle’s maximum weight is 2030 kg (4475 lbs), with a base weight of 1429
 ## Availability & Pricing
 
 This model made its world premiere on 21.06.2024, with deliveries anticipated to begin in September 2024.
-{< pagenavigation b_url="../" b_title="Citroën ë-C3 Aircross" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Citroën ë-C3 Aircross" f_url="rangeandconsumption/" f_title="Range" >}}

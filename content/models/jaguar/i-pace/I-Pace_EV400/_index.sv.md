@@ -246,4 +246,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.03.2018 och leveranserna startade i October 2018.
-{< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

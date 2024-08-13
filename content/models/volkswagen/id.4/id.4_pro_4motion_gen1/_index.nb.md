@@ -272,4 +272,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 
-{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -276,4 +276,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/trunk_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Range" >}}

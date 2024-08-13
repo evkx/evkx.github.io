@@ -364,4 +364,4 @@ Tesla Model 3 Long Range (GEN1) har batteriuppvärmning, vilket underlättar lad
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}}

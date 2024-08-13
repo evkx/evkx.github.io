@@ -287,4 +287,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 This model had a world premiere on 09.02.2021, and deliveries started in May 2021. This models has now been discontined.
-{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Range" >}}

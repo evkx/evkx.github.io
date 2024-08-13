@@ -201,4 +201,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="DS 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="DS 3" f_url="rangeandconsumption/" f_title="Range" >}}

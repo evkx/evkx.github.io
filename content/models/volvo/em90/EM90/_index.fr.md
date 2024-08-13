@@ -238,4 +238,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 12.11.2023 et les livraisons devraient commencer en March 2025. Ce modèle est uniquement disponible en Chine.
-{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Plage" >}}

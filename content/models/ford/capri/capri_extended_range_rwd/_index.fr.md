@@ -246,4 +246,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 11.07.2024 et les livraisons ont commencé en November 2024.
-{< pagenavigation b_url="../" b_title="Ford Capri" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Ford Capri" f_url="rangeandconsumption/" f_title="Plage" >}}

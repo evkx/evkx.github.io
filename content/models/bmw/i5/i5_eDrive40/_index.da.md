@@ -257,4 +257,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/trunk_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Range" >}}

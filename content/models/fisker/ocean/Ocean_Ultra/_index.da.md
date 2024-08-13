@@ -222,4 +222,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 
-{< pagenavigation b_url="../" b_title="Fisker Ocean" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Fisker Ocean" f_url="rangeandconsumption/" f_title="Range" >}}

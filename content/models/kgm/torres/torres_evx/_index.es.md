@@ -229,4 +229,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 30.03.2023 y las entregas comenzaron en March 2024.
-{< pagenavigation b_url="../" b_title="KGM Torres" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="KGM Torres" f_url="rangeandconsumption/" f_title="Rango" >}}

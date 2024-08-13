@@ -232,4 +232,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Range" >}}

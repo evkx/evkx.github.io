@@ -285,4 +285,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 07.02.2024 y las entregas comenzaron en August 2024.
-{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

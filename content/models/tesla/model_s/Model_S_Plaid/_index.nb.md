@@ -233,4 +233,4 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

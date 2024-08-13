@@ -264,4 +264,4 @@ Le coffre offre une capacité de chargement de 407 litres. Sur le toit, vous pou
 Le poids maximum du véhicule est de 2850 kg, avec un poids de base de 2295 kg. Cela permet une charge maximale de 555 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
-{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}}

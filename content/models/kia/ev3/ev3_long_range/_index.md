@@ -221,4 +221,4 @@ The trunk offers a cargo capacity of 460 liters (16.2 CU FT). With the rear seat
 The vehicle’s maximum weight is 2300 kg (5071 lbs), with a base weight of 1875 kg (4134 lbs). This allows for a maximum load of 425 kg (937 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 300 kg (661 lbs).
-{< pagenavigation b_url="../" b_title="Kia EV3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Kia EV3" f_url="rangeandconsumption/" f_title="Range" >}}

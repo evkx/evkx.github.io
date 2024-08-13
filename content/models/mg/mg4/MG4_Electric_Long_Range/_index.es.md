@@ -198,4 +198,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/trunk_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Rango" >}}

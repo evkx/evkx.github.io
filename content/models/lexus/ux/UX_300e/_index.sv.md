@@ -233,4 +233,4 @@ Fordonets maximala vikt är 2245 kg, med en grundvikt på 1810 kg. Detta tillåt
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 
-{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

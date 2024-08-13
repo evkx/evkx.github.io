@@ -209,4 +209,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Please note that this model is available exclusively in China.
-{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Range" >}}

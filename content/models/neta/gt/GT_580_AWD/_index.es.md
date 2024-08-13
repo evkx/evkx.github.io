@@ -200,4 +200,4 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 13.07.2023 y las entregas comenzaron en December 2023. Este modelo sólo está disponible en China.
-{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Rango" >}}

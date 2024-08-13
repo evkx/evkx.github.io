@@ -204,4 +204,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 07.10.2021 y las entregas comenzaron en January 2022.
-{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Rango" >}}

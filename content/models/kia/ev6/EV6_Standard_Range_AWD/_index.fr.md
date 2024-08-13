@@ -232,4 +232,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/trunk_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Plage" >}}

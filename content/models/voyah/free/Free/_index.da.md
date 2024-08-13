@@ -198,4 +198,4 @@ Bagagerummet har en lastekapacitet på 560 liter. Med det bageste sæde foldet n
 Køretøjets maksimale vægt er 2945 kg, med en basisvægt på 2340 kg. Dette giver en maksimal last på 605 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 2000, og for en ubremset trailer er det 750 kg.
-{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}}

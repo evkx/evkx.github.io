@@ -248,4 +248,4 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 23.04.2024, og leveringerne startede i May 2024.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}}

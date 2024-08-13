@@ -226,4 +226,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/trunk_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 
-{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Range" >}}

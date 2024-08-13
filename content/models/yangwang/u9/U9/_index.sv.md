@@ -207,4 +207,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.04.2023 och leveranser förväntas starta om January 2025.
-{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

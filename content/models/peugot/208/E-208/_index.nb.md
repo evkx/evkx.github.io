@@ -207,4 +207,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 06.07.2023, med forventede leveranser som starter i November 2023.
-{< pagenavigation b_url="../" b_title="Peugot 208" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Peugot 208" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

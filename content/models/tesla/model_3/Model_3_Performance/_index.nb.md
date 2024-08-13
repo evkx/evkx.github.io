@@ -248,4 +248,4 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 ## Tilgjengelighet & pris
 
 Tesla Model 3 Performance hadde sin verdenspremiere den 23.04.2024, med leveranser som startet i May 2024.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -215,4 +215,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 06.07.2023 et les livraisons devraient commencer en November 2023.
-{< pagenavigation b_url="../" b_title="Opel Astra" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Opel Astra" f_url="rangeandconsumption/" f_title="Plage" >}}

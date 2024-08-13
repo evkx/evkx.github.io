@@ -271,4 +271,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/trunk_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQE" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQE" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

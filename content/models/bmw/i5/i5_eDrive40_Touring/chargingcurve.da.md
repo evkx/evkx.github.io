@@ -364,4 +364,4 @@ BMW i5 eDrive40 Touring har batteriopvarmning, hvilket gør opladning ved en opt
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

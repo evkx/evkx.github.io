@@ -247,4 +247,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/trunk_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="BMW iX2" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="BMW iX2" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

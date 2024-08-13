@@ -198,4 +198,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 560 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2945 kg, med en grundvikt på 2340 kg. Detta tillåter en maximal last på 605 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok är standardutrustning på denna modell. Den maximala totala vikten på en bromsad släpvagn är 2000, och för en obromsad släpvagn är den 750 kg.
-{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -204,4 +204,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

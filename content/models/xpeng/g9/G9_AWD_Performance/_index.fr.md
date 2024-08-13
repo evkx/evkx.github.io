@@ -226,4 +226,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
-{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Plage" >}}

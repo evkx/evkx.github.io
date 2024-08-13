@@ -341,4 +341,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Audi Q8 e-tron edition Dakar had its world premiere on 03.01.2024, with deliveries starting in May 2024. This model is available in North America, China, Europe, and the Middle East.
-{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}

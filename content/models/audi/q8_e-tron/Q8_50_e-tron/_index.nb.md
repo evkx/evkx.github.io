@@ -337,4 +337,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Audi Q8 50 e-tron hadde sin verdenspremiere den 09.11.2022, med leveranser som startet i March 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Europa.
-{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

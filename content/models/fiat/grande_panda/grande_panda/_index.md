@@ -229,4 +229,4 @@ The vehicle’s maximum weight is 2030 kg (4475 lbs), with a base weight of 1429
 ## Availability & Pricing
 
 This model made its world premiere on 12.07.2024, with deliveries anticipated to begin in December 2024.
-{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Range" >}}

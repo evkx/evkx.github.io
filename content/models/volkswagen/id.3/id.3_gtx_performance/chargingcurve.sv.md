@@ -364,4 +364,4 @@ Volkswagen ID.3 GTX Performance har batteriuppvärmning, vilket underlättar lad
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}}

@@ -254,4 +254,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Lotus Eletre R hadde sin verdenspremiere den 29.01.2021, med leveranser som startet i March 2023.
-{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

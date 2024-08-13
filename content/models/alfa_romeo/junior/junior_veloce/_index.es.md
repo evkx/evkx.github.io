@@ -206,4 +206,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/trunk_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Rango" >}}

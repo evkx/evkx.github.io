@@ -282,4 +282,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 15.04.2021 och leveranser startade i September 2021. Denna modell har nu utgått. Denna modell har ersatts av [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic).
-{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

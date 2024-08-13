@@ -209,4 +209,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Fiat 600e" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Fiat 600e" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

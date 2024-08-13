@@ -246,4 +246,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.03.2018 et les livraisons ont commencé en October 2018.
-{< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Plage" >}}

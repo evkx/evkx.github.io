@@ -209,4 +209,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Rimac Nevera hadde sin verdenspremiere den 01.06.2021, med leveranser som startet i January 2023.
-{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

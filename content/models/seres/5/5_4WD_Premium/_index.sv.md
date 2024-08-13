@@ -211,4 +211,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 367 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2735 kg, med en grundvikt på 2360 kg. Detta tillåter en maximal last på 375 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 375 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
-{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

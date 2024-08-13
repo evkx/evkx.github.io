@@ -227,4 +227,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 27.12.2023 y las entregas comenzaron en January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Rango" >}}

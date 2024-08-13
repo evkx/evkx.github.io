@@ -204,4 +204,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

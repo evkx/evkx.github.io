@@ -228,4 +228,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 
-{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

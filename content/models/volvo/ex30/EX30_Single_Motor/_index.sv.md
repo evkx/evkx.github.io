@@ -226,4 +226,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2251"  >}}
 
-{< pagenavigation b_url="../" b_title="Volvo EX30" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Volvo EX30" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

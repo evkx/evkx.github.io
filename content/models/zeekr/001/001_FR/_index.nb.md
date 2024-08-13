@@ -225,4 +225,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Zeekr 001 FR hadde sin verdenspremiere den 30.10.2023, med leveranser som startet i January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

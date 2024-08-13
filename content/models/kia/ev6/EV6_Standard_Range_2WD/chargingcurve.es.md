@@ -364,4 +364,4 @@ Kia EV6 Standard Range 2WD tiene calefacción de batería, lo que facilita la ca
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

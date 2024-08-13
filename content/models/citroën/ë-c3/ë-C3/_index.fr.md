@@ -241,4 +241,4 @@ Le poids maximum du véhicule est de 1910 kg, avec un poids de base de 1416 kg. 
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 17.10.2023 et les livraisons devraient commencer en May 2024.
-{< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Plage" >}}

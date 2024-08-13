@@ -230,4 +230,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 This model had a world premiere on 18.04.2023, and deliveries started in March 2024. This models has now been discontined.
-{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Range" >}}

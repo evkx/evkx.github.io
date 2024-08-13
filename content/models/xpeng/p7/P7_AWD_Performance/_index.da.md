@@ -216,4 +216,4 @@ Bagagerummet har en lastekapacitet på 440 liter. På taget kan du laste op til 
 Køretøjets maksimale vægt er 2570 kg, med en basisvægt på 2055 kg. Dette giver en maksimal last på 515 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
-{< pagenavigation b_url="../" b_title="XPENG P7" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="XPENG P7" f_url="rangeandconsumption/" f_title="Range" >}}

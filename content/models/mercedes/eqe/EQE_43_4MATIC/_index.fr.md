@@ -272,4 +272,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQE" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQE" f_url="rangeandconsumption/" f_title="Plage" >}}

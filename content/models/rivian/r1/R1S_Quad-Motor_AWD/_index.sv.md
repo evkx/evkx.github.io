@@ -227,4 +227,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 26.11.2018 och leveranser startade i December 2021. Denna modell har nu utgått.
-{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

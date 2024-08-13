@@ -199,4 +199,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/trunk_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="1996"  >}}
 
-{< pagenavigation b_url="../" b_title="MG MG5" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="MG MG5" f_url="rangeandconsumption/" f_title="Plage" >}}

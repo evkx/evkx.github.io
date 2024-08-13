@@ -228,4 +228,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 
-{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Rango" >}}

@@ -204,4 +204,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Range" >}}

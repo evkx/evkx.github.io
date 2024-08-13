@@ -194,4 +194,4 @@ Bagasjerommet tilbyr en lastekapasitet på 350 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2008 kg, med en basisvekt på 1550 kg. Dette gir en maksimal lastekapasitet på 458 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
-{< pagenavigation b_url="../" b_title="Citroën ë-C4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Citroën ë-C4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -291,4 +291,4 @@ The trunk offers a cargo capacity of 470 liters (16.6 CU FT). With the rear seat
 The vehicle’s maximum weight is 2735 kg (6030 lbs), with a base weight of 2215 kg (4883 lbs). This allows for a maximum load of 520 kg (1146 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Range" >}}

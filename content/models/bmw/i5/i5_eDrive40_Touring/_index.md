@@ -300,4 +300,4 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 
 <a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2cfeb279" target="_blank">Explore a detailed comparison of these models.</a>
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Range" >}}

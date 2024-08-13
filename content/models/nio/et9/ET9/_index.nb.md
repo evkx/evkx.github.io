@@ -240,4 +240,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 23.12.2023, med forventede leveranser som starter i February 2025.
-{< pagenavigation b_url="../" b_title="Nio ET9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Nio ET9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

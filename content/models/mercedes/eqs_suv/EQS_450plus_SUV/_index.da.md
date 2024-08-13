@@ -277,4 +277,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQS SUV" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQS SUV" f_url="rangeandconsumption/" f_title="Range" >}}

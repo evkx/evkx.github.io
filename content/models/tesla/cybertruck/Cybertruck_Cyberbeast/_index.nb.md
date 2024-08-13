@@ -237,4 +237,4 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 ## Tilgjengelighet & pris
 
 Tesla Cybertruck Cyberbeast hadde sin verdenspremiere den 30.11.2023, med leveranser som startet i November 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
-{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -218,4 +218,4 @@ El maletero ofrece una capacidad de carga de 405 litros. Con el asiento trasero 
 El peso máximo del vehículo es 2520 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 495 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
-{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Rango" >}}

@@ -247,4 +247,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/trunk_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="BMW iX2" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="BMW iX2" f_url="rangeandconsumption/" f_title="Plage" >}}

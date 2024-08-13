@@ -212,4 +212,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Volvo EX40 Single Motor hadde sin verdenspremiere den 20.02.2024, med leveranser som startet i April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EX40" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volvo EX40" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -364,4 +364,4 @@ Porsche Taycan Turbo Cross Turismo (GEN1) har batteriopvarmning, hvilket gør op
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

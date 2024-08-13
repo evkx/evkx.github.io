@@ -207,4 +207,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 The Automobili Pininfarina Battista had its world premiere on 01.07.2023, with deliveries starting in October 2023.
-{< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Range" >}}

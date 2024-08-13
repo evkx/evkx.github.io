@@ -364,4 +364,4 @@ Tesla Model S tiene calefacción de batería, lo que facilita la carga a una tem
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

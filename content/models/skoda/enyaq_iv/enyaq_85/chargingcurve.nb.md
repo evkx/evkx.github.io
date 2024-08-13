@@ -364,4 +364,4 @@ SKODA ENYAQ 85 har batterioppvarming, noe som gjør lading ved en optimal batter
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}}

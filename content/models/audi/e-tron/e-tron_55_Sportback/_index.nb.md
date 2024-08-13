@@ -331,4 +331,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 19.11.2019, og leveransene startet i May 2020. Denne modellen er nå avviklet. Denne modellen er erstattet av [Audi Q8 Sportback 55 e-tron](/models/audi/q8_e-tron/q8_sportback_55_e-tron).
-{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

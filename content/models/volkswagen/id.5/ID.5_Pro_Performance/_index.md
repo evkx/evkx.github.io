@@ -271,4 +271,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Range" >}}

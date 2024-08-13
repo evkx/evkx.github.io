@@ -199,4 +199,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 MG Cyberster AWD Long Range hadde sin verdenspremiere den 13.07.2023, med leveranser som startet i December 2023.
-{< pagenavigation b_url="../" b_title="MG Cyberster" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="MG Cyberster" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

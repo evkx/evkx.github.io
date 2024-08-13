@@ -250,4 +250,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 10.10.2023 et les livraisons ont commencé en November 2023.
-{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Plage" >}}

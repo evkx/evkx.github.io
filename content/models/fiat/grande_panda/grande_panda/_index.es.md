@@ -229,4 +229,4 @@ El peso máximo del vehículo es 2030 kg, con un peso base de 1429 kg. Esto perm
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.07.2024 y se espera que las entregas comiencen en December 2024.
-{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Rango" >}}

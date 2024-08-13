@@ -364,4 +364,4 @@ Lexus RZ 450e har batteriuppvärmning, vilket underlättar laddning vid en optim
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}}

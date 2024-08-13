@@ -367,4 +367,4 @@ Hyundai INSTER Long Range har batteriuppvärmning, vilket underlättar laddning 
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}}

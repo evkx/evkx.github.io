@@ -227,4 +227,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 26.11.2018, og leveransene startet i December 2021. Denne modellen er nå avviklet.
-{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

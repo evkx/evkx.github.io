@@ -221,4 +221,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 460 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2300 kg, med en grundvikt på 1875 kg. Detta tillåter en maximal last på 425 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 300 kg.
-{< pagenavigation b_url="../" b_title="Kia EV3" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Kia EV3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

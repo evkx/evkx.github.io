@@ -233,4 +233,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/trunk_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="BMW iX" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="BMW iX" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

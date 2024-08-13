@@ -235,4 +235,4 @@ The trunk offers a cargo capacity of 385 liters (13.6 CU FT). With the rear seat
 The vehicle’s maximum weight is 2300 kg (5071 lbs), with a base weight of 1895 kg (4178 lbs). This allows for a maximum load of 405 kg (893 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Range" >}}

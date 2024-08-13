@@ -364,4 +364,4 @@ SKODA ENYAQ COUPÉ 85x har batteriopvarmning, hvilket gør opladning ved en opti
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

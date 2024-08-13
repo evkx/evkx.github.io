@@ -211,4 +211,4 @@ The trunk offers a cargo capacity of 367 liters (13.0 CU FT). With the rear seat
 The vehicle’s maximum weight is 2735 kg (6030 lbs), with a base weight of 2360 kg (5203 lbs). This allows for a maximum load of 375 kg (827 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 375kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -211,4 +211,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Plage" >}}

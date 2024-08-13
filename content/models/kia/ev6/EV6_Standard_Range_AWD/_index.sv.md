@@ -232,4 +232,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/trunk_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

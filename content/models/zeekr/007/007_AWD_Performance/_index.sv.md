@@ -227,4 +227,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

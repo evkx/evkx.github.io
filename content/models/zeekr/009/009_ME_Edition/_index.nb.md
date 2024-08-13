@@ -231,4 +231,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Zeekr 009 ME Edition hadde sin verdenspremiere den 14.04.2021, med leveranser som startet i October 2021. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
-{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

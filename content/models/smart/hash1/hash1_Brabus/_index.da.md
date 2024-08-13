@@ -223,4 +223,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 07.04.2022, og leveringer forventes at starte om November 2023.
-{< pagenavigation b_url="../" b_title="Smart #1" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Smart #1" f_url="rangeandconsumption/" f_title="Range" >}}

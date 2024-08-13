@@ -240,4 +240,4 @@ El maletero ofrece una capacidad de carga de 490 litros. Con el asiento trasero 
 El peso máximo del vehículo es 2580 kg, con un peso base de 2010 kg. Esto permite una carga máxima de 570 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1200 kg, mientras que para un tráiler sin freno es de 750 kg.
-{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Rango" >}}

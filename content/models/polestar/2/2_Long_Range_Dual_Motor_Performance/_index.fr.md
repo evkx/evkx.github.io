@@ -218,4 +218,4 @@ Le coffre offre une capacité de chargement de 405 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 2520 kg, avec un poids de base de 2025 kg. Cela permet une charge maximale de 495 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Polestar 2" f_url="rangeandconsumption/" f_title="Plage" >}}

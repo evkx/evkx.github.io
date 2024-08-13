@@ -364,4 +364,4 @@ Audi S6 Avant e-tron dispose d'un chauffage de batterie, ce qui facilite la char
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

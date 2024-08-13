@@ -207,4 +207,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The GMC Hummer EV Edition 1 Pickup had its world premiere on 20.10.2020, with deliveries starting in December 2021. Please note that this model is available exclusively in North America.
-{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Range" >}}

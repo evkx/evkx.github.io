@@ -185,4 +185,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 380 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2110 kg, med en grundvikt på 1660 kg. Detta tillåter en maximal last på 450 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
-{< pagenavigation b_url="../" b_title="XPENG G3" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="XPENG G3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

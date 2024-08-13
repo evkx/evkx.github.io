@@ -248,4 +248,4 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 01.04.2016, og leveransene startet i July 2017. Denne modellen er nå avviklet. Denne modellen er erstattet av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

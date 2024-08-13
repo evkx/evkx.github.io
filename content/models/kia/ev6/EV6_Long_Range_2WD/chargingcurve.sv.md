@@ -364,4 +364,4 @@ Kia EV6 Long Range 2WD har batteriuppvärmning, vilket underlättar laddning vid
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}}

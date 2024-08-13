@@ -726,4 +726,4 @@ Porsche Taycan 4S Sport Turismo (GEN1) tiene calefacción de batería, lo que fa
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

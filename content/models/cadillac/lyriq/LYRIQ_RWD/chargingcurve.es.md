@@ -364,4 +364,4 @@ Cadillac LYRIQ RWD tiene calefacción de batería, lo que facilita la carga a un
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

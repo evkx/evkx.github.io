@@ -237,4 +237,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Range" >}}

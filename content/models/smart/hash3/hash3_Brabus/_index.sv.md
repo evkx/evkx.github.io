@@ -219,4 +219,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 03.09.2023 och leveranser förväntas starta om November 2023.
-{< pagenavigation b_url="../" b_title="Smart #3" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Smart #3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

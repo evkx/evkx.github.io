@@ -235,4 +235,4 @@ El peso máximo del vehículo es 2160 kg, con un peso base de 1750 kg. Esto perm
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Rango" >}}

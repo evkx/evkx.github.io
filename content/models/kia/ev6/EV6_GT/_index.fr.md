@@ -220,4 +220,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Plage" >}}

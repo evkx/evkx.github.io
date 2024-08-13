@@ -240,4 +240,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Range" >}}

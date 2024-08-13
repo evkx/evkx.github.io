@@ -248,4 +248,4 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.04.2016 et les livraisons ont commencé en July 2017. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Plage" >}}

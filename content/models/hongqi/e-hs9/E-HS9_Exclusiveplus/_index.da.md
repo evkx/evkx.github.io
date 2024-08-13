@@ -229,4 +229,4 @@ Bagagerummet har en lastekapacitet på 225 liter. Med det tredje sæderække fol
 Køretøjets maksimale vægt er 3180 kg, med en basisvægt på 2630 kg. Dette giver en maksimal last på 550 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
-{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Range" >}}

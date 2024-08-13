@@ -227,4 +227,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}
 
-{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Rango" >}}

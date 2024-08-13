@@ -216,4 +216,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 20.02.2024 et les livraisons ont commencé en April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Plage" >}}

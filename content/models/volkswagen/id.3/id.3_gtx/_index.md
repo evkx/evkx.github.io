@@ -265,4 +265,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 
-{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Range" >}}

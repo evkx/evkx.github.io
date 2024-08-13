@@ -337,4 +337,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 03.01.2024 et les livraisons ont commencé en May 2024. Ce modèle est disponible en Amérique du Nord, en Chine, en Europe et au Moyen-Orient.
-{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}

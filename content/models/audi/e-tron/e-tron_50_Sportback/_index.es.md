@@ -331,4 +331,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 19.11.2019 y las entregas comenzaron en May 2020. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e-tron/q8_sportback_50_e-tron).
-{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Rango" >}}

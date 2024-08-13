@@ -227,4 +227,4 @@ Le coffre offre une capacité de chargement de 225 litres. Avec le siège de la 
 Le poids maximum du véhicule est de 3130 kg, avec un poids de base de 2505 kg. Cela permet une charge maximale de 625 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -242,4 +242,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 28.12.2023 et les livraisons ont commencé en March 2024. Ce modèle est uniquement disponible en Chine.
-{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Plage" >}}

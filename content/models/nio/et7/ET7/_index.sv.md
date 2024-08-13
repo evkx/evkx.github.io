@@ -248,4 +248,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 363 liter. På taket kan du lasta u
 Fordonets maximala vikt är 2900 kg, med en grundvikt på 2379 kg. Detta tillåter en maximal last på 521 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
-{< pagenavigation b_url="../" b_title="Nio ET7" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Nio ET7" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

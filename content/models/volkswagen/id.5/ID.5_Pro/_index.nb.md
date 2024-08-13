@@ -259,4 +259,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Volkswagen ID.5 Pro hadde sin verdenspremiere den 10.10.2023, med leveranser som startet i November 2023.
-{< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

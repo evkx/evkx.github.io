@@ -269,4 +269,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 06.08.2024 y se espera que las entregas comiencen en November 2024.
-{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Rango" >}}

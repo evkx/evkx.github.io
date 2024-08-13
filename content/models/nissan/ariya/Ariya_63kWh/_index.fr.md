@@ -233,4 +233,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Plage" >}}

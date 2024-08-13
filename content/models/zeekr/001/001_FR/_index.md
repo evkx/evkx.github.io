@@ -225,4 +225,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Zeekr 001 FR had its world premiere on 30.10.2023, with deliveries starting in January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Range" >}}

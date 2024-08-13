@@ -257,4 +257,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/trunk_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rango" >}}

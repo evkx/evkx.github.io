@@ -364,4 +364,4 @@ Mercedes-EQ EQE 350 4MATIC tiene calefacción de batería, lo que facilita la ca
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

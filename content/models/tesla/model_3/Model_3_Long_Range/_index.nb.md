@@ -250,4 +250,4 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 ## Tilgjengelighet & pris
 
 Tesla Model 3 Long Range hadde sin verdenspremiere den 01.10.2023, med leveranser som startet i December 2023.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

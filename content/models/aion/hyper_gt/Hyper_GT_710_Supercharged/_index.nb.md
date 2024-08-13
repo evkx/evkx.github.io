@@ -202,4 +202,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Aion Hyper GT 710 Supercharged hadde sin verdenspremiere den 31.12.2022, med leveranser som startet i October 2023.
-{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

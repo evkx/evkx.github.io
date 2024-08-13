@@ -287,4 +287,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 14.04.2021, og leveransene startet i January 2022. Denne modellen er nå avviklet. Denne modellen er erstattet av [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tron/q4_45_e-tron_quattro).
-{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -211,4 +211,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/trunk_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Range" >}}

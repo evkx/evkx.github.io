@@ -239,4 +239,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 18.10.2022, og leveringerne startede i December 2023.
-{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Range" >}}

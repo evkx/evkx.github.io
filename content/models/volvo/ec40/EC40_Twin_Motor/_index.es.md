@@ -216,4 +216,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 20.02.2024 y las entregas comenzaron en April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Rango" >}}

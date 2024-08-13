@@ -364,4 +364,4 @@ BMW i5 M60 xDrive have battery heating, making charging at an optimum battery te
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}}

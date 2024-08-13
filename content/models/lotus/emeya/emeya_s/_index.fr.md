@@ -250,4 +250,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 12.10.2023 et les livraisons devraient commencer en March 2024.
-{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Plage" >}}

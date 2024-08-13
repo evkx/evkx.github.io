@@ -248,4 +248,4 @@ Bagasjerommet tilbyr en lastekapasitet på 363 liter. På taket kan du laste opp
 Kjøretøyets maksimale vekt er 2900 kg, med en basisvekt på 2379 kg. Dette gir en maksimal lastekapasitet på 521 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
-{< pagenavigation b_url="../" b_title="Nio ET5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Nio ET5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

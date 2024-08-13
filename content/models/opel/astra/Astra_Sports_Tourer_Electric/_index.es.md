@@ -215,4 +215,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 06.07.2023 y se espera que las entregas comiencen en November 2023.
-{< pagenavigation b_url="../" b_title="Opel Astra" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Opel Astra" f_url="rangeandconsumption/" f_title="Rango" >}}

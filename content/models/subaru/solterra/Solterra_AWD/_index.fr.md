@@ -217,4 +217,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Subaru Solterra" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Subaru Solterra" f_url="rangeandconsumption/" f_title="Plage" >}}

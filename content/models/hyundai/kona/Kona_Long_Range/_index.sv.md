@@ -233,4 +233,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/trunk_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

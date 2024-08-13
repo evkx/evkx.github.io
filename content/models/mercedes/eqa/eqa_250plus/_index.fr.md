@@ -251,4 +251,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -230,4 +230,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.04.2023 och leveranser startade i March 2024. Denna modell har nu utgått.
-{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

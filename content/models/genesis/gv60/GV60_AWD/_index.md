@@ -226,4 +226,4 @@ The trunk offers a cargo capacity of 432 liters (15.3 CU FT). On the roof, you c
 The vehicle’s maximum weight is 2610 kg (5754 lbs), with a base weight of 2020 kg (4453 lbs). This allows for a maximum load of 590 kg (1301 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="Genesis GV60" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Genesis GV60" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -209,4 +209,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
-{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -216,4 +216,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Range" >}}

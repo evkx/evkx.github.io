@@ -233,4 +233,4 @@ The vehicle’s maximum weight is 2245 kg (4949 lbs), with a base weight of 1810
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 
-{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Range" >}}

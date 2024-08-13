@@ -217,4 +217,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Subaru Solterra" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Subaru Solterra" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

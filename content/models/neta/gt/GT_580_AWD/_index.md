@@ -200,4 +200,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 The Neta GT 580 AWD had its world premiere on 13.07.2023, with deliveries starting in December 2023. Please note that this model is available exclusively in China.
-{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Range" >}}

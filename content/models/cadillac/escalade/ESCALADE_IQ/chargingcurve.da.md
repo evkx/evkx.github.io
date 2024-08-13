@@ -364,4 +364,4 @@ Cadillac ESCALADE IQ har batteriopvarmning, hvilket gør opladning ved en optima
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

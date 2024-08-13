@@ -226,4 +226,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/trunk_1_st.jpg" title="Lucid Air Dream Edition Performance" width="2000" height="1334"  >}}
 
-{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Plage" >}}

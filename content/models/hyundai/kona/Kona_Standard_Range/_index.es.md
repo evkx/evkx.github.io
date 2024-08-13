@@ -233,4 +233,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Rango" >}}

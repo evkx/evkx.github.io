@@ -229,4 +229,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rango" >}}

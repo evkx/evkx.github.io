@@ -254,4 +254,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 
-{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Range" >}}

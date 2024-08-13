@@ -240,4 +240,4 @@ Bagasjerommet tilbyr en lastekapasitet på 490 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2580 kg, med en basisvekt på 2010 kg. Dette gir en maksimal lastekapasitet på 570 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1200 kg, mens for en ubremset tilhenger er det 750 kg.
-{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -258,4 +258,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.03.2024, og leveringer forventes at starte om May 2024. Denne model er kun tilgængelig i Kina.
-{< pagenavigation b_url="../" b_title="Li Auto MEGA" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Li Auto MEGA" f_url="rangeandconsumption/" f_title="Range" >}}

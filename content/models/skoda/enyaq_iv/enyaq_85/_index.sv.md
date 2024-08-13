@@ -229,4 +229,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/trunk_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2002"  >}}
 
-{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

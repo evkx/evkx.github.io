@@ -212,4 +212,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 20.02.2024 och leveranserna startade i April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EX40" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Volvo EX40" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -250,4 +250,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 12.10.2023 och leveranser förväntas starta om March 2024.
-{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

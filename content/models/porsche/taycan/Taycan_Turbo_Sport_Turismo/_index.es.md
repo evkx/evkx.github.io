@@ -266,4 +266,4 @@ El maletero ofrece una capacidad de carga de 405 litros. Con el asiento trasero 
 El peso máximo del vehículo es 2880 kg, con un peso base de 2240 kg. Esto permite una carga máxima de 640 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
-{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Rango" >}}

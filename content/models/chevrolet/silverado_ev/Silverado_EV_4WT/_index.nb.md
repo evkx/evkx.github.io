@@ -210,4 +210,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Chevrolet Silverado EV 4WT hadde sin verdenspremiere den 05.01.2022, med leveranser som startet i September 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
-{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

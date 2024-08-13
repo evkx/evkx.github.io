@@ -237,4 +237,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 540 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2650 kg, med en grundvikt på 2042 kg. Detta tillåter en maximal last på 608 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
-{< pagenavigation b_url="../" b_title="CUPRA Tavascan" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="CUPRA Tavascan" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

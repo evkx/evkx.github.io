@@ -227,4 +227,4 @@ Bagasjerommet tilbyr en lastekapasitet på 376 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 3075 kg, med en basisvekt på 2600 kg. Dette gir en maksimal lastekapasitet på 475 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 475 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.
-{< pagenavigation b_url="../" b_title="VinFast VF8" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="VinFast VF8" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

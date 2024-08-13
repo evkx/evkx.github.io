@@ -240,4 +240,4 @@ The trunk offers a cargo capacity of 490 liters (17.3 CU FT). With the rear seat
 The vehicle’s maximum weight is 2580 kg (5688 lbs), with a base weight of 2010 kg (4431 lbs). This allows for a maximum load of 570 kg (1257 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Range" >}}

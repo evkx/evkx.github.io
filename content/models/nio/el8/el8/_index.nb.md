@@ -275,4 +275,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 
-{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

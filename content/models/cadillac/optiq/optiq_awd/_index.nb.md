@@ -211,4 +211,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

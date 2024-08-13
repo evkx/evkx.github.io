@@ -249,4 +249,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 
-{< pagenavigation b_url="../" b_title="Maserati GranCabrio" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Maserati GranCabrio" f_url="rangeandconsumption/" f_title="Plage" >}}

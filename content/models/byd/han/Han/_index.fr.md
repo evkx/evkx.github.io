@@ -240,4 +240,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="BYD Han" f_url="rangeandconsumption/" f_title="Plage" >}}

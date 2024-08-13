@@ -239,4 +239,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Rolls-Royce Spectre hadde sin verdenspremiere den 18.10.2022, med leveranser som startet i December 2023.
-{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Rolls-Royce Spectre" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -300,4 +300,4 @@ I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer 
 
 <a href="https://db.evkx.net/evcompare?evs=0e264c%2cc920c2%2ce954a2%2cfeb279" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

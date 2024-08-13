@@ -228,4 +228,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

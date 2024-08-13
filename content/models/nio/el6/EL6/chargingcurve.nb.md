@@ -720,4 +720,4 @@ Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/batte
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}}

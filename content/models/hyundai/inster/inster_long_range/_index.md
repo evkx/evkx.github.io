@@ -241,4 +241,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 This model made its world premiere on 27.06.2024, with deliveries anticipated to begin in January 2025.
-{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Range" >}}

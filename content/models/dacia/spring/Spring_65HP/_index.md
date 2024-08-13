@@ -195,4 +195,4 @@ The trunk offers a cargo capacity of 308 liters (10.9 CU FT). With the rear seat
 The vehicle’s maximum weight is 1250 kg (2756 lbs), with a base weight of 984 kg (2169 lbs). This allows for a maximum load of 266 kg (586 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-{< pagenavigation b_url="../" b_title="Dacia Spring" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Dacia Spring" f_url="rangeandconsumption/" f_title="Range" >}}

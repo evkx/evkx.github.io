@@ -199,4 +199,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023.
-{< pagenavigation b_url="../" b_title="MG Cyberster" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="MG Cyberster" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -201,4 +201,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="DS 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="DS 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

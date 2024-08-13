@@ -236,4 +236,4 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 20.08.2023, og leveringerne startede i September 2023. Denne model er nu udgået.
-{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Range" >}}

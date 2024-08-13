@@ -246,4 +246,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 
-{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

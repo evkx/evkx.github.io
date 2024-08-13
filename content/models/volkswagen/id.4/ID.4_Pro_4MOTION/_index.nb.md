@@ -260,4 +260,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Volkswagen ID.4 Pro 4MOTION hadde sin verdenspremiere den 10.11.2023, med leveranser som startet i January 2024.
-{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

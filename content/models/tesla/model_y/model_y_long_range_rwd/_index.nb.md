@@ -307,4 +307,4 @@ I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer 
 
 <a href="https://db.evkx.net/evcompare?evs=98b6e9%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
-{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

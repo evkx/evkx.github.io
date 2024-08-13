@@ -213,4 +213,4 @@ The trunk offers a cargo capacity of 526 liters (18.6 CU FT). With the rear seat
 The vehicle’s maximum weight is 3080 kg (6790 lbs), with a base weight of 2351 kg (5183 lbs). This allows for a maximum load of 729 kg (1607 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="Polestar 4" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Polestar 4" f_url="rangeandconsumption/" f_title="Range" >}}

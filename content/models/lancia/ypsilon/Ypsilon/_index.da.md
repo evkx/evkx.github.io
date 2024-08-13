@@ -219,4 +219,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 14.02.2024, og leveringerne startede i June 2024.
-{< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Range" >}}

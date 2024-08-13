@@ -294,4 +294,4 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 
 <a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Plage" >}}

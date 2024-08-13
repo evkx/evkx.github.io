@@ -207,4 +207,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.04.2023, og leveringer forventes at starte om January 2025.
-{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Range" >}}

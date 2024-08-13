@@ -324,4 +324,4 @@ Pricing may vary depending on local conditions, incentives, and promotions. Belo
 - €77 250,00 (Germany)
 - 777 900,00 NOK (Norway)
 
-{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}

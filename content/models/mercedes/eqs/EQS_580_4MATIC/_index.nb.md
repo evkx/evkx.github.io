@@ -282,4 +282,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Mercedes-EQ EQS 580 4MATIC hadde sin verdenspremiere den 10.04.2024, med leveranser som startet i September 2024.
-{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -264,4 +264,4 @@ Bagagerummet har en lastekapacitet på 407 liter. På taget kan du laste op til 
 Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2295 kg. Dette giver en maksimal last på 555 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
-{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -249,4 +249,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQB" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQB" f_url="rangeandconsumption/" f_title="Rango" >}}

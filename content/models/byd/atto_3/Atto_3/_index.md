@@ -235,4 +235,4 @@ The vehicle’s maximum weight is 2160 kg (4762 lbs), with a base weight of 1750
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Range" >}}

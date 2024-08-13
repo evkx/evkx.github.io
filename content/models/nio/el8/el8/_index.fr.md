@@ -275,4 +275,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 
-{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Plage" >}}

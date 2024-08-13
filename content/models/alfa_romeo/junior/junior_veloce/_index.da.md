@@ -206,4 +206,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/trunk_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Range" >}}

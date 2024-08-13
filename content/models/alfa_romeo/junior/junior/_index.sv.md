@@ -206,4 +206,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

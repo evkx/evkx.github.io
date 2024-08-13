@@ -364,4 +364,4 @@ Audi A6 Sportback e-tron performance dispose d'un chauffage de batterie, ce qui 
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

@@ -275,4 +275,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 
-{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Range" >}}

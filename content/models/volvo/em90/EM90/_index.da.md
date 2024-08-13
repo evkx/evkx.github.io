@@ -238,4 +238,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 12.11.2023, og leveringer forventes at starte om March 2025. Denne model er kun tilgængelig i Kina.
-{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -243,4 +243,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 27.06.2024, med forventede leveranser som starter i January 2025.
-{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

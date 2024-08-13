@@ -254,4 +254,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 
-{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -213,4 +213,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

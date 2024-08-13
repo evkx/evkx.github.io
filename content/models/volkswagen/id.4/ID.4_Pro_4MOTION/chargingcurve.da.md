@@ -364,4 +364,4 @@ Volkswagen ID.4 Pro 4MOTION har batteriopvarmning, hvilket gør opladning ved en
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

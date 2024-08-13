@@ -258,4 +258,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 01.03.2024, med forventede leveranser som starter i May 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
-{< pagenavigation b_url="../" b_title="Li Auto MEGA" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Li Auto MEGA" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -364,4 +364,4 @@ Mercedes-EQ EQE 500 4MATIC SUV tiene calefacción de batería, lo que facilita l
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

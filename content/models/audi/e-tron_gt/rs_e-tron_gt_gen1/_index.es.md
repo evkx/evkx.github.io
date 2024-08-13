@@ -283,4 +283,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 09.02.2021 y las entregas comenzaron en May 2021. Este modelo ahora ha sido descontinuado.
-{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Rango" >}}

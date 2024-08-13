@@ -254,4 +254,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 
-{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Nio EL6" f_url="rangeandconsumption/" f_title="Plage" >}}

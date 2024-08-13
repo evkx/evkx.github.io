@@ -226,4 +226,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/trunk_1_st.jpg" title="Lucid Air Grand Touring" width="2000" height="1334"  >}}
 
-{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Range" >}}

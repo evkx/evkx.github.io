@@ -324,4 +324,4 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 - ?77 250,00 (Allemagne)
 - 777 900,00 NOK (Norvège)
 
-{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}

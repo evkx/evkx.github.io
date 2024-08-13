@@ -216,4 +216,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The Volvo EC40 Twin Motor had its world premiere on 20.02.2024, with deliveries starting in April 2024.
-{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo EC40" f_url="rangeandconsumption/" f_title="Range" >}}

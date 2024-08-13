@@ -230,4 +230,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 18.04.2023 et les livraisons ont commencé en March 2024. Ce modèle a maintenant été abandonné.
-{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Plage" >}}

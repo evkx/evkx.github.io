@@ -229,4 +229,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 
-{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

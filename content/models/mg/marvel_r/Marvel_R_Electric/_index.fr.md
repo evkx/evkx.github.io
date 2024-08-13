@@ -204,4 +204,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 07.10.2021 et les livraisons ont commencé en January 2022.
-{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Plage" >}}

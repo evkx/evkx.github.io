@@ -209,4 +209,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Ce modèle est uniquement disponible en Chine.
-{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Plage" >}}

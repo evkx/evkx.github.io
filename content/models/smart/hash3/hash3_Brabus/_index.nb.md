@@ -219,4 +219,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 03.09.2023, med forventede leveranser som starter i November 2023.
-{< pagenavigation b_url="../" b_title="Smart #3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Smart #3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

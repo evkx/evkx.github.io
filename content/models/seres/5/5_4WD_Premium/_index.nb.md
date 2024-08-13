@@ -211,4 +211,4 @@ Bagasjerommet tilbyr en lastekapasitet på 367 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2735 kg, med en basisvekt på 2360 kg. Dette gir en maksimal lastekapasitet på 375 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 375 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
-{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

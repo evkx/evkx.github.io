@@ -720,4 +720,4 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

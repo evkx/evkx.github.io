@@ -246,4 +246,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Ford Capri Extended Range AWD hadde sin verdenspremiere den 11.07.2024, med leveranser som startet i November 2024.
-{< pagenavigation b_url="../" b_title="Ford Capri" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Ford Capri" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

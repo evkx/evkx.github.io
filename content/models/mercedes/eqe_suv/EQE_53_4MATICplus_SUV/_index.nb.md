@@ -273,4 +273,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQE SUV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQE SUV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -240,4 +240,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 490 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 2580 kg, med en grundvikt på 2010 kg. Detta tillåter en maximal last på 570 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
-{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -238,4 +238,4 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.11.2023 y se espera que las entregas comiencen en March 2025. Este modelo sólo está disponible en China.
-{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Rango" >}}

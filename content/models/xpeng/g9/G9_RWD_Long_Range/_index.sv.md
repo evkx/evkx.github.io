@@ -226,4 +226,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/trunk_1_st.jpg" title="XPENG G9 RWD Long Range" width="3000" height="2002"  >}}
 
-{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

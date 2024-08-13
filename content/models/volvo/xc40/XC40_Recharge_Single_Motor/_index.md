@@ -218,4 +218,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 This model had a world premiere on 18.05.2022, and deliveries started in August 2022. This models has now been discontined. This model has been replaced by [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_single_motor).
-{< pagenavigation b_url="../" b_title="Volvo XC40" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo XC40" f_url="rangeandconsumption/" f_title="Range" >}}

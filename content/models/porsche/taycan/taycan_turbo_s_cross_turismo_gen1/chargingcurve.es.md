@@ -364,4 +364,4 @@ Porsche Taycan Turbo S Cross Turismo (GEN1) tiene calefacción de batería, lo q
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Rango" f_url="../specifications/" f_title="Especificaciones" >}}

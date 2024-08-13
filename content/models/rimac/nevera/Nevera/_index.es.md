@@ -209,4 +209,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.06.2021 y las entregas comenzaron en January 2023.
-{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Rango" >}}

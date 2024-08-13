@@ -228,4 +228,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 06.06.2024 et les livraisons ont commencé en August 2024.
-{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Plage" >}}

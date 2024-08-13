@@ -249,4 +249,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQB" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQB" f_url="rangeandconsumption/" f_title="Range" >}}

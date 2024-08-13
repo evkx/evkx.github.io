@@ -222,4 +222,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).
-{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

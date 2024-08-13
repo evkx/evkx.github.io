@@ -204,4 +204,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

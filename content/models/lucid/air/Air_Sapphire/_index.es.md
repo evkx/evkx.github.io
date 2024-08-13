@@ -221,4 +221,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" width="2000" height="1334"  >}}
 
-{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Rango" >}}

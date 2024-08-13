@@ -227,4 +227,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1721"  >}}
 
-{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Range" >}}

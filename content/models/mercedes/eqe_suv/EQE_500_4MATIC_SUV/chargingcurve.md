@@ -364,4 +364,4 @@ Mercedes-EQ EQE 500 4MATIC SUV have battery heating, making charging at an optim
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}}

@@ -232,4 +232,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/trunk_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -364,4 +364,4 @@ VOYAH FREE har batteriopvarmning, hvilket gør opladning ved en optimal batterit
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

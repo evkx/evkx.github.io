@@ -228,4 +228,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 06.06.2024, og leveringerne startede i August 2024.
-{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Range" >}}

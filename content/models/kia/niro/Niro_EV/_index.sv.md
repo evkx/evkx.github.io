@@ -228,4 +228,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

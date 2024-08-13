@@ -238,4 +238,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 This model made its world premiere on 12.11.2023, with deliveries anticipated to begin in March 2025. Please note that this model is available exclusively in China.
-{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo EM90" f_url="rangeandconsumption/" f_title="Range" >}}

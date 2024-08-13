@@ -209,4 +209,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.06.2021, og leveringerne startede i January 2023.
-{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Range" >}}

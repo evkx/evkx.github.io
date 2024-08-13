@@ -226,4 +226,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/trunk_1_st.jpg" title="Lucid Air Grand Touring" width="2000" height="1334"  >}}
 
-{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Plage" >}}

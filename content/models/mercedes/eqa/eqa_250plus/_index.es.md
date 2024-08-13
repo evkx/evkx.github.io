@@ -251,4 +251,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQA" f_url="rangeandconsumption/" f_title="Rango" >}}

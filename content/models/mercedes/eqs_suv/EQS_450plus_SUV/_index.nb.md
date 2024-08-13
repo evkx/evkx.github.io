@@ -277,4 +277,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Mercedes EQS SUV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQS SUV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

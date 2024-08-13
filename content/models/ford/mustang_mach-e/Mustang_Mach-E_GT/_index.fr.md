@@ -227,4 +227,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Plage" >}}

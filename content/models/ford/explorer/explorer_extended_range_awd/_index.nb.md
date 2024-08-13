@@ -242,4 +242,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Ford Explorer Extended Range AWD hadde sin verdenspremiere den 26.03.2024, med leveranser som startet i November 2024.
-{< pagenavigation b_url="../" b_title="Ford Explorer" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Ford Explorer" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

@@ -240,4 +240,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 23.12.2023 och leveranser förväntas starta om February 2025.
-{< pagenavigation b_url="../" b_title="Nio ET9" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Nio ET9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

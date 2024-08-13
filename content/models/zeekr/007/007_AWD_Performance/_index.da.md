@@ -227,4 +227,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 27.12.2023, og leveringerne startede i January 2024.
-{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Range" >}}

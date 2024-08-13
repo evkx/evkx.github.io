@@ -223,4 +223,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 07.04.2022 et les livraisons devraient commencer en November 2023.
-{< pagenavigation b_url="../" b_title="Smart #1" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Smart #1" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -364,4 +364,4 @@ Hyundai Ioniq 6 Long Range AWD dispose d'un chauffage de batterie, ce qui facili
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

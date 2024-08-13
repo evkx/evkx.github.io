@@ -364,4 +364,4 @@ Audi Q4 Sportback 45 e-tron quattro har batteriopvarmning, hvilket gør opladnin
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

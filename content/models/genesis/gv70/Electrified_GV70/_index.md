@@ -224,4 +224,4 @@ The trunk offers a cargo capacity of 503 liters (17.8 CU FT). With the rear seat
 The vehicle’s maximum weight is 2845 kg (6272 lbs), with a base weight of 2235 kg (4927 lbs). This allows for a maximum load of 610 kg (1345 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="Genesis GV70" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Genesis GV70" f_url="rangeandconsumption/" f_title="Range" >}}

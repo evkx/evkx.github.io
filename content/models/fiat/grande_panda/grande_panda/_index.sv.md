@@ -229,4 +229,4 @@ Fordonets maximala vikt är 2030 kg, med en grundvikt på 1429 kg. Detta tillåt
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 12.07.2024 och leveranser förväntas starta om December 2024.
-{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

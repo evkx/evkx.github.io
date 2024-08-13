@@ -364,4 +364,4 @@ Ford Mustang Mach-E Standard Range AWD har batteriopvarmning, hvilket gør oplad
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

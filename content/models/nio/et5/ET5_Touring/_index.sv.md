@@ -251,4 +251,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 
-{< pagenavigation b_url="../" b_title="Nio ET5" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Nio ET5" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -726,4 +726,4 @@ Porsche Taycan 4S Sport Turismo (GEN1) har batteriopvarmning, hvilket gør oplad
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

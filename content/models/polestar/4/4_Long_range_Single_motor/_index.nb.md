@@ -213,4 +213,4 @@ Bagasjerommet tilbyr en lastekapasitet på 526 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 3080 kg, med en basisvekt på 2351 kg. Dette gir en maksimal lastekapasitet på 729 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000 kg, mens for en ubremset tilhenger er det 750 kg.
-{< pagenavigation b_url="../" b_title="Polestar 4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Polestar 4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

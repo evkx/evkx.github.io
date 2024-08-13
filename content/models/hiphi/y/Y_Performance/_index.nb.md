@@ -230,4 +230,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 18.04.2023, og leveransene startet i March 2024. Denne modellen er nå avviklet.
-{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

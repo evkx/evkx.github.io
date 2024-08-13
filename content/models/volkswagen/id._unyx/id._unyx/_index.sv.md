@@ -240,4 +240,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/trunk_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2193"  >}}
 
-{< pagenavigation b_url="../" b_title="Volkswagen Id. UNYX" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen Id. UNYX" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

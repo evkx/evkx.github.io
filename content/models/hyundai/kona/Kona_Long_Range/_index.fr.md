@@ -233,4 +233,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/trunk_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Plage" >}}

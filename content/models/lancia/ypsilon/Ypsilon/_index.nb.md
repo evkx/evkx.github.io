@@ -219,4 +219,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Lancia Ypsilon hadde sin verdenspremiere den 14.02.2024, med leveranser som startet i June 2024.
-{< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

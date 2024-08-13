@@ -222,4 +222,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 18.05.2022, og leveransene startet i August 2022. Denne modellen er nå avviklet. Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).
-{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

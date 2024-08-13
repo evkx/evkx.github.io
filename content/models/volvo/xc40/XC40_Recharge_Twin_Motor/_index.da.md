@@ -218,4 +218,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_twin_motor).
-{< pagenavigation b_url="../" b_title="Volvo XC40" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volvo XC40" f_url="rangeandconsumption/" f_title="Range" >}}

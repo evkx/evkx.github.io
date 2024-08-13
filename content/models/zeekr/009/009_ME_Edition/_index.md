@@ -231,4 +231,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 The Zeekr 009 ME Edition had its world premiere on 14.04.2021, with deliveries starting in October 2021. Please note that this model is available exclusively in China.
-{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -213,4 +213,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Cadillac LYRIQ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

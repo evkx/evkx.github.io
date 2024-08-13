@@ -364,4 +364,4 @@ Renault 5 E-Tech 52kWh 150hp have battery heating, making charging at an optimum
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}}

@@ -239,4 +239,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.09.2023 y las entregas comenzaron en February 2024.
-{< pagenavigation b_url="../" b_title="Peugot 3008" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Peugot 3008" f_url="rangeandconsumption/" f_title="Rango" >}}

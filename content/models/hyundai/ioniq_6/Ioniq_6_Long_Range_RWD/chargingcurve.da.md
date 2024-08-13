@@ -364,4 +364,4 @@ Hyundai Ioniq 6 Long Range RWD har batteriopvarmning, hvilket gør opladning ved
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}}

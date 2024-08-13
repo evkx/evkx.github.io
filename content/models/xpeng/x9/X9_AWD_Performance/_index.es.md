@@ -209,4 +209,4 @@ Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tr�
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Este modelo sólo está disponible en China.
-{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Rango" >}}

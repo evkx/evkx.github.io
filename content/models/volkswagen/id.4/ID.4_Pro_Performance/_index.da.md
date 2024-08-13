@@ -265,4 +265,4 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Range" >}}

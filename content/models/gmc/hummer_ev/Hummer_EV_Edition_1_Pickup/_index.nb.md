@@ -207,4 +207,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 GMC Hummer EV Edition 1 Pickup hadde sin verdenspremiere den 20.10.2020, med leveranser som startet i December 2021. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
-{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

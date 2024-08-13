@@ -282,4 +282,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere den 15.04.2021, og leveransene startet i September 2021. Denne modellen er nå avviklet. Denne modellen er erstattet av [Mercedes EQS 580 4MATIC](/models/mercedes/eqs/eqs_580_4matic).
-{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

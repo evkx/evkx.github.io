@@ -364,4 +364,4 @@ Toyota bZ4X AWD dispose d'un chauffage de batterie, ce qui facilite la charge à
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

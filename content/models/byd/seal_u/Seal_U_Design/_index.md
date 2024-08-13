@@ -232,4 +232,4 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -202,4 +202,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.12.2022 y las entregas comenzaron en October 2023.
-{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Rango" >}}

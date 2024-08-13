@@ -242,4 +242,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 28.12.2023, og leveringerne startede i March 2024. Denne model er kun tilgængelig i Kina.
-{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Range" >}}

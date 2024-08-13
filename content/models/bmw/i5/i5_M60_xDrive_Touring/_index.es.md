@@ -294,4 +294,4 @@ En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha ident
 
 <a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rango" >}}

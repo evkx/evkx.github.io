@@ -220,4 +220,4 @@ Bagasjerommet tilbyr en lastekapasitet på 326 liter.
 Kjøretøyets maksimale vekt er 1780 kg, med en basisvekt på 1350 kg. Dette gir en maksimal lastekapasitet på 430 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 500 kg, mens for en ubremset tilhenger er det 500 kg.
-{< pagenavigation b_url="../" b_title="Renault 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Renault 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

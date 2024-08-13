@@ -225,4 +225,4 @@ Le coffre offre une capacité de chargement de 311 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 3380 kg, avec un poids de base de 2748 kg. Cela permet une charge maximale de 632 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2200 kg, tandis que pour une remorque non freinée, il est de 750 kg.
-{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Plage" >}}

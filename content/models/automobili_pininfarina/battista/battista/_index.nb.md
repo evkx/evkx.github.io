@@ -207,4 +207,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Automobili Pininfarina Battista hadde sin verdenspremiere den 01.07.2023, med leveranser som startet i October 2023.
-{< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

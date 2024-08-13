@@ -228,4 +228,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Rivian R1S Dual-Motor AWD SP hadde sin verdenspremiere den 06.06.2024, med leveranser som startet i August 2024.
-{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Rivian R1" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

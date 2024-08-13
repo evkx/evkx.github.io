@@ -230,4 +230,4 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.04.2023 y las entregas comenzaron en March 2024. Este modelo ahora ha sido descontinuado.
-{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Rango" >}}

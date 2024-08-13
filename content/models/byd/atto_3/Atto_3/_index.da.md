@@ -235,4 +235,4 @@ Køretøjets maksimale vægt er 2160 kg, med en basisvægt på 1750 kg. Dette gi
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Range" >}}

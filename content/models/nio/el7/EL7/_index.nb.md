@@ -256,4 +256,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 {{< sitefiguresized thumb="models/nio/el7/el7/trunk_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
-{< pagenavigation b_url="../" b_title="Nio EL7" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Nio EL7" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

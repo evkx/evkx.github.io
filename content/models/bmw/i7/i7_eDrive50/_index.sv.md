@@ -261,4 +261,4 @@ Bagageutrymmet erbjuder en lastkapacitet på 500 liter.
 Fordonets maximala vikt är 3130 kg, med en grundvikt på 2520 kg. Detta tillåter en maximal last på 610 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2000 kg, medan för en obromsad släpvagn är den 750 kg.
-{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

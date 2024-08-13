@@ -240,4 +240,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/trunk_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2193"  >}}
 
-{< pagenavigation b_url="../" b_title="Volkswagen Id. UNYX" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Volkswagen Id. UNYX" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

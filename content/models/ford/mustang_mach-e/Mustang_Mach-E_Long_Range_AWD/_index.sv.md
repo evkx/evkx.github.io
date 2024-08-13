@@ -227,4 +227,4 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1721"  >}}
 
-{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

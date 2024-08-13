@@ -364,4 +364,4 @@ Porsche Taycan 4S Cross Turismo dispose d'un chauffage de batterie, ce qui facil
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Plage" f_url="../specifications/" f_title="Spécifications" >}}

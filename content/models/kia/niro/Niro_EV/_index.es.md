@@ -228,4 +228,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Kia Niro" f_url="rangeandconsumption/" f_title="Rango" >}}

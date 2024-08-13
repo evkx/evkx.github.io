@@ -233,4 +233,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/trunk_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 
-{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Nissan Ariya" f_url="rangeandconsumption/" f_title="Range" >}}

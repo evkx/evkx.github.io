@@ -251,4 +251,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 29.01.2021 et les livraisons ont commencé en March 2023.
-{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Plage" >}}

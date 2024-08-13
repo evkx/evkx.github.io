@@ -209,4 +209,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Denna modell är endast tillgänglig i Kina.
-{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

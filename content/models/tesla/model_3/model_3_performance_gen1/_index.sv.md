@@ -242,4 +242,4 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

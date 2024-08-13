@@ -232,4 +232,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 
-{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

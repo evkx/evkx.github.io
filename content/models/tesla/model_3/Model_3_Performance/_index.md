@@ -248,4 +248,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 ## Availability & Pricing
 
 The Tesla Model 3 Performance had its world premiere on 23.04.2024, with deliveries starting in May 2024.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}}

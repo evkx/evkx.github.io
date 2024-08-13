@@ -364,4 +364,4 @@ Porsche Taycan Turbo S Sport Turismo (GEN1) have battery heating, making chargin
 </table>
 
 
-{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}
+{{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifications" >}}

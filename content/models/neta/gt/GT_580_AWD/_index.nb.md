@@ -200,4 +200,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Neta GT 580 AWD hadde sin verdenspremiere den 13.07.2023, med leveranser som startet i December 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
-{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

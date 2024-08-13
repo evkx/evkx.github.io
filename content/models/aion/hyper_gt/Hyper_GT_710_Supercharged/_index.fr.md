@@ -202,4 +202,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 31.12.2022 et les livraisons ont commencé en October 2023.
-{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Plage" >}}

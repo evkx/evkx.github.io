@@ -287,4 +287,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 14.04.2021 y las entregas comenzaron en January 2022. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45_e-tron).
-{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rango" >}}

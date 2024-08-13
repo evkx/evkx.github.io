@@ -248,4 +248,4 @@ Un enganche es equipo estándar en este modelo. El peso máximo total en un trá
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.10.2023 y las entregas comenzaron en December 2023.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Rango" >}}

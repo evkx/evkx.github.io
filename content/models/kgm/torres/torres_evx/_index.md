@@ -229,4 +229,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The KGM Torres EVX had its world premiere on 30.03.2023, with deliveries starting in March 2024.
-{< pagenavigation b_url="../" b_title="KGM Torres" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="KGM Torres" f_url="rangeandconsumption/" f_title="Range" >}}

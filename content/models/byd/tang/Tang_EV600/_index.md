@@ -233,4 +233,4 @@ The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat 
 The vehicle’s maximum weight is 3060 kg (6746 lbs), with a base weight of 2489 kg (5487 lbs). This allows for a maximum load of 571 kg (1259 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
-{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -204,4 +204,4 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

@@ -235,4 +235,4 @@ Le coffre offre une capacité de chargement de 385 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 2300 kg, avec un poids de base de 1895 kg. Cela permet une charge maximale de 405 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
-{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Plage" >}}

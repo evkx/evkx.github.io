@@ -204,4 +204,4 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 MG Marvel R Electric hadde sin verdenspremiere den 07.10.2021, med leveranser som startet i January 2022.
-{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="MG Marvel R" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

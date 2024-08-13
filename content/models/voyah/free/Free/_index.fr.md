@@ -198,4 +198,4 @@ Le coffre offre une capacité de chargement de 560 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 2945 kg, avec un poids de base de 2340 kg. Cela permet une charge maximale de 605 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage est un équipement standard sur ce modèle. Le poids total maximal pour une remorque freinée est de 2000, et pour une remorque non freinée, il est de 750 kg.
-{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Plage" >}}

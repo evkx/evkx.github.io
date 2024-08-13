@@ -236,4 +236,4 @@ Un attelage est un équipement standard sur ce modèle. Le poids total maximal p
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 20.08.2023 et les livraisons ont commencé en September 2023. Ce modèle a maintenant été abandonné.
-{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Plage" >}}

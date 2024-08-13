@@ -304,4 +304,4 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 19.11.2019 et les livraisons ont commencé en May 2020. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron).
-{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}

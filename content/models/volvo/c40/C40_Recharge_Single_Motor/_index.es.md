@@ -222,4 +222,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.05.2022 y las entregas comenzaron en August 2022. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [Volvo EC40 Single Motor](/models/volvo/ec40/ec40_single_motor).
-{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Rango" >}}

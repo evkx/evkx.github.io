@@ -233,4 +233,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Xiaomi SU7 Pro hadde sin verdenspremiere den 28.12.2023, med leveranser som startet i March 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
-{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

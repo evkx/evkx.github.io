@@ -273,4 +273,4 @@ The trunk offers a cargo capacity of 405 liters (14.3 CU FT). With the rear seat
 The vehicle’s maximum weight is 2880 kg (6349 lbs), with a base weight of 2240 kg (4938 lbs). This allows for a maximum load of 640 kg (1411 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}}

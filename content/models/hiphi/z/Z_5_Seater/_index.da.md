@@ -226,4 +226,4 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 ## Tilgængelighed og priser
 
 
-{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -237,4 +237,4 @@ En anhængertræk er standardudstyr på denne model. Den maksimale tilladte væg
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 30.11.2023, og leveringerne startede i November 2023. Denne model er kun tilgængelig i Nordamerika.
-{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Range" >}}

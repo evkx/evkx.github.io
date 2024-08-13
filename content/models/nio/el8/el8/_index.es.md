@@ -275,4 +275,4 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 
-{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Rango" >}
+{{< pagenavigation b_url="../" b_title="Nio EL8" f_url="rangeandconsumption/" f_title="Rango" >}}

@@ -324,4 +324,4 @@ Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfo
 - €77 250,00 (Tyskland)
 - 777 900,00 NOK (Norge)
 
-{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

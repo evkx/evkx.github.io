@@ -194,4 +194,4 @@ The trunk offers a cargo capacity of 350 liters (12.4 CU FT). With the rear seat
 The vehicle’s maximum weight is 2008 kg (4427 lbs), with a base weight of 1550 kg (3417 lbs). This allows for a maximum load of 458 kg (1010 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-{< pagenavigation b_url="../" b_title="Citroën ë-C4" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Citroën ë-C4" f_url="rangeandconsumption/" f_title="Range" >}}

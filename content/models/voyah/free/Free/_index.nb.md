@@ -198,4 +198,4 @@ Bagasjerommet tilbyr en lastekapasitet på 560 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2945 kg, med en basisvekt på 2340 kg. Dette gir en maksimal lastekapasitet på 605 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt for en bremsesatt tilhenger er 2000, og for en ubremset tilhenger er det 750 kg .
-{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

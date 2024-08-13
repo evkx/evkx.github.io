@@ -235,4 +235,4 @@ Bagasjerommet tilbyr en lastekapasitet på 385 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2300 kg, med en basisvekt på 1895 kg. Dette gir en maksimal lastekapasitet på 405 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
-{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

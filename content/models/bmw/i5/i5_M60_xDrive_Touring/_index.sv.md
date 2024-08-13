@@ -294,4 +294,4 @@ På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera a
 
 <a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
 
-{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Räckvidd" >}
+{{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

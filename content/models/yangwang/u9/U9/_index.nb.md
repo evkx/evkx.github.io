@@ -207,4 +207,4 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 01.04.2023, med forventede leveranser som starter i January 2025.
-{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
+{{< pagenavigation b_url="../" b_title="YangWang U9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

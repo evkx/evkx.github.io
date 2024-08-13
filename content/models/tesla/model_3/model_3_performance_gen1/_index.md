@@ -242,4 +242,4 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 ## Availability & Pricing
 
 This model had a world premiere on 01.04.2016, and deliveries started in July 2017. This models has now been discontined.
-{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Range" >}}

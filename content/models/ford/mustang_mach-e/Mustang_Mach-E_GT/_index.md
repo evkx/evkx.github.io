@@ -227,4 +227,4 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="Ford Mustang Mach-E" f_url="rangeandconsumption/" f_title="Range" >}}

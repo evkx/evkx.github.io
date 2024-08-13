@@ -240,4 +240,4 @@ Bagagerummet har en lastekapacitet på 490 liter. Med det bageste sæde foldet n
 Køretøjets maksimale vægt er 2580 kg, med en basisvægt på 2010 kg. Dette giver en maksimal last på 570 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1200 kg, mens den for en ubremset trailer er 750 kg.
-{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Range" >}
+{{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Range" >}}

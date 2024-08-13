@@ -204,4 +204,4 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
-{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Plage" >}
+{{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Plage" >}}
