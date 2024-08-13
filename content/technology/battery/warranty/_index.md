@@ -1,16 +1,16 @@
 ---
 title: Warranty
 linktitle: Warranty
-description: The warranty offered by EV manufacturers for their batteries can vary depending on the manufacturer and the specific model of the vehicle. 
+description: The warranty offered by EV manufacturers for their batteries can vary depending on the manufacturer and the specific model of the vehicle.
 weight: 11
 ---
 <!-- markdownlint-disable MD033 -->
 
-Typically, EV batteries come with a warranty that covers a certain number of years or a certain number of miles driven, whichever comes first.
+EV batteries typically come with a warranty that covers a certain number of years or miles driven, whichever comes first.
 
-In terms of capacity, some EV manufacturers may offer a warranty that guarantees a minimum level of battery capacity for a certain period of time. For example, a manufacturer might offer a warranty that guarantees the battery will maintain at least 70% of its original capacity for 8 years or 100,000 miles, whichever comes first.
+Some EV manufacturers offer a warranty that guarantees a minimum level of battery capacity for a specified period. For example, a manufacturer might guarantee that the battery will maintain at least 70% of its original capacity for 8 years or 100,000 miles, whichever comes first.
 
-The warranty may also take into account the age of the battery. For example, a manufacturer might offer a warranty that covers any defects in materials or workmanship for the first 3 years, and then cover the battery against a drop in capacity below a certain level for an additional 5 years.
+The warranty may also consider the age of the battery. For instance, a manufacturer might cover defects in materials or workmanship for the first 3 years and then cover the battery against a drop in capacity below a certain level for an additional 5 years.
 
 <table class="table table-striped border">
 <thead>
@@ -20,7 +20,6 @@ The warranty may also take into account the age of the battery. For example, a m
     <th>Minimum Remaining Capacity</th>
     <th>Age</th>
 </tr>
-
 </thead>
 <tbody>
 <tr>
@@ -51,7 +50,7 @@ The warranty may also take into account the age of the battery. For example, a m
     <td>Nissan</td>
     <td>100,000 miles</td>
     <td>75%</td>
-    <td> 8 years</td>
+    <td>8 years</td>
 </tr>
 <tr>
     <td>Hyundai</td>
@@ -67,23 +66,19 @@ The warranty may also take into account the age of the battery. For example, a m
 </tr>
 <tr>
     <td>Toyota</td>
-    <td>600.000 miles</td>
+    <td>600,000 miles</td>
     <td>70%</td>
     <td>10 years</td>
 </tr>
 <tr>
-    <td>Mercedes (EQA,EQB,EQC)</td>
+    <td>Mercedes (EQA, EQB, EQC)</td>
     <td>100,000 miles</td>
     <td>N/A</td>
     <td>8 years</td>
 </tr>
-
-</body>
+</tbody>
 </table>
 
 It's important to note that the specific terms of the warranty can vary widely between manufacturers, so it's always a good idea to carefully review the warranty information before purchasing an EV.
 
-<div class="mt-3 mb-3">
-    <a href="../manufactors/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i>  Manufactors</strong></a>
-    <a href="../../platforms/" class="text-decoration-none text-black float-end"><strong>EV Platforms <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../manufactors/" b_title="Manufactors" f_url="../../platforms/" f_title="EV Platforms" >}}
