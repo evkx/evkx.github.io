@@ -123,7 +123,4 @@ In summary, brake-by-wire technology is an advanced system that allows for seaml
 
 In our EVKX database, you can search for models with different types of brakes.
 
-<div class="mt-3 mb-3">
-    <a href="../driverassistance/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Advanced driver-assistance systems (ADAS)</strong></a>
-    <a href="../cargoandtowing/" class="text-decoration-none text-black float-end"><strong>Cargo & towing capabilities <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../driverassistance/" b_title="Advanced driver-assistance systems (ADAS)" f_url="../cargoandtowing/" f_title="Cargo & towing capabilities " >}}
