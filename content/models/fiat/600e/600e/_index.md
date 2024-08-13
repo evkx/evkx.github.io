@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Fiat 600e offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 54 kWh and a net usable capacity of 50,8 kWh, providing an 3,2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 54 kWh and a net usable capacity of 50,8 kWh, providing a 3,2 kWh buffer (5.9%) for battery protection. With a nominal voltage of 377 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 409 km (254 miles), with an energy consumption rate of 12.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 75 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 61%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 26 minutes and 10 seconds..
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 53 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 75 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 61%. This results in an effective charging speed, including time lost, of 69 kW, with each charging session taking about 26 minutes and 10 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21.5 kWh/100 km, the trip would take approximately 10 hours and 44 minutes. This journey would require six charging stops from 3% to 57%, with a total charging time of 144 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 37 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Fiat 600e features an all-wheel drive system powered by two motors, one on each axle.
+The Fiat 600e features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
@@ -75,7 +75,7 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model.
+There is only one roof option for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -91,17 +91,17 @@ There is one seat type you can select in different materials.
 
 The Fiat 600e accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Fiat 600e offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- Electric adjustment (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -110,27 +110,27 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Fiat 600e includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -145,7 +145,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Fiat 600e is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -161,11 +161,11 @@ With the an optional in-car navigation system, you have all the assistance you n
 
 Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The Fiat 600e comes equipped with one sound system option:
 
-- ****: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: This system features NULL speakers and delivers a maximum output of  watts.
 
 The model has 3 USB-A connections as standard.
 
@@ -173,7 +173,7 @@ The model has 3 USB-A connections as standard.
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/headlights_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 

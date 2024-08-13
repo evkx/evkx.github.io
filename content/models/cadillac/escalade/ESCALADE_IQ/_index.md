@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 kW (761 hp / 751 bhp) and a commanding total torque of 1064 Nm (785 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 215 kWh and a net usable capacity of 200 kWh, providing an 15 kWh buffer (7.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 215 kWh and a net usable capacity of 200 kWh, providing a 15 kWh buffer (7.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 450 miles (724 km) with an energy consumption rate of 2.3 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 130 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 53%. This results in an effective charging speed, including time lost, of 242 kW, with each charging session taking about 26 minutes and 49 seconds.. This efficient charging capability makes the Cadillac ESCALADE IQ a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 130 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 53%. This results in an effective charging speed, including time lost, of 242 kW, with each charging session taking about 26 minutes and 49 seconds. This efficient charging capability makes the Cadillac ESCALADE IQ a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 35 kWh/100 km, the trip would take approximately 8 hours and 58 minutes. This journey would require two charging stops from 1% to 39%, with a total charging time of 39 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 25 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Cadillac ESCALADE IQ features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Cadillac ESCALADE IQ features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
@@ -74,7 +74,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
 
-There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof option for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
@@ -86,63 +86,63 @@ There is only one roof for this model. As an option, you can order this model wi
 
 The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
 
-#### First row seats
+#### First Row Seats
 
 The Cadillac ESCALADE IQ offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
-#### Third-row seats
+#### Third Row Seats
 
 The third row has a three-seat bench with a 60:40 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Cadillac ESCALADE IQ includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -158,7 +158,7 @@ The model does not include a head-up display.
 
 The Cadillac ESCALADE IQ is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -170,12 +170,12 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Cadillac ESCALADE IQ.
 
-- **AKG Studio audi System**: This system features 19 speakers and delivers a maximum output of 1000 watts.
-- **AKG Studio Reference System**: This system features 40 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio audi System:**: This system features 19 speakers and delivers a maximum output of 1000 watts.
+- **AKG Studio Reference System:**: This system features 40 speakers and delivers a maximum output of 1000 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -183,7 +183,7 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 

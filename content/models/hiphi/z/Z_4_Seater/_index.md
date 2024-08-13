@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,23 +28,23 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The HiPhi Z 4 Seater packs an impressive punch with a maximum power of 494 kW (672 hp / 663 bhp) and a commanding total torque of 820 Nm (605 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 113 kWh, providing an 7 kWh buffer (5.8%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 113 kWh, providing a 7 kWh buffer (5.8%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 555 km (345 miles), with an energy consumption rate of 20.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 92 minutes, while a more typical charging scenario from 10% to 80% takes 47 minutes with an average charging speed at 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 48%. This results in an effective charging speed, including time lost, of 103 kW, with each charging session taking about 29 minutes and 59 seconds..
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 92 minutes, while a more typical charging scenario from 10% to 80% takes 47 minutes with an average charging speed at 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 48%. This results in an effective charging speed, including time lost, of 103 kW, with each charging session taking about 29 minutes and 59 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28 kWh/100 km, the trip would take approximately 9 hours and 58 minutes. This journey would require four charging stops from 5% to 42%, with a total charging time of 98 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 16 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. This model uses [**GBT**](../../../../technology/charging/connectors/#gbt) for China and Europe, meaning you must use a CCS2>GBT adapter in Europe. See full specifications for all markets.
 
@@ -52,7 +52,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-HiPhi Z 4 Seater features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The HiPhi Z 4 Seater features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -66,7 +66,7 @@ Dynamic steering is a standard feature on the HiPhi Z 4 Seater. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 
 ## Exterior
@@ -79,9 +79,9 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are a standard function for the side doors.
 
-There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof option for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
 
@@ -93,59 +93,59 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 The seat layout is the two seats in front and two seats in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The HiPhi Z 4 Seater offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type:
 
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2287"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The HiPhi Z 4 Seater includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The HiPhi Z 4 Seater has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -161,7 +161,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The HiPhi Z 4 Seater is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -171,11 +171,11 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Sound system
+### Sound System
 
 The HiPhi Z 4 Seater comes equipped with one sound system option:
 
-- **SONIC PRO SYSTEM**: This system features 23 speakers and delivers a maximum output of 600 watts.
+- **SONIC PRO SYSTEM:**: This system features 23 speakers and delivers a maximum output of 600 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -183,7 +183,7 @@ Additionally, the model includes 1 USB-C connections as standard. As an option, 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}
 

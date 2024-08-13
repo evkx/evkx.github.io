@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,23 +28,23 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Hyundai Kona Long Range offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 255 Nm (188 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68,5 kWh and a net usable capacity of 65,4 kWh, providing an 3,1 kWh buffer (4.5%) for battery protection.
+The high-capacity battery has a gross capacity of 68,5 kWh and a net usable capacity of 65,4 kWh, providing a 3,1 kWh buffer (4.5%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 514 to 454 km (320-282 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.7 kWh/100 km for the base model and 14.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 514 to 454 km (320-282 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.7 kWh/100 km for the base model and 14.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 38 minutes with an average charging speed at 73 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 62%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 30 minutes and 34 seconds..
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 38 minutes with an average charging speed at 73 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 62%. This results in an effective charging speed, including time lost, of 74 kW, with each charging session taking about 30 minutes and 34 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 33 minutes. This journey would require four charging stops from 4% to 67%, with a total charging time of 134 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/charging_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2054"  >}}
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -52,7 +52,7 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 ## Drivetrain
 
-Hyundai Kona Long Range has a front-wheel drive system supported by one motor on the front axle.
+The Hyundai Kona Long Range has a front-wheel drive system supported by one motor on the front axle.
 
 ### Suspension
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
@@ -91,20 +91,20 @@ You can choose between different types of seat materials and interior styling. Y
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 The Hyundai Kona Long Range offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment (optional)
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- Electric adjustment (optional)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type.
+You can choose from 6 different materials/colors for this seat type:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -113,33 +113,33 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/secondrowseats_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2155"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Hyundai Kona Long Range includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Hyundai Kona Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -156,7 +156,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Hyundai Kona Long Range is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -172,11 +172,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Hyundai Kona Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The Hyundai Kona Long Range comes equipped with one sound system option:
 
-- **Bose Premium Sound System**: This system features seven speakers and delivers a maximum output of  watts.
+- **Bose Premium Sound System:**: This system features seven speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -184,7 +184,7 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 

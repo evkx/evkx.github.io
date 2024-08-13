@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 KW (1014 hp/1000 bhp) and a massive total torque of 1150 Nm (849 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 170 km/h (106 mph), making it a true marvel of engineering and performance.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing a 7 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 329 miles (529 km) with an energy consumption rate of 1.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 139 minutes, while a more typical charging scenario from 10% to 80% takes 48 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 52%. This results in an effective charging speed, including time lost, of 245 kW, with each charging session taking about 27 minutes and 39 seconds.. This efficient charging capability makes the GMC Hummer EV Edition 1 Pickup a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 139 minutes, while a more typical charging scenario from 10% to 80% takes 48 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 52%. This results in an effective charging speed, including time lost, of 245 kW, with each charging session taking about 27 minutes and 39 seconds. This efficient charging capability makes the GMC Hummer EV Edition 1 Pickup a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 43 kWh/100 km, the trip would take approximately 9 hours and 13 minutes. This journey would require two charging stops from 1% to 52%, with a total charging time of 53 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 19 hours and 21 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
@@ -72,7 +72,7 @@ You can select from multiple wheel options in different sizes on the GMC Hummer 
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
-There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
+There is only one roof option for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
@@ -84,50 +84,50 @@ There is only one roof for this model. The standard roof has a 4 seperate glass 
 
 The GMC Hummer EV Edition 1 Pickup accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The GMC Hummer EV Edition 1 Pickup offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The GMC Hummer EV Edition 1 Pickup includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -144,7 +144,7 @@ The model does not include a head-up display.
 
 The GMC Hummer EV Edition 1 Pickup is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -160,11 +160,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The GMC Hummer EV Edition 1 Pickup comes equipped with one sound system option:
 
-- **Bose Premium Sound System**: This system features 14 speakers and delivers a maximum output of 625 watts.
+- **Bose Premium Sound System:**: This system features 14 speakers and delivers a maximum output of 625 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -172,7 +172,7 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 

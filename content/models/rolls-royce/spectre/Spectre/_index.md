@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Rolls-Royce Spectre packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 900 Nm (664 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105,7 kWh and a net usable capacity of 102 kWh, providing an 3,7 kWh buffer (3.5%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 105,7 kWh and a net usable capacity of 102 kWh, providing a 3,7 kWh buffer (3.5%) for battery protection. With a nominal voltage of 376.4 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 miles), with an energy consumption rate of 19.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 72 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed at 118 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 132 kW, with each charging session taking about 21 minutes and 54 seconds..
+The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 72 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed at 118 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 132 kW, with each charging session taking about 21 minutes and 54 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 9 hours and 33 minutes. This journey would require four charging stops from 1% to 40%, with a total charging time of 73 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 16 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Rolls-Royce Spectre features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+The Rolls-Royce Spectre features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
 ### Suspension
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Rolls-Royce Spectre. Dynamic steer
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
@@ -76,7 +76,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has two [suicide doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Soft close is a standard function for the side doors. Powered doors are a standard function for the side doors.
 
-There is only one roof for this model. The standard is just a regular roof.
+There is only one roof option for this model. The standard is just a regular roof.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -90,22 +90,22 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 The seat layout is the two seats in front and two seats in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Rolls-Royce Spectre offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 7 different materials/colors for this seat type.
+You can choose from 7 different materials/colors for this seat type:
 
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 -  [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -117,35 +117,35 @@ You can choose from 7 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
+For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-## Comfort features
+## Comfort Features
 
 The Rolls-Royce Spectre includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Rolls-Royce Spectre has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
@@ -162,7 +162,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Rolls-Royce Spectre is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features optional integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -178,12 +178,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Rolls-Royce Spectre supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Rolls-Royce Spectre.
 
-- **Harman Kardon Surround Sound system**: This system features 18 speakers and delivers a maximum output of 655 watts.
-- **Bowers & Wilkins Diamond surround sound system**: This system features 30 speakers and delivers a maximum output of 1615 watts.
+- **Harman Kardon Surround Sound system:**: This system features 18 speakers and delivers a maximum output of 655 watts.
+- **Bowers & Wilkins Diamond surround sound system:**: This system features 30 speakers and delivers a maximum output of 1615 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -194,7 +194,7 @@ You can choose between two types of headlights for the Rolls-Royce Spectre.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,35 +28,35 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Nio ES8 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
 Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging.
 
 ### 100kWh
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing a 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 460 km (286 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 83 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 72%. This results in an effective charging speed, including time lost, of 79 kW, with each charging session taking about 44 minutes and 24 seconds..
+The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 83 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 72%. This results in an effective charging speed, including time lost, of 79 kW, with each charging session taking about 44 minutes and 24 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 11 hours and 1 minutes. This journey would require four charging stops from 8% to 67%, with a total charging time of 162 minutes.
 
 ### 75kWh
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing a 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 350 km (218 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 37 minutes and 57 seconds..
+The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 37 minutes and 57 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 11 hours and 22 minutes. This journey would require five charging stops from 7% to 73%, with a total charging time of 182 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -68,7 +68,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 ## Drivetrain
 
-Nio ES8 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Nio ES8 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -82,7 +82,7 @@ Dynamic steering is a standard feature on the Nio ES8. Dynamic steering varies t
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
@@ -102,7 +102,7 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof option for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
 
@@ -112,61 +112,61 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 The Nio ES8 offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type:
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
-#### Second-row seats
+#### Second Row Seats
 
 You can choose two seat types for the second row in the Nio ES8.
 
-The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-The standard option is two captain chairs. In addition, the following functionalities are available.
+The standard option is two captain chairs. In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-#### Third-row seats
+#### Third Row Seats
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-## Comfort features
+## Comfort Features
 
 The Nio ES8 includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -181,7 +181,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Nio ES8 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -195,12 +195,12 @@ This model has an optional voice control system. The voice control lets you cont
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Nio ES8.
 
-- **Surroundsystem**: This system features seven speakers and delivers a maximum output of  watts.
-- **Premium sound system**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Surroundsystem:**: This system features seven speakers and delivers a maximum output of  watts.
+- **Premium sound system:**: This system features 12 speakers and delivers a maximum output of  watts.
 
 The model has 3 USB-A connections as standard.
 
@@ -208,7 +208,7 @@ The model has 3 USB-A connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 
@@ -245,7 +245,7 @@ With the NIO Pilot Selected Pack  level 1 system, you get the following driving 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
+With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.

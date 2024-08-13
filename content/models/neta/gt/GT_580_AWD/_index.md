@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 78 kWh and a net usable capacity of 75 kWh, providing an 3 kWh buffer (3.8%) for battery protection.
+The high-capacity battery has a gross capacity of 78 kWh and a net usable capacity of 75 kWh, providing a 3 kWh buffer (3.8%) for battery protection.
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 580 km ( miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 102 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 76%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 36 minutes and 6 seconds..
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 102 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 76%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 36 minutes and 6 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 3 minutes. This journey would require three charging stops from 5% to 74%, with a total charging time of 104 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 49 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Neta GT 580 AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Neta GT 580 AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes and **Creep mode** moves the car forward at low speed.
 
@@ -70,7 +70,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 245/45 tires on 19" rims
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
@@ -82,42 +82,42 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The seat layout is the two seats in front and two seats in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Neta GT 580 AWD offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
-## Comfort features
+## Comfort Features
 
 The Neta GT 580 AWD includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Neta GT 580 AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
@@ -134,7 +134,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Neta GT 580 AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -144,11 +144,11 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Sound system
+### Sound System
 
 The Neta GT 580 AWD comes equipped with one sound system option:
 
-- **Neta Sky sound**: This system features 12 speakers and delivers a maximum output of  watts.
+- **Neta Sky sound:**: This system features 12 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -156,7 +156,7 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 

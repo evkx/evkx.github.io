@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Xiaomi SU7 Max packs an impressive punch with a maximum power of 495 kW (673 hp / 664 bhp) and a commanding total torque of 838 Nm (618 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.78 seconds, and it reaches a top speed of 265 km/h (165 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 101 kWh and a net usable capacity of 99 kWh, providing an 2 kWh buffer (2.0%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 101 kWh and a net usable capacity of 99 kWh, providing a 2 kWh buffer (2.0%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 800 km ( miles). he energy consumption is 12.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 223 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 74%. This results in an effective charging speed, including time lost, of 182 kW, with each charging session taking about 23 minutes and 12 seconds.. This exceptionally fast charging capability makes the Xiaomi SU7 Max one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 223 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 74%. This results in an effective charging speed, including time lost, of 182 kW, with each charging session taking about 23 minutes and 12 seconds. This exceptionally fast charging capability makes the Xiaomi SU7 Max one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 17 kWh/100 km, the trip would take approximately 8 hours and 43 minutes. This journey would require one charging stops from 3% to 75%, with a total charging time of 24 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 0 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Xiaomi SU7 Max features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Xiaomi SU7 Max features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Xiaomi SU7 Max. Dynamic steering v
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). The system stops the car completely using friction brakes.
 
@@ -82,9 +82,9 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/exterior_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}
 
@@ -98,17 +98,17 @@ The Xiaomi SU7 Max boasts a driver-focused interior, enhancing the cockpit feel 
 
 The Xiaomi SU7 Max accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Xiaomi SU7 Max offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
@@ -117,33 +117,33 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/secondrowseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1080"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort features
+## Comfort Features
 
 The Xiaomi SU7 Max includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -158,7 +158,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Xiaomi SU7 Max is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -174,11 +174,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Xiaomi SU7 Max supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The Xiaomi SU7 Max comes equipped with one sound system option:
 
-- **Xiaomi Soundsystem**: This system features 25 speakers and delivers a maximum output of  watts.
+- **Xiaomi Soundsystem:**: This system features 25 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -186,7 +186,7 @@ Additionally, the model includes 4 USB-C connections as standard. The model has 
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/headlights_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,35 +28,35 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Nio ET5 Touring packs an impressive punch with a maximum power of 480 kW (653 hp / 644 bhp) and a commanding total torque of 850 Nm (627 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
 Nio ET5 Touring has two battery options with different specifications. Below you see how this affects range and charging.
 
 ### 100kWh
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing a 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 560 to 540 km (348-336 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 560 to 540 km (348-336 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 180 kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 44%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 27 minutes and 2 seconds..
+The vehicle supports fast DC charging with a maximum power of 180 kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 44%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 27 minutes and 2 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 58 minutes. This journey would require four charging stops from 1% to 40%, with a total charging time of 98 minutes.
 
 ### 75kWh
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing a 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 456 to 419 km (283-260 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 456 to 419 km (283-260 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 16.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 37 minutes and 57 seconds..
+The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 74%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 37 minutes and 57 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 26 minutes. This journey would require four charging stops from 8% to 65%, with a total charging time of 127 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 10 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -68,7 +68,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 ## Drivetrain
 
-Nio ET5 Touring features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Nio ET5 Touring features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -80,7 +80,7 @@ Dynamic steering is a standard feature on the Nio ET5 Touring. Dynamic steering 
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
@@ -99,9 +99,9 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 
-There is only one roof for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
+There is only one roof option for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
@@ -113,54 +113,54 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 The Nio ET5 Touring accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Nio ET5 Touring offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
+- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-You can choose from 3 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-## Comfort features
+## Comfort Features
 
 The Nio ET5 Touring includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -173,7 +173,7 @@ The model does not include a head-up display.
 
 The Nio ET5 Touring is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -187,11 +187,11 @@ This model has an optional voice control system. The voice control lets you cont
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 The Nio ET5 Touring comes equipped with one sound system option:
 
-- **Premium sound system**: This system features 23 speakers and delivers a maximum output of  watts.
+- **Premium sound system:**: This system features 23 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -199,7 +199,7 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
@@ -234,7 +234,7 @@ With the NIO Pilot Selected Pack  level 1 system, you get the following driving 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above.
+With the NIO Pilot Complete Pack  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.

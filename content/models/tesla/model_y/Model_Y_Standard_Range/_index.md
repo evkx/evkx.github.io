@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,63 +28,63 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Tesla Model Y Standard Range delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 420 Nm (310 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
 Tesla Model Y Standard Range has four battery options with different specifications. Below you see how this affects range and charging.
 
 ### CATL LFP Europa/China market
 
-The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing a 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 52 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 84 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 17 minutes and 30 seconds..
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 52 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 84 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 17 minutes and 30 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 55 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 95 minutes.
 
 ### BYD LFP Europa/China market
 
-The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing a 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 129 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 18 minutes and 28 seconds..
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 129 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 18 minutes and 28 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 35 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 75 minutes.
 
 ### NMC 4850 US Market
 
-The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing a 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 36%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 18 minutes and 60 seconds..
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 36%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 18 minutes and 60 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 52 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 93 minutes.
 
 ### NMC 21700 US Market Software locked
 
-The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing a 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical charging scenario from 10% to 80% takes 23 minutes with an average charging speed at 123 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 59%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 22 minutes and 49 seconds..
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 40 minutes, while a more typical charging scenario from 10% to 80% takes 23 minutes with an average charging speed at 123 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 59%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 22 minutes and 49 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 28 minutes. This journey would require three charging stops from 0% to 62%, with a total charging time of 69 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 0 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
-The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
 
-Tesla Model Y Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Tesla Model Y Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -98,7 +98,7 @@ Dynamic steering is a standard feature on the Tesla Model Y Standard Range. Dyna
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 335mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
@@ -106,7 +106,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Tesla Model Y Standard Range, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Tesla Model Y Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
+The Tesla Model Y Standard Range, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Tesla Model Y Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Tesla Model Y Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -118,9 +118,9 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
 
@@ -132,61 +132,61 @@ The interior of the Tesla Model Y Standard Range is designed with a minimalistic
 
 ### Seats
 
-is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
+Tesla Model Y Standard Range is available in a standard five-seat configuration, with an optional seven-seat layout for added versatility.
 
-#### First row seats
+#### First Row Seats
 
 The Tesla Model Y Standard Range offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-#### Third-row seats
+#### Third Row Seats
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Tesla Model Y Standard Range includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
-The control interface for the  is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+The control interface for the Tesla Model Y Standard Range is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
 The Tesla Model Y Standard Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -202,7 +202,7 @@ The model does not include a head-up display.
 
 The Tesla Model Y Standard Range is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -223,17 +223,17 @@ The built-in navigation system uses detailed maps and offers advanced route plan
 While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
 
 - **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
-- **Netflix** Enjoy movies and shows right from your vehicle's screen, perfect for entertainment while parked.
-- **YouTube** Watch your favorite videos, channels, and playlists on your car's infotainment screen, making it easy to stay entertained while parked.
-- **Twitch** Stream live gaming content or watch your favorite streamers on the go.
-- **TIDAL** Enjoy high-fidelity music streaming and exclusive content from your favorite artists, delivering a premium audio experience right to your vehicle.
-- **TuneIn** Access live radio stations, podcasts, and news from around the world.
+- **Netflix:** Enjoy movies and shows right from your vehicle's screen, perfect for entertainment while parked.
+- **YouTube:** Watch your favorite videos, channels, and playlists on your car's infotainment screen, making it easy to stay entertained while parked.
+- **Twitch:** Stream live gaming content or watch your favorite streamers on the go.
+- **TIDAL:** Enjoy high-fidelity music streaming and exclusive content from your favorite artists, delivering a premium audio experience right to your vehicle.
+- **TuneIn:** Access live radio stations, podcasts, and news from around the world.
 
-### Sound system
+### Sound System
 
 The Tesla Model Y Standard Range comes equipped with one sound system option:
 
-- **Tesla Premium Sound**: This system features 13 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:**: This system features 13 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -241,22 +241,22 @@ Additionally, the model includes 4 USB-C connections as standard.
 
 The Tesla Model Y Standard Range comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
-- **Locate Your Vehicle**: Easily check the current location of your car.
-- **Preconditioning**: Preheat or cool your car before you start your journey for optimal comfort.
-- **Remote Parking**: Effortlessly control your car to park or exit a parking space remotely.
-- **Lock & Unlock**: Securely lock or unlock your car doors with a tap.
-- **Window Control**: Open and close the windows from anywhere.
-- **Scheduled Charging**: Plan and schedule charging sessions ahead of your trips.
-- **Adjust Charging Target**: Set your desired State of Charge to start or stop charging as needed.
-- **Find Your Car**: Trigger the horn or lights to help find your car in crowded areas.
-- **Route Planning**: Plan your route and send it directly to your car's navigation system.
-- **Driving History**: Review the details of your past trips.
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Window Control:** Open and close the windows from anywhere.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+- **Driving History:** Review the details of your past trips.
 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
@@ -289,13 +289,13 @@ With the Basic Autopilot  level 2 system, you get the following driving automati
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above:
 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above:
 
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
@@ -313,7 +313,7 @@ The trunk offers a cargo capacity of 854 liters (30.2 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2720 kg (5997 lbs), with a base weight of 2135 kg (4707 lbs). This allows for a maximum load of 585 kg (1290 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600 kg, and on and unbraked trailer, it is 750 kg (3527/1653 lbs).
 
 ## Availability & Pricing
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,19 +28,19 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The VinFast VF8 Plus delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 87,7 kWh, providing an 6,3 kWh buffer (6.7%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 87,7 kWh, providing a 6,3 kWh buffer (6.7%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 447 km (278 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 105 minutes, while a more typical charging scenario from 10% to 80% takes 44 minutes with an average charging speed at 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 40 minutes and 4 seconds..
+The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 105 minutes, while a more typical charging scenario from 10% to 80% takes 44 minutes with an average charging speed at 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 40 minutes and 4 seconds.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 58 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -48,13 +48,13 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-VinFast VF8 Plus features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The VinFast VF8 Plus features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
 
-### Drive modes
+### Drive Modes
 
 The VinFast VF8 Plus lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
 
@@ -66,7 +66,7 @@ The VinFast VF8 Plus lets the user select different [drive modes](../../../../te
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 341mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. You can choose between two stopping modes for one-pedal driving. <ul><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
@@ -74,7 +74,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The VinFast VF8 Plus, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The VinFast VF8 Plus is available in a total of 8 paint colors, including several striking metallic options.
+The VinFast VF8 Plus, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The VinFast VF8 Plus is available in a total of 8 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the VinFast VF8 Plus, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -82,9 +82,9 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof option for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
 
@@ -96,53 +96,53 @@ You can choose between several interior designs.
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 The VinFast VF8 Plus offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort features
+## Comfort Features
 
 The VinFast VF8 Plus includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The VinFast VF8 Plus has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -158,7 +158,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The VinFast VF8 Plus is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -176,11 +176,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the VinFast VF8 Plus supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The VinFast VF8 Plus comes equipped with one sound system option:
 
-- ****: This system features 11 speakers and delivers a maximum output of  watts.
+- **:**: This system features 11 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
 
@@ -188,7 +188,7 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 

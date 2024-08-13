@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Mercedes-EQ G 580 EQ packs an impressive punch with a maximum power of 432 kW (587 hp / 579 bhp) and a commanding total torque of 1164 Nm (859 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 116 kWh, providing an 4 kWh buffer (3.3%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 116 kWh, providing a 4 kWh buffer (3.3%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 473 to 434 km (294-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 24.5 kWh/100 km for the base model and 26.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 473 to 434 km (294-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 24.5 kWh/100 km for the base model and 26.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 88 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 153 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 56%. This results in an effective charging speed, including time lost, of 144 kW, with each charging session taking about 27 minutes and 38 seconds.. This efficient charging capability makes the Mercedes-EQ G 580 EQ a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 88 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 153 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 56%. This results in an effective charging speed, including time lost, of 144 kW, with each charging session taking about 27 minutes and 38 seconds. This efficient charging capability makes the Mercedes-EQ G 580 EQ a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28.5 kWh/100 km, the trip would take approximately 9 hours and 31 minutes. This journey would require three charging stops from 1% to 50%, with a total charging time of 72 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 32 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Mercedes-EQ G 580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Mercedes-EQ G 580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Mercedes-EQ G 580 EQ. Dynamic stee
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
 
@@ -72,7 +72,7 @@ The maximum regenerative power is 300 kW.
 
 ## Exterior
 
-The Mercedes-EQ G 580 EQ, with dimensions of 4624 mm in length, 1931 mm in width, and 1986 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Mercedes-EQ G 580 EQ offers a selection of 19 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
+The Mercedes-EQ G 580 EQ, with dimensions of 4624 mm in length, 1931 mm in width, and 1986 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Mercedes-EQ G 580 EQ offers a selection of 19 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
@@ -98,68 +98,68 @@ There are two different roof options to select from. The standard is just a regu
 
 The Mercedes-EQ G 580 EQ accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 For the front row, the Mercedes-EQ G 580 EQ offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 6 different materials/colors for this seat type.
+You can choose from 6 different materials/colors for this seat type:
 
-The following functionalities are available on the **multicontour** seat.
+The following functionalities are available on the **multicontour** seat:
 
-- electric adjustment
-- height adjustable headrest
-- length adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- Electric adjustment
+- Height adjustable headrest
+- Length adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 5 different materials/colors for this seat type.
+You can choose from 5 different materials/colors for this seat type:
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/secondrowseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-## Climate system
+## Climate System
 
 Two climate system options are available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-## Comfort features
+## Comfort Features
 
 The Mercedes-EQ G 580 EQ includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Two different screen setups are available on the Mercedes-EQ G 580 EQ.
 
@@ -186,7 +186,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Mercedes-EQ G 580 EQ is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -206,12 +206,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Mercedes-EQ G 580 EQ supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Mercedes-EQ G 580 EQ.
 
-- **Advanced Soundsystem**: This system features nine speakers and delivers a maximum output of 225 watts.
-- **Burmester Surround Soundsystem**: This system features 13 speakers and delivers a maximum output of 590 watts.
+- **Advanced Soundsystem:**: This system features nine speakers and delivers a maximum output of 225 watts.
+- **Burmester Surround Soundsystem:**: This system features 13 speakers and delivers a maximum output of 590 watts.
 
 Additionally, the model includes 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -219,7 +219,7 @@ Additionally, the model includes 4 USB-C connections as standard. As an option, 
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/headlights_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
@@ -254,11 +254,11 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above.
+With the Driver Assistance Package Plus  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above.
+With the DRIVE PILOT  level 3 system, you get additional driving automation features to the ones listed above:
 
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 

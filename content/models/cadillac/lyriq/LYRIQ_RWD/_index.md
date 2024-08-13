@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Cadillac LYRIQ RWD delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 450 Nm (332 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (7.3%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing a 8 kWh buffer (7.3%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 312 miles (502 km) with an energy consumption rate of 3.1 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 176 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 136 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 65%. This results in an effective charging speed, including time lost, of 120 kW, with each charging session taking about 29 minutes and 59 seconds..
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 176 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 136 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 65%. This results in an effective charging speed, including time lost, of 120 kW, with each charging session taking about 29 minutes and 59 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 9 hours and 29 minutes. This journey would require two charging stops from 6% to 74%, with a total charging time of 70 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 52 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 19.2 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 5 hours and 18 minutes at home.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Cadillac LYRIQ RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Cadillac LYRIQ RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -60,7 +60,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 321mm, and the rear discs are 345mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
@@ -86,33 +86,33 @@ There are two different roof options to select from. The standard roof has a lar
 
 The Cadillac LYRIQ RWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Cadillac LYRIQ RWD offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
-## Climate system
+## Climate System
 
 Two climate system options are available:
 
@@ -121,16 +121,16 @@ Two climate system options are available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Cadillac LYRIQ RWD includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Cadillac LYRIQ RWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -146,7 +146,7 @@ The model does not include a head-up display.
 
 The Cadillac LYRIQ RWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -164,11 +164,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Cadillac LYRIQ RWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The Cadillac LYRIQ RWD comes equipped with one sound system option:
 
-- **Lyric sound system**: This system features seven speakers and delivers a maximum output of  watts.
+- **Lyric sound system:**: This system features seven speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 5 USB-C connections as standard.
 
@@ -176,7 +176,7 @@ Additionally, the model includes 5 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/headlights_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="1973"  >}}
 

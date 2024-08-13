@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,25 +28,25 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Tesla Cybertruck AWD packs an impressive punch with a maximum power of 448 kW (609 hp / 601 bhp) and a commanding total torque of 671 Nm (495 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing an 0,5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 123 kWh and a net usable capacity of 122,5 kWh, providing a 0,5 kWh buffer (0.4%) for battery protection. Operating at a nominal voltage of 710 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 340 miles (547 km) with an energy consumption rate of 2.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 37%. This results in an effective charging speed, including time lost, of 157 kW, with each charging session taking about 17 minutes and 22 seconds..
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 77 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 37%. This results in an effective charging speed, including time lost, of 157 kW, with each charging session taking about 17 minutes and 22 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 32 kWh/100 km, the trip would take approximately 9 hours and 37 minutes. This journey would require four charging stops from 0% to 41%, with a total charging time of 77 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 8 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-### Charge port
+### Charge Port
 
-The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 ### V2L - Vehichle to load
 
@@ -58,7 +58,7 @@ This model supports V2L (Vehicle 2 Load), which means you can power electrical e
 
 ## Drivetrain
 
-Tesla Cybertruck AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Tesla Cybertruck AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -68,7 +68,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 Dynamic steering is a standard feature on the Tesla Cybertruck AWD. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
-### Drive modes
+### Drive Modes
 
 The Tesla Cybertruck AWD lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
 
@@ -81,7 +81,7 @@ The Tesla Cybertruck AWD lets the user select different [drive modes](../../../.
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
@@ -97,9 +97,9 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
 
@@ -111,49 +111,49 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 The Tesla Cybertruck AWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Tesla Cybertruck AWD offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Tesla Cybertruck AWD includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Tesla Cybertruck AWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -169,7 +169,7 @@ The model does not include a head-up display.
 
 The Tesla Cybertruck AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -181,11 +181,11 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 The Tesla Cybertruck AWD comes equipped with one sound system option:
 
-- **Tesla Premium Sound**: This system features 17 speakers and delivers a maximum output of 560 watts.
+- **Tesla Premium Sound:**: This system features 17 speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 3 USB-C connections as standard.
 
@@ -193,7 +193,7 @@ Additionally, the model includes 3 USB-C connections as standard.
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/headlights_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
@@ -228,13 +228,13 @@ With the Basic Autopilot  level 2 system, you get the following driving automati
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above:
 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above:
 
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
@@ -247,7 +247,7 @@ The truck bed offers a cargo capacity of 1897.23 liters (67.0 CU FT). It has a w
 
 The vehicle’s maximum weight is 4159 kg (9169 lbs), with a base weight of 3025 kg (6669 lbs). This allows for a maximum load of 1134 kg (2500 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990 kg, and on and unbraked trailer, it is 750 kg (11000/1653 lbs).
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

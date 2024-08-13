@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,29 +28,29 @@ We've divided the article into specific sections for easier navigation. Click th
 
 With overboost, the Porsche Taycan Turbo GT Weissach delivers an astonishing maximum power of 815 kW (1108 hp / 1093 bhp). Even without overboost, it boasts a formidable 815 kW (1108 hp / 1093 bhp). The maximum torque reaches an incredible 1340 Nm (989 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.2 seconds and achieves a top speed of 300 km/h (186 mph), underscoring its breathtaking performance.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing a 8 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 558 to 555 km (347-345 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.4 kWh/100 km for the base model and 17.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 558 to 555 km (347-345 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.4 kWh/100 km for the base model and 17.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds.. This exceptionally fast charging capability makes the Porsche Taycan Turbo GT Weissach one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds. This exceptionally fast charging capability makes the Porsche Taycan Turbo GT Weissach one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 55 minutes. This journey would require two charging stops from 1% to 65%, with a total charging time of 35 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
-### Charge port
+### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
 
-Porsche Taycan Turbo GT Weissach features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Porsche Taycan Turbo GT Weissach features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Porsche Taycan Turbo GT Weissach. 
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
 
@@ -103,53 +103,53 @@ There are three different roof options to select from. The standard is just a re
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 For the front row, the Porsche Taycan Turbo GT Weissach offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
-The following functionalities are available on the **Lightweight bucket seat** seat.
+The following functionalities are available on the **Lightweight bucket seat** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-The following functionalities are available on the **Sportsseats Plus** seat.
+The following functionalities are available on the **Sportsseats Plus** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
 This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Porsche Taycan Turbo GT Weissach includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Porsche Taycan Turbo GT Weissach has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
 
@@ -168,7 +168,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Porsche Taycan Turbo GT Weissach is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -184,19 +184,19 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Porsche Taycan Turbo GT Weissach supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between three sound systems on the Porsche Taycan Turbo GT Weissach.
 
-- **Porsche Sound system**: This system features ten speakers and delivers a maximum output of 150 watts.
-- ** BOSE® Surround Sound System**: This system features 14 speakers and delivers a maximum output of 710 watts.
-- ** Burmester® 3D High-End Surround Sound System**: This system features 21 speakers and delivers a maximum output of 1455 watts.
+- **Porsche Sound system:**: This system features ten speakers and delivers a maximum output of 150 watts.
+- ** BOSE® Surround Sound System:**: This system features 14 speakers and delivers a maximum output of 710 watts.
+- ** Burmester® 3D High-End Surround Sound System:**: This system features 21 speakers and delivers a maximum output of 1455 watts.
 
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
@@ -233,7 +233,7 @@ With the   level 1 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above.
+With the Porsche InnoDrive  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 

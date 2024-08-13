@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The MG Cyberster AWD Long Range packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.2 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing an 2,6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 77 kWh and a net usable capacity of 74,4 kWh, providing a 2,6 kWh buffer (3.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 520 km ( miles). he energy consumption is 14.3 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 101 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 96 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 58%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 25 minutes and 33 seconds..
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 101 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 96 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 58%. This results in an effective charging speed, including time lost, of 100 kW, with each charging session taking about 25 minutes and 33 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 43 minutes. This journey would require three charging stops from 2% to 63%, with a total charging time of 83 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 45 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-MG Cyberster AWD Long Range features an all-wheel drive system powered by two motors, one on each axle.
+The MG Cyberster AWD Long Range features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
@@ -60,7 +60,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
 
@@ -74,7 +74,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
 
-There is only one roof for this model. The standard roof is a soft top that can be folded down.
+There is only one roof option for this model. The standard roof is a soft top that can be folded down.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
 
@@ -86,39 +86,39 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 The MG Cyberster AWD Long Range offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
+- Electric adjustment
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-## Comfort features
+## Comfort Features
 
 The MG Cyberster AWD Long Range includes several features to enhance comfort and convenience:
 
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -137,7 +137,7 @@ The model does not include a head-up display.
 
 The MG Cyberster AWD Long Range is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -155,11 +155,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the MG Cyberster AWD Long Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The MG Cyberster AWD Long Range comes equipped with one sound system option:
 
-- **Bose Sound System**: This system features six speakers and delivers a maximum output of 300 watts.
+- **Bose Sound System:**: This system features six speakers and delivers a maximum output of 300 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -167,7 +167,7 @@ Additionally, the model includes 1 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,29 +28,29 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Tesla Model 3 offers modest performance with a maximum power of 208 kW (283 hp / 279 bhp) and a total torque of 420 Nm (310 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and has a top speed of 225 km/h (140 mph), aligning more closely with traditional internal combustion engine vehicles.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing an 1 kWh buffer (1.7%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 59 kWh, providing a 1 kWh buffer (1.7%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 513 km (319 miles), with an energy consumption rate of 11.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 78 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 49%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 20 minutes and 31 seconds..
+The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 78 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 49%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 20 minutes and 31 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 17 kWh/100 km, the trip would take approximately 9 hours and 41 minutes. This journey would require four charging stops from 3% to 51%, with a total charging time of 82 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
-The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
 
-Tesla Model 3 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The Tesla Model 3 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Tesla Model 3. Dynamic steering va
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
@@ -83,9 +83,9 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/exterior_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
 
@@ -99,52 +99,52 @@ The interior of the Tesla Model 3 is minimalistic, featuring high-quality materi
 
 The Tesla Model 3 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Tesla Model 3 offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 2 different materials/colors for this seat type.
+You can choose from 2 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
+- Height adjustable headrest
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Tesla Model 3 includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Tesla Model 3 has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) that serves as the primary display for both vehicle information and infotainment functions.
 
@@ -160,7 +160,7 @@ The model does not include a head-up display.
 
 The Tesla Model 3 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -172,11 +172,11 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 The Tesla Model 3 comes equipped with one sound system option:
 
-- **Tesla Imersive Sound**: This system features nine speakers and delivers a maximum output of 560 watts.
+- **Tesla Imersive Sound:**: This system features nine speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 3 USB-C connections as standard.
 
@@ -184,7 +184,7 @@ Additionally, the model includes 3 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/headlights_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
 
@@ -219,13 +219,13 @@ With the Basic Autopilot  level 2 system, you get the following driving automati
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
-With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above.
+With the Enhanced Autopilot  level 2 system, you get additional driving automation features to the ones listed above:
 
 - Advance cruise control that follows navigation and turns off and on major roads to reach the target.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
-With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above.
+With the Full Self-Driving Capability  level 3 system, you get additional driving automation features to the ones listed above:
 
 - Traffic light control - follow traffic lights.
 - Stop sign control - follow stop signs.
@@ -243,7 +243,7 @@ The trunk offers a cargo capacity of 593 liters (20.9 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2149 kg (4738 lbs), with a base weight of 1760 kg (3880 lbs). This allows for a maximum load of 389 kg (858 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000 kg, and on and unbraked trailer, it is 750 kg (2205/1653 lbs).
 
 ## Availability & Pricing
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,23 +28,23 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Ford Mustang Mach-E Standard Range AWD delivers a solid performance with a maximum power of 258 kW (351 hp / 346 bhp) and a total torque of 580 Nm (428 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 75,7 kWh and a net usable capacity of 70 kWh, providing an 5,7 kWh buffer (7.5%) for battery protection. With a nominal voltage of 360 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 75,7 kWh and a net usable capacity of 70 kWh, providing a 5,7 kWh buffer (7.5%) for battery protection. With a nominal voltage of 360 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 17.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 117 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 86 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 46%. This results in an effective charging speed, including time lost, of 80 kW, with each charging session taking about 22 minutes and 3 seconds..
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 117 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 86 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 46%. This results in an effective charging speed, including time lost, of 80 kW, with each charging session taking about 22 minutes and 3 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 10 hours and 29 minutes. This journey would require six charging stops from 5% to 46%, with a total charging time of 129 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 21 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1736"  >}}
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -52,7 +52,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Ford Mustang Mach-E Standard Range AWD features an all-wheel drive system powered by two motors, one on each axle.
+The Ford Mustang Mach-E Standard Range AWD features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
@@ -62,13 +62,13 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 457mm, and the rear discs are 432mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
 
 ## Exterior
 
-The Ford Mustang Mach-E Standard Range AWD, with dimensions of 4713 mm in length, 1881 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Ford Mustang Mach-E Standard Range AWD is available in a total of 8 paint colors, including both solid and metallic options.
+The Ford Mustang Mach-E Standard Range AWD, with dimensions of 4713 mm in length, 1881 mm in width, and 1624 mm in height, falls into the Compact SUVs category, also known as C-SUVs. These offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUVs. The Ford Mustang Mach-E Standard Range AWD is available in a total of 8 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Ford Mustang Mach-E Standard Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -91,52 +91,52 @@ There are two different roof options to select from. The standard is just a regu
 
 The Ford Mustang Mach-E Standard Range AWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Ford Mustang Mach-E Standard Range AWD offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- height adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- Electric adjustment
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
+- Height adjustable headrest
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="2250"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-## Comfort features
+## Comfort Features
 
 The Ford Mustang Mach-E Standard Range AWD includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -151,7 +151,7 @@ The model does not include a head-up display.
 
 The Ford Mustang Mach-E Standard Range AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -167,11 +167,11 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Ford Mustang Mach-E Standard Range AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 The Ford Mustang Mach-E Standard Range AWD comes equipped with one sound system option:
 
-- **B&O Sound System**: This system features ten speakers and delivers a maximum output of 560 watts.
+- **B&O Sound System:**: This system features ten speakers and delivers a maximum output of 560 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 
@@ -179,7 +179,7 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/headlights_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
 

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,22 +28,22 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW (1039 hp/1025 bhp) and a massive total torque of 1623 Nm (1198 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 201 km/h (125 mph), making it a true marvel of engineering and performance.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (5.0%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing a 7,5 kWh buffer (5.0%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 340 miles (516-547 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.3 mi/kWh for the base model and 2.4 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 220 kW. Charging from 0% to 100% takes approximately 127 minutes, while a more typical charging scenario from 10% to 80% takes 46 minutes with an average charging speed at 130 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 141 kW, with each charging session taking about 27 minutes and 5 seconds..
+The vehicle supports fast DC charging with a maximum power of 220 kW. Charging from 0% to 100% takes approximately 127 minutes, while a more typical charging scenario from 10% to 80% takes 46 minutes with an average charging speed at 130 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 141 kW, with each charging session taking about 27 minutes and 5 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 9 hours and 29 minutes. This journey would require three charging stops from 0% to 38%, with a total charging time of 69 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 18 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -51,7 +51,7 @@ The location of the charge port is on the [left front corner](../../../../techno
 
 ## Drivetrain
 
-Rivian R1S Quad-Motor AWD MP has an all-wheel drive system supported by four motors. One for each wheel.
+The Rivian R1S Quad-Motor AWD MP has an all-wheel drive system supported by four motors. One for each wheel.
 
 ### Suspension
 
@@ -61,7 +61,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 Dynamic steering is a standard feature on the Rivian R1S Quad-Motor AWD MP. Dynamic steering varies the steering ratio as a function of driving speed.
 
-### Drive modes
+### Drive Modes
 
 The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
@@ -75,7 +75,7 @@ The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](..
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. The system stops the car completely using friction brakes.
 
@@ -94,9 +94,9 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 
-There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
+There is only one roof option for this model. The standard roof has a large panoramic roof extending from the front to the rear. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
 
-The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -108,20 +108,20 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
-#### First row seats
+#### First Row Seats
 
 The Rivian R1S Quad-Motor AWD MP offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-You can choose from 3 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type:
 
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
@@ -129,37 +129,37 @@ You can choose from 3 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-#### Third-row seats
+#### Third Row Seats
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-## Comfort features
+## Comfort Features
 
 The Rivian R1S Quad-Motor AWD MP includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Rivian R1S Quad-Motor AWD MP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
@@ -176,7 +176,7 @@ The model does not include a head-up display.
 
 The Rivian R1S Quad-Motor AWD MP is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -192,11 +192,11 @@ The Rivian R1S Quad-Motor AWD MP features an advanced infotainment system built 
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 The Rivian R1S Quad-Motor AWD MP comes equipped with one sound system option:
 
-- **Rivian Premium Audio**: This system features 19 speakers and delivers a maximum output of 960 watts.
+- **Rivian Premium Audio:**: This system features 19 speakers and delivers a maximum output of 960 watts.
 
 Additionally, the model includes 6 USB-C connections as standard.
 
@@ -204,7 +204,7 @@ Additionally, the model includes 6 USB-C connections as standard.
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

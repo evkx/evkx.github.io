@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,23 +28,23 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Ford F150 Lightning Standard Range packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 1050 Nm (775 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 98 kWh, providing an 12 kWh buffer (10.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 98 kWh, providing a 12 kWh buffer (10.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 427 km (265 miles), with an energy consumption rate of 23.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 155 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed at 112 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 72%. This results in an effective charging speed, including time lost, of 103 kW, with each charging session taking about 41 minutes and 14 seconds..
+The vehicle supports fast DC charging with a maximum power of 155 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed at 112 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 72%. This results in an effective charging speed, including time lost, of 103 kW, with each charging session taking about 41 minutes and 14 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 33 kWh/100 km, the trip would take approximately 10 hours and 35 minutes. This journey would require three charging stops from 0% to 79%, with a total charging time of 136 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 6 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
 
-### Charge port
+### Charge Port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -52,7 +52,7 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-Ford F150 Lightning Standard Range features an all-wheel drive system powered by two motors, one on each axle.
+The Ford F150 Lightning Standard Range features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
@@ -60,7 +60,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
 
@@ -78,7 +78,7 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
-There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof option for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
 
@@ -92,18 +92,18 @@ There is one seat type you can select in different materials.
 
 The Ford F150 Lightning Standard Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Ford F150 Lightning Standard Range offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- Electric adjustment (optional)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
@@ -112,21 +112,21 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
-## Comfort features
+## Comfort Features
 
 The Ford F150 Lightning Standard Range includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Two different screen setups are available on the Ford F150 Lightning Standard Range.
 
@@ -152,7 +152,7 @@ The model does not include a head-up display.
 
 The Ford F150 Lightning Standard Range is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -168,19 +168,19 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Ford F150 Lightning Standard Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between three sound systems on the Ford F150 Lightning Standard Range.
 
-- **Ford**: This system features four speakers and delivers a maximum output of 80 watts.
-- **B&O Sound System**: This system features eight speakers and delivers a maximum output of 640 watts.
-- **B&O Unleashed Sound System**: This system features 18 speakers and delivers a maximum output of 1080 watts.
+- **Ford:**: This system features four speakers and delivers a maximum output of 80 watts.
+- **B&O Sound System:**: This system features eight speakers and delivers a maximum output of 640 watts.
+- **B&O Unleashed Sound System:**: This system features 18 speakers and delivers a maximum output of 1080 watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/headlights_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -210,12 +210,12 @@ With the Ford Co-Pilot360™ 2.0  level 1 system, you get the following driving 
 
 - Cruise control.
 
-With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driving automation features to the ones listed above.
+With the Ford Co-Pilot360™ Assist 2.0  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
-With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above.
+With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)

@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,19 +28,19 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Mini Cooper SE offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 330 Nm (244 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 54,2 kWh and a net usable capacity of 49 kWh, providing an 5,2 kWh buffer (9.6%) for battery protection.
+The high-capacity battery has a gross capacity of 54,2 kWh and a net usable capacity of 49 kWh, providing a 5,2 kWh buffer (9.6%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 402 to 377 km (250-234 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 402 to 377 km (250-234 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 95 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 66 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 58%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 24 minutes and 12 seconds..
+The vehicle supports fast DC charging with a maximum power of 95 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 66 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 58%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 24 minutes and 12 seconds.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 27 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -48,7 +48,7 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Mini Cooper SE has a front-wheel drive system supported by one motor on the front axle.
+The Mini Cooper SE has a front-wheel drive system supported by one motor on the front axle.
 
 ### Suspension
 
@@ -56,7 +56,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 
 ## Exterior
@@ -85,45 +85,45 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 The seat layout is the two seats in front and two seats in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Mini Cooper SE offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
-## Comfort features
+## Comfort Features
 
 The Mini Cooper SE includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -136,7 +136,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Mini Cooper SE is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -144,17 +144,17 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 ## Infotainment
 
-### Sound system
+### Sound System
 
 The Mini Cooper SE comes equipped with one sound system option:
 
-- ****: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: This system features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

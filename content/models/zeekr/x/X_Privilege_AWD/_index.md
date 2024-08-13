@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Zeekr X Privilege AWD delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 543 Nm (401 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 69 kWh and a net usable capacity of 64 kWh, providing an 5 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 69 kWh and a net usable capacity of 64 kWh, providing a 5 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 16.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 54%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 21 minutes and 58 seconds..
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 54%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 21 minutes and 58 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 10 hours and 32 minutes. This journey would require seven charging stops from 5% to 49%, with a total charging time of 132 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 2 hours and 54 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Zeekr X Privilege AWD features an all-wheel drive system powered by two motors, one on each axle.
+The Zeekr X Privilege AWD features an all-wheel drive system powered by two motors, one on each axle.
 
 ### Suspension
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
@@ -86,31 +86,31 @@ There are two different roof options to select from. As an option, you can order
 
 The Zeekr X Privilege AWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Zeekr X Privilege AWD offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 - White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [Heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
-## Climate system
+## Climate System
 
 Two climate system options are available:
 
@@ -119,17 +119,17 @@ Two climate system options are available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Zeekr X Privilege AWD includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -144,7 +144,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Zeekr X Privilege AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -156,11 +156,11 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Sound system
+### Sound System
 
 The Zeekr X Privilege AWD comes equipped with one sound system option:
 
-- **Yamaha surround sound system**: This system features 13 speakers and delivers a maximum output of 1040 watts.
+- **Yamaha surround sound system:**: This system features 13 speakers and delivers a maximum output of 1040 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
 
@@ -171,7 +171,7 @@ You can choose between two types of headlights for the Zeekr X Privilege AWD.
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 

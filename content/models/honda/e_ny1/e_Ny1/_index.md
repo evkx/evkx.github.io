@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,19 +28,19 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.7 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing an 6,9 kWh buffer (10.0%) for battery protection.
+The high-capacity battery has a gross capacity of 68,8 kWh and a net usable capacity of 61,9 kWh, providing a 6,9 kWh buffer (10.0%) for battery protection.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 miles), with an energy consumption rate of 15.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 38 minutes with an average charging speed at 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 92%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 51 minutes and 28 seconds..
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 38 minutes with an average charging speed at 69 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 92%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 51 minutes and 28 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24.5 kWh/100 km, the trip would take approximately 11 hours and 18 minutes. This journey would require four charging stops from 16% to 90%, with a total charging time of 179 minutes.
 
-### Onboard charger
+### Onboard Charger
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -48,7 +48,7 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 ## Drivetrain
 
-Honda e:Ny1 has a front-wheel drive system supported by one motor on the front axle.
+The Honda e:Ny1 has a front-wheel drive system supported by one motor on the front axle.
 
 ### Suspension
 
@@ -56,7 +56,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-### Regenerative braking
+### Regenerative Braking
 
 
 ## Exterior
@@ -65,7 +65,7 @@ The Honda e:Ny1, with dimensions of 4390 mm in length, 1790 mm in width, and  mm
 
 You can select from multiple wheel options in different sizes on the Honda e:Ny1, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-There is only one roof for this model.
+There is only one roof option for this model.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
@@ -75,29 +75,29 @@ There is only one roof for this model.
 
 ### Seats
 
-#### First row seats
+#### First Row Seats
 
 The Honda e:Ny1 offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
-## Comfort features
+## Comfort Features
 
 The Honda e:Ny1 includes several features to enhance comfort and convenience:
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Honda e:Ny1 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
@@ -114,7 +114,7 @@ The model does not include a head-up display.
 
 The Honda e:Ny1 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -122,17 +122,17 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 ## Infotainment
 
-### Sound system
+### Sound System
 
 The Honda e:Ny1 comes equipped with one sound system option:
 
-- ****: This system features NULL speakers and delivers a maximum output of  watts.
+- **:**: This system features NULL speakers and delivers a maximum output of  watts.
 
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 

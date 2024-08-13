@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,21 +28,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Lotus Eletre S packs an impressive punch with a maximum power of 450 kW (612 hp / 604 bhp) and a commanding total torque of 710 Nm (524 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 258 km/h (160 mph), making it a standout in its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 112 kWh and a net usable capacity of 109 kWh, providing an 3 kWh buffer (2.7%) for battery protection.
+The high-capacity battery has a gross capacity of 112 kWh and a net usable capacity of 109 kWh, providing a 3 kWh buffer (2.7%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 535 to 490 km (333-305 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 20.4 kWh/100 km for the base model and 22.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 535 to 490 km (333-305 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 20.4 kWh/100 km for the base model and 22.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 230 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 68%. This results in an effective charging speed, including time lost, of 193 kW, with each charging session taking about 23 minutes and 45 seconds.. This exceptionally fast charging capability makes the Lotus Eletre S one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 230 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 68%. This results in an effective charging speed, including time lost, of 193 kW, with each charging session taking about 23 minutes and 45 seconds. This exceptionally fast charging capability makes the Lotus Eletre S one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 27 kWh/100 km, the trip would take approximately 9 hours and 10 minutes. This journey would require two charging stops from 1% to 75%, with a total charging time of 51 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 57 minutes using a home charging setup.
 
-### Charge port
+### Charge Port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -50,7 +50,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Lotus Eletre S features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Lotus Eletre S features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Lotus Eletre S. Dynamic steering v
 
 You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
@@ -99,20 +99,20 @@ There is one seat type you can select in different materials.
 
 This model offers a four-seat layout or an optional 4+1 layout.
 
-#### First row seats
+#### First Row Seats
 
 The Lotus Eletre S offers a single type of front seat.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 
-You can choose from 5 different materials/colors for this seat type.
+You can choose from 5 different materials/colors for this seat type:
 
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
@@ -122,38 +122,38 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/frontseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
-#### Second-row seats
+#### Second Row Seats
 
 You can choose two seat types for the second row in the Lotus Eletre S.
 
-The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
-The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
+The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available:
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Lotus Eletre S includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -168,7 +168,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Lotus Eletre S is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -186,12 +186,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Lotus Eletre S supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Lotus Eletre S.
 
-- **KEF Premium Audio system**: This system features 15 speakers and delivers a maximum output of 1380 watts.
-- **KEF Reference Audio system**: This system features 23 speakers and delivers a maximum output of 2160 watts.
+- **KEF Premium Audio system:**: This system features 15 speakers and delivers a maximum output of 1380 watts.
+- **KEF Reference Audio system:**: This system features 23 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -199,7 +199,7 @@ Additionally, the model includes 3 USB-C connections as standard. The model has 
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/headlights_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 

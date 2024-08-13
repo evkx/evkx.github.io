@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,29 +28,29 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Audi Q8 Sportback 50 e-tron delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 540 Nm (399 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 95 kWh and a net usable capacity of 89 kWh, providing an 6 kWh buffer (6.3%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 95 kWh and a net usable capacity of 89 kWh, providing a 6 kWh buffer (6.3%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 505 to 412 km (314-256 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.6 kWh/100 km for the base model and 21.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 505 to 412 km (314-256 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 17.6 kWh/100 km for the base model and 21.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 139 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 81%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 35 minutes and 15 seconds..
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 139 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 81%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 35 minutes and 15 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24.5 kWh/100 km, the trip would take approximately 9 hours and 42 minutes. This journey would require two charging stops from 1% to 89%, with a total charging time of 82 minutes.
 
-### Onboard charger
+### Onboard Charger
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 5 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 2 minutes at home.
 
-### Charge port
+### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
 
-Audi Q8 Sportback 50 e-tron features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
+The Audi Q8 Sportback 50 e-tron features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
 
 ### Suspension
 
@@ -62,7 +62,7 @@ You can order Audi Q8 Sportback 50 e-tron with an alternative Adaptive Air Suspe
 
 Dynamic steering is a standard feature on the Audi Q8 Sportback 50 e-tron. Dynamic steering varies the steering ratio as a function of driving speed.
 
-### Drive modes
+### Drive Modes
 
 The Audi Q8 Sportback 50 e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
 
@@ -78,7 +78,7 @@ The Audi Q8 Sportback 50 e-tron lets the user select different [drive modes](../
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
 
-### Regenerative braking
+### Regenerative Braking
 
 The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br />**Manual regeneration** is another mode, where regenerative braking is controlled by pressing the brake pedal. The brake system blends in physical brakes only when necessary. <br /><br/>  Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
@@ -118,78 +118,78 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 The Audi Q8 Sportback 50 e-tron accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 For the front row, the Audi Q8 Sportback 50 e-tron offers five different seat types to choose from, catering to a range of comfort and style preferences.
 
-The following functionalities are available on the **standard** seat.
+The following functionalities are available on the **standard** seat:
 
-- electric adjustment (optional)
-- height adjustable headrest
-- length adjustable headrest (optional)
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- Electric adjustment (optional)
+- Height adjustable headrest
+- Length adjustable headrest (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
-The following functionalities are available on the **sport** seat.
+The following functionalities are available on the **sport** seat:
 
-- electric adjustment (optional)
-- height adjustable headrest
-- length adjustable headrest (optional)
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- Electric adjustment (optional)
+- Height adjustable headrest
+- Length adjustable headrest (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 3 different materials/colors for this seat type.
+You can choose from 3 different materials/colors for this seat type:
 
-The following functionalities are available on the **s-line sport** seat.
+The following functionalities are available on the **s-line sport** seat:
 
-- electric adjustment (optional)
-- height adjustable headrest
-- length adjustable headrest (optional)
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- Electric adjustment (optional)
+- Height adjustable headrest
+- Length adjustable headrest (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
-The following functionalities are available on the **s sport** seat.
+The following functionalities are available on the **s sport** seat:
 
-- electric adjustment (optional)
-- [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- Electric adjustment (optional)
+- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
-The following functionalities are available on the **multicontour** seat.
+The following functionalities are available on the **multicontour** seat:
 
-- electric adjustment
-- height adjustable headrest
-- length adjustable headrest
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- Electric adjustment
+- Height adjustable headrest
+- Length adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 4 different materials/colors for this seat type.
+You can choose from 4 different materials/colors for this seat type:
 
-#### Second-row seat
+#### Second Row Seat
 
-The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available:
 
-- height adjustable headrest
+- Height adjustable headrest
 
-## Climate system
+## Climate System
 
 Two climate system options are available:
 
@@ -198,19 +198,19 @@ Two climate system options are available:
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Audi Q8 Sportback 50 e-tron includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Electrically adjustable steering wheel**
-- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 The Audi Q8 Sportback 50 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -226,7 +226,7 @@ A head-up display is an optional system that projects speed and other important 
 
 The Audi Q8 Sportback 50 e-tron is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -242,12 +242,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 Furthermore, the Audi Q8 Sportback 50 e-tron supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-### Sound system
+### Sound System
 
 You can choose between two sound systems on the Audi Q8 Sportback 50 e-tron.
 
-- **Audi Sound system**: This system features ten speakers and delivers a maximum output of 180 watts.
-- **Bang & Olufsen Sound System**: This system features 16 speakers and delivers a maximum output of 700 watts.
+- **Audi Sound system:**: This system features ten speakers and delivers a maximum output of 180 watts.
+- **Bang & Olufsen Sound System:**: This system features 16 speakers and delivers a maximum output of 700 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 
@@ -255,13 +255,13 @@ Additionally, the model includes 2 USB-C connections as standard. As an option, 
 
 The Audi Q8 Sportback 50 e-tron comes with its dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
-- **Locate Your Vehicle**: Easily check the current location of your car.
-- **Preconditioning**: Preheat or cool your car before you start your journey for optimal comfort.
-- **Lock & Unlock**: Securely lock or unlock your car doors with a tap.
-- **Scheduled Charging**: Plan and schedule charging sessions ahead of your trips.
-- **Adjust Charging Target**: Set your desired State of Charge to start or stop charging as needed.
-- **Route Planning**: Plan your route and send it directly to your car's navigation system.
-- **Driving History**: Review the details of your past trips.
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Scheduled Charging:** Plan and schedule charging sessions ahead of your trips.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+- **Driving History:** Review the details of your past trips.
 
 ## Lights
 
@@ -271,7 +271,7 @@ You can choose between three types of headlights for the Audi Q8 Sportback 50 e-
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced Driver Assistance Systems
 
@@ -308,7 +308,7 @@ With the   level 1 system, you get the following driving automation features.
 - Cruise control.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
 
-With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above.
+With the Assistantpackage Tour  level 2 system, you get additional driving automation features to the ones listed above:
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.

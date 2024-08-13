@@ -14,7 +14,7 @@ navicon: bi-car-front
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
-- [Battery, range, and charging](#battery-range-and-charging)
+- [Battery, Range, and Charging](#battery-range-and-charging)
 - [Drivetrain (suspension, brakes, steering)](#drivetrain)
 - [Exterior (paint colors, wheels ++)](#exterior)
 - [Interior (seats++)](#interior)
@@ -28,19 +28,19 @@ We've divided the article into specific sections for easier navigation. Click th
 
 The Aion Hyper GT 710 Supercharged delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and reaches a top speed of 257 km/h (160 mph), making it competitive within its class.
 
-## Battery, range, and charging
+## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 80,1 kWh and a net usable capacity of 77 kWh, providing an 3,1 kWh buffer (3.9%) for battery protection.
+The high-capacity battery has a gross capacity of 80,1 kWh and a net usable capacity of 77 kWh, providing a 3,1 kWh buffer (3.9%) for battery protection.
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 10.8 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 159 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 54%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 16 minutes and 50 seconds.. This efficient charging capability makes the Aion Hyper GT 710 Supercharged a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 159 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 54%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 16 minutes and 50 seconds. This efficient charging capability makes the Aion Hyper GT 710 Supercharged a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 20 kWh/100 km, the trip would take approximately 9 hours and 9 minutes. This journey would require three charging stops from 2% to 56%, with a total charging time of 49 minutes.
 
-### Onboard charger
+### Onboard Charger
 
-### Charge port
+### Charge Port
 
 Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
@@ -48,7 +48,7 @@ Connector types vary by market: this model uses [**CCS Combo 1**](../../../../te
 
 ## Drivetrain
 
-Aion Hyper GT 710 Supercharged has a rear-wheel drive system supported by one motor on the rear axle.
+The Aion Hyper GT 710 Supercharged has a rear-wheel drive system supported by one motor on the rear axle.
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-### Regenerative braking
+### Regenerative Braking
 
 
 ## Exterior
@@ -73,7 +73,7 @@ You can select from multiple wheel options in different sizes on the Aion Hyper 
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
-There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
 
@@ -85,53 +85,53 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The Aion Hyper GT 710 Supercharged accommodates five passengers with two seats in the front and a three-seat bench in the rear.
 
-#### First row seats
+#### First Row Seats
 
 The Aion Hyper GT 710 Supercharged offers a single type of front seat.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-- electric adjustment
-- [heating](../../../../technology/seats/adjustment/#heating)
-- [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [massage](../../../../technology/seats/adjustment/#massage) (optional)
+- Electric adjustment
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 -  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
-#### Second-row seat
+#### Second Row Seat
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **** seat:
 
-You can choose from 1 different materials/colors for this seat type.
+You can choose from 1 different materials/colors for this seat type:
 
 -  [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
-## Climate system
+## Climate System
 
-There is one climate system available.
+There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-## Comfort features
+## Comfort Features
 
 The Aion Hyper GT 710 Supercharged includes several features to enhance comfort and convenience:
 
-- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
-- **Keyless go:** Enables starting the car without using the key.
-- **Wireless phone charging**
+- **Keyless Entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless Go:** Enables starting the car without using the key.
+- **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
-## User interface and control
+## User Interface and Control
 
 Key screen details:
 
@@ -146,7 +146,7 @@ The model does not include a head-up display.
 
 The Aion Hyper GT 710 Supercharged is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel**: This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -154,11 +154,11 @@ Both the exterior and interior mirrors utilize conventional mirror technology to
 
 ## Infotainment
 
-### Sound system
+### Sound System
 
 The Aion Hyper GT 710 Supercharged comes equipped with one sound system option:
 
-- ****: This system features 23 speakers and delivers a maximum output of  watts.
+- **:**: This system features 23 speakers and delivers a maximum output of  watts.
 
 Additionally, the model includes 1 USB-C connections as standard.
 
@@ -166,7 +166,7 @@ Additionally, the model includes 1 USB-C connections as standard.
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-Standard Taillights use LED technology, ensuring visibility and efficiency.
+Standard taillights use LED technology, ensuring visibility and efficiency.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/headlights_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1920" height="960"  >}}
 
