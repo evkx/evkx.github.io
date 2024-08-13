@@ -103,10 +103,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
@@ -147,7 +147,7 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 14,9 tommer stor
 - touch-skjermen nederst på midtkonsollen er 5,0 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 
@@ -165,7 +165,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 

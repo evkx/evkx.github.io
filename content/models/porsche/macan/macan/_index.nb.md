@@ -58,7 +58,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Porsche Macan. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard-funksjonen på Porsche Macan. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en valgfri-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -110,17 +110,17 @@ Følgende funksjoner er tilgjengelige på **Comfortseats** setet.
 - elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
@@ -135,7 +135,7 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -143,7 +143,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 ## Klimasystem
 
@@ -158,8 +158,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Porsche Macan inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -173,7 +173,7 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 10,9 tommer stor
 - touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/screens_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
@@ -191,7 +191,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -229,17 +229,17 @@ Porsche Macan inkluderer flere [avanserte førerassistanse systemer](../../../..
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Porsche Macan, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Tilvalg på Porsche Macan, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Porsche Macan, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tilvalg på Porsche Macan, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfri på Porsche Macan, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tilvalg på Porsche Macan, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Porsche Macan, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Porsche Macan, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Porsche Macan, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Porsche Macan, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Porsche Macan, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -248,7 +248,7 @@ Porsche Macan tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../tech
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med Porsche InnoDrive  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
@@ -268,5 +268,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 25.01.2024, og leveringene forventes å starte om August 2024.
+Denne modellen hadde sin verdenspremiere den 25.01.2024, med forventede leveranser som starter i August 2024.
 {< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

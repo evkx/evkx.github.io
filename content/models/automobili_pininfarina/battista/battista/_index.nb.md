@@ -58,7 +58,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Automobili Pininfarina Battista. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Automobili Pininfarina Battista. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Kjøremoduser
 
@@ -124,8 +124,8 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 Automobili Pininfarina Battista inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -157,7 +157,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -206,5 +206,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.07.2023, og leveringene startet i October 2023.
+Automobili Pininfarina Battista hadde sin verdenspremiere den 01.07.2023, med leveranser som startet i October 2023.
 {< pagenavigation b_url="../" b_title="Automobili Pininfarina Battista" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

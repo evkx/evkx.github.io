@@ -236,5 +236,5 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-The Volkswagen Tesla Cybertruck Cyberbeast had its world premiere on 30.11.2023, with deliveries starting in November 2023. Please note that this model is available exclusively in North America.
+The Tesla Cybertruck Cyberbeast had its world premiere on 30.11.2023, with deliveries starting in November 2023. Please note that this model is available exclusively in North America.
 {< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Range" >}

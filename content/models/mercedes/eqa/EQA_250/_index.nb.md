@@ -56,7 +56,7 @@ Mercedes-EQ EQA 250 har et forhjulsdriftssystem støttet av én motor på foraks
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Mercedes-EQ EQA 250. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Mercedes-EQ EQA 250. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -97,14 +97,14 @@ For første rad tilbyr Mercedes-EQ EQA 250 to forskjellige setetyper å velge me
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte (tilvalg)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- lengdejusterbar hodestøtte (valgfri)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
@@ -119,7 +119,7 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
@@ -143,8 +143,8 @@ To klimasystemalternativer er tilgjengelige:
 
 Mercedes-EQ EQA 250 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -158,7 +158,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet på venstre side av rammen er 10,3 tommer stor
 - touch-skjermen ved høyre del av den delte rammen er 10,3 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/screens_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
@@ -180,7 +180,7 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -213,17 +213,17 @@ Mercedes-EQ EQA 250 inkluderer flere [avanserte førerassistanse systemer](../..
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Mercedes-EQ EQA 250, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Tilvalg på Mercedes-EQ EQA 250, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Mercedes-EQ EQA 250, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tilvalg på Mercedes-EQ EQA 250, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfri på Mercedes-EQ EQA 250, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tilvalg på Mercedes-EQ EQA 250, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Mercedes-EQ EQA 250, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Mercedes-EQ EQA 250, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tilvalg på Mercedes-EQ EQA 250, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Mercedes-EQ EQA 250, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Mercedes-EQ EQA 250, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Mercedes-EQ EQA 250, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 

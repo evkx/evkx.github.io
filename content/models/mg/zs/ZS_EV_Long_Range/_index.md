@@ -217,5 +217,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen MG ZS EV Long Range had its world premiere on 07.10.2021, with deliveries starting in January 2022.
+The MG ZS EV Long Range had its world premiere on 07.10.2021, with deliveries starting in January 2022.
 {< pagenavigation b_url="../" b_title="MG ZS" f_url="rangeandconsumption/" f_title="Range" >}

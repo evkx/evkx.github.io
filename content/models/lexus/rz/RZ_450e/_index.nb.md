@@ -95,11 +95,11 @@ Lexus RZ 450e Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -109,7 +109,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -147,7 +147,7 @@ Viktige skjermdetaljer:
 - touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor
 - touch-skjermen øverst på midtkonsollen er 12,3 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -165,7 +165,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -205,7 +205,7 @@ Lexus RZ 450e inkluderer flere [avanserte førerassistanse systemer](../../../..
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Lexus RZ 450e, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Lexus RZ 450e, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Lexus RZ 450e, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 

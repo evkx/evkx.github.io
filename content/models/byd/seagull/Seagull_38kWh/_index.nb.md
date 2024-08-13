@@ -58,7 +58,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på BYD Seagull 38kWh. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på BYD Seagull 38kWh. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -122,8 +122,8 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 BYD Seagull 38kWh inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -156,7 +156,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Lydsystem
 
@@ -184,9 +184,9 @@ BYD Seagull 38kWh inkluderer flere [avanserte førerassistanse systemer](../../.
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BYD Seagull 38kWh, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tilvalg på BYD Seagull 38kWh, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på BYD Seagull 38kWh, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
-[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Tilvalg på BYD Seagull 38kWh, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Valgfri på BYD Seagull 38kWh, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
 ### Kjøreautomatisering
 

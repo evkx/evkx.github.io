@@ -62,7 +62,7 @@ Du kan bestille Volkswagen ID.5 Pro med en alternativ sport hjuloppheng. Hjulopp
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på Volkswagen ID.5 Pro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på Volkswagen ID.5 Pro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -106,21 +106,21 @@ For første rad tilbyr Volkswagen ID.5 Pro to forskjellige setetyper å velge me
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
@@ -148,8 +148,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Volkswagen ID.5 Pro inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -163,7 +163,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,0 tommer stor
 - touch-skjermen i dashbordets sentrum er 12,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/screens_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2206"  >}}
 
@@ -181,7 +181,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -229,7 +229,7 @@ Volkswagen ID.5 Pro inkluderer flere [avanserte førerassistanse systemer](../..
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.5 Pro, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Volkswagen ID.5 Pro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Volkswagen ID.5 Pro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -242,7 +242,7 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -258,5 +258,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 10.10.2023, og leveringene startet i November 2023.
+Volkswagen ID.5 Pro hadde sin verdenspremiere den 10.10.2023, med leveranser som startet i November 2023.
 {< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

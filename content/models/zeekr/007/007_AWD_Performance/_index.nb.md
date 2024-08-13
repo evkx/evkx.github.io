@@ -72,7 +72,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 265/40 dekk på 22" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er standard funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
@@ -133,8 +133,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Zeekr 007 AWD Performance inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -149,7 +149,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 13,0 tommer stor
 - touch-skjermen øverst på midtkonsollen er 15,0 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -169,7 +169,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -226,5 +226,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 27.12.2023, og leveringene startet i January 2024.
+Zeekr 007 AWD Performance hadde sin verdenspremiere den 27.12.2023, med leveranser som startet i January 2024.
 {< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

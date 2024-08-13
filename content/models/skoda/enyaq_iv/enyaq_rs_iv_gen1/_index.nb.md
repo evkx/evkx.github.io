@@ -58,7 +58,7 @@ Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjus
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på SKODA ENYAQ RS iV (GEN1). Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på SKODA ENYAQ RS iV (GEN1). Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -101,7 +101,7 @@ SKODA ENYAQ RS iV (GEN1) Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -126,8 +126,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 SKODA ENYAQ RS iV (GEN1) inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -141,7 +141,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,3 tommer stor
 - touch-skjermen i dashbordets sentrum er 13,0 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 ### Ratt
 
@@ -157,7 +157,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -207,7 +207,7 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,5 +221,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.01.2020, og leveringene startet i March 2021. Denne modellen har nå blitt avviklet.
+Denne modellen hadde verdenspremiere den 01.01.2020, og leveransene startet i March 2021. Denne modellen er nå avviklet.
 {< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

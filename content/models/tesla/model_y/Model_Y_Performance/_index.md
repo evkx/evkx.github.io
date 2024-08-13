@@ -283,7 +283,7 @@ A towbar is standard equipment on this model. The maximum total weight on a brak
 
 ## Availability & Pricing
 
-The Volkswagen Tesla Model Y Performance had its world premiere on 19.03.2019, with deliveries starting in March 2020.
+The Tesla Model Y Performance had its world premiere on 19.03.2019, with deliveries starting in March 2020.
 
 ### Pricing
 

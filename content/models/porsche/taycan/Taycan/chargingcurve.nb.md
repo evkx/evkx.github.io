@@ -19,22 +19,22 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>126,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>126,3 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>119,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>119,4 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>207,7 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>207,7 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>265,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>265,1 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>3,16</td>
+<td>Maks C-Rate</td><td>3,16</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>2,32</td>
+<td>Gjennomsnittlig C-Rate</td><td>2,32</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>1% - 65%</td>
@@ -43,7 +43,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>212,5kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>18m32s</td>
+<td>Optimal ladestopp tid</td><td>18m32s</td>
 </tr>
 </tbody>
 </table>
@@ -377,22 +377,22 @@ Porsche Taycan har batterioppvarming, noe som gjør lading ved en optimal batter
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>99,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>99,6 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>95,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>95,2 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>139,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>139,6 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>195,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>195,5 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>2,98</td>
+<td>Maks C-Rate</td><td>2,98</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>2,03</td>
+<td>Gjennomsnittlig C-Rate</td><td>2,03</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>3% - 65%</td>
@@ -401,7 +401,7 @@ Porsche Taycan har batterioppvarming, noe som gjør lading ved en optimal batter
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>164,8kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>19m52s</td>
+<td>Optimal ladestopp tid</td><td>19m52s</td>
 </tr>
 </tbody>
 </table>

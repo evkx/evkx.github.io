@@ -50,7 +50,7 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 ### V2L - Vehichle to load
 
-Denne modellen støtter V2L (Vehicle 2 Load) som betyr at du drive elektriske apparater med opptil  kW effekt. Dette inkluderer at du kan nødlade andre elbiler med denne. Det er tilgjengelige kontakter både på lasteplanet og i kabinen.
+Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 11,5 kW strøm, inkludert lading av andre kjøretøy. Det er stikkontakter tilgjengelig både på lasteplanet og i kupeen.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
@@ -66,7 +66,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Tesla Cybertruck AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard-funksjonen på Tesla Cybertruck AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Kjøremoduser
 
@@ -95,7 +95,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 285/65 dekk på 20" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. 'Soft Close' er standard-funksjon for sidedørene. Bakluken er elektrisk drevet.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. 'Soft Close' er en standard-funksjon for sidedørene. Bakluken er elektrisk drevet.
 
 Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
@@ -145,10 +145,10 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Tesla Cybertruck AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
-- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -179,7 +179,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Lydsystem
 
@@ -253,5 +253,5 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 30.11.2023, og leveringene startet i November 2023. Denne modellen er kun tilgjengelig i Nord-Amerika.
+Tesla Cybertruck AWD hadde sin verdenspremiere den 30.11.2023, med leveranser som startet i November 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 {< pagenavigation b_url="../" b_title="Tesla Cybertruck" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

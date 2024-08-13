@@ -56,7 +56,7 @@ Volkswagen ID. Buzz GTX LWB har et firehjulsdriftssystem som støttes av to moto
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på Volkswagen ID. Buzz GTX LWB. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på Volkswagen ID. Buzz GTX LWB. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -78,7 +78,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volksw
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
@@ -157,9 +157,9 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Volkswagen ID. Buzz GTX LWB inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
-- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -173,7 +173,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,3 tommer stor
 - touch-skjermen i dashbordets sentrum er 12,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -191,7 +191,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -238,7 +238,7 @@ Volkswagen ID. Buzz GTX LWB inkluderer flere [avanserte førerassistanse systeme
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID. Buzz GTX LWB, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Volkswagen ID. Buzz GTX LWB, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Volkswagen ID. Buzz GTX LWB, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -247,7 +247,7 @@ Volkswagen ID. Buzz GTX LWB tilbyr [kjøreautomatisering på nivå 1 eller 2](..
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 

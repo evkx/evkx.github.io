@@ -62,7 +62,7 @@ For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjer
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Audi A6 Avant e-tron performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Audi A6 Avant e-tron performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Kjøremoduser
 
@@ -100,7 +100,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi A
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er en valgfri-funksjon for sidedørene.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.
 
@@ -124,12 +124,12 @@ For første rad tilbyr Audi A6 Avant e-tron performance to forskjellige setetype
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering (tilvalg)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- elektrisk justering (valgfri)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
@@ -149,7 +149,7 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 ## Klimasystem
 
@@ -164,10 +164,10 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Audi A6 Avant e-tron performance inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
-- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -184,7 +184,7 @@ Viktige skjermdetaljer:
 - touch-skjermen på høyre side av den delte rammen er 14,9 tommer stor
 - touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/screens_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -271,7 +271,7 @@ Audi A6 Avant e-tron performance inkluderer flere [avanserte førerassistanse sy
 
 [**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard på Audi A6 Avant e-tron performance, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tilvalg på Audi A6 Avant e-tron performance, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfri på Audi A6 Avant e-tron performance, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
 [**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Audi A6 Avant e-tron performance, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
@@ -281,7 +281,7 @@ Audi A6 Avant e-tron performance inkluderer flere [avanserte førerassistanse sy
 
 [**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Audi A6 Avant e-tron performance, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Tilvalg på Audi A6 Avant e-tron performance, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfri på Audi A6 Avant e-tron performance, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
@@ -290,7 +290,7 @@ Audi A6 Avant e-tron performance tilbyr [kjøreautomatisering på nivå 1 eller 
 Med Standard  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med Adaptive Cruise Assist  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
@@ -315,13 +315,13 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å starte om December 2024. Denne modellen er kun tilgjengelig i Europa.
+Denne modellen hadde sin verdenspremiere den 31.07.2024, med forventede leveranser som starter i December 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Europa.
 
 ### Priser
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
-- ?77 250,00 (Tyskland)
+- €77 250,00 (Tyskland)
 - 777 900,00 NOK (Norge)
 
 {< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

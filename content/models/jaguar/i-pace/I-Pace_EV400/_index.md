@@ -245,5 +245,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Jaguar I-Pace EV400 had its world premiere on 01.03.2018, with deliveries starting in October 2018.
+The Jaguar I-Pace EV400 had its world premiere on 01.03.2018, with deliveries starting in October 2018.
 {< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Range" >}

@@ -96,8 +96,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
@@ -135,7 +135,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor
 - touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
@@ -153,7 +153,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -219,5 +219,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 13.07.2023, og leveringene forventes å starte om March 2024.
+Denne modellen hadde sin verdenspremiere den 13.07.2023, med forventede leveranser som starter i March 2024.
 {< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

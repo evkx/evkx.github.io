@@ -64,7 +64,7 @@ Du kan bestille BMW i5 xDrive40 med en alternativ Adaptives suspension professio
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på BMW i5 xDrive40. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard-funksjonen på BMW i5 xDrive40. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en valgfri-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -86,7 +86,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i5
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er tilvalg-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er en valgfri-funksjon for sidedørene.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
@@ -108,23 +108,23 @@ For første rad tilbyr BMW i5 xDrive40 to forskjellige setetyper å velge mellom
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 - elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
@@ -133,7 +133,7 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
@@ -150,8 +150,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 BMW i5 xDrive40 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -166,7 +166,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor
 - touch-skjermen ved høyre del av den delte rammen er 14,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/screens_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
@@ -184,7 +184,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -223,13 +223,13 @@ BMW i5 xDrive40 inkluderer flere [avanserte førerassistanse systemer](../../../
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BMW i5 xDrive40, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Tilvalg på BMW i5 xDrive40, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Valgfri på BMW i5 xDrive40, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tilvalg på BMW i5 xDrive40, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på BMW i5 xDrive40, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BMW i5 xDrive40, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tilvalg på BMW i5 xDrive40, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på BMW i5 xDrive40, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
 ### Kjøreautomatisering
 
@@ -238,7 +238,7 @@ BMW i5 xDrive40 tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../te
 Med Driving Assistant  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med Driving Assistant Professional  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 

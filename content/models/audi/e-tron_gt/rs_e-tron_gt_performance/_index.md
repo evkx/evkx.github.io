@@ -285,5 +285,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Audi RS e-tron GT performance had its world premiere on 18.06.2024, with deliveries starting in September 2024.
+The Audi RS e-tron GT performance had its world premiere on 18.06.2024, with deliveries starting in September 2024.
 {< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Range" >}

@@ -308,5 +308,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Audi SQ8 Sportback e-tron had its world premiere on 09.11.2022, with deliveries starting in March 2023. This model is available in North America, China, Europe, and the Middle East.
+The Audi SQ8 Sportback e-tron had its world premiere on 09.11.2022, with deliveries starting in March 2023. This model is available in North America, China, Europe, and the Middle East.
 {< pagenavigation b_url="../" b_title="Audi Q8 e-tron" f_url="rangeandconsumption/" f_title="Range" >}

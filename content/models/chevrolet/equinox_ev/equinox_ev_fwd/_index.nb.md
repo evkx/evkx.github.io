@@ -94,11 +94,11 @@ Chevrolet Equinox EV FWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-- elektrisk justering (tilvalg)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- elektrisk justering (valgfri)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
@@ -112,7 +112,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -129,8 +129,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Chevrolet Equinox EV FWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -143,7 +143,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet på venstre side av rammen er 11,0 tommer stor
 - touch-skjermen ved høyre del av den delte rammen er 17,7 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/screens_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
@@ -163,7 +163,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -194,7 +194,7 @@ Chevrolet Equinox EV FWD inkluderer flere [avanserte førerassistanse systemer](
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Chevrolet Equinox EV FWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Tilvalg på Chevrolet Equinox EV FWD, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Chevrolet Equinox EV FWD, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
 [**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Chevrolet Equinox EV FWD, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
 

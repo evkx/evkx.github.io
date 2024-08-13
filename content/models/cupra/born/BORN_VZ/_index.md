@@ -236,5 +236,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen CUPRA BORN VZ had its world premiere on 20.02.2024, with deliveries starting in August 2024.
+The CUPRA BORN VZ had its world premiere on 20.02.2024, with deliveries starting in August 2024.
 {< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Range" >}

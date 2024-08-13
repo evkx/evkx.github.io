@@ -15,22 +15,22 @@ navicon: bi-battery-charging
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>76,8 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>76,8 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>75,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>75,5 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>90,4 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>90,4 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>99,7 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>99,7 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>1,39</td>
+<td>Maks C-Rate</td><td>1,39</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>1,11</td>
+<td>Gjennomsnittlig C-Rate</td><td>1,11</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>4% - 59%</td>
@@ -39,7 +39,7 @@ navicon: bi-battery-charging
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>92,4kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>29m27s</td>
+<td>Optimal ladestopp tid</td><td>29m27s</td>
 </tr>
 </tbody>
 </table>

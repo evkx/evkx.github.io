@@ -96,10 +96,10 @@ Lancia Ypsilon Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -130,8 +130,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Lancia Ypsilon inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -144,7 +144,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet på venstre side av rammen er 10,0 tommer stor
 - touch-skjermen ved høyre del av den delte rammen er 10,0 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/screens_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
@@ -162,7 +162,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -218,5 +218,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.02.2024, og leveringene startet i June 2024.
+Lancia Ypsilon hadde sin verdenspremiere den 14.02.2024, med leveranser som startet i June 2024.
 {< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

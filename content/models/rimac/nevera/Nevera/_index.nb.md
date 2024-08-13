@@ -58,7 +58,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Rimac Nevera. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Rimac Nevera. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Kjøremoduser
 
@@ -126,8 +126,8 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 Rimac Nevera inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -159,7 +159,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -208,5 +208,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 01.06.2021, og leveringene startet i January 2023.
+Rimac Nevera hadde sin verdenspremiere den 01.06.2021, med leveranser som startet i January 2023.
 {< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

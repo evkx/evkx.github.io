@@ -58,7 +58,7 @@ Lucid Air Sapphire har et firehjulsdriftssystem støttet av tre motorer. En på 
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Lucid Air Sapphire. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Lucid Air Sapphire. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -76,7 +76,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er en standard-funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
@@ -130,8 +130,8 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 Lucid Air Sapphire inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -166,7 +166,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Lydsystem
 

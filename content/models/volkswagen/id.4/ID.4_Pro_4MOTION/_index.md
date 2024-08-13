@@ -259,5 +259,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Volkswagen ID.4 Pro 4MOTION had its world premiere on 10.11.2023, with deliveries starting in January 2024.
+The Volkswagen ID.4 Pro 4MOTION had its world premiere on 10.11.2023, with deliveries starting in January 2024.
 {< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Range" >}

@@ -60,7 +60,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Citroën ë-C3. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Citroën ë-C3. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -182,7 +182,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -240,5 +240,5 @@ Kjøretøyets maksimale vekt er 1910 kg, med en basisvekt på 1416 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 17.10.2023, og leveringene forventes å starte om May 2024.
+Denne modellen hadde sin verdenspremiere den 17.10.2023, med forventede leveranser som starter i May 2024.
 {< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

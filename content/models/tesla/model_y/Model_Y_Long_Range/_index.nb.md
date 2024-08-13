@@ -58,7 +58,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Tesla Model Y Long Range. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Tesla Model Y Long Range. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -142,10 +142,10 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Tesla Model Y Long Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
-- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -283,7 +283,7 @@ Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt fo
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.
+Tesla Model Y Long Range hadde sin verdenspremiere den 19.03.2019, med leveranser som startet i March 2020.
 
 ### Priser
 
@@ -294,7 +294,7 @@ Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfo
 
 ## Alternative Modeller
 
-I det raskt voksende markedet for elbiler har EVKX.net identifisert flere alternativer til Tesla Model Y Long Range som er verdt å vurdere basert på funksjoner, spesifikasjoner og pris. Selv om disse modellene kanskje ikke er helt identiske, kan det være nyttig å sammenligne dem før du tar din endelige kjøpsbeslutning:
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Tesla Model Y Long Range som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
 
 - [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
 - [Volkswagen ID.5 GTX 4MOTION](/models/volkswagen/id.5/id.5_gtx_4motion/)

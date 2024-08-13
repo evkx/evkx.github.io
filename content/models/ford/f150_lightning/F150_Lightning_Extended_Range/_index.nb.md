@@ -99,10 +99,10 @@ Ford F150 Lightning Extended Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-- elektrisk justering (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- elektrisk justering (valgfri)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -163,7 +163,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -199,9 +199,9 @@ Ford F150 Lightning Extended Range inkluderer flere [avanserte førerassistanse 
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Ford F150 Lightning Extended Range, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tilvalg på Ford F150 Lightning Extended Range, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Ford F150 Lightning Extended Range, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Ford F150 Lightning Extended Range, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Ford F150 Lightning Extended Range, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -233,5 +233,5 @@ Kjøretøyets maksimale vekt er 3878 kg, med en basisvekt på 2988 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.
+Ford F150 Lightning Extended Range hadde sin verdenspremiere den 19.05.2021, med leveranser som startet i December 2021.
 {< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

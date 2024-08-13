@@ -91,9 +91,9 @@ Mini Cooper SE Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -117,8 +117,8 @@ Det er ett tilgjengelig klimasystem.
 
 Mini Cooper SE inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -128,7 +128,7 @@ Mini Cooper SE inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 Viktige skjermdetaljer:
 
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

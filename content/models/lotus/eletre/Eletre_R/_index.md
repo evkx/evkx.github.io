@@ -253,5 +253,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Lotus Eletre R had its world premiere on 29.01.2021, with deliveries starting in March 2023.
+The Lotus Eletre R had its world premiere on 29.01.2021, with deliveries starting in March 2023.
 {< pagenavigation b_url="../" b_title="Lotus Eletre" f_url="rangeandconsumption/" f_title="Range" >}

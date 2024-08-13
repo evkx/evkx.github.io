@@ -62,7 +62,7 @@ Du kan bestille Ford Explorer Extended Range RWD med en alternativ sport hjulopp
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på Ford Explorer Extended Range RWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på Ford Explorer Extended Range RWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -105,16 +105,16 @@ For første rad tilbyr Ford Explorer Extended Range RWD to forskjellige setetype
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 
 Følgende funksjoner er tilgjengelige på **Ergo** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
@@ -136,8 +136,8 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 
 Ford Explorer Extended Range RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -151,7 +151,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,0 tommer stor
 - touch-skjermen i dashbordets sentrum er 14,6 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/screens_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2250"  >}}
 
@@ -169,7 +169,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -214,7 +214,7 @@ Ford Explorer Extended Range RWD inkluderer flere [avanserte førerassistanse sy
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Ford Explorer Extended Range RWD, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Ford Explorer Extended Range RWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Ford Explorer Extended Range RWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -241,5 +241,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 26.03.2024, og leveringene startet i November 2024.
+Ford Explorer Extended Range RWD hadde sin verdenspremiere den 26.03.2024, med leveranser som startet i November 2024.
 {< pagenavigation b_url="../" b_title="Ford Explorer" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

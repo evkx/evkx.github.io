@@ -58,7 +58,7 @@ standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempings
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på CUPRA BORN 58. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på CUPRA BORN 58. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -102,12 +102,12 @@ CUPRA BORN 58 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
-- [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
+- elektrisk justering (valgfri)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
+- [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -129,8 +129,8 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 
 CUPRA BORN 58 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -144,7 +144,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,0 tommer stor
 - touch-skjermen i dashbordets sentrum er 12,0 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/screens_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1714"  >}}
 
@@ -162,7 +162,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -207,7 +207,7 @@ CUPRA BORN 58 inkluderer flere [avanserte førerassistanse systemer](../../../..
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på CUPRA BORN 58, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på CUPRA BORN 58, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på CUPRA BORN 58, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
 ### Kjøreautomatisering
 
@@ -224,7 +224,7 @@ Med   nivå 1-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de 
 Med Assistantpackage plus  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 {{<evkxdisplayaddarticle />}}
 

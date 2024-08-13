@@ -284,5 +284,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Audi Q4 55 e-tron quattro had its world premiere on 21.09.2023, with deliveries starting in December 2023.
+The Audi Q4 55 e-tron quattro had its world premiere on 21.09.2023, with deliveries starting in December 2023.
 {< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Range" >}

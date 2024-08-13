@@ -132,8 +132,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Polestar 3 Long Range Dual Motor inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -148,7 +148,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 9,0 tommer stor
 - touch-skjermen øverst på midtkonsollen er 14,5 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2251"  >}}
 

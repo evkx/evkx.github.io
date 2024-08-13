@@ -95,7 +95,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 

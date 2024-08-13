@@ -62,7 +62,7 @@ Du kan bestille Audi Q4 45 e-tron quattro med en alternativ sport hjuloppheng. H
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på Audi Q4 45 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på Audi Q4 45 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -110,18 +110,18 @@ For første rad tilbyr Audi Q4 45 e-tron quattro to forskjellige setetyper å ve
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
+- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -152,8 +152,8 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 
 Audi Q4 45 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -168,7 +168,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 10,2 tommer stor
 - touch-skjermen øverst på midtkonsollen er 11,6 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1686"  >}}
 
@@ -186,7 +186,7 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -240,17 +240,17 @@ Audi Q4 45 e-tron quattro inkluderer flere [avanserte førerassistanse systemer]
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Audi Q4 45 e-tron quattro, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
 
-[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Tilvalg på Audi Q4 45 e-tron quattro, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
+[**Frontkrysstrafikkassist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfri på Audi Q4 45 e-tron quattro, dette førerassistentsystemet hjelper føreren med å oppdage møtende trafikk når man krysser et kryss eller svinger til venstre eller høyre fra en stoppet posisjon.
 
-[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Tilvalg på Audi Q4 45 e-tron quattro, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfri på Audi Q4 45 e-tron quattro, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Audi Q4 45 e-tron quattro, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Tilvalg på Audi Q4 45 e-tron quattro, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfri på Audi Q4 45 e-tron quattro, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Audi Q4 45 e-tron quattro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Audi Q4 45 e-tron quattro, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Tilvalg på Audi Q4 45 e-tron quattro, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfri på Audi Q4 45 e-tron quattro, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 
@@ -259,7 +259,7 @@ Audi Q4 45 e-tron quattro tilbyr [kjøreautomatisering på nivå 1 eller 2](../.
 Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - Fartsbegrenser.
-- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (tilvalg)
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/). (valgfri)
 
 Med Assistantpackage Tour  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner utover de som er nevnt ovenfor.
 
@@ -281,5 +281,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 21.09.2023, og leveringene startet i December 2023.
+Audi Q4 45 e-tron quattro hadde sin verdenspremiere den 21.09.2023, med leveranser som startet i December 2023.
 {< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

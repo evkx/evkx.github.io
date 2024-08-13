@@ -58,7 +58,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Opel Frontera. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Opel Frontera. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -174,7 +174,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -232,5 +232,5 @@ Kjøretøyets maksimale vekt er 2030 kg, med en basisvekt på 1439 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 15.05.2024, og leveringene forventes å starte om September 2024.
+Denne modellen hadde sin verdenspremiere den 15.05.2024, med forventede leveranser som starter i September 2024.
 {< pagenavigation b_url="../" b_title="Opel Frontera" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

@@ -54,7 +54,7 @@ XPENG X9 AWD Performance har et firehjulsdriftssystem som støttes av to motorer
 
 ### Hjuloppheng
 
-Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 130 mm, og maksimum er 220 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 130 mm, og maksimum er 220 mm. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -65,7 +65,7 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
-Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen.
 
@@ -208,5 +208,5 @@ Bagasjerommet tilbyr en lastekapasitet på 755 liter. Med tredje seterad nedfelt
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-Denne modellen er kun tilgjengelig i Kina.
+Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
 {< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

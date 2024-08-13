@@ -228,5 +228,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Zeekr 001 Privilege AWD had its world premiere on 14.04.2021, with deliveries starting in October 2021.
+The Zeekr 001 Privilege AWD had its world premiere on 14.04.2021, with deliveries starting in October 2021.
 {< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Range" >}

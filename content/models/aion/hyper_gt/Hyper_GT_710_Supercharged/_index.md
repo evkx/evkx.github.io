@@ -201,5 +201,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Aion Hyper GT 710 Supercharged had its world premiere on 31.12.2022, with deliveries starting in October 2023.
+The Aion Hyper GT 710 Supercharged had its world premiere on 31.12.2022, with deliveries starting in October 2023.
 {< pagenavigation b_url="../" b_title="Aion Hyper GT" f_url="rangeandconsumption/" f_title="Range" >}

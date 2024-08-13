@@ -218,5 +218,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Lancia Ypsilon had its world premiere on 14.02.2024, with deliveries starting in June 2024.
+The Lancia Ypsilon had its world premiere on 14.02.2024, with deliveries starting in June 2024.
 {< pagenavigation b_url="../" b_title="Lancia Ypsilon" f_url="rangeandconsumption/" f_title="Range" >}

@@ -58,7 +58,7 @@ standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempings
 
 ### Styring
 
-Dynamisk styring er tilvalg-funksjonen på Volkswagen ID.3 GTX. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en valgfri-funksjonen på Volkswagen ID.3 GTX. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -103,9 +103,9 @@ For første rad tilbyr Volkswagen ID.3 GTX to forskjellige setetyper å velge me
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -113,7 +113,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **ergoActive** setet.
 
-- elektrisk justering (tilvalg)
+- elektrisk justering (valgfri)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
@@ -146,8 +146,8 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 
 Volkswagen ID.3 GTX inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -161,7 +161,7 @@ Viktige skjermdetaljer:
 - -skjermen på rattstammen er 5,0 tommer stor
 - touch-skjermen i dashbordets sentrum er 12,9 tommer stor
 
-Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en valgfri-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -183,7 +183,7 @@ Volkswagen ID.3 GTX har et avansert infotainmentsystem bygget på Android Automo
 
 ### Navigasjonssystem
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en valgfri navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -231,9 +231,9 @@ Volkswagen ID.3 GTX inkluderer flere [avanserte førerassistanse systemer](../..
 
 [**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Volkswagen ID.3 GTX, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Tilvalg på Volkswagen ID.3 GTX, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Volkswagen ID.3 GTX, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
 
-[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Tilvalg på Volkswagen ID.3 GTX, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Valgfri på Volkswagen ID.3 GTX, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 

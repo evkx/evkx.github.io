@@ -288,7 +288,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen BMW i5 eDrive40 Touring had its world premiere on 07.02.2024, with deliveries starting in August 2024.
+The BMW i5 eDrive40 Touring had its world premiere on 07.02.2024, with deliveries starting in August 2024.
 
 ## Alternative Models
 

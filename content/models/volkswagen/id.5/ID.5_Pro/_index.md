@@ -258,5 +258,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Volkswagen ID.5 Pro had its world premiere on 10.10.2023, with deliveries starting in November 2023.
+The Volkswagen ID.5 Pro had its world premiere on 10.10.2023, with deliveries starting in November 2023.
 {< pagenavigation b_url="../" b_title="Volkswagen ID.5" f_url="rangeandconsumption/" f_title="Range" >}

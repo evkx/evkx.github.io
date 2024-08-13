@@ -234,5 +234,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Ford F150 Lightning Standard Range had its world premiere on 19.05.2021, with deliveries starting in December 2021.
+The Ford F150 Lightning Standard Range had its world premiere on 19.05.2021, with deliveries starting in December 2021.
 {< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Range" >}

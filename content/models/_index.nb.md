@@ -1,12 +1,12 @@
 ---
 title: Elektriske merker & modeller
 linktitle: "Modeller"
-description: "Fremtiden er elektrisk, og EVKX.net gir deg en fullstendig oversikt over elbilmarkedets merker, modeller og varianter."
+description: "Fremtiden er elektrisk, og EVKX.net gir deg en komplett oversikt over elbilmarkedets merker, modeller og varianter."
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll ned for å lese introduksjonen for hvert merke.
+Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedover for å lese introduksjonen for hvert merke.
 <div class="container text-center p-2 pe-4 mb-4 bg-body-tertiary rounded border">
 	<div class="row align-items-start">
 		<div class="col col-6 col-md-3" >

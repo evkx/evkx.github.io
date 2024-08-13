@@ -279,5 +279,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Volkswagen ID.7 GTX Tourer had its world premiere on 13.03.2024, with deliveries starting in June 2024.
+The Volkswagen ID.7 GTX Tourer had its world premiere on 13.03.2024, with deliveries starting in June 2024.
 {< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Range" >}

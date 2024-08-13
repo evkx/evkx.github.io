@@ -131,8 +131,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Zeekr 001 Privilege AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -147,7 +147,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 8,8 tommer stor
 - touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/screens_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
@@ -167,7 +167,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -228,5 +228,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021.
+Zeekr 001 Privilege AWD hadde sin verdenspremiere den 14.04.2021, med leveranser som startet i October 2021.
 {< pagenavigation b_url="../" b_title="Zeekr 001" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

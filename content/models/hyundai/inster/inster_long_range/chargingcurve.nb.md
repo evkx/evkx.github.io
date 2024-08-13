@@ -13,27 +13,27 @@ navicon: bi-battery-charging
 
 
 <div class="alert alert-primary" role="alert">
-Ladekurven for denne modellen er basert på produsentdata og innsikt i ladeytelsen til lignende batteripakker.
+Ladekurven for denne modellen er avledet fra produsentdata og innsikt i ladeprestasjonen til lignende batteripakker.
 </div>
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>43,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>43,1 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>41,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>41,6 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>52,6 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>52,6 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>64,8 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>64,8 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>1,73</td>
+<td>Maks C-Rate</td><td>1,73</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>1,29</td>
+<td>Gjennomsnittlig C-Rate</td><td>1,29</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>4% - 67%</td>
@@ -42,7 +42,7 @@ Ladekurven for denne modellen er basert på produsentdata og innsikt i ladeytels
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>63,5kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>27m22s</td>
+<td>Optimal ladestopp tid</td><td>27m22s</td>
 </tr>
 </tbody>
 </table>

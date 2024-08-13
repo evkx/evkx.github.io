@@ -208,5 +208,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Rimac Nevera had its world premiere on 01.06.2021, with deliveries starting in January 2023.
+The Rimac Nevera had its world premiere on 01.06.2021, with deliveries starting in January 2023.
 {< pagenavigation b_url="../" b_title="Rimac Nevera" f_url="rangeandconsumption/" f_title="Range" >}

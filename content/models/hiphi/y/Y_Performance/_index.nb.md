@@ -58,7 +58,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på HiPhi Y Performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard-funksjonen på HiPhi Y Performance. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -75,7 +75,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 275/40 dekk på 21" felger
 
-Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av vanlige dører med måketak på andre rad, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av vanlige dører med måketak på andre rad, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) bak. Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 
@@ -132,10 +132,10 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 HiPhi Y Performance inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
-- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Easy Entry-funksjon:** Flytter førersetet for å lette inn- og utstigning.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -150,7 +150,7 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 17,0 tommer stor
 - touch-skjermen foran passasjeren i dashbordet er 15,0 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
 
@@ -170,7 +170,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Lydsystem
 
@@ -229,5 +229,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.04.2023, og leveringene startet i March 2024. Denne modellen har nå blitt avviklet.
+Denne modellen hadde verdenspremiere den 18.04.2023, og leveransene startet i March 2024. Denne modellen er nå avviklet.
 {< pagenavigation b_url="../" b_title="HiPhi Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

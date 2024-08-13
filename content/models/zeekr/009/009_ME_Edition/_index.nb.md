@@ -72,7 +72,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 255/50 dekk på 19" felger
 
-Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
@@ -137,8 +137,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Zeekr 009 ME Edition inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**
 - **Trådløs lading av telefon**
 
@@ -173,7 +173,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -230,5 +230,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.
+Zeekr 009 ME Edition hadde sin verdenspremiere den 14.04.2021, med leveranser som startet i October 2021. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
 {< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

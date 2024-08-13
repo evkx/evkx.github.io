@@ -218,5 +218,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Opel Astra Electric had its world premiere on 06.07.2023, with deliveries starting in November 2023.
+The Opel Astra Electric had its world premiere on 06.07.2023, with deliveries starting in November 2023.
 {< pagenavigation b_url="../" b_title="Opel Astra" f_url="rangeandconsumption/" f_title="Range" >}

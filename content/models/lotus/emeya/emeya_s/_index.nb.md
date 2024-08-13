@@ -58,7 +58,7 @@ Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#mul
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Lotus Emeya S. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
+Dynamisk styring er en standard-funksjonen på Lotus Emeya S. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
 
@@ -111,7 +111,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
@@ -129,8 +129,8 @@ Du kan velge to setetyper for den andre raden i Lotus Emeya S.
 
 Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
 
@@ -148,8 +148,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Lotus Emeya S inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -161,7 +161,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
 - touch-skjermen i dashbordets sentrum er 15,1 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
 
@@ -181,7 +181,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -249,5 +249,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 12.10.2023, og leveringene forventes å starte om March 2024.
+Denne modellen hadde sin verdenspremiere den 12.10.2023, med forventede leveranser som starter i March 2024.
 {< pagenavigation b_url="../" b_title="Lotus Emeya" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

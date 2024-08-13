@@ -111,8 +111,8 @@ Det er ett tilgjengelig klimasystem.
 
 Neta GT 580 AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -126,7 +126,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet integrert i dashbordet er 10,3 tommer stor
 - touch-skjermen øverst på midtkonsollen er 17,6 tommer stor
 
-Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 
@@ -199,5 +199,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 13.07.2023, og leveringene startet i December 2023. Denne modellen er kun tilgjengelig i Kina.
+Neta GT 580 AWD hadde sin verdenspremiere den 13.07.2023, med leveranser som startet i December 2023. Vær oppmerksom på at denne modellen kun er tilgjengelig i Kina.
 {< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

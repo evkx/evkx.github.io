@@ -60,7 +60,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Styring
 
-Dynamisk styring er standard-funksjonen på Fiat Grande Panda. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+Dynamisk styring er en standard-funksjonen på Fiat Grande Panda. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
 
@@ -170,7 +170,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
 ### Telefonspeiling
 
@@ -228,5 +228,5 @@ Kjøretøyets maksimale vekt er 2030 kg, med en basisvekt på 1429 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 12.07.2024, og leveringene forventes å starte om December 2024.
+Denne modellen hadde sin verdenspremiere den 12.07.2024, med forventede leveranser som starter i December 2024.
 {< pagenavigation b_url="../" b_title="Fiat Grande Panda" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

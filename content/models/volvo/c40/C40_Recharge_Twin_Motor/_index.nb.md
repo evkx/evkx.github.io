@@ -131,8 +131,8 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 
 Volvo C40 Recharge Twin Motor inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
-- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
-- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
 {{<evkxdisplayaddarticle />}}
@@ -221,5 +221,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 18.05.2022, og leveringene startet i August 2022. Denne modellen har nå blitt avviklet. Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).
+Denne modellen hadde verdenspremiere den 18.05.2022, og leveransene startet i August 2022. Denne modellen er nå avviklet. Denne modellen er erstattet av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).
 {< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

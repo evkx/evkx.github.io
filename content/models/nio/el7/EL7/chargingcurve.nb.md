@@ -19,22 +19,22 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>71,7 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>71,7 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>69,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>69,3 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>87,0 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>87,0 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>91,2 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>91,2 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>1,27</td>
+<td>Maks C-Rate</td><td>1,27</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>0,90</td>
+<td>Gjennomsnittlig C-Rate</td><td>0,90</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>1% - 44%</td>
@@ -43,7 +43,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>85,9kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>27m2s</td>
+<td>Optimal ladestopp tid</td><td>27m2s</td>
 </tr>
 </tbody>
 </table>
@@ -377,22 +377,22 @@ Nio EL7 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 <table class="table table-striped border">
 <tbody>
 <tr>
-<td>Gjennomsnittlig ladehastighet 0 - 100 %</td><td>65,3 kW</td>
+<td>Gjennomsnittlig ladehastighet 0 - 100%</td><td>65,3 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-100 %</td><td>66,5 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-100%</td><td>66,5 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-90 %</td><td>83,0 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-90%</td><td>83,0 kW</td>
 </tr>
 <tr>
-<td>Gjennomsnittlig ladehastighet 10-80 %</td><td>87,1 kW</td>
+<td>Gjennomsnittlig ladehastighet 10-80%</td><td>87,1 kW</td>
 </tr>
 <tr>
-<td>Maksimum C-Rate</td><td>1,45</td>
+<td>Maks C-Rate</td><td>1,45</td>
 </tr>
 <tr>
-<td>Gjennomsnitt C-Rate</td><td>1,08</td>
+<td>Gjennomsnittlig C-Rate</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>7% - 74%</td>
@@ -401,7 +401,7 @@ Nio EL7 har batterioppvarming, noe som gjør lading ved en optimal batteritemper
 <td>Optimal ladehastighet inkludert 5 minutters tap</td><td>76,7kW</td>
 </tr>
 <tr>
-<td>Optimal ladestopptid</td><td>37m57s</td>
+<td>Optimal ladestopp tid</td><td>37m57s</td>
 </tr>
 </tbody>
 </table>
