@@ -40,7 +40,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 521 to 447 km (324-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 17.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed at 90 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 53%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 24 minutes and 11 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed of 90 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 53%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 24 minutes and 11 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 56 minutes. This journey would require four charging stops from 6% to 53%, with a total charging time of 97 minutes.
 
@@ -72,7 +72,7 @@ Dynamic steering is an optional feature on the Audi Q4 40 e-tron. Dynamic steeri
 
 ### Brakes
 
-The Audi Q4 40 e-tron uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
+The Audi Q4 40 e-tron uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358 mm.
 
 ### Regenerative Braking
 

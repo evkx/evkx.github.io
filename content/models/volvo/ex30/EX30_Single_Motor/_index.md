@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 51 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 344 km (214 miles), with an energy consumption rate of 14.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 153 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 24 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 56%. This results in an effective charging speed, including time lost, of 84 kW, with each charging session taking about 18 minutes and 15 seconds.
+The vehicle supports fast DC charging with a maximum power of 153 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 24 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 56%. This results in an effective charging speed, including time lost, of 84 kW, with each charging session taking about 18 minutes and 15 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28 kWh/100 km, the trip would take approximately 11 hours and 7 minutes. This journey would require eight charging stops from 3% to 62%, with a total charging time of 167 minutes.
 
@@ -44,7 +44,7 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 333 mm.
 
 ### Regenerative Braking
 

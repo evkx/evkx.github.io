@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BMW i5 eDrive40 Touring delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and reaches a top speed of 193 km/h (120 mph), making it competitive within its class.
+The BMW i5 eDrive40 Touring delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 430 Nm (317 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.1 seconds and reaches a top speed of 193 km/h (120 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 84,4 kWh and a net usable capa
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 560 to 483 km (348-300 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.5 kWh/100 km for the base model and 16.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 106 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 46%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 19 minutes and 21 seconds.
+The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed of 106 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 46%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 19 minutes and 21 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 34 minutes. This journey would require four charging stops from 2% to 45%, with a total charging time of 74 minutes.
 
@@ -68,7 +68,7 @@ Dynamic steering is a standard feature on the BMW i5 eDrive40 Touring. Dynamic s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 348mm, and the rear discs are 345mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 348 mm, and the rear discs are 345 mm.
 
 ### Regenerative Braking
 

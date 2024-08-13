@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 60 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 513 km (319 miles), with an energy consumption rate of 11.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 78 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 49%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 20 minutes and 31 seconds.
+The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 70 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed of 78 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 49%. This results in an effective charging speed, including time lost, of 83 kW, with each charging session taking about 20 minutes and 31 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 17 kWh/100 km, the trip would take approximately 9 hours and 41 minutes. This journey would require four charging stops from 3% to 51%, with a total charging time of 82 minutes.
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Tesla Model 3. Dynamic steering va
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
 
 ### Regenerative Braking
 

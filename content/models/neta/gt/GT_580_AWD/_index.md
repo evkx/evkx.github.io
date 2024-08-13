@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The Neta GT 580 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 620 Nm (458 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 78 kWh and a net usable capaci
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 580 km ( miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 102 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 76%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 36 minutes and 6 seconds.
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed of 102 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 76%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 36 minutes and 6 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 3 minutes. This journey would require three charging stops from 5% to 74%, with a total charging time of 104 minutes.
 

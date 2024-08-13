@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Chevrolet Silverado EV 3WT delivers a solid performance with a maximum power of 375 kW (510 hp / 503 bhp) and a total torque of 834 Nm (615 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 170 km/h (106 mph), making it competitive within its class.
+The Chevrolet Silverado EV 3WT delivers a solid performance with a maximum power of 375 kW (510 hp / 503 bhp) and a total torque of 834 Nm (615 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 170 km/h (106 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 200 kWh and a net usable capac
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 393 miles (632 km) with an energy consumption rate of 2.1 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 124 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed at 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 240 kW, with each charging session taking about 29 minutes and 2 seconds. This efficient charging capability makes the Chevrolet Silverado EV 3WT a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 124 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed of 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 240 kW, with each charging session taking about 29 minutes and 2 seconds. This efficient charging capability makes the Chevrolet Silverado EV 3WT a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 35 kWh/100 km, the trip would take approximately 9 hours and 1 minutes. This journey would require two charging stops from 1% to 44%, with a total charging time of 41 minutes.
 
@@ -46,7 +46,7 @@ The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging.
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 

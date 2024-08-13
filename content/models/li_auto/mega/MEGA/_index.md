@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (544 hp / 536 bhp) and a total torque of 542 Nm (400 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (544 hp / 536 bhp) and a total torque of 542 Nm (400 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 102,7 kWh and a net usable cap
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 14.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 520 kW. Charging from 0% to 100% takes approximately 22 minutes, while a more typical charging scenario from 10% to 80% takes 11 minutes with an average charging speed at 397 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 80%. This results in an effective charging speed, including time lost, of 283 kW, with each charging session taking about 17 minutes and 44 seconds. This exceptionally fast charging capability makes the Li Auto MEGA one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 520 kW. Charging from 0% to 100% takes approximately 22 minutes, while a more typical charging scenario from 10% to 80% takes 11 minutes with an average charging speed of 397 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 80%. This results in an effective charging speed, including time lost, of 283 kW, with each charging session taking about 17 minutes and 44 seconds. This exceptionally fast charging capability makes the Li Auto MEGA one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 8 hours and 48 minutes. This journey would require two charging stops from 2% to 67%, with a total charging time of 28 minutes.
 
@@ -46,7 +46,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -62,7 +62,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533 mm, and the rear discs are 457 mm.
 
 ### Regenerative Braking
 

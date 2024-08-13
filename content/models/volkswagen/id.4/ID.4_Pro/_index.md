@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Volkswagen ID.4 Pro delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
+The Volkswagen ID.4 Pro delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 529 km (329 miles), with an energy consumption rate of 14.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 114 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 71%. This results in an effective charging speed, including time lost, of 99 kW, with each charging session taking about 29 minutes and 20 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed of 114 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 71%. This results in an effective charging speed, including time lost, of 99 kW, with each charging session taking about 29 minutes and 20 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21.5 kWh/100 km, the trip would take approximately 9 hours and 43 minutes. This journey would require three charging stops from 8% to 68%, with a total charging time of 84 minutes.
 
@@ -64,7 +64,7 @@ Dynamic steering is an optional feature on the Volkswagen ID.4 Pro. Dynamic stee
 
 ### Brakes
 
-The Volkswagen ID.4 Pro uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
+The Volkswagen ID.4 Pro uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358 mm.
 
 ### Regenerative Braking
 

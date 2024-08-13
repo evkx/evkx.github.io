@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 hp / 483 bhp) and a total torque of 720 Nm (531 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 hp / 483 bhp) and a total torque of 720 Nm (531 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 106 kWh and a net usable capac
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 20.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 60 minutes with an average charging speed at 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 15% to 83%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 63 minutes and 34 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 60 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 15% to 83%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 63 minutes and 34 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 38 minutes. This journey would require two charging stops from 10% to 85%, with a total charging time of 139 minutes.
 
@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 

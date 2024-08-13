@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The BYD Seal AWD delivers a solid performance with a maximum power of 390 kW (530 hp / 523 bhp) and a total torque of 670 Nm (494 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 85,4 kWh and a net usable capa
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 99 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 20 minutes and 35 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed of 99 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 20 minutes and 35 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23.5 kWh/100 km, the trip would take approximately 9 hours and 50 minutes. This journey would require five charging stops from 8% to 45%, with a total charging time of 91 minutes.
 

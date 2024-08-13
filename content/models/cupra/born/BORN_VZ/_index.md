@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The CUPRA BORN VZ delivers a solid performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 545 Nm (402 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The CUPRA BORN VZ delivers a solid performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 545 Nm (402 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 13.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 19 minutes and 4 seconds.
+The vehicle supports fast DC charging with a maximum power of 175 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed of 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 19 minutes and 4 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 43 minutes. This journey would require four charging stops from 2% to 47%, with a total charging time of 84 minutes.
 
@@ -62,7 +62,7 @@ Dynamic steering is an optional feature on the CUPRA BORN VZ. Dynamic steering v
 
 ### Brakes
 
-The CUPRA BORN VZ uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 330mm.
+The CUPRA BORN VZ uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 330 mm.
 
 ### Regenerative Braking
 

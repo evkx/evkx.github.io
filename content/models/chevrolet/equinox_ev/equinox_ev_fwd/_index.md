@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 89 kWh and a net usable capaci
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 319 miles (513 km) with an energy consumption rate of 3.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 58%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 26 minutes and 23 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed of 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 58%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 26 minutes and 23 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 59 minutes. This journey would require four charging stops from 6% to 55%, with a total charging time of 100 minutes.
 
@@ -58,7 +58,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 321mm, and the rear discs are 345mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 321 mm, and the rear discs are 345 mm.
 
 ### Regenerative Braking
 

@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 504 km (313 miles), with an energy consumption rate of 15.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 19 minutes and 43 seconds.
+The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed of 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 19 minutes and 43 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 51 minutes. This journey would require five charging stops from 2% to 42%, with a total charging time of 91 minutes.
 
@@ -66,7 +66,7 @@ Dynamic steering is an optional feature on the SKODA Enyaq iV80x. Dynamic steeri
 
 ### Brakes
 
-The SKODA Enyaq iV80x uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
+The SKODA Enyaq iV80x uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358 mm.
 
 ### Regenerative Braking
 

@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Mercedes-EQ EQS 450+ delivers a solid performance with a maximum power of 265 kW (360 hp / 355 bhp) and a total torque of 800 Nm (590 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Mercedes-EQ EQS 450+ delivers a solid performance with a maximum power of 265 kW (360 hp / 355 bhp) and a total torque of 800 Nm (590 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 120 kWh and a net usable capac
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 783 to 642 km (487-399 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.8 kWh/100 km for the base model and 16.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 210 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 30 minutes with an average charging speed at 153 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 57%. This results in an effective charging speed, including time lost, of 142 kW, with each charging session taking about 26 minutes and 41 seconds. This efficient charging capability makes the Mercedes-EQ EQS 450+ a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 210 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 30 minutes with an average charging speed of 153 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 57%. This results in an effective charging speed, including time lost, of 142 kW, with each charging session taking about 26 minutes and 41 seconds. This efficient charging capability makes the Mercedes-EQ EQS 450+ a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.8 kWh/100 km, the trip would take approximately 8 hours and 59 minutes. This journey would require two charging stops from 1% to 43%, with a total charging time of 40 minutes.
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQS 450+. Dynamic stee
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415 mm, and the rear discs are 378 mm.
 
 ### Regenerative Braking
 

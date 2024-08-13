@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 105 kWh and a net usable capac
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 507 to 435 km (315-270 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.1 kWh/100 km for the base model and 22.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds. This exceptionally fast charging capability makes the Porsche Taycan Turbo Sport Turismo (GEN1) one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed of 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds. This exceptionally fast charging capability makes the Porsche Taycan Turbo Sport Turismo (GEN1) one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 55 minutes. This journey would require two charging stops from 1% to 65%, with a total charging time of 35 minutes.
 
@@ -44,7 +44,7 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 ### Charge Port
 
-The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [left front side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [left front side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and [**TYPE2**](../../../../technology/charging/connectors/#type-2) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Porsche Taycan Turbo Sport Turismo
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410 mm, and the rear discs are 365 mm.
 
 ### Regenerative Braking
 

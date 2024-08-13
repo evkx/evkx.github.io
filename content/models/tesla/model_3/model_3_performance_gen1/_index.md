@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Tesla Model 3 Performance (GEN1) delivers a solid performance with a maximum power of 377 kW (513 hp / 506 bhp) and a total torque of 660 Nm (487 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.4 seconds and reaches a top speed of 261 km/h (162 mph), making it competitive within its class.
+The Tesla Model 3 Performance (GEN1) delivers a solid performance with a maximum power of 377 kW (513 hp / 506 bhp) and a total torque of 660 Nm (487 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.4 seconds and reaches a top speed of 261 km/h (162 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 547 km (340 miles), with an energy consumption rate of 13.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 67 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 43%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 15 minutes and 33 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 67 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed of 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 43%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 15 minutes and 33 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 17.5 kWh/100 km, the trip would take approximately 9 hours and 12 minutes. This journey would require four charging stops from 5% to 39%, with a total charging time of 52 minutes.
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Tesla Model 3 Performance (GEN1). 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 355 mm.
 
 ### Regenerative Braking
 

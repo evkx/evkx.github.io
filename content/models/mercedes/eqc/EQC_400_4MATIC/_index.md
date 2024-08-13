@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Mercedes-EQ EQC 400 4MATIC delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 760 Nm (561 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.1 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Mercedes-EQ EQC 400 4MATIC delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 760 Nm (561 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.1 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 86 kWh and a net usable capaci
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 432 to 400 km (269-249 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 18.5 kWh/100 km for the base model and 20.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 112 kW. Charging from 0% to 100% takes approximately 67 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed at 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 67%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 35 minutes and 30 seconds.
+The vehicle supports fast DC charging with a maximum power of 112 kW. Charging from 0% to 100% takes approximately 67 minutes, while a more typical charging scenario from 10% to 80% takes 37 minutes with an average charging speed of 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 67%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 35 minutes and 30 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 26 minutes. This journey would require four charging stops from 8% to 62%, with a total charging time of 127 minutes.
 

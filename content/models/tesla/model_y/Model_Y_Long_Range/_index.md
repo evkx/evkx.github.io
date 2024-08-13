@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Tesla Model Y Long Range delivers a solid performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
+The Tesla Model Y Long Range delivers a solid performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 542 to 533 km (337-331 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 33 minutes with an average charging speed at 101 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 17 minutes and 8 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 33 minutes with an average charging speed of 101 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 45%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 17 minutes and 8 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 23 minutes. This journey would require four charging stops from 5% to 42%, with a total charging time of 64 minutes.
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Tesla Model Y Long Range. Dynamic 
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 335mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355 mm, and the rear discs are 335 mm.
 
 ### Regenerative Braking
 

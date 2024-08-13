@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-With overboost, the Porsche Macan 4S reaches a maximum power of 380 kW (517 hp / 510 bhp). Without overboost, it delivers 330 kW (449 hp / 443 bhp). The maximum torque is 820 Nm (605 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.1 seconds and reaches a top speed of 240 km/h (149 mph), demonstrating its solid performance.
+With overboost, the Porsche Macan 4S reaches a maximum power of 380 kW (517 hp / 510 bhp). Without overboost, it delivers 330 kW (449 hp / 443 bhp). The maximum torque is 820 Nm (605 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.1 seconds and reaches a top speed of 240 km/h (149 mph), demonstrating its solid performance.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 100 kWh and a net usable capac
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 609 to 512 km (379-318 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.6 kWh/100 km for the base model and 18.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 64%. This results in an effective charging speed, including time lost, of 171 kW, with each charging session taking about 21 minutes and 56 seconds. This efficient charging capability makes the Porsche Macan 4S a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed of 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 64%. This results in an effective charging speed, including time lost, of 171 kW, with each charging session taking about 21 minutes and 56 seconds. This efficient charging capability makes the Porsche Macan 4S a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 3 minutes. This journey would require two charging stops from 1% to 67%, with a total charging time of 44 minutes.
 
@@ -46,7 +46,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and [**TYPE2**](../../../../technology/charging/connectors/#type-2) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -64,7 +64,7 @@ Dynamic steering is a standard feature on the Porsche Macan 4S. Dynamic steering
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410 mm, and the rear discs are 365 mm.
 
 ### Regenerative Braking
 

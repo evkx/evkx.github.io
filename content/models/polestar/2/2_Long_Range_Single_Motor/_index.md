@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Polestar 2 Long Range Single Motor delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 490 Nm (362 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and reaches a top speed of 205 km/h (127 mph), making it competitive within its class.
+The Polestar 2 Long Range Single Motor delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 490 Nm (362 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and reaches a top speed of 205 km/h (127 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 82 kWh and a net usable capaci
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 635 to 591 km (395-367 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.4 kWh/100 km for the base model and 13.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed at 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 120 kW, with each charging session taking about 19 minutes and 24 seconds.
+The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed of 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 120 kW, with each charging session taking about 19 minutes and 24 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21.5 kWh/100 km, the trip would take approximately 9 hours and 29 minutes. This journey would require three charging stops from 1% to 59%, with a total charging time of 70 minutes.
 
@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 

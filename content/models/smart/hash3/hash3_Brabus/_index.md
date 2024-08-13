@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Smart #3 Brabus delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 543 Nm (401 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
+The Smart #3 Brabus delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 543 Nm (401 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 66 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 415 km (258 miles), with an energy consumption rate of 14.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 30 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 54%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 20 minutes and 29 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 30 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 5% to 54%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 20 minutes and 29 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23.7 kWh/100 km, the trip would take approximately 10 hours and 20 minutes. This journey would require six charging stops from 5% to 53%, with a total charging time of 120 minutes.
 
@@ -46,7 +46,7 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -60,7 +60,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350 mm, and the rear discs are 333 mm.
 
 ### Regenerative Braking
 

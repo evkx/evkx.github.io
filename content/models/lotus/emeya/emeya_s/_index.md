@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 102 kWh and a net usable capac
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 610 to 500 km (379-311 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.4 kWh/100 km for the base model and 20.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical charging scenario from 10% to 80% takes 14 minutes with an average charging speed at 305 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 232 kW, with each charging session taking about 18 minutes and 53 seconds. This exceptionally fast charging capability makes the Lotus Emeya S one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical charging scenario from 10% to 80% takes 14 minutes with an average charging speed of 305 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 232 kW, with each charging session taking about 18 minutes and 53 seconds. This exceptionally fast charging capability makes the Lotus Emeya S one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 27 kWh/100 km, the trip would take approximately 9 hours and 4 minutes. This journey would require three charging stops from 4% to 61%, with a total charging time of 45 minutes.
 
@@ -62,7 +62,7 @@ Dynamic steering is a standard feature on the Lotus Emeya S. Dynamic steering va
 
 ### Brakes
 
-You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm.
+You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412 mm, and the rear discs are 397 mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412 mm, and the rear discs are 397 mm.
 
 ### Regenerative Braking
 

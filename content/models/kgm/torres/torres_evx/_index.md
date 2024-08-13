@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 75 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 462 km (287 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 95 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 64%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 30 minutes and 16 seconds.
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 82 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed of 95 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 64%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 30 minutes and 16 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 10 hours and 25 minutes. This journey would require four charging stops from 1% to 65%, with a total charging time of 125 minutes.
 
@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and [**TYPE2**](../../../../technology/charging/connectors/#type-2) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -58,7 +58,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 260mm, and the rear discs are 260mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 260 mm, and the rear discs are 260 mm.
 
 ### Regenerative Braking
 

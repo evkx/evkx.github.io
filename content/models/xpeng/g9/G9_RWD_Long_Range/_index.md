@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The XPENG G9 RWD Long Range delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 430 Nm (317 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The XPENG G9 RWD Long Range delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 430 Nm (317 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 98 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 16.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 207 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 60%. This results in an effective charging speed, including time lost, of 169 kW, with each charging session taking about 18 minutes and 36 seconds. This exceptionally fast charging capability makes the XPENG G9 RWD Long Range one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed of 207 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 60%. This results in an effective charging speed, including time lost, of 169 kW, with each charging session taking about 18 minutes and 36 seconds. This exceptionally fast charging capability makes the XPENG G9 RWD Long Range one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 15 minutes. This journey would require three charging stops from 7% to 63%, with a total charging time of 56 minutes.
 

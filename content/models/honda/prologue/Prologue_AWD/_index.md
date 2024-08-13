@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Honda Prologue AWD delivers a solid performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
+The Honda Prologue AWD delivers a solid performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -35,7 +35,7 @@ The high-capacity battery has a gross capacity of 89 kWh and a net usable capaci
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 281 to 273 miles (452-439 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 3.3 mi/kWh for the base model and 3.2 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 25 minutes and 56 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed of 113 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 56%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 25 minutes and 56 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 57 minutes. This journey would require four charging stops from 6% to 55%, with a total charging time of 98 minutes.
 
@@ -61,7 +61,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396mm, and the rear discs are 343mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396 mm, and the rear discs are 343 mm.
 
 ### Regenerative Braking
 

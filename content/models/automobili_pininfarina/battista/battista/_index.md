@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 120 kWh and a net usable capac
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 490 km (305 miles), with an energy consumption rate of 21.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 500 kW. Charging from 0% to 100% takes approximately 34 minutes, while a more typical charging scenario from 10% to 80% takes 16 minutes with an average charging speed at 274 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 71%. This results in an effective charging speed, including time lost, of 222 kW, with each charging session taking about 20 minutes and 54 seconds. This exceptionally fast charging capability makes the Automobili Pininfarina Battista one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 500 kW. Charging from 0% to 100% takes approximately 34 minutes, while a more typical charging scenario from 10% to 80% takes 16 minutes with an average charging speed of 274 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 71%. This results in an effective charging speed, including time lost, of 222 kW, with each charging session taking about 20 minutes and 54 seconds. This exceptionally fast charging capability makes the Automobili Pininfarina Battista one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 8 hours and 56 minutes. This journey would require two charging stops from 3% to 66%, with a total charging time of 37 minutes.
 
@@ -44,7 +44,7 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -72,7 +72,7 @@ The Automobili Pininfarina Battista lets the user select different [drive modes]
 
 ### Brakes
 
-The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390mm, and the rear discs are 390mm.
+The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390 mm, and the rear discs are 390 mm.
 
 ### Regenerative Braking
 

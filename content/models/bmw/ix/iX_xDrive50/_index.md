@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BMW iX xDrive50 delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 765 Nm (565 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The BMW iX xDrive50 delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 765 Nm (565 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 111 kWh and a net usable capac
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 631 to 550 km (392-342 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.7 kWh/100 km for the base model and 19.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed at 141 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 53%. This results in an effective charging speed, including time lost, of 135 kW, with each charging session taking about 23 minutes and 25 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed of 141 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 53%. This results in an effective charging speed, including time lost, of 135 kW, with each charging session taking about 23 minutes and 25 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 24 minutes. This journey would require three charging stops from 4% to 50%, with a total charging time of 65 minutes.
 

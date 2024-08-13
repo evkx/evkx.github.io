@@ -26,7 +26,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The VinFast VF8 Eco delivers a solid performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The VinFast VF8 Eco delivers a solid performance with a maximum power of 260 kW (354 hp / 349 bhp) and a total torque of 500 Nm (369 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 94 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 471 km (293 miles), with an energy consumption rate of 18.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 105 minutes, while a more typical charging scenario from 10% to 80% takes 44 minutes with an average charging speed at 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 40 minutes and 4 seconds.
+The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 105 minutes, while a more typical charging scenario from 10% to 80% takes 44 minutes with an average charging speed of 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 11% to 70%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 40 minutes and 4 seconds.
 
 ### Onboard Charger
 
@@ -64,7 +64,7 @@ The VinFast VF8 Eco lets the user select different [drive modes](../../../../tec
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 341mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375 mm, and the rear discs are 341 mm.
 
 ### Regenerative Braking
 

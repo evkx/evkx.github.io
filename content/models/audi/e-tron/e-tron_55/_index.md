@@ -32,7 +32,7 @@ This model has been replaced by [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55
 
 ## Performance
 
-With overboost, the Audi e-tron 55 reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 265 kW (360 hp / 355 bhp). The maximum torque is 664 Nm (490 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
+With overboost, the Audi e-tron 55 reaches a maximum power of 300 kW (408 hp / 402 bhp). Without overboost, it delivers 265 kW (360 hp / 355 bhp). The maximum torque is 664 Nm (490 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
 
 ## Battery, Range, and Charging
 
@@ -40,7 +40,7 @@ The high-capacity battery has a gross capacity of 95 kWh and a net usable capaci
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 441 to 369 km (274-229 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.5 kWh/100 km for the base model and 23.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 44 minutes, while a more typical charging scenario from 10% to 80% takes 26 minutes with an average charging speed at 139 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 81%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 34 minutes and 14 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 44 minutes, while a more typical charging scenario from 10% to 80% takes 26 minutes with an average charging speed of 139 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 81%. This results in an effective charging speed, including time lost, of 118 kW, with each charging session taking about 34 minutes and 14 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 27.5 kWh/100 km, the trip would take approximately 9 hours and 57 minutes. This journey would require three charging stops from 6% to 80%, with a total charging time of 98 minutes.
 
@@ -50,7 +50,7 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 ### Charge Port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and [**TYPE2**](../../../../technology/charging/connectors/#type-2) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -82,7 +82,7 @@ The Audi e-tron 55 lets the user select different [drive modes](../../../../tech
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375 mm, and the rear discs are 350 mm.
 
 ### Regenerative Braking
 
