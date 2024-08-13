@@ -6,96 +6,90 @@ weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
 
-It uses a high-power DC (Direct Current) to deliver up to 1000 volts and 250 amps. High-speed charging can add up to 200 miles of range in just 20 to 30 minutes, so it can quickly replenish an EV battery for long-distance driving.
+DC Fast Charging uses high-power direct current (DC) to deliver up to 1000 volts and 650 amps. This high-speed charging can add up to 200 miles of range in just 10 to 30 minutes, making it ideal for long-distance driving.
 
 {{< sitefiguresized thumb="technology/charging/ontheroadcharging/charging_1_st.jpg" width="3000" height="2001" title="BMW i4 M50 DC Fast charging" >}}
 
-## DC Fast Charging availability
+## DC Fast Charging Availability
 
-DC fast charging can be easy, available, complex, and challenging, depending on where you live and which car you drive. Some areas have very few chargers and require planning to create a route with charging, while others have many chargers where you can stop and charge when needed.
+The availability of DC fast charging varies significantly depending on your location and the type of EV you drive. Some areas have numerous chargers, making it easy to find a station, while others have sparse coverage, requiring careful route planning.
 
-This availability can vary very much between the brands. While Tesla has superchargers in many areas finding a charging station with Chademo plug for your Nissan Leaf is almost impossible.
+Availability also varies by brand. For example, Tesla has an extensive Supercharger network, while finding a CHAdeMO plug for a Nissan Leaf can be challenging.
 
-Below you see all charger locations for [Electrify America](https://www.electrifyamerica.com/locate-charger/), some very dense areas, whereas, in other areas, there are many miles/km between the chargers.
+Below is a map showing the charger locations for [Electrify America](https://www.electrifyamerica.com/locate-charger/), highlighting areas with dense coverage and those with fewer chargers.
 
-{{< sitefiguresized thumb="technology/charging/ontheroadcharging/chargermap_st.jpg" width="2392" height="1160" title="Electrify America charging location map June 10. 2023" >}}
+{{< sitefiguresized thumb="technology/charging/ontheroadcharging/chargermap_st.jpg" width="2392" height="1160" title="Electrify America charging location map June 10, 2023" >}}
 
-## DC Fast Charging performance
+## DC Fast Charging Performance
 
-The charging speed can also vary wildly between EV models, charging stations, and even between charging sessions.
+Charging speed can vary widely between EV models, charging stations, and even individual charging sessions. Two primary factors influence this variability:
 
-There are two typical reasons the charging speed varies between two charging sessions for the same EV on the same charger.
+### Battery Temperature
 
-### The battery temperature
+Battery temperature is crucial for charging speed. The optimal temperature range is typically 25-35 degrees Celsius. If the battery is too cold, the Battery Management System (BMS) will reduce the charging speed to protect the battery, potentially lowering the rate to 25% of the optimal speed.
 
-The battery temperature is the most critical factor in battery charging speed. The optimum battery temperature is typically 25-35 degrees. If the temperature is too low, the BMS Will lower the charging speed to protect the battery. It could give you down to only 25% of the optimal rate.
+Many EVs now include battery heating systems that can be activated when navigating to a charger or manually triggered.
 
-Many EVs have now added battery heating that can be activated when navigating to a charger through the navigation system or manually triggering it.
+### Charging Curve
 
-### The charging curve
+The charging curve describes how fast an EV can charge at different states of charge (SoC). This curve is usually not flat, meaning the charging speed at 10% SoC differs from that at 80% SoC.
 
-The charging curve describes how fast an EV can charge for a given state of charge percent. Typically this charge curve is not flat, meaning at a 10% state of charge, the charging speed is different than at 80%.
+Charging curves vary significantly between models. Some EVs maintain a high charging speed up to 80% SoC, while others experience a steep drop-off. Maximum speeds can range from below 100 kW to over 300 kW.
 
-How the charge curve looks varies vastly between models. Some can have a flat curve up to 80%, while others have a deep dive in step from a low state of charge. The max speed varies from below 100KW to above 300KW between the models.
-
-Below you see the charging curve for Lucid Air Dream Edition Performance. The charging curve has a deep dive from early on. Charging 30% from 50-80% takes 20 minutes, while charging 30% from 5%-35% takes only 9 minutes.
+Below is the charging curve for the Lucid Air Dream Edition Performance. Note the steep decline in charging speed as the SoC increases. Charging from 50% to 80% takes 20 minutes, while charging from 5% to 35% takes only 9 minutes.
 
 <img src="/images/models/lucid/air/air_dream_edition_performance/chargingcurve.svg" class="img-fluid">
 
-If you need to keep the charging stops as short as possible, identify the optimal charging area for your EV. EVKX.net helps you with that. We have detailed charging performance information for every model in our [EV database](/evsearch/), with charging curves and calculating optimum charging stops for the different models.
+To minimize charging time, identify the optimal charging range for your EV. EVKX.net provides detailed charging performance information for various models, including charging curves and optimal charging stops.
 
-## Route planning with charging
+## Route Planning with Charging
 
-Most EVs offer route planning functionality, including DC Fast charging stops to reach the destination. This route planning is part of the  [Navigation system](../../infotainment/navigation/).
+Most EVs offer route planning features that include DC fast charging stops to reach your destination. This functionality is part of the [navigation system](../../infotainment/navigation/).
 
-Typical you would see the expected arrival charge level for charging stations and how much you need to charge to reach the next charging station
+Typically, you can see the expected arrival charge level at charging stations and how much you need to charge to reach the next station.
 
-## Plug&Charge
+## Plug & Charge
 
-One of the main challenges that EV drivers face is the convenience and security of charging their vehicles. Currently, most EV drivers need an RFID card, an app, or a contactless payment method to initiate a charging session at a public charging station. This can be cumbersome and time-consuming, especially if multiple charging networks have different payment systems and authentication methods.
+One of the main challenges EV drivers face is the convenience and security of charging. Currently, most EV drivers need an RFID card, an app, or a contactless payment method to initiate a charging session at a public station. This can be cumbersome, especially with multiple charging networks requiring different payment systems.
 
-However, a new technology promises to make EV charging much more accessible and safer: plug and charge. Plug and charge is a feature of the international standard ISO 15118, which defines the communication protocol between EVs and charging stations. With plug and charge, EV drivers can plug their vehicles into a compatible charging station, and the charging session will start automatically without any additional steps or devices.
+Plug and charge, a feature of the international standard ISO 15118, simplifies this process. With plug and charge, drivers can plug their vehicles into a compatible station, and the session will start automatically without additional steps.
 
-### How does plug and charge work?
+### How Does Plug and Charge Work?
 
-Plug and charge uses cryptographic certificates to identify and authenticate the EV and charging stations. These certificates are issued by trusted authorities and stored in secure hardware modules inside the EV and the charging station. When an EV is plugged into a charging station that supports plug and charge, they exchange their certificates and establish a secure communication link. The charging station then verifies the EV’s identity and authorizes the charging session based on the EV’s contract with its mobility service provider (MSP). The MSP is the entity that provides the EV driver with access to charging services and handles the billing and payment.
+Plug and charge use cryptographic certificates to identify and authenticate the EV and charging station. These certificates are issued by trusted authorities and stored in secure hardware modules inside the EV and station. When an EV is plugged into a compatible station, they exchange certificates and establish a secure communication link. The station then verifies the EV’s identity and authorizes the session based on the EV’s contract with its mobility service provider (MSP).
 
-The plug and charge process ensures confidentiality, data integrity, and authenticity of the communication between the EV and the charging station. It also enables dynamic tariffing, load balancing, smart grid integration, and remote firmware updates. Plug and charge can be used for both AC and DC charging and wireless charging.
+This process ensures confidentiality, data integrity, and authenticity. It also enables dynamic tariffing, load balancing, smart grid integration, and remote firmware updates. Plug and charge can be used for AC, DC, and wireless charging.
 
-[Hubject](https://www.hubject.com/) is the company that manages certificats based on the protoll.
+[Hubject](https://www.hubject.com/) manages the certificates based on this protocol.
 
-## Most common charging networks by location
+## Major Charging Networks by Location
 
 ### USA
 
-There are several charging networks in the US for EVs. According to the US Department of Energy, Tesla has over **1,600 Supercharger stations** in the US, with over **17,000 fast-charging ports**. Electrify America is next in line, with about **800 stations**.
+Several major charging networks operate in the US. According to the US Department of Energy, Tesla has over **1,600 Supercharger stations** with more than **17,000 fast-charging ports**. Electrify America follows with about **800 stations**.
 
-Here are some of the largest EV charging networks in the US:
+Some of the largest EV charging networks in the US include:
 
-- [Electrify America](https://www.electrifyamerica.com/): The largest DC fast charging network for the majority of EV models. They're open to all EVs with a CCS charging connection (the industry standard) and, for the time being, the few vehicles that still use CHAdeMO like the Nissan Leaf.
+- [Electrify America](https://www.electrifyamerica.com/): The largest DC fast charging network for most EV models, open to all EVs with a CCS connection and some CHAdeMO vehicles like the Nissan Leaf.
 
 {{< sitefiguresized thumb="technology/charging/ontheroadcharging/teslasupercharger_1_st.jpg" width="3000" height="1948" title="Tesla Supercharger location" >}}
 
-- [Tesla Superchargers](https://www.tesla.com/findus/list/superchargers/United+States): Tesla's Supercharger network is the largest in the country, with less distance between stations compared to Electrify America. Most Superchargers requires NACS Port on the EV, but they are building out chargers with Magic Dock that supports CCS1 EVs. See chargers [here](https://www.tesla.com/findus?v=2&bounds=60.61822541172234%2C-37.567384000000004%2C18.24809425121173%2C-150.067384&zoom=5&filters=party)
+- [Tesla Superchargers](https://www.tesla.com/findus/list/superchargers/United+States): Tesla's network is the largest in the country, with closer station spacing compared to Electrify America. Most Superchargers require a NACS port, but Tesla is adding chargers with Magic Dock to support CCS1 EVs. See chargers [here](https://www.tesla.com/findus?v=2&bounds=60.61822541172234%2C-37.567384000000004%2C18.24809425121173%2C-150.067384&zoom=5&filters=party).
 
-- [EVgo](https://www.evgo.com/): DC fast charging isn't limited to road trips. EVgo has over **800 fast charging locations** across 34 states and more than 65 metropolitan areas.
+- [EVgo](https://www.evgo.com/): EVgo has over **800 fast charging locations** across 34 states and more than 65 metropolitan areas.
 
-- [ChargePoint](https://driver.chargepoint.com/mapCenter/37.26709110057841/-121.95591497824141/18): ChargePoint has over **115,000 charging spots** across North America and Europe¹.
-
+- [ChargePoint](https://driver.chargepoint.com/mapCenter/37.26709110057841/-121.95591497824141/18): ChargePoint has over **115,000 charging spots** across North America and Europe.
 
 ### Europe
 
-There are several charging networks in Europe for EVs. Here are some of the largest EV charging networks in Europe:
+Several major charging networks operate in Europe. Some of the largest include:
 
 {{< sitefiguresized thumb="technology/charging/ontheroadcharging/ionity_1_st.jpg" width="3000" height="2000" title="Ionity charging location" >}}
 
-- Ionity: A high-power charging station network for EVs that enables long-distance travel across Europe. It was founded as a joint venture by the BMW Group, Mercedes-Benz Group, Ford Motor Company, and Volkswagen Group².
+- Ionity: A high-power charging station network for EVs, enabling long-distance travel across Europe. Founded as a joint venture by BMW Group, Mercedes-Benz Group, Ford Motor Company, and Volkswagen Group.
 
-- Plugsurfing: A European-wide network you could use for charging an EV in Europe. With its unique key or card – which costs €9.95 – and its free smartphone app, you can use upwards of 200,000 chargers, including those from different networks such as Allego, EnBW, Eon, Innogy, IONITY and Vattenfall.
+- Plugsurfing: A European-wide network that offers access to over 200,000 chargers, including those from Allego, EnBW, Eon, Innogy, IONITY, and Vattenfall, using a key or card and a free smartphone app.
 
-- Maingau: Through its EinfachStromLaden smartphone app, charging chip or card, you can charge an EV in Germany, Austria or Switzerland at 50,000 charging points with Maingau.
+- Maingau: Through its EinfachStromLaden app, charging chip, or card, Maingau provides access to 50,000 charging points in Germany, Austria, and Switzerland.
 
-<div class="mt-3 mb-3">
-    <a href="../homecharging/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Home Charging</strong></a>
-    <a href="../batteryswap/" class="text-decoration-none text-black float-end"><strong>Battery Swapping <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../homecharging/" b_title="Home Charging" f_url="../batteryswap/" f_title="Battery Swapping" >}}
