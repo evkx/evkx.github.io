@@ -331,4 +331,15 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 31.07.2024 et les livraisons devraient commencer en December 2024.
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Audi A6 Sportback e-tron performance qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
+- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
+- [Mercedes EQE 350+](/models/mercedes/eqe/eqe_350plus/)
+
+<a href="https://db.evkx.net/evcompare?evs=a84ddc%2c4bf8f9%2c719739%2cc5cdde" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}

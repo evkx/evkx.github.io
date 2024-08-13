@@ -30,7 +30,7 @@ Con overboost, el Audi S6 Sportback e-tron alcanza una potencia máxima de 405 k
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 94,9 kWh, proporcionando un buffer de 5,1 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 100,0 kWh y una capacidad neta utilizable de 94,9 kWh, proporcionando un buffer de 5,1 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 675 y 638 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,1 kWh/100 km para el modelo base y 14,9 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -324,4 +324,15 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024.
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Audi S6 Sportback e-tron que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Tesla Model S](/models/tesla/model_s/model_s/)
+- [Mercedes EQE 43 4MATIC](/models/mercedes/eqe/eqe_43_4matic/)
+- [NIO ET7](/models/nio/et7/et7/)
+
+<a href="https://db.evkx.net/evcompare?evs=e097ed%2c3ff79a%2ce18306%2cf86035" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rango" >}}

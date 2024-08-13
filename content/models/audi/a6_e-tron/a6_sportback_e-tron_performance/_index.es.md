@@ -331,4 +331,15 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024.
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Audi A6 Sportback e-tron performance que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
+- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
+- [Mercedes EQE 350+](/models/mercedes/eqe/eqe_350plus/)
+
+<a href="https://db.evkx.net/evcompare?evs=a84ddc%2c4bf8f9%2c719739%2cc5cdde" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rango" >}}

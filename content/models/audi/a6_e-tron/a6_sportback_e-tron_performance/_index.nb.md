@@ -331,4 +331,15 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 ## Tilgjengelighet & pris
 
 Denne modellen hadde sin verdenspremiere den 31.07.2024, med forventede leveranser som starter i December 2024.
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Audi A6 Sportback e-tron performance som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
+- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
+- [Mercedes EQE 350+](/models/mercedes/eqe/eqe_350plus/)
+
+<a href="https://db.evkx.net/evcompare?evs=a84ddc%2c4bf8f9%2c719739%2cc5cdde" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

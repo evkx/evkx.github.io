@@ -331,4 +331,15 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024.
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Audi A6 Sportback e-tron performance som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Volkswagen ID.7 Pro S](/models/volkswagen/id.7/id.7_pro_s/)
+- [BMW i5 eDrive40](/models/bmw/i5/i5_edrive40/)
+- [Mercedes EQE 350+](/models/mercedes/eqe/eqe_350plus/)
+
+<a href="https://db.evkx.net/evcompare?evs=a84ddc%2c4bf8f9%2c719739%2cc5cdde" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

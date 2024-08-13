@@ -337,4 +337,13 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 - ?77 250,00 (Allemagne)
 - 777 900,00 NOK (Norvège)
 
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Audi A6 Avant e-tron performance qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [BMW i5 eDrive40 Touring](/models/bmw/i5/i5_edrive40_touring/)
+- [Volskwagen ID.7 Tourer Pro S](/models/volskwagen/id.7/id.7_tourer_pro_s/)
+
+<a href="https://db.evkx.net/evcompare?evs=c920c2%2c0e264c%2ce954a2" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Plage" >}}
