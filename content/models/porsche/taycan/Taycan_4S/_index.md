@@ -294,11 +294,5 @@ The vehicle’s maximum weight is 2795 kg (6162 lbs), with a base weight of 2075
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/trunk_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="2250"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}

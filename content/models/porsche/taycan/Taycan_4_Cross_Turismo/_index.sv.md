@@ -275,11 +275,5 @@ Fordonets maximala vikt är 2885 kg, med en grundvikt på 2245 kg. Detta tillåt
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1449"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Räckvidd" >}

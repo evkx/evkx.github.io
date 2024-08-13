@@ -223,11 +223,5 @@ El maletero ofrece una capacidad de carga de 503 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2845 kg, con un peso base de 2235 kg. Esto permite una carga máxima de 610 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Genesis GV70 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.
+{< pagenavigation b_url="../" b_title="Genesis GV70" f_url="rangeandconsumption/" f_title="Rango" >}

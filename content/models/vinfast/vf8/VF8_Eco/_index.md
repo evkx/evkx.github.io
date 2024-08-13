@@ -226,11 +226,5 @@ The trunk offers a cargo capacity of 376 liters (13.3 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 3075 kg (6779 lbs), with a base weight of 2600 kg (5732 lbs). This allows for a maximum load of 475 kg (1047 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 475kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+{< pagenavigation b_url="../" b_title="VinFast VF8" f_url="rangeandconsumption/" f_title="Range" >}

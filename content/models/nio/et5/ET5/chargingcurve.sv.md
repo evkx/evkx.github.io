@@ -725,11 +725,5 @@ Nio ET5 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-<a href="../rangeandconsumption/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Räckvidd </strong>
-</a>
-<a href="../specifications/" class="text-decoration-none text-black float-end">
-<strong>Specifikationer <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../rangeandconsumption/" b_title="Räckvidd" f_url="../specifications/" f_title="Specifikationer" >}

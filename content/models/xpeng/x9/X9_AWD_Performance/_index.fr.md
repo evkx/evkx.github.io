@@ -208,11 +208,5 @@ Le coffre offre une capacité de chargement de 755 litres. Avec le siège de la 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> XPENG X9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Ce modèle est uniquement disponible en Chine.
+{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Plage" >}

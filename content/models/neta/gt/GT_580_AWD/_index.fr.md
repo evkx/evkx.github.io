@@ -199,11 +199,5 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 13.07.2023 et les livraisons ont commencé en December 2023. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Neta GT </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Ce modèle a été présenté en première mondiale le 13.07.2023 et les livraisons ont commencé en December 2023. Ce modèle est uniquement disponible en Chine.
+{< pagenavigation b_url="../" b_title="Neta GT" f_url="rangeandconsumption/" f_title="Plage" >}

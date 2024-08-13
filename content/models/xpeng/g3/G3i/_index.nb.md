@@ -184,11 +184,5 @@ Bagasjerommet tilbyr en lastekapasitet på 380 liter. Med baksetene nedfelt, utv
 
 Kjøretøyets maksimale vekt er 2110 kg, med en basisvekt på 1660 kg. Dette gir en maksimal lastekapasitet på 450 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> XPENG G3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+{< pagenavigation b_url="../" b_title="XPENG G3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

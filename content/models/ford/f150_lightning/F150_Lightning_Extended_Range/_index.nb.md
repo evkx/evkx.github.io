@@ -233,11 +233,5 @@ Kjøretøyets maksimale vekt er 3878 kg, med en basisvekt på 2988 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen hadde verdenspremiere 19.05.2021, og leveringene startet i December 2021.
+{< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

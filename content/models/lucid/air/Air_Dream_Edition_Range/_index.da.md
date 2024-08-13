@@ -225,11 +225,5 @@ Køretøjets maksimale vægt er 2850 kg, med en basisvægt på 2360 kg. Dette gi
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/trunk_1_st.jpg" title="Lucid Air Dream Edition Range" width="2000" height="1334"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lucid Air </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Range" >}

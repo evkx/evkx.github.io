@@ -226,11 +226,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Zeekr 007 AWD Performance had its world premiere on 27.12.2023, with deliveries starting in January 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Zeekr 007 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen Zeekr 007 AWD Performance had its world premiere on 27.12.2023, with deliveries starting in January 2024.
+{< pagenavigation b_url="../" b_title="Zeekr 007" f_url="rangeandconsumption/" f_title="Range" >}

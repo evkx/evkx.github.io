@@ -236,11 +236,5 @@ Køretøjets maksimale vægt er 2068 kg, med en basisvægt på 1658 kg. Dette gi
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 0 kg, mens den for en ubremset trailer er 0 kg.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Dolphin </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BYD Dolphin" f_url="rangeandconsumption/" f_title="Range" >}

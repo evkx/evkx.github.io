@@ -291,11 +291,5 @@ Kjøretøyets maksimale vekt er 2545 kg, med en basisvekt på 2000 kg. Dette gir
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/trunk_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW i4 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

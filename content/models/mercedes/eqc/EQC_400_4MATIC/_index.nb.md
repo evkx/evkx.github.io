@@ -206,11 +206,5 @@ Kjøretøyets maksimale vekt er 2940 kg, med en basisvekt på 2420 kg. Dette gir
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1800 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQC </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Mercedes EQC" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

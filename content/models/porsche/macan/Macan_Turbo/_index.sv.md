@@ -266,11 +266,5 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 25.01.2024 och leveranser förväntas starta om August 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 25.01.2024 och leveranser förväntas starta om August 2024.
+{< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Räckvidd" >}

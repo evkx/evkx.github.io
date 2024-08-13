@@ -232,11 +232,5 @@ Le coffre offre une capacité de chargement de 376 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 3075 kg, avec un poids de base de 2600 kg. Cela permet une charge maximale de 475 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 475 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg, tandis que pour une remorque non freinée, il est de 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1800 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+{< pagenavigation b_url="../" b_title="VinFast VF8" f_url="rangeandconsumption/" f_title="Plage" >}

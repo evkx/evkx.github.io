@@ -208,11 +208,5 @@ Bagageutrymmet erbjuder en lastkapacitet på 755 liter. Med tredje raden säten 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
-Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> XPENG X9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell är endast tillgänglig i Kina.
+{< pagenavigation b_url="../" b_title="XPENG X9" f_url="rangeandconsumption/" f_title="Räckvidd" >}

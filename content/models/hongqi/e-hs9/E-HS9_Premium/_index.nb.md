@@ -226,11 +226,5 @@ Bagasjerommet tilbyr en lastekapasitet på 225 liter. Med tredje seterad nedfelt
 
 Kjøretøyets maksimale vekt er 3205 kg, med en basisvekt på 2660 kg. Dette gir en maksimal lastekapasitet på 545 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hongqi E-HS9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
+{< pagenavigation b_url="../" b_title="Hongqi E-HS9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

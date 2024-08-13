@@ -220,11 +220,5 @@ Kjøretøyets maksimale vekt er 2850 kg, med en basisvekt på 2360 kg. Dette gir
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" width="2000" height="1334"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lucid Air </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

@@ -252,11 +252,5 @@ Fordonets maximala vikt är 3190 kg, med en grundvikt på 2637 kg. Detta tillåt
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2500 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/trunk_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Kia EV9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Räckvidd" >}

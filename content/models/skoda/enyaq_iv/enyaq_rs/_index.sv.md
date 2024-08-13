@@ -229,11 +229,5 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.01.2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 01.01.2020 och leveranser startade i March 2021. Denna modell har nu utgått.
+{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Räckvidd" >}

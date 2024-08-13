@@ -231,11 +231,5 @@ Fordonets maximala vikt är 2501 kg, med en grundvikt på 1900 kg. Detta tillåt
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Seal U </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BYD Seal U" f_url="rangeandconsumption/" f_title="Räckvidd" >}

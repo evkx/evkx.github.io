@@ -257,11 +257,5 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.03.2024 och leveranser förväntas starta om May 2024. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Li Auto MEGA </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 01.03.2024 och leveranser förväntas starta om May 2024. Denna modell är endast tillgänglig i Kina.
+{< pagenavigation b_url="../" b_title="Li Auto MEGA" f_url="rangeandconsumption/" f_title="Räckvidd" >}

@@ -232,11 +232,5 @@ The trunk offers a cargo capacity of 367 liters (13.0 CU FT). With the third-row
 The vehicle’s maximum weight is 2245 kg (4949 lbs), with a base weight of 1810 kg (3990 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lexus UX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Range" >}

@@ -210,11 +210,5 @@ Kjøretøyets maksimale vekt er 2900 kg, med en basisvekt på 2355 kg. Dette gir
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1588 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Cadillac OPTIQ </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

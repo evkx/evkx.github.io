@@ -317,11 +317,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Audi A6 e-tron </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å starte om December 2024.
+{< pagenavigation b_url="../" b_title="Audi A6 e-tron" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

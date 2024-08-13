@@ -216,11 +216,5 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 07.04.2022 y se espera que las entregas comiencen en November 2023.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Smart #1 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Este modelo tuvo un estreno mundial el 07.04.2022 y se espera que las entregas comiencen en November 2023.
+{< pagenavigation b_url="../" b_title="Smart #1" f_url="rangeandconsumption/" f_title="Rango" >}

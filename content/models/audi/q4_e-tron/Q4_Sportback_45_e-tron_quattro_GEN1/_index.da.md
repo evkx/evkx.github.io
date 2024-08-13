@@ -284,11 +284,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Audi Q4 Sportback 45 e-tron quattro](/models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro).
+{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Range" >}

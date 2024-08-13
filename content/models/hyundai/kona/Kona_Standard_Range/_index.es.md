@@ -232,11 +232,5 @@ El peso máximo del vehículo es 2110 kg, con un peso base de 1640 kg. Esto perm
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 750 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Kona </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Hyundai Kona" f_url="rangeandconsumption/" f_title="Rango" >}

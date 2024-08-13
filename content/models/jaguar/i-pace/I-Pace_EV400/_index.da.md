@@ -245,11 +245,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 01.03.2018, og leveringerne startede i October 2018.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Jaguar I-Pace </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 01.03.2018, og leveringerne startede i October 2018.
+{< pagenavigation b_url="../" b_title="Jaguar I-Pace" f_url="rangeandconsumption/" f_title="Range" >}

@@ -233,11 +233,5 @@ The vehicle’s maximum weight is 3878 kg (8550 lbs), with a base weight of 2988
 
 ## Availability & Pricing
 
-The Volkswagen Ford F150 Lightning Extended Range had its world premiere on 19.05.2021, with deliveries starting in December 2021.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Ford F150 Lightning </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen Ford F150 Lightning Extended Range had its world premiere on 19.05.2021, with deliveries starting in December 2021.
+{< pagenavigation b_url="../" b_title="Ford F150 Lightning" f_url="rangeandconsumption/" f_title="Range" >}

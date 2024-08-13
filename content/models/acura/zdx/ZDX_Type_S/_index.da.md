@@ -209,11 +209,5 @@ Bagagerummet har en lastekapacitet på 793 liter. Med det bageste sæde foldet n
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1588 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Acura ZDX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Range" >}

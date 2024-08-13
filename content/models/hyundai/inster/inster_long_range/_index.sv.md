@@ -240,11 +240,5 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai INSTER </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta om January 2025.
+{< pagenavigation b_url="../" b_title="Hyundai INSTER" f_url="rangeandconsumption/" f_title="Räckvidd" >}

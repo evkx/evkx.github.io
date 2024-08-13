@@ -284,11 +284,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 15.04.2021, og leveringerne startede i September 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 15.04.2021, og leveringerne startede i September 2021. Denne model er nu udgået.
+{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Range" >}

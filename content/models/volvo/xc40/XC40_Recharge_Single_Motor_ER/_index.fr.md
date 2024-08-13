@@ -217,11 +217,5 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 18.05.2022 et les livraisons ont commencé en August 2022. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volvo XC40 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Ce modèle a été présenté en première mondiale le 18.05.2022 et les livraisons ont commencé en August 2022. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Volvo EX40 Single Motor ER](/models/volvo/ex40/ex40_single_motor_er).
+{< pagenavigation b_url="../" b_title="Volvo XC40" f_url="rangeandconsumption/" f_title="Plage" >}

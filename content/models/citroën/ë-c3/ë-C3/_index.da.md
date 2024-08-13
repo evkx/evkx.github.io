@@ -240,11 +240,5 @@ Køretøjets maksimale vægt er 1910 kg, med en basisvægt på 1416 kg. Dette gi
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 17.10.2023, og leveringer forventes at starte om May 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Citroën ë-C3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 17.10.2023, og leveringer forventes at starte om May 2024.
+{< pagenavigation b_url="../" b_title="Citroën ë-C3" f_url="rangeandconsumption/" f_title="Range" >}

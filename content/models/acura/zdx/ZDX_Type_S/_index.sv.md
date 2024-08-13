@@ -209,11 +209,5 @@ Bagageutrymmet erbjuder en lastkapacitet på 793 liter. Med baksätena nedfälld
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1588 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Acura ZDX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Acura ZDX" f_url="rangeandconsumption/" f_title="Räckvidd" >}

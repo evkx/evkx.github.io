@@ -205,11 +205,5 @@ Fordonets maximala vikt är 2030 kg, med en grundvikt på 1573 kg. Detta tillåt
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Alfa Romeo Junior </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Alfa Romeo Junior" f_url="rangeandconsumption/" f_title="Räckvidd" >}

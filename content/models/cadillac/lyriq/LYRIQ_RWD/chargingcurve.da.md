@@ -363,11 +363,5 @@ Cadillac LYRIQ RWD har batteriopvarmning, hvilket gør opladning ved en optimal 
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-<a href="../rangeandconsumption/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Range </strong>
-</a>
-<a href="../specifications/" class="text-decoration-none text-black float-end">
-<strong>Specifikationer <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}

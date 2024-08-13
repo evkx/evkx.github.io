@@ -218,11 +218,5 @@ El maletero ofrece una capacidad de carga de 670 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 4717 kg, con un peso base de 4103 kg. Esto permite una carga máxima de 614 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3628 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Cadillac ESCALADE </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3628 kg, mientras que para un tráiler sin freno es de 750 kg.
+{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Rango" >}

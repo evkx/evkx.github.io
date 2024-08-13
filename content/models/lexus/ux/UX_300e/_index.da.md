@@ -232,11 +232,5 @@ Bagagerummet har en lastekapacitet på 367 liter. Med det tredje sæderække fol
 Køretøjets maksimale vægt er 2245 kg, med en basisvægt på 1810 kg. Dette giver en maksimal last på 435 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lexus UX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Range" >}

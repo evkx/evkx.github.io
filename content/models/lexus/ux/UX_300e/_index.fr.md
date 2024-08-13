@@ -232,11 +232,5 @@ Le coffre offre une capacité de chargement de 367 litres. Avec le siège de la 
 Le poids maximum du véhicule est de 2245 kg, avec un poids de base de 1810 kg. Cela permet une charge maximale de 435 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lexus UX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Plage" >}

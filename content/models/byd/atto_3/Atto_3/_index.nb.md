@@ -234,11 +234,5 @@ Bagasjerommet tilbyr en lastekapasitet på 440 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 2160 kg, med en basisvekt på 1750 kg. Dette gir en maksimal lastekapasitet på 410 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Atto 3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

@@ -235,11 +235,5 @@ The vehicle’s maximum weight is 2400 kg (5291 lbs), with a base weight of 1842
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 750 kg (1653 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Renault Scenic </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Renault Scenic" f_url="rangeandconsumption/" f_title="Range" >}

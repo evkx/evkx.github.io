@@ -204,11 +204,5 @@ Le coffre offre une capacité de chargement de 300 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 1550 kg, avec un poids de base de 1240 kg. Cela permet une charge maximale de 310 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Seagull </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+{< pagenavigation b_url="../" b_title="BYD Seagull" f_url="rangeandconsumption/" f_title="Plage" >}

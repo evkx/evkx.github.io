@@ -198,11 +198,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen MG Cyberster AWD Long Range had its world premiere on 13.07.2023, with deliveries starting in December 2023.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> MG Cyberster </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen MG Cyberster AWD Long Range had its world premiere on 13.07.2023, with deliveries starting in December 2023.
+{< pagenavigation b_url="../" b_title="MG Cyberster" f_url="rangeandconsumption/" f_title="Range" >}

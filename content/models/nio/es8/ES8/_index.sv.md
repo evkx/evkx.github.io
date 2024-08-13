@@ -258,11 +258,5 @@ Bagageutrymmet erbjuder en lastkapacitet på 310 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 3099 kg, med en grundvikt på 2440 kg. Detta tillåter en maximal last på 659 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Nio ES8 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
+{< pagenavigation b_url="../" b_title="Nio ES8" f_url="rangeandconsumption/" f_title="Räckvidd" >}

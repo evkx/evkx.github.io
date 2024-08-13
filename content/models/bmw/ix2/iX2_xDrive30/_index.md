@@ -246,11 +246,5 @@ The vehicle’s maximum weight is 2605 kg (5743 lbs), with a base weight of 2020
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1200 kg (2646 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/trunk_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW iX2 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW iX2" f_url="rangeandconsumption/" f_title="Range" >}

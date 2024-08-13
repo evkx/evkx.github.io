@@ -271,11 +271,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Porsche Taycan Turbo S Cross Turismo had its world premiere on 07.02.2024, with deliveries starting in June 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen Porsche Taycan Turbo S Cross Turismo had its world premiere on 07.02.2024, with deliveries starting in June 2024.
+{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}

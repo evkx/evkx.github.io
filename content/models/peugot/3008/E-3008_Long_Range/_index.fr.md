@@ -238,11 +238,5 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 12.09.2023 et les livraisons ont commencé en February 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Peugot 3008 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Ce modèle a été présenté en première mondiale le 12.09.2023 et les livraisons ont commencé en February 2024.
+{< pagenavigation b_url="../" b_title="Peugot 3008" f_url="rangeandconsumption/" f_title="Plage" >}

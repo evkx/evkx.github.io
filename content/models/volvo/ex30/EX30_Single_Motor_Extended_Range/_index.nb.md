@@ -225,11 +225,5 @@ Kjøretøyets maksimale vekt er 2235 kg, med en basisvekt på 1755 kg. Dette gir
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1400 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volvo EX30 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Volvo EX30" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

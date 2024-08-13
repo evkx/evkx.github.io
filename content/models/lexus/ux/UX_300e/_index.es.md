@@ -232,11 +232,5 @@ El maletero ofrece una capacidad de carga de 367 litros. Con el asiento de la te
 El peso máximo del vehículo es 2245 kg, con un peso base de 1810 kg. Esto permite una carga máxima de 435 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lexus UX </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lexus UX" f_url="rangeandconsumption/" f_title="Rango" >}

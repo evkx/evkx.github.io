@@ -301,11 +301,5 @@ I det raskt voksende markedet for elbiler har EVKX.net identifisert flere altern
 - [Hyundai Ioniq 5 N](/models/hyundai/ioniq_5/ioniq_5_n/)
 
 <a href="https://db.evkx.net/evcompare?evs=1ee65f%2cf12e3a%2c731dd5%2cc6ae64" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

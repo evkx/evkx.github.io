@@ -232,11 +232,5 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 
 ## Availability & Pricing
 
-The Volkswagen Xiaomi SU7 Pro had its world premiere on 28.12.2023, with deliveries starting in March 2024. Please note that this model is available exclusively in China.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Xiaomi SU7 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen Xiaomi SU7 Pro had its world premiere on 28.12.2023, with deliveries starting in March 2024. Please note that this model is available exclusively in China.
+{< pagenavigation b_url="../" b_title="Xiaomi SU7" f_url="rangeandconsumption/" f_title="Range" >}

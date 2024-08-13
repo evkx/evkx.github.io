@@ -340,11 +340,5 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 - [Skoda ENYAQ 85x](/models/skoda/enyaq_iv/enyaq_85x/)
 
 <a href="https://db.evkx.net/evcompare?evs=fcf585%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Plage" >}

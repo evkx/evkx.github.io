@@ -286,11 +286,5 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tron/q4_45_e-tron_quattro).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 14.04.2021 och leveranser startade i January 2022. Denna modell har nu utgått. Denna modell har ersatts av [Audi Q4 45 e-tron quattro](/models/audi/q4_e-tron/q4_45_e-tron_quattro).
+{< pagenavigation b_url="../" b_title="Audi Q4 e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}

@@ -237,11 +237,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined. This model has been replaced by [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+This model had a world premiere on 01.01.2020, and deliveries started in March 2021. This models has now been discontined. This model has been replaced by [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).
+{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Range" >}

@@ -227,11 +227,5 @@ Bagasjerommet tilbyr en lastekapasitet på 402 liter. I tillegg er det en frunk 
 
 Kjøretøyets maksimale vekt er 2631 kg, med en basisvekt på 2185 kg. Dette gir en maksimal lastekapasitet på 446 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Seal </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
+{< pagenavigation b_url="../" b_title="BYD Seal" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

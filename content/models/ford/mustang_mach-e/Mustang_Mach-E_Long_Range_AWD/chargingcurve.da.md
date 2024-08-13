@@ -363,11 +363,5 @@ Ford Mustang Mach-E Long Range AWD har batteriopvarmning, hvilket gør opladning
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-<a href="../rangeandconsumption/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Range </strong>
-</a>
-<a href="../specifications/" class="text-decoration-none text-black float-end">
-<strong>Specifikationer <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../rangeandconsumption/" b_title="Range" f_url="../specifications/" f_title="Specifikationer" >}

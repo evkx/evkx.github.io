@@ -230,11 +230,5 @@ Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilheng
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.
+{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

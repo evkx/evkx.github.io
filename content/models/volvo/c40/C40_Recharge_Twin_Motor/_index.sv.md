@@ -221,11 +221,5 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 18.05.2022 och leveranser startade i August 2022. Denna modell har nu utgått. Denna modell har ersatts av [Volvo EC40 Twin Motor](/models/volvo/ec40/ec40_twin_motor).
+{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Räckvidd" >}

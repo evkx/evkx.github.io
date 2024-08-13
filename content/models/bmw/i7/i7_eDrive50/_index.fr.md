@@ -260,11 +260,5 @@ Le coffre offre une capacité de chargement de 500 litres.
 
 Le poids maximum du véhicule est de 3130 kg, avec un poids de base de 2520 kg. Cela permet une charge maximale de 610 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg, tandis que pour une remorque non freinée, il est de 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW i7 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2000 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+{< pagenavigation b_url="../" b_title="BMW i7" f_url="rangeandconsumption/" f_title="Plage" >}

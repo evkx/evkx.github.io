@@ -236,11 +236,5 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i August 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> CUPRA BORN </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 20.02.2024, og leveringerne startede i August 2024.
+{< pagenavigation b_url="../" b_title="CUPRA BORN" f_url="rangeandconsumption/" f_title="Range" >}

@@ -227,11 +227,5 @@ The trunk offers a cargo capacity of 402 liters (14.2 CU FT). Additionally, ther
 
 The vehicle’s maximum weight is 2501 kg (5514 lbs), with a base weight of 2155 kg (4751 lbs). This allows for a maximum load of 346 kg (763 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Seal </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+{< pagenavigation b_url="../" b_title="BYD Seal" f_url="rangeandconsumption/" f_title="Range" >}

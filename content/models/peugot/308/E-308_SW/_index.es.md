@@ -212,11 +212,5 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 06.07.2023 y se espera que las entregas comiencen en November 2023.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Peugot 308 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Este modelo tuvo un estreno mundial el 06.07.2023 y se espera que las entregas comiencen en November 2023.
+{< pagenavigation b_url="../" b_title="Peugot 308" f_url="rangeandconsumption/" f_title="Rango" >}

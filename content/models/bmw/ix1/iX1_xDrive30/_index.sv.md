@@ -246,11 +246,5 @@ Fordonets maximala vikt är 2580 kg, med en grundvikt på 2010 kg. Detta tillåt
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1200 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/trunk_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW iX1 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW iX1" f_url="rangeandconsumption/" f_title="Räckvidd" >}

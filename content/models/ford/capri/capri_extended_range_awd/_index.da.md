@@ -245,11 +245,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 11.07.2024, og leveringerne startede i November 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Ford Capri </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 11.07.2024, og leveringerne startede i November 2024.
+{< pagenavigation b_url="../" b_title="Ford Capri" f_url="rangeandconsumption/" f_title="Range" >}

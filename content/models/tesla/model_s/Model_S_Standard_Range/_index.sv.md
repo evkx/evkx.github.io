@@ -235,11 +235,5 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 20.08.2023 och leveranser startade i September 2023. Denna modell har nu utgått.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 20.08.2023 och leveranser startade i September 2023. Denna modell har nu utgått.
+{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Räckvidd" >}

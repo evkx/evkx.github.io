@@ -282,11 +282,5 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 09.02.2021 och leveranser startade i May 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 09.02.2021 och leveranser startade i May 2021. Denna modell har nu utgått.
+{< pagenavigation b_url="../" b_title="Audi e-tron GT" f_url="rangeandconsumption/" f_title="Räckvidd" >}

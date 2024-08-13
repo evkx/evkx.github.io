@@ -232,11 +232,5 @@ Køretøjets maksimale vægt er 2629 kg, med en basisvægt på 2265 kg. Dette gi
 En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 1600, og for en ubremset trailer er det 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Range" >}

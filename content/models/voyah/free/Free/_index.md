@@ -197,11 +197,5 @@ The trunk offers a cargo capacity of 560 liters (19.8 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2945 kg (6493 lbs), with a base weight of 2340 kg (5159 lbs). This allows for a maximum load of 605 kg (1334 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000 kg, and on and unbraked trailer, it is 750 kg (4409/1653 lbs).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> VOYAH FREE </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000 kg, and on and unbraked trailer, it is 750 kg (4409/1653 lbs).
+{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}

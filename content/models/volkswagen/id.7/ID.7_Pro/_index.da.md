@@ -271,11 +271,5 @@ Køretøjets maksimale vægt er 2630 kg, med en basisvægt på 2152 kg. Dette gi
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1000 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volkswagen ID.7 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Volkswagen ID.7" f_url="rangeandconsumption/" f_title="Range" >}

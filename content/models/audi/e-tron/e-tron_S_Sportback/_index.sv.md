@@ -301,11 +301,5 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 19.11.2019 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Audi e-tron </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 19.11.2019 och leveranser startade i May 2020. Denna modell har nu utgått. Denna modell har ersatts av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tron/sq8_sportback_e-tron).
+{< pagenavigation b_url="../" b_title="Audi e-tron" f_url="rangeandconsumption/" f_title="Räckvidd" >}

@@ -210,11 +210,5 @@ The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 2355
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1588 kg (3501 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Cadillac OPTIQ </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Cadillac OPTIQ" f_url="rangeandconsumption/" f_title="Range" >}

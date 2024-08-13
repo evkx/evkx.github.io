@@ -202,11 +202,5 @@ El maletero ofrece una capacidad de carga de 310 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2015 kg, con un peso base de 1523 kg. Esto permite una carga máxima de 492 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Opel Mokka </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+{< pagenavigation b_url="../" b_title="Opel Mokka" f_url="rangeandconsumption/" f_title="Rango" >}

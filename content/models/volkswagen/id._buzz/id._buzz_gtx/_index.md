@@ -256,11 +256,5 @@ The vehicle’s maximum weight is 3000 kg (6614 lbs), with a base weight of 2425
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volkswagen ID. Buzz </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Volkswagen ID. Buzz" f_url="rangeandconsumption/" f_title="Range" >}

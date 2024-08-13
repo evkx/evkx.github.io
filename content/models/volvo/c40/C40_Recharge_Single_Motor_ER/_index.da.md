@@ -221,11 +221,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volvo C40 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 18.05.2022, og leveringerne startede i August 2022. Denne model er nu udgået. Denne model er blevet erstattet af [Volvo EC40 Single Motor ER](/models/volvo/ec40/ec40_single_motor_er).
+{< pagenavigation b_url="../" b_title="Volvo C40" f_url="rangeandconsumption/" f_title="Range" >}

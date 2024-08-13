@@ -225,11 +225,5 @@ Este modelo no est√° disponible con enganche. Por lo tanto, para remolcar un tr√
 
 ## Disponibilidad y precios
 
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> HiPhi Z </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="HiPhi Z" f_url="rangeandconsumption/" f_title="Rango" >}

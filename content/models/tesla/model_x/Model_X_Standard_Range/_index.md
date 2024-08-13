@@ -236,11 +236,5 @@ The vehicle’s maximum weight is 2970 kg (6548 lbs), with a base weight of 2464
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250 kg, and on and unbraked trailer, it is 750 kg (4960/1653 lbs).
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model X </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Range" >}

@@ -252,11 +252,5 @@ Kjøretøyets maksimale vekt er 3190 kg, med en basisvekt på 2637 kg. Dette gir
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2500 kg, mens for en ubremset tilhenger er det 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Kia EV9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Kia EV9" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

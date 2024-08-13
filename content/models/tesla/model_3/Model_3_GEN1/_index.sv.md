@@ -247,11 +247,5 @@ En dragkrok är standardutrustning på denna modell. Den maximala totala vikten 
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått. Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model 3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått. Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).
+{< pagenavigation b_url="../" b_title="Tesla Model 3" f_url="rangeandconsumption/" f_title="Räckvidd" >}

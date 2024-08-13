@@ -232,11 +232,5 @@ El maletero ofrece una capacidad de carga de 376 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 3075 kg, con un peso base de 2600 kg. Esto permite una carga máxima de 475 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 475 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> VinFast VF8 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1800 kg, mientras que para un tráiler sin freno es de 750 kg.
+{< pagenavigation b_url="../" b_title="VinFast VF8" f_url="rangeandconsumption/" f_title="Rango" >}

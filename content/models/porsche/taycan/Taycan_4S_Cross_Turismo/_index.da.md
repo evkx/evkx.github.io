@@ -275,11 +275,5 @@ Køretøjets maksimale vægt er 2885 kg, med en basisvægt på 2245 kg. Dette gi
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="1449"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Range" >}

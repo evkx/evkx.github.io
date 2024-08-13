@@ -291,11 +291,5 @@ Le poids maximum du véhicule est de 2605 kg, avec un poids de base de 2050 kg. 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1600 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW i4 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Plage" >}

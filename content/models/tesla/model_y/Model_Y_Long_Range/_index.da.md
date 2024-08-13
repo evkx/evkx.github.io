@@ -307,11 +307,5 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 - [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
 
 <a href="https://db.evkx.net/evcompare?evs=ad3cd5%2c0cb6ee%2c4899e9%2cb18fdb%2ca1c57c%2c5e9046%2cf8d246%2cfc3b15%2cfd9e1f%2cbf704f" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model Y </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model Y" f_url="rangeandconsumption/" f_title="Range" >}

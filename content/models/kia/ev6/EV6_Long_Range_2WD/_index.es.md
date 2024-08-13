@@ -231,11 +231,5 @@ El peso máximo del vehículo es 2530 kg, con un peso base de 2015 kg. Esto perm
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1600 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Kia EV6 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Rango" >}

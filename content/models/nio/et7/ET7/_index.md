@@ -247,11 +247,5 @@ The trunk offers a cargo capacity of 363 liters (12.8 CU FT). On the roof, you c
 
 The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 2379 kg (5245 lbs). This allows for a maximum load of 521 kg (1149 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Nio ET7 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+{< pagenavigation b_url="../" b_title="Nio ET7" f_url="rangeandconsumption/" f_title="Range" >}

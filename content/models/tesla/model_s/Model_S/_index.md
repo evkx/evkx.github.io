@@ -232,11 +232,5 @@ The vehicle’s maximum weight is 2629 kg (5796 lbs), with a base weight of 2265
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600 kg, and on and unbraked trailer, it is 750 kg (3527/1653 lbs).
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model S </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model S" f_url="rangeandconsumption/" f_title="Range" >}

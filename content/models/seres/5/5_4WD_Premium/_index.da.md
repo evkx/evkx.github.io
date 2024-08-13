@@ -210,11 +210,5 @@ Bagagerummet har en lastekapacitet på 367 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 2735 kg, med en basisvægt på 2360 kg. Dette giver en maksimal last på 375 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 375 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Seres 5 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
+{< pagenavigation b_url="../" b_title="Seres 5" f_url="rangeandconsumption/" f_title="Range" >}

@@ -234,11 +234,5 @@ The trunk offers a cargo capacity of 440 liters (15.5 CU FT). With the rear seat
 The vehicle’s maximum weight is 2160 kg (4762 lbs), with a base weight of 1750 kg (3858 lbs). This allows for a maximum load of 410 kg (904 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Atto 3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BYD Atto 3" f_url="rangeandconsumption/" f_title="Range" >}

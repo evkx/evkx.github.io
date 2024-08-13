@@ -240,11 +240,5 @@ Kjøretøyets maksimale vekt er 2030 kg, med en basisvekt på 1429 kg. Dette gir
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 21.06.2024, og leveringene forventes å starte om September 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Citroën ë-C3 Aircross </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen hadde verdenspremiere 21.06.2024, og leveringene forventes å starte om September 2024.
+{< pagenavigation b_url="../" b_title="Citroën ë-C3 Aircross" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

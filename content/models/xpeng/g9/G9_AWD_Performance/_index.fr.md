@@ -225,11 +225,5 @@ Le poids maximum du véhicule est de 2800 kg, avec un poids de base de 2360 kg. 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> XPENG G9 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="XPENG G9" f_url="rangeandconsumption/" f_title="Plage" >}

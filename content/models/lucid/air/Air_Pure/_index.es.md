@@ -221,11 +221,5 @@ El peso máximo del vehículo es 2850 kg, con un peso base de 2360 kg. Esto perm
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/trunk_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Lucid Air </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Lucid Air" f_url="rangeandconsumption/" f_title="Rango" >}

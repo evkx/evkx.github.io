@@ -227,11 +227,5 @@ Bagasjerommet tilbyr en lastekapasitet på 432 liter. På taket kan du laste opp
 
 Kjøretøyets maksimale vekt er 2610 kg, med en basisvekt på 2020 kg. Dette gir en maksimal lastekapasitet på 590 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Genesis GV60 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1600 kg, mens for en ubremset tilhenger er det 750 kg.
+{< pagenavigation b_url="../" b_title="Genesis GV60" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

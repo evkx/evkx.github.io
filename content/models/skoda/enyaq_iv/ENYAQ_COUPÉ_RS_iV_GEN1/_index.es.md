@@ -237,11 +237,5 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 01.01.2020 y las entregas comenzaron en March 2021. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Este modelo tuvo un estreno mundial el 01.01.2020 y las entregas comenzaron en March 2021. Este modelo ahora ha sido descontinuado. Este modelo ha sido reemplazado por [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv/enyaq_coupé_rs_iv).
+{< pagenavigation b_url="../" b_title="SKODA Enyaq iV" f_url="rangeandconsumption/" f_title="Rango" >}

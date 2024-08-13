@@ -231,11 +231,5 @@ The vehicle’s maximum weight is 2530 kg (5578 lbs), with a base weight of 2015
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/trunk_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Kia EV6 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}

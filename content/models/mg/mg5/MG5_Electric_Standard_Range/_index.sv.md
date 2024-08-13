@@ -198,11 +198,5 @@ Fordonets maximala vikt är 2017 kg, med en grundvikt på 1562 kg. Detta tillåt
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 500 kg, medan för en obromsad släpvagn är den 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/trunk_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="1996"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> MG MG5 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="MG MG5" f_url="rangeandconsumption/" f_title="Räckvidd" >}

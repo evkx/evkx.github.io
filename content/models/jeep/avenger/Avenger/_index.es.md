@@ -203,11 +203,5 @@ El peso máximo del vehículo es 2025 kg, con un peso base de 1520 kg. Esto perm
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Jeep Avenger </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Jeep Avenger" f_url="rangeandconsumption/" f_title="Rango" >}

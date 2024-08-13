@@ -219,11 +219,5 @@ El maletero ofrece una capacidad de carga de 326 litros.
 
 El peso máximo del vehículo es 1780 kg, con un peso base de 1350 kg. Esto permite una carga máxima de 430 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 500 kg, mientras que para un tráiler sin freno es de 500 kg.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Renault 5 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rango <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 500 kg, mientras que para un tráiler sin freno es de 500 kg.
+{< pagenavigation b_url="../" b_title="Renault 5" f_url="rangeandconsumption/" f_title="Rango" >}

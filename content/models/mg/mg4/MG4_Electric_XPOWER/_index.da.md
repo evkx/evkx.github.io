@@ -193,11 +193,5 @@ Køretøjets maksimale vægt er 2133 kg, med en basisvægt på 1715 kg. Dette gi
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 500 kg, mens den for en ubremset trailer er 500 kg.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> MG MG4 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="MG MG4" f_url="rangeandconsumption/" f_title="Range" >}

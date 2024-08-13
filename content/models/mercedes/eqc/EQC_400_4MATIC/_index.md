@@ -207,11 +207,5 @@ The vehicle’s maximum weight is 2940 kg (6482 lbs), with a base weight of 2420
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQC </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Mercedes EQC" f_url="rangeandconsumption/" f_title="Range" >}

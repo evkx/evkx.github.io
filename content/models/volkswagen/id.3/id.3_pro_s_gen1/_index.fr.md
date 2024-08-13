@@ -252,11 +252,5 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remor
 
 ## Disponibilité et prix
 
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volkswagen ID.3 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Volkswagen ID.3" f_url="rangeandconsumption/" f_title="Plage" >}

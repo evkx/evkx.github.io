@@ -209,11 +209,5 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The Volkswagen Chevrolet Silverado EV 3WT had its world premiere on 05.01.2022, with deliveries starting in September 2023. Please note that this model is available exclusively in North America.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Chevrolet Silverado EV </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+The Volkswagen Chevrolet Silverado EV 3WT had its world premiere on 05.01.2022, with deliveries starting in September 2023. Please note that this model is available exclusively in North America.
+{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Range" >}

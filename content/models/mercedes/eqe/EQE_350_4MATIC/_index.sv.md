@@ -274,11 +274,5 @@ Fordonets maximala vikt är 3095 kg, med en grundvikt på 2450 kg. Detta tillåt
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 750 kg, medan för en obromsad släpvagn är den 750 kg.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQE </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Räckvidd <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Mercedes EQE" f_url="rangeandconsumption/" f_title="Räckvidd" >}

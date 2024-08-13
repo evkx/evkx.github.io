@@ -236,11 +236,5 @@ Le poids maximum du véhicule est de 2970 kg, avec un poids de base de 2464 kg. 
 Un attelage est un équipement standard sur ce modèle. Le poids total maximal pour une remorque freinée est de 2250, et pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Tesla Model X </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Tesla Model X" f_url="rangeandconsumption/" f_title="Plage" >}

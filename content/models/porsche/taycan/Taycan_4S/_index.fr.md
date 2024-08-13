@@ -287,11 +287,5 @@ Le poids maximum du véhicule est de 2795 kg, avec un poids de base de 2075 kg. 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/trunk_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="2250"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Taycan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Plage <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Porsche Taycan" f_url="rangeandconsumption/" f_title="Plage" >}

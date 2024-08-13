@@ -264,11 +264,5 @@ The vehicle’s maximum weight is 2750 kg (6063 lbs), with a base weight of 2164
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1000 kg (2205 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Volkswagen ID.4 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Volkswagen ID.4" f_url="rangeandconsumption/" f_title="Range" >}

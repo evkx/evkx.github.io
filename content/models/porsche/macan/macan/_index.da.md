@@ -268,11 +268,5 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 25.01.2024, og leveringer forventes at starte om August 2024.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Porsche Macan </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 25.01.2024, og leveringer forventes at starte om August 2024.
+{< pagenavigation b_url="../" b_title="Porsche Macan" f_url="rangeandconsumption/" f_title="Range" >}

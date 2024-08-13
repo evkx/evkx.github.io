@@ -293,11 +293,5 @@ I det raskt voksende markedet for elbiler har EVKX.net identifisert flere altern
 - [Porsche Taycan 4S Sport Turismo](/models/porsche/taycan/taycan_4s_sport_turismo/)
 
 <a href="https://db.evkx.net/evcompare?evs=e5cb54%2c95cba1%2cb83289" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW i5 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW i5" f_url="rangeandconsumption/" f_title="Rekkevidde" >}

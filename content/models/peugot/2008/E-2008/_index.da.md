@@ -203,11 +203,5 @@ Køretøjets maksimale vægt er 2030 kg, med en basisvægt på 1573 kg. Dette gi
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Peugot 2008 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Peugot 2008" f_url="rangeandconsumption/" f_title="Range" >}

@@ -227,11 +227,5 @@ Bagagerummet har en lastekapacitet på 402 liter. Derudover er der en frunk (for
 
 Køretøjets maksimale vægt er 2631 kg, med en basisvægt på 2185 kg. Dette giver en maksimal last på 446 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BYD Seal </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+{< pagenavigation b_url="../" b_title="BYD Seal" f_url="rangeandconsumption/" f_title="Range" >}

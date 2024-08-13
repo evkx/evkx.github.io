@@ -231,11 +231,5 @@ Køretøjets maksimale vægt er 2450 kg, med en basisvægt på 1935 kg. Dette gi
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1600 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Ioniq 5 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Hyundai Ioniq 5" f_url="rangeandconsumption/" f_title="Range" >}

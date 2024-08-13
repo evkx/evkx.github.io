@@ -363,11 +363,5 @@ Tesla Model 3 Performance (GEN1) har batterioppvarming, noe som gjør lading ved
 </tbody>
 </table>
 
-<div class="mt-3 mb-3">
-<a href="../rangeandconsumption/" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Rekkevidde </strong>
-</a>
-<a href="../specifications/" class="text-decoration-none text-black float-end">
-<strong>Spesifikasjoner <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../rangeandconsumption/" b_title="Rekkevidde" f_url="../specifications/" f_title="Spesifikasjoner" >}

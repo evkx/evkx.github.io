@@ -276,11 +276,5 @@ The vehicle’s maximum weight is 3195 kg (7044 lbs), with a base weight of 2690
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1800 kg (3968 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQE SUV </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="Mercedes EQE SUV" f_url="rangeandconsumption/" f_title="Range" >}

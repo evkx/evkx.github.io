@@ -230,11 +230,5 @@ Denne model er ikke tilgængelig med en anhængertræk. For at trække en traile
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i October 2021. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Zeekr 009 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i October 2021. Denne model er kun tilgængelig i Kina.
+{< pagenavigation b_url="../" b_title="Zeekr 009" f_url="rangeandconsumption/" f_title="Range" >}

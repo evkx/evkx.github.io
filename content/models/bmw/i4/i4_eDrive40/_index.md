@@ -291,11 +291,5 @@ The vehicle’s maximum weight is 2605 kg (5743 lbs), with a base weight of 2050
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1600 kg (3527 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
-<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> BMW i4 </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Range <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+
+{< pagenavigation b_url="../" b_title="BMW i4" f_url="rangeandconsumption/" f_title="Range" >}

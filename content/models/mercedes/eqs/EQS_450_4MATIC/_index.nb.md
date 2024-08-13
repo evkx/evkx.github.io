@@ -284,11 +284,5 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde verdenspremiere 15.04.2021, og leveringene startet i September 2021. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">
-<a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Mercedes EQS </strong>
-</a>
-<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
-<strong>Rekkevidde <i class="bi-arrow-right"></i></strong>
-</a>
-</div>
+Denne modellen hadde verdenspremiere 15.04.2021, og leveringene startet i September 2021. Denne modellen har nå blitt avviklet.
+{< pagenavigation b_url="../" b_title="Mercedes EQS" f_url="rangeandconsumption/" f_title="Rekkevidde" >}
