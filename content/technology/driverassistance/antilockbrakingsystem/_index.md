@@ -1,22 +1,37 @@
 ---
 title: Anti-lock Braking System
 linktitle: ABS
-description: Anti-lock Braking System (ABS) is a safety feature designed to prevent a vehicle's wheels from locking up during braking, which can cause the vehicle to skid and lose control.
+description: The Anti-lock Braking System (ABS) is a safety feature designed to prevent a vehicle's wheels from locking up during braking, which can cause the vehicle to skid and lose control.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
 
-ABS is a common feature on modern vehicles and works by modulating the brake pressure to each wheel individually.
+The Anti-lock Braking System (ABS) is a common feature in modern vehicles that enhances braking performance and safety by modulating brake pressure to each wheel individually.
 
 {{<evkxdisplayaddarticle />}}
 
-When the driver applies the brakes, the ABS system uses sensors to detect if any of the wheels are starting to lock up. If a wheel is about to lock up, the ABS system will rapidly and repeatedly release and apply brake pressure to that wheel, preventing it from fully locking up and allowing it to maintain traction with the road. The system can make these adjustments very quickly, often many times per second, to maintain the maximum possible braking force while still preventing wheel lockup.
+## How ABS Works
 
-The ABS system is typically controlled by an electronic control unit (ECU) that receives information from wheel speed sensors and other sensors to determine when wheel lockup is about to occur. Some ABS systems may also incorporate other features, such as electronic brakeforce distribution (EBD), which adjusts the brake pressure to each wheel based on factors such as vehicle weight distribution and braking force, to further improve braking performance and stability.
+When the driver applies the brakes, the ABS system uses sensors to detect if any of the wheels are starting to lock up. If a wheel is about to lock up, the ABS system rapidly and repeatedly releases and applies brake pressure to that wheel. This prevents the wheel from fully locking up and allows it to maintain traction with the road. The system can make these adjustments many times per second, ensuring maximum braking force while preventing wheel lockup.
 
-Overall, ABS is a very effective safety feature that can help prevent accidents and improve vehicle control during emergency braking situations.
+## Components of ABS
 
-<div class="mt-3 mb-3">
-    <a href="../adaptivecruisecontrol/" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> Adaptive Cruise Control</strong></a>
-    <a href="../automatedlanechange/" class="text-decoration-none text-black float-end"><strong>Automated lane change<i class="bi-arrow-right"></i></strong></a>
-</div>
+- **Sensors:** Detect wheel speed and potential lockup.
+- **Electronic Control Unit (ECU):** Receives information from sensors and controls brake pressure.
+- **Hydraulic Valves:** Modulate brake pressure to each wheel.
+
+## Additional Features
+
+Some ABS systems may also incorporate other features, such as:
+
+- **Electronic Brakeforce Distribution (EBD):** Adjusts brake pressure to each wheel based on factors like vehicle weight distribution and braking force, further improving braking performance and stability.
+
+## Benefits of ABS
+
+- **Prevents Skidding:** Helps maintain control during emergency braking.
+- **Improves Vehicle Control:** Allows for better steering during hard braking.
+- **Reduces Stopping Distance:** Optimizes braking force to shorten stopping distance.
+
+Overall, ABS is a highly effective safety feature that can help prevent accidents and improve vehicle control during emergency braking situations.
+
+{{< pagenavigation b_url="../adaptivecruisecontrol/" b_title="Adaptive Cruise Control" f_url="../automatedlanechange/" f_title="Automated Lane Change" >}}

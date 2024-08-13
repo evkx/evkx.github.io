@@ -1,50 +1,50 @@
 ---
-title: Advanced driver-assistance systems
+title: Advanced Driver-Assistance Systems
 linktitle: ADAS
-description: Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net gives you details about the different systems in EVs.
+description: Advanced driver-assistance system (ADAS) technologies are designed to help drivers operate their vehicles more safely and efficiently. EVKX.net provides detailed information about the different systems in EVs.
 weight: 2
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
-Several types of advanced driver-assistance systems are available in modern cars, and each one works differently to improve driving performance and safety.
+Advanced driver-assistance systems (ADAS) are available in modern cars to enhance driving performance and safety. These systems work in various ways to assist drivers.
 
-The most common systems are:
+### Common ADAS Features
 
 - [Adaptive Cruise Control](adaptivecruisecontrol/) (ACC)
 - [Anti-lock Braking System](antilockbrakingsystem/) (ABS)
-- [Automated lane change](automatedlanechange/) (ALC)
+- [Automated Lane Change](automatedlanechange/) (ALC)
 - [Autonomous Emergency Braking](automaticemergencybraking/) (AEB)
 - [Automatic Emergency Steering](automaticemergencysteering/) (AES)
-- [Automatic parking](automaticparking/)
-- [Blind-spot monitoring](blindspotmonitoring/) (BSM)
+- [Automatic Parking](automaticparking/)
+- [Blind-Spot Monitoring](blindspotmonitoring/) (BSM)
 - [Collision Avoidance Systems](collisionavoidancesystems/) (CAS)
 - [Driver Drowsiness Detection](driverdrowsinessdetection/) (DDD)
 - [Driver Monitoring System](drivermonitoringsystem/) (DMS)
 - [Efficiency Assist](efficencyassist/)
 - [Electronic Stability Control](electronicstabilitycontrol/) (ESC)
 - [Exit Warning](exitwarning/) (EW)
-- [Forward collision warning](forwardcollisionwarning/) (FCW)
-- [Front cross traffic assist](frontcrosstrafficassist/) (FCTA)
+- [Forward Collision Warning](forwardcollisionwarning/) (FCW)
+- [Front Cross Traffic Assist](frontcrosstrafficassist/) (FCTA)
 - [Lane Centering Assist / AutoSteer](autosteer/) (LCA)
-- [Lane departure warning](lanedeparturewarning/) (LDW)
+- [Lane Departure Warning](lanedeparturewarning/) (LDW)
 - [Lane Keeping Assist](lanekeepingassist/) (LKA)
 - [Rear Cross Traffic Alert](rearcrosstrafficalert/) (RCTA)
 - [Traffic Sign Recognition](trafficsignrecognition/) (TSR)
-- Tire Pressure Monitoring System (TPMS)
+- [Tire Pressure Monitoring System](tirepressuremonitoringsystem/) (TPMS)
 
 {{<evkxdisplayaddarticle />}}
 
-### Level of autonomous driving
+### Levels of Autonomous Driving
 
-The level of autonomous driving, also known as the autonomy level, refers to the degree of automation and control a vehicle has over its operation. 
+The level of autonomous driving, also known as the autonomy level, refers to the degree of automation and control a vehicle has over its operation.
 
-{{< sitefiguresized thumb="technology/driverassistance/illustration_st.jpg" width="3000" height="1687" title="Mercedes EQS with level 3 autonomous  driving" >}}
+{{< sitefiguresized thumb="technology/driverassistance/illustration_st.jpg" width="3000" height="1687" title="Mercedes EQS with Level 3 Autonomous Driving" >}}
 
-There are six levels of autonomy defined by the Society of Automotive Engineers ([SAE](https://www.sae.org/)) that describe the increasing levels of automation and decreasing need for human input:
+The Society of Automotive Engineers ([SAE](https://www.sae.org/)) defines six levels of autonomy, describing increasing levels of automation and decreasing need for human input:
 
 **Level 0** - No Automation: The driver is responsible for all aspects of driving, including steering, braking, and accelerating.
 
-**Level 1** - Driver Assistance: The vehicle has some level of automation, such as adaptive cruise control or lane departure warning, but the driver is still responsible for most aspects of driving.
+**Level 1** - Driver Assistance: The vehicle has some automation, such as adaptive cruise control or lane departure warning, but the driver is still responsible for most aspects of driving.
 
 **Level 2** - Partial Automation: The vehicle can control both steering and acceleration/deceleration under certain conditions, but the driver must remain attentive and ready to take control at any time.
 
@@ -54,11 +54,8 @@ There are six levels of autonomy defined by the Society of Automotive Engineers 
 
 **Level 5** - Full Automation: The vehicle is fully autonomous and can operate in all driving conditions and scenarios without any human input or intervention.
 
-It is important to note that many vehicles on the market today fall into levels 1-2 of autonomy, while levels 3-5 are still in the development and testing phases. Additionally, even vehicles with higher levels of autonomy may still require some level of human oversight and intervention in certain situations.
+Most vehicles on the market today fall into levels 1-2 of autonomy, while levels 3-5 are still in development and testing phases. Even vehicles with higher levels of autonomy may still require some level of human oversight and intervention in certain situations.
 
-Currently it is only the [Mercedes EQS](../../models/mercedes/eqs/) that is approved on level 3 in some markeds.
+Currently, only the [Mercedes EQS](../../models/mercedes/eqs/) is approved for Level 3 autonomy in some markets.
 
-<div class="mt-3 mb-3">
-    <a href="../" class="text-decoration-none text-black"><strong><i class="bi-arrow-left"></i> EV Technology</strong></a>
-    <a href="adaptivecruisecontrol/" class="text-decoration-none text-black float-end"><strong>Adaptive Cruise Control <i class="bi-arrow-right"></i></strong></a>
-</div>
+{{< pagenavigation b_url="../" b_title="EV Technology" f_url="adaptivecruisecontrol/" f_title="Adaptive Cruise Control" >}}
