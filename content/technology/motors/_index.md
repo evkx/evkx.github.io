@@ -1,116 +1,116 @@
 ---
-title: Motors & Drive Units
-linktitle: Motors & Drive Units
-description: As the automotive industry rapidly shifts towards electrification, the heart of electric vehicles (EVs) lies in their motors and drive units. With a diverse array of motor types and intricate inverters, understanding the complexities of these components is crucial for comprehending the inner workings of EVs.
+title: Motoren & Antriebseinheiten
+linktitle: Motoren & Antriebseinheiten
+description: Da die Automobilindustrie schnell auf Elektrifizierung umstellt, liegt das Herzstück von Elektrofahrzeugen (EVs) in ihren Motoren und Antriebseinheiten. Mit einer Vielzahl von Motortypen und komplexen Wechselrichtern ist das Verständnis der Komplexität dieser Komponenten entscheidend, um die Funktionsweise von EVs zu verstehen.
 weight: 2
 shownavtabs: true
 ---
 <!-- markdownlint-disable MD033 -->
 
-In this extensive article, we will take an in-depth look at motors and drive units for electric cars, examining the various motor types commonly used in EVs, exploring the intricacies of the inverter, and delving into the critical role these components play in propelling the future of transportation.
+In diesem ausführlichen Artikel werden wir einen tiefen Einblick in Motoren und Antriebseinheiten für Elektroautos geben, die verschiedenen Motortypen untersuchen, die häufig in EVs verwendet werden, die Feinheiten des Wechselrichters erkunden und die entscheidende Rolle dieser Komponenten bei der Förderung der Zukunft des Transports beleuchten.
 
-First, we will explain the common principles of electric motors.
+Zunächst werden wir die allgemeinen Prinzipien von Elektromotoren erklären.
 
-{{< sitefiguresized thumb="technology/motors/vwapp550_st.jpg" width="3000" height="1407" title="VW Electric drive unit parts." >}}
+{{< sitefiguresized thumb="technology/motors/vwapp550_st.jpg" width="3000" height="1407" title="Teile der elektrischen Antriebseinheit von VW." >}}
 
-Then we will explore the different types of motors utilized in electric cars, from permanent magnet motors to induction motors.
+Dann werden wir die verschiedenen Arten von Motoren untersuchen, die in Elektroautos verwendet werden, von Permanentmagnetmotoren bis hin zu Induktionsmotoren.
 
-We will examine their unique characteristics, advantages, and limitations and provide insights into their operational principles and efficiency.
+Wir werden ihre einzigartigen Eigenschaften, Vorteile und Einschränkungen untersuchen und Einblicke in ihre Betriebsprinzipien und Effizienz geben.
 
 {{<evkxdisplayaddarticle />}}
 
-Next, we will delve into the role of the inverter, which acts as the brain of the motor drive system, converting DC power from the battery into AC power to drive the motor.
+Als nächstes werden wir die Rolle des Wechselrichters untersuchen, der als Gehirn des Motorantriebssystems fungiert und Gleichstrom (DC) aus der Batterie in Wechselstrom (AC) umwandelt, um den Motor anzutreiben.
 
-We will explore the complexities of inverter design, including its various control strategies, thermal management, and power electronics, and highlight its critical role in optimizing motor performance.
+Wir werden die Komplexität des Wechselrichterdesigns erkunden, einschließlich seiner verschiedenen Steuerstrategien, des Wärmemanagements und der Leistungselektronik, und seine entscheidende Rolle bei der Optimierung der Motorleistung hervorheben.
 
-Furthermore, we will discuss the integration of motors and drive units in electric vehicles, including their placement, cooling systems, and overall system efficiency.
+Darüber hinaus werden wir die Integration von Motoren und Antriebseinheiten in Elektrofahrzeuge diskutieren, einschließlich ihrer Platzierung, Kühlsysteme und der Gesamtsystemeffizienz.
 
-We will also examine the impact of motor and drive unit design on factors such as vehicle range, performance, and charging time and highlight the latest technological advancements in this field.
+Wir werden auch den Einfluss des Motor- und Antriebseinheitendesigns auf Faktoren wie Fahrzeugreichweite, Leistung und Ladezeit untersuchen und die neuesten technologischen Fortschritte in diesem Bereich hervorheben.
 
-Finally, we will explore the prospects of motors and drive units for electric cars, including advancements in motor technology, improvements in power electronics, and emerging trends such as wireless charging and solid-state batteries. We will also discuss the challenges and opportunities associated with these technologies and their potential impact on the future of electric mobility.
+Schließlich werden wir die Zukunftsaussichten von Motoren und Antriebseinheiten für Elektroautos erkunden, einschließlich Fortschritten in der Motortechnologie, Verbesserungen in der Leistungselektronik und aufkommenden Trends wie drahtlosem Laden und Festkörperbatterien. Wir werden auch die Herausforderungen und Chancen im Zusammenhang mit diesen Technologien und deren potenziellen Auswirkungen auf die Zukunft der Elektromobilität diskutieren.
 
-Whether you’re an EV enthusiast, an automotive engineer, or simply curious about the inner workings of electric cars, this comprehensive article will provide a deep understanding of motors and drive units, shedding light on the cutting-edge technologies driving future transportation. So join us as we embark on a thrilling journey into the world of electric vehicle propulsion, uncovering the secrets behind the power that propels the future of mobility.
+Ob Sie ein EV-Enthusiast, ein Automobilingenieur oder einfach nur neugierig auf die Funktionsweise von Elektroautos sind, dieser umfassende Artikel wird ein tiefes Verständnis von Motoren und Antriebseinheiten vermitteln und die Spitzentechnologien beleuchten, die die Zukunft des Transports antreiben. Begleiten Sie uns also auf eine spannende Reise in die Welt des Elektrofahrzeugantriebs und entdecken Sie die Geheimnisse hinter der Kraft, die die Zukunft der Mobilität antreibt.
 
-## How do electric motors work?
+## Wie funktionieren Elektromotoren?
 
-Even though there exist several types of electric motors, the principles are the same. Electric motors work based on the principles of electromagnetism. They consist of a stator and a rotor, with the stator being a stationary part and the rotor being a rotating part.
+Obwohl es mehrere Arten von Elektromotoren gibt, sind die Prinzipien die gleichen. Elektromotoren arbeiten nach den Prinzipien des Elektromagnetismus. Sie bestehen aus einem Stator und einem Rotor, wobei der Stator ein stationärer Teil und der Rotor ein rotierender Teil ist.
 
 {{< sitefiguresized thumb="technology/motors/asyncronmotor_st.jpg" width="1920" height="1080" title="Stator & Rotor." >}}
 
-The stator contains coil windings that are connected to a power source, which generates an electric current that flows through the windings, creating a magnetic field.
+Der Stator enthält Spulenwicklungen, die mit einer Stromquelle verbunden sind, die einen elektrischen Strom erzeugt, der durch die Wicklungen fließt und ein Magnetfeld erzeugt.
 
-The rotor, on the other hand, contains magnets or windings, and when the magnetic field generated by the stator interacts with the magnets or windings in the rotor, it creates a force that causes the rotor to rotate. This rotational motion is then transferred to the mechanical load, such as the wheels of a vehicle, which propels the vehicle forward.
-
-{{<evkxdisplayaddarticle />}}
-
-The motor controller controls the direction and speed of the motor’s rotation by varying the current flowing through the stator windings, which alters the strength and orientation of the magnetic field. This technique allows precise motor performance control, including torque, speed, and power output.
-
-Different types of electric motors, such as permanent magnet and induction motors, have varying designs and operational principles. Still, they all rely on the interaction between magnetic fields and electric currents to generate motion.
-
-### Induction motors
-
-Induction motors, also known as asynchronous motors, are a type of electric motor that is widely used in electric vehicles (EVs) for their unique characteristics and advantages.
-
-[Learn about Induction motors.](asm)
-
-### Permanent Magnet Synchronous motors
-
-Synchronous motors are a type of electric motor that is also used in electric vehicles (EVs) for propulsion, but they operate differently from asynchronous motors. Synchronous motors require a physical connection between the rotor and the stator, typically through permanent magnets, which makes them distinct from asynchronous motors that rely on electromagnetic induction.
-
-[Learn about PMSM.](psm)
-
-### Wound-Rotor Synchronous Motor
-
-A wound-rotor synchronous motor, also known as a slip-ring synchronous motor, is a type of electric motor that combines features of both synchronous motors and wound-rotor induction motors.
-
-[Learn about WRSM.](wrsm)
-
-## The Inverter
-
-The inverter is a crucial electric vehicle (EV) drive unit component. It is responsible for converting the direct current (DC) electricity stored in the vehicle’s battery into alternating current (AC) electricity, which is then used to power the electric motor that drives the wheels of the EV.
-
-[Learn about the Inverter.](inverter)
-
-## Motor cooling
-
-Cooling is an important aspect of electric motor design in electric vehicles (EVs) to ensure optimal performance, efficiency, and reliability.
-
-[Learn all about cooling](cooling)
-
-## Gears
-
-Electric vehicles (EVs) typically use various types of gearboxes in their drive units, depending on the specific design and requirements of the car.
-
-[Learn all about gears.](gears)
+Der Rotor hingegen enthält Magnete oder Wicklungen, und wenn das vom Stator erzeugte Magnetfeld mit den Magneten oder Wicklungen im Rotor interagiert, entsteht eine Kraft, die den Rotor zum Drehen bringt. Diese Drehbewegung wird dann auf die mechanische Last, wie die Räder eines Fahrzeugs, übertragen, was das Fahrzeug vorwärts bewegt.
 
 {{<evkxdisplayaddarticle />}}
 
-## Motor setup
+Der Motorcontroller steuert die Richtung und Geschwindigkeit der Motordrehung, indem er den durch die Statorwicklungen fließenden Strom variiert, was die Stärke und Ausrichtung des Magnetfelds verändert. Diese Technik ermöglicht eine präzise Steuerung der Motorleistung, einschließlich Drehmoment, Geschwindigkeit und Leistungsabgabe.
 
-Electric vehicles (EVs) can use various motor setups depending on the specific design and requirements of the car. Some of the typical motor setups used in EVs include:
+Verschiedene Arten von Elektromotoren, wie Permanentmagnet- und Induktionsmotoren, haben unterschiedliche Designs und Betriebsprinzipien. Dennoch basieren sie alle auf der Interaktion zwischen Magnetfeldern und elektrischen Strömen, um Bewegung zu erzeugen.
 
-**Single motor setup:** In a single motor setup, a single electric motor is used to drive the vehicle. This motor can be either a permanent magnet synchronous motor (PMSM) or an asynchronous or induction motor (ASM). It drives either the front or rear wheels of the vehicle.
+### Induktionsmotoren
 
-**Dual motor setup**: Two electric motors are used in a dual motor setup, typically one for each axle or wheel. This setup allows for more precise torque distribution between the front and rear wheels, enabling better traction control and improved performance, especially in all-wheel-drive (AWD) configurations. The motors can be PMSMs, WRSMs, ASMs, or a combination.
+Induktionsmotoren, auch als Asynchronmotoren bekannt, sind eine Art von Elektromotor, der aufgrund seiner einzigartigen Eigenschaften und Vorteile häufig in Elektrofahrzeugen (EVs) verwendet wird.
 
-**Tri-motor setup:** A tri-motor setup is similar to a dual-motor design but with three electric motors instead of two. This setup is rare and used in high-performance models like Tesla Model S Plaid and Audi SQ8 e-tron. One advantage is the possibility of torque vectoring.
+[Erfahren Sie mehr über Induktionsmotoren.](asm)
 
-{{< sitefiguresized thumb="technology/motors/trimotorsetupaudi_st.jpg" width="3000" height="1773" title="Tri-motor setup" >}}
+### Permanentmagnet-Synchronmotoren
 
-**Quad motor setup** A quad motor setup has one motor for each wheel. Here are some of the advantages of having four motors in an EV
+Synchronmotoren sind eine Art von Elektromotor, der ebenfalls in Elektrofahrzeugen (EVs) für den Antrieb verwendet wird, aber anders als Asynchronmotoren arbeitet. Synchronmotoren erfordern eine physische Verbindung zwischen dem Rotor und dem Stator, typischerweise durch Permanentmagnete, was sie von Asynchronmotoren unterscheidet, die auf elektromagnetischer Induktion basieren.
 
-- <b>Precise traction control:</b> Each motor can independently adjust the torque at each wheel, depending on the road conditions and the driver's input. This can improve the stability, handling, and safety of the vehicle, especially in off-road and snowy situations. For example, the Rivian R1S quad motor can use a feature called "tank turn" to spin on the spot by rotating the wheels on one side in one direction and the wheels on the other side in the opposite direction
+[Erfahren Sie mehr über PMSM.](psm)
 
-- <b>Torque vectoring</b>: Each motor can also vary the torque at each wheel to enhance the steering and cornering of the vehicle. This can reduce oversteer and understeer, common problems in conventional vehicles. Torque vectoring can also make the vehicle more agile and responsive and more fun to drive.
+### Wickelrotor-Synchronmotor
 
-Some models with Quad motor setup is
+Ein Wickelrotor-Synchronmotor, auch als Schleifring-Synchronmotor bekannt, ist eine Art von Elektromotor, der Merkmale sowohl von Synchronmotoren als auch von Wickelrotor-Induktionsmotoren kombiniert.
+
+[Erfahren Sie mehr über WRSM.](wrsm)
+
+## Der Wechselrichter
+
+Der Wechselrichter ist eine entscheidende Komponente der Antriebseinheit eines Elektrofahrzeugs (EV). Er ist dafür verantwortlich, den in der Fahrzeugbatterie gespeicherten Gleichstrom (DC) in Wechselstrom (AC) umzuwandeln, der dann verwendet wird, um den Elektromotor anzutreiben, der die Räder des EVs antreibt.
+
+[Erfahren Sie mehr über den Wechselrichter.](inverter)
+
+## Motorkühlung
+
+Die Kühlung ist ein wichtiger Aspekt des Elektromotordesigns in Elektrofahrzeugen (EVs), um optimale Leistung, Effizienz und Zuverlässigkeit zu gewährleisten.
+
+[Erfahren Sie alles über die Kühlung](cooling)
+
+## Getriebe
+
+Elektrofahrzeuge (EVs) verwenden in ihren Antriebseinheiten typischerweise verschiedene Arten von Getrieben, abhängig vom spezifischen Design und den Anforderungen des Fahrzeugs.
+
+[Erfahren Sie alles über Getriebe.](gears)
+
+{{<evkxdisplayaddarticle />}}
+
+## Motoraufbau
+
+Elektrofahrzeuge (EVs) können je nach spezifischem Design und den Anforderungen des Fahrzeugs verschiedene Motoraufbauten verwenden. Einige der typischen Motoraufbauten, die in EVs verwendet werden, umfassen:
+
+**Einzelmotoraufbau:** In einem Einzelmotoraufbau wird ein einzelner Elektromotor verwendet, um das Fahrzeug anzutreiben. Dieser Motor kann entweder ein Permanentmagnet-Synchronmotor (PMSM) oder ein Asynchron- oder Induktionsmotor (ASM) sein. Er treibt entweder die Vorder- oder Hinterräder des Fahrzeugs an.
+
+**Doppelmotoraufbau:** In einem Doppelmotoraufbau werden zwei Elektromotoren verwendet, typischerweise einer für jede Achse oder jedes Rad. Dieser Aufbau ermöglicht eine präzisere Drehmomentverteilung zwischen den Vorder- und Hinterrädern, was eine bessere Traktionskontrolle und verbesserte Leistung, insbesondere in Allradantriebskonfigurationen (AWD), ermöglicht. Die Motoren können PMSMs, WRSMs, ASMs oder eine Kombination davon sein.
+
+**Dreimotoraufbau:** Ein Dreimotoraufbau ist ähnlich wie ein Doppelmotoraufbau, jedoch mit drei Elektromotoren anstelle von zwei. Dieser Aufbau ist selten und wird in Hochleistungsmodellen wie dem Tesla Model S Plaid und dem Audi SQ8 e-tron verwendet. Ein Vorteil ist die Möglichkeit des Torque Vectoring.
+
+{{< sitefiguresized thumb="technology/motors/trimotorsetupaudi_st.jpg" width="3000" height="1773" title="Dreimotoraufbau" >}}
+
+**Viermotoraufbau:** Ein Viermotoraufbau hat einen Motor für jedes Rad. Hier sind einige der Vorteile von vier Motoren in einem EV:
+
+- <b>Präzise Traktionskontrolle:</b> Jeder Motor kann das Drehmoment an jedem Rad unabhängig anpassen, je nach den Straßenbedingungen und den Eingaben des Fahrers. Dies kann die Stabilität, das Handling und die Sicherheit des Fahrzeugs verbessern, insbesondere in Offroad- und Schneesituationen. Zum Beispiel kann der Rivian R1S Quad Motor eine Funktion namens "Tank Turn" verwenden, um auf der Stelle zu drehen, indem die Räder auf einer Seite in eine Richtung und die Räder auf der anderen Seite in die entgegengesetzte Richtung gedreht werden.
+
+- <b>Torque Vectoring:</b> Jeder Motor kann auch das Drehmoment an jedem Rad variieren, um das Lenken und Kurvenfahren des Fahrzeugs zu verbessern. Dies kann Übersteuern und Untersteuern reduzieren, die in herkömmlichen Fahrzeugen häufig auftreten. Torque Vectoring kann das Fahrzeug auch agiler und reaktionsschneller machen und mehr Fahrspaß bieten.
+
+Einige Modelle mit Viermotoraufbau sind:
 
 - [Zeekr 001 FR](/models/zeekr/001/001_fr/)
 - [Rivian R1T/R1S Quad Motor](/models/rivian/r1/r1t_quad-motor_awd/)
 - [GMC Hummer](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-Below, you see the Rivian R1T Quad motor do a tank turn with the quad motor setup.
+Unten sehen Sie den Rivian R1T Quad Motor, der mit dem Viermotoraufbau einen Tank Turn durchführt.
 
 {{< youtube yzwM8KE2L3I >}}
 
-{{< pagenavigation b_url="../lights/" b_title="Lights" f_url="asm/" f_title="Induction Motors" >}}
+{{< pagenavigation b_url="../lights/" b_title="Lichter" f_url="asm/" f_title="Induktionsmotoren" >}}
