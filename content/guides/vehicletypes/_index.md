@@ -12,7 +12,19 @@ Electric vehicles come in various forms and shapes. This guide explains all the 
 
 Sedans are four-door cars with separate trunk compartments. They are designed to provide comfort and convenience to passengers and are popular among families and commuters. Sedans, from compact to full-size, come in various sizes and are known for their smooth and quiet ride. They are also more aerodynamic than other car types, which helps improve efficiency compared to SUVs and crossovers. [See all sedans in the EVKX EV database.](https://evkx.net/evsearch/?sortOrder=Name&evType=Sedan)
 
-{{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" width="3000" height="2077" title="Mercedes-AMG EQE 53 4MATIC+" >}}
+### Notchback Sedan
+
+A notchback sedan features a distinct separation between the trunk, rear window, and roof. This design provides a classic look and often results in a spacious trunk. Notchback sedans are popular for their traditional styling and practicality.
+
+### Fastback Sedan
+
+Fastback sedans have a continuous slope from the roof to the rear end, creating a sleek and aerodynamic profile. This design enhances the vehicle's sporty appearance and can improve fuel efficiency. However, it may slightly reduce rear headroom and trunk space.
+
+### Liftback Sedan
+
+Liftback sedans combine the features of a sedan and a hatchback. They have a sloping rear roofline like a fastback but with a rear door that opens upward, similar to a hatchback. This design provides the sporty look of a fastback with the practicality of a hatchback, offering more accessible cargo space.
+
+{{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/main_1_st.jpg" width="3000" height="2077" title="Mercedes-AMG EQE 53 4MATIC+ liftback sedan" >}}
 
 ## Hatchback
 
