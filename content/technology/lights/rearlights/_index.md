@@ -1,21 +1,21 @@
 ---
 title: Rear lights
 linktitle: Rear lights
-description: Regarding vehicle safety, rear lights are crucial in ensuring that motorists can see and others can see them on the road. 
+description: Rear lights are crucial for vehicle safety, ensuring that motorists can see and be seen on the road.
 weight: 2
 ---
 <!-- markdownlint-disable MD033 -->
-Rear lights, also known as tail lights, are an essential component of a car's lighting system and have undergone significant technological advancements and design innovations over the years.
+Rear lights, also known as tail lights, are essential components of a car's lighting system. They have undergone significant technological advancements and design innovations over the years.
 
-From their humble beginnings as simple incandescent bulbs to the cutting-edge LED lights of today, rear lights have come a long way in functionality and aesthetics.
+From their humble beginnings as simple incandescent bulbs to today's cutting-edge LED lights, rear lights have come a long way in functionality and aesthetics.
 
 {{< sitefiguresized thumb="technology/lights/rearlights/eqsrearlights_st.jpg" width="3000" height="2250" title="Mercedes EQS rear lights" >}}
 
 ## LED Revolution: Efficiency, Versatility, and Style
 
-The introduction of Light Emitting Diode (LED) technology in the automotive industry marked a significant milestone in the evolution of rear lights. LEDs are small, solid-state devices that emit light when an electric current passes through a semiconductor material, eliminating the need for a filament or gas to produce light. These features made LEDs more energy-efficient, durable, and versatile than traditional incandescent bulbs, leading to widespread adoption in modern automotive lighting systems.   
+The introduction of Light Emitting Diode (LED) technology in the automotive industry marked a significant milestone in the evolution of rear lights. LEDs are small, solid-state devices that emit light when an electric current passes through a semiconductor material, eliminating the need for a filament or gas to produce light. These features make LEDs more energy-efficient, durable, and versatile than traditional incandescent bulbs, leading to widespread adoption in modern automotive lighting systems.
 
-One of the key advantages of LED rear lights is their efficiency. LEDs require significantly less energy to produce the same light as incandescent bulbs, reducing power consumption and improving electric range. 
+One of the key advantages of LED rear lights is their efficiency. LEDs require significantly less energy to produce the same light as incandescent bulbs, reducing power consumption and improving electric range.
 
 Furthermore, LEDs are known for their durability. They have a longer lifespan than incandescent bulbs, as they are not prone to burning out or breaking easily. This feature means that vehicle owners can enjoy longer-lasting rear lights that require fewer replacements, reducing maintenance costs.
 
@@ -27,10 +27,9 @@ In terms of versatility, LEDs offer automotive designers greater flexibility in 
 
 Some manufacturers have started using OLED rear lights. OLED lights are thin light sources made of organic semiconductor materials. OLED stands for Organic Light Emitting Diode. Manufacturers use OLED light technology for automotive applications because of its homogeneous light emission and ultra-thin, lightweight form factor. OLED lights can also be flexible, transparent, and color-tunable.
 
-Flexible OLED lights can seamlessly be integrated into curved surfaces, allowing for even more creative and futuristic rear light designs.
+Flexible OLED lights can seamlessly integrate into curved surfaces, allowing for even more creative and futuristic rear light designs.
 
-The Audi Q6 e-tron is one example of an EV using OLED rear lights.
-The below illustration shows how Audi has integrated OLED panels in the Audi Q6 e-tron rear lights.
+The Audi Q6 e-tron is one example of an EV using OLED rear lights. The illustration below shows how Audi has integrated OLED panels in the Audi Q6 e-tron rear lights.
 
 {{< sitefiguresized thumb="technology/lights/rearlights/audiq6rearlightsconstruction_st.jpg" width="3000" height="1665" title="Audi Q6 e-tron rear lights construction" >}}
 
@@ -50,7 +49,7 @@ In addition to their technological advancements, rear lights have undergone sign
 
 One popular trend in rear light design is using three-dimensional (3D) graphics and shapes. With LEDs, automotive designers can create intricate patterns and shapes that add depth and dimension to the rear lights. This design creates a striking visual effect, making the rear lights stand out and giving the vehicle a modern and futuristic look.
 
-In addition, some manufacturers offer the owner to set their light signature. An example is the Audi Q6 e-tron, where you can select eight signatures for the rear lights.
+In addition, some manufacturers offer the owner the ability to set their light signature. An example is the Audi Q6 e-tron, where you can select eight signatures for the rear lights.
 
 {{< sitefiguresized thumb="technology/lights/rearlights/audiq8rearlights_1_st.jpg" width="3000" height="2000" title="Audi Q6 e-tron with light signature 3" >}}
 
@@ -62,9 +61,9 @@ Another design innovation is using smoked or tinted lenses for rear lights. Smok
 
 Furthermore, manufacturers integrate rear lights into other parts of the vehicle’s body, such as the rear bumper, diffuser, or body panels. This seamless integration of rear lights into the vehicle’s overall design creates a cohesive and harmonious look, enhancing its aesthetic appeal and making it visually distinct on the road.
 
-## Communication lighting
+## Communication Lighting
 
-Some manufacturers have started using the rear lights to communicate with others, where the rear lights can send signals or messages to other vehicles or pedestrians.
+Some manufacturers have started using rear lights to communicate with others, where the rear lights can send signals or messages to other vehicles or pedestrians.
 
 {{< sitefiguresized thumb="technology/lights/rearlights/hiphixrearlights_st.jpg" width="3000" height="2000" title="HiPhi X can show graphics in their segmented rear lights" >}}
 
@@ -74,10 +73,8 @@ For example, the Audi Q6 e-tron has added an extra dimension to the exit warning
 
 ## Examples
 
-Below you see a video from Audi that shows how their OLED works.
-
+Below is a video from Audi that shows how their OLED technology works.
 
 {{< youtube OMx8x8J6Pro >}}
-
 
 {{< pagenavigation b_url="../headlights/" b_title="Headlights & DRL" f_url="../ambientlighting/" f_title="Ambient Lighting" >}}

@@ -5,7 +5,8 @@ description: In recent years, automotive manufacturers have been exploring new w
 weight: 3
 ---
 <!-- markdownlint-disable MD033 -->
- Interior ambient lighting has evolved from a functional feature to a design element that can elevate the aesthetics of the car's interior, creating a unique and personalized environment for the driver and passengers.
+
+Interior ambient lighting has evolved from a functional feature to a design element that elevates the aesthetics of the car's interior, creating a unique and personalized environment for the driver and passengers.
 
 {{< sitefiguresized thumb="technology/lights/ambientlighting/mercedeseqsambientlighting_1_st.jpg" width="3000" height="2250" title="Mercedes EQS Ambient lighting" >}}
 
@@ -15,7 +16,7 @@ Interior ambient lighting refers to the use of low-intensity lights placed in va
 
 The purpose of interior ambient lighting is not only to provide illumination but also to enhance the overall ambiance and mood inside the car. It can create a cozy and inviting atmosphere, add a touch of luxury, or even evoke a sense of excitement. Many modern cars come equipped with ambient lighting as a standard or optional feature, and some manufacturers offer customization options that allow drivers to choose from a variety of colors and lighting effects to suit their preferences.
 
-{{< sitefiguresized thumb="technology/lights/ambientlighting/rrspectre_1_st.jpg" width="3000" height="2000" title="Rolls Roys Spectre with ambient lighting in headlinerg" >}}
+{{< sitefiguresized thumb="technology/lights/ambientlighting/rrspectre_1_st.jpg" width="3000" height="2000" title="Rolls Royce Spectre with ambient lighting in headliner" >}}
 
 ## Advancements in Lighting Technology
 
@@ -55,11 +56,10 @@ In addition to aesthetics, interior ambient lighting in cars also offers functio
 
 As technology continues to advance, we can expect to see further innovations in interior ambient lighting in cars. Here are some future trends that we may see:
 
-**Smart and Connected Lighting:** With the increasing connectivity of cars, we can expect to see more integration of ambient lighting with other in-car systems. For example, ambient lighting could be synchronized with the car's navigation system to change colors or intensities based on the driving conditions or route. It could also be integrated with the car's driver assistance systems, such as lane departure warning or collision detection, to provide visual cues or alerts. Syncronized with the sound system is already on the way.
+**Smart and Connected Lighting:** With the increasing connectivity of cars, we can expect to see more integration of ambient lighting with other in-car systems. For example, ambient lighting could be synchronized with the car's navigation system to change colors or intensities based on the driving conditions or route. It could also be integrated with the car's driver assistance systems, such as lane departure warning or collision detection, to provide visual cues or alerts. Synchronization with the sound system is already on the way.
 
 **Health and Wellness:** Ambient lighting could also be used to promote health and wellness inside the car. For example, research has shown that certain colors of light can affect mood, sleep, and well-being. We may see the use of ambient lighting that promotes relaxation, reduces stress, or even adjusts to the driver's circadian rhythm for a more comfortable and healthy driving experience.
 
 **Augmented Reality (AR) Lighting:** As augmented reality technology continues to develop, we may see the integration of ambient lighting with AR displays inside the car. This could create a more immersive and interactive experience, where ambient lighting could change dynamically to match the virtual environment displayed by the AR system, enhancing the overall driving experience.
-
 
 {{< pagenavigation b_url="../rearlights/" b_title="Rear lights" f_url="../../motors/" f_title="Motors & Drive Units" >}}
