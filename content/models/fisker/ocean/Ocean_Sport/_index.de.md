@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -66,7 +66,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
-## Außen
+## Exterieur
 
 Der Fisker Ocean Sport, mit Abmessungen von 4774 mm Länge, 1982 mm Breite und 1631 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Fisker Ocean Sport ist in insgesamt 12 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
@@ -85,7 +85,7 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein gro
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 

@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -70,7 +70,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
-## Außen
+## Exterieur
 
 Der Opel Frontera, mit Abmessungen von 4385 mm Länge, 1795 mm Breite und 1635 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Opel Frontera ist in insgesamt 12 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach in einer anderen Farbe lackiert ist, was für ein markantes und stilvolles Aussehen sorgt.
 
@@ -91,7 +91,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 ### Sitze
 

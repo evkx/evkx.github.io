@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -62,7 +62,7 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 [Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar.
 
-## Außen
+## Exterieur
 
 Der Dacia Spring 65HP, mit Abmessungen von 3701 mm Länge, 1622 mm Breite und 1519 mm Höhe, fällt in die Mini-Segment-Autos, oft als Stadtautos oder A-Segment-Autos bezeichnet, sind die kleinste Klasse von Autos. Sie sind hauptsächlich für städtische Umgebungen konzipiert und bieten eine kompakte Größe, hervorragende Manövrierfähigkeit und wirtschaftlichen Betrieb. Der Dacia Spring 65HP ist in insgesamt 6 Unilackfarben erhältlich.
 
@@ -81,7 +81,7 @@ Es gibt nur eine Dachoption für dieses Modell.
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 ### Sitze
 

@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -66,7 +66,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 [Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
 
-## Außen
+## Exterieur
 
 Der Volvo EC40 Single Motor ER, mit Abmessungen von 4440 mm Länge, 1873 mm Breite und 1596 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Volvo EC40 Single Motor ER ist in insgesamt 9 Lackfarben erhältlich, die alle Metallic- und Perlmutt-Optionen umfassen.
 
@@ -85,7 +85,7 @@ Es gibt zwei verschiedene Dachoptionen zur Auswahl. Optional können Sie dieses 
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 ### Sitze
 

@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -65,7 +65,7 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 ### Rekuperatives Bremsen
 
 
-## Außen
+## Exterieur
 
 Der Jaguar I-Pace EV400, mit Abmessungen von 4682 mm Länge, 2011 mm Breite und 1566 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der Jaguar I-Pace EV400 ist in insgesamt 9 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
@@ -88,7 +88,7 @@ Zusätzlich können Sie das Auto mit getönten Fenstern ab der B-Säule nach hin
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 ### Sitze
 

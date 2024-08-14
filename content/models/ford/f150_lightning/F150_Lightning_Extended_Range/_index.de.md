@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -65,7 +65,7 @@ Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology
 
 Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand, und der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt.
 
-## Außen
+## Exterieur
 
 Der Ford F150 Lightning Extended Range ist in insgesamt 6 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
@@ -85,7 +85,7 @@ Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Mode
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 

@@ -13,16 +13,16 @@ navicon: bi-car-front
 
 Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu erleichtern. Klicken Sie auf die untenstehenden Links, um zu verschiedenen Bereichen zu springen, oder lesen Sie den gesamten Artikel. Wir haben auch eine Übersicht über die [vollständigen Spezifikationen](specifications/), eine [Bildergalerie](gallery/), detaillierte Informationen zur [Ladeleistung](chargingcurve/) und einige [Online-Bewertungen](reviews/). Unsere Abschnitte:
 
-- [Leistung](#performance)
-- [Batterie, Reichweite und Laden](#battery-range-and-charging)
-- [Antriebsstrang (Federung, Bremsen, Lenkung)](#drivetrain)
-- [Exterieur (Lackfarben, Räder ++)](#exterior)
-- [Interieur (Sitze++)](#interior)
-- [Benutzeroberfläche und Steuerung](#user-interface-and-control)
+- [Leistung](#leistung)
+- [Batterie, Reichweite und Laden](#batterie-reichweite-und-laden)
+- [Antriebsstrang (Federung, Bremsen, Lenkung)](#antriebsstrang)
+- [Exterieur (Lackfarben, Räder ++)](#exterieur)
+- [Interieur (Sitze++)](#interieur)
+- [Benutzeroberfläche und Steuerung](#benutzeroberfläche-und-steuerung)
 - [Infotainment](#infotainment)
-- [Lichter](#lights)
-- [Erweiterte Fahrerassistenzsysteme](#advanced-driver-assistance-systems)
-- [Ladekapazität und Anhängelast](#cargo-capacity-and-towing-ability)
+- [Lichter](#lichter)
+- [Erweiterte Fahrerassistenzsysteme](#erweiterte-fahrerassistenzsysteme)
+- [Ladekapazität und Anhängelast](#ladekapazität-und-anhängelast)
 
 ## Leistung
 
@@ -68,7 +68,7 @@ Der Volkswagen ID.3 GTX Performance verwendet [Scheibenbremsen](../../../../tech
 
 Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell bietet mehrere Modi zur Steigerung der Effizienz und des Fahrerlebnisses. Die effizienteste Option ist der [**Automatische Regenerationsmodus**](../../../../technology/regen/#automatic-regen-adaptive), bei dem das Fahrzeug, wenn möglich, rollt und bei Bedarf durch regenerative Bremsung die Geschwindigkeit reduziert. <br /><br />**Manuelle Regeneration** ist ein weiterer Modus, bei dem die regenerative Bremsung durch Betätigen des Bremspedals gesteuert wird. Das Bremssystem mischt physische Bremsen nur dann ein, wenn es notwendig ist. <br /><br/> Eine weitere Option ist der [**Regen auf dem Gaspedal**](../../../../technology/regen/#one-pedal-driving) Modus, bei dem die regenerative Bremsung aktiviert wird, wenn der Fahrer das Gaspedal loslässt. Dieses System ermöglicht es dem Fahrzeug, langsamer zu werden und Energie zurückzugewinnen, ohne dass der Fahrer das Bremspedal betätigen muss, eine Funktion, die oft als **Ein-Pedal-Fahren** bezeichnet wird.
 
-## Außen
+## Exterieur
 
 Der Volkswagen ID.3 GTX Performance, mit Abmessungen von 4264 mm Länge, 1809 mm Breite und 1564 mm Höhe, fällt in die C-Segment-Autos, auch als Kompaktwagen bekannt, bieten eine Balance zwischen Größe, Leistung und Erschwinglichkeit, was sie vielseitig für eine Vielzahl von Fahrern macht. Der Volkswagen ID.3 GTX Performance ist in insgesamt 5 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
@@ -89,7 +89,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 {{<evkxdisplayaddarticle />}}
 
-## Innenraum
+## Interieur
 
 Das Interieur des Volkswagen ID.3 GTX Performance ist funktional, mit mittelmäßigen Materialien im gesamten Fahrzeug. Es umfasst eine schwebende Mittelkonsole, die einen offenen Raum zwischen Fahrer und Beifahrer schafft und praktische Stauraumoptionen bietet. Das Gesamtdesign priorisiert Praktikabilität und Benutzerfreundlichkeit.
 
