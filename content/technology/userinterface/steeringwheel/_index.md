@@ -10,17 +10,17 @@ Steering wheels come in various shapes, sizes, and materials. Common steering wh
 
 {{< sitefiguresized thumb="technology/userinterface/steeringwheel/porschewheel_1_st.jpg" width="3000" height="2140" title="Porsche Taycan steering wheel" >}}
 
-Both Tesla and Lexus have launched EVs with Yoke wheels. However, this design has gotten mixed reviews.
+Both Tesla and Lexus have launched EVs with Yoke wheels. However, this design has received mixed reviews.
 
-{{< sitefiguresized thumb="technology/userinterface/steeringwheel/teslayoke_st.jpg" width="3000" height="2000" title="Porsche Taycan steering wheel" >}}
+{{< sitefiguresized thumb="technology/userinterface/steeringwheel/teslayoke_st.jpg" width="3000" height="2000" title="Tesla Yoke steering wheel" >}}
 
 The size of a steering wheel can vary depending on the make and model of the vehicle, with smaller steering wheels often used in sportier cars for more precise control.
 
-The manufacturers typically construct the steering wheels with a metal or plastic core covered with a soft, grippy material such as leather, synthetic leather, or rubber for better grip and comfort.
+Manufacturers typically construct steering wheels with a metal or plastic core covered with a soft, grippy material such as leather, synthetic leather, or rubber for better grip and comfort.
 
 ## Steering wheel buttons and controls
 
-Many modern steering wheels also incorporate additional features such as buttons or switches for controlling various vehicle functions, such as audio controls, cruise control, phone calls, and more. The manufacturer typically locates these buttons or switches on the steering wheel rim or spokes for easy driving access.
+Many modern steering wheels incorporate additional features such as buttons or switches for controlling various vehicle functions, such as audio controls, cruise control, phone calls, and more. These buttons or switches are typically located on the steering wheel rim or spokes for easy access while driving.
 
 Buttons on steering wheels can vary in functionality depending on the make and model of the vehicle.
 
@@ -30,11 +30,11 @@ Buttons on steering wheels can vary in functionality depending on the make and m
 
 **Cruise control:** These buttons allow the driver to set, adjust, and deactivate the cruise control function, which enables the vehicle to maintain a set speed without the need for continuous throttle input.
 
-**Voice commands:** Many vehicles have voice recognition systems that allow the driver to control various functions using voice commands. The driver may use a  steering wheel button to activate or deactivate voice commands.
+**Voice commands:** Many vehicles have voice recognition systems that allow the driver to control various functions using voice commands. The driver may use a steering wheel button to activate or deactivate voice commands.
 
 **Vehicle information displays:** Some vehicles have displays or screens that provide information about the vehicle’s status, such as fuel level, tire pressure, trip information, and more. The driver can use the steering wheel buttons to navigate and control these displays.
 
-**Regen settings:** Many EVs have paddles to adjust the regen level or mode.
+**Regen settings:** Many EVs have paddles to adjust the regenerative braking level or mode.
 
 ## Adjustment
 
@@ -46,6 +46,6 @@ Modern vehicles offer various steering wheel adjustments to allow drivers to fin
 
 **Memory Settings:** Some luxury vehicles may also have memory settings for steering wheel adjustments, allowing drivers to save their preferred steering wheel position and other seat and mirror settings. This memory is helpful for multiple drivers who share a vehicle or drivers who prefer different driving positions for different situations.
 
-It's important to note that proper steering wheel adjustment is crucial for safe driving. Drivers should adjust their steering wheel to allow a relaxed and comfortable grip, with their arms slightly bent and shoulders relaxed. In addition, the steering wheel should not obstruct the driver’s view of the instrument panel or the road, and the airbag should be positioned correctly in an emergency.
+Proper steering wheel adjustment is crucial for safe driving. Drivers should adjust their steering wheel to allow a relaxed and comfortable grip, with their arms slightly bent and shoulders relaxed. In addition, the steering wheel should not obstruct the driver’s view of the instrument panel or the road, and the airbag should be positioned correctly in an emergency.
 
 {{< pagenavigation b_url="../buttons/" b_title="Physical Buttons" f_url="../stalks/" f_title="Stalks" >}}
