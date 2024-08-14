@@ -30,7 +30,7 @@ Volkswagen ID.3 GTX levererar en solid prestanda med en maximal effekt på 210 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 3 kWh (3,7%) för batteriskydd. Med en nominell spänning på 352 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 79,0 kWh, vilket ger en buffert på 3,0 kWh (3,7%) för batteriskydd. Med en nominell spänning på 352 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 13,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX har ett bakhjulsdriftssystem som stöds av en motor på baka
 
 ### Hjulupphängning
 
-standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 150 mm.
+standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 149 mm.
 
 ### Styrning
 

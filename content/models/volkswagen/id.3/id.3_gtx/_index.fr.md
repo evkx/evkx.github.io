@@ -30,7 +30,7 @@ La Volkswagen ID.3 GTX offre des performances solides avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 79 kWh, offrant une réserve de 3 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 352 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 79,0 kWh, offrant une réserve de 3,0 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 352 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 600 km, avec une consommation d'énergie de 13,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX dispose d'un système de propulsion arrière pris en charge 
 
 ### Suspension
 
-La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 150 mm.
+La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 149 mm.
 
 ### Pilotage
 

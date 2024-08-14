@@ -30,7 +30,7 @@ El Volkswagen ID.3 GTX ofrece un rendimiento sólido con una potencia máxima de
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 79 kWh, proporcionando un buffer de 3 kWh (3,7%) para la protección de la batería. Con un voltaje nominal de 352 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 79,0 kWh, proporcionando un buffer de 3,0 kWh (3,7%) para la protección de la batería. Con un voltaje nominal de 352 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 600 km, con una tasa de consumo de energía de 13,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ Volkswagen ID.3 GTX tiene un sistema de tracción trasera sostenido por un motor
 
 ### Suspensión
 
-La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 150 mm.
+La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 149 mm.
 
 ### Dirección
 

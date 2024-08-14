@@ -36,13 +36,13 @@ Tesla Model 3 (GEN1) tilbyr beskjedne ytelser med en maksimal effekt på 208 kW 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 59 kWh, som gir en buffer på 1 kWh (1,7%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 60,0 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 1,0 kWh (1,7%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 495 og 491 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 11,9 kWh/100 km for basismodellen og 12,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder.
+Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 68 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 88kW. Hver ladeøkt vil ta 18 minutter og 25 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 17 kWh/100 km, ville turen ta omtrent 9 timer og 41 minutter. Denne reisen ville kreve to ladestopp fra 3% til 51%, med en total ladetid på 82 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 17 kWh/100 km, ville turen ta omtrent 9 timer og 36 minutter. Denne reisen ville kreve to ladestopp fra 0% til 48%, med en total ladetid på 77 minutter.
 
 ### Ombordlader
 

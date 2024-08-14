@@ -54,7 +54,7 @@ Der Volkswagen ID.3 GTX hat ein Heckantriebssystem, das von einem Motor an der H
 
 ### Federung
 
-Die standard Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 150 mm.
+Die standard Federung hat Stahlfedern mit einer festen Höhe, aber eine optionale Dämpfungseinstellung. Die Bodenfreiheit mit dieser Federung beträgt 149 mm.
 
 ### Lenkung
 

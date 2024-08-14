@@ -54,7 +54,7 @@ The Volkswagen ID.3 GTX has a rear-wheel drive system supported by one motor on 
 
 ### Suspension
 
-The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 150 mm.
+The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 149 mm.
 
 ### Steering
 

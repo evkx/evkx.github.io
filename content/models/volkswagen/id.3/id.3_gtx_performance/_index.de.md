@@ -54,7 +54,7 @@ Der Volkswagen ID.3 GTX Performance hat ein Heckantriebssystem, das von einem Mo
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Sport Suspension with DCC Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 150 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die Sport Suspension with DCC Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 149 mm.
 
 ### Lenkung
 
