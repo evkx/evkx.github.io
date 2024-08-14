@@ -1,0 +1,41 @@
+[create-header-md]
+other = "Erstellen Sie eine _header.md, um dies anzupassen"
+
+[Search-placeholder]
+other = "Suchen..."
+
+[Clear-History]
+other = "Verlauf löschen"
+
+[Page]
+other = "Seite"
+
+[Next-Pages]
+other = "Nächste Seiten"
+
+[Previous-Pages]
+other = "Vorherige Seiten"
+
+[pagination-on]
+other = "an"
+
+[Attachments-label]
+other = "Anhänge"
+
+[title-404]
+other = "Fehler"
+
+[message-404]
+other = "Hoppla. Es sieht so aus, als ob diese Seite nicht existiert."
+
+[Go-to-homepage]
+other = "Zur Startseite"
+
+[Edit-this-page]
+other = "Änderung vorschlagen"
+
+[Navigation]
+other = "Navigation"
+
+[Last-Modified]
+other = "Zuletzt geändert: "

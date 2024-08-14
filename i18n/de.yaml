@@ -1,0 +1,161 @@
+- id: menu-technology
+  translation: Technologie
+
+- id: menu-guides
+  translation: Anleitungen
+
+- id: menu-search
+  translation: EV-Suche
+
+- id: menu-brands
+  translation: Marken & Modelle
+
+- id: menu-about
+  translation: Über EVKX.net
+
+- id: language
+  translation: Sprache
+
+- id: common-section-search-title
+  translation: EV-Suche
+
+- id: common-section-search-description
+  translation: EVKX.net hat die vollständigste EV-Datenbank. Suchen und filtern Sie nach vielen Merkmalen und Spezifikationen.
+
+- id: common-section-search-link
+  translation: Zur EV-Suche
+
+- id: common-section-mostsold-world-title
+  translation: Meistverkaufte EVs weltweit
+
+- id: common-section-mostsold-world-description
+  translation: Unten finden Sie die Top 10 der meistverkauften EV-Modelle der Welt. Klicken Sie auf den Namen für vollständige Informationen.
+
+- id: common-section-technology-title
+  translation: EV-Technologie lernen
+
+- id: common-section-technology-description
+  translation: EVKX.net bietet die umfangreichste Sammlung von ausführlichen Artikeln über EV-Technologie.
+
+- id: common-section-technology-gotosection
+  translation: Alle Artikel in unserem Technologiebereich anzeigen.
+
+- id: common-section-technology-section-battery
+  translation: Batterie
+
+- id: common-section-technology-section-adas
+  translation: Fahrerassistenzsysteme
+
+- id: common-section-technology-section-motors
+  translation: Elektromotoren
+
+- id: common-section-technology-section-suspension
+  translation: Aufhängung
+
+- id: common-section-technology-section-brakes
+  translation: Bremsen
+
+- id: common-section-technology-section-lights
+  translation: Beleuchtung
+
+- id: common-section-technology-section-regen
+  translation: Rekuperationsbremse
+
+- id: common-section-technology-section-seats
+  translation: Sitze
+
+- id: common-section-technology-section-sensors
+  translation: Sensoren & Kameras
+
+- id: common-section-technology-section-ui
+  translation: Benutzeroberfläche
+
+- id: common-section-guides-title
+  translation: Anleitungen
+
+- id: common-section-guides-description
+  translation: Unten finden Sie verschiedene Anleitungen zum Besitz eines EV und zur Nutzung dieser Website.
+
+- id: common-section-guides-gotosection
+  translation: Alle unsere Anleitungen anzeigen.
+
+- id: common-section-guides-section-search
+  translation: So verwenden Sie die EV-Suche
+
+- id: common-section-guides-section-preservebattery
+  translation: Batterie schonen
+
+- id: common-section-guides-section-preservebattery-description
+  translation: In dieser Anleitung erklären wir, was Sie tun können, um die Lebensdauer der Batterie zu maximieren.
+
+- id: common-section-guides-section-understandingrange
+  translation: Reichweite verstehen
+
+- id: common-section-guides-section-understandingrange-description
+  translation: Für viele ist die Reichweite des EV der wichtigste Aspekt. Erfahren Sie, welche Aspekte des EV die angegebene Reichweite beeinflussen und verstehen Sie, was sie in der realen Welt beeinflusst.
+
+- id: common-section-guides-section-vehicletypes
+  translation: Fahrzeugtypen
+
+- id: common-section-guides-section-reviewers
+  translation: EV-Bewerter
+
+- id: common-section-guides-section-checkingbatteryhealth
+  translation: So überprüfen Sie den Batteriezustand
+
+- id: common-section-models-title
+  translation: Marken & Modelle
+
+- id: common-section-models-description
+  translation: Lesen Sie unten über die verschiedenen Marken, ihre EV-Strategien und die vollständigsten Informationen zu allen Modellen.
+
+- id: common-section-latest-reviews
+  translation: Neueste Bewertungen
+
+- id: frontpage-description-f349adfd
+  translation: Der Porsche Taycan Sport Turismo ist ein vollelektrischer Luxus-Kombi mit einer WLTP-Reichweite von bis zu 678 km (421 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-4bb6a764
+  translation: Der Volkswagen ID.7 GTX ist eine vollelektrische Limousine mit einer WLTP-Reichweite von bis zu 595 km (370 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-6d138500
+  translation: Der Volkswagen ID.3 GTX Performance ist ein vollelektrischer Schrägheckwagen mit einer WLTP-Reichweite von bis zu 601 km (374 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-3c8e420a
+  translation: Der Audi A6 Sportback e-tron performance ist eine vollelektrische Premium-Limousine mit einer WLTP-Reichweite von bis zu 756 km (470 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-84669ace
+  translation: Der Audi A6 Avant e-tron performance ist ein vollelektrischer Premium-Kombi mit einer WLTP-Reichweite von bis zu 720 km (448 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-dbb2a6ae
+  translation: Der Audi S6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer WLTP-Reichweite von bis zu 675 km (420 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-80822ada
+  translation: Der Audi S6 Avant e-tron ist ein vollelektrischer Premium-Kombi mit einer WLTP-Reichweite von bis zu 647 km (402 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-8a79e429
+  translation: Der Audi Q4 35 e-tron ist ein vollelektrisches Premium-SUV mit einer WLTP-Reichweite von bis zu 355 km (221 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-fc8a4c77
+  translation: Der Volkswagen Id. UNYX ist ein vollelektrisches Coupé-SUV mit einer CLTC-Reichweite von bis zu 621 km (386 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-a2eb14cb
+  translation: Der Porsche Macan ist ein vollelektrisches Premium-Coupé-SUV mit einer WLTP-Reichweite von bis zu 641 km (398 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-cf6d039f
+  translation: Der Porsche Macan 4S ist ein vollelektrisches Premium-Coupé-SUV mit einer WLTP-Reichweite von bis zu 609 km (379 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-a012ca56
+  translation: Der Fiat Grande Panda ist ein vollelektrisches Crossover mit einer WLTP-Reichweite von bis zu 320 km (199 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-51783471
+  translation: Der Rivian R1S Dual-Motor AWD SP ist ein vollelektrisches Premium-SUV mit einer EPA-Reichweite von bis zu 434 km (270 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-8839c318
+  translation: Der Ford Capri Extended Range AWD ist ein vollelektrisches Coupé-SUV mit einer WLTP-Reichweite von bis zu 592 km (368 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-a9c21461
+  translation: Der Ford Capri Extended Range RWD ist ein vollelektrisches Coupé-SUV mit einer WLTP-Reichweite von bis zu 627 km (390 Meilen). EVKX.net hat alle Details.
+
+- id: frontpage-description-ee8cb93d
+  translation: Der Opel Frontera ist ein vollelektrisches Crossover mit einer WLTP-Reichweite von bis zu 306 km (190 Meilen). EVKX.net hat alle Details.
