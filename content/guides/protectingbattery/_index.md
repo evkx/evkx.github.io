@@ -1,50 +1,45 @@
 ---
 title: How to protect the battery on my EV?
 linktitle: Protecting battery
-description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer. 
+description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer.
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-Many factors increase degradation but the following are the most important factors.
+Many factors contribute to battery degradation, but the following are the most significant.
 
 ### High-Speed Charging
 
-High-speed charging is the single factor that increases the degradation the most.
+High-speed charging is the single most significant factor that increases battery degradation. Whenever possible, try to charge your EV at home using a slower charger.
 
-You should try to charge at home at much as possible.
+### High or Low State of Charge Over a Long Time
 
-### High or low state of charge over a long time
-
-Most EV's has a buffer to protect the battery.
-But many people believe this buffer protects it against charging to 100%. But in most cases, all or almost all buffer is on the bottom to protect the battery from running empty.
+Most EVs have a buffer to protect the battery. However, many people mistakenly believe this buffer protects against charging to 100%. In most cases, the buffer is primarily at the bottom to prevent the battery from running empty.
 
 {{< sitefiguresized thumb="guides/protectingbattery/buffersize_st.png" width="1232" height="844" title="Buffer size" >}}
 
-Most EV brands recommends not to charge more than 80% on daily basis. This is shown in the MMI and the user manual.
+Most EV manufacturers recommend not charging more than 80% on a daily basis. This recommendation is typically shown in the MMI and the user manual.
 
-{{< sitefiguresized thumb="guides/protectingbattery/chargingtarget_st.png" width="959" height="478" title="Buffer size" >}}
+{{< sitefiguresized thumb="guides/protectingbattery/chargingtarget_st.png" width="959" height="478" title="Charging target" >}}
 
 The graph below shows a generalized stress level depending on the charge level.
 
 {{< sitefiguresized thumb="guides/protectingbattery/evstoragestress_st.png" width="623" height="473" title="Storage stress" >}}
 
-Based on this the optimal is probably to keep it between 30 and 70%, but how much better it is compared to just charge to 100% is impossible to know.
+Based on this, the optimal charge level is likely between 30% and 70%. However, the exact benefit compared to charging to 100% is difficult to quantify.
 
-The buffers are in reality limits on the max and minimum voltage each cell can have. Having a 4% buffer on top means the voltage on each cell is limited to a max of 96% of the max voltage.
+The buffers are essentially limits on the maximum and minimum voltage each cell can have. For example, a 4% buffer on top means the voltage on each cell is limited to a maximum of 96% of the maximum voltage.
 
-### Number of charge cycles
+### Number of Charge Cycles
 
-The number of charge cycles affects the degradation.
-
-The diagram below shows hows the battery degrade based on charging habits.
+The number of charge cycles also affects battery degradation. The diagram below shows how the battery degrades based on charging habits.
 
 {{< sitefiguresized thumb="guides/protectingbattery/dstcycles_st.png" width="570" height="456" title="DST Cycles" >}}
 
-Based on this, the best is to keep the charging levels around 50%.
+Based on this, it is best to keep the charging levels around 50%.
 
 ### High Temperature
 
-High temperatures hurt the battery. If you live in an area with high temperatures, you should try to avoid having the car parked in the heating sun all day.
+High temperatures can damage the battery. If you live in an area with high temperatures, try to avoid parking your car in direct sunlight for extended periods.
 
-You can find more about degradation in our [battery guide](../../../technology/battery/).
+You can find more information about battery degradation in our [battery guide](../../../technology/battery/).
