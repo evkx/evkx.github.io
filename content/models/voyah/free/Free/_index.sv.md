@@ -173,6 +173,8 @@ VOYAH FREE är utrustad med en enda typ av ratt:
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
 
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
+
 Ett gestkontrollsystem som låter dig styra specifika funktioner med dina händer.
 
 ## Infotainment
@@ -251,6 +253,12 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.12.2020 och leveranserna startade i June 2021.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- 599 900,00 NOK (Norge)
 
 ## Alternativa Modeller
 

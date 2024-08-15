@@ -145,6 +145,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1042,6 +1050,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Röststyrning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

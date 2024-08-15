@@ -145,6 +145,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1042,6 +1050,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

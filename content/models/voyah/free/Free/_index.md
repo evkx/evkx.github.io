@@ -173,6 +173,8 @@ The VOYAH FREE is equipped with a single type of steering wheel:
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
 A gesture control system that lets you control specific features using your hands.
 
 ## Infotainment
@@ -251,6 +253,12 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 The VOYAH FREE had its world premiere on 18.12.2020, with deliveries starting in June 2021.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 599 900,00 NOK (Norway)
 
 ## Alternative Models
 

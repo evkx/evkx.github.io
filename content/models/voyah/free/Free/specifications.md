@@ -145,6 +145,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1042,6 +1050,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

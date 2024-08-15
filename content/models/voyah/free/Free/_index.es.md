@@ -173,6 +173,8 @@ El VOYAH FREE está equipado con un solo tipo de volante:
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
 
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+
 Un sistema de control de gestos que te permite controlar funciones específicas usando tus manos.
 
 ## Infoentretenimiento
@@ -251,6 +253,12 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.12.2020 y las entregas comenzaron en June 2021.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- 599 900,00 NOK (Noruega)
 
 ## Modelos Alternativos
 

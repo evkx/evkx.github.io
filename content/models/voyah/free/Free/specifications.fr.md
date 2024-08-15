@@ -145,6 +145,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				100 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NCM
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1042,6 +1050,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

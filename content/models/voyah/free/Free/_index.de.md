@@ -173,6 +173,8 @@ Der VOYAH FREE ist mit einem einzigen Lenkradtyp ausgestattet:
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
+
 Ein Gestensteuerungssystem, mit dem Sie bestimmte Funktionen mit Ihren Händen steuern können.
 
 ## Infotainment
@@ -251,6 +253,12 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 ## Verfügbarkeit & Preise
 
 Der VOYAH FREE feierte seine Weltpremiere am 18.12.2020, mit Lieferungen ab June 2021.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 599 900,00 NOK (Norwegen)
 
 ## Alternative Modelle
 
