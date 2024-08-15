@@ -30,7 +30,7 @@ XPENG G9 AWD Performance imponerer med en imponerende kraft på 405 kW (551 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 98 kWh og en netto brukbar kapasitet på 93,6 kWh, som gir en buffer på 4,4 kWh (4,5%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 98,0 kWh og en netto brukbar kapasitet på 93,6 kWh, som gir en buffer på 4,4 kWh (4,5%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 520 km, med et energiforbruk på 18,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

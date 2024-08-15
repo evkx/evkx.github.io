@@ -30,7 +30,7 @@ Chevrolet Silverado EV SRT imponerar med en imponerande kraft på 562 kW (764 hk
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 240 kWh och en nettoanvändbar kapacitet på 215 kWh, vilket ger en buffert på 25 kWh (10,4%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 240,0 kWh och en nettoanvändbar kapacitet på 215,0 kWh, vilket ger en buffert på 25,0 kWh (10,4%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 30,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

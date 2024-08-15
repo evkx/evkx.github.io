@@ -30,7 +30,7 @@ L'SKODA Elroq 50 offre des performances modestes avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 55 kWh et une capacité nette utilisable de 52 kWh, offrant une réserve de 3 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 55,0 kWh et une capacité nette utilisable de 52,0 kWh, offrant une réserve de 3,0 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 350 km, avec une consommation d'énergie de 14,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

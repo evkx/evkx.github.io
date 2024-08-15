@@ -30,7 +30,7 @@ Volkswagen ID. Buzz Pro LWB levererar en solid prestanda med en maximal effekt p
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 91,0 kWh och en nettoanvändbar kapacitet på 86,0 kWh, vilket ger en buffert på 5,0 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 461 och 452 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 18,7 kWh/100 km för basmodellen och 19,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

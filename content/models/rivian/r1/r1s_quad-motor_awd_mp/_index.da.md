@@ -30,7 +30,7 @@ Rivian R1S Quad-Motor AWD MP leverer en imponerende maksimal effekt på 764 KW (
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 149 kWh og en nettoanvendelig kapacitet på 141,5 kWh, hvilket giver en buffer på 7,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 392 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 149,0 kWh og en nettoanvendelig kapacitet på 141,5 kWh, hvilket giver en buffer på 7,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 392 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimerede rækkevidde varierer mellem 321 til 340 miles (516-547 km), afhængigt af bilens konfiguration og muligheder. For eksempel kan større hjul øge energiforbruget og reducere den samlede rækkevidde.
 Energiforbrugsraterne er 2,3 mi/kWh for basismodellen og 2,4 mi/kWh for topmodellen, ifølge EPA standardtest. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)

@@ -30,7 +30,7 @@ Mini Cooper SE tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 h
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 54,2 kWh og en netto brukbar kapasitet på 49 kWh, som gir en buffer på 5,2 kWh (9,6%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 54,2 kWh og en netto brukbar kapasitet på 49,0 kWh, som gir en buffer på 5,2 kWh (9,6%) for batteribeskyttelse.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 402 og 377 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 12,2 kWh/100 km for basismodellen og 13,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

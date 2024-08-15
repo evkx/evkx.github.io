@@ -30,7 +30,7 @@ Med overboost når Fisker Ocean Sport en maximal effekt på 209 kW (284 hk). Uta
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 73 kWh och en nettoanvändbar kapacitet på 70 kWh, vilket ger en buffert på 3 kWh (4,1%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 73,0 kWh och en nettoanvändbar kapacitet på 70,0 kWh, vilket ger en buffert på 3,0 kWh (4,1%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 464 km (199 miles), med en energiförbrukningshastighet på 15,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

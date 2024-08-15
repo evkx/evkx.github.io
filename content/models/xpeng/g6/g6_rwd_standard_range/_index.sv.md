@@ -30,7 +30,7 @@ XPENG G6 RWD Standard Range levererar en solid prestanda med en maximal effekt p
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 67 kWh och en nettoanvändbar kapacitet på 66 kWh, vilket ger en buffert på 1 kWh (1,5%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 67,0 kWh och en nettoanvändbar kapacitet på 66,0 kWh, vilket ger en buffert på 1,0 kWh (1,5%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 435 km (199 miles), med en energiförbrukningshastighet på 15,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

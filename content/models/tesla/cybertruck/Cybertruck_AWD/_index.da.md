@@ -30,7 +30,7 @@ Tesla Cybertruck AWD imponerer med en maksimal effekt på 448 kW (609 hk) og et 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 123 kWh og en nettoanvendelig kapacitet på 122,5 kWh, hvilket giver en buffer på 0,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 710 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
+Det højkapacitetsbatteri har en bruttokapacitet på 123,0 kWh og en nettoanvendelig kapacitet på 122,5 kWh, hvilket giver en buffer på 0,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 710 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 547 km med en energiforbrugsrate på 22,4 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

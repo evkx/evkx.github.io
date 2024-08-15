@@ -30,7 +30,7 @@ Ford F150 Lightning Standard Range imponerer med en maksimal effekt på 433 kW (
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 110 kWh og en nettoanvendelig kapacitet på 98 kWh, hvilket giver en buffer på 12 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 110,0 kWh og en nettoanvendelig kapacitet på 98,0 kWh, hvilket giver en buffer på 12,0 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 427 km, med et energiforbrugsrate på 23,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

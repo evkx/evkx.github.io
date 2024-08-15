@@ -30,7 +30,7 @@ Genesis GV60 AWD leverer solid ytelse med en maksimal effekt på 234 kW (318 hk)
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74 kWh, som gir en buffer på 3,4 kWh (4,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 697 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74,0 kWh, som gir en buffer på 3,4 kWh (4,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 697 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 470 km, med et energiforbruk på 15,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

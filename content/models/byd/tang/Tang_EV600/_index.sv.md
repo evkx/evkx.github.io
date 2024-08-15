@@ -30,7 +30,7 @@ BYD Tang EV600 levererar en solid prestanda med en maximal effekt på 380 kW (51
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 90 kWh och en nettoanvändbar kapacitet på 86,4 kWh, vilket ger en buffert på 3,6 kWh (4,0%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 90,0 kWh och en nettoanvändbar kapacitet på 86,4 kWh, vilket ger en buffert på 3,6 kWh (4,0%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 21,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

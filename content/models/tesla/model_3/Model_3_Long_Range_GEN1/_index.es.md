@@ -36,7 +36,7 @@ El Tesla Model 3 Long Range (GEN1) ofrece un rendimiento sólido con una potenci
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 75 kWh, proporcionando un buffer de 7 kWh (8,5%) para la protección de la batería. Con un voltaje nominal de 357 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 75,0 kWh, proporcionando un buffer de 7,0 kWh (8,5%) para la protección de la batería. Con un voltaje nominal de 357 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 602 km, con una tasa de consumo de energía de 12,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

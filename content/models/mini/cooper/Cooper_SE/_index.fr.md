@@ -30,7 +30,7 @@ L'Mini Cooper SE offre des performances modestes avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 54,2 kWh et une capacité nette utilisable de 49 kWh, offrant une réserve de 5,2 kWh (9,6%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 54,2 kWh et une capacité nette utilisable de 49,0 kWh, offrant une réserve de 5,2 kWh (9,6%) pour la protection de la batterie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 402 et 377 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,2 kWh/100 km pour le modèle de base et à 13,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

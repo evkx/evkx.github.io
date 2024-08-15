@@ -30,7 +30,7 @@ BMW iX xDrive50 leverer solid ytelse med en maksimal effekt på 385 kW (524 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 111 kWh og en netto brukbar kapasitet på 105,2 kWh, som gir en buffer på 5,8 kWh (5,2%) for batteribeskyttelse. Med en nominell spenning på 369 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 111,0 kWh og en netto brukbar kapasitet på 105,2 kWh, som gir en buffer på 5,8 kWh (5,2%) for batteribeskyttelse. Med en nominell spenning på 369 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 631 og 550 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 16,7 kWh/100 km for basismodellen og 19,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

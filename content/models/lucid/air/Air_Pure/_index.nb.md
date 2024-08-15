@@ -30,7 +30,7 @@ Lucid Air Pure leverer solid ytelse med en maksimal effekt på 320,5 kW (436 hk)
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 88 kWh og en netto brukbar kapasitet på 84 kWh, som gir en buffer på 4 kWh (4,5%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 88,0 kWh og en netto brukbar kapasitet på 84,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 747 og 708 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 11,2 kWh/100 km for basismodellen og 11,9 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ HiPhi Y Performance levererar en solid prestanda med en maximal effekt på 371 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 115 kWh och en nettoanvändbar kapacitet på 109 kWh, vilket ger en buffert på 6 kWh (5,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 115,0 kWh och en nettoanvändbar kapacitet på 109,0 kWh, vilket ger en buffert på 6,0 kWh (5,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 620 km (199 miles), med en energiförbrukningshastighet på 17,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

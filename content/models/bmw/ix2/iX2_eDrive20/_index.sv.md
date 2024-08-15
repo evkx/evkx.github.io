@@ -30,7 +30,7 @@ BMW iX2 eDrive20 erbjuder blygsamma prestanda med en maximal effekt på 150 kW (
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 68 kWh och en nettoanvändbar kapacitet på 64,7 kWh, vilket ger en buffert på 3,3 kWh (4,9%) för batteriskydd. Med en nominell spänning på 286 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 68,0 kWh och en nettoanvändbar kapacitet på 64,7 kWh, vilket ger en buffert på 3,3 kWh (4,9%) för batteriskydd. Med en nominell spänning på 286 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 449 och 417 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,4 kWh/100 km för basmodellen och 15,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ La Smart #3 Brabus offre des performances solides avec une puissance maximale de
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 66 kWh et une capacité nette utilisable de 62 kWh, offrant une réserve de 4 kWh (6,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 66,0 kWh et une capacité nette utilisable de 62,0 kWh, offrant une réserve de 4,0 kWh (6,1%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 415 km, avec une consommation d'énergie de 14,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

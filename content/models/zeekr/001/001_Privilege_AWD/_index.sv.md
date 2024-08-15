@@ -30,7 +30,7 @@ Zeekr 001 Privilege AWD imponerar med en imponerande kraft på 400 kW (544 hk) o
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 95 kWh, vilket ger en buffert på 5 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 95,0 kWh, vilket ger en buffert på 5,0 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 580 km (199 miles), med en energiförbrukningshastighet på 16,4 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

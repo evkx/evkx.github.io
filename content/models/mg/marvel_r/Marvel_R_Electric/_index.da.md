@@ -30,7 +30,7 @@ MG Marvel R Electric tilbyder beskedne præstationer med en maksimal effekt på 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendelig kapacitet på 70 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 75,0 kWh og en nettoanvendelig kapacitet på 70,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 402 km, med et energiforbrugsrate på 17,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

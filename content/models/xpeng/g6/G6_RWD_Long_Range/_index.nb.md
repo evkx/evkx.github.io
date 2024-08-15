@@ -30,7 +30,7 @@ XPENG G6 RWD Long Range leverer solid ytelse med en maksimal effekt på 218 kW (
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 92 kWh og en netto brukbar kapasitet på 87,5 kWh, som gir en buffer på 4,5 kWh (4,9%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 92,0 kWh og en netto brukbar kapasitet på 87,5 kWh, som gir en buffer på 4,5 kWh (4,9%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 755 km ( miles). Forbruket er 11,6kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

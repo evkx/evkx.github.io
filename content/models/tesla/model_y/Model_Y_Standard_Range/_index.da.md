@@ -34,7 +34,7 @@ Tesla Model Y Standard Range har fire batterimuligheder med forskellige specifik
 
 ### CATL LFP Europa/China market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 60 kWh og en nettoanvendelig kapacitet på 55 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvendelig kapacitet på 55,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### BYD LFP Europa/China market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 60 kWh og en nettoanvendelig kapacitet på 55 kWh, hvilket giver en buffer på 5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 60,0 kWh og en nettoanvendelig kapacitet på 55,0 kWh, hvilket giver en buffer på 5,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### NMC 4850 US Market
 
-Det højkapacitetsbatteri har en bruttokapacitet på 70 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -64,7 +64,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### NMC 21700 US Market Software locked
 
-Det højkapacitetsbatteri har en bruttokapacitet på 70 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 70,0 kWh og en nettoanvendelig kapacitet på 68,5 kWh, hvilket giver en buffer på 1,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 340 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 430 km, med et energiforbrugsrate på 12,8 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

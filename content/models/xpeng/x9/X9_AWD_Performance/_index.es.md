@@ -30,7 +30,7 @@ El XPENG X9 AWD Performance ofrece un rendimiento sólido con una potencia máxi
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 101,5 kWh y una capacidad neta utilizable de 98 kWh, proporcionando un buffer de 3,5 kWh (3,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 101,5 kWh y una capacidad neta utilizable de 98,0 kWh, proporcionando un buffer de 3,5 kWh (3,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 640 km ( millas). El consumo es de 15,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ BYD Dolphin 60.4kWh erbjuder blygsamma prestanda med en maximal effekt på 150 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 60,4 kWh och en nettoanvändbar kapacitet på 62 kWh, vilket ger en buffert på -1,6 kWh (−2,6%) för batteriskydd. Med en nominell spänning på 403 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 60,4 kWh och en nettoanvändbar kapacitet på 62,0 kWh, vilket ger en buffert på −1,6 kWh (−2,6%) för batteriskydd. Med en nominell spänning på 403 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 427 km (199 miles), med en energiförbrukningshastighet på 14,5 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

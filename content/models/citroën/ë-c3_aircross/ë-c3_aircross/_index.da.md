@@ -30,7 +30,7 @@ Citroën ë-C3 Aircross kWh leverer grundlæggende ydeevne med en maksimal effek
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 45 kWh og en nettoanvendelig kapacitet på 44 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 45,0 kWh og en nettoanvendelig kapacitet på 44,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 306 km, med et energiforbrugsrate på 14,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

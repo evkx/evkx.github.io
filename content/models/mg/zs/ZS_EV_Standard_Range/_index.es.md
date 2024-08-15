@@ -30,7 +30,7 @@ El MG ZS EV Standard Range ofrece un rendimiento modesto con una potencia máxim
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 51,1 kWh y una capacidad neta utilizable de 49 kWh, proporcionando un buffer de 2,1 kWh (4,1%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 51,1 kWh y una capacidad neta utilizable de 49,0 kWh, proporcionando un buffer de 2,1 kWh (4,1%) para la protección de la batería.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 320 km, con una tasa de consumo de energía de 15,3 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

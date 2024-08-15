@@ -30,7 +30,7 @@ Lotus Emeya R leverer en imponerende maksimal effekt på 675 KW (918 hk) og et m
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 102 kWh og en netto brukbar kapasitet på 100 kWh, som gir en buffer på 2 kWh (2,0%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 102,0 kWh og en netto brukbar kapasitet på 100,0 kWh, som gir en buffer på 2,0 kWh (2,0%) for batteribeskyttelse.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 535 og 490 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 18,7 kWh/100 km for basismodellen og 20,4 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

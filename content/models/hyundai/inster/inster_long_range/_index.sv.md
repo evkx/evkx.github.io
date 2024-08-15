@@ -30,7 +30,7 @@ Hyundai INSTER Long Range erbjuder grundläggande prestanda med en maximal effek
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 49 kWh och en nettoanvändbar kapacitet på 46 kWh, vilket ger en buffert på 3 kWh (6,1%) för batteriskydd. Med en nominell spänning på 310 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 49,0 kWh och en nettoanvändbar kapacitet på 46,0 kWh, vilket ger en buffert på 3,0 kWh (6,1%) för batteriskydd. Med en nominell spänning på 310 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 355 km (199 miles), med en energiförbrukningshastighet på 13,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

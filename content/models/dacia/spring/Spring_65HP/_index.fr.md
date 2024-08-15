@@ -30,7 +30,7 @@ La Dacia Spring 65HP kWh offre des performances de base avec une puissance maxim
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 26,8 kWh et une capacité nette utilisable de 25 kWh, offrant une réserve de 1,8 kWh (6,7%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 26,8 kWh et une capacité nette utilisable de 25,0 kWh, offrant une réserve de 1,8 kWh (6,7%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 220 km, avec une consommation d'énergie de 11,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

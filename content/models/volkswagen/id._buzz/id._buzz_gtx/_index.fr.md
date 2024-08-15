@@ -30,7 +30,7 @@ La Volkswagen ID. Buzz GTX offre des performances solides avec une puissance max
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 82 kWh et une capacité nette utilisable de 79 kWh, offrant une réserve de 3 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 79,0 kWh, offrant une réserve de 3,0 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 19,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

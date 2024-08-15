@@ -30,7 +30,7 @@ El Volkswagen Id. UNYX ofrece un rendimiento sólido con una potencia máxima de
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 5 kWh (6,1%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 77,0 kWh, proporcionando un buffer de 5,0 kWh (6,1%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 621 km ( millas). El consumo es de 12,4kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

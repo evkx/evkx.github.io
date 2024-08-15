@@ -30,7 +30,7 @@ El SKODA Elroq 60 ofrece un rendimiento modesto con una potencia máxima de 150 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 63 kWh y una capacidad neta utilizable de 59 kWh, proporcionando un buffer de 4 kWh (6,3%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 63,0 kWh y una capacidad neta utilizable de 59,0 kWh, proporcionando un buffer de 4,0 kWh (6,3%) para la protección de la batería.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 390 km, con una tasa de consumo de energía de 15,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

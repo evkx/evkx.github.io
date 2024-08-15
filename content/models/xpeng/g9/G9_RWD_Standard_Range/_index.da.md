@@ -30,7 +30,7 @@ XPENG G9 RWD Standard Range leverer en solid præstation med en maksimal effekt 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 78,2 kWh og en nettoanvendelig kapacitet på 75 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 78,2 kWh og en nettoanvendelig kapacitet på 75,0 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 460 km, med et energiforbrugsrate på 16,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ Tesla Model S Standard Range leverer solid ytelse med en maksimal effekt på 381
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 25 kWh (25,0%) for batteribeskyttelse. Med en nominell spenning på 407 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 75,0 kWh, som gir en buffer på 25,0 kWh (25,0%) for batteribeskyttelse. Med en nominell spenning på 407 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 512 og 500 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,6 kWh/100 km for basismodellen og 15,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

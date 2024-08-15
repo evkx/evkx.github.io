@@ -30,7 +30,7 @@ XPENG G6 AWD Performance levererar en solid prestanda med en maximal effekt på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 92 kWh och en nettoanvändbar kapacitet på 87,5 kWh, vilket ger en buffert på 4,5 kWh (4,9%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 92,0 kWh och en nettoanvändbar kapacitet på 87,5 kWh, vilket ger en buffert på 4,5 kWh (4,9%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 550 km (199 miles), med en energiförbrukningshastighet på 15,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

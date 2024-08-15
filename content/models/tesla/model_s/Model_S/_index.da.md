@@ -30,7 +30,7 @@ Tesla Model S imponerer med en maksimal effekt på 493 kW (670 hk) og et imponer
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 104,96 kWh og en nettoanvendelig kapacitet på 96 kWh, hvilket giver en buffer på 8,96 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 407 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 105,0 kWh og en nettoanvendelig kapacitet på 96,0 kWh, hvilket giver en buffer på 9,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 407 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 649 og 634 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,8 kWh/100 km for basismodellen og 15,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

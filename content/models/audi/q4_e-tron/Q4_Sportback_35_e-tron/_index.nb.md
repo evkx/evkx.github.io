@@ -30,7 +30,7 @@ Audi Q4 Sportback 35 e-tron tilbyr beskjedne ytelser med en maksimal effekt på 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 51,5 kWh, som gir en buffer på 3,5 kWh (6,4%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 55,0 kWh og en netto brukbar kapasitet på 51,5 kWh, som gir en buffer på 3,5 kWh (6,4%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 349 og 317 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,8 kWh/100 km for basismodellen og 16,2 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

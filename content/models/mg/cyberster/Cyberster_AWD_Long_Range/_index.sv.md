@@ -30,7 +30,7 @@ MG Cyberster AWD Long Range imponerar med en imponerande kraft på 400 kW (544 h
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 77 kWh och en nettoanvändbar kapacitet på 74,4 kWh, vilket ger en buffert på 2,6 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 77,0 kWh och en nettoanvändbar kapacitet på 74,4 kWh, vilket ger en buffert på 2,6 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 520 km ( miles). Förbrukningen är 14,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ SKODA ENYAQ 60 erbjuder blygsamma prestanda med en maximal effekt på 132 kW (18
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 62 kWh och en nettoanvändbar kapacitet på 58 kWh, vilket ger en buffert på 4 kWh (6,5%) för batteriskydd. Med en nominell spänning på 394 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 62,0 kWh och en nettoanvändbar kapacitet på 58,0 kWh, vilket ger en buffert på 4,0 kWh (6,5%) för batteriskydd. Med en nominell spänning på 394 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 401 och 392 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,5 kWh/100 km för basmodellen och 14,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

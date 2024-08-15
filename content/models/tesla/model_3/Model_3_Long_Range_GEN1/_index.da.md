@@ -36,7 +36,7 @@ Tesla Model 3 Long Range (GEN1) leverer en solid præstation med en maksimal eff
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 82 kWh og en nettoanvendelig kapacitet på 75 kWh, hvilket giver en buffer på 7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 357 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 82,0 kWh og en nettoanvendelig kapacitet på 75,0 kWh, hvilket giver en buffer på 7,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 357 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 602 km, med et energiforbrugsrate på 12,5 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

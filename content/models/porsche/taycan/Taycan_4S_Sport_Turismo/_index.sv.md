@@ -36,7 +36,7 @@ Porsche Taycan 4S Sport Turismo har två batterialternativ med olika specifikati
 
 ### Performance Battery
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89 kWh och en nettoanvändbar kapacitet på 83,6 kWh, vilket ger en buffert på 5,4 kWh (6,1%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 83,6 kWh, vilket ger en buffert på 5,4 kWh (6,1%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 534 och 449 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,7 kWh/100 km för basmodellen och 18,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -46,7 +46,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Performance Battery Plus
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105 kWh och en nettoanvändbar kapacitet på 97 kWh, vilket ger en buffert på 8 kWh (7,6%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 8,0 kWh (7,6%) för batteriskydd. Vid en nominell spänning på 725 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 616 och 522 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,7 kWh/100 km för basmodellen och 18,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

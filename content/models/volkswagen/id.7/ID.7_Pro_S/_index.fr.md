@@ -30,7 +30,7 @@ La Volkswagen ID.7 Pro S offre des performances solides avec une puissance maxim
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 91 kWh et une capacité nette utilisable de 86 kWh, offrant une réserve de 5 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 91,0 kWh et une capacité nette utilisable de 86,0 kWh, offrant une réserve de 5,0 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 709 km, avec une consommation d'énergie de 12,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

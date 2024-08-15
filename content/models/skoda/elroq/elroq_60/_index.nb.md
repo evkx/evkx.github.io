@@ -30,7 +30,7 @@ SKODA Elroq 60 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 h
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 63 kWh og en netto brukbar kapasitet på 59 kWh, som gir en buffer på 4 kWh (6,3%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 63,0 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 4,0 kWh (6,3%) for batteribeskyttelse.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 390 km, med et energiforbruk på 15,1 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

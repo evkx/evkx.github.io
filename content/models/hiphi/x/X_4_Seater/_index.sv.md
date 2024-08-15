@@ -30,7 +30,7 @@ HiPhi X 4 Seater imponerar med en imponerande kraft på 433 kW (589 hk) och ett 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 101 kWh och en nettoanvändbar kapacitet på 97 kWh, vilket ger en buffert på 4 kWh (4,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 101,0 kWh och en nettoanvändbar kapacitet på 97,0 kWh, vilket ger en buffert på 4,0 kWh (4,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 460 km (199 miles), med en energiförbrukningshastighet på 21,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

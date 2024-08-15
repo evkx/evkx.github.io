@@ -84,6 +84,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
+Der VOYAH FREE verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Ein herausragendes Merkmal ist die zweigeteilte Mittelkonsole, die Fahrer und Beifahrer trennt und gleichzeitig praktischen Stauraum und verbesserte Funktionalität bietet.
+
 ### Sitze
 
 Der VOYAH FREE bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
@@ -237,5 +239,16 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
+Der VOYAH FREE feierte seine Weltpremiere am 18.12.2020, mit Lieferungen ab June 2021.
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum VOYAH FREE identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [Nio EL7](/models/nio/el7/el7/)
+
+<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Reichweite" >}}

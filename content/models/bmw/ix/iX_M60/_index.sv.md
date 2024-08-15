@@ -30,7 +30,7 @@ BMW iX M60 imponerar med en imponerande kraft på 455 kW (619 hk) och ett impone
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 111 kWh och en nettoanvändbar kapacitet på 105,2 kWh, vilket ger en buffert på 5,8 kWh (5,2%) för batteriskydd. Med en nominell spänning på 369 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 111,0 kWh och en nettoanvändbar kapacitet på 105,2 kWh, vilket ger en buffert på 5,8 kWh (5,2%) för batteriskydd. Med en nominell spänning på 369 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 561 och 502 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 18,8 kWh/100 km för basmodellen och 21,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ MG MG4 Electric Standard tilbyr beskjedne ytelser med en maksimal effekt på 150
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 51 kWh og en netto brukbar kapasitet på 50,8 kWh, som gir en buffer på 0,2 kWh (0,4%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 51,0 kWh og en netto brukbar kapasitet på 50,8 kWh, som gir en buffer på 0,2 kWh (0,4%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 350 km, med et energiforbruk på 14,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

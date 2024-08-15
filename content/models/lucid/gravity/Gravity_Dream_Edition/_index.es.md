@@ -30,7 +30,7 @@ El Lucid Gravity Dream Edition impresiona con una potencia máxima de 600 kW (81
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 124 kWh y una capacidad neta utilizable de 122 kWh, proporcionando un buffer de 2 kWh (1,6%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 124,0 kWh y una capacidad neta utilizable de 122,0 kWh, proporcionando un buffer de 2,0 kWh (1,6%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 708 km con una tasa de consumo de energía de 17,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

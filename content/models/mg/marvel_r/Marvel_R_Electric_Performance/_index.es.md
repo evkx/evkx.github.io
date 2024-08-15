@@ -30,7 +30,7 @@ El MG Marvel R Electric Performance ofrece un rendimiento sólido con una potenc
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70 kWh, proporcionando un buffer de 5 kWh (6,7%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 75,0 kWh y una capacidad neta utilizable de 70,0 kWh, proporcionando un buffer de 5,0 kWh (6,7%) para la protección de la batería.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 370 km, con una tasa de consumo de energía de 18,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

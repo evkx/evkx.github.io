@@ -30,7 +30,7 @@ Ford Capri Extended Range AWD leverer solid ytelse med en maksimal effekt på 25
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 79 kWh, som gir en buffer på 3 kWh (3,7%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 79,0 kWh, som gir en buffer på 3,0 kWh (3,7%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 592 og 560 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,3 kWh/100 km for basismodellen og 14,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

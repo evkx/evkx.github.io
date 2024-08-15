@@ -30,7 +30,7 @@ XPENG X9 AWD Performance levererar en solid prestanda med en maximal effekt på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 101,5 kWh och en nettoanvändbar kapacitet på 98 kWh, vilket ger en buffert på 3,5 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 101,5 kWh och en nettoanvändbar kapacitet på 98,0 kWh, vilket ger en buffert på 3,5 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km ( miles). Förbrukningen är 15,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ La HiPhi Y Performance offre des performances solides avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 115 kWh et une capacité nette utilisable de 109 kWh, offrant une réserve de 6 kWh (5,2%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 115,0 kWh et une capacité nette utilisable de 109,0 kWh, offrant une réserve de 6,0 kWh (5,2%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 620 km, avec une consommation d'énergie de 17,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

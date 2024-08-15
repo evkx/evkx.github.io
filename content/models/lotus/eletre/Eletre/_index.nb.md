@@ -30,7 +30,7 @@ Lotus Eletre imponerer med en imponerende kraft på 450 kW (612 hk) og et betyde
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 112 kWh og en netto brukbar kapasitet på 109 kWh, som gir en buffer på 3 kWh (2,7%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 112,0 kWh og en netto brukbar kapasitet på 109,0 kWh, som gir en buffer på 3,0 kWh (2,7%) for batteribeskyttelse.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 600 og 535 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 18,2 kWh/100 km for basismodellen og 20,4 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

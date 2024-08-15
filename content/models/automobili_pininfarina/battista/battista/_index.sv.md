@@ -30,7 +30,7 @@ Automobili Pininfarina Battista levererar en häpnadsväckande maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 120 kWh och en nettoanvändbar kapacitet på 106,8 kWh, vilket ger en buffert på 13,2 kWh (11,0%) för batteriskydd. Vid en nominell spänning på 630 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 120,0 kWh och en nettoanvändbar kapacitet på 106,8 kWh, vilket ger en buffert på 13,2 kWh (11,0%) för batteriskydd. Vid en nominell spänning på 630 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 490 km (199 miles), med en energiförbrukningshastighet på 21,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

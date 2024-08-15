@@ -30,7 +30,7 @@ Cadillac ESCALADE IQ imponerer med en imponerende kraft på 560 kW (761 hk) og e
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 215 kWh og en netto brukbar kapasitet på 200 kWh, som gir en buffer på 15 kWh (7,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 650 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 215,0 kWh og en netto brukbar kapasitet på 200,0 kWh, som gir en buffer på 15,0 kWh (7,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 650 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 724 km med en energiforbrukshastighet på 27,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

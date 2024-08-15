@@ -34,7 +34,7 @@ Nio ES8 har to batterimuligheder med forskellige specifikationer. Nedenfor kan d
 
 ### 100kWh
 
-Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 90 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 358 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 100,0 kWh og en nettoanvendelig kapacitet på 90,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 358 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 460 km, med et energiforbrugsrate på 19,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### 75kWh
 
-Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendelig kapacitet på 70,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 386 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 75,0 kWh og en nettoanvendelig kapacitet på 70,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 386 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 350 km, med et energiforbrugsrate på 19,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

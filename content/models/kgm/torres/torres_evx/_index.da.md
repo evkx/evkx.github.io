@@ -30,7 +30,7 @@ KGM Torres EVX tilbyder beskedne præstationer med en maksimal effekt på 152,2 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendelig kapacitet på 73,4 kWh, hvilket giver en buffer på 1,6 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 75,0 kWh og en nettoanvendelig kapacitet på 73,4 kWh, hvilket giver en buffer på 1,6 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 462 km, med et energiforbrugsrate på 15,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

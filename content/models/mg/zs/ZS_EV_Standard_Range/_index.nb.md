@@ -30,7 +30,7 @@ MG ZS EV Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 115 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 51,1 kWh og en netto brukbar kapasitet på 49 kWh, som gir en buffer på 2,1 kWh (4,1%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 51,1 kWh og en netto brukbar kapasitet på 49,0 kWh, som gir en buffer på 2,1 kWh (4,1%) for batteribeskyttelse.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 320 km, med et energiforbruk på 15,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -34,7 +34,7 @@ Nio ET5 tiene dos opciones de batería con diferentes especificaciones. A contin
 
 ### 100kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 100,0 kWh y una capacidad neta utilizable de 90,0 kWh, proporcionando un buffer de 10,0 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 590 y 540 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,3 kWh/100 km para el modelo base y 16,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### 75kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 75,0 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 456 y 419 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,3 kWh/100 km para el modelo base y 16,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

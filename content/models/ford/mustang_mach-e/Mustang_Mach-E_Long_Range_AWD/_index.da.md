@@ -30,7 +30,7 @@ Ford Mustang Mach-E Long Range AWD leverer en solid præstation med en maksimal 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 98,8 kWh og en nettoanvendelig kapacitet på 92 kWh, hvilket giver en buffer på 6,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 376 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 98,8 kWh og en nettoanvendelig kapacitet på 92,0 kWh, hvilket giver en buffer på 6,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 376 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 550 km, med et energiforbrugsrate på 16,7 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ SKODA Elroq 50 erbjuder blygsamma prestanda med en maximal effekt på 125 kW (17
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 55 kWh och en nettoanvändbar kapacitet på 52 kWh, vilket ger en buffert på 3 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 55,0 kWh och en nettoanvändbar kapacitet på 52,0 kWh, vilket ger en buffert på 3,0 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 350 km (199 miles), med en energiförbrukningshastighet på 14,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

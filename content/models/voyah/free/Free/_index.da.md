@@ -84,6 +84,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+VOYAH FREE har et førerfokuseret interiør, der forbedrer cockpitfølelsen med materialer af høj kvalitet i flere områder i stedet for hård plast. Et fremtrædende træk er den todelte midterkonsol, som adskiller fører og passager, samtidig med at den tilbyder praktisk opbevaring og forbedret funktionalitet.
+
 ### Sæder
 
 VOYAH FREE har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -237,5 +239,16 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
+Denne model havde verdenspremiere den 18.12.2020, og leveringerne startede i June 2021.
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til VOYAH FREE, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [Nio EL7](/models/nio/el7/el7/)
+
+<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}}

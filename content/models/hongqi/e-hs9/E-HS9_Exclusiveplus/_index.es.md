@@ -30,7 +30,7 @@ El Hongqi E-HS9 Exclusive+ impresiona con una potencia máxima de 405 kW (551 hp
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 120 kWh y una capacidad neta utilizable de 110 kWh, proporcionando un buffer de 10 kWh (8,3%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 120,0 kWh y una capacidad neta utilizable de 110,0 kWh, proporcionando un buffer de 10,0 kWh (8,3%) para la protección de la batería.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 515 km, con una tasa de consumo de energía de 21,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

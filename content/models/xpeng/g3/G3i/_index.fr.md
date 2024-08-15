@@ -30,7 +30,7 @@ L'XPENG G3i offre des performances modestes avec une puissance maximale de 145 k
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 66 kWh et une capacité nette utilisable de 55,9 kWh, offrant une réserve de 10,1 kWh (15,3%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 66,0 kWh et une capacité nette utilisable de 55,9 kWh, offrant une réserve de 10,1 kWh (15,3%) pour la protection de la batterie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 420 km, avec une consommation d'énergie de 13,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

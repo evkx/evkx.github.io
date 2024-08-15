@@ -30,7 +30,7 @@ Chevrolet Silverado EV 3WT leverer en solid præstation med en maksimal effekt p
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 200 kWh og en nettoanvendelig kapacitet på 190 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 650 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 200,0 kWh og en nettoanvendelig kapacitet på 190,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 650 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 632 km med en energiforbrugsrate på 30,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

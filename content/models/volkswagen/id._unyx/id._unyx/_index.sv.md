@@ -30,7 +30,7 @@ Volkswagen Id. UNYX levererar en solid prestanda med en maximal effekt på 210 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 5 kWh (6,1%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 82,0 kWh och en nettoanvändbar kapacitet på 77,0 kWh, vilket ger en buffert på 5,0 kWh (6,1%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 621 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

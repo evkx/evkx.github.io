@@ -30,7 +30,7 @@ Honda Prologue FWD tilbyder beskedne præstationer med en maksimal effekt på 15
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 89 kWh og en nettoanvendelig kapacitet på 85 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 89,0 kWh og en nettoanvendelig kapacitet på 85,0 kWh, hvilket giver en buffer på 4,0 kWh (3%) til batteribeskyttelse.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 476 km med en energiforbrugsrate på 17,8 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

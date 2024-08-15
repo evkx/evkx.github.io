@@ -30,7 +30,7 @@ La Nio ET9 impressionne avec une puissance maximale de 520 kW (707 ch) et un cou
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 120 kWh et une capacité nette utilisable de 112 kWh, offrant une réserve de 8 kWh (6,7%) pour la protection de la batterie. Fonctionnant à une tension nominale de 925 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 120,0 kWh et une capacité nette utilisable de 112,0 kWh, offrant une réserve de 8,0 kWh (6,7%) pour la protection de la batterie. Fonctionnant à une tension nominale de 925 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 720 km, avec une consommation d'énergie de 15,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

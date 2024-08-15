@@ -30,7 +30,7 @@ L'Hyundai Kona Standard Range offre des performances modestes avec une puissance
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 51 kWh et une capacité nette utilisable de 48,4 kWh, offrant une réserve de 2,6 kWh (5,1%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 51,0 kWh et une capacité nette utilisable de 48,4 kWh, offrant une réserve de 2,6 kWh (5,1%) pour la protection de la batterie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 377 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

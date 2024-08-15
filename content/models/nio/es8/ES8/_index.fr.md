@@ -34,7 +34,7 @@ Nio ES8 propose deux options de batterie avec des spécifications différentes. 
 
 ### 100kWh
 
-La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de 10,0 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 460 km, avec une consommation d'énergie de 19,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -44,7 +44,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### 75kWh
 
-La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 75,0 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 350 km, avec une consommation d'énergie de 19,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

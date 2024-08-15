@@ -30,7 +30,7 @@ Jaguar I-Pace EV400 leverer solid ytelse med en maksimal effekt på 294 kW (400 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 90 kWh og en netto brukbar kapasitet på 84,7 kWh, som gir en buffer på 5,3 kWh (5,9%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 90,0 kWh og en netto brukbar kapasitet på 84,7 kWh, som gir en buffer på 5,3 kWh (5,9%) for batteribeskyttelse.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 470 og 408 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 18,0 kWh/100 km for basismodellen og 20,8 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

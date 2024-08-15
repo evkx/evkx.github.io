@@ -30,7 +30,7 @@ Volvo EX30 Single Motor tilbyr beskjedne ytelser med en maksimal effekt på 200 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 51 kWh og en netto brukbar kapasitet på 49 kWh, som gir en buffer på 2 kWh (3,9%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 51,0 kWh og en netto brukbar kapasitet på 49,0 kWh, som gir en buffer på 2,0 kWh (3,9%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 344 km, med et energiforbruk på 14,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

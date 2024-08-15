@@ -30,7 +30,7 @@ Ford Mustang Mach-E GT leverer solid ytelse med en maksimal effekt på 358 kW (4
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 98,8 kWh og en netto brukbar kapasitet på 92 kWh, som gir en buffer på 6,8 kWh (6,9%) for batteribeskyttelse. Med en nominell spenning på 376 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 98,8 kWh og en netto brukbar kapasitet på 92,0 kWh, som gir en buffer på 6,8 kWh (6,9%) for batteribeskyttelse. Med en nominell spenning på 376 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 490 km, med et energiforbruk på 18,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

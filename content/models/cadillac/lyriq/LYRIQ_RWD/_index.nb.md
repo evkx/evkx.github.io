@@ -30,7 +30,7 @@ Cadillac LYRIQ RWD leverer solid ytelse med en maksimal effekt på 255 kW (347 h
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 110 kWh og en netto brukbar kapasitet på 102 kWh, som gir en buffer på 8 kWh (7,3%) for batteribeskyttelse. Med en nominell spenning på 400 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 110,0 kWh og en netto brukbar kapasitet på 102,0 kWh, som gir en buffer på 8,0 kWh (7,3%) for batteribeskyttelse. Med en nominell spenning på 400 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 502 km med en energiforbrukshastighet på 20,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

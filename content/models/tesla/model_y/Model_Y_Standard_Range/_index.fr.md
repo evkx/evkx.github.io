@@ -34,7 +34,7 @@ Tesla Model Y Standard Range propose quatre options de batterie avec des spécif
 
 ### CATL LFP Europa/China market
 
-La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 60,0 kWh et une capacité nette utilisable de 55,0 kWh, offrant une réserve de 5,0 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -44,7 +44,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### BYD LFP Europa/China market
 
-La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 60,0 kWh et une capacité nette utilisable de 55,0 kWh, offrant une réserve de 5,0 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -54,7 +54,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### NMC 4850 US Market
 
-La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 70,0 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -64,7 +64,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### NMC 21700 US Market Software locked
 
-La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 70,0 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 430 km, avec une consommation d'énergie de 12,8 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

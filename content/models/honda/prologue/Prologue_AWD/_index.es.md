@@ -30,7 +30,7 @@ El Honda Prologue AWD ofrece un rendimiento sólido con una potencia máxima de 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 89 kWh y una capacidad neta utilizable de 85 kWh, proporcionando un buffer de 4 kWh (4,5%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 89,0 kWh y una capacidad neta utilizable de 85,0 kWh, proporcionando un buffer de 4,0 kWh (4,5%) para la protección de la batería.
 
 El rango estimado por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 281 a 273 millas (452-439 km), dependiendo de la configuración y opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
 Las tasas de consumo de energía son de 3,3 mi/kWh para el modelo base y de 3,2 mi/kWh para la versión superior, según la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)

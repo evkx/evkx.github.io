@@ -30,7 +30,7 @@ Renault 5 E-Tech 52kWh 150hp tilbyder beskedne præstationer med en maksimal eff
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 55 kWh og en nettoanvendelig kapacitet på 52 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 352 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 55,0 kWh og en nettoanvendelig kapacitet på 52,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 352 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 400 km, med et energiforbrugsrate på 13,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

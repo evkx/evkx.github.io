@@ -30,7 +30,7 @@ Zeekr 007 AWD Performance imponerar med en imponerande kraft på 475 kW (646 hk)
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 95 kWh, vilket ger en buffert på 5 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 95,0 kWh, vilket ger en buffert på 5,0 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 660 km ( miles). Förbrukningen är 14,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

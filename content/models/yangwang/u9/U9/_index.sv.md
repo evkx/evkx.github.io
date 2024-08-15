@@ -30,7 +30,7 @@ YangWang U9 levererar en häpnadsväckande maximal effekt på 960 KW (1305 hk) o
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 83 kWh och en nettoanvändbar kapacitet på 80 kWh, vilket ger en buffert på 3 kWh (3,6%) för batteriskydd. Vid en nominell spänning på 630 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 83,0 kWh och en nettoanvändbar kapacitet på 80,0 kWh, vilket ger en buffert på 3,0 kWh (3,6%) för batteriskydd. Vid en nominell spänning på 630 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 465 km ( miles). Förbrukningen är 17,2kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

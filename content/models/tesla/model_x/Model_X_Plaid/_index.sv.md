@@ -30,7 +30,7 @@ Tesla Model X Plaid levererar en häpnadsväckande maximal effekt på 760 KW (10
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 96 kWh, vilket ger en buffert på 4 kWh (4,0%) för batteriskydd. Med en nominell spänning på 407 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 96,0 kWh, vilket ger en buffert på 4,0 kWh (4,0%) för batteriskydd. Med en nominell spänning på 407 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 543 och 528 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,7 kWh/100 km för basmodellen och 18,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

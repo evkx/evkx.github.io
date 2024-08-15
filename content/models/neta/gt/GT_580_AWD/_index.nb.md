@@ -30,7 +30,7 @@ Neta GT 580 AWD leverer solid ytelse med en maksimal effekt på 340 kW (462 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 78 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 3 kWh (3,8%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 78,0 kWh og en netto brukbar kapasitet på 75,0 kWh, som gir en buffer på 3,0 kWh (3,8%) for batteribeskyttelse.
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 580 km ( miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ Lucid Gravity Dream Edition imponerar med en imponerande kraft på 600 kW (816 h
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 124 kWh och en nettoanvändbar kapacitet på 122 kWh, vilket ger en buffert på 2 kWh (1,6%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 124,0 kWh och en nettoanvändbar kapacitet på 122,0 kWh, vilket ger en buffert på 2,0 kWh (1,6%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 17,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ Smart #3 Brabus levererar en solid prestanda med en maximal effekt på 315 kW (4
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 66 kWh och en nettoanvändbar kapacitet på 62 kWh, vilket ger en buffert på 4 kWh (6,1%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 66,0 kWh och en nettoanvändbar kapacitet på 62,0 kWh, vilket ger en buffert på 4,0 kWh (6,1%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 415 km (199 miles), med en energiförbrukningshastighet på 14,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

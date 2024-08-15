@@ -30,7 +30,7 @@ Polestar 4 Long range Dual motor imponerer med en maksimal effekt på 400 kW (54
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 94 kWh, hvilket giver en buffer på 6 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 370 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 100,0 kWh og en nettoanvendelig kapacitet på 94,0 kWh, hvilket giver en buffer på 6,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 370 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 580 km, med et energiforbrugsrate på 16,2 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

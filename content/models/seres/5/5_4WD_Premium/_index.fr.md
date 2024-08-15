@@ -30,7 +30,7 @@ La Seres 5 4WD Premium impressionne avec une puissance maximale de 430 kW (585 c
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 80 kWh et une capacité nette utilisable de 78 kWh, offrant une réserve de 2 kWh (2,5%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 80,0 kWh et une capacité nette utilisable de 78,0 kWh, offrant une réserve de 2,0 kWh (2,5%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 483 km, avec une consommation d'énergie de 16,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

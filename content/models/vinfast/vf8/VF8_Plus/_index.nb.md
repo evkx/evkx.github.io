@@ -30,7 +30,7 @@ VinFast VF8 Plus leverer solid ytelse med en maksimal effekt på 300 kW (408 hk)
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 94 kWh og en netto brukbar kapasitet på 87,7 kWh, som gir en buffer på 6,3 kWh (6,7%) for batteribeskyttelse. Med en nominell spenning på 403 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 94,0 kWh og en netto brukbar kapasitet på 87,7 kWh, som gir en buffer på 6,3 kWh (6,7%) for batteribeskyttelse. Med en nominell spenning på 403 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 447 km, med et energiforbruk på 19,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

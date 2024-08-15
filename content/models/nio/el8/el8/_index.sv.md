@@ -34,7 +34,7 @@ Nio EL8 har två batterialternativ med olika specifikationer. Nedan kan du se hu
 
 ### 100kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 90 kWh, vilket ger en buffert på 10 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på 10,0 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 510 och 493 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,6 kWh/100 km för basmodellen och 18,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### 75kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 390 och 379 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 17,6 kWh/100 km för basmodellen och 18,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

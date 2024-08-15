@@ -30,7 +30,7 @@ Zeekr X Privilege AWD levererar en solid prestanda med en maximal effekt på 315
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 69 kWh och en nettoanvändbar kapacitet på 64 kWh, vilket ger en buffert på 5 kWh (7,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 69,0 kWh och en nettoanvändbar kapacitet på 64,0 kWh, vilket ger en buffert på 5,0 kWh (7,2%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 16,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

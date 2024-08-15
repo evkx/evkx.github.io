@@ -42,7 +42,7 @@ Porsche Taycan 4S Sport Turismo (GEN1) har två batterialternativ med olika spec
 
 ### Performance Battery
 
-Högkapacitetsbatteriet har en bruttokapacitet på 79,2 kWh och en nettoanvändbar kapacitet på 71 kWh, vilket ger en buffert på 8,2 kWh (10,4%) för batteriskydd. Vid en nominell spänning på 615 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 79,2 kWh och en nettoanvändbar kapacitet på 71,0 kWh, vilket ger en buffert på 8,2 kWh (10,4%) för batteriskydd. Vid en nominell spänning på 615 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 441 och 358 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 16,1 kWh/100 km för basmodellen och 19,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

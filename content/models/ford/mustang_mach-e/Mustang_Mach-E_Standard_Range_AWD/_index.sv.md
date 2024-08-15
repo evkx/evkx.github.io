@@ -30,7 +30,7 @@ Ford Mustang Mach-E Standard Range AWD levererar en solid prestanda med en maxim
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75,7 kWh och en nettoanvändbar kapacitet på 70 kWh, vilket ger en buffert på 5,7 kWh (7,5%) för batteriskydd. Med en nominell spänning på 360 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 75,7 kWh och en nettoanvändbar kapacitet på 70,0 kWh, vilket ger en buffert på 5,7 kWh (7,5%) för batteriskydd. Med en nominell spänning på 360 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 17,5 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

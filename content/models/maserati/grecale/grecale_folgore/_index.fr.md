@@ -30,7 +30,7 @@ La Maserati Grecale Folgore impressionne avec une puissance maximale de 410 kW (
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 105 kWh et une capacité nette utilisable de 96 kWh, offrant une réserve de 9 kWh (8,6%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 96,0 kWh, offrant une réserve de 9,0 kWh (8,6%) pour la protection de la batterie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 501 et 426 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 19,2 kWh/100 km pour le modèle de base et à 22,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -30,7 +30,7 @@ Renault Scenic E-Tech electric High Range tilbyr beskjedne ytelser med en maksim
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 91 kWh og en netto brukbar kapasitet på 87 kWh, som gir en buffer på 4 kWh (4,4%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 91,0 kWh og en netto brukbar kapasitet på 87,0 kWh, som gir en buffer på 4,0 kWh (4,4%) for batteribeskyttelse.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 625 og 622 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,9 kWh/100 km for basismodellen og 14,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ Kia EV6 Long Range AWD levererar en solid prestanda med en maximal effekt på 23
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74 kWh, vilket ger en buffert på 3,4 kWh (4,4%) för batteriskydd. Vid en nominell spänning på 697 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 77,4 kWh och en nettoanvändbar kapacitet på 74,0 kWh, vilket ger en buffert på 3,4 kWh (4,4%) för batteriskydd. Vid en nominell spänning på 697 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 506 och 484 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,6 kWh/100 km för basmodellen och 15,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

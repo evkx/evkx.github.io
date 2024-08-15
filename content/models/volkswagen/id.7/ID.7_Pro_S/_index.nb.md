@@ -30,7 +30,7 @@ Volkswagen ID.7 Pro S leverer solid ytelse med en maksimal effekt på 210 kW (28
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 91 kWh og en netto brukbar kapasitet på 86 kWh, som gir en buffer på 5 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 91,0 kWh og en netto brukbar kapasitet på 86,0 kWh, som gir en buffer på 5,0 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 709 km, med et energiforbruk på 12,1 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

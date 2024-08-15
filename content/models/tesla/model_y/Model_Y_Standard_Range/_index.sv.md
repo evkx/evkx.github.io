@@ -34,7 +34,7 @@ Tesla Model Y Standard Range har fyra batterialternativ med olika specifikatione
 
 ### CATL LFP Europa/China market
 
-Högkapacitetsbatteriet har en bruttokapacitet på 60 kWh och en nettoanvändbar kapacitet på 55 kWh, vilket ger en buffert på 5 kWh (8,3%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 60,0 kWh och en nettoanvändbar kapacitet på 55,0 kWh, vilket ger en buffert på 5,0 kWh (8,3%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 430 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### BYD LFP Europa/China market
 
-Högkapacitetsbatteriet har en bruttokapacitet på 60 kWh och en nettoanvändbar kapacitet på 55 kWh, vilket ger en buffert på 5 kWh (8,3%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 60,0 kWh och en nettoanvändbar kapacitet på 55,0 kWh, vilket ger en buffert på 5,0 kWh (8,3%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 430 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### NMC 4850 US Market
 
-Högkapacitetsbatteriet har en bruttokapacitet på 70 kWh och en nettoanvändbar kapacitet på 68,5 kWh, vilket ger en buffert på 1,5 kWh (2,1%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 70,0 kWh och en nettoanvändbar kapacitet på 68,5 kWh, vilket ger en buffert på 1,5 kWh (2,1%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 430 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -64,7 +64,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### NMC 21700 US Market Software locked
 
-Högkapacitetsbatteriet har en bruttokapacitet på 70 kWh och en nettoanvändbar kapacitet på 68,5 kWh, vilket ger en buffert på 1,5 kWh (2,1%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 70,0 kWh och en nettoanvändbar kapacitet på 68,5 kWh, vilket ger en buffert på 1,5 kWh (2,1%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 430 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

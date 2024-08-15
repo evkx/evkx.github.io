@@ -30,7 +30,7 @@ L'Audi Q4 35 e-tron (GEN1) offre des performances modestes avec une puissance ma
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 55 kWh et une capacité nette utilisable de 51,5 kWh, offrant une réserve de 3,5 kWh (6,4%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 55,0 kWh et une capacité nette utilisable de 51,5 kWh, offrant une réserve de 3,5 kWh (6,4%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 357 et 323 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,4 kWh/100 km pour le modèle de base et à 15,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -30,7 +30,7 @@ El BMW iX M60 impresiona con una potencia máxima de 455 kW (619 hp) y un impres
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 111 kWh y una capacidad neta utilizable de 105,2 kWh, proporcionando un buffer de 5,8 kWh (5,2%) para la protección de la batería. Con un voltaje nominal de 369 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 111,0 kWh y una capacidad neta utilizable de 105,2 kWh, proporcionando un buffer de 5,8 kWh (5,2%) para la protección de la batería. Con un voltaje nominal de 369 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 561 y 502 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 18,8 kWh/100 km para el modelo base y 21,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

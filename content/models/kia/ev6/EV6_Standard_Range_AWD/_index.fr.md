@@ -30,7 +30,7 @@ L'Kia EV6 Standard Range AWD offre des performances modestes avec une puissance 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 58 kWh et une capacité nette utilisable de 54 kWh, offrant une réserve de 4 kWh (6,9%) pour la protection de la batterie. Fonctionnant à une tension nominale de 523 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 58,0 kWh et une capacité nette utilisable de 54,0 kWh, offrant une réserve de 4,0 kWh (6,9%) pour la protection de la batterie. Fonctionnant à une tension nominale de 523 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 371 km, avec une consommation d'énergie de 14,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

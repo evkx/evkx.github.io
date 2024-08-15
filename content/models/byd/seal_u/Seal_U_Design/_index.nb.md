@@ -30,7 +30,7 @@ BYD Seal U Design tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (21
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 87 kWh og en netto brukbar kapasitet på 87 kWh, som gir en buffer på 0 kWh (0,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 569 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 87,0 kWh og en netto brukbar kapasitet på 87,0 kWh, som gir en buffer på 0,0 kWh (0,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 569 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 500 km, med et energiforbruk på 17,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

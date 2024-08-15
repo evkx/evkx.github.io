@@ -30,7 +30,7 @@ Ford F150 Lightning Extended Range imponerar med en imponerande kraft på 433 kW
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 150 kWh och en nettoanvändbar kapacitet på 130 kWh, vilket ger en buffert på 20 kWh (13,3%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 150,0 kWh och en nettoanvändbar kapacitet på 130,0 kWh, vilket ger en buffert på 20,0 kWh (13,3%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 320 och 300 miles (515-483 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
 Energikonsumtionsnivåerna är 2,5 mi/kWh för basmodellen och 2,3 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)

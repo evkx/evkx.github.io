@@ -30,7 +30,7 @@ L'Volvo EX30 Single Motor Extended Range offre des performances modestes avec un
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 69 kWh et une capacité nette utilisable de 64 kWh, offrant une réserve de 5 kWh (7,2%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 69,0 kWh et une capacité nette utilisable de 64,0 kWh, offrant une réserve de 5,0 kWh (7,2%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 460 km, avec une consommation d'énergie de 13,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

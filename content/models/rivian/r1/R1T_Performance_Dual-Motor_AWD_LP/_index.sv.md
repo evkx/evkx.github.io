@@ -30,7 +30,7 @@ Rivian R1T Performance Dual-Motor AWD LP imponerar med en imponerande kraft på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 136 kWh och en nettoanvändbar kapacitet på 135 kWh, vilket ger en buffert på 1 kWh (0,7%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 136,0 kWh och en nettoanvändbar kapacitet på 135,0 kWh, vilket ger en buffert på 1,0 kWh (0,7%) för batteriskydd.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 566 km med en energiförbrukning på 23,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

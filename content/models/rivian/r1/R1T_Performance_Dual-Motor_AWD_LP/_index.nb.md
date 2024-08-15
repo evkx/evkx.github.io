@@ -30,7 +30,7 @@ Rivian R1T Performance Dual-Motor AWD LP imponerer med en imponerende kraft på 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 136 kWh og en netto brukbar kapasitet på 135 kWh, som gir en buffer på 1 kWh (0,7%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 136,0 kWh og en netto brukbar kapasitet på 135,0 kWh, som gir en buffer på 1,0 kWh (0,7%) for batteribeskyttelse.
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 566 km med en energiforbrukshastighet på 23,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

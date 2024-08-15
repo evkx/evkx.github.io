@@ -30,7 +30,7 @@ Xiaomi SU7 levererar en solid prestanda med en maximal effekt på 220 kW (299 hk
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 73,6 kWh och en nettoanvändbar kapacitet på 73 kWh, vilket ger en buffert på 0,6 kWh (0,8%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 73,6 kWh och en nettoanvändbar kapacitet på 73,0 kWh, vilket ger en buffert på 0,6 kWh (0,8%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km ( miles). Förbrukningen är 10,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

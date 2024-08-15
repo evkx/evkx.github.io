@@ -30,7 +30,7 @@ Volkswagen ID.7 GTX Tourer levererar en solid prestanda med en maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 91 kWh och en nettoanvändbar kapacitet på 86 kWh, vilket ger en buffert på 5 kWh (5,5%) för batteriskydd. Med en nominell spänning på 383 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 91,0 kWh och en nettoanvändbar kapacitet på 86,0 kWh, vilket ger en buffert på 5,0 kWh (5,5%) för batteriskydd. Med en nominell spänning på 383 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 584 km (199 miles), med en energiförbrukningshastighet på 14,7 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

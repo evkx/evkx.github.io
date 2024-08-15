@@ -30,7 +30,7 @@ La XPENG G9 RWD Standard Range offre des performances solides avec une puissance
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 78,2 kWh et une capacité nette utilisable de 75 kWh, offrant une réserve de 3,2 kWh (4,1%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 78,2 kWh et une capacité nette utilisable de 75,0 kWh, offrant une réserve de 3,2 kWh (4,1%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 460 km, avec une consommation d'énergie de 16,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

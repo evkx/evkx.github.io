@@ -30,7 +30,7 @@ Rolls-Royce Spectre imponerer med en imponerende kraft på 430 kW (585 hk) og et
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 105,7 kWh og en netto brukbar kapasitet på 102 kWh, som gir en buffer på 3,7 kWh (3,5%) for batteribeskyttelse. Med en nominell spenning på 376,4 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 105,7 kWh og en netto brukbar kapasitet på 102,0 kWh, som gir en buffer på 3,7 kWh (3,5%) for batteribeskyttelse. Med en nominell spenning på 376,4 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 530 km, med et energiforbruk på 19,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

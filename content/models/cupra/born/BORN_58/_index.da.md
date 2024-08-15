@@ -30,7 +30,7 @@ CUPRA BORN 58 tilbyder beskedne præstationer med en maksimal effekt på 150 kW 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 62 kWh og en nettoanvendelig kapacitet på 58 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
+Det højkapacitetsbatteri har en bruttokapacitet på 62,0 kWh og en nettoanvendelig kapacitet på 58,0 kWh, hvilket giver en buffer på 4,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 424 og 358 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,7 kWh/100 km for basismodellen og 16,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

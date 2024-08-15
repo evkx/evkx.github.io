@@ -30,7 +30,7 @@ Lucid Air Grand Touring imponerer med en imponerende kraft på 597 kW (812 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 112 kWh og en netto brukbar kapasitet på 112 kWh, som gir en buffer på 0 kWh (0,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 112,0 kWh og en netto brukbar kapasitet på 112,0 kWh, som gir en buffer på 0,0 kWh (0,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 839 og 783 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,3 kWh/100 km for basismodellen og 14,3 kWh/100 km for toppmodellen under WLTP testsyklusen. Denne rekkevidden er blant de lengste i sin klasse, og den høye effektiviteten gjør det til en av de mest økonomiske kjøretøyene i sin kategori. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

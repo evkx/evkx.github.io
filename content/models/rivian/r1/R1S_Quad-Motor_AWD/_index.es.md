@@ -30,7 +30,7 @@ El Rivian R1S Quad-Motor AWD entrega una impresionante potencia máxima de 620 k
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 135 kWh y una capacidad neta utilizable de 125 kWh, proporcionando un buffer de 10 kWh (7,4%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 135,0 kWh y una capacidad neta utilizable de 125,0 kWh, proporcionando un buffer de 10,0 kWh (7,4%) para la protección de la batería.
 
 El rango estimado por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 321 a 289 millas (516-465 km), dependiendo de la configuración y opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
 Las tasas de consumo de energía son de 2,6 mi/kWh para el modelo base y de 2,3 mi/kWh para la versión superior, según la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)

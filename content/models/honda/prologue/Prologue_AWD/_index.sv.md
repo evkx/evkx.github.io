@@ -30,7 +30,7 @@ Honda Prologue AWD levererar en solid prestanda med en maximal effekt på 214 kW
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 89 kWh och en nettoanvändbar kapacitet på 85 kWh, vilket ger en buffert på 4 kWh (4,5%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 89,0 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 4,0 kWh (4,5%) för batteriskydd.
 
 [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) uppskattade räckvidd varierar mellan 281 och 273 miles (452-439 km), beroende på fordonets konfiguration och alternativ. Till exempel kan större hjul öka energiförbrukningen och minska den totala räckvidden.
 Energikonsumtionsnivåerna är 3,3 mi/kWh för basmodellen och 3,2 mi/kWh för toppmodellen, enligt EPA-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)

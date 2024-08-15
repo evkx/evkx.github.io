@@ -30,7 +30,7 @@ Opel Astra Sports Tourer Electric tilbyr beskjedne ytelser med en maksimal effek
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 54 kWh og en netto brukbar kapasitet på 50,8 kWh, som gir en buffer på 3,2 kWh (5,9%) for batteribeskyttelse. Med en nominell spenning på 377 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 54,0 kWh og en netto brukbar kapasitet på 50,8 kWh, som gir en buffer på 3,2 kWh (5,9%) for batteribeskyttelse. Med en nominell spenning på 377 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 413 km, med et energiforbruk på 12,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

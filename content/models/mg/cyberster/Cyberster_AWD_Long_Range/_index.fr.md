@@ -30,7 +30,7 @@ La MG Cyberster AWD Long Range impressionne avec une puissance maximale de 400 k
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 77 kWh et une capacité nette utilisable de 74,4 kWh, offrant une réserve de 2,6 kWh (3,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 77,0 kWh et une capacité nette utilisable de 74,4 kWh, offrant une réserve de 2,6 kWh (3,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 520 km ( miles). La consommation est de 14,3kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

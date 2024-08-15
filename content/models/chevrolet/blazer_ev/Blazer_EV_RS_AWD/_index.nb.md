@@ -30,7 +30,7 @@ Chevrolet Blazer EV RS AWD leverer solid ytelse med en maksimal effekt på 214 k
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 89 kWh og en netto brukbar kapasitet på 85 kWh, som gir en buffer på 4 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 330 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 89,0 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 4,0 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 330 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 449 km med en energiforbrukshastighet på 18,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ La Aion Hyper GT 710 Supercharged offre des performances solides avec une puissa
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 80,1 kWh et une capacité nette utilisable de 77 kWh, offrant une réserve de 3,1 kWh (3,9%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 80,1 kWh et une capacité nette utilisable de 77,0 kWh, offrant une réserve de 3,1 kWh (3,9%) pour la protection de la batterie.
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 710 km ( miles). La consommation est de 10,8kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -30,7 +30,7 @@ Maserati Grecale Folgore imponerar med en imponerande kraft på 410 kW (557 hk) 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105 kWh och en nettoanvändbar kapacitet på 96 kWh, vilket ger en buffert på 9 kWh (8,6%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 96,0 kWh, vilket ger en buffert på 9,0 kWh (8,6%) för batteriskydd.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 501 och 426 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 19,2 kWh/100 km för basmodellen och 22,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

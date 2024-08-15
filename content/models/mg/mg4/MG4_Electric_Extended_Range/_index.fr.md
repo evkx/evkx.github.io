@@ -30,7 +30,7 @@ L'MG MG4 Electric Extended Range offre des performances modestes avec une puissa
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 77 kWh et une capacité nette utilisable de 74,4 kWh, offrant une réserve de 2,6 kWh (3,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 77,0 kWh et une capacité nette utilisable de 74,4 kWh, offrant une réserve de 2,6 kWh (3,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 520 km, avec une consommation d'énergie de 14,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

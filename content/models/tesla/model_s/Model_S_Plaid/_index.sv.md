@@ -30,7 +30,7 @@ Tesla Model S Plaid levererar en häpnadsväckande maximal effekt på 760 KW (10
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 104,96 kWh och en nettoanvändbar kapacitet på 96 kWh, vilket ger en buffert på 8,96 kWh (8,5%) för batteriskydd. Med en nominell spänning på 407 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 105,0 kWh och en nettoanvändbar kapacitet på 96,0 kWh, vilket ger en buffert på 9,0 kWh (8,5%) för batteriskydd. Med en nominell spänning på 407 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 16,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

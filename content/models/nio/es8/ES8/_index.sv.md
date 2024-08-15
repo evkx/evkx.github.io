@@ -34,7 +34,7 @@ Nio ES8 har två batterialternativ med olika specifikationer. Nedan kan du se hu
 
 ### 100kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 90 kWh, vilket ger en buffert på 10 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på 10,0 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 460 km (199 miles), med en energiförbrukningshastighet på 19,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -44,7 +44,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### 75kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 75,0 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 350 km (199 miles), med en energiförbrukningshastighet på 19,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

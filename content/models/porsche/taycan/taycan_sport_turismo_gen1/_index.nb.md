@@ -36,7 +36,7 @@ Porsche Taycan Sport Turismo (GEN1) har to batterialternativer med forskjellige 
 
 ### Performance Battery
 
-Høykapasitetsbatteriet har en brutto kapasitet på 79,2 kWh og en netto brukbar kapasitet på 71 kWh, som gir en buffer på 8,2 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 615 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 79,2 kWh og en netto brukbar kapasitet på 71,0 kWh, som gir en buffer på 8,2 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 615 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 431 og 354 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 16,5 kWh/100 km for basismodellen og 20,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -30,7 +30,7 @@ Lucid Air Dream Edition Performance leverer en imponerende maksimal effekt på 8
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 118 kWh og en nettoanvendelig kapacitet på 117 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 800 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
+Det højkapacitetsbatteri har en bruttokapacitet på 118,0 kWh og en nettoanvendelig kapacitet på 117,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 800 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 861 og 828 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,6 kWh/100 km for basismodellen og 14,1 kWh/100 km for topmodellen under WLTP testcyklussen. Denne rækkevidde er blandt de længste i sin klasse, og den høje effektivitet gør det til et af de mest økonomiske køretøjer i sin kategori. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

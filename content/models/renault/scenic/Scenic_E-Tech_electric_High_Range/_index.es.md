@@ -30,7 +30,7 @@ El Renault Scenic E-Tech electric High Range ofrece un rendimiento modesto con u
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 87 kWh, proporcionando un buffer de 4 kWh (4,4%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 91,0 kWh y una capacidad neta utilizable de 87,0 kWh, proporcionando un buffer de 4,0 kWh (4,4%) para la protección de la batería.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 625 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,9 kWh/100 km para el modelo base y 14,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

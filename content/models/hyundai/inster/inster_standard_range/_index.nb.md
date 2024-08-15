@@ -30,7 +30,7 @@ Hyundai INSTER Standard Range gir grunnleggende ytelse med en maksimal effekt p�
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 41 kWh og en netto brukbar kapasitet på 39 kWh, som gir en buffer på 2 kWh (4,9%) for batteribeskyttelse. Med en nominell spenning på 280 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 41,0 kWh og en netto brukbar kapasitet på 39,0 kWh, som gir en buffer på 2,0 kWh (4,9%) for batteribeskyttelse. Med en nominell spenning på 280 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 300 km, med et energiforbruk på 13,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

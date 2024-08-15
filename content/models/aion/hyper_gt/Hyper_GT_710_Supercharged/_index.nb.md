@@ -30,7 +30,7 @@ Aion Hyper GT 710 Supercharged leverer solid ytelse med en maksimal effekt på 2
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 80,1 kWh og en netto brukbar kapasitet på 77 kWh, som gir en buffer på 3,1 kWh (3,9%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 80,1 kWh og en netto brukbar kapasitet på 77,0 kWh, som gir en buffer på 3,1 kWh (3,9%) for batteribeskyttelse.
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 710 km ( miles). Forbruket er 10,8kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

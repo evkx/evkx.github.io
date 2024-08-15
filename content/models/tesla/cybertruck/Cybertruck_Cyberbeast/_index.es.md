@@ -30,7 +30,7 @@ El Tesla Cybertruck Cyberbeast entrega una impresionante potencia máxima de 630
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 123 kWh y una capacidad neta utilizable de 122,5 kWh, proporcionando un buffer de 0,5 kWh (0,4%) para la protección de la batería. Operando a un voltaje nominal de 710 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 123,0 kWh y una capacidad neta utilizable de 122,5 kWh, proporcionando un buffer de 0,5 kWh (0,4%) para la protección de la batería. Operando a un voltaje nominal de 710 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 515 km con una tasa de consumo de energía de 23,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

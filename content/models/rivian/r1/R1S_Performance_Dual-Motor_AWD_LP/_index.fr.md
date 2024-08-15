@@ -30,7 +30,7 @@ La Rivian R1S Performance Dual-Motor AWD LP impressionne avec une puissance maxi
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 135 kWh et une capacité nette utilisable de 125 kWh, offrant une réserve de 10 kWh (7,4%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 135,0 kWh et une capacité nette utilisable de 125,0 kWh, offrant une réserve de 10,0 kWh (7,4%) pour la protection de la batterie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 515 km avec un taux de consommation d'énergie de 24,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

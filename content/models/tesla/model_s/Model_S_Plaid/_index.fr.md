@@ -30,7 +30,7 @@ La Tesla Model S Plaid délivre une puissance maximale impressionnante de 760 kW
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 104,96 kWh et une capacité nette utilisable de 96 kWh, offrant une réserve de 8,96 kWh (8,5%) pour la protection de la batterie. Avec une tension nominale de 407 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 105,0 kWh et une capacité nette utilisable de 96,0 kWh, offrant une réserve de 9,0 kWh (8,5%) pour la protection de la batterie. Avec une tension nominale de 407 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 600 km, avec une consommation d'énergie de 16,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

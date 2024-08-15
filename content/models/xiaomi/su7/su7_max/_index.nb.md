@@ -30,7 +30,7 @@ Xiaomi SU7 Max imponerer med en imponerende kraft på 495 kW (673 hk) og et bety
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 101 kWh og en netto brukbar kapasitet på 99 kWh, som gir en buffer på 2 kWh (2,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 871 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 101,0 kWh og en netto brukbar kapasitet på 99,0 kWh, som gir en buffer på 2,0 kWh (2,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 871 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 800 km ( miles). Forbruket er 12,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

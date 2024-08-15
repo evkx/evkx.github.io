@@ -30,7 +30,7 @@ El Rimac Nevera entrega una impresionante potencia máxima de 1400 kW (1904 hp) 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 120 kWh y una capacidad neta utilizable de 106,8 kWh, proporcionando un buffer de 13,2 kWh (11,0%) para la protección de la batería. Operando a un voltaje nominal de 630 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 120,0 kWh y una capacidad neta utilizable de 106,8 kWh, proporcionando un buffer de 13,2 kWh (11,0%) para la protección de la batería. Operando a un voltaje nominal de 630 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 490 km, con una tasa de consumo de energía de 21,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

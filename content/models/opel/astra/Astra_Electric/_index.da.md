@@ -30,7 +30,7 @@ Opel Astra Electric tilbyder beskedne præstationer med en maksimal effekt på 1
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 54 kWh og en nettoanvendelig kapacitet på 50,8 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 377 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 54,0 kWh og en nettoanvendelig kapacitet på 50,8 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 377 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 413 km, med et energiforbrugsrate på 12,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

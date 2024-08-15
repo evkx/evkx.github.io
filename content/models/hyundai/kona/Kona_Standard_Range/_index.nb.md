@@ -30,7 +30,7 @@ Hyundai Kona Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 51 kWh og en netto brukbar kapasitet på 48,4 kWh, som gir en buffer på 2,6 kWh (5,1%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 51,0 kWh og en netto brukbar kapasitet på 48,4 kWh, som gir en buffer på 2,6 kWh (5,1%) for batteribeskyttelse.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 377 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

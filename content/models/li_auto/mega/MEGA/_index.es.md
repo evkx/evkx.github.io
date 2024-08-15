@@ -30,7 +30,7 @@ El Li Auto MEGA ofrece un rendimiento sólido con una potencia máxima de 400 kW
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 102,7 kWh y una capacidad neta utilizable de 100 kWh, proporcionando un buffer de 2,7 kWh (2,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 102,7 kWh y una capacidad neta utilizable de 100,0 kWh, proporcionando un buffer de 2,7 kWh (2,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 710 km ( millas). El consumo es de 14,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

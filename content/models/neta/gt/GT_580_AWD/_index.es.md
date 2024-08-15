@@ -30,7 +30,7 @@ El Neta GT 580 AWD ofrece un rendimiento sólido con una potencia máxima de 340
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 78 kWh y una capacidad neta utilizable de 75 kWh, proporcionando un buffer de 3 kWh (3,8%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 78,0 kWh y una capacidad neta utilizable de 75,0 kWh, proporcionando un buffer de 3,0 kWh (3,8%) para la protección de la batería.
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 580 km ( millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

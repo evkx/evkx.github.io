@@ -30,7 +30,7 @@ Con overboost, el Audi Q4 50 e-tron quattro alcanza una potencia máxima de 220 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 76,6 kWh, proporcionando un buffer de 5,4 kWh (6,6%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 82,0 kWh y una capacidad neta utilizable de 76,6 kWh, proporcionando un buffer de 5,4 kWh (6,6%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 491 y 409 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,6 kWh/100 km para el modelo base y 18,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

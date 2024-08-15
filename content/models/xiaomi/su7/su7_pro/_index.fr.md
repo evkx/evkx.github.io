@@ -30,7 +30,7 @@ La Xiaomi SU7 Pro offre des performances solides avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 94,3 kWh et une capacité nette utilisable de 92 kWh, offrant une réserve de 2,3 kWh (2,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 94,3 kWh et une capacité nette utilisable de 92,0 kWh, offrant une réserve de 2,3 kWh (2,4%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 830 km ( miles). La consommation est de 11,1kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

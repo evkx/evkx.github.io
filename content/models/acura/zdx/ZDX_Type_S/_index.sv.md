@@ -30,7 +30,7 @@ Acura ZDX Type S levererar en solid prestanda med en maximal effekt på 373 kW (
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 110 kWh och en nettoanvändbar kapacitet på 102 kWh, vilket ger en buffert på 8 kWh (7,3%) för batteriskydd. Med en nominell spänning på 400 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 110,0 kWh och en nettoanvändbar kapacitet på 102,0 kWh, vilket ger en buffert på 8,0 kWh (7,3%) för batteriskydd. Med en nominell spänning på 400 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 463 km med en energiförbrukning på 22,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

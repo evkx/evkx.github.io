@@ -30,7 +30,7 @@ Xiaomi SU7 Pro leverer solid ytelse med en maksimal effekt på 220 kW (299 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 94,3 kWh og en netto brukbar kapasitet på 92 kWh, som gir en buffer på 2,3 kWh (2,4%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 94,3 kWh og en netto brukbar kapasitet på 92,0 kWh, som gir en buffer på 2,3 kWh (2,4%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 830 km ( miles). Forbruket er 11,1kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

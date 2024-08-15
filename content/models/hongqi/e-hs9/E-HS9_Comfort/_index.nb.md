@@ -30,7 +30,7 @@ Hongqi E-HS9 Comfort tilbyr beskjedne ytelser med en maksimal effekt på 320 kW 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 84 kWh og en netto brukbar kapasitet på 81,7 kWh, som gir en buffer på 2,3 kWh (2,7%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 84,0 kWh og en netto brukbar kapasitet på 81,7 kWh, som gir en buffer på 2,3 kWh (2,7%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 396 km, med et energiforbruk på 20,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

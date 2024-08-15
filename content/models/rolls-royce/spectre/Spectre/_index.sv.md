@@ -30,7 +30,7 @@ Rolls-Royce Spectre imponerar med en imponerande kraft på 430 kW (585 hk) och e
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 102 kWh, vilket ger en buffert på 3,7 kWh (3,5%) för batteriskydd. Med en nominell spänning på 376,4 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 102,0 kWh, vilket ger en buffert på 3,7 kWh (3,5%) för batteriskydd. Med en nominell spänning på 376,4 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 530 km (199 miles), med en energiförbrukningshastighet på 19,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

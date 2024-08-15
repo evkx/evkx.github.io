@@ -30,7 +30,7 @@ L'Volvo EX30 Single Motor offre des performances modestes avec une puissance max
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 51 kWh et une capacité nette utilisable de 49 kWh, offrant une réserve de 2 kWh (3,9%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 51,0 kWh et une capacité nette utilisable de 49,0 kWh, offrant une réserve de 2,0 kWh (3,9%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 344 km, avec une consommation d'énergie de 14,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

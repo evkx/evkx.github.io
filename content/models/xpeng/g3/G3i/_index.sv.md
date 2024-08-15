@@ -30,7 +30,7 @@ XPENG G3i erbjuder blygsamma prestanda med en maximal effekt på 145 kW (197 hk)
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 66 kWh och en nettoanvändbar kapacitet på 55,9 kWh, vilket ger en buffert på 10,1 kWh (15,3%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 66,0 kWh och en nettoanvändbar kapacitet på 55,9 kWh, vilket ger en buffert på 10,1 kWh (15,3%) för batteriskydd.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 420 km (199 miles), med en energiförbrukningshastighet på 13,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

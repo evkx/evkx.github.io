@@ -30,7 +30,7 @@ La Ford F150 Lightning Extended Range impressionne avec une puissance maximale d
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 150 kWh et une capacité nette utilisable de 130 kWh, offrant une réserve de 20 kWh (13,3%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 150,0 kWh et une capacité nette utilisable de 130,0 kWh, offrant une réserve de 20,0 kWh (13,3%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 L'autonomie estimée par l'EPA (Environmental Protection Agency) varie entre 320 et 300 miles (515-483 km), selon la configuration et les options du véhicule. Par exemple, des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale.
 Les taux de consommation d'énergie sont de 2,5 mi/kWh pour le modèle de base et de 2,3 mi/kWh pour la version haut de gamme, selon le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)

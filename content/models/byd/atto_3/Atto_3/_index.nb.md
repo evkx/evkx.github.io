@@ -30,7 +30,7 @@ BYD Atto 3 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60,5 kWh og en netto brukbar kapasitet på 58 kWh, som gir en buffer på 2,5 kWh (4,1%) for batteribeskyttelse. Med en nominell spenning på 403 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 60,5 kWh og en netto brukbar kapasitet på 58,0 kWh, som gir en buffer på 2,5 kWh (4,1%) for batteribeskyttelse. Med en nominell spenning på 403 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 420 km, med et energiforbruk på 13,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

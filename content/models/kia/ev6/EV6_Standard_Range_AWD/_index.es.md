@@ -30,7 +30,7 @@ El Kia EV6 Standard Range AWD ofrece un rendimiento modesto con una potencia má
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 58 kWh y una capacidad neta utilizable de 54 kWh, proporcionando un buffer de 4 kWh (6,9%) para la protección de la batería. Operando a un voltaje nominal de 523 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 58,0 kWh y una capacidad neta utilizable de 54,0 kWh, proporcionando un buffer de 4,0 kWh (6,9%) para la protección de la batería. Operando a un voltaje nominal de 523 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 371 km, con una tasa de consumo de energía de 14,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

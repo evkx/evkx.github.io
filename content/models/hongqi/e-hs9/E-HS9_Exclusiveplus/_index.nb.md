@@ -30,7 +30,7 @@ Hongqi E-HS9 Exclusive+ imponerer med en imponerende kraft på 405 kW (551 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 120 kWh og en netto brukbar kapasitet på 110 kWh, som gir en buffer på 10 kWh (8,3%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 120,0 kWh og en netto brukbar kapasitet på 110,0 kWh, som gir en buffer på 10,0 kWh (8,3%) for batteribeskyttelse.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 515 km, med et energiforbruk på 21,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

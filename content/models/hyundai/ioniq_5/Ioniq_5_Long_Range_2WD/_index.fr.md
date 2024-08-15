@@ -30,7 +30,7 @@ L'Hyundai Ioniq 5 Long Range 2WD offre des performances modestes avec une puissa
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 507 et 476 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,6 kWh/100 km pour le modèle de base et à 15,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -30,7 +30,7 @@ El Kia EV6 GT impresiona con una potencia máxima de 430 kW (585 hp) y un impres
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 77,4 kWh y una capacidad neta utilizable de 74,0 kWh, proporcionando un buffer de 3,4 kWh (4,4%) para la protección de la batería. Operando a un voltaje nominal de 697 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 424 km, con una tasa de consumo de energía de 17,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

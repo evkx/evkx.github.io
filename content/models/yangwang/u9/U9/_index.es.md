@@ -30,7 +30,7 @@ El YangWang U9 entrega una impresionante potencia máxima de 960 kW (1305 hp) y 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 83 kWh y una capacidad neta utilizable de 80 kWh, proporcionando un buffer de 3 kWh (3,6%) para la protección de la batería. Operando a un voltaje nominal de 630 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 83,0 kWh y una capacidad neta utilizable de 80,0 kWh, proporcionando un buffer de 3,0 kWh (3,6%) para la protección de la batería. Operando a un voltaje nominal de 630 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 465 km ( millas). El consumo es de 17,2kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
