@@ -56,6 +56,17 @@ Der VOYAH FREE verfügt über ein Allradantriebssystem, das von zwei Motoren ang
 
 Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 118 mm und die maximale 213 mm.
 
+### Fahrmodi
+
+Der VOYAH FREE ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 6 Modi wählen:
+
+- Performance: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Eco: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Outing: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Snow: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
@@ -248,7 +259,8 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum VOYAH FREE 
 - [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
 - [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
 - [Nio EL7](/models/nio/el7/el7/)
+- [XPENG G9 AWD Performance](/models/xpeng/g9/g9_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512%2c787fc5" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Reichweite" >}}

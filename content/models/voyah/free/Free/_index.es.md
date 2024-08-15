@@ -56,6 +56,17 @@ VOYAH FREE tiene un sistema de tracción total sostenido por dos motores, uno en
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 118 mm y la máxima es 213 mm.
 
+### Modos de conducción
+
+El VOYAH FREE permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 6 modos:
+
+- Performance: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
+- Eco: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
+- Outing: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
+- Snow: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
+- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
@@ -248,7 +259,8 @@ En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha ident
 - [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
 - [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
 - [Nio EL7](/models/nio/el7/el7/)
+- [XPENG G9 AWD Performance](/models/xpeng/g9/g9_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512%2c787fc5" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Rango" >}}

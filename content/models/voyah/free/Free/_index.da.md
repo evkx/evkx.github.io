@@ -56,6 +56,17 @@ VOYAH FREE har et firehjulstræk, der understøttes af to motorer, en på hver a
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 118 mm, og maksimum er 213 mm.
 
+### Køretilstande
+
+VOYAH FREE lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 6 tilstande:
+
+- Performance: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Eco: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
+- Outing: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
+- Snow: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
+- Individual: Brugerdefineret styring, affjedring og gasrespons.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
@@ -248,7 +259,8 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 - [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
 - [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
 - [Nio EL7](/models/nio/el7/el7/)
+- [XPENG G9 AWD Performance](/models/xpeng/g9/g9_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=7c124f%2c1a8daa%2cb42577%2ce48512%2c787fc5" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}}
