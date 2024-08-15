@@ -30,13 +30,13 @@ El VOYAH FREE ofrece un rendimiento sólido con una potencia máxima de 360 kW (
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 106 kWh y una capacidad neta utilizable de 100 kWh, proporcionando un buffer de 6 kWh (5,7%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 106,0 kWh y una capacidad neta utilizable de 100,0 kWh, proporcionando un buffer de 6,0 kWh (5,7%) para la protección de la batería.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 500 km, con una tasa de consumo de energía de 20,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 97 minutos, mientras que un escenario más común del 10 al 80 % tardaría 60 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 15% al 83%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 65kW. Cada sesión de carga tardaría 63 minutos y 34 segundos.
+La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 93 minutos, mientras que un escenario más común del 10 al 80 % tardaría 50 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 74%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 78kW. Cada sesión de carga tardaría 54 minutos y 10 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 38 minutos. Este viaje requeriría dos paradas de carga del 10% al 85%, con un tiempo total de carga de 139 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 16 minutos. Este viaje requeriría dos paradas de carga del 1% al 76%, con un tiempo total de carga de 116 minutos.
 
 ### Cargador a bordo
 
@@ -98,6 +98,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
@@ -112,9 +113,13 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
+
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -122,6 +127,9 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 
 El VOYAH FREE incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
 - **Carga inalámbrica de teléfono**
 
 {{<evkxdisplayaddarticle />}}
@@ -133,8 +141,8 @@ El VOYAH FREE tiene múltiples pantallas integradas. Detrás del volante hay un 
 Detalles clave de la pantalla:
 
 - La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
-- La  pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
-- La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
 
 El modelo no tiene head-up display.
 
@@ -149,6 +157,8 @@ El VOYAH FREE está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+Un sistema de control de gestos que te permite controlar funciones específicas usando tus manos.
 
 ## Infoentretenimiento
 
@@ -182,12 +192,28 @@ El VOYAH FREE incluye varios [sistemas avanzados de asistencia al conductor](../
 
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el VOYAH FREE, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
 
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el VOYAH FREE, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el VOYAH FREE, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el VOYAH FREE, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el VOYAH FREE, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el VOYAH FREE, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,5 +223,9 @@ El maletero ofrece una capacidad de carga de 560 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2945 kg, con un peso base de 2340 kg. Esto permite una carga máxima de 605 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 2000, y en uno sin freno es de 750 kg.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2000 kg, mientras que para un tráiler sin freno es de 750 kg.
+
+## Disponibilidad y precios
+
+
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Rango" >}}

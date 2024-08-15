@@ -34,9 +34,9 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 106,0 kWh und eine nut
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 500 km (311 Meilen) mit einem Energieverbrauch von 20,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 97 Minuten, während ein typischer Ladevorgang von 10% auf 80% 60 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 70 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 15% und 83%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 65 kW, wobei jede Ladesitzung etwa 63 Minuten und 34 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 100 kW. Das Laden von 0% auf 100% dauert etwa 93 Minuten, während ein typischer Ladevorgang von 10% auf 80% 50 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 85 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 74%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 78 kW, wobei jede Ladesitzung etwa 54 Minuten und 10 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 38 Minuten dauern. Diese Reise würde zwei Ladestopps von 10% auf 85% erfordern, mit einer gesamten Ladezeit von 139 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 10 Stunden und 16 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 76% erfordern, mit einer gesamten Ladezeit von 116 Minuten.
 
 ### Bordladegerät
 
@@ -98,6 +98,7 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
+- [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -112,9 +113,13 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
+
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -122,6 +127,9 @@ Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist 
 
 Der VOYAH FREE umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
+- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
@@ -133,8 +141,8 @@ Der VOYAH FREE hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet 
 Wichtige Bildschirmdetails:
 
 - Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 12,3 Zoll groß.
-- Der -Bildschirm in der Mitte des Armaturenbretts ist 12,3 Zoll groß.
-- Der -Bildschirm vor dem Beifahrer im Armaturenbrett ist 12,3 Zoll groß.
+- Der touch-Bildschirm in der Mitte des Armaturenbretts ist 12,3 Zoll groß.
+- Der touch-Bildschirm vor dem Beifahrer im Armaturenbrett ist 12,3 Zoll groß.
 
 Das Modell verfügt nicht über ein Head-up-Display.
 
@@ -149,6 +157,8 @@ Der VOYAH FREE ist mit einem einzigen Lenkradtyp ausgestattet:
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Ein Gestensteuerungssystem, mit dem Sie bestimmte Funktionen mit Ihren Händen steuern können.
 
 ## Infotainment
 
@@ -182,12 +192,28 @@ Der VOYAH FREE verfügt über eine Reihe von standardmäßigen und optionalen [f
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im VOYAH FREE, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im VOYAH FREE, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im VOYAH FREE, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
+[**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im VOYAH FREE, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
+
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im VOYAH FREE, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im VOYAH FREE, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
+
 ### Fahrautomatisierung
 
 Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,5 +223,9 @@ Der Kofferraum bietet ein Ladevolumen von 560 Litern (19,8 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 2945 kg (6493 lbs) bei einem Leergewicht von 2340 kg (5159 lbs). Dies ermöglicht eine maximale Zuladung von 605 kg (1334 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung ist bei diesem Modell serienmäßig. Das maximale Gesamtgewicht eines gebremsten Anhängers beträgt 2000 kg und eines ungebremsten Anhängers 750 kg (4409/1653 lbs).
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2000 kg (4409 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+## Verfügbarkeit & Preise
+
+
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Reichweite" >}}

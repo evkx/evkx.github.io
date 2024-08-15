@@ -34,9 +34,9 @@ The high-capacity battery has a gross capacity of 106.0 kWh and a net usable cap
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 500 km (311 miles), with an energy consumption rate of 20.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 97 minutes, while a more typical charging scenario from 10% to 80% takes 60 minutes with an average charging speed of 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 15% to 83%. This results in an effective charging speed, including time lost, of 65 kW, with each charging session taking about 63 minutes and 34 seconds.
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 93 minutes, while a more typical charging scenario from 10% to 80% takes 50 minutes with an average charging speed of 85 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 74%. This results in an effective charging speed, including time lost, of 78 kW, with each charging session taking about 54 minutes and 10 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 38 minutes. This journey would require two charging stops from 10% to 85%, with a total charging time of 139 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 16 minutes. This journey would require two charging stops from 1% to 76%, with a total charging time of 116 minutes.
 
 ### Onboard Charger
 
@@ -98,6 +98,7 @@ The following functionalities are available on the **** seat:
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -112,9 +113,13 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- Height adjustable headrest
+
 ## Climate System
 
 There is one climate system available:
+
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -122,6 +127,9 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 
 The VOYAH FREE includes several features to enhance comfort and convenience:
 
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
@@ -133,8 +141,8 @@ The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [
 Key screen details:
 
 - The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
-- The  screen in the dashboard's center is 12.3 inches large
-- The  screen in front of the passenger in the dashboard is 12.3 inches large
+- The touch screen in the dashboard's center is 12.3 inches large
+- The touch screen in front of the passenger in the dashboard is 12.3 inches large
 
 The model does not include a head-up display.
 
@@ -149,6 +157,8 @@ The VOYAH FREE is equipped with a single type of steering wheel:
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+A gesture control system that lets you control specific features using your hands.
 
 ## Infotainment
 
@@ -182,12 +192,28 @@ The VOYAH FREE features a range of standard and optional [advanced driver assist
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the VOYAH FREE, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the VOYAH FREE, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the VOYAH FREE, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the VOYAH FREE, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the VOYAH FREE, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the VOYAH FREE, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -197,5 +223,9 @@ The trunk offers a cargo capacity of 560 liters (19.8 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2945 kg (6493 lbs), with a base weight of 2340 kg (5159 lbs). This allows for a maximum load of 605 kg (1334 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2000 kg, and on and unbraked trailer, it is 750 kg (4409/1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2000 kg (4409 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+## Availability & Pricing
+
+
 {{< pagenavigation b_url="../" b_title="VOYAH FREE" f_url="rangeandconsumption/" f_title="Range" >}}

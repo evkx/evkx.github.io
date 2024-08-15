@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Long term review: Peugeot E-308 SW. Would we still choose it after six months?</h3>
+<p>Electrifying: 14.08.2024</p>
+
+{{< youtube j1FY61sXws0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Electric estate! Peugeot e-308 SW driving REVIEW</h3>
 <p>Autogefühl: 23.11.2023</p>
 

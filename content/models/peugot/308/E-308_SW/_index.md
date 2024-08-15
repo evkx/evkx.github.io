@@ -96,6 +96,7 @@ The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
 - Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
