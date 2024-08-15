@@ -147,6 +147,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Nominell spenning
+			</td>
+			<td>
+				350
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>

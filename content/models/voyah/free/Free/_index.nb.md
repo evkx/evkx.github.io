@@ -30,7 +30,7 @@ VOYAH FREE leverer solid ytelse med en maksimal effekt på 360 kW (490 hk) og et
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 106,0 kWh og en netto brukbar kapasitet på 100,0 kWh, som gir en buffer på 6,0 kWh (5,7%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 106,0 kWh og en netto brukbar kapasitet på 100,0 kWh, som gir en buffer på 6,0 kWh (5,7%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 500 km, med et energiforbruk på 20,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -73,7 +73,7 @@ VOYAH FREE lar brukeren velge forskjellige [kjøremoduser](../../../../technolog
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 350mm.
 
 ### Regenerativ bremsing
 

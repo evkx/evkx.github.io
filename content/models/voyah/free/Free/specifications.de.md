@@ -147,6 +147,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Nennspannung
+			</td>
+			<td>
+				350
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Kathodenmaterialien
 			</td>
 			<td>

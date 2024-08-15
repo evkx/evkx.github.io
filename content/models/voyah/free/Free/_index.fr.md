@@ -30,7 +30,7 @@ La VOYAH FREE offre des performances solides avec une puissance maximale de 360 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 106,0 kWh et une capacité nette utilisable de 100,0 kWh, offrant une réserve de 6,0 kWh (5,7%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 106,0 kWh et une capacité nette utilisable de 100,0 kWh, offrant une réserve de 6,0 kWh (5,7%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 500 km, avec une consommation d'énergie de 20,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -73,7 +73,7 @@ Le VOYAH FREE permet à l'utilisateur de sélectionner différents [modes de con
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
 
 ### Freinage régénératif
 

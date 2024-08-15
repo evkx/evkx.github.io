@@ -30,7 +30,7 @@ Der VOYAH FREE liefert eine solide Leistung mit einer maximalen Leistung von 360
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 106,0 kWh und eine nutzbare Nettokapazität von 100,0 kWh, was einen Puffer von 6,0 kWh (5,7%) zum Schutz der Batterie bietet.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 106,0 kWh und eine nutzbare Nettokapazität von 100,0 kWh, was einen Puffer von 6,0 kWh (5,7%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 350 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 500 km (311 Meilen) mit einem Energieverbrauch von 20,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -73,7 +73,7 @@ Der VOYAH FREE ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 350 mm, während die hinteren Scheiben 350 mm groß sind.
 
 ### Rekuperatives Bremsen
 

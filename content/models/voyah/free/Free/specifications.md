@@ -147,6 +147,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				350
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>

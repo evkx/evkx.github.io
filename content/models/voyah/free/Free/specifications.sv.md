@@ -147,6 +147,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Nominell spänning
+			</td>
+			<td>
+				350
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodmaterial
 			</td>
 			<td>
