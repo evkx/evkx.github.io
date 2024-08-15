@@ -528,6 +528,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -688,6 +691,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 </table>
 
 ### Asientos de la segunda fila
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -931,6 +937,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +961,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Advertencia de temperatura
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +969,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +977,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Limitador de velocidad
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -975,6 +985,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -982,6 +993,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1001,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1034,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

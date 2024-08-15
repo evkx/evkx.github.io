@@ -62,11 +62,11 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. You can choose between two stopping modes for one-pedal driving. <ul><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
 
 ## Exterior
 
-The VOYAH FREE, with dimensions of 4905 mm in length, 1950 mm in width, and 1645 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 6 different paint colors when ordering this model.
+The VOYAH FREE, with dimensions of 4905 mm in length, 1950 mm in width, and 1645 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The VOYAH FREE is available in a total of 6 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the VOYAH FREE, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -92,7 +92,7 @@ The VOYAH FREE accommodates five passengers with two front seats and a three-sea
 
 The VOYAH FREE offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 - Height adjustable headrest
@@ -121,7 +121,7 @@ There is one climate system available:
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort Features
 
@@ -135,6 +135,8 @@ The VOYAH FREE includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the VOYAH FREE combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
 The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
 
@@ -170,9 +172,17 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The VOYAH FREE comes equipped with one sound system option:
 
-- **DYNAUDIO HIFI Sound system:** Features NULL speakers and delivers a maximum output of  watts.
+- **DYNAUDIO HIFI Sound system:** Features five speakers and delivers a maximum output of 100 watts.
 
 Additionally, the model includes 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
+
+## Mobile App
+
+The VOYAH FREE comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
 
 ## Lights
 

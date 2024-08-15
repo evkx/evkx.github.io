@@ -62,11 +62,11 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. <ul><li>**Le mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Le mode Creep** fait avancer la voiture à basse vitesse</li></ul>
 
 ## Extérieur
 
-La VOYAH FREE, avec des dimensions de 4905 mm de longueur, 1950 mm de largeur et 1645 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La VOYAH FREE, avec des dimensions de 4905 mm de longueur, 1950 mm de largeur et 1645 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La VOYAH FREE est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'VOYAH FREE, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -92,7 +92,7 @@ Le VOYAH FREE peut accueillir cinq passagers avec deux sièges à l'avant et une
 
 Le VOYAH FREE propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
 - appui-tête réglable en hauteur
@@ -121,7 +121,7 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
+Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
 ## Caractéristiques de confort
 
@@ -135,6 +135,8 @@ L'VOYAH FREE comprend plusieurs fonctionnalités pour améliorer le confort et l
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
 Le VOYAH FREE possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
 
@@ -170,9 +172,17 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le VOYAH FREE.
 
-- Avec le DYNAUDIO HIFI Sound system, vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- Avec le DYNAUDIO HIFI Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 100 watts.
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 connexions USB-A en standard.
+
+## Application mobile
+
+Le VOYAH FREE est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
 
 ## Lumières
 

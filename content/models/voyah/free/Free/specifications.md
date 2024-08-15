@@ -528,6 +528,9 @@ This model is available with a seat configuration with five seats.
 
 ### Front seats
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -688,6 +691,9 @@ This model is available with a seat configuration with five seats.
 </table>
 
 ### Second row seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -931,6 +937,7 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +961,7 @@ This model is available with a seat configuration with five seats.
 				Temperature warning
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +969,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +977,7 @@ This model is available with a seat configuration with five seats.
 				Speed limiter
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -975,6 +985,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -982,6 +993,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1001,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1021,6 +1034,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
