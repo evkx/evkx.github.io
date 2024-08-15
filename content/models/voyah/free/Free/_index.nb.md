@@ -50,11 +50,15 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-VOYAH FREE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+VOYAH FREE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 118 mm, og maksimum er 213 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funksjonen på VOYAH FREE. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Kjøremoduser
 
@@ -252,7 +256,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-VOYAH FREE hadde sin verdenspremiere den 18.12.2020, med leveranser som startet i June 2021.
+VOYAH FREE hadde sin verdenspremiere den 18.12.2020, med leveranser som startet i June 2022.
 
 ### Priser
 

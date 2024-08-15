@@ -50,11 +50,15 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ## Drivetrain
 
-The VOYAH FREE features an all-wheel drive system powered by two motors, one on each axle.
+The VOYAH FREE features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 118 mm, and the maximum is 213 mm.
+
+### Steering
+
+Dynamic steering is a standard on the VOYAH FREE, varying the steering ratio based on driving speed for enhanced control and comfort.
 
 ### Drive Modes
 
@@ -252,7 +256,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-The VOYAH FREE had its world premiere on 18.12.2020, with deliveries starting in June 2021.
+The VOYAH FREE had its world premiere on 18.12.2020, with deliveries starting in June 2022.
 
 ### Pricing
 

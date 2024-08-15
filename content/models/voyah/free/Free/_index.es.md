@@ -50,11 +50,15 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-VOYAH FREE tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
+VOYAH FREE tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 118 mm y la máxima es 213 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el VOYAH FREE. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
 
 ### Modos de conducción
 
@@ -252,7 +256,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 18.12.2020 y las entregas comenzaron en June 2021.
+Este modelo tuvo un estreno mundial el 18.12.2020 y las entregas comenzaron en June 2022.
 
 ### Precios
 

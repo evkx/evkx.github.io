@@ -50,11 +50,15 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-VOYAH FREE dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
+VOYAH FREE dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 118 mm et la garde au sol maximale est de 213 mm.
+
+### Pilotage
+
+La direction dynamique est une fonctionnalité un standard sur le VOYAH FREE. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
 ### Modes de conduite
 
@@ -252,7 +256,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 18.12.2020 et les livraisons ont commencé en June 2021.
+Ce modèle a été présenté en première mondiale le 18.12.2020 et les livraisons ont commencé en June 2022.
 
 ### Tarification
 
