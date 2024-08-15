@@ -78,7 +78,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 265/40 Reifen auf 22" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramadach. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

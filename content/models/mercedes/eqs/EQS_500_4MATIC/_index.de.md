@@ -87,7 +87,7 @@ Der Mercedes-EQ EQS 500 4MATIC bietet mehrere Radoptionen in verschiedenen Grö�
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasplatten haben einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

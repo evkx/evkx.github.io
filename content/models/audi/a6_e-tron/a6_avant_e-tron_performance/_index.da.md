@@ -342,7 +342,7 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Ne
 I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Audi A6 Avant e-tron performance, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
 
 - [BMW i5 eDrive40 Touring](/models/bmw/i5/i5_edrive40_touring/)
-- [Volskwagen ID.7 Tourer Pro S](/models/volskwagen/id.7/id.7_tourer_pro_s/)
+- [Volkswagen ID.7 Tourer Pro S](/models/volkswagen/id.7/id.7_tourer_pro_s/)
 
 <a href="https://db.evkx.net/evcompare?evs=c920c2%2c0e264c%2ce954a2" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 

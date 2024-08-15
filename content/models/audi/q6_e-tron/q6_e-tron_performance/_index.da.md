@@ -351,4 +351,13 @@ Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Ne
 
 - 749 000,00 NOK (Norge)
 
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Audi Q6 e-tron performance, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Mercedes EQE 350+ SUV](/models/mercedes/eqe_suv/eqe_350plus_suv/)
+- [Porsche Macan](/models/porsche/macan/macan/)
+
+<a href="https://db.evkx.net/evcompare?evs=7d6d87%2cbeb2be%2c419073" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Audi Q6 e-tron" f_url="rangeandconsumption/" f_title="Range" >}}
