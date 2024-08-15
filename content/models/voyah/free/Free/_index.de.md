@@ -77,7 +77,9 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) in diesem Modell wird hauptsächlich durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) ermöglicht. Im Gegensatz zu einigen Modellen sind [Automatische Regeneration](../../../../technology/regen/#automatic-regen-adaptive) oder Rollen hier nicht verfügbar. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. <ul><li>Der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt</li><li>Der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts</li></ul>
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. <ul><li>Der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt</li><li>Der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts</li></ul>
+
+Wenn Sie den Fuß vollständig vom Pedal nehmen, ist die Regeneration auf einem festen Niveau. Dies kann nicht angepasst werden.
 
 ## Exterieur
 

@@ -84,7 +84,7 @@ The Volkswagen ID.7 Pro offers multiple wheel options in different sizes, allowi
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate), which makes the trunk much more usable compared to a traditional bootlid, especially for a sedan You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate), which makes the trunk much more usable compared to a traditional bootlid, especially for a sedan. You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

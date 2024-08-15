@@ -77,7 +77,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. <ul><li>**Le mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Le mode Creep** fait avancer la voiture à basse vitesse</li></ul>
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. <ul><li>**Le mode Roll** permet au véhicule de rouler jusqu'à ce qu'il s'arrête naturellement</li><li>**Le mode Creep** fait avancer la voiture à basse vitesse</li></ul>
+
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
 ## Extérieur
 

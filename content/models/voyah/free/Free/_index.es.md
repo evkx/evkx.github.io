@@ -77,7 +77,9 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. <ul><li>**El modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural</li><li>**El modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Puedes elegir entre dos modos de parada para la conducción con un solo pedal. <ul><li>**El modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural</li><li>**El modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
+
+Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
 ## Exterior
 

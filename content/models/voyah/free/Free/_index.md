@@ -77,7 +77,9 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. You can choose between two stopping modes for one-pedal driving. <ul><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). You can choose between two stopping modes for one-pedal driving. <ul><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
+
+If you lift away the foot completely the regen is at one fixed level. This can't be adjusted.
 
 ## Exterior
 

@@ -77,7 +77,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Du kan vælge mellem to stopmodi til en-pedal kørsel. <ul><li>**Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt</li><li>**Creep mode** bevæger bilen fremad ved lav hastighed</li></ul>
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stopmodi til en-pedal kørsel. <ul><li>**Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt</li><li>**Creep mode** bevæger bilen fremad ved lav hastighed</li></ul>
+
+Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
 
 ## Udvendig
 

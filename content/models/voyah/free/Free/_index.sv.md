@@ -77,7 +77,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Du kan välja mellan två stoppmodi för enpedalskörning. <ul><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan välja mellan två stoppmodi för enpedalskörning. <ul><li>**Roll-läge** låter fordonet rulla tills det stannar naturligt</li><li>**Creep-läge** för bilen framåt i låg hastighet</li></ul>
+
+Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
 
 ## Exteriör
 
