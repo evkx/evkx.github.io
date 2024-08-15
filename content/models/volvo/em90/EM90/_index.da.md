@@ -75,7 +75,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EM90, så du
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
+Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene. Bagklappen er elektrisk drevet.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 

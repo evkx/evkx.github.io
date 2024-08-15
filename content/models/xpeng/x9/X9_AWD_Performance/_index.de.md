@@ -65,7 +65,7 @@ Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Hö
 
 Sie können zwischen 1 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
 
-Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
+Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben.
 
 Es gibt nur eine Dachoption für dieses Modell.
 

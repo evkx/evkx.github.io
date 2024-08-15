@@ -80,7 +80,7 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
-El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
+El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales. Puedes elegir una opción para que la puerta levadiza funcione eléctricamente. También puedes tener la puerta levadiza con un sensor de patada, lo que permite abrirla con solo patear el pie debajo de la puerta trasera.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 

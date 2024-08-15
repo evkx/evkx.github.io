@@ -84,7 +84,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i4 M50, vilk
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. 'Soft Close' är valfritt-funktionen för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. 'Soft Close' är valfritt-funktionen för sidodörrarna. Bakluckan är elektriskt manövrerad.
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 

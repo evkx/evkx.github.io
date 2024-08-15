@@ -72,7 +72,7 @@ Der Cadillac OPTIQ AWD bietet mehrere Radoptionen in verschiedenen Größen, sod
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können. Optional können Sie dieses Modell mit einem Panoramadach bestellen, das geöffnet werden kann. Das Glas hat zwei Paneele. Eines über der ersten und eines über der zweiten Reihe, und die Insassen können den vorderen Teil öffnen. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

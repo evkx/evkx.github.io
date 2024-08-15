@@ -78,7 +78,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volksw
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er en standard funksjon for sidedørene. Du kan velge et alternativ for å ha bakluken elektrisk drevet. Du kan også ha bakluken med sparkesensor, som gjør det mulig å åpne den ved å bare sparke foten under bakluken.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 

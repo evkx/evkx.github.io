@@ -76,7 +76,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 255/50 en llantas de 22" delanteras y neumáticos 275/40 en llantas de 22" traseras
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales. La puerta levadiza eléctrica tiene un sensor de patada como equipo opcional, lo que permite abrirla simplemente moviendo el pie debajo de la puerta trasera.
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que Puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol
 

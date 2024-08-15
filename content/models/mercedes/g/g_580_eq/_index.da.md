@@ -83,7 +83,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ G 580 
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren Den har manuelt gardin, som beboerne kan bruge til at beskytte mod solen.
 

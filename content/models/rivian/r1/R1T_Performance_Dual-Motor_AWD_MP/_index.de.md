@@ -74,7 +74,7 @@ Der Rivian R1T Performance Dual-Motor AWD MP ist in insgesamt 9 Lackfarben erhä
 
 Der Rivian R1T Performance Dual-Motor AWD MP bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt. Die Heckklappe ist elektrisch betrieben.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
 Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

@@ -93,7 +93,7 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
-La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline.
+La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline. Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 

@@ -80,7 +80,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 285/65 tires on 20" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
+The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 

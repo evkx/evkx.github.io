@@ -80,7 +80,7 @@ Der Volkswagen ID.3 Pro S (GEN1) bietet mehrere Radoptionen in verschiedenen Gr�
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

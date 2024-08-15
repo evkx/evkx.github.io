@@ -72,7 +72,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 275/50 tires on 24" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors. The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 

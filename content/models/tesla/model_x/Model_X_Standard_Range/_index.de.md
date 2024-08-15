@@ -81,7 +81,7 @@ Der Tesla Model X Standard Range bietet mehrere Radoptionen in verschiedenen Gr�
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Die Windschutzscheibe ist panoramisch und erstreckt sich über die erste Reihe. Zusätzlich gibt es Dachfenster über der zweiten Reihe.
 

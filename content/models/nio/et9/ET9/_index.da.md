@@ -82,7 +82,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 265/40 dæk on 23" fælge
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate), hvilket gør bagagerummet meget mere anvendeligt sammenlignet med et traditionelt bagagerumslåg, især for en sedan. Soft close er en standard-funktion for sidedørene.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate), hvilket gør bagagerummet meget mere anvendeligt sammenlignet med et traditionelt bagagerumslåg, især for en sedan. Soft close er en standard-funktion for sidedørene. Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 

@@ -82,7 +82,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 265/40 Reifen auf 23" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht. Soft-Close ist eine eine standard-Funktion für die Seitentüren.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht. Soft-Close ist eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

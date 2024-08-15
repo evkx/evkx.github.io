@@ -74,7 +74,7 @@ El Rivian R1T Performance Dual-Motor AWD MP está disponible en un total de 9 co
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Rivian R1T Performance Dual-Motor AWD MP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. La puerta trasera funciona eléctricamente.
+El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 

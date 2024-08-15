@@ -97,7 +97,7 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
-El coche tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con una tapa de maletero tradicional, especialmente para un sedán. El cierre suave es la función un estándar para las puertas laterales.
+El coche tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#liftgate), lo que hace que el maletero sea mucho más utilizable en comparación con una tapa de maletero tradicional, especialmente para un sedán. El cierre suave es la función un estándar para las puertas laterales. La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 

@@ -78,7 +78,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 255/45 dæk on 22" fælge
 
-Bilen har to [almindelige døre](../../../../technology/doors/) foran, en unik kombination af selvmordsdøre med mågevingetag på anden række og en [liftgate](../../../../technology/doors/#liftgate) bagerst. Elektriske døre er en standard funktion for sidedørene.
+Bilen har to [almindelige døre](../../../../technology/doors/) foran, en unik kombination af selvmordsdøre med mågevingetag på anden række og en [liftgate](../../../../technology/doors/#liftgate) bagerst. Elektriske døre er en standard funktion for sidedørene. Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er kun ét tag til denne model. Standardtaget har panoramaglas over første række udover at tagdelen af mågedørene har glas. Dette glas får bilens interiør til at føles mere rummeligt og lyst, som kan forbedre stemningen og komforten for beboeren.
 

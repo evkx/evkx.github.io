@@ -79,7 +79,7 @@ The Renault Scenic E-Tech electric High Range offers multiple wheel options in d
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple patterns to protect against the sun.
 

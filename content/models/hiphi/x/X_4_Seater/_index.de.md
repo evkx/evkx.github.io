@@ -78,7 +78,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 255/45 Reifen auf 22" Felgen
 
-Das Auto hat zwei [normale Türen](../../../../technology/doors/) vorne, eine einzigartige Kombination aus Selbstmördertüren mit einem Flügeltürdach in der zweiten Reihe und eine [Heckklappe](../../../../technology/doors/#liftgate) hinten. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
+Das Auto hat zwei [normale Türen](../../../../technology/doors/) vorne, eine einzigartige Kombination aus Selbstmördertüren mit einem Flügeltürdach in der zweiten Reihe und eine [Heckklappe](../../../../technology/doors/#liftgate) hinten. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramaglas über der ersten Reihe, zusätzlich haben die Flügeltüren Glas. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann.
 

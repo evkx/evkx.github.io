@@ -74,7 +74,7 @@ Rivian R1T Performance Dual-Motor AWD MP er tilgjengelig i totalt 9 lakkfarger, 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian R1T Performance Dual-Motor AWD MP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. Bakluken er elektrisk drevet.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

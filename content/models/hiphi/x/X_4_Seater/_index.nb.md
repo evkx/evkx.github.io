@@ -78,7 +78,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 255/45 dekk på 22" felger
 
-Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av selvmordsdører med måketak på andre rad, og en [liftgate](../../../../technology/doors/#liftgate) bak. Elektriske dører er en standard funksjon for sidedørene.
+Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av selvmordsdører med måketak på andre rad, og en [liftgate](../../../../technology/doors/#liftgate) bak. Elektriske dører er en standard funksjon for sidedørene. Løfteporten er elektrisk drevet og har kick-sensor som standard.
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 

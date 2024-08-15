@@ -75,7 +75,7 @@ The Opel Mokka Electric offers multiple wheel options in different sizes, allowi
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model.
 

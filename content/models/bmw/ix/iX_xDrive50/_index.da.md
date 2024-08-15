@@ -74,7 +74,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 - 255/50 dæk på 22" fælge foran og 275/40 dæk på 22" fælge bagpå
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en valgfri-funktion for sidedørene.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en valgfri-funktion for sidedørene. Den elektrisk drevne bagklap har en kick-sensor som ekstraudstyr, hvilket gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 

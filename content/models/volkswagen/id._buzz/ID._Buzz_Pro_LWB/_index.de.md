@@ -80,7 +80,7 @@ Der Volkswagen ID. Buzz Pro LWB bietet mehrere Radoptionen in verschiedenen Grö
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
+Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren. Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach ist einfach ein normales Dach.
 

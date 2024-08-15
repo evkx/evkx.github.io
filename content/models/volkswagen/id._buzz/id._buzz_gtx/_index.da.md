@@ -78,7 +78,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID. Buz
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
+Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene. Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 

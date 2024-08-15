@@ -82,7 +82,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 265/40 sur jantes de 23"
 
-La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline. La fermeture douce est la fonction un standard pour les portes latérales.
+La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline. La fermeture douce est la fonction un standard pour les portes latérales. Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 

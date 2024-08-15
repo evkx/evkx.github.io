@@ -82,7 +82,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 265/40 dekk på 23" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate), noe som gjør bagasjerommet mye mer brukbart sammenlignet med et tradisjonelt bagasjelokk, spesielt for en sedan. 'Soft Close' er en standard-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate), noe som gjør bagasjerommet mye mer brukbart sammenlignet med et tradisjonelt bagasjelokk, spesielt for en sedan. 'Soft Close' er en standard-funksjon for sidedørene. Løfteporten er elektrisk drevet og har kick-sensor som standard.
 
 Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 

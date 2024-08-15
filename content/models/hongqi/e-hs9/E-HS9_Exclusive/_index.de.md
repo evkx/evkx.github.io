@@ -79,7 +79,7 @@ Der Hongqi E-HS9 Exclusive bietet mehrere Radoptionen in verschiedenen Größen,
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Soft-Close ist eine eine standard-Funktion für die Seitentüren.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Soft-Close ist eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramadach. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

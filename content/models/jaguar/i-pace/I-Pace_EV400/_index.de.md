@@ -78,7 +78,7 @@ Der Jaguar I-Pace EV400 bietet mehrere Radoptionen in verschiedenen Größen, so
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

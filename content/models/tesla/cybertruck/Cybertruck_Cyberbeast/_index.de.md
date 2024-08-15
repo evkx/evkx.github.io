@@ -80,7 +80,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 285/65 Reifen auf 20" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt. Die Heckklappe ist elektrisch betrieben.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

@@ -102,7 +102,7 @@ Der Audi A6 Sportback e-tron performance bietet mehrere Radoptionen in verschied
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht. Soft-Close ist eine eine optionale-Funktion für die Seitentüren.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate), was den Kofferraum im Vergleich zu einem herkömmlichen Kofferraumdeckel, insbesondere bei einer Limousine, viel besser nutzbar macht. Soft-Close ist eine eine optionale-Funktion für die Seitentüren. Die elektrisch betriebene Heckklappe hat einen Tritt-Sensor als optionale Ausstattung, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
 Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas hat eine elektrochrome Funktion, mit der Sie das Glas in mehreren Stufen abdunkeln können, um sich vor der Sonne zu schützen.
 

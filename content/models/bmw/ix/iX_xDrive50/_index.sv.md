@@ -74,7 +74,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 - 255/50 däck på 22" fälgar fram och 275/40 däck på 22" fälgar bak
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna. Den elektriskt drivna bakluckan har en valfri kicksensor, som gör att den kan öppnas genom att helt enkelt sparka foten under bakluckan.
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från framsidan till baksidan. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 

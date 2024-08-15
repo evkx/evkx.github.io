@@ -84,7 +84,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på BMW i4 eDrive40, s
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate), hvilket gør bagagerummet meget mere anvendeligt sammenlignet med et traditionelt bagagerumslåg, især for en sedan. Soft close er en valgfri-funktion for sidedørene.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#liftgate), hvilket gør bagagerummet meget mere anvendeligt sammenlignet med et traditionelt bagagerumslåg, især for en sedan. Soft close er en valgfri-funktion for sidedørene. Bagklappen er elektrisk drevet.
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 

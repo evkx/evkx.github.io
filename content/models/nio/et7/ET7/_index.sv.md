@@ -99,7 +99,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Nio ET7, vilket 
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. 'Soft Close' är standard-funktionen för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#liftgate), vilket gör bagageutrymmet mycket mer användbart jämfört med ett traditionellt bagagelucka, särskilt för en sedan. 'Soft Close' är standard-funktionen för sidodörrarna. Bakluckan är eldriven och har sparksensor som standard.
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 

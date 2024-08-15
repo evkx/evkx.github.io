@@ -81,7 +81,7 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus il y a des lucarnes au dessus de la deuxième rangée.
 

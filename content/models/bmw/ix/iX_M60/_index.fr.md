@@ -76,7 +76,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 255/50 sur jantes de 22" à l'avant et pneus 275/40 sur jantes de 22" à l'arrière
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales. Le hayon électrique est doté d'un capteur de coup de pied en option, permettant de l'ouvrir d'un simple coup de pied sous le hayon.
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 

@@ -79,7 +79,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Renault Scenic E-T
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er kun ét tag til denne model. Standardtaget har en stor panoramaudsigt, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedres brugerens humør og komfort. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere mønstre for at beskytte mod solen.
 

@@ -65,7 +65,7 @@ La suspension est entièrement adaptative sur les essieux avant et arrière, de 
 
 Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
 
-La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
+La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales. Le hayon est alimenté électriquement.
 
 Il n'y a qu'un seul toit pour ce modèle.
 

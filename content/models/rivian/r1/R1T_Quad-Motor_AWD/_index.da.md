@@ -75,7 +75,7 @@ Rivian R1T Quad-Motor AWD fås i alt 9 lakfarver, herunder flere iøjnefaldende 
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Rivian R1T Quad-Motor AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Bagklappen er elektrisk drevet.
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 

@@ -70,7 +70,7 @@ Der MG Marvel R Electric, mit Abmessungen von 4674 mm Länge, 1919 mm Breite und
 
 Der MG Marvel R Electric bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein Panoramadach. Das Glas erstreckt sich über den größten Teil des Dachs und die Insassen können den vorderen Teil öffnen. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 

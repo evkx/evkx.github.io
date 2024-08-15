@@ -70,7 +70,7 @@ Den MG Marvel R Electric, med dimensioner på 4674 mm i længde, 1919 mm i bredd
 
 Du kan vælge mellem flere hjul i forskellige størrelser på MG Marvel R Electric, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 

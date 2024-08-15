@@ -87,7 +87,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 255/45 sur jantes de 20"
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre sur plusieurs niveaux pour se protéger du soleil.
 

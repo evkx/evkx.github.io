@@ -81,7 +81,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model X Plai
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 
-Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Lågen er elektrisk drevet og har en kick-sensor som standard.
 
 Der er kun ét tag til denne model. Forruden er panoramisk og går tilbage over første række. Derudover er der ovenlys over anden række.
 

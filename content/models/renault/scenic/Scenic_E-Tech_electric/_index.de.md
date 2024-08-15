@@ -79,7 +79,7 @@ Der Renault Scenic E-Tech electric bietet mehrere Radoptionen in verschiedenen G
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate).
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas hat eine elektrochrome Funktion, die es Ihnen ermöglicht, das Glas in mehreren Mustern abzudunkeln, um sich vor der Sonne zu schützen.
 

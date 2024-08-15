@@ -75,7 +75,7 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
-La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
+La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales. Le hayon est alimenté électriquement.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance. humeur et confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 

@@ -78,7 +78,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 255/45 sur jantes de 22"
 
-La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes suicide avec un toit en aile de mouette sur le deuxième rangée, et un [liftgate](../../../../technology/doors/#liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
+La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes suicide avec un toit en aile de mouette sur le deuxième rangée, et un [liftgate](../../../../technology/doors/#liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales. Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'une vitre panoramique au-dessus de la première rangée et la partie du toit des portes gullving est également vitrée. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant.
 

@@ -65,7 +65,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 You can choose between 1 different paint colors when ordering this model.
 
-The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
+The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors. The tailgate is electrically powered.
 
 There is only one roof option for this model.
 

@@ -70,7 +70,7 @@ The MG Marvel R Electric Performance, with dimensions of 4674 mm in length, 1919
 
 The MG Marvel R Electric Performance offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There is only one roof option for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

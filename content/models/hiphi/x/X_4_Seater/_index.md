@@ -78,7 +78,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 - 255/45 tires on 22" rims
 
-The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors.
+The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors. The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model. The standard roof has a panoramic glass over first row in addition to the roof part of the gullving doors have glass. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant.
 

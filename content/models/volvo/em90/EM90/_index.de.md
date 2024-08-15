@@ -75,7 +75,7 @@ Der Volvo EM90 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie 
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
-Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
+Das Auto hat zwei [normale Türen](../../../../technology/doors/) in der ersten Reihe, [Schiebetüren](../../../../technology/doors/) in der zweiten Reihe und eine Heckklappe. Elektrische Türen sind eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

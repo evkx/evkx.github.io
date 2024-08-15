@@ -70,7 +70,7 @@ La MG Marvel R Electric Performance, avec des dimensions de 4674 mm de longueur,
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'MG Marvel R Electric Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Vous pouvez choisir une option pour que le hayon soit alimenté électriquement. Vous pouvez également avoir le hayon avec un capteur de coup de pied, permettant de l'ouvrir en donnant simplement un coup de pied sous le hayon.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 

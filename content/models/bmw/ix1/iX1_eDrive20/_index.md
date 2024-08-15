@@ -80,7 +80,7 @@ The BMW iX1 eDrive20 offers multiple wheel options in different sizes, allowing 
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 

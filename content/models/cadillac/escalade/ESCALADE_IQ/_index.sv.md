@@ -72,7 +72,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 - 275/50 däck på 24" fälgar
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Elektriska dörrar är standard funktion för sidodörrarna.
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Elektriska dörrar är standard funktion för sidodörrarna. Bakluckan är eldriven och har sparksensor som standard.
 
 Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 

@@ -72,7 +72,7 @@ The Cadillac OPTIQ AWD offers multiple wheel options in different sizes, allowin
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The tailgate is electrically powered.
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 

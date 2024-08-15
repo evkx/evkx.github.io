@@ -81,7 +81,7 @@ The Tesla Model X Standard Range offers multiple wheel options in different size
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). The liftgate is electric-powered and has a kick-sensor as standard.
 
 There is only one roof option for this model. The windshield is panoramic going back over the first row. In addition there is skylights over the second row.
 

@@ -87,7 +87,7 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 - 255/45 dekk på 20" felger
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
 
 Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedres stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.
 

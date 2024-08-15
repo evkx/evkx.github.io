@@ -72,7 +72,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 275/50 en llantas de 24
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Las puertas eléctricas tienen un estándar función para las puertas laterales.
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Las puertas eléctricas tienen un estándar función para las puertas laterales. La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 

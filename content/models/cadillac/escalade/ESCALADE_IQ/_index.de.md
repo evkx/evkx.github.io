@@ -72,7 +72,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 - 275/50 Reifen auf 24" Felgen
 
-Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Elektrische Türen sind eine eine standard-Funktion für die Seitentüren.
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Elektrische Türen sind eine eine standard-Funktion für die Seitentüren. Die Heckklappe ist elektrisch betrieben und hat einen Tritt-Sensor als Standard.
 
 Es gibt nur eine Dachoption für dieses Modell. Optional können Sie dieses Modell mit einem großen Panoramadach bestellen, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 

@@ -79,7 +79,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Renault Scenic E
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Bakluckan är eldriven och har sparksensor som standard.
 
 Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy som spänner över de flesta områden framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och den boendes komfort. Glaset har en elektrokrom funktion som gör att du kan blanda glaset i flera mönster för att skydda mot solen.
 

@@ -80,7 +80,7 @@ The Volkswagen ID. Buzz Pro LWB offers multiple wheel options in different sizes
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
-The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
+The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors. You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
 There is only one roof option for this model. The standard is just a regular roof.
 

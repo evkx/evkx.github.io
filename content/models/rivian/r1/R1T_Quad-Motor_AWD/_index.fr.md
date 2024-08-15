@@ -75,7 +75,7 @@ La Rivian R1T Quad-Motor AWD est disponible en un total de 9 couleurs de peintur
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Rivian R1T Quad-Motor AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe. Le hayon est alimenté électriquement.
+La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 

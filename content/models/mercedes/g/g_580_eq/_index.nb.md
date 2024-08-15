@@ -83,7 +83,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Merced
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Løfteporten er elektrisk drevet og har kick-sensor som standard.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som tilleggsutstyr kan du bestille denne modellen med soltak. Glasset strekker seg over kun første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren Den har manuell gardin som passasjerene kan bruke for å beskytte mot solen.
 

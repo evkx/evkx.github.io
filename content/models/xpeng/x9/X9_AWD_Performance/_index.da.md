@@ -65,7 +65,7 @@ Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan
 
 Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
-Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
+Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene. Bagklappen er elektrisk drevet.
 
 Der er kun ét tag til denne model.
 

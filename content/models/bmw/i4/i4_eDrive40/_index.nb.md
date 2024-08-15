@@ -84,7 +84,7 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i4
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
-Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate), noe som gjør bagasjerommet mye mer brukbart sammenlignet med et tradisjonelt bagasjelokk, spesielt for en sedan. 'Soft Close' er en valgfri-funksjon for sidedørene.
+Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#liftgate), noe som gjør bagasjerommet mye mer brukbart sammenlignet med et tradisjonelt bagasjelokk, spesielt for en sedan. 'Soft Close' er en valgfri-funksjon for sidedørene. Bakluken er elektrisk drevet.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 

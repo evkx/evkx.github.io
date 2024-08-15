@@ -87,7 +87,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 - Neumáticos 255/45 en llantas de 20
 
-El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). La puerta levadiza es eléctrica y tiene un sensor de patada de serie.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar El estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite mezclar el vidrio en múltiples niveles para proteger contra el sol.
 

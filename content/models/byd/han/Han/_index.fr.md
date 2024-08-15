@@ -78,7 +78,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 - Pneus 265/40 sur jantes de 22"
 
-La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline.
+La voiture a quatre [portes normales](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#liftgate), ce qui rend le coffre beaucoup plus utilisable par rapport à un couvercle de coffre traditionnel, surtout pour une berline. Le hayon est électrique et dispose d'un capteur de coup de pied en standard.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
