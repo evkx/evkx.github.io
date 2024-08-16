@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x är en helelektrisk SUV med en EPA räckvidd på upp till 529 km. EVKX.net har alla detaljer."
+description: "GMC Hummer EV SUV 3x är en helelektrisk SUV med en EPA räckvidd på upp till 505 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delat in vår beskrivning av GMC Hummer EV SUV 3x i avsnitt. Om du vill v
 
 ## Prestanda
 
-GMC Hummer EV SUV 3x levererar en häpnadsväckande maximal effekt på 746 KW (1014 hk) och ett massivt vridmoment på 1150 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 170 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
+GMC Hummer EV SUV 3x levererar en häpnadsväckande maximal effekt på 619 KW (842 hk) och ett massivt vridmoment på 1150 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 3,6 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 171 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 200,0 kWh och en nettoanvändbar kapacitet på 190,0 kWh, vilket ger en buffert på 10,0 kWh (5,0%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 529 km med en energiförbrukning på 35,9 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 505 km med en energiförbrukning på 37,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 124 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 62%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 240kW. Varje laddningssession tar 29 minuter och 2 sekunder. Denna effektiva laddningskapacitet gör GMC Hummer EV SUV 3x till ett bekvämt alternativ för långdistansresor.
 
@@ -58,6 +58,8 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 ### Bromsar
 
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 343mm.
+
 ### Regenerativ bromsning
 
 [**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
@@ -66,13 +68,20 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-GMC Hummer EV SUV 3x, med dimensioner på 4999 mm i längd, 2197 mm i bredd och 1976 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. GMC Hummer EV SUV 3x finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+GMC Hummer EV SUV 3x, med dimensioner på 4999 mm i längd, 2197 mm i bredd och 1976 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. GMC Hummer EV SUV 3x finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på GMC Hummer EV SUV 3x, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 305/70 däck på 18" fälgar
+- 305/55 däck på 22" fälgar
+
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
 Det finns bara ett tak för denna modell. Standardtaket har 4 separata avtagbara glaspaneler, vilket gör detta till en cabriolet.
+
+B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/exterior_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -88,7 +97,7 @@ GMC Hummer EV SUV 3x rymmer fem passagerare med två säten fram och en tre-sits
 
 GMC Hummer EV SUV 3x erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - höjdjusterbart nackstöd
@@ -105,7 +114,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -114,7 +123,7 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 Det finns ett tillgängligt klimatsystem.
 
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -188,6 +197,8 @@ GMC Hummer EV SUV 3x inkluderar flera [avancerade förarassistanssystem](../../.
 
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på GMC Hummer EV SUV 3x, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
 
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på GMC Hummer EV SUV 3x, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på GMC Hummer EV SUV 3x, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
 ### Körautomatisering
@@ -196,7 +207,13 @@ Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomat
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +221,7 @@ Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomat
 
 Bagageutrymmet erbjuder en lastkapacitet på 1016 liter. Med baksätena nedfällda ökar detta till 2316 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 320 liter.
 
-Fordonets maximala vikt är 4717 kg, med en grundvikt på 4103 kg. Detta tillåter en maximal last på 614 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 4717 kg, med en grundvikt på 4282 kg. Detta tillåter en maximal last på 435 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 435 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 3402 kg, medan för en obromsad släpvagn är den 750 kg.
 

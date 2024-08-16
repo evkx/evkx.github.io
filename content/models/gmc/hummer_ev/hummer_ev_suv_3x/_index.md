@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x is an all-electric SUV with a EPA range of up to 529 km (329 miles). EVKX.net has all the details."
+description: "GMC Hummer EV SUV 3x is an all-electric SUV with a EPA range of up to 505 km (314 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The GMC Hummer EV SUV 3x delivers a jaw-dropping maximum power of 746 KW (1014 hp/1000 bhp) and a massive total torque of 1150 Nm (849 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 170 km/h (106 mph), making it a true marvel of engineering and performance.
+The GMC Hummer EV SUV 3x delivers a jaw-dropping maximum power of 619 KW (842 hp/830 bhp) and a massive total torque of 1150 Nm (849 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 171 km/h (106 mph), making it a true marvel of engineering and performance.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 329 miles (529 km) with an energy consumption rate of 1.7 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 314 miles (505 km) with an energy consumption rate of 1.7 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 124 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed of 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 240 kW, with each charging session taking about 29 minutes and 2 seconds. This efficient charging capability makes the GMC Hummer EV SUV 3x a convenient option for long-distance travel.
 
@@ -58,6 +58,8 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
+
 ### Regenerative Braking
 
 [**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
@@ -66,13 +68,20 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The GMC Hummer EV SUV 3x, with dimensions of 4999 mm in length, 2197 mm in width, and 1976 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The GMC Hummer EV SUV 3x is available in a total of 1 paint colors, including several striking metallic options.
+The GMC Hummer EV SUV 3x, with dimensions of 4999 mm in length, 2197 mm in width, and 1976 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The GMC Hummer EV SUV 3x is available in a total of 7 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
 
 The GMC Hummer EV SUV 3x offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 305/70 tires on 18" rims
+- 305/55 tires on 22" rims
+
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There is only one roof option for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/exterior_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -88,7 +97,7 @@ The GMC Hummer EV SUV 3x accommodates five passengers with two front seats and a
 
 The GMC Hummer EV SUV 3x offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 - Height adjustable headrest
@@ -105,7 +114,7 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -114,7 +123,7 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 There is one climate system available:
 
-- **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -188,6 +197,8 @@ The GMC Hummer EV SUV 3x features a range of standard and optional [advanced dri
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the GMC Hummer EV SUV 3x, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the GMC Hummer EV SUV 3x, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the GMC Hummer EV SUV 3x, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
@@ -196,7 +207,13 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +221,7 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 The trunk offers a cargo capacity of 1016 liters (35.9 CU FT). With the rear seat folded down, this expands to 2316 liters (81.8 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 320 liters (11.3 CU FT).
 
-The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 4103 kg (9046 lbs). This allows for a maximum load of 614 kg (1354 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 4282 kg (9440 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 435kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 3402 kg (7500 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

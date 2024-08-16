@@ -40,10 +40,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				529 km / 329 mi
+				505 km / 314 mi
 			</td>
 			<td>
-				35,9 kWh/100km / 1,7 mi/kWh
+				37,6 kWh/100km / 1,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				529 km / 329 mi
+				505 km / 314 mi
 			</td>
 			<td>
-				35,9 kWh/100km / 1,7 mi/kWh
+				37,6 kWh/100km / 1,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA-serien grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				472 km / 293 mi
+				453 km / 281 mi
 			</td>
 			<td>
-				-10,8%
+				-10,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA rekkevidde maks utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				472 km / 293 mi
+				453 km / 281 mi
 			</td>
 			<td>
-				-10,8%
+				-10,3%
 			</td>
 		</tr>
 	</tbody>

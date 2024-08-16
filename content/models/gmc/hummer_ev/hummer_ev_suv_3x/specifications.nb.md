@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV SUV 3
 				Maks effekt
 			</td>
 			<td>
-				746 KW (1014 hk)
+				619 KW (842 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV SUV 3
 				Topphastighet
 			</td>
 			<td>
-				170 km/t
+				171 km/t
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for GMC Hummer EV SUV 3
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				EPA-rekkevidde
 			</td>
 			<td>
-				329 mi
+				314 mi
 			</td>
 		</tr>
 		<tr>
@@ -287,6 +287,46 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag-koeffisient
+			</td>
+			<td>
+				0,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel foran
+			</td>
+			<td>
+				49,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhengsvinkel bak
+			</td>
+			<td>
+				38,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vendesirkel
 			</td>
 			<td>
@@ -315,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				4103 kg
+				4282 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				614 kg
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -512,6 +552,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -672,6 +715,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 </table>
 
 ### Seter på andre rad
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -835,6 +881,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +889,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -849,6 +897,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -856,6 +905,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

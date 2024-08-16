@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para GMC Hummer EV SUV 
 				Potencia máxima
 			</td>
 			<td>
-				746 KW (1014 hp)
+				619 KW (842 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para GMC Hummer EV SUV 
 				Velocidad máxima
 			</td>
 			<td>
-				170 kph
+				171 kph
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para GMC Hummer EV SUV 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				rango EPA
 			</td>
 			<td>
-				329 mi
+				314 mi
 			</td>
 		</tr>
 		<tr>
@@ -287,6 +287,46 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				49,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				38,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -315,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				4103 kg
+				4282 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				614 kg
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -512,6 +552,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -672,6 +715,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 </table>
 
 ### Asientos de la segunda fila
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -835,6 +881,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +889,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -849,6 +897,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -856,6 +905,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

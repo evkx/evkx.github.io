@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x ist ein vollelektrisches SUV mit einer Reichweite von bis zu 529 km (329 Meilen). EVKX.net hat alle Details."
+description: "GMC Hummer EV SUV 3x ist ein vollelektrisches SUV mit einer Reichweite von bis zu 505 km (314 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der GMC Hummer EV SUV 3x liefert eine atemberaubende maximale Leistung von 746 kW (1014 PS/1000 bhp) und ein massives Gesamtdrehmoment von 1150 Nm (849 lb-ft). Dieser Kraftprotz kann in nur 3,5 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 170 km/h (106 mph), was seine erstaunliche Beschleunigung zeigt. Zusätzlich erreicht er eine Höchstgeschwindigkeit von 170 km/h (106 mph), was ihn zu einem wahren Wunderwerk der Technik und Leistung macht.
+Der GMC Hummer EV SUV 3x liefert eine atemberaubende maximale Leistung von 619 kW (842 PS/830 bhp) und ein massives Gesamtdrehmoment von 1150 Nm (849 lb-ft). Dieser Kraftprotz kann in nur 3,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) beschleunigen und erreicht eine Höchstgeschwindigkeit von 171 km/h (106 mph), was seine erstaunliche Beschleunigung zeigt. Zusätzlich erreicht er eine Höchstgeschwindigkeit von 171 km/h (106 mph), was ihn zu einem wahren Wunderwerk der Technik und Leistung macht.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 200,0 kWh und eine nutzbare Nettokapazität von 190,0 kWh, was einen Puffer von 10,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 329 Meilen (529 km) mit einem Energieverbrauch von 1,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 314 Meilen (505 km) mit einem Energieverbrauch von 1,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 124 Minuten, während ein typischer Ladevorgang von 10% auf 80% 43 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 186 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 240 kW, wobei jede Ladesitzung etwa 29 Minuten und 2 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV SUV 3x zu einer bequemen Option für Langstreckenreisen.
 
@@ -58,6 +58,8 @@ Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspensio
 
 ### Bremsen
 
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 343 mm, während die hinteren Scheiben 343 mm groß sind.
+
 ### Rekuperatives Bremsen
 
 [**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
@@ -66,13 +68,20 @@ Die maximale regenerative Leistung beträgt 400 kW.
 
 ## Exterieur
 
-Der GMC Hummer EV SUV 3x, mit Abmessungen von 4999 mm Länge, 2197 mm Breite und 1976 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der GMC Hummer EV SUV 3x ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der GMC Hummer EV SUV 3x, mit Abmessungen von 4999 mm Länge, 2197 mm Breite und 1976 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der GMC Hummer EV SUV 3x ist in insgesamt 7 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach und der obere Teil der Karosserie in einer anderen Farbe lackiert sind, was für ein markantes und stilvolles Aussehen sorgt.
 
 Der GMC Hummer EV SUV 3x bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+
+- 305/70 Reifen auf 18" Felgen
+- 305/55 Reifen auf 22" Felgen
+
+Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat 4 separate Glasplatten, die entfernt werden können, wodurch es zu einem Cabrio wird.
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/exterior_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -88,7 +97,7 @@ Der GMC Hummer EV SUV 3x bietet Platz für fünf Passagiere mit zwei Vordersitze
 
 Der GMC Hummer EV SUV 3x bietet nur einen Typ von Vordersitz.
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung
 - Höhenverstellbare Kopfstütze
@@ -105,7 +114,7 @@ Verfügbar in:
 
 #### Rücksitzreihe
 
-Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -114,7 +123,7 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 Es gibt ein Klimasystem verfügbar:
 
-- **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+- **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -188,6 +197,8 @@ Der GMC Hummer EV SUV 3x verfügt über eine Reihe von standardmäßigen und opt
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im GMC Hummer EV SUV 3x, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
 
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im GMC Hummer EV SUV 3x, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im GMC Hummer EV SUV 3x, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
 ### Fahrautomatisierung
@@ -196,7 +207,13 @@ Mit dem Super Cruise  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -204,7 +221,7 @@ Mit dem Super Cruise  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 Der Kofferraum bietet ein Ladevolumen von 1016 Litern (35,9 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2316 Liter (81,8 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 320 Litern (11,3 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 4717 kg (10399 lbs) bei einem Leergewicht von 4103 kg (9046 lbs). Dies ermöglicht eine maximale Zuladung von 614 kg (1354 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 4717 kg (10399 lbs) bei einem Leergewicht von 4282 kg (9440 lbs). Dies ermöglicht eine maximale Zuladung von 435 kg (959 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 435 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 3402 kg (7500 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

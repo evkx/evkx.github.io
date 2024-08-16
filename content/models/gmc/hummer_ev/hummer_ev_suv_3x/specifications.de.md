@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für GMC Hummer EV SUV 
 				Spitzenleistung
 			</td>
 			<td>
-				746 KW (1014 PS /1000 bhp)
+				619 KW (842 PS /830 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für GMC Hummer EV SUV 
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				170 km/h (106 mph)
+				171 km/h (106 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für GMC Hummer EV SUV 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Reichweite
 			</td>
 			<td>
-				329 mi
+				314 mi
 			</td>
 		</tr>
 		<tr>
@@ -287,6 +287,46 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1863 mm (73,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1863 mm (73,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftwiderstandsbeiwert
+			</td>
+			<td>
+				0,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				49,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				38,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -315,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				4103 kg (9046 lbs)
+				4282 kg (9440 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				614 kg (1354 lbs)
+				435 kg (959 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -512,6 +552,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 
 ### Vordersitze
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -672,6 +715,9 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 </table>
 
 ### Sitze der zweiten Reihe
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -835,6 +881,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Warnung vor Querverkehr hinten
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +889,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Hintere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -849,6 +897,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Vordere Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -856,6 +905,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Seitliche Parksensoren
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

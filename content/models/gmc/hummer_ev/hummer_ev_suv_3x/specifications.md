@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV SUV 3x
 				Peak power
 			</td>
 			<td>
-				746 KW (1014 hp /1000 bhp)
+				619 KW (842 hp /830 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV SUV 3x
 				Top speed
 			</td>
 			<td>
-				170 kph (106 mph)
+				171 kph (106 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for GMC Hummer EV SUV 3x
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				329 mi
+				314 mi
 			</td>
 		</tr>
 		<tr>
@@ -287,6 +287,46 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1863 mm (73,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1863 mm (73,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				49,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				38,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
@@ -315,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				4103 kg (9046 lbs)
+				4282 kg (9440 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				614 kg (1354 lbs)
+				435 kg (959 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -512,6 +552,9 @@ This model is available with a seat configuration with five seats.
 
 ### Front seats
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -672,6 +715,9 @@ This model is available with a seat configuration with five seats.
 </table>
 
 ### Second row seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -835,6 +881,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +889,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -849,6 +897,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -856,6 +905,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

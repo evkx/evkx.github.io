@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV SUV 3x. 
 				Max effekt
 			</td>
 			<td>
-				746 KW (1014 hk)
+				619 KW (842 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV SUV 3x. 
 				Topphastighet
 			</td>
 			<td>
-				170 km/h
+				171 km/h
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för GMC Hummer EV SUV 3x. 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,5 s
+				3,6 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA räckvidd
 			</td>
 			<td>
-				329 mi
+				314 mi
 			</td>
 		</tr>
 		<tr>
@@ -287,6 +287,46 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1863 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dragkoefficient
+			</td>
+			<td>
+				0,5
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				49,7
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				38,4
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>
@@ -315,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				4103 kg
+				4282 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				614 kg
+				435 kg
 			</td>
 		</tr>
 		<tr>
@@ -512,6 +552,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -672,6 +715,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 </table>
 
 ### Sätesrad 2
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -835,6 +881,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Varning för korstrafik, bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +889,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -849,6 +897,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Parkeringssensorer fram
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -856,6 +905,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sidoparkeringssensorer
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
