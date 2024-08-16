@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				529 km / 329 mi
 			</td>
 			<td>
-				40,3 kWh/100km / 1,5 mi/kWh
+				35,9 kWh/100km / 1,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				529 km / 329 mi
 			</td>
 			<td>
-				40,3 kWh/100km / 1,5 mi/kWh
+				35,9 kWh/100km / 1,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA-serien grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				478 km / 297 mi
+				472 km / 293 mi
 			</td>
 			<td>
-				-9,6%
+				-10,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA rekkevidde maks utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				478 km / 297 mi
+				472 km / 293 mi
 			</td>
 			<td>
-				-9,6%
+				-10,8%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph under perfekte forhold
 			</td>
 			<td>
-				609km / 378 mi
+				543km / 337 mi
 			</td>
 			<td>
 				35 kWh/100km / 1,8 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph med 2KW oppvarming
 			</td>
 			<td>
-				581km /356mi
+				518km /318mi
 			</td>
 			<td>
 				37,2 kWh/100km /1,7 mi/kWh 
@@ -154,7 +154,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t under perfekte forhold
 			</td>
 			<td>
-				553 km / 344 mi
+				494 km / 307 mi
 			</td>
 			<td>
 				38,5 kWh/100km / 1,6 mi/kWh
@@ -165,7 +165,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t med 2KW oppvarming
 			</td>
 			<td>
-				529km / 329mi
+				472km / 293mi
 			</td>
 			<td>
 				40,3 kWh/100km / 1,5 mi/kWh  
@@ -176,7 +176,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				495 km / 308 mi
+				442 km / 275 mi
 			</td>
 			<td>
 				43 kWh/100km / 1,4 mi/kWh
@@ -187,7 +187,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				477 km /296mi
+				426 km /265mi
 			</td>
 			<td>
 				44,7 kWh/100km /1,4 mi/kWh

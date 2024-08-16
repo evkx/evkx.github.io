@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x er en fuldelektrisk pickup med en EPA rækkevidde på op til 529 km (329 miles). EVKX.net har alle detaljerne."
+description: "GMC Hummer EV SUV 3x er en fuldelektrisk SUV med en rækkevidde på EPA på op til 529 km (329 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ GMC Hummer EV SUV 3x leverer en imponerende maksimal effekt på 746 KW (1014 hk)
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 183,0 kWh og en nettoanvendelig kapacitet på 213,0 kWh, hvilket giver en buffer på -30,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 650 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 200,0 kWh og en nettoanvendelig kapacitet på 190,0 kWh, hvilket giver en buffer på 10,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 650 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 529 km med en energiforbrugsrate på 40,2 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 529 km med en energiforbrugsrate på 35,9 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 139 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 48 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 245kW. Hver opladningssession ville tage 27 minutter og 39 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 124 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 62%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 240kW. Hver opladningssession ville tage 29 minutter og 2 sekunder. Denne effektive opladningskapacitet gør GMC Hummer EV SUV 3x til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 52%, med en samlet opladningstid på 53 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 43 kWh/100 km, ville turen tage cirka 9 timer og 21 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 64%, med en samlet opladningstid på 61 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 19 timer og 21 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 17 timer og 16 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
@@ -66,7 +66,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-GMC Hummer EV SUV 3x fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den GMC Hummer EV SUV 3x, med dimensioner på 4999 mm i længde, 2197 mm i bredde og 1976 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. GMC Hummer EV SUV 3x fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på GMC Hummer EV SUV 3x, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -100,6 +100,8 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/frontseats_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
 
@@ -138,6 +140,8 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/screens_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1644"  >}}
+
 ### Rat
 
 GMC Hummer EV SUV 3x er udstyret med en enkelt type rat:
@@ -172,6 +176,8 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/headlights_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
+
 ## Avancerede førerassistentsystemer
 
 Den GMC Hummer EV SUV 3x inkluderer flere standard- og valgfri [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for at forbedre sikkerhed og komfort.
@@ -196,13 +202,30 @@ Med Super Cruise  niveau 2-systemet får du følgende funktioner til køreautoma
 
 ## Lastkapacitet og træk-kapacitet
 
-Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 320 liter.
+Bagagerummet har en lastekapacitet på 1016 liter. Med det bageste sæde foldet ned, udvides dette til 2316 liter. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 320 liter.
 
 Køretøjets maksimale vægt er 4717 kg, med en basisvægt på 4103 kg. Dette giver en maksimal last på 614 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 3402 kg, mens den for en ubremset trailer er 750 kg.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/trunk_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1999"  >}}
+
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 20.10.2020, og leveringerne startede i December 2021. Denne model er kun tilgængelig i Nordamerika.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- $104 650,00 (USA)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til GMC Hummer EV SUV 3x, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Rivian R1S Quad-Motor AWD MP](/models/rivian/r1/r1s_quad-motor_awd_mp/)
+
+<a href="https://db.evkx.net/evcompare?evs=e48527%2ceaa509" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Range" >}}

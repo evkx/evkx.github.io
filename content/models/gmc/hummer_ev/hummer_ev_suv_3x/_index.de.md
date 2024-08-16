@@ -1,7 +1,7 @@
 ---
 title: GMC Hummer EV SUV 3x
 linktitle: "Hummer EV SUV 3x"
-description: "GMC Hummer EV SUV 3x ist ein vollelektrischer Pickup-Truck mit einer Reichweite von bis zu 529 km (329 Meilen). EVKX.net hat alle Details."
+description: "GMC Hummer EV SUV 3x ist ein vollelektrisches SUV mit einer Reichweite von bis zu 529 km (329 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -30,17 +30,17 @@ Der GMC Hummer EV SUV 3x liefert eine atemberaubende maximale Leistung von 746 k
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 183,0 kWh und eine nutzbare Nettokapazität von 213,0 kWh, was einen Puffer von -30,0 kWh (-16,4%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 200,0 kWh und eine nutzbare Nettokapazität von 190,0 kWh, was einen Puffer von 10,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 329 Meilen (529 km) mit einem Energieverbrauch von 1,5 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 329 Meilen (529 km) mit einem Energieverbrauch von 1,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 139 Minuten, während ein typischer Ladevorgang von 10% auf 80% 48 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 186 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 52%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 245 kW, wobei jede Ladesitzung etwa 27 Minuten und 39 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV SUV 3x zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 350 kW. Das Laden von 0% auf 100% dauert etwa 124 Minuten, während ein typischer Ladevorgang von 10% auf 80% 43 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 186 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 62%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 240 kW, wobei jede Ladesitzung etwa 29 Minuten und 2 Sekunden dauert. Diese effiziente Ladefähigkeit macht den GMC Hummer EV SUV 3x zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 13 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 52% erfordern, mit einer gesamten Ladezeit von 53 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 43 kWh/100 km, würde die Fahrt etwa 9 Stunden und 21 Minuten dauern. Diese Reise würde zwei Ladestopps von 0% auf 64% erfordern, mit einer gesamten Ladezeit von 61 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 19 Stunden und 21 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 17 Stunden und 16 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -66,7 +66,7 @@ Die maximale regenerative Leistung beträgt 400 kW.
 
 ## Exterieur
 
-Der GMC Hummer EV SUV 3x ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der GMC Hummer EV SUV 3x, mit Abmessungen von 4999 mm Länge, 2197 mm Breite und 1976 mm Höhe, fällt in die mittelgroßen SUVs, bieten eine Mischung aus Raum, Komfort, Leistung und Vielseitigkeit, was sie für eine breite Palette von Fahrern mit unterschiedlichen Bedürfnissen geeignet macht. Der GMC Hummer EV SUV 3x ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
 Der GMC Hummer EV SUV 3x bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -100,6 +100,8 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 Verfügbar in:
 
 - Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/frontseats_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
 #### Rücksitzreihe
 
@@ -138,6 +140,8 @@ Wichtige Bildschirmdetails:
 
 Das Modell verfügt nicht über ein Head-up-Display.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/screens_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1644"  >}}
+
 ### Lenkrad
 
 Der GMC Hummer EV SUV 3x ist mit einem einzigen Lenkradtyp ausgestattet:
@@ -172,6 +176,8 @@ Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das M
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/headlights_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
+
 ## Erweiterte Fahrerassistenzsysteme
 
 Der GMC Hummer EV SUV 3x verfügt über eine Reihe von standardmäßigen und optionalen [fortschrittlichen Fahrerassistenzsystemen](../../../../technology/driverassistance/) (ADAS), die die Sicherheit und den Komfort verbessern sollen.
@@ -196,13 +202,30 @@ Mit dem Super Cruise  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 ## Ladekapazität und Anhängelast
 
-Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 320 Litern (11,3 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 1016 Litern (35,9 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 2316 Liter (81,8 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 320 Litern (11,3 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 4717 kg (10399 lbs) bei einem Leergewicht von 4103 kg (9046 lbs). Dies ermöglicht eine maximale Zuladung von 614 kg (1354 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 3402 kg (7500 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
+{{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/trunk_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="1999"  >}}
+
 ## Verfügbarkeit & Preise
 
 Der GMC Hummer EV SUV 3x feierte seine Weltpremiere am 20.10.2020, mit Lieferungen ab December 2021. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- $104 650,00 (USA)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum GMC Hummer EV SUV 3x identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Rivian R1S Quad-Motor AWD MP](/models/rivian/r1/r1s_quad-motor_awd_mp/)
+
+<a href="https://db.evkx.net/evcompare?evs=e48527%2ceaa509" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="GMC Hummer EV" f_url="rangeandconsumption/" f_title="Reichweite" >}}

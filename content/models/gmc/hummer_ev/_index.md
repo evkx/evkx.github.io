@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hummer_ev_suv_3x/"><img src="https://media.evkx.net/multimedia/models/gmc/hummer_ev/hummer_ev_suv_3x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Hummer EV SUV 3x" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 183 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 200 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
