@@ -56,13 +56,25 @@ The GMC Hummer EV SUV 3x has an all-wheel drive system supported by three motors
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the maximum is 406 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The GMC Hummer EV SUV 3x lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
+
+- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Terrain: Balanced steering, high suspension height with balanced throttle and damping.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 
-[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). The system stops the car completely using friction brakes.
 
 The maximum regenerative power is 400 kW.
 
@@ -89,6 +101,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The GMC Hummer EV SUV 3x boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
+
 ### Seats
 
 The GMC Hummer EV SUV 3x accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -108,7 +122,8 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
-- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black/Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_suv_3x/frontseats_1_st.jpg" title="GMC Hummer EV SUV 3x" width="3000" height="2000"  >}}
 
@@ -195,9 +210,13 @@ The GMC Hummer EV SUV 3x features a range of standard and optional [advanced dri
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the GMC Hummer EV SUV 3x, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the GMC Hummer EV SUV 3x, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the GMC Hummer EV SUV 3x, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the GMC Hummer EV SUV 3x, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the GMC Hummer EV SUV 3x, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the GMC Hummer EV SUV 3x, this side assist system helps to detect traffic in blind spots.
 

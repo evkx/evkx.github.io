@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 GMC Hummer EV SUV Review: A $110,000 Beast that Nobody Will Buy</h3>
+<p>Doug DeMuro: 02.06.2024</p>
+
+{{< youtube -JE5dE2ohKA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Is the 2024 GMC Hummer 3X the KING of SUVs?</h3>
 <p>Raitis Rides: 28.05.2024</p>
 
