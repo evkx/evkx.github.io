@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				13,3 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				14,3 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango EPA de equipamiento básico
 			</td>
 			<td>
-				471 mi
+				516 mi
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo EPA de ajuste básico
 			</td>
 			<td>
-				4,2 mi/kWh
+				4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Gama EPA de acabado superior
 			</td>
 			<td>
-				446 mi
+				469 mi
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				112 kWh
+				119 kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				112 kWh
+				118 kWh
 			</td>
 		</tr>
 		<tr>

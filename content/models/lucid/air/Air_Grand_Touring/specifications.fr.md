@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				13,3 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				14,3 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme EPA de finition de base
 			</td>
 			<td>
-				471 mi
+				516 mi
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation EPA de base
 			</td>
 			<td>
-				4,2 mi/kWh
+				4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme haut de gamme EPA
 			</td>
 			<td>
-				446 mi
+				469 mi
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				112 kWh
+				119 kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				112 kWh
+				118 kWh
 			</td>
 		</tr>
 		<tr>

@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-GMC Hummer EV es una camioneta disponible en 1 variantes.
+GMC Hummer EV es una camioneta disponible en 2 variantes.
 </p>
 	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

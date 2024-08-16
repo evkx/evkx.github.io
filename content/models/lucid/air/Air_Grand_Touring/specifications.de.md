@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				13,3 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch der Top-Ausstattung
 			</td>
 			<td>
-				14,3 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +131,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Reichweite der Basisausstattung
 			</td>
 			<td>
-				471 mi
+				516 mi
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				4,2 mi/kWh
+				4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +147,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Reichweite der Top-Ausstattung
 			</td>
 			<td>
-				446 mi
+				469 mi
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +182,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				112 kWh
+				119 kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +190,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				112 kWh
+				118 kWh
 			</td>
 		</tr>
 		<tr>

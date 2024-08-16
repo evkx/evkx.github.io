@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-GMC Hummer EV är en pickup tillgänglig i 1 varianter.
+GMC Hummer EV är en pickup tillgänglig i 2 varianter.
 </p>
 	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

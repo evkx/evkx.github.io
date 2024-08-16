@@ -43,7 +43,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				839 km / 521 mi
 			</td>
 			<td>
-				13,35kWh/100km / 4,7 mi/kWh
+				14,06kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				783 km / 487 mi
 			</td>
 			<td>
-				14,30 kWh/100km / 4,3 mi/kWh
+				15,07 kWh/100km / 4,1 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -66,10 +66,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				758 km / 471 mi
+				830 km / 516 mi
 			</td>
 			<td>
-				14,8 kWh/100km / 4,2 mi/kWh
+				14,2 kWh/100km / 4,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				718 km / 446 mi
+				755 km / 469 mi
 			</td>
 			<td>
 				15,6 kWh/100km / 4,0 mi/kWh
@@ -113,10 +113,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				 635km / 395 mi 
+				 642km / 399 mi 
 			</td>
 			<td>
-				-24,3%
+				-23,5%
 			</td>
 		</tr>
 		<tr>
@@ -124,10 +124,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				WLTP Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				602 km / 374 mi
+				609 km / 378 mi
 			</td>
 			<td>
-				-23,1%
+				-22,2%
 			</td>
 		</tr>
 		<tr>
@@ -135,10 +135,10 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				EPA Reichweite Basisausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				587 km / 365 mi
+				637 km / 396 mi
 			</td>
 			<td>
-				-22,6%
+				-23,3%
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +146,7 @@ Die folgende Tabelle zeigt, wie sich das Einschalten der Heizung/Klimaanlage an 
 				EPA Reichweite Top-Ausstattung mit 2KW Klimaanlage
 			</td>
 			<td>
-				563 km / 350 mi
+				592 km / 368 mi
 			</td>
 			<td>
 				-21,6%
@@ -180,7 +180,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				90 km/h/56 mph perfekte Bedingungen
 			</td>
 			<td>
-				800km / 497 mi
+				843km / 524 mi
 			</td>
 			<td>
 				14 kWh/100km / 4,4 mi/kWh
@@ -191,7 +191,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				90 km/h/56 mph mit 2KW Heizung
 			</td>
 			<td>
-				715km /429mi
+				753km /452mi
 			</td>
 			<td>
 				16,2 kWh/100km /3,8 mi/kWh 
@@ -202,7 +202,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				70 mph/112 km/h perfekte Bedingungen
 			</td>
 			<td>
-				770 km / 478 mi
+				811 km / 504 mi
 			</td>
 			<td>
 				14,55 kWh/100km / 4,3 mi/kWh
@@ -213,7 +213,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				70 mph/112 km/h mit 2KW Heizung
 			</td>
 			<td>
-				686km / 426mi
+				723km / 449mi
 			</td>
 			<td>
 				16,3 kWh/100km / 3,8 mi/kWh  
@@ -224,7 +224,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph perfekte Bedingungen
 			</td>
 			<td>
-				589 km / 366 mi
+				621 km / 386 mi
 			</td>
 			<td>
 				19 kWh/100km / 3,3 mi/kWh
@@ -235,7 +235,7 @@ Die folgende Tabelle zeigt einige geschätzte reale Beispiele unter perfekten Be
 				120 km/h/75 mph mit 2KW Heizung
 			</td>
 			<td>
-				542 km /337mi
+				571 km /355mi
 			</td>
 			<td>
 				20,7 kWh/100km /3,0 mi/kWh

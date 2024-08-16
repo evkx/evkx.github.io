@@ -30,17 +30,17 @@ Lucid Air Grand Touring imponerar med en imponerande kraft på 597 kW (812 hk) o
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 112,0 kWh och en nettoanvändbar kapacitet på 112,0 kWh, vilket ger en buffert på 0,0 kWh (0,0%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 119,0 kWh och en nettoanvändbar kapacitet på 118,0 kWh, vilket ger en buffert på 1,0 kWh (0,8%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 839 och 783 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,3 kWh/100 km för basmodellen och 14,3 kWh/100 km för toppmodellen enligt WLTP-testcykeln. Denna räckvidd är bland de längsta i sin klass och den höga effektiviteten gör det till ett av de mest ekonomiska fordonen i sin kategori. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 839 och 783 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,1 kWh/100 km för basmodellen och 15,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 74 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 172kW. Varje laddningssession tar 18 minuter och 34 sekunder. Denna effektiva laddningskapacitet gör Lucid Air Grand Touring till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 78 minuter, medan ett vanligare scenario på 10-80 % tar 33 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 175kW. Varje laddningssession tar 18 minuter och 14 sekunder. Denna effektiva laddningskapacitet gör Lucid Air Grand Touring till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 19 kWh/100 km, skulle resan ta ungefär 8 timmar och 48 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 36%, med en total laddningstid på 28 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 19 kWh/100 km, skulle resan ta ungefär 8 timmar och 46 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 62%, med en total laddningstid på 27 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 5 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 21 minuter med en hemmaladdare.
 
 ### Laddningsport
 

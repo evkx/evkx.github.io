@@ -30,17 +30,17 @@ Lucid Air Grand Touring imponerer med en imponerende kraft på 597 kW (812 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 112,0 kWh og en netto brukbar kapasitet på 112,0 kWh, som gir en buffer på 0,0 kWh (0,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 119,0 kWh og en netto brukbar kapasitet på 118,0 kWh, som gir en buffer på 1,0 kWh (0,8%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 839 og 783 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,3 kWh/100 km for basismodellen og 14,3 kWh/100 km for toppmodellen under WLTP testsyklusen. Denne rekkevidden er blant de lengste i sin klasse, og den høye effektiviteten gjør det til en av de mest økonomiske kjøretøyene i sin kategori. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 839 og 783 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 14,1 kWh/100 km for basismodellen og 15,1 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 74 minutter, mens et mer vanlig scenario på 10-80 % vil ta 31 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 172kW. Hver ladeøkt vil ta 18 minutter og 34 sekunder. Denne effektive ladekapasiteten gjør Lucid Air Grand Touring til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 78 minutter, mens et mer vanlig scenario på 10-80 % vil ta 33 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 175kW. Hver ladeøkt vil ta 18 minutter og 14 sekunder. Denne effektive ladekapasiteten gjør Lucid Air Grand Touring til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 8 timer og 48 minutter. Denne reisen ville kreve to ladestopp fra 1% til 36%, med en total ladetid på 28 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 8 timer og 46 minutter. Denne reisen ville kreve to ladestopp fra 0% til 62%, med en total ladetid på 27 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 5 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 21 minutter med en hjemmelader.
 
 ### Ladeport
 

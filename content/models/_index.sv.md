@@ -333,7 +333,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
 	<h2>GMC</h2>
 	<p>
-	GMC har 1 modell(er) med totalt 1 varianter.
+	GMC har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå till GMC modellöversikt</a>
 </div>

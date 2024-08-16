@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_grand_touring/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_grand_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Grand Touring" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 119 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
