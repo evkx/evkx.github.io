@@ -56,7 +56,21 @@ Der GMC Hummer EV Edition 1 Pickup hat ein Allradantriebssystem, das von drei Mo
 
 Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 257 mm und die maximale 406 mm. Zusätzlich ist die Hinterradlenkung als eine standard Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
 
+### Fahrmodi
+
+Der GMC Hummer EV Edition 1 Pickup ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 7 Modi wählen:
+
+- Watts to Freedom: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Comfort: Ausgewogene Lenkung, normale Federungshöhe mit effizientem Gas und komfortabler Federungsdämpfung.
+- Terrain: Ausgewogene Lenkung, hohe Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+
 ### Bremsen
+
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 343 mm, während die hinteren Scheiben 343 mm groß sind.
 
 ### Rekuperatives Bremsen
 
@@ -74,11 +88,15 @@ Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heck
 
 Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat 4 separate Glasplatten, die entfernt werden können, wodurch es zu einem Cabrio wird.
 
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
+
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Der GMC Hummer EV Edition 1 Pickup verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
 
 ### Sitze
 
@@ -88,7 +106,7 @@ Der GMC Hummer EV Edition 1 Pickup bietet Platz für fünf Passagiere mit zwei V
 
 Der GMC Hummer EV Edition 1 Pickup bietet nur einen Typ von Vordersitz.
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung
 - Höhenverstellbare Kopfstütze
@@ -103,7 +121,7 @@ Verfügbar in:
 
 #### Rücksitzreihe
 
-Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -112,7 +130,7 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, s
 
 Es gibt ein Klimasystem verfügbar:
 
-- **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+- **3-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in drei Zonen für Fahrer, Beifahrer und Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -152,9 +170,19 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+Die GMC Hummer EV Edition 1 Pickup verfügt über ein fortschrittliches Infotainmentsystem, das auf Android Automotive OS mit Google Automotive Services basiert und eine nahtlose Integration von Google-Apps und -Diensten direkt ins Fahrzeug ermöglicht. Dieses leistungsstarke System beinhaltet integrierte Google Maps für die Navigation, Google Assistant für Sprachbefehle und Zugang zu einer Vielzahl von Apps über den Google Play Store. GMC hat diese Plattform zusätzlich durch die Integration eigener Anwendungen erweitert, die umfassende Fahrzeugeinstellungen und zusätzliche, auf das GMC-Fahrerlebnis abgestimmte Funktionen bieten.
+
 ### Navigationssystem
 
 Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
+### App Store
+
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefonspiegelung
 
@@ -182,7 +210,13 @@ Der GMC Hummer EV Edition 1 Pickup verfügt über eine Reihe von standardmäßig
 
 [**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im GMC Hummer EV Edition 1 Pickup, dieses System verhindert das Blockieren der Räder beim Bremsen.
 
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im GMC Hummer EV Edition 1 Pickup, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im GMC Hummer EV Edition 1 Pickup, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
+
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im GMC Hummer EV Edition 1 Pickup, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im GMC Hummer EV Edition 1 Pickup, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im GMC Hummer EV Edition 1 Pickup, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
@@ -192,7 +226,13 @@ Mit dem Super Cruise  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

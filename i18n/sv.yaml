@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-4305a898
+  translation: GMC Hummer EV SUV 3x är en helelektrisk SUV med en EPA räckvidd på upp till 505 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-f349adfd
   translation: Porsche Taycan Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 678 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a9c21461
   translation: Ford Capri Extended Range RWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 627 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-ee8cb93d
-  translation: Opel Frontera är en helelektrisk crossover med en WLTP räckvidd på upp till 306 km. EVKX.net har alla detaljer.
 

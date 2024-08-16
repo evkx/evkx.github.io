@@ -56,7 +56,21 @@ The GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by th
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the maximum is 406 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The GMC Hummer EV Edition 1 Pickup lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
+
+- Watts to Freedom: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
+- Terrain: Balanced steering, high suspension height with balanced throttle and damping.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 343 mm, while the rear discs are 343 mm.
 
 ### Regenerative Braking
 
@@ -74,11 +88,15 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof option for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
 
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The GMC Hummer EV Edition 1 Pickup boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 
@@ -88,7 +106,7 @@ The GMC Hummer EV Edition 1 Pickup accommodates five passengers with two front s
 
 The GMC Hummer EV Edition 1 Pickup offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
 - Height adjustable headrest
@@ -103,7 +121,7 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -112,7 +130,7 @@ The second row features a standard three-seat bench with a  split, allowing each
 
 There is one climate system available:
 
-- **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -152,9 +170,19 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The GMC Hummer EV Edition 1 Pickup features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. GMC has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the GMC driving experience.
+
 ### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- The Weather Channel
+- Audiobooks.com
 
 ### Phone Mirroring
 
@@ -182,7 +210,13 @@ The GMC Hummer EV Edition 1 Pickup features a range of standard and optional [ad
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the GMC Hummer EV Edition 1 Pickup, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the GMC Hummer EV Edition 1 Pickup, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the GMC Hummer EV Edition 1 Pickup, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the GMC Hummer EV Edition 1 Pickup, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the GMC Hummer EV Edition 1 Pickup, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the GMC Hummer EV Edition 1 Pickup, this side assist system helps to detect traffic in blind spots.
 
@@ -192,7 +226,13 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

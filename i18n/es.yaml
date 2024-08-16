@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-4305a898
+  translation: GMC Hummer EV SUV 3x es un SUV totalmente eléctrico con una autonomía EPA de hasta 505 km (314 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-f349adfd
   translation: Porsche Taycan Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 678 km (421 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a9c21461
   translation: Ford Capri Extended Range RWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 627 km (390 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-ee8cb93d
-  translation: Opel Frontera es un crossover totalmente eléctrico con un WLTP alcance de hasta 306 km (190 millas). EVKX.net tiene todos los detalles.
 
