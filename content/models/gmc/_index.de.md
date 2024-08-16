@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-GMC Hummer EV ist ein Pickup-Truck/SUV, der in 2 Varianten erhältlich ist.
+GMC Hummer EV ist ein Pickup-Truck/SUV, der in 3 Varianten erhältlich ist.
 </p>
 	<a href="hummer_ev/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

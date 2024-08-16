@@ -333,7 +333,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
 	<h2>GMC</h2>
 	<p>
-	GMC har 1 modeller med i alt 2 varianter.
+	GMC har 1 modeller med i alt 3 varianter.
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå til GMC EV-modeloversigt</a>
 </div>

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-a859ed65
+  translation: GMC Hummer EV SUV 2x is an all-electric SUV with a EPA range of up to 48 km (30 miles). EVKX.net has all the details.
+
 - id: frontpage-description-4305a898
   translation: GMC Hummer EV SUV 3x is an all-electric SUV with a EPA range of up to 505 km (314 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8839c318
   translation: Ford Capri Extended Range AWD is an all-electric coupe SUV with a WLTP range of up to 592 km (368 miles). EVKX.net has all the details.
-
-- id: frontpage-description-a9c21461
-  translation: Ford Capri Extended Range RWD is an all-electric coupe SUV with a WLTP range of up to 627 km (390 miles). EVKX.net has all the details.
 
