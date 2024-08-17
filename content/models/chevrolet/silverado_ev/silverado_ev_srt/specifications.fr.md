@@ -536,6 +536,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -569,7 +572,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +588,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +596,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -1076,7 +1079,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Oui, 5
+				Oui, 11
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1087,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Oui, 11"
+				Oui, 17,7"
 			</td>
 		</tr>
 		<tr>

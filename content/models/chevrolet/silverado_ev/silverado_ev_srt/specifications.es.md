@@ -536,6 +536,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -569,7 +572,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +588,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -1076,7 +1079,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla del controlador digital
 			</td>
 			<td>
-				Sí, 5
+				Sí, 11
 			</td>
 		</tr>
 		<tr>
@@ -1084,7 +1087,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 11"
+				Sí, 17,7"
 			</td>
 		</tr>
 		<tr>

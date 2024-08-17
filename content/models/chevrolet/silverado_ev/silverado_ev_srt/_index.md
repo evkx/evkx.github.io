@@ -60,6 +60,8 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
+
 ### Regenerative Braking
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
@@ -68,11 +70,11 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The Chevrolet Silverado EV SRT is available in a total of 1 paint colors, including several striking metallic options.
+The Chevrolet Silverado EV SRT is available in a total of 2 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV SRT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
-- 265/70 tires on 18" rims
+- 275/50 tires on 24" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
@@ -92,8 +94,9 @@ The Chevrolet Silverado EV SRT accommodates five passengers with two front seats
 
 The Chevrolet Silverado EV SRT offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
+- Electric adjustment
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -133,12 +136,14 @@ The Chevrolet Silverado EV SRT includes several features to enhance comfort and 
 
 ## User Interface and Control
 
+The control interface for the Chevrolet Silverado EV SRT combines buttons, stalks, and screens for a seamless and user-friendly experience.
+
 The Chevrolet Silverado EV SRT has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
 
-- The  screen behind the steering wheel mounted into the dashboard is 5.0 inches large
-- The touch screen on the dashboard's center is 11.0 inches large
+- The  screen behind the steering wheel on the left of the frame is 11.0 inches large
+- The touch screen at the right part of the shared frame is 17.7 inches large
 
 The model does not include a head-up display.
 
@@ -155,6 +160,8 @@ The Chevrolet Silverado EV SRT is equipped with a single type of steering wheel:
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
+
+The Chevrolet Silverado EV SRT features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
 
 ### Navigation System
 
@@ -215,4 +222,20 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 ## Availability & Pricing
 
 This model made its world premiere on 05.01.2022, with deliveries anticipated to begin in July 2024. Please note that this model is available exclusively in North America.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $96 495,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Chevrolet Silverado EV SRT that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
+- [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+
+<a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Range" >}}
