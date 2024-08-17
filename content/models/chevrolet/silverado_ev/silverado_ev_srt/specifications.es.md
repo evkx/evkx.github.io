@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				4061 kg
+				4063 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				702 kg
+				700 kg
 			</td>
 		</tr>
 		<tr>
@@ -700,6 +700,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos de la segunda fila
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1023,7 +1026,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1031,7 +1034,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

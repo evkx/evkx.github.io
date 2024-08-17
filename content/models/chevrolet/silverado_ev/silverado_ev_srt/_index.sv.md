@@ -40,7 +40,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 19 timmar och 32 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 19,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 11 timmar och 11 minuter med en hemmaladdare.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Viktiga skärmdetaljer:
 - Skärmen  bakom ratten till vänster om ramen är 11,0 tum
 - Skärmen touch på högra sidan av den delade ramen är 17,7 tum
 
-Modellen är inte tillgänglig med head-up display.
+En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ Chevrolet Silverado EV SRT är utrustad med en enda typ av ratt:
 ### Speglar
 
 Både de yttre och inre speglarna använder traditionell spegelteknik för att ge en klar överblick över området bakom fordonet.
+
+Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.
 
 ## Infotainment
 
@@ -213,7 +215,7 @@ Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomat
 
 Lastutrymmet i flaket erbjuder en lastkapacitet på 1039 liter. Det har en bredd på 1286 mm och en längd på 1803 mm, med en maximal lastvikt på 614 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 303 liter.
 
-Fordonets maximala vikt är 4763 kg, med en grundvikt på 4061 kg. Detta tillåter en maximal last på 702 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 4763 kg, med en grundvikt på 4063 kg. Detta tillåter en maximal last på 700 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 4536 kg, medan för en obromsad släpvagn är den 750 kg.
 

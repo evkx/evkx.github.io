@@ -201,7 +201,7 @@ Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de au
 
 La caja del camión ofrece una capacidad de carga de 1039 litros. Tiene un ancho de 1286 mm  y una longitud de 1803 mm, con un peso máximo de carga de 614 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
 
-El peso máximo del vehículo es 4531 kg, con un peso base de 3723 kg. Esto permite una carga máxima de 808 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 4532 kg, con un peso base de 3716 kg. Esto permite una carga máxima de 816 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 5670 kg, mientras que para un tráiler sin freno es de 750 kg.
 

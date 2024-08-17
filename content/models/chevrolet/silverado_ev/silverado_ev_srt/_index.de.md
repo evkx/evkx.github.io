@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 19 Stunden und 32 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 11 Minuten vollständig von 0 auf 100% aufzuladen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Wichtige Bildschirmdetails:
 - Der -Bildschirm hinter dem Lenkrad auf der linken Seite des Rahmens ist 11,0 Zoll groß.
 - Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 17,7 Zoll groß.
 
-Das Modell verfügt nicht über ein Head-up-Display.
+Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ Der Chevrolet Silverado EV SRT ist mit einem einzigen Lenkradtyp ausgestattet:
 ### Spiegel
 
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
+
+Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie verschiedene Funktionen über Sprachbefehle verwalten können.
 
 ## Infotainment
 
@@ -213,7 +215,7 @@ Mit dem Super Cruise  Level 1 System erhalten Sie die folgenden Fahrautomatisier
 
 Die Ladefläche bietet ein Ladevolumen von 1039 Litern (36,7 CU FT). Sie hat eine Breite von 1286 mm (50,6 Zoll) und eine Länge von 1803 mm (71,0 Zoll) mit einem maximalen Ladegewicht von 614 kg (1353,6 lbs). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 303 Litern (10,7 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 4763 kg (10501 lbs) bei einem Leergewicht von 4061 kg (8953 lbs). Dies ermöglicht eine maximale Zuladung von 702 kg (1548 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 4763 kg (10501 lbs) bei einem Leergewicht von 4063 kg (8957 lbs). Dies ermöglicht eine maximale Zuladung von 700 kg (1543 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 4536 kg (10000 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 

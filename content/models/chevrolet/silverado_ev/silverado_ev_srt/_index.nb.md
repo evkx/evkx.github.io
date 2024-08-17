@@ -40,7 +40,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 19 timer og 32 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 19,2 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 11 minutter med en hjemmelader.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Viktige skjermdetaljer:
 - -skjermen bak rattet til venstre for rammen er 11,0 tommer stor
 - touch-skjermen på høyre side av den delte rammen er 17,7 tommer stor
 
-Modellen er ikke tilgjengelig med head-up display.
+Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ Chevrolet Silverado EV SRT er utstyrt med en enkelt type ratt:
 ### Speil
 
 Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for å gi en klar oversikt over området bak kjøretøyet.
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 
@@ -213,7 +215,7 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 Lastebilen tilbyr en lastekapasitet på 1039 liter. Den har en bredde på 1286 mm og en lengde på 1803 mm, med en maksimal lastevekt på 614 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 303 liter.
 
-Kjøretøyets maksimale vekt er 4763 kg, med en basisvekt på 4061 kg. Dette gir en maksimal lastekapasitet på 702 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 4763 kg, med en basisvekt på 4063 kg. Dette gir en maksimal lastekapasitet på 700 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 4536 kg, mens for en ubremset tilhenger er det 750 kg.
 

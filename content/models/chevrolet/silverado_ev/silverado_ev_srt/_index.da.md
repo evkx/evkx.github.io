@@ -40,7 +40,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 19 timer og 32 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 11 timer og 11 minutter ved brug af en hjemmeoplader.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Vigtige skærmdetaljer:
 - Skærmen  bag rattet til venstre for rammen er 11,0 tommer stor
 - Skærmen touch på højre side af den delte ramme er 17,7 tommer stor
 
-Modellen har ikke et head-up display.
+Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ Chevrolet Silverado EV SRT er udstyret med en enkelt type rat:
 ### Spejle
 
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
+
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
 
 ## Infotainment
 
@@ -213,7 +215,7 @@ Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautoma
 
 Lastbeddet har en lastekapacitet på 1039 liter. Det har en bredde på 1286 mm og en længde på 1803 mm, med en maksimal belastning på 614 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 303 liter.
 
-Køretøjets maksimale vægt er 4763 kg, med en basisvægt på 4061 kg. Dette giver en maksimal last på 702 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 4763 kg, med en basisvægt på 4063 kg. Dette giver en maksimal last på 700 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 4536 kg, mens den for en ubremset trailer er 750 kg.
 

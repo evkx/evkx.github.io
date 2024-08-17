@@ -201,7 +201,7 @@ Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautoma
 
 Lastbeddet har en lastekapacitet på 1039 liter. Det har en bredde på 1286 mm og en længde på 1803 mm, med en maksimal belastning på 614 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 303 liter.
 
-Køretøjets maksimale vægt er 4531 kg, med en basisvægt på 3882 kg. Dette giver en maksimal last på 649 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 4532 kg, med en basisvægt på 3873 kg. Dette giver en maksimal last på 659 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 4536 kg, mens den for en ubremset trailer er 750 kg.
 

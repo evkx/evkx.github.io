@@ -201,7 +201,7 @@ Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomat
 
 Lastutrymmet i flaket erbjuder en lastkapacitet på 1039 liter. Det har en bredd på 1286 mm och en längd på 1803 mm, med en maximal lastvikt på 614 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 303 liter.
 
-Fordonets maximala vikt är 4531 kg, med en grundvikt på 3723 kg. Detta tillåter en maximal last på 808 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 4532 kg, med en grundvikt på 3716 kg. Detta tillåter en maximal last på 816 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 5670 kg, medan för en obromsad släpvagn är den 750 kg.
 

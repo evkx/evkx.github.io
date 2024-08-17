@@ -323,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				4061 kg (8953 lbs)
+				4063 kg (8957 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				702 kg (1548 lbs)
+				700 kg (1543 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -700,6 +700,9 @@ This model is available with a seat configuration with five seats.
 
 ### Second row seats
 
+
+#### standard
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -1023,7 +1026,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1031,7 +1034,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

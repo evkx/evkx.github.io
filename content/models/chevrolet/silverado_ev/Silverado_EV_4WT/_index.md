@@ -201,7 +201,7 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 The truck bed offers a cargo capacity of 1039 liters (36.7 CU FT). It has a width of 1286 mm (50.6 inches) and a length of 1803 mm  (71.0 inches), with a maximum load weight of 614 kg (1353.6 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
 
-The vehicle’s maximum weight is 4531 kg (9989 lbs), with a base weight of 3882 kg (8558 lbs). This allows for a maximum load of 649 kg (1431 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 4532 kg (9991 lbs), with a base weight of 3873 kg (8538 lbs). This allows for a maximum load of 659 kg (1453 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4536 kg (10000 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

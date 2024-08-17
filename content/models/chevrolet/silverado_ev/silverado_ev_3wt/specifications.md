@@ -323,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				3723 kg (8208 lbs)
+				3716 kg (8192 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				4531 kg (9989 lbs)
+				4532 kg (9991 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				808 kg (1781 lbs)
+				816 kg (1799 lbs)
 			</td>
 		</tr>
 		<tr>

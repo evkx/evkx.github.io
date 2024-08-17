@@ -201,7 +201,7 @@ Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksj
 
 Lastebilen tilbyr en lastekapasitet på 1039 liter. Den har en bredde på 1286 mm og en lengde på 1803 mm, med en maksimal lastevekt på 614 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 303 liter.
 
-Kjøretøyets maksimale vekt er 4531 kg, med en basisvekt på 3723 kg. Dette gir en maksimal lastekapasitet på 808 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 4532 kg, med en basisvekt på 3716 kg. Dette gir en maksimal lastekapasitet på 816 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 5670 kg, mens for en ubremset tilhenger er det 750 kg.
 

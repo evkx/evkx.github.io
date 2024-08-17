@@ -40,7 +40,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 19 heures et 32 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 19,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 11 minutes à domicile.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Détails clés de l'écran :
 - L'écran  derrière le volant à gauche du cadre mesure 11,0 pouces
 - L'écran touch à la partie droite du cadre partagé mesure 17,7 pouces
 
-Le modèle n'a pas d'affichage tête haute.
+Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ Le Chevrolet Silverado EV SRT est équipé d'un seul type de volant :
 ### Rétroviseurs
 
 Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir conventionnelle pour offrir une vue claire de la zone derrière le véhicule.
+
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
 ## Infodivertissement
 
@@ -213,7 +215,7 @@ Avec le système Super Cruise  de niveau 1, vous obtenez les fonctionnalités su
 
 La caisse du camion offre une capacité de chargement de 1039 litres. Elle a une largeur de 1286 mm et une longueur de 1803 mm, avec un poids maximal de chargement de 614 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 303 litres.
 
-Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4061 kg. Cela permet une charge maximale de 702 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4063 kg. Cela permet une charge maximale de 700 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4536 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 

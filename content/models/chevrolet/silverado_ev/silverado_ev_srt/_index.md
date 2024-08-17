@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 19 hours and 32 minutes using a home charging setup.
+The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 11 minutes using a home charging setup.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Key screen details:
 - The  screen behind the steering wheel on the left of the frame is 11.0 inches large
 - The touch screen at the right part of the shared frame is 17.7 inches large
 
-The model does not include a head-up display.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ The Chevrolet Silverado EV SRT is equipped with a single type of steering wheel:
 ### Mirrors
 
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 
@@ -213,7 +215,7 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 The truck bed offers a cargo capacity of 1039 liters (36.7 CU FT). It has a width of 1286 mm (50.6 inches) and a length of 1803 mm  (71.0 inches), with a maximum load weight of 614 kg (1353.6 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
 
-The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4061 kg (8953 lbs). This allows for a maximum load of 702 kg (1548 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4063 kg (8957 lbs). This allows for a maximum load of 700 kg (1543 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4536 kg (10000 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

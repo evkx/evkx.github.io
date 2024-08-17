@@ -40,7 +40,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 32 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 19,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 11 horas y 11 minutos usando un cargador en casa.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
@@ -145,7 +145,7 @@ Detalles clave de la pantalla:
 - La  pantalla detrás del volante a la izquierda del marco mide 11,0 pulgadas de tamaño
 - La touch pantalla en la parte derecha del marco compartido mide 17,7 pulgadas de tamaño
 
-El modelo no tiene head-up display.
+Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -158,6 +158,8 @@ El Chevrolet Silverado EV SRT está equipado con un solo tipo de volante:
 ### Espejos
 
 Tanto los espejos exteriores como los interiores utilizan tecnología de espejo convencional para proporcionar una vista clara del área detrás del vehículo.
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 
@@ -213,7 +215,7 @@ Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de au
 
 La caja del camión ofrece una capacidad de carga de 1039 litros. Tiene un ancho de 1286 mm  y una longitud de 1803 mm, con un peso máximo de carga de 614 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
 
-El peso máximo del vehículo es 4763 kg, con un peso base de 4061 kg. Esto permite una carga máxima de 702 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 4763 kg, con un peso base de 4063 kg. Esto permite una carga máxima de 700 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 4536 kg, mientras que para un tráiler sin freno es de 750 kg.
 

@@ -201,7 +201,7 @@ Mit dem Super Cruise  Level 1 System erhalten Sie die folgenden Fahrautomatisier
 
 Die Ladefläche bietet ein Ladevolumen von 1039 Litern (36,7 CU FT). Sie hat eine Breite von 1286 mm (50,6 Zoll) und eine Länge von 1803 mm (71,0 Zoll) mit einem maximalen Ladegewicht von 614 kg (1353,6 lbs). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 303 Litern (10,7 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 4531 kg (9989 lbs) bei einem Leergewicht von 3723 kg (8208 lbs). Dies ermöglicht eine maximale Zuladung von 808 kg (1781 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 4532 kg (9991 lbs) bei einem Leergewicht von 3716 kg (8192 lbs). Dies ermöglicht eine maximale Zuladung von 816 kg (1799 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 5670 kg (12500 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
