@@ -159,7 +159,7 @@ BMW i5 xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 ## Brugergrænseflade og kontrol
 
-BMW i5 xDrive40 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+BMW i5 xDrive40 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
 Vigtige skærmdetaljer:
 

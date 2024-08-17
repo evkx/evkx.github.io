@@ -166,7 +166,9 @@ GMC Hummer EV SUV 2x inkluderar flera funktioner för att förbättra komfort oc
 
 ## Användargränssnitt och kontroll
 
-GMC Hummer EV SUV 2x har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+GMC Hummer EV SUV 2x har ett användarvänligt kontrollgränssnitt som kombinerar fysiska knappar för ofta använda funktioner, såsom klimatkontroll, med spakar och skärmar för en sömlös upplevelse.
+
+GMC Hummer EV SUV 2x har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
 Viktiga skärmdetaljer:
 
@@ -193,7 +195,7 @@ GMC Hummer EV SUV 2x är utrustad med ett avancerat infotainmentsystem som bygge
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
 
 ### App store
 
@@ -277,7 +279,7 @@ Denna modell hade världspremiär 20.10.2020 och leveranserna startade i Decembe
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
-- $104 650,00 (USA)
+- $98 845,00 (USA)
 
 ## Alternativa Modeller
 

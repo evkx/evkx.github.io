@@ -166,7 +166,9 @@ L'GMC Hummer EV SUV 2x comprend plusieurs fonctionnalités pour améliorer le co
 
 ## Interface utilisateur et contrôle
 
-Le GMC Hummer EV SUV 2x possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le GMC Hummer EV SUV 2x dispose d'une interface de contrôle conviviale qui combine des boutons physiques pour les fonctions fréquemment utilisées, telles que le contrôle du climat, avec des leviers et des écrans pour une expérience fluide.
+
+Le GMC Hummer EV SUV 2x dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
@@ -193,7 +195,7 @@ La GMC Hummer EV SUV 2x est équipée d'un système d'infodivertissement avancé
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### App store
 
@@ -277,7 +279,7 @@ Ce modèle a été présenté en première mondiale le 20.10.2020 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- $104 650,00 (États-Unis)
+- $98 845,00 (États-Unis)
 
 ## Modèles Alternatifs
 

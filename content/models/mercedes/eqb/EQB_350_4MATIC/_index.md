@@ -156,7 +156,7 @@ The Mercedes-EQ EQB 350 4MATIC includes several features to enhance comfort and 
 
 ## User Interface and Control
 
-The Mercedes-EQ EQB 350 4MATIC has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+The Mercedes-EQ EQB 350 4MATIC has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
 

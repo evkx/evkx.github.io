@@ -131,7 +131,7 @@ Opel Astra Sports Tourer Electric inkluderer flere funktioner, der forbedrer kom
 
 ## Brugergrænseflade og kontrol
 
-Opel Astra Sports Tourer Electric har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Opel Astra Sports Tourer Electric har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
 Vigtige skærmdetaljer:
 

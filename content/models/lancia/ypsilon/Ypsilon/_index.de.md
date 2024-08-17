@@ -137,7 +137,7 @@ Der Lancia Ypsilon umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu 
 
 ## Benutzeroberfläche und Steuerung
 
-Der Lancia Ypsilon hat zwei Bildschirme auf einem gemeinsamen Rahmen, der mit Halterungen am Armaturenbrett montiert ist. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
+Der Lancia Ypsilon hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Wichtige Bildschirmdetails:
 

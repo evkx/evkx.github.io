@@ -143,7 +143,7 @@ Hyundai Ioniq 5 Long Range 2WD inkluderer flere funksjoner for å forbedre komfo
 
 ## Brukergrensesnitt og kontroll
 
-Hyundai Ioniq 5 Long Range 2WD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+Hyundai Ioniq 5 Long Range 2WD har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
 Viktige skjermdetaljer:
 

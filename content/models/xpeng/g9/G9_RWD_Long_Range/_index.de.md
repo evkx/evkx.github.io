@@ -142,7 +142,7 @@ Der XPENG G9 RWD Long Range umfasst mehrere Funktionen, um Komfort und Bequemlic
 
 ## Benutzeroberfläche und Steuerung
 
-Der XPENG G9 RWD Long Range hat zwei Bildschirme auf einem gemeinsamen Rahmen, der mit Halterungen am Armaturenbrett montiert ist. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments). Zusätzlich gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) in der Mittelkonsole und einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#front-passenger-screen) vor dem Beifahrersitz.
+Der XPENG G9 RWD Long Range hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments). Zusätzlich gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) in der Mittelkonsole und einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#front-passenger-screen) vor dem Beifahrersitz.
 
 Wichtige Bildschirmdetails:
 

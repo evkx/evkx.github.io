@@ -36,7 +36,7 @@ I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Har
 
 Maksimal DC-ladehastighet er 170 kW. En full lading fra 0 - 100 % vil ta 70 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 83kW. Hver ladeøkt vil ta 20 minutter og 31 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 17 kWh/100 km, ville turen ta omtrent 9 timer og 41 minutter. Denne reisen ville kreve to ladestopp fra 3% til 51%, med en total ladetid på 82 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 15,4 kWh/100 km, ville turen ta omtrent 9 timer og 29 minutter. Denne reisen ville kreve to ladestopp fra 2% til 56%, med en total ladetid på 70 minutter.
 
 ### Ombordlader
 

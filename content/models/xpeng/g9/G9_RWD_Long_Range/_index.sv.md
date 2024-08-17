@@ -142,7 +142,7 @@ XPENG G9 RWD Long Range inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
-XPENG G9 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+XPENG G9 RWD Long Range har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
 
 Viktiga skärmdetaljer:
 

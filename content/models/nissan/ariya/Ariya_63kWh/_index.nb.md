@@ -144,7 +144,7 @@ Nissan Ariya 63kWh inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 ## Brukergrensesnitt og kontroll
 
-Nissan Ariya 63kWh har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+Nissan Ariya 63kWh har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
 Viktige skjermdetaljer:
 

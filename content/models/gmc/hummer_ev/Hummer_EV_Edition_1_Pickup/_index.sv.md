@@ -151,7 +151,9 @@ GMC Hummer EV Edition 1 Pickup inkluderar flera funktioner för att förbättra 
 
 ## Användargränssnitt och kontroll
 
-GMC Hummer EV Edition 1 Pickup har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+GMC Hummer EV Edition 1 Pickup har ett användarvänligt kontrollgränssnitt som kombinerar fysiska knappar för ofta använda funktioner, såsom klimatkontroll, med spakar och skärmar för en sömlös upplevelse.
+
+GMC Hummer EV Edition 1 Pickup har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
 Viktiga skärmdetaljer:
 
@@ -178,7 +180,7 @@ GMC Hummer EV Edition 1 Pickup är utrustad med ett avancerat infotainmentsystem
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
 
 ### App store
 

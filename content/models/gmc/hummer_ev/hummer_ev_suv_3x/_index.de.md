@@ -165,7 +165,9 @@ Der GMC Hummer EV SUV 3x umfasst mehrere Funktionen, um Komfort und Bequemlichke
 
 ## Benutzeroberfläche und Steuerung
 
-Der GMC Hummer EV SUV 3x hat zwei Bildschirme auf einem gemeinsamen Rahmen, der mit Halterungen am Armaturenbrett montiert ist. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
+Der GMC Hummer EV SUV 3x verfügt über eine benutzerfreundliche Steuerungsschnittstelle, die physische Tasten für häufig verwendete Funktionen, wie die Klimasteuerung, mit Hebeln und Bildschirmen für ein nahtloses Erlebnis kombiniert.
+
+Der GMC Hummer EV SUV 3x hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Wichtige Bildschirmdetails:
 
@@ -192,7 +194,7 @@ Die GMC Hummer EV SUV 3x verfügt über ein fortschrittliches Infotainmentsystem
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### App Store
 

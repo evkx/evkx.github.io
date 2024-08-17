@@ -132,7 +132,7 @@ Der Renault 5 E-Tech 52kWh 150hp umfasst mehrere Funktionen, um Komfort und Bequ
 
 ## Benutzeroberfläche und Steuerung
 
-Der Renault 5 E-Tech 52kWh 150hp hat zwei Bildschirme auf einem gemeinsamen Rahmen, der mit Halterungen am Armaturenbrett montiert ist. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
+Der Renault 5 E-Tech 52kWh 150hp hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Wichtige Bildschirmdetails:
 

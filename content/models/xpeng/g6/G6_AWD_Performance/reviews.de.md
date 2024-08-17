@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Is the Xpeng G6 a better buy than the Tesla Model Y? Driving REVIEW</h3>
+<p>Autogefühl: 16.08.2024</p>
+
+{{< youtube 8bGAhMhaMaE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Amsterdam to Stockholm in a Xpeng G6: Beating our expectations!</h3>
 <p>Only Electric: 20.06.2024</p>
 

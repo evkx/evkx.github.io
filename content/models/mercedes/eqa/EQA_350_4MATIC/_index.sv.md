@@ -153,7 +153,7 @@ Mercedes-EQ EQA 350 4MATIC inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
-Mercedes-EQ EQA 350 4MATIC har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+Mercedes-EQ EQA 350 4MATIC har två skärmar med information för föraren och passagerarna. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
 Viktiga skärmdetaljer:
 

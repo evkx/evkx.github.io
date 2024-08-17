@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 170 kW. Das Laden von 0% auf 100% dauert etwa 70 Minuten, während ein typischer Ladevorgang von 10% auf 80% 32 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 78 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 3% und 49%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 83 kW, wobei jede Ladesitzung etwa 20 Minuten und 31 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 17 kWh/100 km, würde die Fahrt etwa 9 Stunden und 41 Minuten dauern. Diese Reise würde vier Ladestopps von 3% auf 51% erfordern, mit einer gesamten Ladezeit von 82 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 15,4 kWh/100 km, würde die Fahrt etwa 9 Stunden und 29 Minuten dauern. Diese Reise würde drei Ladestopps von 2% auf 56% erfordern, mit einer gesamten Ladezeit von 70 Minuten.
 
 ### Bordladegerät
 

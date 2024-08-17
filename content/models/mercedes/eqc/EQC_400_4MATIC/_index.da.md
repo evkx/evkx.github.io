@@ -117,7 +117,7 @@ Mercedes-EQ EQC 400 4MATIC inkluderer flere funktioner, der forbedrer komfort og
 
 ## Brugergrænseflade og kontrol
 
-Mercedes-EQ EQC 400 4MATIC har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+Mercedes-EQ EQC 400 4MATIC har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
 Vigtige skærmdetaljer:
 

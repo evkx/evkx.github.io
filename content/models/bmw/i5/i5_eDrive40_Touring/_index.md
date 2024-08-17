@@ -166,7 +166,7 @@ The BMW i5 eDrive40 Touring includes several features to enhance comfort and con
 
 The control interface for the BMW i5 eDrive40 Touring combines buttons, stalks, and screens for a seamless and user-friendly experience.
 
-The BMW i5 eDrive40 Touring has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+The BMW i5 eDrive40 Touring has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
 

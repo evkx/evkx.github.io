@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 RWD Highland range test</h3>
+<p>Bjørn Nyland: 16.08.2024</p>
+
+{{< youtube n323lX3NUKI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model 3 vs BYD Seal TESTED - Is Tesla’s newcomer already second best?</h3>
 <p>Electrifying: 17.12.2023</p>
 

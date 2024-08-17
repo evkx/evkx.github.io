@@ -151,7 +151,9 @@ L'GMC Hummer EV Edition 1 Pickup comprend plusieurs fonctionnalités pour améli
 
 ## Interface utilisateur et contrôle
 
-Le GMC Hummer EV Edition 1 Pickup possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+Le GMC Hummer EV Edition 1 Pickup dispose d'une interface de contrôle conviviale qui combine des boutons physiques pour les fonctions fréquemment utilisées, telles que le contrôle du climat, avec des leviers et des écrans pour une expérience fluide.
+
+Le GMC Hummer EV Edition 1 Pickup dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Détails clés de l'écran :
 
@@ -178,7 +180,7 @@ La GMC Hummer EV Edition 1 Pickup est équipée d'un système d'infodivertisseme
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### App store
 
