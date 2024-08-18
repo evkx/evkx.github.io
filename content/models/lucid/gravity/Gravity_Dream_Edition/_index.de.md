@@ -30,17 +30,17 @@ Der Lucid Gravity Dream Edition bietet eine beeindruckende Leistung mit einer ma
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 124,0 kWh und eine nutzbare Nettokapazität von 122,0 kWh, was einen Puffer von 2,0 kWh (1,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 800 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 122,0 kWh und eine nutzbare Nettokapazität von 120,0 kWh, was einen Puffer von 2,0 kWh (1,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 800 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 440 Meilen (708 km) mit einem Energieverbrauch von 3,6 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 440 Meilen (708 km) mit einem Energieverbrauch von 3,7 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 81 Minuten, während ein typischer Ladevorgang von 10% auf 80% 34 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 150 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 176 kW, wobei jede Ladesitzung etwa 18 Minuten und 16 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Gravity Dream Edition zu einer bequemen Option für Langstreckenreisen.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 79 Minuten, während ein typischer Ladevorgang von 10% auf 80% 34 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 150 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 46%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 176 kW, wobei jede Ladesitzung etwa 18 Minuten und 27 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Gravity Dream Edition zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 8 Stunden und 51 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 38% erfordern, mit einer gesamten Ladezeit von 31 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 21 kWh/100 km, würde die Fahrt etwa 8 Stunden und 51 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 39% erfordern, mit einer gesamten Ladezeit von 32 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 32 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 22 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 27 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 

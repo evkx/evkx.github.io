@@ -30,17 +30,17 @@ La Lucid Gravity Dream Edition impressionne avec une puissance maximale de 600 k
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 124,0 kWh et une capacité nette utilisable de 122,0 kWh, offrant une réserve de 2,0 kWh (1,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 122,0 kWh et une capacité nette utilisable de 120,0 kWh, offrant une réserve de 2,0 kWh (1,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 708 km avec un taux de consommation d'énergie de 17,2 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 708 km avec un taux de consommation d'énergie de 17,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 81 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 176kW. Chaque session de charge prendrait 18 minutes et 16 secondes. Cette capacité de charge efficace fait de l'Lucid Gravity Dream Edition une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 79 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 46 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 176kW. Chaque session de charge prendrait 18 minutes et 27 secondes. Cette capacité de charge efficace fait de l'Lucid Gravity Dream Edition une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 8 heures et 51 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 38%, avec un temps de recharge total de 31 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 8 heures et 51 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 39%, avec un temps de recharge total de 32 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 32 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 27 minutes à domicile.
 
 ### Port de recharge
 

@@ -297,7 +297,10 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 - [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
 - [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
 - [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
+- [Rivian R1T Performance Dual-Motor AWD LP](/models/rivian/r1/r1t_performance_dual-motor_awd_lp/)
+- [Rivian R1T Performance Dual-Motor AWD MP](/models/rivian/r1/r1t_performance_dual-motor_awd_mp/)
+- [Rivian R1T Quad-Motor AWD](/models/rivian/r1/r1t_quad-motor_awd/)
 
-<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00%2c0ec57a%2c6783e7%2c03b3f5" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="GMC Sierra EV" f_url="rangeandconsumption/" f_title="Plage" >}}

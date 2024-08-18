@@ -30,17 +30,17 @@ El Lucid Gravity Dream Edition impresiona con una potencia máxima de 600 kW (81
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 124,0 kWh y una capacidad neta utilizable de 122,0 kWh, proporcionando un buffer de 2,0 kWh (1,6%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
+La batería de alta capacidad tiene una capacidad bruta de 122,0 kWh y una capacidad neta utilizable de 120,0 kWh, proporcionando un buffer de 2,0 kWh (1,6%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 708 km con una tasa de consumo de energía de 17,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 708 km con una tasa de consumo de energía de 17,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 81 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 176kW. Cada sesión de carga tardaría 18 minutos y 16 segundos. Esta capacidad de carga eficiente hace que el Lucid Gravity Dream Edition sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 79 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 46%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 176kW. Cada sesión de carga tardaría 18 minutos y 27 segundos. Esta capacidad de carga eficiente hace que el Lucid Gravity Dream Edition sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 51 minutos. Este viaje requeriría dos paradas de carga del 1% al 38%, con un tiempo total de carga de 31 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 51 minutos. Este viaje requeriría dos paradas de carga del 1% al 39%, con un tiempo total de carga de 32 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 32 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 27 minutos usando un cargador en casa.
 
 ### Puerto de carga
 

@@ -30,17 +30,17 @@ Lucid Gravity Dream Edition imponerar med en imponerande kraft på 600 kW (816 h
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 124,0 kWh och en nettoanvändbar kapacitet på 122,0 kWh, vilket ger en buffert på 2,0 kWh (1,6%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 122,0 kWh och en nettoanvändbar kapacitet på 120,0 kWh, vilket ger en buffert på 2,0 kWh (1,6%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
-Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 17,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 17,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 176kW. Varje laddningssession tar 18 minuter och 16 sekunder. Denna effektiva laddningskapacitet gör Lucid Gravity Dream Edition till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 79 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 176kW. Varje laddningssession tar 18 minuter och 27 sekunder. Denna effektiva laddningskapacitet gör Lucid Gravity Dream Edition till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 38%, med en total laddningstid på 31 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 39%, med en total laddningstid på 32 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 32 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 27 minuter med en hemmaladdare.
 
 ### Laddningsport
 

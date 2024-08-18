@@ -30,17 +30,17 @@ The Lucid Gravity Dream Edition packs an impressive punch with a maximum power o
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 124.0 kWh and a net usable capacity of 122.0 kWh, providing a 2.0 kWh buffer (1.6%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 122.0 kWh and a net usable capacity of 120.0 kWh, providing a 2.0 kWh buffer (1.6%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 440 miles (708 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 440 miles (708 km) with an energy consumption rate of 3.7 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 81 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed of 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 45%. This results in an effective charging speed, including time lost, of 176 kW, with each charging session taking about 18 minutes and 16 seconds. This efficient charging capability makes the Lucid Gravity Dream Edition a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 79 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed of 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 46%. This results in an effective charging speed, including time lost, of 176 kW, with each charging session taking about 18 minutes and 27 seconds. This efficient charging capability makes the Lucid Gravity Dream Edition a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 51 minutes. This journey would require two charging stops from 1% to 38%, with a total charging time of 31 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 51 minutes. This journey would require two charging stops from 1% to 39%, with a total charging time of 32 minutes.
 
 ### Onboard Charger
 
-The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 32 minutes using a home charging setup.
+The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 27 minutes using a home charging setup.
 
 ### Charge Port
 

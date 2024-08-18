@@ -43,7 +43,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				708 km / 440 mi
 			</td>
 			<td>
-				17,2 kWh/100km / 3,6 mi/kWh
+				16,9 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				708 km / 440 mi
 			</td>
 			<td>
-				17,2 kWh/100km / 3,6 mi/kWh
+				16,9 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture de base de la gamme EPA avec 2KW AC
 			</td>
 			<td>
-				566 km / 352 mi
+				564 km / 350 mi
 			</td>
 			<td>
-				-20,1%
+				-20,3%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				Garniture supérieure de gamme EPA avec 2KW AC
 			</td>
 			<td>
-				566 km / 352 mi
+				564 km / 350 mi
 			</td>
 			<td>
-				-20,1%
+				-20,3%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				90kmh/56mph parfait état
 			</td>
 			<td>
-				718km / 446 mi
+				706km / 439 mi
 			</td>
 			<td>
 				17 kWh/100km / 3,7 mi/kWh
@@ -143,7 +143,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				90kmh/56mph avec chauffage 2KW
 			</td>
 			<td>
-				654km /395mi
+				643km /388mi
 			</td>
 			<td>
 				19,2 kWh/100km /3,2 mi/kWh 
@@ -154,7 +154,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				70mph/112kmh parfait état
 			</td>
 			<td>
-				678 km / 421 mi
+				667 km / 414 mi
 			</td>
 			<td>
 				18 kWh/100km / 3,5 mi/kWh
@@ -165,7 +165,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				70mph/112kmh avec chauffage 2KW
 			</td>
 			<td>
-				617km / 383mi
+				607km / 377mi
 			</td>
 			<td>
 				19,8 kWh/100km / 3,1 mi/kWh  
@@ -176,7 +176,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				120kmh/75mph parfait état
 			</td>
 			<td>
-				581 km / 361 mi
+				571 km / 355 mi
 			</td>
 			<td>
 				21 kWh/100km / 3,0 mi/kWh
@@ -187,7 +187,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 				120kmh/75mph avec chauffage 2KW
 			</td>
 			<td>
-				538 km /334mi
+				529 km /329mi
 			</td>
 			<td>
 				22,7 kWh/100km /2,7 mi/kWh

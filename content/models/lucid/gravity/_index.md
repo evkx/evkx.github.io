@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="gravity_dream_edition/"><img src="https://media.evkx.net/multimedia/models/lucid/gravity/gravity_dream_edition/main_1_xst.jpeg" class="img-fluid" width="400px" height="267px" alt="Gravity Dream Edition" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 124 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 122 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

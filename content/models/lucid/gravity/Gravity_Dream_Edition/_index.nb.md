@@ -30,17 +30,17 @@ Lucid Gravity Dream Edition imponerer med en imponerende kraft på 600 kW (816 h
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 124,0 kWh og en netto brukbar kapasitet på 122,0 kWh, som gir en buffer på 2,0 kWh (1,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 122,0 kWh og en netto brukbar kapasitet på 120,0 kWh, som gir en buffer på 2,0 kWh (1,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 708 km med en energiforbrukshastighet på 17,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 708 km med en energiforbrukshastighet på 17,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 81 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 16 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Dream Edition til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 79 minutter, mens et mer vanlig scenario på 10-80 % vil ta 34 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 46%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 176kW. Hver ladeøkt vil ta 18 minutter og 27 sekunder. Denne effektive ladekapasiteten gjør Lucid Gravity Dream Edition til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 8 timer og 51 minutter. Denne reisen ville kreve to ladestopp fra 1% til 38%, med en total ladetid på 31 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 8 timer og 51 minutter. Denne reisen ville kreve to ladestopp fra 1% til 39%, med en total ladetid på 32 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 32 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 27 minutter med en hjemmelader.
 
 ### Ladeport
 
