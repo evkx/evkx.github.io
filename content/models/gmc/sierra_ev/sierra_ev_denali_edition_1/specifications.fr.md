@@ -588,7 +588,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Oui, 11
+				Oui, 12
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Oui, 17,7"
+				Oui, 15,5"
 			</td>
 		</tr>
 		<tr>

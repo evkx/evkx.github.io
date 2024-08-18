@@ -588,7 +588,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Digitales Fahrerdisplay
 			</td>
 			<td>
-				Ja, 11
+				Ja, 12
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Ja, 17,7"
+				Ja, 15,5"
 			</td>
 		</tr>
 		<tr>

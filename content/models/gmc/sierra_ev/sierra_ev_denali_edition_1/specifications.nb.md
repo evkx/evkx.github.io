@@ -588,7 +588,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standardfunksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Digital driver display
 			</td>
 			<td>
-				Ja, 11
+				Ja, 12
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Infotainment skjerm
 			</td>
 			<td>
-				Ja, 17,7
+				Ja, 15,5
 			</td>
 		</tr>
 		<tr>

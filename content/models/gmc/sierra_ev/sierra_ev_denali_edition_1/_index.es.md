@@ -108,7 +108,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/frontseats_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="3000" height="2000"  >}}
 
@@ -146,8 +146,8 @@ El GMC Sierra EV Denali Edition 1 tiene pantallas gemelas con información para 
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante a la izquierda del marco mide 11,0 pulgadas de tamaño
-- La touch pantalla en la parte derecha del marco compartido mide 17,7 pulgadas de tamaño
+- La  pantalla detrás del volante montado en el tablero mide 12,0 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 15,5 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
@@ -189,7 +189,7 @@ Además, el GMC Sierra EV Denali Edition 1 es compatible con Android Auto y Appl
 
 Un tipo de sistema de sonido está disponible para el GMC Sierra EV Denali Edition 1.
 
-- Con el Chevrolet Sound System, obtienes seis parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Bose Sound System, obtienes siete parlantes con una salida máxima del sistema de 200 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
 

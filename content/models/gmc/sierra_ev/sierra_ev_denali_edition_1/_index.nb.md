@@ -108,7 +108,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black [skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/frontseats_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="3000" height="2000"  >}}
 
@@ -146,8 +146,8 @@ GMC Sierra EV Denali Edition 1 har to skjermer med informasjon for sjåføren og
 
 Viktige skjermdetaljer:
 
-- -skjermen bak rattet til venstre for rammen er 11,0 tommer stor
-- touch-skjermen på høyre side av den delte rammen er 17,7 tommer stor
+- -skjermen bak rattet montert i dashbordet er 12,0 tommer stor
+- -skjermen i dashbordets sentrum er 15,5 tommer stor
 
 Et head-up display er en standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
@@ -189,7 +189,7 @@ I tillegg støtter GMC Sierra EV Denali Edition 1 Android Auto og Apple CarPlay.
 
 Én type lydsystem er tilgjengelig for GMC Sierra EV Denali Edition 1.
 
-- Med Chevrolet Sound System får du seks høyttalere med en maksimal systemeffekt på 200 watt.
+- Med Bose Sound System får du syv høyttalere med en maksimal systemeffekt på 200 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

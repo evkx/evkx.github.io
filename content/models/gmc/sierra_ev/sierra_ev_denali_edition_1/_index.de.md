@@ -108,7 +108,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 Verfügbar in:
 
-- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/frontseats_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="3000" height="2000"  >}}
 
@@ -146,8 +146,8 @@ Der GMC Sierra EV Denali Edition 1 hat zwei Bildschirme mit Informationen für d
 
 Wichtige Bildschirmdetails:
 
-- Der -Bildschirm hinter dem Lenkrad auf der linken Seite des Rahmens ist 11,0 Zoll groß.
-- Der touch-Bildschirm auf der rechten Seite des gemeinsamen Rahmens ist 17,7 Zoll groß.
+- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett montiert ist 12,0 Zoll groß.
+- Der -Bildschirm in der Mitte des Armaturenbretts ist 15,5 Zoll groß.
 
 Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
@@ -189,7 +189,7 @@ Der GMC Sierra EV Denali Edition 1 unterstützt Android Auto und Apple CarPlay, 
 
 Der GMC Sierra EV Denali Edition 1 ist mit einer Soundsystemoption ausgestattet:
 
-- **Chevrolet Sound System:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von 200 Watt.
+- **Bose Sound System:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von 200 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
 

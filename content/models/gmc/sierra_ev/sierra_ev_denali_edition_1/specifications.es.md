@@ -588,7 +588,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla del controlador digital
 			</td>
 			<td>
-				Sí, 11
+				Sí, 12
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				Sí, 17,7"
+				Sí, 15,5"
 			</td>
 		</tr>
 		<tr>

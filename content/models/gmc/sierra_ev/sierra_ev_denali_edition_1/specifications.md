@@ -588,7 +588,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -1082,7 +1082,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 11
+				Yes, 12
 			</td>
 		</tr>
 		<tr>
@@ -1090,7 +1090,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/userinterface/screens/">Infotainment screen</a>
 			</td>
 			<td>
-				Yes, 17,7"
+				Yes, 15,5"
 			</td>
 		</tr>
 		<tr>
