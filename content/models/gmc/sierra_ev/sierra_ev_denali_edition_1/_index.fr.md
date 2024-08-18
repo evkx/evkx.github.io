@@ -30,7 +30,7 @@ La GMC Sierra EV Denali Edition 1 impressionne avec une puissance maximale de 56
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 240,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 25,0 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 240,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 25,0 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 708 km avec un taux de consommation d'énergie de 30,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -120,7 +120,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
@@ -248,9 +248,9 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 303 litres.
 
-Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4536 kg. Cela permet une charge maximale de 227 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4076 kg. Cela permet une charge maximale de 687 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4309 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4536 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 

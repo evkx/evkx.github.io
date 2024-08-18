@@ -150,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				1749 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				12,8 meter
 			</td>
 		</tr>
 	</tbody>

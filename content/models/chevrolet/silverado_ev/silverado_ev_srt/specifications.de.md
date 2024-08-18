@@ -150,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1749 mm (68,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				12,8 Meter (503,9")
 			</td>
 		</tr>
 	</tbody>

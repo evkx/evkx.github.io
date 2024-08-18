@@ -150,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				1749 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				12,8 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				4536 kg
+				4076 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				227 kg
+				687 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max trailervægt bremset
 			</td>
 			<td>
-				4309 kg
+				4536 kg
 			</td>
 		</tr>
 		<tr>

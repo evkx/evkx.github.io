@@ -150,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				1749 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				12,8 mètre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				4536 kg
+				4076 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				227 kg
+				687 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				4309 kg
+				4536 kg
 			</td>
 		</tr>
 		<tr>

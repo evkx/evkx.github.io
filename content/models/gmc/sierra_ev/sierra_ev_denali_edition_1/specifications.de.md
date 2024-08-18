@@ -150,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				1749 mm (68,9")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				12,8 Meter (503,9")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				4536 kg (10000 lbs)
+				4076 kg (8986 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				227 kg (500 lbs)
+				687 kg (1515 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				4309 kg (9500 lbs)
+				4536 kg (10000 lbs)
 			</td>
 		</tr>
 		<tr>

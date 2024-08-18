@@ -150,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1749 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Círculo de giro
+			</td>
+			<td>
+				12,8 metros
 			</td>
 		</tr>
 	</tbody>

@@ -150,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				1749 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				12,8 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				4536 kg
+				4076 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				227 kg
+				687 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				4309 kg
+				4536 kg
 			</td>
 		</tr>
 		<tr>

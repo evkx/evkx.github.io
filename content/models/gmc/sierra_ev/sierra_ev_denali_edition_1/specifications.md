@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1749 mm (68,9")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				12,8 meter (503,9")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				4536 kg (10000 lbs)
+				4076 kg (8986 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				227 kg (500 lbs)
+				687 kg (1515 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				4309 kg (9500 lbs)
+				4536 kg (10000 lbs)
 			</td>
 		</tr>
 		<tr>

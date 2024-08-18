@@ -30,7 +30,7 @@ La Chevrolet Silverado EV SRT impressionne avec une puissance maximale de 562 kW
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 240,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 25,0 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 240,0 kWh et une capacité nette utilisable de 215,0 kWh, offrant une réserve de 25,0 kWh (10,4%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 708 km avec un taux de consommation d'énergie de 30,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -118,7 +118,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
@@ -270,7 +270,10 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Plage" >}}

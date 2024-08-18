@@ -30,7 +30,7 @@ The Chevrolet Silverado EV SRT packs an impressive punch with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 440 miles (708 km) with an energy consumption rate of 2.0 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -118,7 +118,7 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -270,7 +270,10 @@ In the rapidly expanding EV market, EVKX.net has identified several alternatives
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=6aa33e%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Chevrolet Silverado EV" f_url="rangeandconsumption/" f_title="Range" >}}

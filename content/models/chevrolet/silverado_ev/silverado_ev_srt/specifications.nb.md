@@ -150,7 +150,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Nominell spenning
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				1749 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				12,8 meter
 			</td>
 		</tr>
 	</tbody>

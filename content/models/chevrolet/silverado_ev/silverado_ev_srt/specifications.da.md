@@ -150,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				1749 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				12,8 meter
 			</td>
 		</tr>
 	</tbody>

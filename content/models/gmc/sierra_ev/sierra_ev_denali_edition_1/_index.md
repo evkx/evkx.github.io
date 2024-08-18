@@ -30,7 +30,7 @@ The GMC Sierra EV Denali Edition 1 packs an impressive punch with a maximum powe
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 440 miles (708 km) with an energy consumption rate of 2.0 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -120,7 +120,7 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -248,9 +248,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
 
-The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4536 kg (10000 lbs). This allows for a maximum load of 227 kg (500 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4076 kg (8986 lbs). This allows for a maximum load of 687 kg (1515 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
-A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4309 kg (9500 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4536 kg (10000 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 

@@ -150,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -301,6 +301,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				1749 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Círculo de giro
+			</td>
+			<td>
+				12,8 metros
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				4536 kg
+				4076 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				227 kg
+				687 kg
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +387,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso máximo del remolque frenado
 			</td>
 			<td>
-				4309 kg
+				4536 kg
 			</td>
 		</tr>
 		<tr>

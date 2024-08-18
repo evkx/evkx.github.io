@@ -150,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				650
+				350
 			</td>
 		</tr>
 		<tr>
@@ -299,6 +299,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				1749 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				12,8 mètre
 			</td>
 		</tr>
 	</tbody>
