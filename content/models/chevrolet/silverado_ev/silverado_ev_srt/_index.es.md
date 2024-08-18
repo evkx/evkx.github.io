@@ -48,6 +48,12 @@ El cargador a bordo estándar soporta hasta 19,2 kW para carga AC de Nivel 1 y N
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
+### V2L - Vehículo a cargar
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 10,2 kW de potencia, incluida la carga de otros vehículos. Hay enchufes disponibles en la caja de carga, el frunk y la cabina.
+
+{{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/v2l_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión

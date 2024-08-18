@@ -48,6 +48,12 @@ Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
+### V2L - Køretøj der skal indlæses
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 10,2 kW effekt, inklusive opladning af andre køretøjer. Stik er tilgængelige i lastrummet, frunken og kabinen.
+
+{{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/v2l_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain

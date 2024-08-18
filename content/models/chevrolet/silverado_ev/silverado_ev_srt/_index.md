@@ -48,6 +48,12 @@ The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging.
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### V2L - Vehichle to load
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. Sockets are available in the cargo bed, the frunk, and the cabin.
+
+{{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/v2l_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain

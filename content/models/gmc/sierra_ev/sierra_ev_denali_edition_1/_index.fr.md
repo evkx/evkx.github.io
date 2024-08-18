@@ -48,6 +48,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 19,2 kW pour la charge C
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
+### V2L - Véhicule à charger
+
+Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 10,2 kW de puissance, y compris charger d'autres véhicules. Des prises sont disponibles dans la benne, le frunk et la cabine.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission

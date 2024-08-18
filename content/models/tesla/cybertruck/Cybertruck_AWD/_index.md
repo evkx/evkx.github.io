@@ -50,7 +50,7 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 ### V2L - Vehichle to load
 
-This model supports V2L (Vehicle 2 Load), which means you can power electrical equipment requiring up to 11.5 kW power, including charging other vehicles. There are sockets available both on the cargo bed and in the cabin.
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 11.5 kW of power, including the ability to charge other vehicles. There are sockets available both on the cargo bed and in the cabin.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 

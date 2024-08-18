@@ -48,7 +48,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ### V2L - Vehichle to load
 
-This model supports V2L (Vehicle 2 Load), which means you can power electrical equipment requiring up to 6 kW power, including charging other vehicles.
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 6 kW of power, including the ability to charge other vehicles.
 
 {{<evkxdisplayaddarticle />}}
 

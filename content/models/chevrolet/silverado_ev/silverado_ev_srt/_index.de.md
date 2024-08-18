@@ -48,6 +48,12 @@ Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-
 
 Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### V2L - Fahrzeug zu Last
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 10,2 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge. Steckdosen sind im Laderaum, im Frunk und in der Kabine verfügbar.
+
+{{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/v2l_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Antriebsstrang
