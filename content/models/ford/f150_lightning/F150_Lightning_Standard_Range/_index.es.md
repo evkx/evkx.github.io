@@ -66,7 +66,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Ford F150 Lightning Standard Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Ford F150 Lightning Standard Range, con dimensiones de 5915 mm de largo,  mm de ancho y 2004 mm de alto, destaca en la categoría de camionetas de tamaño completo, ofreciendo un espacio, potencia y capacidad excepcionales. El Ford F150 Lightning Standard Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Ford F150 Lightning Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

@@ -89,7 +89,7 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 ## Exterieur
 
-Der Tesla Cybertruck AWD ist in insgesamt 3 Unilackfarben erhältlich.
+Der Tesla Cybertruck AWD, mit Abmessungen von 5682 mm in der Länge, 2199 mm in der Breite und 1790 mm in der Höhe, sticht in der Kategorie Full-Size Pick-Up Truck hervor und bietet außergewöhnlichen Raum, Leistung und Fähigkeit. Der Tesla Cybertruck AWD ist in insgesamt 3 Unilackfarben erhältlich.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Tesla Cybertruck AWD erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 

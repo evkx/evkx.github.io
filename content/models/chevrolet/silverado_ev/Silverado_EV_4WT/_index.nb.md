@@ -68,7 +68,7 @@ Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 
-Chevrolet Silverado EV 4WT er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Chevrolet Silverado EV 4WT, med dimensjoner på 5920 mm i lengde, 2072 mm i bredde og 2009 mm i høyde, skiller seg ut i Full-size Pick-Up truck kategorien og tilbyr eksepsjonell plass, kraft og kapasitet. Chevrolet Silverado EV 4WT er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Chevrolet Silverado EV 4WT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

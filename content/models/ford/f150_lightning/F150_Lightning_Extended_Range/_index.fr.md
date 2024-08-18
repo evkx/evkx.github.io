@@ -67,7 +67,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Ford F150 Lightning Extended Range est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+Le Ford F150 Lightning Extended Range, avec des dimensions de 5915 mm de longueur,  mm de largeur et 2004 mm de hauteur, se distingue dans la catégorie des camions pick-up de grande taille, offrant un espace, une puissance et une capacité exceptionnels. La Ford F150 Lightning Extended Range est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford F150 Lightning Extended Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

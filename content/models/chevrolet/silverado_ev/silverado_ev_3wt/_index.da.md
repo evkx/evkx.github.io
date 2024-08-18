@@ -68,7 +68,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-Chevrolet Silverado EV 3WT fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den Chevrolet Silverado EV 3WT, med dimensioner på 5920 mm i længden, 2072 mm i bredden og 2009 mm i højden, skiller sig ud i Full-size Pick-Up truck kategorien og tilbyder exceptionel plads, kraft og kapacitet. Chevrolet Silverado EV 3WT fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Chevrolet Silverado EV 3WT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 

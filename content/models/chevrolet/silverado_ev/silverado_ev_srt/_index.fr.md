@@ -62,6 +62,15 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 La direction dynamique est une fonctionnalité un standard sur le Chevrolet Silverado EV SRT. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
+### Modes de conduite
+
+Le Chevrolet Silverado EV SRT permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 4 modes :
+
+- Normal : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
+- Off-Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
+- Tow/Haul : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
+- My Mode : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 368 mm et les disques arrière mesurent 345 mm.
@@ -76,7 +85,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-La Chevrolet Silverado EV SRT est disponible en un total de 2 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Chevrolet Silverado EV SRT, avec des dimensions de 5920 mm de longueur, 2072 mm de largeur et 2009 mm de hauteur, se distingue dans la catégorie des camions pick-up de grande taille, offrant un espace, une puissance et une capacité exceptionnels. La Chevrolet Silverado EV SRT est disponible en un total de 2 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Chevrolet Silverado EV SRT, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -195,9 +204,20 @@ De plus, le Chevrolet Silverado EV SRT prend en charge Android Auto et Apple Car
 
 Un type de système audio est disponible pour le Chevrolet Silverado EV SRT.
 
-- Avec le Chevrolet Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Bose Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de 200 watts.
 
 Le modèle dispose de 4 connexions USB-C en standard.
+
+## Application mobile
+
+Le Chevrolet Silverado EV SRT est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
 
 ## Lumières
 

@@ -71,7 +71,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Rivian R1T Quad-Motor AWD er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Rivian R1T Quad-Motor AWD, med dimensjoner på 5514 mm i lengde,  mm i bredde og 1986 mm i høyde, skiller seg ut i Full-size Pick-Up truck kategorien og tilbyr eksepsjonell plass, kraft og kapasitet. Rivian R1T Quad-Motor AWD er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian R1T Quad-Motor AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

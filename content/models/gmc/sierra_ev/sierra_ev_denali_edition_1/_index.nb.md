@@ -62,6 +62,15 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Dynamisk styring er en standard-funksjonen på GMC Sierra EV Denali Edition 1. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
+### Kjøremoduser
+
+GMC Sierra EV Denali Edition 1 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 4 moduser:
+
+- Normal: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
+- Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
+- Tow/Haul: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
+- My Mode: Egendefinert styring, fjæring og gassrespons.
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 368mm, og de bakre skivene er 345mm.
@@ -76,7 +85,7 @@ Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 
-GMC Sierra EV Denali Edition 1 er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+GMC Sierra EV Denali Edition 1, med dimensjoner på 5920 mm i lengde, 2072 mm i bredde og 2009 mm i høyde, skiller seg ut i Full-size Pick-Up truck kategorien og tilbyr eksepsjonell plass, kraft og kapasitet. GMC Sierra EV Denali Edition 1 er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på GMC Sierra EV Denali Edition 1, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -198,6 +207,17 @@ I tillegg støtter GMC Sierra EV Denali Edition 1 Android Auto og Apple CarPlay.
 - Med Bose Sound System får du syv høyttalere med en maksimal systemeffekt på 200 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
+
+## Mobilapp
+
+GMC Sierra EV Denali Edition 1 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Finn kjøretøyet ditt**: Sjekk enkelt den nåværende plasseringen til bilen din.
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 

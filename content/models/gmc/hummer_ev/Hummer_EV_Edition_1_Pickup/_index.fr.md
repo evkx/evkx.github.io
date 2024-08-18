@@ -86,7 +86,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-La GMC Hummer EV Edition 1 Pickup est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le GMC Hummer EV Edition 1 Pickup, avec des dimensions de 5507 mm de longueur, 2201 mm de largeur et 2009 mm de hauteur, se distingue dans la catégorie des camions pick-up de grande taille, offrant un espace, une puissance et une capacité exceptionnels. La GMC Hummer EV Edition 1 Pickup est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'GMC Hummer EV Edition 1 Pickup, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

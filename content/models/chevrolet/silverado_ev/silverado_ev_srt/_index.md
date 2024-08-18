@@ -62,6 +62,15 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 Dynamic steering is a standard on the Chevrolet Silverado EV SRT, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The Chevrolet Silverado EV SRT lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Normal: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
@@ -76,7 +85,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The Chevrolet Silverado EV SRT is available in a total of 2 paint colors, including several striking metallic options.
+The Chevrolet Silverado EV SRT, with dimensions of 5920 mm in length, 2072 mm in width, and 2009 mm in height, stands out in the Full-size Pick-Up truck category, offering exceptional space, power, and capability. The Chevrolet Silverado EV SRT is available in a total of 2 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV SRT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -195,9 +204,20 @@ The Chevrolet Silverado EV SRT supports Android Auto and Apple CarPlay, allowing
 
 The Chevrolet Silverado EV SRT comes equipped with one sound system option:
 
-- **Chevrolet Sound System:** Features six speakers and delivers a maximum output of 200 watts.
+- **Bose Sound System:** Features seven speakers and delivers a maximum output of 200 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
+
+## Mobile App
+
+The Chevrolet Silverado EV SRT comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights
 

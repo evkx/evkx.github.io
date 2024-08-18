@@ -62,6 +62,15 @@ Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspensio
 
 Die dynamische Lenkung ist eine standard im GMC Sierra EV Denali Edition 1, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine standard Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
 
+### Fahrmodi
+
+Der GMC Sierra EV Denali Edition 1 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Normal: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Off-Road: Ausgewogene Lenkung, maximale Federungshöhe mit ausgewogenem Gas und Dämpfung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 368 mm, während die hinteren Scheiben 345 mm groß sind.
@@ -76,7 +85,7 @@ Die maximale regenerative Leistung beträgt 400 kW.
 
 ## Exterieur
 
-Der GMC Sierra EV Denali Edition 1 ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der GMC Sierra EV Denali Edition 1, mit Abmessungen von 5920 mm in der Länge, 2072 mm in der Breite und 2009 mm in der Höhe, sticht in der Kategorie Full-Size Pick-Up Truck hervor und bietet außergewöhnlichen Raum, Leistung und Fähigkeit. Der GMC Sierra EV Denali Edition 1 ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den GMC Sierra EV Denali Edition 1 erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -198,6 +207,17 @@ Der GMC Sierra EV Denali Edition 1 ist mit einer Soundsystemoption ausgestattet:
 - **Bose Sound System:** Verfügt über sieben Lautsprecher und liefert eine maximale Ausgangsleistung von 200 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der GMC Sierra EV Denali Edition 1 wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Ladeziel anpassen:** Stellen Sie Ihren gewünschten Ladezustand ein, um das Laden nach Bedarf zu starten oder zu stoppen.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+- **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
 
 ## Lichter
 

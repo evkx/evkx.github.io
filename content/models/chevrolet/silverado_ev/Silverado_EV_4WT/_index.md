@@ -68,7 +68,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The Chevrolet Silverado EV 4WT is available in a total of 1 paint colors, including several striking metallic options.
+The Chevrolet Silverado EV 4WT, with dimensions of 5920 mm in length, 2072 mm in width, and 2009 mm in height, stands out in the Full-size Pick-Up truck category, offering exceptional space, power, and capability. The Chevrolet Silverado EV 4WT is available in a total of 1 paint colors, including several striking metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV 4WT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 

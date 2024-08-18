@@ -70,7 +70,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Rivian R1T Performance Dual-Motor AWD LP está disponible en un total de 9 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El Rivian R1T Performance Dual-Motor AWD LP, con dimensiones de 5514 mm de largo,  mm de ancho y 1986 mm de alto, destaca en la categoría de camionetas de tamaño completo, ofreciendo un espacio, potencia y capacidad excepcionales. El Rivian R1T Performance Dual-Motor AWD LP está disponible en un total de 9 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Rivian R1T Performance Dual-Motor AWD LP, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

@@ -70,7 +70,7 @@ Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Si
 
 ## Exterieur
 
-Der Rivian R1T Performance Dual-Motor AWD LP ist in insgesamt 9 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der Rivian R1T Performance Dual-Motor AWD LP, mit Abmessungen von 5514 mm in der Länge,  mm in der Breite und 1986 mm in der Höhe, sticht in der Kategorie Full-Size Pick-Up Truck hervor und bietet außergewöhnlichen Raum, Leistung und Fähigkeit. Der Rivian R1T Performance Dual-Motor AWD LP ist in insgesamt 9 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
 Der Rivian R1T Performance Dual-Motor AWD LP bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 

@@ -62,6 +62,15 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Dynamisk styrning är standard-funktionen för Chevrolet Silverado EV SRT. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
+### Körlägen
+
+Chevrolet Silverado EV SRT låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+
+- Normal: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
+- Off-Road: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
+- Tow/Haul: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
+- My Mode: Anpassad styrning, fjädring och gasrespons.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 368mm och de bakre skivorna är 345mm.
@@ -76,7 +85,7 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-Chevrolet Silverado EV SRT finns i totalt 2 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+Chevrolet Silverado EV SRT, med dimensioner på 5920 mm i längd, 2072 mm i bredd och 2009 mm i höjd, utmärker sig i kategorin Full-size Pick-Up truck och erbjuder exceptionellt utrymme, kraft och kapacitet. Chevrolet Silverado EV SRT finns i totalt 2 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Chevrolet Silverado EV SRT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -195,9 +204,20 @@ Dessutom stöder Chevrolet Silverado EV SRT Android Auto och Apple CarPlay. Denn
 
 En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV SRT.
 
-- Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
+- Med Bose Sound System får du sju högtalare med en maximal systemeffekt på 200 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+Chevrolet Silverado EV SRT kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
+
+- **Hitta ditt fordon**: Kontrollera enkelt var din bil befinner sig just nu.
+- **Förkonditionering**: Förvärm eller kyla ned din bil innan du börjar din resa för optimal komfort.
+- **Lås & Lås upp**: Lås eller lås upp bilens dörrar säkert med ett knapptryck.
+- **Justera laddmål**: Ställ in önskad laddningsnivå för att starta eller stoppa laddningen efter behov.
+- **Hitta din bil**: Aktivera tutan eller lamporna för att hitta din bil i trånga områden.
+- **Ruttplanering**: Planera din rutt och skicka den direkt till bilens navigationssystem.
 
 ## Ljus
 

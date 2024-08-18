@@ -86,7 +86,7 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-GMC Hummer EV Edition 1 Pickup finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+GMC Hummer EV Edition 1 Pickup, med dimensioner på 5507 mm i längd, 2201 mm i bredd och 2009 mm i höjd, utmärker sig i kategorin Full-size Pick-Up truck och erbjuder exceptionellt utrymme, kraft och kapacitet. GMC Hummer EV Edition 1 Pickup finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på GMC Hummer EV Edition 1 Pickup, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 

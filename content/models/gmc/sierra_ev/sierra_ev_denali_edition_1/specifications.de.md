@@ -588,7 +588,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>

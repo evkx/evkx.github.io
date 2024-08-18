@@ -70,7 +70,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Rivian R1T Performance Dual-Motor AWD MP est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Rivian R1T Performance Dual-Motor AWD MP, avec des dimensions de 5514 mm de longueur,  mm de largeur et 1986 mm de hauteur, se distingue dans la catégorie des camions pick-up de grande taille, offrant un espace, une puissance et une capacité exceptionnels. La Rivian R1T Performance Dual-Motor AWD MP est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Rivian R1T Performance Dual-Motor AWD MP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

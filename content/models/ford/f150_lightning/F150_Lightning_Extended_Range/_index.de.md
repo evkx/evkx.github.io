@@ -67,7 +67,7 @@ Das [regenerative Bremssystem](../../../../technology/regen/) in diesem Modell b
 
 ## Exterieur
 
-Der Ford F150 Lightning Extended Range ist in insgesamt 6 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
+Der Ford F150 Lightning Extended Range, mit Abmessungen von 5915 mm in der Länge,  mm in der Breite und 2004 mm in der Höhe, sticht in der Kategorie Full-Size Pick-Up Truck hervor und bietet außergewöhnlichen Raum, Leistung und Fähigkeit. Der Ford F150 Lightning Extended Range ist in insgesamt 6 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
 
 Der Ford F150 Lightning Extended Range bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 

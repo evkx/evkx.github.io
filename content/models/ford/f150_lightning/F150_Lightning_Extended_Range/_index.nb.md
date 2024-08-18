@@ -67,7 +67,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Ford F150 Lightning Extended Range er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
+Ford F150 Lightning Extended Range, med dimensjoner på 5915 mm i lengde,  mm i bredde og 2004 mm i høyde, skiller seg ut i Full-size Pick-Up truck kategorien og tilbyr eksepsjonell plass, kraft og kapasitet. Ford F150 Lightning Extended Range er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Ford F150 Lightning Extended Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

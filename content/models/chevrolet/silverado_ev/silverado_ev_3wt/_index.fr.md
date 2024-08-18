@@ -68,7 +68,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-La Chevrolet Silverado EV 3WT est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+Le Chevrolet Silverado EV 3WT, avec des dimensions de 5920 mm de longueur, 2072 mm de largeur et 2009 mm de hauteur, se distingue dans la catégorie des camions pick-up de grande taille, offrant un espace, une puissance et une capacité exceptionnels. La Chevrolet Silverado EV 3WT est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Chevrolet Silverado EV 3WT, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

@@ -74,7 +74,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Tesla Cybertruck Cyberbeast finns i totalt 3 enfärgade lackfärger.
+Tesla Cybertruck Cyberbeast, med dimensioner på 5682 mm i längd, 2199 mm i bredd och 1790 mm i höjd, utmärker sig i kategorin Full-size Pick-Up truck och erbjuder exceptionellt utrymme, kraft och kapacitet. Tesla Cybertruck Cyberbeast finns i totalt 3 enfärgade lackfärger.
 
 Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Tesla Cybertruck Cyberbeast, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 

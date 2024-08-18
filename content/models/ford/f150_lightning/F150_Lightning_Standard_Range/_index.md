@@ -66,7 +66,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Ford F150 Lightning Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
+The Ford F150 Lightning Standard Range, with dimensions of 5915 mm in length,  mm in width, and 2004 mm in height, stands out in the Full-size Pick-Up truck category, offering exceptional space, power, and capability. The Ford F150 Lightning Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
 
 The Ford F150 Lightning Standard Range offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
