@@ -80,13 +80,15 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
-Es gibt nur eine Dachoption für dieses Modell.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Der Chevrolet Silverado EV SRT verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl verbessert und von hochwertigen Materialien in allen wichtigen Bereichen umgeben ist. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
 
 ### Sitze
 
@@ -218,6 +220,11 @@ Der Chevrolet Silverado EV SRT bietet [Fahrautomatisierung auf Level 1](../../..
 Mit dem Super Cruise  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -72,7 +72,7 @@ Die maximale regenerative Leistung beträgt 400 kW.
 
 ## Exterieur
 
-Der GMC Sierra EV Denali Edition 1 ist in insgesamt 2 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
+Der GMC Sierra EV Denali Edition 1 ist in insgesamt 1 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den GMC Sierra EV Denali Edition 1 erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -80,13 +80,15 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#split-tailgate), bei der die Klappe herunterfällt.
 
-Es gibt nur eine Dachoption für dieses Modell.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein großes Panoramaglasdach, das sich von vorne bis hinten erstreckt und das Raum- und Helligkeitsgefühl im Innenraum verbessert, wodurch die Stimmung und der Komfort der Insassen verbessert werden. Dieses Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Der GMC Sierra EV Denali Edition 1 verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl verbessert und von hochwertigen Materialien in allen wichtigen Bereichen umgeben ist. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
 
 ### Sitze
 
@@ -218,6 +220,11 @@ Der GMC Sierra EV Denali Edition 1 bietet [Fahrautomatisierung auf Level 1](../.
 Mit dem Super Cruise  Level 1 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

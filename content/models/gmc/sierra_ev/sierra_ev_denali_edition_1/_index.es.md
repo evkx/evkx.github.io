@@ -72,7 +72,7 @@ La potencia regenerativa máxima es de 400 kW.
 
 ## Exterior
 
-El GMC Sierra EV Denali Edition 1 está disponible en un total de 2 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El GMC Sierra EV Denali Edition 1 está disponible en un total de 1 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el GMC Sierra EV Denali Edition 1, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -80,13 +80,15 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
-Sólo hay un techo para este modelo.
+Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El GMC Sierra EV Denali Edition 1 cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
 
 ### Asientos
 
@@ -218,6 +220,11 @@ GMC Sierra EV Denali Edition 1 ofrece [automatización de la conducción en nive
 Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

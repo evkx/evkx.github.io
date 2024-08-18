@@ -80,13 +80,15 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
-There is only one roof option for this model.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The Chevrolet Silverado EV SRT features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 
@@ -218,6 +220,11 @@ The Chevrolet Silverado EV SRT offers [driving automation at level 1](../../../.
 With the Super Cruise  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

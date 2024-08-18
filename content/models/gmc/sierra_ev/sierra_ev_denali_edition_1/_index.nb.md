@@ -72,7 +72,7 @@ Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 
-GMC Sierra EV Denali Edition 1 er tilgjengelig i totalt 2 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+GMC Sierra EV Denali Edition 1 er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på GMC Sierra EV Denali Edition 1, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -80,13 +80,15 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
 
-Det er bare ett tak for denne modellen.
+Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+GMC Sierra EV Denali Edition 1 har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
 
 ### Seter
 
@@ -218,6 +220,11 @@ GMC Sierra EV Denali Edition 1 tilbyr [kjøreautomatisering på nivå 1](../../.
 Med Super Cruise  nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

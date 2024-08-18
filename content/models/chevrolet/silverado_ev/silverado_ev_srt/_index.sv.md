@@ -80,13 +80,15 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
-Det finns bara ett tak för denna modell.
+Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
+
+Chevrolet Silverado EV SRT har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
 
 ### Säten
 
@@ -218,6 +220,11 @@ Chevrolet Silverado EV SRT erbjuder [körautomatisering på nivå 1](../../../..
 Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 {{<evkxdisplayaddarticle />}}
 

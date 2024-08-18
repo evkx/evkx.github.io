@@ -80,13 +80,15 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 
-Der er kun ét tag til denne model.
+Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+Chevrolet Silverado EV SRT har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
 
 ### Sæder
 
@@ -218,6 +220,11 @@ Chevrolet Silverado EV SRT tilbyder [køreautomatisering på niveau 1](../../../
 Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

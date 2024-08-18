@@ -72,7 +72,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-GMC Sierra EV Denali Edition 1 fås i alt 2 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+GMC Sierra EV Denali Edition 1 fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på GMC Sierra EV Denali Edition 1, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -80,13 +80,15 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 
-Der er kun ét tag til denne model.
+Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+GMC Sierra EV Denali Edition 1 har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
 
 ### Sæder
 
@@ -218,6 +220,11 @@ GMC Sierra EV Denali Edition 1 tilbyder [køreautomatisering på niveau 1](../..
 Med Super Cruise  niveau 1-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
