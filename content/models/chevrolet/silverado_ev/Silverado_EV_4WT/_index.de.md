@@ -155,7 +155,15 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
+
+### App Store
+
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefonspiegelung
 

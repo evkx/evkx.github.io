@@ -155,7 +155,15 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
+
+### App store
+
+Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- The Weather Channel
+- Audiobooks.com
 
 ### Réplication du téléphone
 

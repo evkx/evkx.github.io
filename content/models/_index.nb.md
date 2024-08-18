@@ -333,7 +333,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="gmc/"><img src="https://media.evkx.net/multimedia/models/gmc/brandevs_st.jpg" class="img-fluid mb-2" alt="GMC" ></a>
 	<h2>GMC</h2>
 	<p>
-	GMC har 1 modell(er) med totalt 3 varianter.
+	GMC har 2 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="gmc/" class="btn btn-outline-primary" role="button">Gå til GMC modelloversikt</a>
 </div>

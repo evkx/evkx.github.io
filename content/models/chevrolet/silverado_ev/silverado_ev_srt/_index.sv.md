@@ -64,7 +64,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar och **Creep-läge** för bilen framåt i låg hastighet.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 Den maximala regenerativa effekten är 400 kW.
 
@@ -167,7 +169,15 @@ Chevrolet Silverado EV SRT är utrustad med ett avancerat infotainmentsystem som
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
+
+### App store
+
+Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+
+- **Spotify:** Strömma miljontals låtar, spellistor och podcaster direkt från bilens infotainmentsystem, vilket ger oändliga underhållningsalternativ under din körning.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefon spegling
 
@@ -223,7 +233,7 @@ En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bro
 
 ## Tillgänglighet och pris
 
-Denna modell hade världspremiär 05.01.2022 och leveranser förväntas starta om July 2024. Denna modell är endast tillgänglig i Nordamerika.
+Denna modell hade världspremiär 05.01.2022 och leveranserna startade i July 2024. Denna modell är endast tillgänglig i Nordamerika.
 
 ### Prissättning
 

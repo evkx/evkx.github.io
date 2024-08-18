@@ -64,7 +64,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser og **Creep mode** bevæger bilen fremad ved lav hastighed.
+
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 400 kW.
 
@@ -167,7 +169,15 @@ Chevrolet Silverado EV SRT er udstyret med et avanceret infotainmentsystem, der 
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefon spejling
 
@@ -223,7 +233,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 05.01.2022, og leveringer forventes at starte om July 2024. Denne model er kun tilgængelig i Nordamerika.
+Denne model havde verdenspremiere den 05.01.2022, og leveringerne startede i July 2024. Denne model er kun tilgængelig i Nordamerika.
 
 ### Priser
 

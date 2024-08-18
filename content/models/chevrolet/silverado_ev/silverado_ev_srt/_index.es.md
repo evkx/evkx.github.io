@@ -64,7 +64,9 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción y **el modo Creep** mueve el coche hacia adelante a baja velocidad.
+
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 La potencia regenerativa máxima es de 400 kW.
 
@@ -167,7 +169,15 @@ El Chevrolet Silverado EV SRT cuenta con un avanzado sistema de infoentretenimie
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+
+### App Store
+
+El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- The Weather Channel
+- Audiobooks.com
 
 ### Espejo del teléfono
 
@@ -223,7 +233,7 @@ Se puede agregar un enganche al vehículo. El peso máximo permitido para un tr�
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 05.01.2022 y se espera que las entregas comiencen en July 2024. Este modelo sólo está disponible en Norteamérica.
+Este modelo tuvo un estreno mundial el 05.01.2022 y las entregas comenzaron en July 2024. Este modelo sólo está disponible en Norteamérica.
 
 ### Precios
 

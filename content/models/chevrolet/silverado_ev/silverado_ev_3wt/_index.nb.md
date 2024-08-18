@@ -155,7 +155,15 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefonspeiling
 

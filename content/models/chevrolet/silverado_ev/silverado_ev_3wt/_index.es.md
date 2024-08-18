@@ -155,7 +155,15 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
+
+### App Store
+
+El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify:** Transmite millones de canciones, listas de reproducción y podcasts directamente desde el sistema de infoentretenimiento de tu coche, proporcionando infinitas opciones de entretenimiento durante tu viaje.
+- The Weather Channel
+- Audiobooks.com
 
 ### Espejo del teléfono
 

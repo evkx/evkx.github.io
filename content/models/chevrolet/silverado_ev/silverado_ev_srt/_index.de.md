@@ -64,7 +64,9 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand und der **Kriechmodus** bewegt das Fahrzeug bei niedriger Geschwindigkeit vorwärts.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 Die maximale regenerative Leistung beträgt 400 kW.
 
@@ -167,7 +169,15 @@ Die Chevrolet Silverado EV SRT verfügt über ein fortschrittliches Infotainment
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
+
+### App Store
+
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefonspiegelung
 
@@ -223,7 +233,7 @@ Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zuläs
 
 ## Verfügbarkeit & Preise
 
-Dieses Modell feierte seine Weltpremiere am 05.01.2022, mit erwarteten Lieferungen ab July 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+Der Chevrolet Silverado EV SRT feierte seine Weltpremiere am 05.01.2022, mit Lieferungen ab July 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
 
 ### Preise
 

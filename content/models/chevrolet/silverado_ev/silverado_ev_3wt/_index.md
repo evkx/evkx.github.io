@@ -155,7 +155,15 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- The Weather Channel
+- Audiobooks.com
 
 ### Phone Mirroring
 

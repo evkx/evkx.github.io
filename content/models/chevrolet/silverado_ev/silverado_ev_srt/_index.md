@@ -64,7 +64,9 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes and **Creep mode** moves the car forward at low speed.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 400 kW.
 
@@ -167,7 +169,15 @@ The Chevrolet Silverado EV SRT features an advanced infotainment system built on
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- The Weather Channel
+- Audiobooks.com
 
 ### Phone Mirroring
 
@@ -223,7 +233,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 ## Availability & Pricing
 
-This model made its world premiere on 05.01.2022, with deliveries anticipated to begin in July 2024. Please note that this model is available exclusively in North America.
+The Chevrolet Silverado EV SRT had its world premiere on 05.01.2022, with deliveries starting in July 2024. Please note that this model is available exclusively in North America.
 
 ### Pricing
 

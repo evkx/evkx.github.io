@@ -32,6 +32,21 @@ GMC Hummer EV är en pickup/SUV tillgänglig i 3 varianter.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>GMC Sierra EV</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="sierra_ev">
+                    <img src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/main_1_st.jpg" class="img-fluid" alt="GMC Sierra EV" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+GMC Sierra EV är en pickup tillgänglig i 1 varianter.
+</p>
+	<a href="sierra_ev/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

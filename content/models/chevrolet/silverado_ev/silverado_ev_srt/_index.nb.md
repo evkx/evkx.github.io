@@ -64,7 +64,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser og **Creep-modus** beveger bilen sakte fremover.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
 Den maksimale regenerative effekten er 400 kW.
 
@@ -167,7 +169,15 @@ Chevrolet Silverado EV SRT er utstyrt med et avansert infotainmentsystem som kj�
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify:** Strøm millioner av sanger, spillelister og podcaster direkte fra bilens infotainmentsystem, og tilbyr uendelige underholdningsalternativer under kjøringen.
+- The Weather Channel
+- Audiobooks.com
 
 ### Telefonspeiling
 
@@ -223,7 +233,7 @@ Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en brem
 
 ## Tilgjengelighet & pris
 
-Denne modellen hadde sin verdenspremiere den 05.01.2022, med forventede leveranser som starter i July 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
+Chevrolet Silverado EV SRT hadde sin verdenspremiere den 05.01.2022, med leveranser som startet i July 2024. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
 
 ### Priser
 

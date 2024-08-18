@@ -64,7 +64,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer.
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. **Le mode Hold** arrête complètement le véhicule en utilisant les freins à friction et **le mode Creep** fait avancer la voiture à basse vitesse.
+
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 La puissance régénérative maximale est de 400 kW.
 
@@ -167,7 +169,15 @@ La Chevrolet Silverado EV SRT est équipée d'un système d'infodivertissement a
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
+
+### App store
+
+Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
+- The Weather Channel
+- Audiobooks.com
 
 ### Réplication du téléphone
 
@@ -223,7 +233,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons devraient commencer en July 2024. Ce modèle est uniquement disponible en Amérique du Nord.
+Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons ont commencé en July 2024. Ce modèle est uniquement disponible en Amérique du Nord.
 
 ### Tarification
 

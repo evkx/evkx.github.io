@@ -32,6 +32,21 @@ GMC Hummer EV es una camioneta/SUV disponible en 3 variantes.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>GMC Sierra EV</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="sierra_ev">
+                    <img src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/main_1_st.jpg" class="img-fluid" alt="GMC Sierra EV" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+GMC Sierra EV es una camioneta disponible en 1 variantes.
+</p>
+	<a href="sierra_ev/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>
