@@ -248,15 +248,15 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 303 liter.
 
-Køretøjets maksimale vægt er 4763 kg, med en basisvægt på 4076 kg. Dette giver en maksimal last på 687 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 4763 kg, med en basisvægt på 4536 kg. Dette giver en maksimal last på 227 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 4536 kg, mens den for en ubremset trailer er 750 kg.
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 4309 kg, mens den for en ubremset trailer er 750 kg.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 ## Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 05.01.2022, og leveringerne startede i July 2024. Denne model er kun tilgængelig i Nordamerika.
+Denne model havde verdenspremiere den 05.01.2022, og leveringerne startede i August 2024. Denne model er kun tilgængelig i Nordamerika.
 
 ### Priser
 
@@ -270,7 +270,10 @@ I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alter
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="GMC Sierra EV" f_url="rangeandconsumption/" f_title="Range" >}}

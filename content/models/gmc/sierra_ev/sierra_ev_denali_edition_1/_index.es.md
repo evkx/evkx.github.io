@@ -248,15 +248,15 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
 
-El peso máximo del vehículo es 4763 kg, con un peso base de 4076 kg. Esto permite una carga máxima de 687 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 4763 kg, con un peso base de 4536 kg. Esto permite una carga máxima de 227 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 4536 kg, mientras que para un tráiler sin freno es de 750 kg.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 4309 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 ## Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 05.01.2022 y las entregas comenzaron en July 2024. Este modelo sólo está disponible en Norteamérica.
+Este modelo tuvo un estreno mundial el 05.01.2022 y las entregas comenzaron en August 2024. Este modelo sólo está disponible en Norteamérica.
 
 ### Precios
 
@@ -270,7 +270,10 @@ En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha ident
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="GMC Sierra EV" f_url="rangeandconsumption/" f_title="Rango" >}}

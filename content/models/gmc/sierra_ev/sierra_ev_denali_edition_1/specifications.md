@@ -323,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				4076 kg (8986 lbs)
+				4536 kg (10000 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				687 kg (1515 lbs)
+				227 kg (500 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -379,7 +379,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				4536 kg (10000 lbs)
+				4309 kg (9500 lbs)
 			</td>
 		</tr>
 		<tr>

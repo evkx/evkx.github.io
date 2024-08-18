@@ -248,15 +248,15 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 303 litres.
 
-Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4076 kg. Cela permet une charge maximale de 687 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 4763 kg, avec un poids de base de 4536 kg. Cela permet une charge maximale de 227 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4536 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 4309 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 ## Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons ont commencé en July 2024. Ce modèle est uniquement disponible en Amérique du Nord.
+Ce modèle a été présenté en première mondiale le 05.01.2022 et les livraisons ont commencé en August 2024. Ce modèle est uniquement disponible en Amérique du Nord.
 
 ### Tarification
 
@@ -270,7 +270,10 @@ Dans le marché en pleine expansion des véhicules électriques, EVKX.net a iden
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="GMC Sierra EV" f_url="rangeandconsumption/" f_title="Plage" >}}

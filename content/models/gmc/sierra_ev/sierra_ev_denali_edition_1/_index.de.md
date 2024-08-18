@@ -248,15 +248,15 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 303 Litern (10,7 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 4763 kg (10501 lbs) bei einem Leergewicht von 4076 kg (8986 lbs). Dies ermöglicht eine maximale Zuladung von 687 kg (1515 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 4763 kg (10501 lbs) bei einem Leergewicht von 4536 kg (10000 lbs). Dies ermöglicht eine maximale Zuladung von 227 kg (500 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 4536 kg (10000 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 4309 kg (9500 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/trunk_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
 ## Verfügbarkeit & Preise
 
-Der GMC Sierra EV Denali Edition 1 feierte seine Weltpremiere am 05.01.2022, mit Lieferungen ab July 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
+Der GMC Sierra EV Denali Edition 1 feierte seine Weltpremiere am 05.01.2022, mit Lieferungen ab August 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in Nordamerika erhältlich ist.
 
 ### Preise
 
@@ -270,7 +270,10 @@ Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum GMC Sierra 
 
 - [Tesla Cybertruck AWD](/models/tesla/cybertruck/cybertruck_awd/)
 - [Tesla Cybertruck Cyberbeast](/models/tesla/cybertruck/cybertruck_cyberbeast/)
+- [Ford F150 Lightning Extended Range](/models/ford/f150_lightning/f150_lightning_extended_range/)
+- [Chevrolet Silverado EV SRT](/models/chevrolet/silverado_ev/silverado_ev_srt/)
+- [GMC Hummer EV Edition 1 Pickup](/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/)
 
-<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+<a href="https://db.evkx.net/evcompare?evs=f42762%2c200659%2c7d7ccc%2c4cc60f%2c6aa33e%2c67ff00" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="GMC Sierra EV" f_url="rangeandconsumption/" f_title="Reichweite" >}}
