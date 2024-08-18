@@ -48,9 +48,9 @@ Das  Onboard-Ladegerät unterstützt bis zu 19,2 kW für Level 1 und Level 2 AC-
 
 Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
-### V2L - Fahrzeug zu Last
+### Bidirektionales Laden
 
-Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 10,2 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge. Steckdosen sind im Laderaum, im Frunk und in der Kabine verfügbar.
+Dieses Modell unterstützt sowohl V2L (Vehicle to Load) als auch V2H (Vehicle to Home) Funktionen. V2L ermöglicht es Ihnen, elektrische Geräte mit bis zu 10,2 kW Leistung zu versorgen, einschließlich der Möglichkeit, andere Fahrzeuge aufzuladen. V2H ermöglicht es dem Auto, als Notstromquelle für Ihr Zuhause zu dienen. Steckdosen sind im Laderaum, im Frunk und in der Kabine verfügbar. Beachten Sie, dass V2H spezielle Ausrüstung in Ihrem Zuhause erfordert.
 
 {{<evkxdisplayaddarticle />}}
 

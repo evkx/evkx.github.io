@@ -48,7 +48,7 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/charging/connectors/#rear-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
 
-### V2L - Køretøj der skal indlæses
+### Bidirektionel opladning
 
 Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 11,5 kW effekt, inklusive opladning af andre køretøjer. Der er tilgængelige stikkontakter både på ladet og i kabinen.
 

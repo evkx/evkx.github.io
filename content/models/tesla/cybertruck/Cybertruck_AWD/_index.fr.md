@@ -48,7 +48,7 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
 
-### V2L - Véhicule à charger
+### Recharge bidirectionnelle
 
 Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 11,5 kW de puissance, y compris charger d'autres véhicules. Des prises sont disponibles à la fois sur la surface de chargement et dans la cabine.
 

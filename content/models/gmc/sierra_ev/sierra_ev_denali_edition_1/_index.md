@@ -48,9 +48,9 @@ The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging.
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
-### V2L - Vehichle to load
+### Bidirectoral charging
 
-This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. Sockets are available in the cargo bed, the frunk, and the cabin.
+This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. Sockets are available in the cargo bed, the frunk, and the cabin. Note that V2H requires specialized equipment in your home.
 
 {{<evkxdisplayaddarticle />}}
 

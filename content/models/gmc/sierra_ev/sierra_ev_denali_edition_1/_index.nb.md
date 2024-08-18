@@ -48,9 +48,9 @@ Den standard ombordladeren støtter opptil 19,2 kW for Level 1 og Level 2 AC-lad
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
-### V2L - Vehichle to load
+### Toveis lading
 
-Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 10,2 kW strøm, inkludert lading av andre kjøretøy. Stikkontakter er tilgjengelige i lasterommet, frunken og kabinen.
+Denne modellen støtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funksjonaliteter. V2L lar deg drive elektrisk utstyr som krever opptil 10,2 kW strøm, inkludert muligheten til å lade andre kjøretøy. V2H gjør det mulig for bilen å fungere som en backup strømkilde for hjemmet ditt. Stikkontakter er tilgjengelige i lasterommet, frunken og kabinen. Merk at V2H krever spesialutstyr i hjemmet ditt.
 
 {{<evkxdisplayaddarticle />}}
 

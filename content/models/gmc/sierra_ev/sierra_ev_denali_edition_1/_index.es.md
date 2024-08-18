@@ -48,9 +48,9 @@ El cargador a bordo estándar soporta hasta 19,2 kW para carga AC de Nivel 1 y N
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
-### V2L - Vehículo a cargar
+### Carga bidireccional
 
-Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 10,2 kW de potencia, incluida la carga de otros vehículos. Hay enchufes disponibles en la caja de carga, el frunk y la cabina.
+Este modelo admite tanto V2L (Vehicle to Load) como V2H (Vehicle to Home). V2L le permite alimentar equipos eléctricos que requieren hasta 10,2 kW de potencia, incluida la capacidad de cargar otros vehículos. V2H permite que el automóvil sirva como fuente de energía de respaldo para su hogar. Hay enchufes disponibles en la caja de carga, el frunk y la cabina. Tenga en cuenta que V2H requiere equipo especializado en su hogar.
 
 {{<evkxdisplayaddarticle />}}
 
