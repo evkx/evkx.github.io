@@ -56,7 +56,11 @@ GMC Sierra EV Denali Edition 1 tiene un sistema de tracción total sostenido por
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 176 mm y la máxima es 278 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 176 mm y la máxima es 278 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el GMC Sierra EV Denali Edition 1. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
 
@@ -81,6 +85,8 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
+
+Las ventanas del pilar B y la parte trasera están tintadas.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
@@ -146,8 +152,8 @@ El GMC Sierra EV Denali Edition 1 tiene pantallas gemelas con información para 
 
 Detalles clave de la pantalla:
 
-- La  pantalla detrás del volante montado en el tablero mide 12,0 pulgadas de tamaño
-- La  pantalla en el centro del tablero mide 15,5 pulgadas de tamaño
+- La  pantalla detrás del volante montado en el tablero mide 11,0 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 16,8 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
@@ -209,17 +215,27 @@ El GMC Sierra EV Denali Edition 1 incluye varios [sistemas avanzados de asistenc
 
 [**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema evita que las ruedas se bloqueen durante el frenado.
 
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el GMC Sierra EV Denali Edition 1, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el GMC Sierra EV Denali Edition 1, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
-GMC Sierra EV Denali Edition 1 ofrece [automatización de la conducción en nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
-
-Con el sistema Super Cruise  de nivel 1, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras
 
@@ -230,9 +246,9 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-La caja del camión ofrece una capacidad de carga de 1039 litros. Tiene un ancho de 1286 mm  y una longitud de 1803 mm, con un peso máximo de carga de 614 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
+Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 303 litros.
 
-El peso máximo del vehículo es 4763 kg, con un peso base de 4063 kg. Esto permite una carga máxima de 700 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 4763 kg, con un peso base de 4076 kg. Esto permite una carga máxima de 687 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 4536 kg, mientras que para un tráiler sin freno es de 750 kg.
 

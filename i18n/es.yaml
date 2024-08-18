@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-c81beaa5
+  translation: GMC Sierra EV Denali Edition 1 es una camioneta totalmente eléctrica con un EPA alcance de hasta 708 km (440 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-a859ed65
   translation: GMC Hummer EV SUV 2x es un SUV totalmente eléctrico con una autonomía EPA de hasta 48 km (30 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-51783471
   translation: Rivian R1S Dual-Motor AWD SP es un SUV premium totalmente eléctrico con una EPA autonomía de hasta 434 km (270 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-8839c318
-  translation: Ford Capri Extended Range AWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 592 km (368 millas). EVKX.net tiene todos los detalles.
 

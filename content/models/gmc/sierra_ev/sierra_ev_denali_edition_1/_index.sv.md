@@ -56,7 +56,11 @@ GMC Sierra EV Denali Edition 1 har ett fyrhjulsdriftsystem som stöds av två mo
 
 ### Hjulupphängning
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 176 mm, och maximal är 278 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 176 mm, och maximal är 278 mm.
+
+### Styrning
+
+Dynamisk styrning är standard-funktionen för GMC Sierra EV Denali Edition 1. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
 
@@ -81,6 +85,8 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
+
+B-stolpen och vyerna bak är tonade.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
@@ -146,8 +152,8 @@ GMC Sierra EV Denali Edition 1 har två skärmar med information för föraren o
 
 Viktiga skärmdetaljer:
 
-- Skärmen  bakom ratten monterad i instrumentbrädan är 12,0 tum
-- Skärmen  i mitten av instrumentbrädan är 15,5 tum
+- Skärmen  bakom ratten monterad i instrumentbrädan är 11,0 tum
+- Skärmen  i mitten av instrumentbrädan är 16,8 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
@@ -209,17 +215,27 @@ GMC Sierra EV Denali Edition 1 inkluderar flera [avancerade förarassistanssyste
 
 [**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på GMC Sierra EV Denali Edition 1, detta system förhindrar att hjulen låser sig under bromsning.
 
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på GMC Sierra EV Denali Edition 1, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på GMC Sierra EV Denali Edition 1, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på GMC Sierra EV Denali Edition 1, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på GMC Sierra EV Denali Edition 1, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på GMC Sierra EV Denali Edition 1, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på GMC Sierra EV Denali Edition 1, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på GMC Sierra EV Denali Edition 1, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
-GMC Sierra EV Denali Edition 1 erbjuder [körautomatisering på nivå 1](../../../../technology/driverassistance/#level-of-autonomous-driving), beroende på utrustningsnivå.
-
-Med Super Cruise  nivå 1-systemet får du följande funktioner för körautomatisering.
+Med Super Cruise  nivå 2-systemet får du följande funktioner för körautomatisering.
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror
 
@@ -230,9 +246,9 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Lastutrymmet i flaket erbjuder en lastkapacitet på 1039 liter. Det har en bredd på 1286 mm och en längd på 1803 mm, med en maximal lastvikt på 614 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 303 liter.
+Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 303 liter.
 
-Fordonets maximala vikt är 4763 kg, med en grundvikt på 4063 kg. Detta tillåter en maximal last på 700 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 4763 kg, med en grundvikt på 4076 kg. Detta tillåter en maximal last på 687 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 4536 kg, medan för en obromsad släpvagn är den 750 kg.
 

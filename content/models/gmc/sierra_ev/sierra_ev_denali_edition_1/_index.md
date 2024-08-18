@@ -56,7 +56,11 @@ The GMC Sierra EV Denali Edition 1 features an all-wheel drive system powered by
 
 ### Suspension
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 176 mm, and the maximum is 278 mm.
+
+### Steering
+
+Dynamic steering is a standard on the GMC Sierra EV Denali Edition 1, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -81,6 +85,8 @@ You can select from multiple wheel designs, all available in the same size, on t
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/exterior_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1920" height="1080"  >}}
 
@@ -146,8 +152,8 @@ The GMC Sierra EV Denali Edition 1 has twin screens with information for the dri
 
 Key screen details:
 
-- The  screen behind the steering wheel mounted into the dashboard is 12.0 inches large
-- The  screen on the dashboard's center is 15.5 inches large
+- The  screen behind the steering wheel mounted into the dashboard is 11.0 inches large
+- The  screen on the dashboard's center is 16.8 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
@@ -209,17 +215,27 @@ The GMC Sierra EV Denali Edition 1 features a range of standard and optional [ad
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the GMC Sierra EV Denali Edition 1, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the GMC Sierra EV Denali Edition 1, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the GMC Sierra EV Denali Edition 1, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the GMC Sierra EV Denali Edition 1, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the GMC Sierra EV Denali Edition 1, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the GMC Sierra EV Denali Edition 1, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the GMC Sierra EV Denali Edition 1, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the GMC Sierra EV Denali Edition 1, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
-The GMC Sierra EV Denali Edition 1 offers [driving automation at level 1](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
-
-With the Super Cruise  level 1 system, you get the following driving automation features.
+With the Super Cruise  level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras
 
@@ -230,9 +246,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The truck bed offers a cargo capacity of 1039 liters (36.7 CU FT). It has a width of 1286 mm (50.6 inches) and a length of 1803 mm  (71.0 inches), with a maximum load weight of 614 kg (1353.6 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
+Additionally, there is a frunk (front trunk) with a storage capacity of 303 liters (10.7 CU FT).
 
-The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4063 kg (8957 lbs). This allows for a maximum load of 700 kg (1543 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 4763 kg (10501 lbs), with a base weight of 4076 kg (8986 lbs). This allows for a maximum load of 687 kg (1515 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 4536 kg (10000 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 

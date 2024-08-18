@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-c81beaa5
+  translation: GMC Sierra EV Denali Edition 1 er en fuldelektrisk pickup med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-a859ed65
   translation: GMC Hummer EV SUV 2x er en fuldelektrisk SUV med en rækkevidde på EPA på op til 48 km (30 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-51783471
   translation: Rivian R1S Dual-Motor AWD SP er en fuldelektrisk premium-SUV med en rækkevidde på EPA på op til 434 km (270 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-8839c318
-  translation: Ford Capri Extended Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 592 km (368 miles). EVKX.net har alle detaljerne.
 
