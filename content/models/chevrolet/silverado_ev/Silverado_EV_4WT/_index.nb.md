@@ -68,9 +68,11 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser og **Creep-modus** beveger bilen sakte fremover.
 
-Den maksimale regenerative effekten er 400 kW.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes tre nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+
+Den maksimale regenerative effekten er 250 kW.
 
 ## Eksteriør
 

@@ -68,7 +68,9 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes and **Creep mode** moves the car forward at low speed.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 400 kW.
 
