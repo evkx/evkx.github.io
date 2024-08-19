@@ -48,6 +48,10 @@ The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging.
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectoral charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -59,6 +63,8 @@ The Chevrolet Silverado EV 3WT features an all-wheel drive system powered by two
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 227 mm.
 
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -76,7 +82,9 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
-There is only one roof option for this model.
+There is only one roof option for this model. The standard is just a regular roof.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -92,7 +100,7 @@ The Chevrolet Silverado EV 3WT accommodates five passengers with two front seats
 
 The Chevrolet Silverado EV 3WT offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
 - Height adjustable headrest
 
@@ -129,6 +137,8 @@ The Chevrolet Silverado EV 3WT includes several features to enhance comfort and 
 
 ## User Interface and Control
 
+The control interface for the Chevrolet Silverado EV 3WT combines buttons, stalks, and screens for a seamless and user-friendly experience.
+
 The Chevrolet Silverado EV 3WT has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
 Key screen details:
@@ -151,6 +161,8 @@ The Chevrolet Silverado EV 3WT is equipped with a single type of steering wheel:
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
+
+The Chevrolet Silverado EV 3WT features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
 
 ### Navigation System
 
@@ -176,6 +188,17 @@ The Chevrolet Silverado EV 3WT comes equipped with one sound system option:
 
 Additionally, the model includes 4 USB-C connections as standard.
 
+## Mobile App
+
+The Chevrolet Silverado EV 3WT comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+
 ## Lights
 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
@@ -190,7 +213,15 @@ The Chevrolet Silverado EV 3WT features a range of standard and optional [advanc
 
 [**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Chevrolet Silverado EV 3WT, this system prevents the wheels from locking during braking.
 
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Chevrolet Silverado EV 3WT, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Chevrolet Silverado EV 3WT, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Chevrolet Silverado EV 3WT, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Chevrolet Silverado EV 3WT, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Chevrolet Silverado EV 3WT, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Chevrolet Silverado EV 3WT, this side assist system helps to detect traffic in blind spots.
 
@@ -201,6 +232,11 @@ The Chevrolet Silverado EV 3WT offers [driving automation at level 1](../../../.
 With the Super Cruise  level 1 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

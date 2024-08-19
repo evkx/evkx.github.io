@@ -109,7 +109,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Der Chevrolet Silverado EV SRT verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl verbessert und von hochwertigen Materialien in allen wichtigen Bereichen umgeben ist. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
+Der Chevrolet Silverado EV SRT verfügt über ein fahrerorientiertes Interieur, das das Cockpit-Gefühl mit hochwertigen Materialien in mehreren Bereichen anstelle von Hartplastik verbessert. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
 
 ### Sitze
 

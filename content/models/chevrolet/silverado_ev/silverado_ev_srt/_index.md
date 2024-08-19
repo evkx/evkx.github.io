@@ -109,7 +109,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The Chevrolet Silverado EV SRT features a driver-centric interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+The Chevrolet Silverado EV SRT boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 

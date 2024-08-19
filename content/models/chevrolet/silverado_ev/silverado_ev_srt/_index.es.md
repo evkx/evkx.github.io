@@ -109,7 +109,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-El Chevrolet Silverado EV SRT cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
+El Chevrolet Silverado EV SRT cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de alta calidad en varias áreas en lugar de plástico duro. También incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento conveniente y funcionalidad.
 
 ### Asientos
 

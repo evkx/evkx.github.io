@@ -56,7 +56,7 @@ Chevrolet Equinox EV ist ein SUV, der in 2 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV ist ein Pickup-Truck, der in 2 Varianten erhältlich ist.
+Chevrolet Silverado EV ist ein Pickup-Truck, der in 3 Varianten erhältlich ist.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

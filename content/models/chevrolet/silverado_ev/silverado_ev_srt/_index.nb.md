@@ -109,7 +109,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Chevrolet Silverado EV SRT har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
+Chevrolet Silverado EV SRT har et førerfokusert interiør som forbedrer cockpitfølelsen med materialer av høy kvalitet i flere områder i stedet for hard plast. Det inkluderer også en tradisjonell midtkonsoll som skiller fører og passasjer, og som gir praktisk oppbevaring og funksjonalitet.
 
 ### Seter
 
