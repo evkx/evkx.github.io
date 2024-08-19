@@ -56,7 +56,7 @@ Chevrolet Equinox EV est un SUV disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV est une camionnette disponible en 3 variantes.
+Chevrolet Silverado EV est une camionnette disponible en 2 variantes.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

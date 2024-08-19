@@ -56,7 +56,7 @@ Chevrolet Equinox EV er en SUV tilgængelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Chevrolet Silverado EV er en pickup truck tilgængelig i 3 varianter.
+Chevrolet Silverado EV er en pickup truck tilgængelig i 2 varianter.
 </p>
 	<a href="silverado_ev/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

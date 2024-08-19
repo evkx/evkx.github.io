@@ -261,7 +261,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 	<a href="chevrolet/"><img src="https://media.evkx.net/multimedia/models/chevrolet/brandevs_st.jpg" class="img-fluid mb-2" alt="Chevrolet" ></a>
 	<h2>Chevrolet</h2>
 	<p>
-	Chevrolet har 3 modell(er) med totalt 7 varianter.
+	Chevrolet har 3 modell(er) med totalt 6 varianter.
 	</p>
 	<a href="chevrolet/" class="btn btn-outline-primary" role="button">Gå til Chevrolet modelloversikt</a>
 </div>
