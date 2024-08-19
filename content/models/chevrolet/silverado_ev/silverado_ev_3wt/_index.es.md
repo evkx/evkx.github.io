@@ -124,7 +124,6 @@ El Chevrolet Silverado EV 3WT incluye varias características para mejorar la co
 
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
-- **Volante ajustable eléctricamente**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +144,7 @@ El modelo no tiene head-up display.
 
 El Chevrolet Silverado EV 3WT está equipado con un solo tipo de volante:
 
-- **Volante Circular**: Este volante cuenta con calefacción integrada para mayor comodidad en climas fríos. También ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
+- **Volante Circular**: Este volante ofrece un control intuitivo del sistema de infoentretenimiento, lo que te permite ajustar el volumen, cambiar de pista musical y gestionar otras funciones clave con facilidad.
 
 ### Espejos
 

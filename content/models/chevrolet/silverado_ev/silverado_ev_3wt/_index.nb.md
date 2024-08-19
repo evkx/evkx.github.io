@@ -124,7 +124,6 @@ Chevrolet Silverado EV 3WT inkluderer flere funksjoner for å forbedre komfort o
 
 - **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
-- **Elektrisk justerbart ratt**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +144,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 Chevrolet Silverado EV 3WT er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det gir også intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
+- **Sirkulært Ratt**: Dette rattet gir intuitiv kontroll over infotainmentsystemet, slik at du enkelt kan justere volumet, bytte musikksport og håndtere andre viktige funksjoner.
 
 ### Speil
 

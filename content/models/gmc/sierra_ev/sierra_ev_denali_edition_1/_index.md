@@ -52,6 +52,8 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. Sockets are available in the cargo bed, the frunk, and the cabin. Note that V2H requires specialized equipment in your home.
 
+{{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1280" height="1056"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain

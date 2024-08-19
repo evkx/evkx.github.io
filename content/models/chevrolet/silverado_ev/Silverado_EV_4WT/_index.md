@@ -30,7 +30,7 @@ The Chevrolet Silverado EV 4WT delivers a solid performance with a maximum power
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 240.0 kWh and a net usable capacity of 215.0 kWh, providing a 25.0 kWh buffer (10.4%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 450 miles (724 km) with an energy consumption rate of 2.1 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -59,6 +59,8 @@ The Chevrolet Silverado EV 4WT features an all-wheel drive system powered by two
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 227 mm.
 
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 368 mm, while the rear discs are 345 mm.
 
 ### Regenerative Braking
 
@@ -176,6 +178,17 @@ The Chevrolet Silverado EV 4WT comes equipped with one sound system option:
 - **Chevrolet Sound System:** Features six speakers and delivers a maximum output of 200 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
+
+## Mobile App
+
+The Chevrolet Silverado EV 4WT comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Locate Your Vehicle:** Easily check the current location of your car.
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Find Your Car:** Trigger the horn or lights to help find your car in crowded areas.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights
 

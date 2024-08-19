@@ -52,6 +52,8 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Denna modell stöder både V2L (Vehicle to Load) och V2H (Vehicle to Home) funktioner. V2L gör det möjligt att driva elektrisk utrustning som kräver upp till 10,2 kW effekt, inklusive möjligheten att ladda andra fordon. V2H gör det möjligt för bilen att fungera som en reservkraftkälla för ditt hem. Uttag finns tillgängliga i lastutrymmet, frunken och hytten. Observera att V2H kräver specialutrustning i ditt hem.
 
+{{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1280" height="1056"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina

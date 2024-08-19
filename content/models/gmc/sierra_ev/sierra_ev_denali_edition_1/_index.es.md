@@ -52,6 +52,8 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Este modelo admite tanto V2L (Vehicle to Load) como V2H (Vehicle to Home). V2L le permite alimentar equipos eléctricos que requieren hasta 10,2 kW de potencia, incluida la capacidad de cargar otros vehículos. V2H permite que el automóvil sirva como fuente de energía de respaldo para su hogar. Hay enchufes disponibles en la caja de carga, el frunk y la cabina. Tenga en cuenta que V2H requiere equipo especializado en su hogar.
 
+{{< sitefiguresized thumb="models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1_st.jpg" title="GMC Sierra EV Denali Edition 1" width="1280" height="1056"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión

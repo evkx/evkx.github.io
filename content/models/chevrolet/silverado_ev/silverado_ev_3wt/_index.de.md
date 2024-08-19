@@ -124,7 +124,6 @@ Der Chevrolet Silverado EV 3WT umfasst mehrere Funktionen, um Komfort und Bequem
 
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
-- **Elektrisch verstellbares Lenkrad**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +144,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Chevrolet Silverado EV 3WT ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 

@@ -124,7 +124,6 @@ The Chevrolet Silverado EV 3WT includes several features to enhance comfort and 
 
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
-- **Electrically Adjustable Steering Wheel**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -145,7 +144,7 @@ The model does not include a head-up display.
 
 The Chevrolet Silverado EV 3WT is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 

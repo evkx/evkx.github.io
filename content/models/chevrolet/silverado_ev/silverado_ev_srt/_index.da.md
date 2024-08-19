@@ -34,9 +34,9 @@ Det højkapacitetsbatteri har en bruttokapacitet på 240,0 kWh og en nettoanvend
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 708 km med en energiforbrugsrate på 30,4 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 140 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 49 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 52%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 245kW. Hver opladningssession ville tage 27 minutter og 51 sekunder. Denne effektive opladningskapacitet gør Chevrolet Silverado EV SRT til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 350kW. En fuld opladning fra 0 - 100 % ville tage 83 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 253kW. Hver opladningssession ville tage 29 minutter og 1 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Chevrolet Silverado EV SRT til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 38 kWh/100 km, ville turen tage cirka 9 timer og 1 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 40%, med en samlet opladningstid på 42 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 38 kWh/100 km, ville turen tage cirka 9 timer og 0 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 40%, med en samlet opladningstid på 40 minutter
 
 ### Ombordlader
 

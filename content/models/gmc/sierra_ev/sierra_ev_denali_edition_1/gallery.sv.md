@@ -234,6 +234,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1.jpg"
+data-pswp-width="1280"
+data-pswp-height="1056" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/v2l_1_xst.jpg" alt="GMC Sierra EV Denali Edition 1" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/wheels_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/gmc/sierra_ev/sierra_ev_denali_edition_1/wheels_1.jpg"
 data-pswp-width="2000"
