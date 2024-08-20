@@ -94,6 +94,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The Chevrolet Silverado EV 4WT boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+
 ### Seats
 
 The Chevrolet Silverado EV 4WT accommodates five passengers with two front seats and a three-seat bench in the rear.

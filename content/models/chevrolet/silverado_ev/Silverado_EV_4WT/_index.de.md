@@ -94,6 +94,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
+Der Chevrolet Silverado EV 4WT verfügt über ein fahrerzentriertes Interieur, das das Cockpit-Gefühl mit Materialien mittlerer Qualität verstärkt. Es umfasst auch eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet.
+
 ### Sitze
 
 Der Chevrolet Silverado EV 4WT bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.

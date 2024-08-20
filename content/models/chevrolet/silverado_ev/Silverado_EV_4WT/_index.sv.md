@@ -94,6 +94,8 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+Chevrolet Silverado EV 4WT har en förarfokuserad interiör som förbättrar cockpitkänslan med material av medelkvalitet som används överallt. Den inkluderar också en traditionell mittkonsol som separerar föraren och passageraren, vilket ger praktisk förvaring och funktionalitet.
+
 ### Säten
 
 Chevrolet Silverado EV 4WT rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.

@@ -94,6 +94,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El Chevrolet Silverado EV 3WT cuenta con un interior centrado en el conductor, mejorando la sensación de cabina con materiales de calidad media utilizados en todo el vehículo. También incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes.
+
 ### Asientos
 
 El Chevrolet Silverado EV 3WT tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.

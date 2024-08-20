@@ -94,6 +94,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+Chevrolet Silverado EV 3WT har et førerfokusert interiør som forbedrer cockpitfølelsen med materialer av middels kvalitet brukt overalt. Den inkluderer også en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
+
 ### Seter
 
 Chevrolet Silverado EV 3WT har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
