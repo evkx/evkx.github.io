@@ -596,7 +596,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +612,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +620,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -644,7 +644,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +652,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -668,7 +668,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -708,7 +708,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1092,6 +1092,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				En navegación del coche
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1145,7 +1146,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 		</tr>
 
-### High Performance
+### Premium Sound System
 
 <table class="table table-striped border">
 	<thead>
@@ -1164,7 +1165,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Número de altavoces
 			</td>
 			<td>
-				8
+				14
 			</td>
 		</tr>
 		<tr>

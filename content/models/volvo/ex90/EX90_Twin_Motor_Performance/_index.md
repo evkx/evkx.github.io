@@ -56,6 +56,8 @@ The Volvo EX90 Twin Motor Performance features an all-wheel drive system powered
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 188 mm, and the maximum is 248 mm.
 
+For easier loading, you can lower the air suspension from the rear
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 400 mm, while the rear discs are 390 mm.
@@ -77,7 +79,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is a standard function for the side doors.
 
-There is only one roof option for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
+There is only one roof option for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -99,11 +101,11 @@ The Volvo EX90 Twin Motor Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
+- Electric adjustment
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
@@ -171,11 +173,21 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The Volvo EX90 Twin Motor Performance features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Volvo has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Volvo driving experience.
+
+### Navigation System
+
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
 ### Sound System
 
 You can choose between two sound systems for the Volvo EX90 Twin Motor Performance:
 
-- **High Performance:** Features eight speakers and delivers a maximum output of 200 watts.
+- **Premium Sound System:** Features 14 speakers and delivers a maximum output of 200 watts.
 - **Bowers & Wilkins:** Features 25 speakers and delivers a maximum output of 1610 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
