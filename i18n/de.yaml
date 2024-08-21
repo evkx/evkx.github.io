@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-cb090444
+  translation: Audi Q6 e-tron ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 533 km (331 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-c81beaa5
   translation: GMC Sierra EV Denali Edition 1 ist ein vollelektrischer Pickup-Truck mit einer Reichweite von bis zu 708 km (440 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda ist ein vollelektrisches Crossover mit einer Reichweite von bis zu 320 km (199 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-51783471
-  translation: Rivian R1S Dual-Motor AWD SP ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 434 km (270 Meilen). EVKX.net hat alle Details.
 

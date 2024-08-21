@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-cb090444
+  translation: Audi Q6 e-tron er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 533 km (331 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-c81beaa5
   translation: GMC Sierra EV Denali Edition 1 er en fuldelektrisk pickup med en EPA rækkevidde på op til 708 km (440 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda er en fuldelektrisk crossover med en WLTP rækkevidde på op til 320 km (199 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-51783471
-  translation: Rivian R1S Dual-Motor AWD SP er en fuldelektrisk premium-SUV med en rækkevidde på EPA på op til 434 km (270 miles). EVKX.net har alle detaljerne.
 

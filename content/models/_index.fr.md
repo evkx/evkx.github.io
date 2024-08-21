@@ -222,7 +222,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 		Audi est un constructeur automobile allemand qui fait partie du groupe Volkswagen. Elle est connue pour ses véhicules haut de gamme et sportifs, ainsi que pour son slogan « Vorsprung durch Technik », qui signifie « Le progrès grâce à la technologie ».
 	</p>
 	<p>
-	Audi a 6 modèles avec un total de 41 variantes.
+	Audi a 6 modèles avec un total de 42 variantes.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Aller à la Audi présentation du modèle EV</a>
 </div>
