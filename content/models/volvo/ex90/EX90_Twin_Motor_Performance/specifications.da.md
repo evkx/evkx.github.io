@@ -556,7 +556,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 ## Interiør
 
-Denne model er tilgængelig med en sædekonfiguration med fem sæder.
+Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 
 ### Forsæder
 
@@ -708,7 +708,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Valgfri funktion
 			</td>
 		</tr>
 		<tr>

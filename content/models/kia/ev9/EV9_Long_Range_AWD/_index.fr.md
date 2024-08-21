@@ -90,6 +90,8 @@ Il existe un type de siège que vous pouvez sélectionner dans différents maté
 
 ### Sièges
 
+Kia EV9 Long Range AWD est disponible en configuration six ou sept sièges pour plus de polyvalence.
+
 #### Sièges de première rangée
 
 Le Kia EV9 Long Range AWD propose un seul type de siège avant.

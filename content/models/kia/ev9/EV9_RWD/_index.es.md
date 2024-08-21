@@ -90,6 +90,8 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
+Kia EV9 RWD está disponible en una configuración de seis o siete asientos para mayor versatilidad.
+
 #### Asientos de primera fila
 
 El Kia EV9 RWD ofrece un único tipo de asiento delantero.

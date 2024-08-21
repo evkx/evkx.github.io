@@ -202,10 +202,6 @@ El sistema de infoentretenimiento incluye una App Store donde puedes descargar a
 - The Weather Channel
 - Audiobooks.com
 
-### Espejo del teléfono
-
-Además, el GMC Sierra EV Denali Edition 1 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el GMC Sierra EV Denali Edition 1.

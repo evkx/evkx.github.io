@@ -92,6 +92,8 @@ B-stolpen och vyerna bak är tonade.
 
 ### Säten
 
+Volkswagen ID. Buzz GTX LWB finns tillgänglig i en sex- eller sjusitsig layout för ökad mångsidighet.
+
 #### Framsäten
 
 För första raden erbjuder Volkswagen ID. Buzz GTX LWB två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.

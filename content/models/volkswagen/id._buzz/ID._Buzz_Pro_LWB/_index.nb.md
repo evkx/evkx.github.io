@@ -94,6 +94,8 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ### Seter
 
+Volkswagen ID. Buzz Pro LWB er tilgjengelig i en seks- eller sjuseters layout for økt allsidighet.
+
 #### Forseter
 
 For første rad tilbyr Volkswagen ID. Buzz Pro LWB to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.

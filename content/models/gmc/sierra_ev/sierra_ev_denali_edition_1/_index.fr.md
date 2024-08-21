@@ -202,10 +202,6 @@ Le système d'infodivertissement comprend un App Store où vous pouvez télécha
 - The Weather Channel
 - Audiobooks.com
 
-### Réplication du téléphone
-
-De plus, le GMC Sierra EV Denali Edition 1 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 ### Système audio
 
 Un type de système audio est disponible pour le GMC Sierra EV Denali Edition 1.

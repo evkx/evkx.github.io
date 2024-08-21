@@ -93,7 +93,7 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
-Volvo EX90 Twin Motor Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+Volvo EX90 Twin Motor Performance fås i en seks- eller syvsæders layout for øget alsidighed.
 
 #### Første række sæder
 
@@ -106,6 +106,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
@@ -133,7 +134,7 @@ Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du fol
 
 Der er et tilgængeligt klimasystem.
 
-- **5-zone klimaanlæg:** Understøtter forskellige temperaturer i fem zoner. Føreren, passageren og to zoner i 2. række og en i 3. række.
+- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 

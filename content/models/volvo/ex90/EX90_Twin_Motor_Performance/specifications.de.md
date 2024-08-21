@@ -556,7 +556,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 
 ## Innenraum
 
-Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
+Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhältlich.
 
 ### Vordersitze
 
@@ -708,7 +708,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Nicht verfügbar
+				Optionale Ausstattung
 			</td>
 		</tr>
 		<tr>

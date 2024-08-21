@@ -93,7 +93,7 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
-Der Volvo EX90 Twin Motor Performance bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
+Volvo EX90 Twin Motor Performance ist in einer Sechs- oder Siebensitzer-Konfiguration für zusätzliche Vielseitigkeit erhältlich.
 
 #### Vordersitze
 
@@ -106,6 +106,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Verfügbar in:
@@ -133,7 +134,7 @@ Die dritte Reihe hat eine optionale Zweiersitzbank mit einer 50:50-Teilung. Auch
 
 Es gibt ein Klimasystem verfügbar:
 
-- **5-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen in fünf Zonen. Der Fahrer, Beifahrer und zwei Zonen in der 2. Reihe und eine in der 3. Reihe.
+- **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 

@@ -90,6 +90,8 @@ Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
+Kia EV9 Long Range AWD fås i en seks- eller syvsæders layout for øget alsidighed.
+
 #### Første række sæder
 
 Kia EV9 Long Range AWD tilbyder kun én type forreste sæde.

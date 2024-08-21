@@ -93,7 +93,7 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
-The Volvo EX90 Twin Motor Performance accommodates five passengers with two front seats and a three-seat bench in the rear.
+Volvo EX90 Twin Motor Performance is available in a six or seven-seat layout for added versatility.
 
 #### First Row Seats
 
@@ -106,6 +106,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
@@ -133,7 +134,7 @@ The third row has an optional two-seat bench with a 50:50 split. Again, you can 
 
 There is one climate system available:
 
-- **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
+- **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 

@@ -94,6 +94,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ### Sæder
 
+Volkswagen ID. Buzz Pro LWB fås i en seks- eller syvsæders layout for øget alsidighed.
+
 #### Første række sæder
 
 For første række tilbyder Volkswagen ID. Buzz Pro LWB to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.

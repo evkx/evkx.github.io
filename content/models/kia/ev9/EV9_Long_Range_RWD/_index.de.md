@@ -90,6 +90,8 @@ Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
+Kia EV9 Long Range RWD ist in einer Sechs- oder Siebensitzer-Konfiguration für zusätzliche Vielseitigkeit erhältlich.
+
 #### Vordersitze
 
 Der Kia EV9 Long Range RWD bietet nur einen Typ von Vordersitz.

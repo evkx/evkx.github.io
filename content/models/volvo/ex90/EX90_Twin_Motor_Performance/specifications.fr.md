@@ -556,7 +556,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Intérieur
 
-Ce modèle est disponible avec une configuration de sièges à cinq places.
+Ce modèle est disponible avec une configuration de sièges à six ou sept places.
 
 ### Sièges avant
 
@@ -708,7 +708,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité facultative
 			</td>
 		</tr>
 		<tr>

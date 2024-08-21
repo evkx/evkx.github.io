@@ -112,6 +112,8 @@ There is only one roof option for this model. The standard roof has a large pano
 
 ### Seats
 
+Nio ES8 is available in a six or seven-seat layout for added versatility.
+
 #### First Row Seats
 
 The Nio ES8 offers a single type of front seat.

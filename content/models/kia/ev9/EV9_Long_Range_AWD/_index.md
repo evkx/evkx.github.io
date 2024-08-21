@@ -90,6 +90,8 @@ There is one seat type you can select in different materials.
 
 ### Seats
 
+Kia EV9 Long Range AWD is available in a six or seven-seat layout for added versatility.
+
 #### First Row Seats
 
 The Kia EV9 Long Range AWD offers a single type of front seat.

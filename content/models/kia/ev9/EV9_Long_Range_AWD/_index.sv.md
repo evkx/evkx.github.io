@@ -90,6 +90,8 @@ Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
+Kia EV9 Long Range AWD finns tillgänglig i en sex- eller sjusitsig layout för ökad mångsidighet.
+
 #### Framsäten
 
 Kia EV9 Long Range AWD erbjuder endast en typ av framsäte.

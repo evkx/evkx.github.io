@@ -92,6 +92,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ### Seats
 
+Volkswagen ID. Buzz GTX LWB is available in a six or seven-seat layout for added versatility.
+
 #### First Row Seats
 
 The front row offers two seat types to cater to various comfort and style preferences:

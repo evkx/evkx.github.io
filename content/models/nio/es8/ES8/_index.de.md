@@ -112,6 +112,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes
 
 ### Sitze
 
+Nio ES8 ist in einer Sechs- oder Siebensitzer-Konfiguration für zusätzliche Vielseitigkeit erhältlich.
+
 #### Vordersitze
 
 Der Nio ES8 bietet nur einen Typ von Vordersitz.

@@ -112,6 +112,8 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 ### Säten
 
+Nio ES8 finns tillgänglig i en sex- eller sjusitsig layout för ökad mångsidighet.
+
 #### Framsäten
 
 Nio ES8 erbjuder endast en typ av framsäte.

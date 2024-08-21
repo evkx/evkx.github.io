@@ -112,6 +112,8 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 ### Asientos
 
+Nio ES8 está disponible en una configuración de seis o siete asientos para mayor versatilidad.
+
 #### Asientos de primera fila
 
 El Nio ES8 ofrece un único tipo de asiento delantero.

@@ -93,7 +93,7 @@ Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
-El Volvo EX90 Twin Motor Performance tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+Volvo EX90 Twin Motor Performance está disponible en una configuración de seis o siete asientos para mayor versatilidad.
 
 #### Asientos de primera fila
 
@@ -106,6 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -133,7 +134,7 @@ La tercera fila tiene un banco de dos asientos opcional con una división 50:50.
 
 Hay un sistema climático disponible.
 
-- **Sistema de climatización de 5 zonas:** Soporta diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila.
+- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 

@@ -112,6 +112,8 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 ### Sæder
 
+Nio ES8 fås i en seks- eller syvsæders layout for øget alsidighed.
+
 #### Første række sæder
 
 Nio ES8 tilbyder kun én type forreste sæde.

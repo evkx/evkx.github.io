@@ -202,10 +202,6 @@ The infotainment system includes an App Store where you can download third-party
 - The Weather Channel
 - Audiobooks.com
 
-### Phone Mirroring
-
-The GMC Sierra EV Denali Edition 1 supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
-
 ### Sound System
 
 The GMC Sierra EV Denali Edition 1 comes equipped with one sound system option:

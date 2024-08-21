@@ -90,6 +90,8 @@ Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
+Kia EV9 GT-Line AWD er tilgjengelig i en seks- eller sjuseters layout for økt allsidighet.
+
 #### Forseter
 
 Kia EV9 GT-Line AWD Long Range tilbyr kun én type forsete.

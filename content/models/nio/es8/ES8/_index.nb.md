@@ -112,6 +112,8 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 ### Seter
 
+Nio ES8 er tilgjengelig i en seks- eller sjuseters layout for økt allsidighet.
+
 #### Forseter
 
 Nio ES8 Long Range tilbyr kun én type forsete.

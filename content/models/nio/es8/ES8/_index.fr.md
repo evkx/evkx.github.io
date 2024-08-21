@@ -112,6 +112,8 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 ### Sièges
 
+Nio ES8 est disponible en configuration six ou sept sièges pour plus de polyvalence.
+
 #### Sièges de première rangée
 
 Le Nio ES8 propose un seul type de siège avant.

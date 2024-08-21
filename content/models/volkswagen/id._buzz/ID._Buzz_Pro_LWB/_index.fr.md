@@ -94,6 +94,8 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ### Sièges
 
+Volkswagen ID. Buzz Pro LWB est disponible en configuration six ou sept sièges pour plus de polyvalence.
+
 #### Sièges de première rangée
 
 Pour la première rangée, l'Volkswagen ID. Buzz Pro LWB propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..

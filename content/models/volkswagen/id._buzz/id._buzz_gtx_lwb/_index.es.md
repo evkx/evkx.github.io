@@ -92,6 +92,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ### Asientos
 
+Volkswagen ID. Buzz GTX LWB está disponible en una configuración de seis o siete asientos para mayor versatilidad.
+
 #### Asientos de primera fila
 
 Para la primera fila, el Volkswagen ID. Buzz GTX LWB ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.

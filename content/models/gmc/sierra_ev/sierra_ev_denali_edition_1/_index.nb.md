@@ -202,10 +202,6 @@ Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsap
 - The Weather Channel
 - Audiobooks.com
 
-### Telefonspeiling
-
-I tillegg støtter GMC Sierra EV Denali Edition 1 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 ### Lydsystem
 
 Én type lydsystem er tilgjengelig for GMC Sierra EV Denali Edition 1.

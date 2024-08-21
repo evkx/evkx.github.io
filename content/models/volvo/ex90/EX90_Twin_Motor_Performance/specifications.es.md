@@ -556,7 +556,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
-Este modelo está disponible con una configuración de cinco asientos.
+Este modelo está disponible con una configuración de seis o siete asientos.
 
 ### Asientos delanteros
 
@@ -708,7 +708,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				No disponible
+				Función opcional
 			</td>
 		</tr>
 		<tr>
