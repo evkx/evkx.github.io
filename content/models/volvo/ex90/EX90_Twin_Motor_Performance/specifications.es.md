@@ -826,6 +826,108 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Asistencia al conductor
 

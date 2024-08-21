@@ -89,7 +89,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Volvo EX90 Twin Motor Performance está diseñado con una estética minimalista, con materiales de primera calidad en todo el vehículo. La consola central flotante crea un espacio abierto entre el pasajero y el conductor, ofreciendo opciones de almacenamiento convenientes. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
@@ -118,11 +118,19 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la segunda fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+Puedes elegir dos tipos de asientos para la segunda fila en el Volvo EX90 Twin Motor Performance.
+
+La opción standard es un banco de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
+
+La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
+
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -150,6 +158,8 @@ El Volvo EX90 Twin Motor Performance incluye varias características para mejora
 {{<evkxdisplayaddarticle />}}
 
 ## Interfaz de usuario y control
+
+La interfaz de control de este modelo de vehículo eléctrico está centrada en la interacción con la pantalla y solo tiene una funcionalidad limitada disponible en botones y palancas. Para algunos, esto puede resultar en una experiencia de usuario y usabilidad menos que ideal.
 
 El Volvo EX90 Twin Motor Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 

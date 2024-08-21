@@ -826,6 +826,108 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sitztyp
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höhenverstellbare Kopfstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Längenverstellbare Kopfstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Oberschenkelstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze der Rückenlehne
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze des Sitzkissens
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fußstütze für Passagiere
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstütze für Passagiere
+			</td>
+			<td>
+				Serienausstattung
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrische Lendenwirbelstütze
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitzbelüftung
+			</td>
+			<td>
+				Serienausstattung
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Fahrerassistenz
 

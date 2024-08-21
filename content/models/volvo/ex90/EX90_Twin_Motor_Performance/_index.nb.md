@@ -89,7 +89,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i Volvo EX90 Twin Motor Performance er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den flytende midtkonsollen skaper et åpent rom mellom passasjer og fører, og gir praktiske oppbevaringsmuligheter. Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
@@ -120,9 +120,17 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Du kan velge to setetyper for den andre raden i Volvo EX90 Twin Motor Performance.
+
+Alternativet standard er en tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
+
+Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
+
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -150,6 +158,8 @@ Volvo EX90 Twin Motor Performance inkluderer flere funksjoner for å forbedre ko
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
 
 Volvo EX90 Twin Motor Performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
 

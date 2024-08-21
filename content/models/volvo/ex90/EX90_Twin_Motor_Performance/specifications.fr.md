@@ -826,6 +826,108 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Assistance au conducteur
 

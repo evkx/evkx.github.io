@@ -89,7 +89,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material.
+Interiören i Volvo EX90 Twin Motor Performance är designad med en minimalistisk estetik och har premium material överallt. Den flytande mittkonsolen skapar ett öppet utrymme mellan passagerare och förare, vilket ger praktiska förvaringsmöjligheter. Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
@@ -120,9 +120,17 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Du kan välja två sätestyper för den andra raden i Volvo EX90 Twin Motor Performance.
+
+Alternativet standard är en tresitssbänk med en 40:60-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
+
+Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
+
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -150,6 +158,8 @@ Volvo EX90 Twin Motor Performance inkluderar flera funktioner för att förbätt
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
 
 Volvo EX90 Twin Motor Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 

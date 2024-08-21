@@ -826,6 +826,108 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Sjåførassistanse
 

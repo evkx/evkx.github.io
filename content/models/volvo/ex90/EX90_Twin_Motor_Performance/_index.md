@@ -89,7 +89,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials.
+The interior of the Volvo EX90 Twin Motor Performance is designed with a minimalist aesthetic, featuring premium materials throughout. The floating center console creates an open space between the passenger and driver, offering convenient storage options. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -118,11 +118,19 @@ Available in:
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
-#### Second Row Seat
+#### Second Row Seats
 
-The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+You can choose two seat types for the second row in the Volvo EX90 Twin Motor Performance.
+
+The standard option is a three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating)
+
+The second option is two captain chairs. Additional functionalities include:
+
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -150,6 +158,8 @@ The Volvo EX90 Twin Motor Performance includes several features to enhance comfo
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the Volvo EX90 Twin Motor Performance is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
 The Volvo EX90 Twin Motor Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 

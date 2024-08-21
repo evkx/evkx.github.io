@@ -826,6 +826,108 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Säte typ
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höjdjusterbart nackstöd
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LengthAdjustableHeadrest
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbart lårstöd
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggstödsjustering
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av sittdyna, sidostöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Förarassistans
 

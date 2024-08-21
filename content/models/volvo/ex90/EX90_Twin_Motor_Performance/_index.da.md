@@ -89,7 +89,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer.
+Interiøret i Volvo EX90 Twin Motor Performance er designet med en minimalistisk æstetik og har premium materialer overalt. Den svævende midterkonsol skaber et åbent rum mellem passager og fører, hvilket giver praktiske opbevaringsmuligheder. Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
 
@@ -118,11 +118,19 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
-#### Sæde på anden række
+#### Sæder på anden række
 
-Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Du kan vælge to sædetyper til anden række i Volvo EX90 Twin Motor Performance.
+
+Muligheden standard er en tre-sædet bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
+
+Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -150,6 +158,8 @@ Volvo EX90 Twin Motor Performance inkluderer flere funktioner, der forbedrer kom
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
 
 Volvo EX90 Twin Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
 

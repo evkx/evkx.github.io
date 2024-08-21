@@ -826,6 +826,108 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 		</tr>
 	</tbody>
 </table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				TwoCaptainChairs
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Førerassistent
 
