@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/main_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
-Nous avons séparé notre article BMW i7 xDrive60 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons séparé notre article BMW i7 xDrive60 en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
 - [Batterie, autonomie et charge](#battery-range-and-chargement)

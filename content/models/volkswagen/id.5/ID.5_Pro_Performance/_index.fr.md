@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/main_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
-Nous avons séparé notre article Volkswagen ID.5 Pro Performance en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
+Nous avons séparé notre article Volkswagen ID.5 Pro Performance en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
 - [Batterie, autonomie et charge](#battery-range-and-chargement)
