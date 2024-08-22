@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Lucid Air Grand Touring DC Fast Charging Full Analysis</h3>
+<p>State of Charge: 22.08.2024</p>
+
+{{< youtube B5zs2mH189M >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Lucid Air Grand Touring Range Test: How Far Will It Go At 70 MPH?</h3>
 <p>State of Charge: 15.08.2024</p>
 

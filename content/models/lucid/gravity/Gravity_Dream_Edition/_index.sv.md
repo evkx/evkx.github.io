@@ -34,9 +34,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 122,0 kWh och en nettoanvänd
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 708 km med en energiförbrukning på 17,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 79 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 46%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 176kW. Varje laddningssession tar 18 minuter och 27 sekunder. Denna effektiva laddningskapacitet gör Lucid Gravity Dream Edition till ett bekvämt alternativ för långdistansresor.
+Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 74 minuter, medan ett vanligare scenario på 10-80 % tar 29 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 45%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 179kW. Varje laddningssession tar 18 minuter och 8 sekunder. Denna effektiva laddningskapacitet gör Lucid Gravity Dream Edition till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 39%, med en total laddningstid på 32 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 8 timmar och 51 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 38%, med en total laddningstid på 31 minuter.
 
 ### Ombordladdare
 
