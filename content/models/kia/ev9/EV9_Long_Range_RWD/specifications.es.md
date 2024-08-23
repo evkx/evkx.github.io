@@ -163,6 +163,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Número de módulos
+			</td>
+			<td>
+				38
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				152s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>

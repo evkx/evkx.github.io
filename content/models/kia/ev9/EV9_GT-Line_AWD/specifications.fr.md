@@ -187,6 +187,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Nombre de modules
+			</td>
+			<td>
+				38
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuration du pack
+			</td>
+			<td>
+				152s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tension nominale
 			</td>
 			<td>

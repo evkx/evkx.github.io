@@ -163,6 +163,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Antal moduler
+			</td>
+			<td>
+				38
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				152s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spänning
 			</td>
 			<td>

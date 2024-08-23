@@ -187,6 +187,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Antall moduler
+			</td>
+			<td>
+				38
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				152s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spenning
 			</td>
 			<td>

@@ -187,6 +187,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Anzahl der Module
+			</td>
+			<td>
+				38
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				152s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nennspannung
 			</td>
 			<td>

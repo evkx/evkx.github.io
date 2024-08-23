@@ -1,7 +1,7 @@
 ---
 title: Audi EV-Modelle
 linktitle: "Audi"
-description: "Audi is a German car manufacturer that is part of the Volkswagen Group. It is known for its premium and sporty vehicles, as well as its slogan 'Vorsprung durch Technik', which means 'Progress through Technology'."
+description: "Audi ist ein deutscher Automobilhersteller, der Teil des Volkswagen-Konzerns ist. Es ist bekannt für seine Premium- und Sportfahrzeuge sowie für seinen Slogan 'Vorsprung durch Technik', was 'Fortschritt durch Technik' bedeutet."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

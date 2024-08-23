@@ -219,6 +219,9 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="audi/"><img src="https://media.evkx.net/multimedia/models/audi/brandevs_st.jpg" class="img-fluid mb-2" alt="Audi" ></a>
 	<h2>Audi</h2>
 	<p>
+		Audi ist ein deutscher Automobilhersteller, der Teil des Volkswagen-Konzerns ist. Es ist bekannt für seine Premium- und Sportfahrzeuge sowie für seinen Slogan 'Vorsprung durch Technik', was 'Fortschritt durch Technik' bedeutet.
+	</p>
+	<p>
 	Audi hat 6 Modelle mit insgesamt 42 Varianten.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gehe zu Audi EV-Modellübersicht</a>
