@@ -210,6 +210,15 @@ Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et ut
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 
+## Mobilapp
+
+BYD Tang EV600 kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Lås & Lås opp**: Lås eller lås opp bilens dører trygt med et trykk.
+- **Vinduskontroll**: Åpne og lukk vinduene fra hvor som helst.
+- **Finn bilen din**: Aktiver hornet eller lysene for å finne bilen din i travle områder.
+
 ## Lys
 
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.

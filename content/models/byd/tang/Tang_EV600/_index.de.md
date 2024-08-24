@@ -210,6 +210,15 @@ Der BYD Tang EV600 ist mit einer Soundsystemoption ausgestattet:
 
 Das Modell verfügt standardmäßig über 4 USB-A-Anschlüsse.
 
+## Mobile App
+
+Der BYD Tang EV600 wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+
 ## Lichter
 
 **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.

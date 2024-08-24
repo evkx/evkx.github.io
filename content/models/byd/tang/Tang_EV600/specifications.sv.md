@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>

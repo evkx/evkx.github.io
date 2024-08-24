@@ -210,6 +210,15 @@ Un tipo de sistema de sonido está disponible para el BYD Tang EV600.
 
 El modelo tiene 4 conexiones USB-A de serie.
 
+## Aplicación móvil
+
+El BYD Tang EV600 viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Bloquear y desbloquear**: Bloquea o desbloquea las puertas de tu coche de manera segura con un toque.
+- **Control de ventanas**: Abre y cierra las ventanas desde cualquier lugar.
+- **Encontrar tu coche**: Activa el claxon o las luces para ayudar a encontrar tu coche en áreas concurridas.
+
 ## Luces
 
 **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.

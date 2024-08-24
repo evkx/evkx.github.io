@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>

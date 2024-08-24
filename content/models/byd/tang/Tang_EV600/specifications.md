@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
