@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				WLTP-Verbrauch
 			</td>
 			<td>
-				21,6 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				88 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				86,4 kWh
+				85 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Wendekreis
 			</td>
 			<td>
@@ -379,7 +395,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Dachlast
 			</td>
 			<td>
-				100 kg (220 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +516,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>

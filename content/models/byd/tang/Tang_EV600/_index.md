@@ -30,17 +30,17 @@ The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 88.0 kWh and a net usable capacity of 86.4 kWh, providing a 1.6 kWh buffer (1.8%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 86.4 kWh and a net usable capacity of 85.0 kWh, providing a 1.4 kWh buffer (1.6%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 67 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 93 kW, with each charging session taking about 31 minutes and 37 seconds.
+The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 36 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 93 kW, with each charging session taking about 30 minutes and 12 seconds.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 31.7 kWh/100 km, the trip would take approximately 10 hours and 50 minutes. This journey would require five charging stops from 5% to 59%, with a total charging time of 150 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 31.7 kWh/100 km, the trip would take approximately 10 hours and 50 minutes. This journey would require five charging stops from 4% to 59%, with a total charging time of 151 minutes.
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 40 minutes using a home charging setup.
+The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 29 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -58,7 +58,7 @@ The BYD Tang EV600 features an all-wheel drive system powered by two motors, one
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Steering
 
@@ -208,7 +208,7 @@ While the infotainment system does not include an app store, it comes with a sel
 
 The BYD Tang EV600 comes equipped with one sound system option:
 
-- **Dirac sound system:** Features 12 speakers and delivers a maximum output of  watts.
+- **Dirac sound system:** Features 12 speakers and delivers a maximum output of 200 watts.
 
 The model has 4 USB-A connections as standard.
 
@@ -267,7 +267,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 1655 liters (58.4 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 1655 liters (58.4 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3060 kg (6746 lbs), with a base weight of 2489 kg (5487 lbs). This allows for a maximum load of 571 kg (1259 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

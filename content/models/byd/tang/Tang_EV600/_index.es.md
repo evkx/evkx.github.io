@@ -30,17 +30,17 @@ El BYD Tang EV600 ofrece un rendimiento sólido con una potencia máxima de 380 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 88,0 kWh y una capacidad neta utilizable de 86,4 kWh, proporcionando un buffer de 1,6 kWh (1,8%) para la protección de la batería. Operando a un voltaje nominal de 640 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 86,4 kWh y una capacidad neta utilizable de 85,0 kWh, proporcionando un buffer de 1,4 kWh (1,6%) para la protección de la batería. Operando a un voltaje nominal de 640 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 400 km, con una tasa de consumo de energía de 21,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 400 km, con una tasa de consumo de energía de 21,3 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 110kW. Una carga completa del 0 al 100 % tardaría 67 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 93kW. Cada sesión de carga tardaría 31 minutos y 37 segundos.
+La velocidad máxima de carga de CC es 110kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 36 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 93kW. Cada sesión de carga tardaría 30 minutos y 12 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 31,7 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 50 minutos. Este viaje requeriría dos paradas de carga del 5% al 59%, con un tiempo total de carga de 150 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 31,7 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 50 minutos. Este viaje requeriría dos paradas de carga del 4% al 59%, con un tiempo total de carga de 151 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 11 horas y 40 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 11 horas y 29 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
@@ -58,7 +58,7 @@ BYD Tang EV600 tiene un sistema de tracción total sostenido por dos motores, un
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 190 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
 
 ### Dirección
 
@@ -208,7 +208,7 @@ Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, 
 
 Un tipo de sistema de sonido está disponible para el BYD Tang EV600.
 
-- Con el Dirac sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- Con el Dirac sound system, obtienes 12 parlantes con una salida máxima del sistema de 200 vatios.
 
 El modelo tiene 4 conexiones USB-A de serie.
 
@@ -267,7 +267,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 192 litros. Con el asiento trasero plegado, esto se expande a 1655 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
+El maletero ofrece una capacidad de carga de 192 litros. Con el asiento trasero plegado, esto se expande a 1655 litros. En el techo, puedes cargar hasta 75 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo.
 
 El peso máximo del vehículo es 3060 kg, con un peso base de 2489 kg. Esto permite una carga máxima de 571 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

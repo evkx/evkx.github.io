@@ -30,17 +30,17 @@ BYD Tang EV600 levererar en solid prestanda med en maximal effekt på 380 kW (51
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 88,0 kWh och en nettoanvändbar kapacitet på 86,4 kWh, vilket ger en buffert på 1,6 kWh (1,8%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 86,4 kWh och en nettoanvändbar kapacitet på 85,0 kWh, vilket ger en buffert på 1,4 kWh (1,6%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 21,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 21,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 67 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 31 minuter och 37 sekunder.
+Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 36 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 93kW. Varje laddningssession tar 30 minuter och 12 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 31,7 kWh/100 km, skulle resan ta ungefär 10 timmar och 50 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 59%, med en total laddningstid på 150 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 31,7 kWh/100 km, skulle resan ta ungefär 10 timmar och 50 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 59%, med en total laddningstid på 151 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 11 timmar och 40 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 11 timmar och 29 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -58,7 +58,7 @@ BYD Tang EV600 har ett fyrhjulsdriftsystem som stöds av två motorer, en på va
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 190 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Styrning
 
@@ -208,7 +208,7 @@ Det inbyggda navigationssystemet hjälper dig att navigera till din destination 
 
 En typ av ljudsystem är tillgänglig för BYD Tang EV600.
 
-- Med Dirac sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+- Med Dirac sound system får du 12 högtalare med en maximal systemeffekt på 200 watt.
 
 Modellen har 4 USB-A-anslutningar som standard.
 
@@ -267,7 +267,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 192 liter. Med baksätena nedfällda ökar detta till 1655 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
+Bagageutrymmet erbjuder en lastkapacitet på 192 liter. Med baksätena nedfällda ökar detta till 1655 liter. På taket kan du lasta upp till 75 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke.
 
 Fordonets maximala vikt är 3060 kg, med en grundvikt på 2489 kg. Detta tillåter en maximal last på 571 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-0bc8b721
+  translation: BYD Tang 4x4 Long Range ist ein vollelektrisches SUV mit einer Reichweite von bis zu 530 km (329 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-cb090444
   translation: Audi Q6 e-tron ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 533 km (331 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-cf6d039f
   translation: Porsche Macan 4S ist ein vollelektrisches Premium-Coupé-SUV mit einer Reichweite von bis zu 609 km (379 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-a012ca56
-  translation: Fiat Grande Panda ist ein vollelektrisches Crossover mit einer Reichweite von bis zu 320 km (199 Meilen). EVKX.net hat alle Details.
 

@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-förbrukning
 			</td>
 			<td>
-				21,6 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				88 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				86,4 kWh
+				85 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Vändcirkel
 			</td>
 			<td>
@@ -379,7 +395,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten taklast
 			</td>
 			<td>
-				100 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +516,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>

@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP
 			</td>
 			<td>
-				21,6 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				88 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				86,4 kWh
+				85 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Cercle de tournage
 			</td>
 			<td>
@@ -379,7 +395,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				100 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +516,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>

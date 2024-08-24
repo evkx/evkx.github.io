@@ -116,7 +116,7 @@ BYD Seal U er en SUV tilgængelig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Tang er en SUV tilgængelig i 1 varianter.
+BYD Tang er en SUV tilgængelig i 2 varianter.
 </p>
 	<a href="tang/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

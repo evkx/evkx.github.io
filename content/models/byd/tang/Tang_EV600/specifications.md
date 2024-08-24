@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				21,6 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				88 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				86,4 kWh
+				85 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Overhang angle front
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Turning circle
 			</td>
 			<td>
@@ -379,7 +395,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
 			</td>
 			<td>
-				100 kg (220 lbs)
+				75 kg (165 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +516,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				150 mm (5,9")
 			</td>
 		</tr>
 		<tr>

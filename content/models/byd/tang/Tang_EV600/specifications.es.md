@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP
 			</td>
 			<td>
-				21,6 kWh/100km
+				21,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				88 kWh
+				86,4 kWh
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				86,4 kWh
+				85 kWh
 			</td>
 		</tr>
 		<tr>
@@ -327,6 +327,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				22
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				20
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -379,7 +395,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				100 kg
+				75 kg
 			</td>
 		</tr>
 		<tr>
@@ -492,7 +508,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>
@@ -500,7 +516,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				190 mm
+				150 mm
 			</td>
 		</tr>
 		<tr>

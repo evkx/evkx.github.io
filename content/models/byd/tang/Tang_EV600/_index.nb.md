@@ -30,17 +30,17 @@ BYD Tang EV600 leverer solid ytelse med en maksimal effekt på 380 kW (517 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 88,0 kWh og en netto brukbar kapasitet på 86,4 kWh, som gir en buffer på 1,6 kWh (1,8%) for batteribeskyttelse. Ved å operere med en nominell spenning på 640 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 86,4 kWh og en netto brukbar kapasitet på 85,0 kWh, som gir en buffer på 1,4 kWh (1,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 640 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 400 km, med et energiforbruk på 21,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 400 km, med et energiforbruk på 21,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 110 kW. En full lading fra 0 - 100 % vil ta 67 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 31 minutter og 37 sekunder.
+Maksimal DC-ladehastighet er 110 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 36 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 93kW. Hver ladeøkt vil ta 30 minutter og 12 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 31,7 kWh/100 km, ville turen ta omtrent 10 timer og 50 minutter. Denne reisen ville kreve to ladestopp fra 5% til 59%, med en total ladetid på 150 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 31,7 kWh/100 km, ville turen ta omtrent 10 timer og 50 minutter. Denne reisen ville kreve to ladestopp fra 4% til 59%, med en total ladetid på 151 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 7,4 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 40 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 7,4 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 29 minutter med en hjemmelader.
 
 ### Ladeport
 
@@ -58,7 +58,7 @@ BYD Tang EV600 har et firehjulsdriftssystem som støttes av to motorer, en på h
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 190 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 150 mm.
 
 ### Styring
 
@@ -208,7 +208,7 @@ Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et ut
 
 Én type lydsystem er tilgjengelig for BYD Tang EV600.
 
-- Med Dirac sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- Med Dirac sound system får du 12 høyttalere med en maksimal systemeffekt på 200 watt.
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 
@@ -267,7 +267,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 192 liter. Med baksetene nedfelt, utvides dette til 1655 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
+Bagasjerommet tilbyr en lastekapasitet på 192 liter. Med baksetene nedfelt, utvides dette til 1655 liter. På taket kan du laste opptil 75 kg. Takrails er standard for enkel montering av en takboks eller takstativ.
 
 Kjøretøyets maksimale vekt er 3060 kg, med en basisvekt på 2489 kg. Dette gir en maksimal lastekapasitet på 571 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

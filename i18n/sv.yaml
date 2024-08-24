@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-0bc8b721
+  translation: BYD Tang 4x4 Long Range är en helelektrisk SUV med en WLTP räckvidd på upp till 530 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-cb090444
   translation: Audi Q6 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 533 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-cf6d039f
   translation: Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 609 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-a012ca56
-  translation: Fiat Grande Panda är en helelektrisk crossover med en WLTP räckvidd på upp till 320 km. EVKX.net har alla detaljer.
 

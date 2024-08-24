@@ -43,7 +43,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				400 km / 249 mi
 			</td>
 			<td>
-				21,60kWh/100km / 2,9 mi/kWh
+				21,25kWh/100km / 2,9 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				400 km / 249 mi
 			</td>
 			<td>
-				21,60 kWh/100km / 2,9 mi/kWh
+				21,25 kWh/100km / 2,9 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-seriens grundutrustningsnivå med 2KW AC
 			</td>
 			<td>
-				 334km / 208 mi 
+				 333km / 207 mi 
 			</td>
 			<td>
-				-16,5%
+				-16,8%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
-				334 km / 208 mi
+				333 km / 207 mi
 			</td>
 			<td>
-				-16,5%
+				-16,8%
 			</td>
 		</tr>
 	</tbody>
@@ -132,7 +132,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				90 km/h/56 mph under perfekta förhållanden
 			</td>
 			<td>
-				400km / 249 mi
+				394km / 245 mi
 			</td>
 			<td>
 				21,6 kWh/100km / 2,9 mi/kWh
@@ -143,7 +143,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				90 kmh/56 mph med 2KW uppvärmning
 			</td>
 			<td>
-				371km /226mi
+				366km /222mi
 			</td>
 			<td>
 				23,8 kWh/100km /2,6 mi/kWh 
@@ -154,7 +154,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				70 mph/112 km/h under perfekta förhållanden
 			</td>
 			<td>
-				288 km / 179 mi
+				283 km / 176 mi
 			</td>
 			<td>
 				30 kWh/100km / 2,1 mi/kWh
@@ -165,7 +165,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				70 mph/112 km/h med 2KW uppvärmning
 			</td>
 			<td>
-				272km / 169mi
+				267km / 166mi
 			</td>
 			<td>
 				31,8 kWh/100km / 2,0 mi/kWh  
@@ -176,7 +176,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh/75 mph under perfekta förhållanden
 			</td>
 			<td>
-				273 km / 170 mi
+				268 km / 167 mi
 			</td>
 			<td>
 				31,7 kWh/100km / 2,0 mi/kWh
@@ -187,7 +187,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 				120 kmh /75mph med 2KW uppvärmning
 			</td>
 			<td>
-				259 km /161mi
+				255 km /158mi
 			</td>
 			<td>
 				33,4 kWh/100km /1,9 mi/kWh

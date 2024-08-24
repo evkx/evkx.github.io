@@ -116,7 +116,7 @@ BYD Seal U ist ein SUV, der in 1 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-BYD Tang ist ein SUV, der in 1 Varianten erhältlich ist.
+BYD Tang ist ein SUV, der in 2 Varianten erhältlich ist.
 </p>
 	<a href="tang/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

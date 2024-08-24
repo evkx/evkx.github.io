@@ -30,17 +30,17 @@ Der BYD Tang EV600 liefert eine solide Leistung mit einer maximalen Leistung von
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 88,0 kWh und eine nutzbare Nettokapazität von 86,4 kWh, was einen Puffer von 1,6 kWh (1,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 640 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 86,4 kWh und eine nutzbare Nettokapazität von 85,0 kWh, was einen Puffer von 1,4 kWh (1,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 640 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 400 km (249 Meilen) mit einem Energieverbrauch von 21,6 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 400 km (249 Meilen) mit einem Energieverbrauch von 21,3 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 110 kW. Das Laden von 0% auf 100% dauert etwa 67 Minuten, während ein typischer Ladevorgang von 10% auf 80% 36 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 100 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 93 kW, wobei jede Ladesitzung etwa 31 Minuten und 37 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 110 kW. Das Laden von 0% auf 100% dauert etwa 66 Minuten, während ein typischer Ladevorgang von 10% auf 80% 36 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 100 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 93 kW, wobei jede Ladesitzung etwa 30 Minuten und 12 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 31,7 kWh/100 km, würde die Fahrt etwa 10 Stunden und 50 Minuten dauern. Diese Reise würde fünf Ladestopps von 5% auf 59% erfordern, mit einer gesamten Ladezeit von 150 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 31,7 kWh/100 km, würde die Fahrt etwa 10 Stunden und 50 Minuten dauern. Diese Reise würde fünf Ladestopps von 4% auf 59% erfordern, mit einer gesamten Ladezeit von 151 Minuten.
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 7,4 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 40 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 7,4 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 29 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -58,7 +58,7 @@ Der BYD Tang EV600 verfügt über ein Allradantriebssystem, das von zwei Motoren
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 190 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 150 mm.
 
 ### Lenkung
 
@@ -208,7 +208,7 @@ Obwohl das Infotainmentsystem keinen App-Store enthält, kommt es mit einer Ausw
 
 Der BYD Tang EV600 ist mit einer Soundsystemoption ausgestattet:
 
-- **Dirac sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Dirac sound system:** Verfügt über 12 Lautsprecher und liefert eine maximale Ausgangsleistung von 200 Watt.
 
 Das Modell verfügt standardmäßig über 4 USB-A-Anschlüsse.
 
@@ -267,7 +267,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 192 Litern (6,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1655 Liter (58,4 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
+Der Kofferraum bietet ein Ladevolumen von 192 Litern (6,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1655 Liter (58,4 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers.
 
 Das maximale Gewicht des Fahrzeugs beträgt 3060 kg (6746 lbs) bei einem Leergewicht von 2489 kg (5487 lbs). Dies ermöglicht eine maximale Zuladung von 571 kg (1259 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

@@ -30,17 +30,17 @@ La BYD Tang EV600 offre des performances solides avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 88,0 kWh et une capacité nette utilisable de 86,4 kWh, offrant une réserve de 1,6 kWh (1,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 86,4 kWh et une capacité nette utilisable de 85,0 kWh, offrant une réserve de 1,4 kWh (1,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 21,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 21,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 110kW. Une charge complète de 0 à 100 % prendrait 67 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 36 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 93kW. Chaque session de charge prendrait 31 minutes et 37 secondes.
+La vitesse de charge DC maximale est de 110kW. Une charge complète de 0 à 100 % prendrait 66 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 36 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 59 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 93kW. Chaque session de charge prendrait 30 minutes et 12 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 31,7 kWh/100 km, le voyage prendrait environ 10 heures et 50 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 59%, avec un temps de recharge total de 150 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 31,7 kWh/100 km, le voyage prendrait environ 10 heures et 50 minutes. Ce trajet nécessiterait deux arrêts de recharge de 4% à 59%, avec un temps de recharge total de 151 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 40 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 29 minutes à domicile.
 
 ### Port de recharge
 
@@ -58,7 +58,7 @@ BYD Tang EV600 dispose d'un système de transmission intégrale pris en charge p
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 190 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
 
 ### Pilotage
 
@@ -208,7 +208,7 @@ Bien que le système d'infodivertissement ne comprenne pas de boutique d'applica
 
 Un type de système audio est disponible pour le BYD Tang EV600.
 
-- Avec le Dirac sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Dirac sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 200 watts.
 
 Le modèle dispose de 4 connexions USB-A en standard.
 
@@ -267,7 +267,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 192 litres. Avec les sièges arrière rabattus, cette capacité passe à 1655 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
+Le coffre offre une capacité de chargement de 192 litres. Avec les sièges arrière rabattus, cette capacité passe à 1655 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos.
 
 Le poids maximum du véhicule est de 3060 kg, avec un poids de base de 2489 kg. Cela permet une charge maximale de 571 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
