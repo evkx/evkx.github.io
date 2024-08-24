@@ -142,7 +142,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				110 kW
+				170 kW
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +652,7 @@ Interior.Seatlayout.OnlySix
 				Siège passager à mémoire
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +732,7 @@ Interior.Seatlayout.OnlySix
 				Fonction massage
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 	</tbody>

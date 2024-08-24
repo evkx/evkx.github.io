@@ -34,7 +34,7 @@ The high-capacity battery has a gross capacity of 108.8 kWh and a net usable cap
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 miles), with an energy consumption rate of 20.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 110 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 96 kW, with each charging session taking about 37 minutes and 43 seconds.
+The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 96 kW, with each charging session taking about 37 minutes and 43 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 31.7 kWh/100 km, the trip would take approximately 10 hours and 34 minutes. This journey would require four charging stops from 9% to 59%, with a total charging time of 135 minutes.
 
@@ -120,10 +120,10 @@ The following functionalities are available on the **standard** seat:
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 

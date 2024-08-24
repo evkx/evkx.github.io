@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="tang_4x4_long_range/"><img src="https://media.evkx.net/multimedia/models/byd/tang/tang_4x4_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Tang 4x4 Long Range" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 108,8 kWh <i class="bi bi-ev-station"></i> 110 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 108,8 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

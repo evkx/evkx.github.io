@@ -34,7 +34,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 108,8 kWh und eine nut
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 530 km (329 Meilen) mit einem Energieverbrauch von 20,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 110 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 45 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 100 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 96 kW, wobei jede Ladesitzung etwa 37 Minuten und 43 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 170 kW. Das Laden von 0% auf 100% dauert etwa 84 Minuten, während ein typischer Ladevorgang von 10% auf 80% 45 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 100 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 96 kW, wobei jede Ladesitzung etwa 37 Minuten und 43 Sekunden dauert.
 
 In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 31,7 kWh/100 km, würde die Fahrt etwa 10 Stunden und 34 Minuten dauern. Diese Reise würde vier Ladestopps von 9% auf 59% erfordern, mit einer gesamten Ladezeit von 135 Minuten.
 
@@ -120,10 +120,10 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory-Beifahrersitz](../../../../technology/seats/adjustment/#seat-memory)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Verfügbar in:
 

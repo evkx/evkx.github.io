@@ -142,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				110 kW
+				170 kW
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +652,7 @@ Interior.Seatlayout.OnlySix
 				Memory Passenger Seat
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +732,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 	</tbody>

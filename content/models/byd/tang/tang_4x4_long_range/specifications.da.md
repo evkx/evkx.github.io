@@ -142,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				110 kW
+				170 kW
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +652,7 @@ Interior.Seatlayout.OnlySix
 				Memory passagersæde
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +732,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 	</tbody>

@@ -142,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				110 kW
+				170 kW
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +652,7 @@ Interior.Seatlayout.OnlySix
 				Asiento del pasajero con memoria
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -732,7 +732,7 @@ Interior.Seatlayout.OnlySix
 				Función de masaje
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 	</tbody>

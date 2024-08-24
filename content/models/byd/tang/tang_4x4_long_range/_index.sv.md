@@ -34,7 +34,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 108,8 kWh och en nettoanvänd
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 530 km (199 miles), med en energiförbrukningshastighet på 20,2 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 110 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 96kW. Varje laddningssession tar 37 minuter och 43 sekunder.
+Maximal DC-laddningshastighet är 170 kW. En full laddning från 0 - 100 % tar 84 minuter, medan ett vanligare scenario på 10-80 % tar 45 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 59%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 96kW. Varje laddningssession tar 37 minuter och 43 sekunder.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 31,7 kWh/100 km, skulle resan ta ungefär 10 timmar och 34 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 59%, med en total laddningstid på 135 minuter.
 
@@ -120,10 +120,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
