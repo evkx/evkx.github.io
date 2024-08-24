@@ -60,6 +60,13 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Dynamisk styring er en standard-funktion på BYD Tang EV600. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
+### Køretilstande
+
+BYD Tang EV600 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 2 tilstande:
+
+- Sport: Dynamisk gasspjæld.
+- eco: Effektiv gas.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
@@ -114,13 +121,19 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/frontseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="2001"  >}}
+
 #### Sæde på anden række
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
-{{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 
 #### Sæder på tredje række
 
@@ -141,11 +154,14 @@ BYD Tang EV600 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
 
 BYD Tang EV600 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
@@ -162,7 +178,7 @@ Modellen har ikke et head-up display.
 
 BYD Tang EV600 er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ### Spejle
 
@@ -170,15 +186,22 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Infotainment
 
+BYD Tang EV600 har et infotainmentsystem kaldet BYD DiLink, som er baseret på Android. Dette system er designet til at give en brugervenlig grænseflade med en række funktioner og funktionaliteter for at forbedre køreoplevelsen. Det inkluderer forskellige apps og tjenester, såsom navigation, musikstreaming og køretøjsindstillinger, som alle er tilgængelige via touchskærmen. Systemet understøtter også over-the-air opdateringer, hvilket sikrer, at køretøjet forbliver opdateret med de nyeste funktioner og forbedringer.
+
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem hjælper dig med at navigere til din destination med lethed. Det understøtter dog ikke ruteplanlægning med ladestop, hvilket kræver, at du planlægger dine ladestop manuelt. Derudover giver det ikke realtids trafikoplysninger, hvilket gør det mindre værdifuldt sammenlignet med navigationssystemer i mange andre elbiler.
+
+### Forudinstallerede Apps
+
+Mens infotainmentsystemet ikke inkluderer en appbutik, leveres det med et udvalg af forudinstallerede tredjepartsapps, der kører direkte på bilens skærm, uafhængigt af en tilsluttet telefon. De tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder såsom:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på BYD Tang EV600.
+Én type lydsystem er tilgængelig for BYD Tang EV600.
 
-- Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt.
 - Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-A-forbindelser som standard.
@@ -201,47 +224,48 @@ Den BYD Tang EV600 inkluderer flere standard- og valgfri [avancerede førerassis
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på BYD Tang EV600, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Valgfrit på BYD Tang EV600, dette førerassistentsystem hjælper føreren med at opdage modkørende trafik ved krydsning af et kryds eller ved sving til venstre eller højre fra en stopposition.
-
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på BYD Tang EV600, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Valgfrit på BYD Tang EV600, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på BYD Tang EV600, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på BYD Tang EV600, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
-
-[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Valgfrit på BYD Tang EV600, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på BYD Tang EV600, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
 ### Køreautomatisering
 
-BYD Tang EV600 tilbyder [køreautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
-
-Med   niveau 1-systemet får du følgende funktioner til køreautomatisering.
+Med Intelligent Cruise Control  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/). (valgfrit)
-
-Med Smart Pilot  niveau 2-systemet får du yderligere funktioner til køreautomatisering ud over dem, der er nævnt ovenfor.
-
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og otte [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og otte [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 192 liter. Med det bageste sæde foldet ned, udvides dette til 763 liter. På taget kan du laste op til 100 kg. Valgfrie tagbøjler er tilgængelige for nem montering af en tagboks eller rack.
+Bagagerummet har en lastekapacitet på 192 liter. Med det bageste sæde foldet ned, udvides dette til 763 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack.
 
 Køretøjets maksimale vægt er 3060 kg, med en basisvægt på 2489 kg. Dette giver en maksimal last på 571 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
 
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/trunk_1_st.jpg" title="BYD Tang EV600" width="2000" height="1333"  >}}
+
 ## Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 16.11.2018, og leveringerne startede i April 2019. Denne model er nu udgået.
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til BYD Tang EV600, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Nio ES8](/models/nio/es8/es8/)
+
+<a href="https://db.evkx.net/evcompare?evs=821dca%2ccc43c9" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}}

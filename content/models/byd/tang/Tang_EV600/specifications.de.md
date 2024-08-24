@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +865,7 @@ Interior.Seatlayout.OnlySix
 				Rückfahrkamera
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -961,7 +961,7 @@ Interior.Seatlayout.OnlySix
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Interior.Seatlayout.OnlySix
 				Warnung vor Kollisionen
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -993,7 +993,7 @@ Interior.Seatlayout.OnlySix
 				Querverkehrsassistent
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1017,7 +1017,7 @@ Interior.Seatlayout.OnlySix
 				Automatische Notlenkung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Interior.Seatlayout.OnlySix
 				Verkehrszeichenerkennung
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1139,64 +1139,6 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Nicht verfügbar
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Anzahl der verfügbaren Soundsysteme
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spezifikation
-			</th>
-			<th>
-				Wert
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Anzahl der Lautsprecher
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

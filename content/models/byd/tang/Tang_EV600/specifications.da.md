@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +865,7 @@ Interior.Seatlayout.OnlySix
 				Bakkamera
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -961,7 +961,7 @@ Interior.Seatlayout.OnlySix
 				Undgåelse af venstresving
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Interior.Seatlayout.OnlySix
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -993,7 +993,7 @@ Interior.Seatlayout.OnlySix
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1017,7 +1017,7 @@ Interior.Seatlayout.OnlySix
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Interior.Seatlayout.OnlySix
 				Traffic Sign Recognition
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1139,64 +1139,6 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgængelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Antal tilgængelige lydsystemer
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal højttalere
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Værdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antal højttalere
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

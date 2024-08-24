@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +865,7 @@ Interior.Seatlayout.OnlySix
 				Bryggekamera
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -961,7 +961,7 @@ Interior.Seatlayout.OnlySix
 				Unngå krasj i venstresving
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Interior.Seatlayout.OnlySix
 				Forward Collision Warning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -993,7 +993,7 @@ Interior.Seatlayout.OnlySix
 				Cross traffic assist
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1017,7 +1017,7 @@ Interior.Seatlayout.OnlySix
 				Automatisk nødstyring
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Interior.Seatlayout.OnlySix
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
-				Ja, tileggsutstyr
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1139,64 +1139,6 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Ikke tilgjengelig
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Antall tilgjengelige lydsystemer
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spesifikasjon
-			</th>
-			<th>
-				Verdi
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Antall høyttalere
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>

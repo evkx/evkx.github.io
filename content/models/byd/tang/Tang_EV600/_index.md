@@ -60,6 +60,13 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 Dynamic steering is a standard on the BYD Tang EV600, varying the steering ratio based on driving speed for enhanced control and comfort.
 
+### Drive Modes
+
+The BYD Tang EV600 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 2 modes:
+
+- Sport: Dynamic throttle.
+- eco: Efficent throttle.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
@@ -114,13 +121,19 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/frontseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="2001"  >}}
+
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-{{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 
 #### Third Row Seats
 
@@ -141,11 +154,14 @@ The BYD Tang EV600 includes several features to enhance comfort and convenience:
 - **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Electrically Adjustable Steering Wheel**
+- **Easy Entry Function:** Moves the driver seat to facilitate easier entry into the car.
 - **Wireless Phone Charging**
 
 {{<evkxdisplayaddarticle />}}
 
 ## User Interface and Control
+
+The control interface for the BYD Tang EV600 is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
 
 The BYD Tang EV600 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -162,7 +178,7 @@ The model does not include a head-up display.
 
 The BYD Tang EV600 is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
 
 ### Mirrors
 
@@ -170,15 +186,22 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The BYD Tang EV600 features an infotainment system called BYD DiLink, which is based on Android. This system is designed to provide a user-friendly interface with a range of features and functions to enhance the driving experience. It includes various apps and services, such as navigation, music streaming, and vehicle settings, all accessible through the touchscreen display. The system also supports over-the-air updates, ensuring that the vehicle remains up-to-date with the latest features and improvements.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system helps you navigate to your destination with ease. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually. Additionally, it does not provide real-time traffic information, making it less valuable compared to navigation systems in many other EVs.
+
+### Preinstalled Apps
+
+While the infotainment system does not include an app store, it comes with a selection of preinstalled third-party apps that run natively on the car's screen, independent of a connected phone. The available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 
 ### Sound System
 
-You can choose between two sound systems for the BYD Tang EV600:
+The BYD Tang EV600 comes equipped with one sound system option:
 
-- **Surroundsystem:** Features seven speakers and delivers a maximum output of  watts.
 - **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
@@ -201,47 +224,48 @@ The BYD Tang EV600 features a range of standard and optional [advanced driver as
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the BYD Tang EV600, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
-[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Optional on the BYD Tang EV600, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
-
 [**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the BYD Tang EV600, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
 
-[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Optional on the BYD Tang EV600, this driver assist system helps drivers avoid or mitigate frontal collisions.
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the BYD Tang EV600, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the BYD Tang EV600, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
-
-[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Optional on the BYD Tang EV600, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the BYD Tang EV600, this side assist system helps to detect traffic in blind spots.
 
 ### Driving Automation
 
-The BYD Tang EV600 offers [driving automation at levels 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
-
-With the   level 1 system, you get the following driving automation features.
+With the Intelligent Cruise Control  level 2 system, you get the following driving automation features.
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
-- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/). (optional)
-
-With the Smart Pilot  level 2 system, you get additional driving automation features to the ones listed above:
-
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 763 liters (26.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Optional roof rails are available for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 763 liters (26.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3060 kg (6746 lbs), with a base weight of 2489 kg (5487 lbs). This allows for a maximum load of 571 kg (1259 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
+{{< sitefiguresized thumb="models/byd/tang/tang_ev600/trunk_1_st.jpg" title="BYD Tang EV600" width="2000" height="1333"  >}}
+
 ## Availability & Pricing
 
 This model had a world premiere on 16.11.2018, and deliveries started in April 2019. This models has now been discontined.
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the BYD Tang EV600 that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Nio ES8](/models/nio/es8/es8/)
+
+<a href="https://db.evkx.net/evcompare?evs=821dca%2ccc43c9" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}}

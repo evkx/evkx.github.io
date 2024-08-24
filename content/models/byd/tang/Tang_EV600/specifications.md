@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -865,7 +865,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -961,7 +961,7 @@ Interior.Seatlayout.OnlySix
 				Left turn crash avoidance
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +969,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -993,7 +993,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/frontcrosstrafficassist/">Cross traffic assist</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1017,7 +1017,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1025,7 +1025,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1139,64 +1139,6 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				Not available
-			</td>
-		</tr>
-	</tbody>
-</table>
-		<tr>
-			<td>
-				Number of avaiable sound systems
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-
-### Surroundsystem
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Number of speakers
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Premium sound system
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Number of speakers
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 	</tbody>
