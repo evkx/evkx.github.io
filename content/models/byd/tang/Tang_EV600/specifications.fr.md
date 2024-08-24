@@ -161,6 +161,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				2820 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1640 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Coefficient de traînée
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Zone frontale
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

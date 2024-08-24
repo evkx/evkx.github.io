@@ -30,7 +30,7 @@ La BYD Tang EV600 offre des performances solides avec une puissance maximale de 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 90,0 kWh et une capacité nette utilisable de 86,4 kWh, offrant une réserve de 3,6 kWh (4,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 90,0 kWh et une capacité nette utilisable de 86,4 kWh, offrant une réserve de 3,6 kWh (4,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 640 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 400 km, avec une consommation d'énergie de 21,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -40,7 +40,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 12 heures et 20 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 11 heures et 40 minutes à domicile.
 
 ### Port de recharge
 
@@ -54,7 +54,7 @@ BYD Tang EV600 dispose d'un système de transmission intégrale pris en charge p
 
 ### Suspension
 
-La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 190 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 190 mm.
 
 ### Pilotage
 
@@ -66,7 +66,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal). Cependant, cela n'est pas considéré comme une conduite à une pédale complète, car à basse vitesse, le véhicule continuera de rouler jusqu'à ce qu'il s'arrête de lui-même.
+
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a deux niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 La puissance régénérative maximale est de 200 kW.
 
@@ -224,6 +226,11 @@ Avec le système Smart Pilot  de niveau 2, vous obtenez des fonctionnalités sup
 
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
 
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et huit [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -233,4 +240,8 @@ Le coffre offre une capacité de chargement de 192 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 3060 kg, avec un poids de base de 2489 kg. Cela permet une charge maximale de 571 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+
+## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 16.11.2018 et les livraisons ont commencé en April 2019. Ce modèle a maintenant été abandonné.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Plage" >}}

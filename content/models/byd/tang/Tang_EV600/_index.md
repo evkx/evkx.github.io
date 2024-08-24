@@ -30,7 +30,7 @@ The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 90.0 kWh and a net usable capacity of 86.4 kWh, providing a 3.6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 90.0 kWh and a net usable capacity of 86.4 kWh, providing a 3.6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 12 hours and 20 minutes using a home charging setup.
+The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 40 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -54,7 +54,7 @@ The BYD Tang EV600 features an all-wheel drive system powered by two motors, one
 
 ### Suspension
 
-The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm.
 
 ### Steering
 
@@ -66,7 +66,9 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ### Regenerative Braking
 
-[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 The maximum regenerative power is 200 kW.
 
@@ -224,6 +226,11 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -233,4 +240,8 @@ The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat 
 The vehicle’s maximum weight is 3060 kg (6746 lbs), with a base weight of 2489 kg (5487 lbs). This allows for a maximum load of 571 kg (1259 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+## Availability & Pricing
+
+This model had a world premiere on 16.11.2018, and deliveries started in April 2019. This models has now been discontined.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}}

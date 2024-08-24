@@ -161,6 +161,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				2820 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1640 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Área frontal
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				Resorte helicoidal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

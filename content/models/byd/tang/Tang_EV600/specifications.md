@@ -161,6 +161,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				2820 mm (111,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width front
+			</td>
+			<td>
+				1650 mm (65,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1640 mm (64,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontal area
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

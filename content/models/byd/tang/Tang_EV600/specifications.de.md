@@ -161,6 +161,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				2820 mm (111,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1650 mm (65,0")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1640 mm (64,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Luftwiderstandsbeiwert
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontfläche
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				Schraubenfeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp vorne
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Federungstyp hinten
+			</td>
+			<td>
+				Mehrlenker
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

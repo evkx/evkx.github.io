@@ -30,7 +30,7 @@ BYD Tang EV600 levererar en solid prestanda med en maximal effekt på 380 kW (51
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 90,0 kWh och en nettoanvändbar kapacitet på 86,4 kWh, vilket ger en buffert på 3,6 kWh (4,0%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
+Högkapacitetsbatteriet har en bruttokapacitet på 90,0 kWh och en nettoanvändbar kapacitet på 86,4 kWh, vilket ger en buffert på 3,6 kWh (4,0%) för batteriskydd. Vid en nominell spänning på 640 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 400 km (199 miles), med en energiförbrukningshastighet på 21,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -40,7 +40,7 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 12 timmar och 20 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 11 timmar och 40 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -54,7 +54,7 @@ BYD Tang EV600 har ett fyrhjulsdriftsystem som stöds av två motorer, en på va
 
 ### Hjulupphängning
 
-Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 190 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 190 mm.
 
 ### Styrning
 
@@ -66,7 +66,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 Den maximala regenerativa effekten är 200 kW.
 
@@ -224,6 +226,11 @@ Med Smart Pilot  nivå 2-systemet får du ytterligare funktioner för körautoma
 
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet och dragkapacitet
@@ -233,4 +240,8 @@ Bagageutrymmet erbjuder en lastkapacitet på 192 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 3060 kg, med en grundvikt på 2489 kg. Detta tillåter en maximal last på 571 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
+
+## Tillgänglighet och pris
+
+Denna modell hade världspremiär 16.11.2018 och leveranser startade i April 2019. Denna modell har nu utgått.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Räckvidd" >}}

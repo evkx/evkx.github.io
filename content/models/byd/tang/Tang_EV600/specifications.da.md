@@ -161,6 +161,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				2820 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bagtil
+			</td>
+			<td>
+				1640 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Trækningskoefficient
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				Spiralfjeder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

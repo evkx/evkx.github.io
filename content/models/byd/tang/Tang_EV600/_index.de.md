@@ -30,7 +30,7 @@ Der BYD Tang EV600 liefert eine solide Leistung mit einer maximalen Leistung von
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 90,0 kWh und eine nutzbare Nettokapazität von 86,4 kWh, was einen Puffer von 3,6 kWh (4,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 640 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 90,0 kWh und eine nutzbare Nettokapazität von 86,4 kWh, was einen Puffer von 3,6 kWh (4,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 640 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 400 km (249 Meilen) mit einem Energieverbrauch von 21,6 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -40,7 +40,7 @@ In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batte
 
 ### Bordladegerät
 
-Das  Onboard-Ladegerät unterstützt bis zu 7 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 12 Stunden und 20 Minuten vollständig von 0 auf 100% aufzuladen.
+Das  Onboard-Ladegerät unterstützt bis zu 7,4 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 11 Stunden und 40 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -54,7 +54,7 @@ Der BYD Tang EV600 verfügt über ein Allradantriebssystem, das von zwei Motoren
 
 ### Federung
 
-Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 190 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 190 mm.
 
 ### Lenkung
 
@@ -66,7 +66,9 @@ Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brak
 
 ### Rekuperatives Bremsen
 
-[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Es wird jedoch nicht als vollständiges Ein-Pedal-Fahren betrachtet, da das Fahrzeug bei niedrigen Geschwindigkeiten weiter rollt, bis es von selbst zum Stillstand kommt.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen zwei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 Die maximale regenerative Leistung beträgt 200 kW.
 
@@ -224,6 +226,11 @@ Mit dem Smart Pilot  Level 2 System erhalten Sie zusätzliche Fahrautomatisierun
 
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und acht [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
@@ -233,4 +240,8 @@ Der Kofferraum bietet ein Ladevolumen von 192 Litern (6,8 CU FT). Mit umgeklappt
 Das maximale Gewicht des Fahrzeugs beträgt 3060 kg (6746 lbs) bei einem Leergewicht von 2489 kg (5487 lbs). Dies ermöglicht eine maximale Zuladung von 571 kg (1259 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+## Verfügbarkeit & Preise
+
+Dieses Modell hatte seine Weltpremiere am 16.11.2018, und die Lieferungen begannen im April 2019. Dieses Modell wurde nun eingestellt.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Reichweite" >}}

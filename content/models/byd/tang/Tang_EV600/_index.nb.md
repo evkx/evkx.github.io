@@ -30,7 +30,7 @@ BYD Tang EV600 leverer solid ytelse med en maksimal effekt på 380 kW (517 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 90,0 kWh og en netto brukbar kapasitet på 86,4 kWh, som gir en buffer på 3,6 kWh (4,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 640 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 90,0 kWh og en netto brukbar kapasitet på 86,4 kWh, som gir en buffer på 3,6 kWh (4,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 640 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 400 km, med et energiforbruk på 21,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -40,7 +40,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 7 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 12 timer og 20 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 7,4 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 40 minutter med en hjemmelader.
 
 ### Ladeport
 
@@ -54,7 +54,7 @@ BYD Tang EV600 har et firehjulsdriftssystem som støttes av to motorer, en på h
 
 ### Hjuloppheng
 
--opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 190 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 190 mm.
 
 ### Styring
 
@@ -66,7 +66,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
+
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
 Den maksimale regenerative effekten er 200 kW.
 
@@ -224,6 +226,11 @@ Med Smart Pilot  nivå 2-systemet får du ekstra kjøreautomatiseringsfunksjoner
 
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -233,4 +240,8 @@ Bagasjerommet tilbyr en lastekapasitet på 192 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 3060 kg, med en basisvekt på 2489 kg. Dette gir en maksimal lastekapasitet på 571 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 1500 kg, mens for en ubremset tilhenger er det 750 kg.
+
+## Tilgjengelighet & pris
+
+Denne modellen hadde verdenspremiere den 16.11.2018, og leveransene startet i April 2019. Denne modellen er nå avviklet.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

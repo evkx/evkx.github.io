@@ -161,6 +161,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				2820 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bak
+			</td>
+			<td>
+				1640 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Drag-koeffisient
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				Spiralfjær
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

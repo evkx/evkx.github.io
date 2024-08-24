@@ -30,7 +30,7 @@ BYD Tang EV600 leverer en solid præstation med en maksimal effekt på 380 kW (5
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 90,0 kWh og en nettoanvendelig kapacitet på 86,4 kWh, hvilket giver en buffer på 3,6 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 640 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
+Det højkapacitetsbatteri har en bruttokapacitet på 90,0 kWh og en nettoanvendelig kapacitet på 86,4 kWh, hvilket giver en buffer på 3,6 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 640 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 400 km, med et energiforbrugsrate på 21,6 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -40,7 +40,7 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 7 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 12 timer og 20 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 11 timer og 40 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
@@ -54,7 +54,7 @@ BYD Tang EV600 har et firehjulstræk, der understøttes af to motorer, en på hv
 
 ### Hjulophæng
 
--ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 190 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 190 mm.
 
 ### Styring
 
@@ -66,7 +66,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
+
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 Den maksimale regenerative effekt er 200 kW.
 
@@ -224,6 +226,11 @@ Med Smart Pilot  niveau 2-systemet får du yderligere funktioner til køreautoma
 
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og otte [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
@@ -233,4 +240,8 @@ Bagagerummet har en lastekapacitet på 192 liter. Med det bageste sæde foldet n
 Køretøjets maksimale vægt er 3060 kg, med en basisvægt på 2489 kg. Dette giver en maksimal last på 571 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
+
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 16.11.2018, og leveringerne startede i April 2019. Denne model er nu udgået.
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Range" >}}

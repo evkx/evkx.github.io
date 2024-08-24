@@ -161,6 +161,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				640
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				LFP
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -275,6 +283,38 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				2820 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1640 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dragkoefficient
+			</td>
+			<td>
+				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Frontalområde
+			</td>
+			<td>
+				2,65
 			</td>
 		</tr>
 		<tr>
@@ -485,6 +525,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				Skruvfjäder
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				MacPhersonStrut
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>
@@ -728,7 +784,7 @@ Interior.Seatlayout.OnlySix
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -736,7 +792,7 @@ Interior.Seatlayout.OnlySix
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
