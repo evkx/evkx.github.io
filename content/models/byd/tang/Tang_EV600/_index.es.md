@@ -46,6 +46,10 @@ El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Ni
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 2 kW de potencia, incluida la carga de otros vehículos.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -202,7 +206,7 @@ Aunque el sistema de infoentretenimiento no incluye una tienda de aplicaciones, 
 
 Un tipo de sistema de sonido está disponible para el BYD Tang EV600.
 
-- Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+- Con el Dirac sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 4 conexiones USB-A de serie.
 

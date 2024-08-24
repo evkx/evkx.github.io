@@ -46,6 +46,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 2 kW de puissance, y compris charger d'autres véhicules.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -202,7 +206,7 @@ Bien que le système d'infodivertissement ne comprenne pas de boutique d'applica
 
 Un type de système audio est disponible pour le BYD Tang EV600.
 
-- Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Dirac sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
 
 Le modèle dispose de 4 connexions USB-A en standard.
 

@@ -46,6 +46,10 @@ The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. 
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectoral charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 2 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -202,7 +206,7 @@ While the infotainment system does not include an app store, it comes with a sel
 
 The BYD Tang EV600 comes equipped with one sound system option:
 
-- **Premium sound system:** Features 12 speakers and delivers a maximum output of  watts.
+- **Dirac sound system:** Features 12 speakers and delivers a maximum output of  watts.
 
 The model has 4 USB-A connections as standard.
 

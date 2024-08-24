@@ -46,6 +46,10 @@ Den standard ombordladeren støtter opptil 7,4 kW for Level 1 og Level 2 AC-ladi
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
+### Toveis lading
+
+Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 2 kW strøm, inkludert lading av andre kjøretøy.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivverk
@@ -202,7 +206,7 @@ Selv om infotainmentsystemet ikke inkluderer en appbutikk, leveres det med et ut
 
 Én type lydsystem er tilgjengelig for BYD Tang EV600.
 
-- Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+- Med Dirac sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 
