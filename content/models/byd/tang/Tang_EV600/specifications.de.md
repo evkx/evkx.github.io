@@ -126,7 +126,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				90 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				1640 mm (64,6")
+				1630 mm (64,2")
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +387,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				763 Liter (27 cu-ft)
+				1655 Liter (58 cu-ft)
 			</td>
 		</tr>
 		<tr>

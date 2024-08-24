@@ -27,10 +27,10 @@ navicon: bi-battery-charging
 <td>Gennemsnitlig opladningshastighed 10-80 %</td><td>99,7 kW</td>
 </tr>
 <tr>
-<td>Maks C-Rate</td><td>1,32</td>
+<td>Maks C-Rate</td><td>1,35</td>
 </tr>
 <tr>
-<td>Gennemsnitlig C-rate</td><td>1,05</td>
+<td>Gennemsnitlig C-rate</td><td>1,08</td>
 </tr>
 <tr>
 <td>Optimalt ladeområde</td><td>4% - 59%</td>

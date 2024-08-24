@@ -30,7 +30,7 @@ The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 90.0 kWh and a net usable capacity of 86.4 kWh, providing a 3.6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 88.0 kWh and a net usable capacity of 86.4 kWh, providing a 1.6 kWh buffer (1.8%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -54,7 +54,7 @@ This model supports V2L (Vehicle to Load), allowing you to power electrical equi
 
 ## Drivetrain
 
-The BYD Tang EV600 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+The BYD Tang EV600 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -102,6 +102,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The BYD Tang EV600 boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
 
 ### Seats
 
@@ -261,7 +263,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 763 liters (26.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
+The trunk offers a cargo capacity of 192 liters (6.8 CU FT). With the rear seat folded down, this expands to 1655 liters (58.4 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack.
 
 The vehicle’s maximum weight is 3060 kg (6746 lbs), with a base weight of 2489 kg (5487 lbs). This allows for a maximum load of 571 kg (1259 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
