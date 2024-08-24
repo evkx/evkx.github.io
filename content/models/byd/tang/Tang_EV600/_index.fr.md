@@ -103,7 +103,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Le BYD Tang EV600 dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Une caractéristique remarquable est la console centrale à deux niveaux, qui sépare le conducteur et le passager tout en offrant un rangement pratique et une fonctionnalité améliorée.
+Le BYD Tang EV600 dispose d'un intérieur axé sur le conducteur, améliorant la sensation de cockpit avec des matériaux de haute qualité dans plusieurs zones à la place du plastique dur. Il comprend également une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement pratique et une fonctionnalité.
 
 ### Sièges
 
@@ -239,6 +239,8 @@ Le BYD Tang EV600 comprend plusieurs [systèmes avancés d'assistance au conduct
 
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le BYD Tang EV600, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
 
+[**Assistance au Trafic Transversal Avant (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/): Standard sur le BYD Tang EV600, ce système d'assistance au conducteur aide à détecter le trafic venant en sens inverse lorsqu'on traverse une intersection ou qu'on tourne à gauche ou à droite depuis une position arrêtée.
+
 [**Alerte de Trafic Croisé Arrière (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard sur le BYD Tang EV600, ce système utilise des capteurs pour détecter les véhicules qui approchent par les côtés lors de la marche arrière depuis une place de stationnement ou une entrée.
 
 [**Alerte de Collision Frontale (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard sur le BYD Tang EV600, ce système d'assistance au conducteur aide à éviter ou à atténuer les collisions frontales.
@@ -246,6 +248,8 @@ Le BYD Tang EV600 comprend plusieurs [systèmes avancés d'assistance au conduct
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le BYD Tang EV600, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
 [**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le BYD Tang EV600, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le BYD Tang EV600, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 
@@ -274,6 +278,12 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 ## Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 16.11.2018 et les livraisons ont commencé en April 2019. Ce modèle a maintenant été abandonné.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 599 900,00 NOK (Norvège)
 
 ## Modèles Alternatifs
 
