@@ -187,7 +187,7 @@ Un sistema de control de gestos que te permite controlar funciones específicas 
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado te ayuda a llegar a tu destino con facilidad. Sin embargo, no admite la planificación de rutas con paradas de carga, lo que requiere que planifiques tus paradas de carga manualmente. Además, no proporciona información de tráfico en tiempo real, lo que lo hace menos valioso en comparación con los sistemas de navegación en muchos otros vehículos eléctricos.
 
 ### Sistema de sonido
 

@@ -187,7 +187,7 @@ A gesture control system that lets you control specific features using your hand
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system helps you navigate to your destination with ease. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually. Additionally, it does not provide real-time traffic information, making it less valuable compared to navigation systems in many other EVs.
 
 ### Sound System
 

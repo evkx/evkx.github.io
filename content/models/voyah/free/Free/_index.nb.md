@@ -187,7 +187,7 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet hjelper deg med å navigere til din destinasjon med letthet. Det støtter imidlertid ikke ruteplanlegging med ladestopp, noe som krever at du planlegger ladestoppene dine manuelt. I tillegg gir det ikke sanntids trafikkinformasjon, noe som gjør det mindre verdifullt sammenlignet med navigasjonssystemer i mange andre elbiler.
 
 ### Lydsystem
 
