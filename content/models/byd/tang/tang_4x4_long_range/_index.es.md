@@ -73,7 +73,7 @@ El BYD Tang 4x4 Long Range permite al usuario seleccionar diferentes [modos de c
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 320 mm y los discos traseros de 320 mm.
 
 ### Frenado regenerativo
 
@@ -297,8 +297,13 @@ Los precios pueden variar según las condiciones locales, los incentivos y las p
 
 En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al BYD Tang 4x4 Long Range que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
 
-- [Nio ES8](/models/nio/es8/es8/)
+- [Nio EL6](/models/nio/el6/el6/)
+- [Nio EL7](/models/nio/el7/el7/)
+- [Nio EL8](/models/nio/el8/el8/)
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [VOYAH FREE](/models/voyah/free/free/)
 
-<a href="https://db.evkx.net/evcompare?evs=becb7f%2ccc43c9" target="_blank">Explora una comparación detallada de estos modelos.</a>
+<a href="https://db.evkx.net/evcompare?evs=becb7f%2cd5c67f%2ce48512%2c44c9b9%2c1a8daa%2cb42577%2c7c124f" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Rango" >}}

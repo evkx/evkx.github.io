@@ -73,7 +73,7 @@ BYD Tang EV600 låter användaren välja olika [drivemodes](../../../../technolo
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 320mm och de bakre skivorna är 320mm.
 
 ### Regenerativ bromsning
 

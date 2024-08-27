@@ -73,7 +73,7 @@ Der BYD Tang EV600 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../..
 
 ### Bremsen
 
-Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 320 mm, während die hinteren Scheiben 320 mm groß sind.
 
 ### Rekuperatives Bremsen
 

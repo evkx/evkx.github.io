@@ -73,7 +73,7 @@ El BYD Tang EV600 permite al usuario seleccionar diferentes [modos de conducció
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 320 mm y los discos traseros de 320 mm.
 
 ### Frenado regenerativo
 

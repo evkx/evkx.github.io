@@ -73,7 +73,7 @@ Le BYD Tang 4x4 Long Range permet à l'utilisateur de sélectionner différents 
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 320 mm et les disques arrière mesurent 320 mm.
 
 ### Freinage régénératif
 
@@ -297,8 +297,13 @@ Les prix peuvent varier en fonction des conditions locales, des incitations et d
 
 Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au BYD Tang 4x4 Long Range qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
 
-- [Nio ES8](/models/nio/es8/es8/)
+- [Nio EL6](/models/nio/el6/el6/)
+- [Nio EL7](/models/nio/el7/el7/)
+- [Nio EL8](/models/nio/el8/el8/)
+- [Audi Q8 55 e-tron](/models/audi/q8_e-tron/q8_55_e-tron/)
+- [BMW iX xDrive50](/models/bmw/ix/ix_xdrive50/)
+- [VOYAH FREE](/models/voyah/free/free/)
 
-<a href="https://db.evkx.net/evcompare?evs=becb7f%2ccc43c9" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=becb7f%2cd5c67f%2ce48512%2c44c9b9%2c1a8daa%2cb42577%2c7c124f" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="BYD Tang" f_url="rangeandconsumption/" f_title="Plage" >}}

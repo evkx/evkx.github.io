@@ -73,7 +73,7 @@ The BYD Tang EV600 lets the user select different [drive modes](../../../../tech
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 320 mm, while the rear discs are 320 mm.
 
 ### Regenerative Braking
 

@@ -73,7 +73,7 @@ BYD Tang EV600 lar brukeren velge forskjellige [kjøremoduser](../../../../techn
 
 ### Bremser
 
-Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 320mm, og de bakre skivene er 320mm.
 
 ### Regenerativ bremsing
 

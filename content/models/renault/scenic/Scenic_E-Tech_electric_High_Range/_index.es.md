@@ -168,6 +168,8 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+El Renault Scenic E-Tech electric High Range cuenta con un avanzado sistema de infoentretenimiento basado en Android Automotive OS con Google Automotive Services, lo que permite una integración fluida de las aplicaciones y servicios de Google directamente en el vehículo. Este robusto sistema incluye Google Maps integrado para la navegación, Google Assistant para comandos de voz y acceso a una amplia gama de aplicaciones a través de Google Play Store. Renault ha mejorado aún más esta plataforma integrando su propia suite de aplicaciones, que ofrecen configuraciones completas del vehículo y funciones adicionales diseñadas para la experiencia de conducción de Renault.
+
 ### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
