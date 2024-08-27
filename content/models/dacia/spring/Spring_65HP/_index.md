@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/main_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1695"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 26.8 kWh and a net usable capacity of 25.0 kWh, providing a 1.8 kWh buffer (6.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 26.8 kWh and a net usable capacity of 25.0 kWh, providing a 1.8 kWh buffer (6.7%) for battery protection. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 220 km (137 miles), with an energy consumption rate of 11.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 220 km (137 miles), with an energy consumption rate of 11.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 30 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical charging scenario from 10% to 80% takes 40 minutes with an average charging speed of 26 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 67%. This results in an effective charging speed, including time lost, of 25 kW, with each charging session taking about 39 minutes and 30 seconds.
+The vehicle supports fast DC charging with a maximum power of 30 kW. Charging from 0% to 100% takes approximately 80 minutes, while a more typical scenario from 10% to 80% takes 40 minutes with an average charging speed of 26 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 67%. This results in an effective charging speed, including time lost, of 25 kW, with each charging session taking about 39 minutes and 30 seconds.
 
 ### Onboard Charger
 

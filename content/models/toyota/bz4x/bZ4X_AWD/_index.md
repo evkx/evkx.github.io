@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/main_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="2002"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Toyota bZ4X AWD offers modest performance with a maximum power of 160 kW (21
 
 The high-capacity battery has a gross capacity of 71.4 kWh and a net usable capacity of 58.0 kWh, providing a 13.4 kWh buffer (18.8%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 470 to 415 km (292-258 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.3 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 470 to 415 km (292-258 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.3 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 147 kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed of 71 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 50%. This results in an effective charging speed, including time lost, of 78 kW, with each charging session taking about 21 minutes and 27 seconds.
+The vehicle supports fast DC charging with a maximum power of 147 kW. Charging from 0% to 100% takes approximately 74 minutes, while a more typical scenario from 10% to 80% takes 34 minutes with an average charging speed of 71 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 50%. This results in an effective charging speed, including time lost, of 78 kW, with each charging session taking about 21 minutes and 27 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 10 hours and 34 minutes. This journey would require six charging stops from 1% to 51%, with a total charging time of 134 minutes.
 

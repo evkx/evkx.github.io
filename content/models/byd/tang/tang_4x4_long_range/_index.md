@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/main_1_st.jpg" title="BYD Tang 4x4 Long Range" width="1920" height="1080"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ The BYD Tang 4x4 Long Range delivers a solid performance with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 108.8 kWh and a net usable capacity of 107.0 kWh, providing a 1.8 kWh buffer (1.7%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 108.8 kWh and a net usable capacity of 107.0 kWh, providing a 1.8 kWh buffer (1.7%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 miles), with an energy consumption rate of 20.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 530 km (329 miles), with an energy consumption rate of 20.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 96 kW, with each charging session taking about 37 minutes and 43 seconds.
+The vehicle supports fast DC charging with a maximum power of 170 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical scenario from 10% to 80% takes 45 minutes with an average charging speed of 100 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 59%. This results in an effective charging speed, including time lost, of 96 kW, with each charging session taking about 37 minutes and 43 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 31.7 kWh/100 km, the trip would take approximately 10 hours and 34 minutes. This journey would require four charging stops from 9% to 59%, with a total charging time of 135 minutes.
 

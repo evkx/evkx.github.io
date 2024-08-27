@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/main_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Mini Cooper SE offers modest performance with a maximum power of 160 kW (218
 
 The high-capacity battery has a gross capacity of 54.2 kWh and a net usable capacity of 49.0 kWh, providing a 5.2 kWh buffer (9.6%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 402 to 377 km (250-234 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 402 to 377 km (250-234 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.2 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 95 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 31 minutes with an average charging speed of 66 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 58%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 24 minutes and 12 seconds.
+The vehicle supports fast DC charging with a maximum power of 95 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 66 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 58%. This results in an effective charging speed, including time lost, of 62 kW, with each charging session taking about 24 minutes and 12 seconds.
 
 ### Onboard Charger
 

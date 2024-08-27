@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/main_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (54
 
 The high-capacity battery has a gross capacity of 102.7 kWh and a net usable capacity of 100.0 kWh, providing a 2.7 kWh buffer (2.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 14.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 14.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 520 kW. Charging from 0% to 100% takes approximately 22 minutes, while a more typical charging scenario from 10% to 80% takes 11 minutes with an average charging speed of 397 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 80%. This results in an effective charging speed, including time lost, of 283 kW, with each charging session taking about 17 minutes and 44 seconds. This exceptionally fast charging capability makes the Li Auto MEGA one of the most efficient and convenient EVs for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 520 kW. Charging from 0% to 100% takes approximately 22 minutes, while a more typical scenario from 10% to 80% takes 11 minutes with an average charging speed of 397 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 80%. This results in an effective charging speed, including time lost, of 283 kW, with each charging session taking about 17 minutes and 44 seconds. This exceptionally fast charging capability makes the Li Auto MEGA one of the most efficient and convenient EVs for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 8 hours and 48 minutes. This journey would require two charging stops from 2% to 67%, with a total charging time of 28 minutes.
 

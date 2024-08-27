@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/main_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Chevrolet Silverado EV 3WT delivers a solid performance with a maximum power
 
 The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 393 miles (632 km) with an energy consumption rate of 2.1 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 393 miles (632 km) with an energy consumption rate of 2.1 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 124 minutes, while a more typical charging scenario from 10% to 80% takes 43 minutes with an average charging speed of 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 240 kW, with each charging session taking about 29 minutes and 2 seconds. This efficient charging capability makes the Chevrolet Silverado EV 3WT a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 124 minutes, while a more typical scenario from 10% to 80% takes 43 minutes with an average charging speed of 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 62%. This results in an effective charging speed, including time lost, of 240 kW, with each charging session taking about 29 minutes and 2 seconds. This efficient charging capability makes the Chevrolet Silverado EV 3WT a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 35 kWh/100 km, the trip would take approximately 9 hours and 1 minutes. This journey would require two charging stops from 1% to 44%, with a total charging time of 41 minutes.
 

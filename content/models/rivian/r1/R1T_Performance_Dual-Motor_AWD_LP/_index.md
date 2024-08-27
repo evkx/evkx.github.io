@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Rivian R1T Performance Dual-Motor AWD LP packs an impressive punch with a ma
 
 The high-capacity battery has a gross capacity of 136.0 kWh and a net usable capacity of 135.0 kWh, providing a 1.0 kWh buffer (0.7%) for battery protection.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 352 miles (566 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 352 miles (566 km) with an energy consumption rate of 2.6 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 113 minutes, while a more typical charging scenario from 10% to 80% takes 45 minutes with an average charging speed of 125 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 140 kW, with each charging session taking about 26 minutes and 4 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 113 minutes, while a more typical scenario from 10% to 80% takes 45 minutes with an average charging speed of 125 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 140 kW, with each charging session taking about 26 minutes and 4 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 9 hours and 31 minutes. This journey would require three charging stops from 0% to 41%, with a total charging time of 72 minutes.
 

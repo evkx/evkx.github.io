@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/main_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1571"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -33,9 +33,9 @@ The Ford F150 Lightning Extended Range packs an impressive punch with a maximum 
 The high-capacity battery has a gross capacity of 150.0 kWh and a net usable capacity of 130.0 kWh, providing a 20.0 kWh buffer (13.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 320 to 300 miles (515-483 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
-The energy consumption rates are 2.5 mi/kWh for the base model and 2.3 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The energy consumption rates are 2.5 mi/kWh for the base model and 2.3 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 155 kW. Charging from 0% to 100% takes approximately 129 minutes, while a more typical charging scenario from 10% to 80% takes 49 minutes with an average charging speed of 112 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 62%. This results in an effective charging speed, including time lost, of 106 kW, with each charging session taking about 46 minutes and 35 seconds.
+The vehicle supports fast DC charging with a maximum power of 155 kW. Charging from 0% to 100% takes approximately 129 minutes, while a more typical scenario from 10% to 80% takes 49 minutes with an average charging speed of 112 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 62%. This results in an effective charging speed, including time lost, of 106 kW, with each charging session taking about 46 minutes and 35 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 33 kWh/100 km, the trip would take approximately 10 hours and 13 minutes. This journey would require two charging stops from 0% to 77%, with a total charging time of 114 minutes.
 

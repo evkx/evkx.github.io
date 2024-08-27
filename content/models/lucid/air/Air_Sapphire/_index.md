@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/main_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/
 
 The high-capacity battery has a gross capacity of 118.0 kWh and a net usable capacity of 117.0 kWh, providing a 1.0 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 427 miles (687 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 427 miles (687 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 72 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed of 174 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 177 kW, with each charging session taking about 18 minutes and 48 seconds. This efficient charging capability makes the Lucid Air Sapphire a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 72 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 174 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 177 kW, with each charging session taking about 18 minutes and 48 seconds. This efficient charging capability makes the Lucid Air Sapphire a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 8 hours and 51 minutes. This journey would require two charging stops from 0% to 40%, with a total charging time of 32 minutes.
 

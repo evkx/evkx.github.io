@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/main_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -38,9 +38,9 @@ The Volvo XC40 Recharge Twin Motor delivers a solid performance with a maximum p
 
 The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 79.0 kWh, providing a 3.0 kWh buffer (3.7%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 535 to 522 km (333-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.8 kWh/100 km for the base model and 15.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 535 to 522 km (333-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.8 kWh/100 km for the base model and 15.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical charging scenario from 10% to 80% takes 28 minutes with an average charging speed of 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 19 minutes and 27 seconds.
+The vehicle supports fast DC charging with a maximum power of 205 kW. Charging from 0% to 100% takes approximately 65 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 119 kW, with each charging session taking about 19 minutes and 27 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28 kWh/100 km, the trip would take approximately 10 hours and 1 minutes. This journey would require five charging stops from 1% to 52%, with a total charging time of 101 minutes.
 

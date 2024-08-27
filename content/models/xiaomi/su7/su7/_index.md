@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/main_1_st.jpg" title="Xiaomi SU7" width="3000" height="1500"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -30,11 +30,11 @@ The Xiaomi SU7 delivers a solid performance with a maximum power of 220 kW (299 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 73.6 kWh and a net usable capacity of 73.0 kWh, providing a 0.6 kWh buffer (0.8%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 73.6 kWh and a net usable capacity of 73.0 kWh, providing a 0.6 kWh buffer (0.8%) for battery protection. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km ( miles). he energy consumption is 10.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km ( miles). he energy consumption is 10.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed of 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 108 kW, with each charging session taking about 28 minutes and 1 seconds.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical scenario from 10% to 80% takes 25 minutes with an average charging speed of 124 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 72%. This results in an effective charging speed, including time lost, of 108 kW, with each charging session taking about 28 minutes and 1 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 16 kWh/100 km, the trip would take approximately 9 hours and 9 minutes. This journey would require two charging stops from 3% to 63%, with a total charging time of 49 minutes.
 

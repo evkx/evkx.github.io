@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/main_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1689"  >}}
 
-We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
 - [Performance](#performance)
 - [Battery, Range, and Charging](#battery-range-and-charging)
@@ -32,9 +32,9 @@ The Renault Scenic E-Tech electric High Range offers modest performance with a m
 
 The high-capacity battery has a gross capacity of 91.0 kWh and a net usable capacity of 87.0 kWh, providing a 4.0 kWh buffer (4.4%) for battery protection.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 625 to 622 km (388-387 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.9 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 625 to 622 km (388-387 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.9 kWh/100 km for the base model and 14.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 130 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed of 107 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 59%. This results in an effective charging speed, including time lost, of 98 kW, with each charging session taking about 28 minutes and 18 seconds.
+The vehicle supports fast DC charging with a maximum power of 130 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical scenario from 10% to 80% takes 34 minutes with an average charging speed of 107 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 59%. This results in an effective charging speed, including time lost, of 98 kW, with each charging session taking about 28 minutes and 18 seconds.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 48 minutes. This journey would require three charging stops from 6% to 61%, with a total charging time of 88 minutes.
 
