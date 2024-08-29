@@ -129,6 +129,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				61,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -218,7 +226,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4390 mm (172,8")
+				4387 mm (172,7")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Height
+			</td>
+			<td>
+				1584 mm (62,4")
 			</td>
 		</tr>
 		<tr>
@@ -227,6 +243,38 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				1790 mm (70,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
+			</td>
+			<td>
+				2028 mm (79,8")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2607 mm (102,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width front
+			</td>
+			<td>
+				1539 mm (60,6")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1540 mm (60,6")
 			</td>
 		</tr>
 	</tbody>
@@ -275,7 +323,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				346 liter (12 cu-ft)
+				361 liter (13 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1176 liter (42 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -404,6 +460,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
@@ -440,7 +497,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat height adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +505,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Backrest angle adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +521,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +545,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +553,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +561,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +569,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +577,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +650,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +960,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +968,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +976,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +992,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/userinterface/screens/">Digital driver display</a>
 			</td>
 			<td>
-				Yes, 9
+				Yes, 10,2
 			</td>
 		</tr>
 		<tr>

@@ -101,7 +101,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The VOYAH FREE boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+The VOYAH FREE boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
 
 ### Seats
 

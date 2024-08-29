@@ -46,7 +46,7 @@ The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. 
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
-### Bidirectoral charging
+### Bidirectional Charging
 
 This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 2 kW of power, including the ability to charge other vehicles.
 
@@ -103,7 +103,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The BYD Tang EV600 boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas in place of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
+The BYD Tang EV600 boasts a driver-centric interior, enhancing the cockpit feel with high-quality materials in several areas instead of hard plastic. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
 
 ### Seats
 

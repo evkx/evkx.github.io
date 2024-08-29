@@ -93,7 +93,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Tesla Model 3 Long Range is minimalistic, featuring high-quality materials in several areas in place of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
+The interior of the Tesla Model 3 Long Range is minimalistic, featuring high-quality materials in several areas instead of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
 
 ### Seats
 

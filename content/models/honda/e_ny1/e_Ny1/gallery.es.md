@@ -27,6 +27,24 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_3.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_3_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_4.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/exterior_4_xst.jpg" alt="Honda e:Ny1" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/honda/e_ny1/e_ny1/headlights_1.jpg"
 data-pswp-width="3000"

@@ -129,6 +129,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				61,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -218,7 +226,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4390 mm
+				4387 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Altura
+			</td>
+			<td>
+				1584 mm
 			</td>
 		</tr>
 		<tr>
@@ -227,6 +243,38 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1790 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				2028 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Distancia entre ejes
+			</td>
+			<td>
+				2607 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1539 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1540 mm
 			</td>
 		</tr>
 	</tbody>
@@ -275,7 +323,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				346 litro
+				361 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1176 litro
 			</td>
 		</tr>
 	</tbody>
@@ -404,6 +460,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -440,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -448,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -464,7 +521,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				No disponible
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +545,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +553,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +561,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +569,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +577,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +650,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +960,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Android Auto
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +968,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte Apple Carplay
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +976,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				En navegación del coche
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -932,7 +992,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla del controlador digital
 			</td>
 			<td>
-				Sí, 9
+				Sí, 10,2
 			</td>
 		</tr>
 		<tr>

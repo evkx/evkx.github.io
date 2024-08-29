@@ -30,13 +30,13 @@ Honda e:Ny1 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (2
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 68,8 kWh og en nettoanvendelig kapacitet på 61,9 kWh, hvilket giver en buffer på 6,9 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 68,8 kWh og en nettoanvendelig kapacitet på 61,9 kWh, hvilket giver en buffer på 6,9 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 412 km, med et energiforbrugsrate på 15,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 38 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 92%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 62kW. Hver opladningssession ville tage 51 minutter og 28 sekunder.
+Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 122 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 55%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 57kW. Hver opladningssession ville tage 33 minutter og 12 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 11 timer og 18 minutter. Denne rejse ville kræve to opladningsstop fra 16% til 90%, med en samlet opladningstid på 179 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 11 timer og 35 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 55%, med en samlet opladningstid på 195 minutter
 
 ### Ombordlader
 
@@ -61,11 +61,17 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Den Honda e:Ny1, med dimensioner på 4390 mm i længde, 1790 mm i bredde og  mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
+Den Honda e:Ny1, med dimensioner på 4387 mm i længde, 1790 mm i bredde og 1584 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Honda e:Ny1 fås i alt 5 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
 
-Du kan vælge mellem flere hjul i forskellige størrelser på Honda e:Ny1, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Honda e:Ny1, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-Der er kun ét tag til denne model.
+- 225/50 dæk on 18" fælge
+
+Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
+
+Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+
+Ruderne fra B-stolpen og bagsiden er tonede.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
@@ -73,7 +79,11 @@ Der er kun ét tag til denne model.
 
 ## Interiør
 
+interior.intro.functional.highquality.traditional Du kan vælge mellem flere interiørdesigns.
+
 ### Sæder
+
+Honda e:Ny1 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
 
 #### Første række sæder
 
@@ -81,19 +91,35 @@ Honda e:Ny1 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- elektrisk justering
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating)
+
+Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+
+- Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 #### Sæde på anden række
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
+
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
 
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
+
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+
 ## Komfortfunktioner
 
 Honda e:Ny1 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -103,7 +129,7 @@ Honda e:Ny1 har flere integrerede skærme. Bag rattet er en [digital instrumentk
 
 Vigtige skærmdetaljer:
 
-- Skærmen  bag rattet integreret i instrumentbrættet er 9,0 tommer stor
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor
 - Skærmen touch øverst på midterkonsollen er 15,2 tommer stor
 
 Modellen har ikke et head-up display.
@@ -114,7 +140,7 @@ Modellen har ikke et head-up display.
 
 Honda e:Ny1 er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat giver intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har valgfri integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
 
 ### Spejle
 
@@ -122,11 +148,21 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ## Infotainment
 
+### Navigationssystem
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### Telefon spejling
+
+Yderligere understøtter Honda e:Ny1 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
 ### Lydsystem
 
 Én type lydsystem er tilgængelig for Honda e:Ny1.
 
 - Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
+Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
 ## Lys
 
@@ -144,18 +180,47 @@ Den Honda e:Ny1 inkluderer flere standard- og valgfri [avancerede førerassisten
 
 ### Køreautomatisering
 
-Med standardudstyret tilbyder modellen ingen køreautomatisering.
+Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+
+- [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 346 liter.
+Bagagerummet har en lastekapacitet på 361 liter. Med det bageste sæde foldet ned, udvides dette til 1176 liter.
 
 Køretøjets maksimale vægt er 2080 kg, med en basisvægt på 1677 kg. Dette giver en maksimal last på 403 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
+
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 11.05.2023, og leveringerne startede i October 2023. Denne model er kun tilgængelig i Europa.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 299 000,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Honda e:Ny1, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Hyundai Kona Standard Range](/models/hyundai/kona/kona_standard_range/)
+- [Kia Niro EV](/models/kia/niro/niro_ev/)
+- [Peugot E-2008](/models/peugot/2008/e-2008/)
+- [MG ZS EV Standard Range](/models/mg/zs/zs_ev_standard_range/)
+- [Nissan Ariya 63kWh](/models/nissan/ariya/ariya_63kwh/)
+
+<a href="https://db.evkx.net/evcompare?evs=2a0309%2c6caa5c%2cc5cbaf%2c9991fd%2c0c7e63%2cc6e526" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda e:Ny1" f_url="rangeandconsumption/" f_title="Range" >}}

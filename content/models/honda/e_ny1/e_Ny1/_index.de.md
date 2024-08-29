@@ -30,13 +30,13 @@ Der Honda e:Ny1 bietet eine bescheidene Leistung mit einer maximalen Leistung vo
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 68,8 kWh und eine nutzbare Nettokapazität von 61,9 kWh, was einen Puffer von 6,9 kWh (10,0%) zum Schutz der Batterie bietet.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 68,8 kWh und eine nutzbare Nettokapazität von 61,9 kWh, was einen Puffer von 6,9 kWh (10,0%) zum Schutz der Batterie bietet. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 412 km (256 Meilen) mit einem Energieverbrauch von 15,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 59 Minuten, während ein typischer Ladevorgang von 10% auf 80% 38 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 69 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 92%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 62 kW, wobei jede Ladesitzung etwa 51 Minuten und 28 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 122 Minuten, während ein typischer Ladevorgang von 10% auf 80% 43 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 55%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 57 kW, wobei jede Ladesitzung etwa 33 Minuten und 12 Sekunden dauert.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 11 Stunden und 18 Minuten dauern. Diese Reise würde vier Ladestopps von 16% auf 90% erfordern, mit einer gesamten Ladezeit von 179 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 11 Stunden und 35 Minuten dauern. Diese Reise würde sechs Ladestopps von 5% auf 55% erfordern, mit einer gesamten Ladezeit von 195 Minuten.
 
 ### Bordladegerät
 
@@ -61,11 +61,17 @@ Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/
 
 ## Exterieur
 
-Der Honda e:Ny1, mit Abmessungen von 4390 mm Länge, 1790 mm Breite und  mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Sie können zwischen 1 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der Honda e:Ny1, mit Abmessungen von 4387 mm Länge, 1790 mm Breite und 1584 mm Höhe, fällt in die B-SUV-Segment-Autos, auch als subkompakte SUVs oder Crossover bekannt, bieten eine Kombination aus der kompakten Größe und Manövrierfähigkeit von B-Segment-Autos mit der höheren Sitzposition, dem erhöhten Laderaum und dem robusten Styling eines SUVs. Der Honda e:Ny1 ist in insgesamt 5 Lackfarben erhältlich, die alle Metallic- und Perlmutt-Optionen umfassen.
 
-Der Honda e:Ny1 bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
+Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Honda e:Ny1 erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-Es gibt nur eine Dachoption für dieses Modell.
+- 225/50 Reifen auf 18" Felgen
+
+Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
+
+Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+
+Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
@@ -73,7 +79,11 @@ Es gibt nur eine Dachoption für dieses Modell.
 
 ## Interieur
 
+interior.intro.functional.highquality.traditional Sie können zwischen mehreren Innenraumdesigns wählen.
+
 ### Sitze
+
+Der Honda e:Ny1 bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
 
 #### Vordersitze
 
@@ -81,19 +91,35 @@ Der Honda e:Ny1 bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- Elektrische Verstellung
+- Höhenverstellbare Kopfstütze
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+
 Verfügbar in:
+
+- Gray [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
+- Höhenverstellbare Kopfstütze
+
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
 
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
+
+Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). Dies kann den Verbrauch bei kaltem Wetter im Vergleich zu Modellen mit Wärmepumpe erhöhen.
+
 ## Komfortfunktionen
 
 Der Honda e:Ny1 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
+
+- **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
+- **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
@@ -103,7 +129,7 @@ Der Honda e:Ny1 hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet
 
 Wichtige Bildschirmdetails:
 
-- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 9,0 Zoll groß.
+- Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 10,2 Zoll groß.
 - Der touch-Bildschirm oben in der Mittelkonsole ist 15,2 Zoll groß.
 
 Das Modell verfügt nicht über ein Head-up-Display.
@@ -114,7 +140,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der Honda e:Ny1 ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad bietet eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine optionale integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
 
 ### Spiegel
 
@@ -122,11 +148,21 @@ Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltech
 
 ## Infotainment
 
+### Navigationssystem
+
+Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+
+### Telefonspiegelung
+
+Der Honda e:Ny1 unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
+
 ### Soundsystem
 
 Der Honda e:Ny1 ist mit einer Soundsystemoption ausgestattet:
 
 - **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+
+Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
 ## Lichter
 
@@ -144,18 +180,47 @@ Der Honda e:Ny1 verfügt über eine Reihe von standardmäßigen und optionalen [
 
 ### Fahrautomatisierung
 
-Mit dem Standardsystem bietet das Modell keine Fahrautomatisierung.
+Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+
+- [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 346 Litern (12,2 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 361 Litern (12,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1176 Liter (41,5 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2080 kg (4586 lbs) bei einem Leergewicht von 1677 kg (3697 lbs). Dies ermöglicht eine maximale Zuladung von 403 kg (888 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
+
+## Verfügbarkeit & Preise
+
+Der Honda e:Ny1 feierte seine Weltpremiere am 11.05.2023, mit Lieferungen ab October 2023. Bitte beachten Sie, dass dieses Modell ausschließlich in Europa erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 299 000,00 NOK (Norwegen)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Honda e:Ny1 identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Hyundai Kona Standard Range](/models/hyundai/kona/kona_standard_range/)
+- [Kia Niro EV](/models/kia/niro/niro_ev/)
+- [Peugot E-2008](/models/peugot/2008/e-2008/)
+- [MG ZS EV Standard Range](/models/mg/zs/zs_ev_standard_range/)
+- [Nissan Ariya 63kWh](/models/nissan/ariya/ariya_63kwh/)
+
+<a href="https://db.evkx.net/evcompare?evs=2a0309%2c6caa5c%2cc5cbaf%2c9991fd%2c0c7e63%2cc6e526" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
 
 {{< pagenavigation b_url="../" b_title="Honda e:Ny1" f_url="rangeandconsumption/" f_title="Reichweite" >}}
