@@ -1,0 +1,228 @@
+---
+title: Zeekr 7X Long Range AWD
+linktitle: "7X Long Range AWD"
+description: "Zeekr 7X Long Range AWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/main_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
+
+We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
+
+- [Performance](#performance)
+- [Battery, Range, and Charging](#battery-range-and-charging)
+- [Drivetrain (suspension, brakes, steering)](#drivetrain)
+- [Exterior (paint colors, wheels ++)](#exterior)
+- [Interior (seats++)](#interior)
+- [User interface and control](#user-interface-and-control)
+- [Infotainment](#infotainment)
+- [Lights](#lights)
+- [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
+- [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
+
+## Performance
+
+The Zeekr 7X Long Range AWD packs an impressive punch with a maximum power of 475 kW (646 hp / 637 bhp) and a commanding total torque of 710 Nm (524 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+
+## Battery, Range, and Charging
+
+The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 95.0 kWh, providing a 5.0 kWh buffer (5.0%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 780 km ( miles). he energy consumption is 12.2 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+
+The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 57 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 147 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 58%. This results in an effective charging speed, including time lost, of 134 kW, with each charging session taking about 23 minutes and 54 seconds.
+
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 21 minutes. This journey would require three charging stops from 6% to 54%, with a total charging time of 61 minutes.
+
+### Onboard Charger
+
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 38 minutes using a home charging setup.
+
+### Charge Port
+
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
+{{<evkxdisplayaddarticle />}}
+
+## Drivetrain
+
+The Zeekr 7X Long Range AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+### Suspension
+
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 162 mm, and the maximum is 192 mm.
+
+### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 533 mm, while the rear discs are 457 mm.
+
+### Regenerative Braking
+
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+
+## Exterior
+
+The Zeekr 7X Long Range AWD, with dimensions of 4825 mm in length, 1930 mm in width, and 1656 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Zeekr 7X Long Range AWD is available in a total of 4 paint colors, including several striking metallic options.
+
+You can select from multiple wheel designs, all available in the same size, on the Zeekr 7X Long Range AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 22" rims
+
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are a standard function for the side doors.
+
+There is only one roof option for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/exterior_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
+
+{{<evkxdisplayaddarticle />}}
+
+## Interior
+
+There is one seat type you can select in different materials.
+
+### Seats
+
+The Zeekr 7X Long Range AWD accommodates five passengers with two front seats and a three-seat bench in the rear.
+
+#### First Row Seats
+
+The Zeekr 7X Long Range AWD offers a single type of front seat.
+
+The following functionalities are available on the **standard** seat:
+
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+
+Available in:
+
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
+
+#### Second Row Seat
+
+The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+
+## Climate System
+
+There is one climate system available:
+
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger, and backseat.
+
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
+
+## Comfort Features
+
+The Zeekr 7X Long Range AWD includes several features to enhance comfort and convenience:
+
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
+- **Keyless Go:** Start the car without using the key.
+- **Electrically Adjustable Steering Wheel**
+- **Wireless Phone Charging**
+
+{{<evkxdisplayaddarticle />}}
+
+## User Interface and Control
+
+The Zeekr 7X Long Range AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 13.0 inches large
+- The touch screen at the top of the center console is 15.0 inches large
+
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/screens_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
+
+### Steering Wheel
+
+The Zeekr 7X Long Range AWD is equipped with a single type of steering wheel:
+
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+
+### Mirrors
+
+Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
+
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
+
+## Infotainment
+
+### Navigation System
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone Mirroring
+
+The Zeekr 7X Long Range AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+
+### Sound System
+
+The Zeekr 7X Long Range AWD comes equipped with one sound system option:
+
+- **Yamaha Sound System:** Features 21 speakers and delivers a maximum output of 300 watts.
+
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
+## Lights
+
+The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+
+The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+## Advanced Driver Assistance Systems
+
+The Zeekr 7X Long Range AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
+
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/): A Standard feature that helps drivers anticipate driving conditions and conserve energy.
+
+### Safety Systems
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Zeekr 7X Long Range AWD, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Zeekr 7X Long Range AWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Zeekr 7X Long Range AWD, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Zeekr 7X Long Range AWD, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Zeekr 7X Long Range AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+### Driving Automation
+
+With the Pilot Assist  level 2 system, you get the following driving automation features.
+
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+
+{{<evkxdisplayaddarticle />}}
+
+## Cargo Capacity and Towing Ability
+
+The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1500 liters (53.0 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
+
+The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 2475 kg (5456 lbs). This allows for a maximum load of 425 kg (937 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 425kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+## Availability & Pricing
+
+This model made its world premiere on 29.08.2024, with deliveries anticipated to begin in October 2024. Please note that this model is available exclusively in China.
+{{< pagenavigation b_url="../" b_title="Zeekr 7X" f_url="rangeandconsumption/" f_title="Range" >}}

@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-f6cf62a4
+  translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-0a2313ac
+  translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-0bc8b721
   translation: BYD Tang 4x4 Long Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-fc8a4c77
   translation: Volkswagen Id. UNYX es un SUV cupé totalmente eléctrico con un CLTC alcance de hasta 621 km (386 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-a2eb14cb
-  translation: Porsche Macan es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 641 km (398 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-cf6d039f
-  translation: Porsche Macan 4S es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 609 km (379 millas). EVKX.net tiene todos los detalles.
 

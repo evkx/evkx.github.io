@@ -671,7 +671,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
 	<h2>Zeekr</h2>
 	<p>
-	Zeekr har 4 modell(er) med totalt 8 varianter.
+	Zeekr har 5 modell(er) med totalt 9 varianter.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gå till Zeekr modellöversikt</a>
 </div>

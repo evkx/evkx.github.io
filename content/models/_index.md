@@ -842,7 +842,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Zeekr is a new luxury electric vehicle (EV) brand launched by Geely Automobile in 2021. The brand aims to compete with Tesla and other high-end EV makers in China and beyond. Zeekr's EV strategy is based on four pillars design, technology, performance and customer experience.
 	</p>
 	<p>
-	Zeekr has 4 models with total 8 variants.
+	Zeekr has 5 models with total 9 variants.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Go to Zeekr EV-model overview</a>
 </div>

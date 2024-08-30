@@ -63,6 +63,21 @@ Zeekr 009 es un monovolumen premium disponible en 1 variantes.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Zeekr 7X</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="7x">
+                    <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/main_1_st.jpg" class="img-fluid" alt="Zeekr 7X" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Zeekr 7X es un SUV disponible en 1 variantes.
+</p>
+	<a href="7x/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Zeekr X</h3>
         <div class="row">
             <div class="col col-12 col-md-6">
