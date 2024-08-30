@@ -69,7 +69,7 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Vous pouvez choisir une option pour que le hayon soit alimenté électriquement. Vous pouvez également avoir le hayon avec un capteur de coup de pied, permettant de l'ouvrir en donnant simplement un coup de pied sous le hayon.
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. Le verre a deux panneaux. Un au-dessus de la première et de la deuxième rangée. Ce verre rend l'intérieur de la voiture plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort des occupants. Les deux panneaux de verre ont un rideau manuel que les occupants peuvent utiliser pour se protéger du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
 
@@ -79,7 +79,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-interior.intro.functional.highquality.traditional Vous pouvez choisir entre plusieurs aménagements intérieurs.
+L'intérieur du Honda e:Ny1 est fonctionnel et comporte des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 

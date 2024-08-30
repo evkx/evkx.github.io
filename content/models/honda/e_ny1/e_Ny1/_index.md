@@ -69,7 +69,7 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). You can choose an option to have the liftgate electrically powered. You can also have the liftgate with a kick sensor, making it possible to open it by just kicking the foot under the tailgate.
 
-There are two different roof options to select from. The standard is just a regular roof. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an manual curtain that occupants can use to protect against the sun.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -79,7 +79,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-interior.intro.functional.highquality.traditional You can choose between several interior designs.
+The interior of the Honda e:Ny1 is functional, featuring high-quality materials in several areas instead of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality You can choose between several interior designs.
 
 ### Seats
 

@@ -69,7 +69,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe](../../../../technology/doors/#liftgate). Sie können eine Option wählen, um die Heckklappe elektrisch zu betreiben. Sie können die Heckklappe auch mit einem Tritt-Sensor ausstatten, sodass sie sich durch einfaches Treten unter die Heckklappe öffnen lässt.
 
-Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+Es gibt zwei verschiedene Dachoptionen zur Auswahl. Das Standarddach ist einfach ein normales Dach. Optional können Sie dieses Modell mit einem Panoramadach bestellen. Das Glas hat zwei Paneele. Eines über der ersten und das andere über der zweiten Reihe. Dieses Glas lässt das Fahrzeuginnere geräumiger und heller wirken, was die Stimmung und den Komfort der Insassen verbessern kann. Beide Glasplatten haben einen manuellen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -79,7 +79,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-interior.intro.functional.highquality.traditional Sie können zwischen mehreren Innenraumdesigns wählen.
+Das Interieur des Honda e:Ny1 ist funktional und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Darüber hinaus umfasst es eine traditionelle Mittelkonsole, die Fahrer und Beifahrer trennt und praktischen Stauraum und Funktionalität bietet. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 

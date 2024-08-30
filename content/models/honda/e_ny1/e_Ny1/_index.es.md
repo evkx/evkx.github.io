@@ -69,7 +69,7 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). Puedes elegir una opción para que la puerta levadiza funcione eléctricamente. También puedes tener la puerta levadiza con un sensor de patada, lo que permite abrirla con solo patear el pie debajo de la puerta trasera.
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un techo panorámico. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila. Este vidrio hace que el interior del coche se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad de los ocupantes. Ambos paneles de vidrio tienen una cortina manual que los ocupantes pueden usar para protegerse del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
@@ -79,7 +79,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-interior.intro.functional.highquality.traditional Puedes elegir entre varios diseños de interiores.
+El interior del Honda e:Ny1 es funcional y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Además, incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 

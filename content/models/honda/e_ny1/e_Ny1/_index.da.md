@@ -69,7 +69,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Du kan vælge en mulighed for at få bagklappen elektrisk drevet. Du kan også have bagklappen med en sparkesensor, der gør det muligt at åbne den ved blot at sparke foden under bagklappen.
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som en mulighed kan du bestille denne model med et panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for passagererne. Begge glaspaneler har en manuel gardin, som passagererne kan bruge til at beskytte mod solen.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
@@ -79,7 +79,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-interior.intro.functional.highquality.traditional Du kan vælge mellem flere interiørdesigns.
+Interiøret i Honda e:Ny1 er funktionelt og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 

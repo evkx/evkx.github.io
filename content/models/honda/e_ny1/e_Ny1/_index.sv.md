@@ -69,7 +69,7 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). Du kan välja ett alternativ för att ha bakluckan eldriven. Du kan även ha bakluckan med en sparksensor, som gör det möjligt att öppna den genom att helt enkelt sparka foten under bakluckan.
 
-Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. exterior.roof.optional.panoramic.TwoSeperatePartPartialFixed.ManualCurtain
+Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ett alternativ kan du beställa denna modell med ett panoramatak. Glaset har två paneler. En över första och andra raden. Detta glas gör bilens interiör mer rymligt och ljust, vilket kan förbättra passagerarnas humör och komfort. Båda glasskivorna har en manuell gardin som passagerarna kan använda för att skydda mot solen.
 
 B-stolpen och vyerna bak är tonade.
 
@@ -79,7 +79,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.intro.functional.highquality.traditional Du kan välja mellan flera inredningsdesigner.
+Interiören i Honda e:Ny1 är funktionell och har högkvalitativa material i flera områden istället för hård plast. Dessutom inkluderar den en traditionell mittkonsol som separerar föraren och passageraren, vilket ger praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
 
