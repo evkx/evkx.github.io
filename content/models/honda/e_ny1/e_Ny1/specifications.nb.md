@@ -277,6 +277,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				1540 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendesirkel
+			</td>
+			<td>
+				11,6 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse bagasjerom
 			</td>
 			<td>
-				361 liter
+				344 liter
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse med alle bakseter lagt ned
 			</td>
 			<td>
-				1176 liter
+				1136 liter
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>

@@ -277,6 +277,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1540 mm (60,6")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Turning circle
+			</td>
+			<td>
+				11,6 meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				361 liter (13 cu-ft)
+				344 liter (12 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1176 liter (42 cu-ft)
+				1136 liter (40 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				135 mm (5,3")
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				140 mm (5,5")
+				135 mm (5,3")
 			</td>
 		</tr>
 		<tr>

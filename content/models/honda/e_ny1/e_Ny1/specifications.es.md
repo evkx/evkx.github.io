@@ -277,6 +277,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				1540 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Círculo de giro
+			</td>
+			<td>
+				11,6 metros
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				361 litro
+				344 litro
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1176 litro
+				1136 litro
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>

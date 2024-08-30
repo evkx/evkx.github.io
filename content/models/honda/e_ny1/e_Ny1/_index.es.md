@@ -48,11 +48,11 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 ## Tren de transmisión
 
-Honda e:Ny1 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
+Honda e:Ny1 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 140 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 135 mm.
 
 ### Frenos
 
@@ -118,6 +118,7 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 
 El Honda e:Ny1 incluye varias características para mejorar la comodidad y conveniencia:
 
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 
@@ -160,9 +161,9 @@ Además, el Honda e:Ny1 es compatible con Android Auto y Apple CarPlay. Esta fun
 
 Un tipo de sistema de sonido está disponible para el Honda e:Ny1.
 
-- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+- Con el Honda Sound System, obtienes seis parlantes con una salida máxima del sistema de 180 vatios.
 
-El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
 ## Luces
 
@@ -193,7 +194,7 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 361 litros. Con el asiento trasero plegado, esto se expande a 1176 litros.
+El maletero ofrece una capacidad de carga de 344 litros. Con el asiento trasero plegado, esto se expande a 1136 litros.
 
 El peso máximo del vehículo es 2080 kg, con un peso base de 1677 kg. Esto permite una carga máxima de 403 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

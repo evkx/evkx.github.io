@@ -277,6 +277,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				1540 mm (60,6")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				11,6 Meter (456,7")
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				361 Liter (13 cu-ft)
+				344 Liter (12 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1176 Liter (42 cu-ft)
+				1136 Liter (40 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				140 mm (5,5")
+				135 mm (5,3")
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				140 mm (5,5")
+				135 mm (5,3")
 			</td>
 		</tr>
 		<tr>

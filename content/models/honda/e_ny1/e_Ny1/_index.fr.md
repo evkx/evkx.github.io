@@ -48,11 +48,11 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 
 ## Transmission
 
-Honda e:Ny1 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
+Honda e:Ny1 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 140 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 135 mm.
 
 ### Freins
 
@@ -118,6 +118,7 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 
 L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
 
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
 
@@ -160,9 +161,9 @@ De plus, le Honda e:Ny1 prend en charge Android Auto et Apple CarPlay. Cette fon
 
 Un type de système audio est disponible pour le Honda e:Ny1.
 
-- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Honda Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 180 watts.
 
-Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
 ## Lumières
 
@@ -193,7 +194,7 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), c
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 361 litres. Avec les sièges arrière rabattus, cette capacité passe à 1176 litres.
+Le coffre offre une capacité de chargement de 344 litres. Avec les sièges arrière rabattus, cette capacité passe à 1136 litres.
 
 Le poids maximum du véhicule est de 2080 kg, avec un poids de base de 1677 kg. Cela permet une charge maximale de 403 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

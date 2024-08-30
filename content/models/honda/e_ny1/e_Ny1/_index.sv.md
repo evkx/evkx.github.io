@@ -48,11 +48,11 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-Honda e:Ny1 har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Honda e:Ny1 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 140 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 135 mm.
 
 ### Bromsar
 
@@ -118,6 +118,7 @@ Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Det
 
 Honda e:Ny1 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
 - **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
 - **Trådlös laddning av telefon**
 
@@ -160,9 +161,9 @@ Dessutom stöder Honda e:Ny1 Android Auto och Apple CarPlay. Denna funktion gör
 
 En typ av ljudsystem är tillgänglig för Honda e:Ny1.
 
-- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+- Med Honda Sound System får du sex högtalare med en maximal systemeffekt på 180 watt.
 
-Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
 ## Ljus
 
@@ -193,7 +194,7 @@ Upp till en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fe
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 361 liter. Med baksätena nedfällda ökar detta till 1176 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 344 liter. Med baksätena nedfällda ökar detta till 1136 liter.
 
 Fordonets maximala vikt är 2080 kg, med en grundvikt på 1677 kg. Detta tillåter en maximal last på 403 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

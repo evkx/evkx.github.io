@@ -277,6 +277,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				1540 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				11,6 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trunkkapacitet
 			</td>
 			<td>
-				361 liter
+				344 liter
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bagumskapacitet med alle bagsæder foldet
 			</td>
 			<td>
-				1176 liter
+				1136 liter
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>

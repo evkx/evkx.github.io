@@ -48,11 +48,11 @@ The location of the charge port is on the [front](../../../../technology/chargin
 
 ## Drivetrain
 
-The Honda e:Ny1 has a front-wheel drive system supported by one motor on the front axle.
+The Honda e:Ny1 has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 135 mm.
 
 ### Brakes
 
@@ -118,6 +118,7 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 
 The Honda e:Ny1 includes several features to enhance comfort and convenience:
 
+- **Keyless Entry:** Access the car without needing to find the key, as long as you have it with you.
 - **Keyless Go:** Start the car without using the key.
 - **Wireless Phone Charging**
 
@@ -160,9 +161,9 @@ The Honda e:Ny1 supports Android Auto and Apple CarPlay, allowing you to mirror 
 
 The Honda e:Ny1 comes equipped with one sound system option:
 
-- **:** Features NULL speakers and delivers a maximum output of  watts.
+- **Honda Sound System:** Features six speakers and delivers a maximum output of 180 watts.
 
-Additionally, the model includes 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
 ## Lights
 
@@ -193,7 +194,7 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 361 liters (12.7 CU FT). With the rear seat folded down, this expands to 1176 liters (41.5 CU FT).
+The trunk offers a cargo capacity of 344 liters (12.1 CU FT). With the rear seat folded down, this expands to 1136 liters (40.1 CU FT).
 
 The vehicle’s maximum weight is 2080 kg (4586 lbs), with a base weight of 1677 kg (3697 lbs). This allows for a maximum load of 403 kg (888 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

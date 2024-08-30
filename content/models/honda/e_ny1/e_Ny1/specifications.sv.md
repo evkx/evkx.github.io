@@ -277,6 +277,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				1540 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vändcirkel
+			</td>
+			<td>
+				11,6 meter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				361 liter
+				344 liter
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1176 liter
+				1136 liter
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>

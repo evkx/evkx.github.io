@@ -48,11 +48,11 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 ## Drivetrain
 
-Honda e:Ny1 har et forhjulstræksystem understøttet af en motor på forakslen.
+Honda e:Ny1 har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 140 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 135 mm.
 
 ### Bremser
 
@@ -118,6 +118,7 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 
 Honda e:Ny1 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**
 
@@ -160,9 +161,9 @@ Yderligere understøtter Honda e:Ny1 Android Auto og Apple CarPlay. Denne funkti
 
 Én type lydsystem er tilgængelig for Honda e:Ny1.
 
-- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+- Med Honda Sound System får du seks højttalere med en maksimal systemeffekt på 180 watt.
 
-Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 
 ## Lys
 
@@ -193,7 +194,7 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 361 liter. Med det bageste sæde foldet ned, udvides dette til 1176 liter.
+Bagagerummet har en lastekapacitet på 344 liter. Med det bageste sæde foldet ned, udvides dette til 1136 liter.
 
 Køretøjets maksimale vægt er 2080 kg, med en basisvægt på 1677 kg. Dette giver en maksimal last på 403 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

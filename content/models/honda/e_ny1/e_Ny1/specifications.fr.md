@@ -277,6 +277,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				1540 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				11,6 mètre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -323,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre
 			</td>
 			<td>
-				361 litre
+				344 litre
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +339,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Capacité du coffre avec tous les sièges arrière rabattus
 			</td>
 			<td>
-				1176 litre
+				1136 litre
 			</td>
 		</tr>
 	</tbody>
@@ -396,7 +404,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>
@@ -404,7 +412,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				140 mm
+				135 mm
 			</td>
 		</tr>
 		<tr>

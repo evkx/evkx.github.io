@@ -48,11 +48,11 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 ## Drivverk
 
-Honda e:Ny1 har et forhjulsdriftssystem støttet av én motor på forakselen.
+Honda e:Ny1 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 135 mm.
 
 ### Bremser
 
@@ -118,6 +118,7 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 
 Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
+- **Nøkkelfri adgang:** Tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Start bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 
@@ -160,9 +161,9 @@ I tillegg støtter Honda e:Ny1 Android Auto og Apple CarPlay. Denne funksjonalit
 
 Én type lydsystem er tilgjengelig for Honda e:Ny1.
 
-- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+- Med Honda Sound System får du seks høyttalere med en maksimal systemeffekt på 180 watt.
 
-Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 
 ## Lys
 
@@ -193,7 +194,7 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 361 liter. Med baksetene nedfelt, utvides dette til 1176 liter.
+Bagasjerommet tilbyr en lastekapasitet på 344 liter. Med baksetene nedfelt, utvides dette til 1136 liter.
 
 Kjøretøyets maksimale vekt er 2080 kg, med en basisvekt på 1677 kg. Dette gir en maksimal lastekapasitet på 403 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 

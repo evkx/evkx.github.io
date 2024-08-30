@@ -48,11 +48,11 @@ Der Ladeanschluss befindet sich an der [Vorderseite](../../../../technology/char
 
 ## Antriebsstrang
 
-Der Honda e:Ny1 hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird.
+Der Honda e:Ny1 hat ein Frontantriebssystem, das von einem Motor an der Vorderachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 140 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 135 mm.
 
 ### Bremsen
 
@@ -118,6 +118,7 @@ Dieses Modell hat keine [Wärmepumpe](../../../../technology/hvac/#heat-pump). D
 
 Der Honda e:Ny1 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu verbessern:
 
+- **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
 - **Kabelloses Laden des Telefons**
 
@@ -160,9 +161,9 @@ Der Honda e:Ny1 unterstützt Android Auto und Apple CarPlay, sodass Sie den Bild
 
 Der Honda e:Ny1 ist mit einer Soundsystemoption ausgestattet:
 
-- **:** Verfügt über NULL Lautsprecher und liefert eine maximale Ausgangsleistung von  Watt.
+- **Honda Sound System:** Verfügt über sechs Lautsprecher und liefert eine maximale Ausgangsleistung von 180 Watt.
 
-Zusätzlich verfügt das Modell standardmäßig über 1 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
 ## Lichter
 
@@ -193,7 +194,7 @@ Bis zu eins [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f�
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 361 Litern (12,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1176 Liter (41,5 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 344 Litern (12,1 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1136 Liter (40,1 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2080 kg (4586 lbs) bei einem Leergewicht von 1677 kg (3697 lbs). Dies ermöglicht eine maximale Zuladung von 403 kg (888 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
