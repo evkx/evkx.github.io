@@ -92,6 +92,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 

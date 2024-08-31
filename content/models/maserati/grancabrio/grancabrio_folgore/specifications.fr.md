@@ -548,7 +548,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

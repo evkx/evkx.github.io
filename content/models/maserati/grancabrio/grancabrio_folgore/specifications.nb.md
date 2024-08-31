@@ -548,7 +548,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

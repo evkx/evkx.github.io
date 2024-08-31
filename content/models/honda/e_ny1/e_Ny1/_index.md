@@ -93,6 +93,7 @@ The following functionalities are available on the **** seat:
 
 - Electric adjustment
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable for driver, not available for passenger)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 

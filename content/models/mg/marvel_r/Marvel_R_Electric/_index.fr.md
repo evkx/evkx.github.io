@@ -94,6 +94,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
+- [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

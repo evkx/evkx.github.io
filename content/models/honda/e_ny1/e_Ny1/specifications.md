@@ -521,7 +521,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>

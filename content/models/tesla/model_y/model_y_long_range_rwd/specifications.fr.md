@@ -668,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

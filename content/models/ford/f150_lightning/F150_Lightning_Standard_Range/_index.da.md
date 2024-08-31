@@ -100,6 +100,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering (valgfrit)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
+- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (valgfri)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)

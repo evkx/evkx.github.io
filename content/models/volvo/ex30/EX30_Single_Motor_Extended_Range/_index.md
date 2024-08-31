@@ -98,6 +98,7 @@ The Volvo EX30 Single Motor Extended Range offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)

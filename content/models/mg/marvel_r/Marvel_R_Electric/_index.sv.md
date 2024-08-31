@@ -94,6 +94,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
+- [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

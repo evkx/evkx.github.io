@@ -668,7 +668,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

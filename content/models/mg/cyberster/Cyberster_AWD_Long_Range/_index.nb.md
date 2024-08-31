@@ -94,6 +94,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
+- [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
