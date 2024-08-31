@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Honda e:Ny1 revealed – more than a fully electric Honda HR-V?</h3>
+<p>What Car?: 13.05.2024</p>
+
+{{< youtube eBS5yi_OHRE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Honda e:Ny1 Review: Solid Effort or Missed Opportunity? | Charging, Range, Noise</h3>
 <p>It's Only Electric: 06.01.2024</p>
 
