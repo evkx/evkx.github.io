@@ -54,10 +54,25 @@ Honda e:Ny1 har et forhjulstræksystem understøttet af en motor på forakslen. 
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 135 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funktion på Honda e:Ny1. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+Honda e:Ny1 lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 3 tilstande:
+
+- Sport: Dynamisk styring og speeder.
+- Normal: Afbalanceret styring og speeder.
+- eco: Afbalanceret styring og effektiv speeder.
+
 ### Bremser
+
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 300mm, og de bagerste skiver er 300mm.
 
 ### Regenerativ bremsning
 
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Udvendig
 
@@ -180,10 +195,27 @@ Den Honda e:Ny1 inkluderer flere standard- og valgfri [avancerede førerassisten
 
 ### Sikkerhedssystemer
 
+[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Honda e:Ny1, dette system forhindrer hjulene i at låse under opbremsning.
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Honda e:Ny1, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Honda e:Ny1, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Honda e:Ny1, dette system bruger sensorer til at registrere tilstødende køretøjer fra siden, når du bakker ud af en parkeringsplads eller indkørsel.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Honda e:Ny1, dette førerassistentsystem hjælper føreren med at undgå eller formilde frontale kollisioner.
+
+[**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Honda e:Ny1, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
+
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Honda e:Ny1, dette system hjælper med at undgå kollisioner ved automatisk at styre køretøjet i en nødsituation.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Honda e:Ny1, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med Honda Sensing  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
+- [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 
 ### Sensorer & Kameraer

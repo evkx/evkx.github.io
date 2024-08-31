@@ -745,6 +745,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Kørebanehold
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -752,6 +753,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Advarsel om vognbaneskift
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -766,6 +768,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bakkamera
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -773,6 +776,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				360 kamera
 			</td>
 			<td>
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>
@@ -780,6 +784,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Alarm bag krydstrafik
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -787,6 +792,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer bagpå
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -794,6 +800,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -801,6 +808,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer fra siden
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +830,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +838,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødbremse
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +846,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +868,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Forward Collision Warning
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +876,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -892,6 +905,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -899,6 +913,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +921,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Traffic Sign Recognition
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -913,6 +929,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Natsyn
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>

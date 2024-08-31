@@ -54,10 +54,25 @@ The Honda e:Ny1 has a front-wheel drive system supported by one motor on the fro
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 135 mm.
 
+### Steering
+
+Dynamic steering is a standard on the Honda e:Ny1, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The Honda e:Ny1 lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 3 modes:
+
+- Sport: Dynamic steering and throttle.
+- Normal: Balanced steering and throttle.
+- eco: Balanced steering and efficent throttle.
+
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 300 mm, while the rear discs are 300 mm.
 
 ### Regenerative Braking
 
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Exterior
 
@@ -180,10 +195,27 @@ The Honda e:Ny1 features a range of standard and optional [advanced driver assis
 
 ### Safety Systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Honda e:Ny1, this system prevents the wheels from locking during braking.
+
+[**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Honda e:Ny1, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
+
+[**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Honda e:Ny1, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Honda e:Ny1, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
+[**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Honda e:Ny1, this driver assist system helps drivers avoid or mitigate frontal collisions.
+
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Honda e:Ny1, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
+[**Automatic Emergency Steering (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard on the Honda e:Ny1, this system assists in avoiding collisions by automatically steering the vehicle in an emergency.
+
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Honda e:Ny1, this side assist system helps to detect traffic in blind spots.
+
 ### Driving Automation
 
-With the   level 2 system, you get the following driving automation features.
+With the Honda Sensing  level 2 system, you get the following driving automation features.
 
+- [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
 ### Sensors & Cameras

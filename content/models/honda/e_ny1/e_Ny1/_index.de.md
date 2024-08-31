@@ -54,10 +54,25 @@ Der Honda e:Ny1 hat ein Frontantriebssystem, das von einem Motor an der Vorderac
 
 Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 135 mm.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Honda e:Ny1, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der Honda e:Ny1 ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 3 Modi wählen:
+
+- Sport: Dynamische Lenkung und Gas.
+- Normal: Ausgewogene Lenkung und Gas.
+- eco: Ausgewogene Lenkung und effizientes Gas.
+
 ### Bremsen
+
+Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 300 mm, während die hinteren Scheiben 300 mm groß sind.
 
 ### Rekuperatives Bremsen
 
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht.
 
 ## Exterieur
 
@@ -180,10 +195,27 @@ Der Honda e:Ny1 verfügt über eine Reihe von standardmäßigen und optionalen [
 
 ### Sicherheitssysteme
 
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Honda e:Ny1, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
+[**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Honda e:Ny1, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
+
+[**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Honda e:Ny1, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
+
+[**Querverkehrswarnung hinten (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard im Honda e:Ny1, dieses System verwendet Sensoren, um herannahende Fahrzeuge von der Seite zu erkennen, wenn Sie aus einer Parklücke oder Einfahrt zurücksetzen.
+
+[**Vorwärtskollisionswarnung (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard im Honda e:Ny1, dieses Fahrerassistenzsystem hilft Fahrern, Frontalzusammenstöße zu vermeiden oder zu mildern.
+
+[**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Honda e:Ny1, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
+
+[**Automatische Notlenkung (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard im Honda e:Ny1, dieses System hilft, Kollisionen zu vermeiden, indem es das Fahrzeug in einer Notlage automatisch lenkt.
+
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Honda e:Ny1, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem Honda Sensing  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
+- [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 
 ### Sensoren & Kameras

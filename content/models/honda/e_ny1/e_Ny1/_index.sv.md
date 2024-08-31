@@ -54,10 +54,25 @@ Honda e:Ny1 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. 
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 135 mm.
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Honda e:Ny1. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+Honda e:Ny1 låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 3 lägen:
+
+- Sport: Dynamisk styrning och gaspedal.
+- Normal: Balanserad styrning och gaspedal.
+- eco: Balanserad styrning och effektiv gaspedal.
+
 ### Bromsar
+
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 300mm och de bakre skivorna är 300mm.
 
 ### Regenerativ bromsning
 
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Exteriör
 
@@ -180,10 +195,27 @@ Honda e:Ny1 inkluderar flera [avancerade förarassistanssystem](../../../../tech
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Honda e:Ny1, detta system förhindrar att hjulen låser sig under bromsning.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Honda e:Ny1, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
+
+[**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Honda e:Ny1, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
+
+[**Bakre Korsande Trafikvarning (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Honda e:Ny1, detta system använder sensorer för att upptäcka närstående fordon från sidan när du backar ut från en parkeringsplats eller in- och utfart.
+
+[**Framåt Kollisionsvarning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Honda e:Ny1, detta förarassistanssystem hjälper till att undvika eller mildra frontalkollisioner.
+
+[**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Honda e:Ny1, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
+
+[**Automatisk nödstyrning (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Honda e:Ny1, detta system hjälper till att undvika kollisioner genom att automatiskt styra fordonet i en nödsituation.
+
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Honda e:Ny1, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
 ### Körautomatisering
 
-Med   nivå 2-systemet får du följande funktioner för körautomatisering.
+Med Honda Sensing  nivå 2-systemet får du följande funktioner för körautomatisering.
 
+- [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 
 ### Sensorer & Kameror

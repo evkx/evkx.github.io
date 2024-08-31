@@ -54,10 +54,25 @@ Honda e:Ny1 tiene un sistema de tracción delantera sostenido por un motor en el
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 135 mm.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Honda e:Ny1. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Modos de conducción
+
+El Honda e:Ny1 permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 3 modos:
+
+- Sport: Dirección y acelerador dinámicos.
+- Normal: Dirección y acelerador equilibrados.
+- eco: Dirección equilibrada y acelerador eficiente.
+
 ### Frenos
+
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 300 mm y los discos traseros de 300 mm.
 
 ### Frenado regenerativo
 
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Exterior
 
@@ -180,10 +195,27 @@ El Honda e:Ny1 incluye varios [sistemas avanzados de asistencia al conductor](..
 
 ### Sistemas de Seguridad
 
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Honda e:Ny1, este sistema evita que las ruedas se bloqueen durante el frenado.
+
+[**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Honda e:Ny1, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
+
+[**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Honda e:Ny1, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
+
+[**Advertencia de Tráfico Cruzado Trasero (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Estándar en el Honda e:Ny1, este sistema usa sensores para detectar vehículos que se aproximan desde los laterales al retroceder de un espacio de estacionamiento o entrada.
+
+[**Advertencia de Colisión Frontal (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Estándar en el Honda e:Ny1, este sistema de asistencia al conductor ayuda a evitar o mitigar colisiones frontales.
+
+[**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Honda e:Ny1, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
+
+[**Dirección de emergencia automática (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Estándar en el Honda e:Ny1, este sistema ayuda a evitar colisiones dirigiendo automáticamente el vehículo en una emergencia.
+
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Honda e:Ny1, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
 ### Automatización de la Conducción
 
-Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
+Con el sistema Honda Sensing  de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
 
+- [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 
 ### Sensores y Cámaras

@@ -54,10 +54,25 @@ Honda e:Ny1 har et forhjulsdriftssystem støttet av én motor på forakselen. Mo
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 135 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funksjonen på Honda e:Ny1. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
+### Kjøremoduser
+
+Honda e:Ny1 lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 3 moduser:
+
+- Sport: Dynamisk styring og gasspedal.
+- Normal: Balansert styring og gasspedal.
+- eco: Balansert styring og effektiv gasspedal.
+
 ### Bremser
+
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 300mm, og de bakre skivene er 300mm.
 
 ### Regenerativ bremsing
 
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgjengelig i denne modellen. Imidlertid blir [regenerativ bremsing](../../../../technology/regen/) muliggjort gjennom [**enpedals kjøring**](../../../../technology/regen/#one-pedal-driving) kombinert med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
 
 ## Eksteriør
 
@@ -180,10 +195,27 @@ Honda e:Ny1 inkluderer flere [avanserte førerassistanse systemer](../../../../t
 
 ### Sikkerhetssystemer
 
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Honda e:Ny1, dette systemet forhindrer hjulene i å låse seg under bremsing.
+
+[**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Honda e:Ny1, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
+
+[**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Honda e:Ny1, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
+
+[**Bakre Kryss Trafikkadvarsel (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard på Honda e:Ny1, dette systemet bruker sensorer for å oppdage tilnærmende kjøretøy fra siden når du rygger ut av en parkeringsplass eller innkjørsel.
+
+[**Foran Kollisjonsadvarsel (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard på Honda e:Ny1, dette assistansesystemet hjelper sjåfører med å unngå eller redusere alvorlighetsgraden av frontkollisjoner.
+
+[**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Honda e:Ny1, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
+
+[**Automatisk nødstyring (AES)**](../../../../technology/driverassistance/automaticemergencysteering/): Standard på Honda e:Ny1, dette systemet hjelper med å unngå kollisjoner ved å automatisk styre kjøretøyet i en nødsituasjon.
+
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Honda e:Ny1, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
 ### Kjøreautomatisering
 
-Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+Med Honda Sensing  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
+- [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
 
 ### Sensorer & Kameraer

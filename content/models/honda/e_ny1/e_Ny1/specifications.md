@@ -745,6 +745,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanekeepingassist/">Lane keeping</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -752,6 +753,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/lanedeparturewarning/">Lane departure warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -766,6 +768,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">Reversing camera</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -773,6 +776,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
+				Yes, optional equipment
 			</td>
 		</tr>
 		<tr>
@@ -780,6 +784,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/rearcrosstrafficalert/">Rear cross traffic alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -787,6 +792,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Rear parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -794,6 +800,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Front parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -801,6 +808,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +830,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +838,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencybraking/">Automatic emergency braking</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +846,7 @@ This model is available with a seat configuration with five seats.
 				Brake assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +868,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/forwardcollisionwarning/">Forward Collision Warning</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -864,6 +876,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/electronicstabilitycontrol/">Electronic stability control</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -892,6 +905,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -899,6 +913,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +921,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/trafficsignrecognition/">Traffic Sign Recognition</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -913,6 +929,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 	</tbody>
