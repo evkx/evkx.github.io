@@ -138,6 +138,8 @@ The following functionalities are available on the **Comfort seats** seat:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
 ## Climate System

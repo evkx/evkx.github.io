@@ -142,6 +142,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Système de climatisation
 

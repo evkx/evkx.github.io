@@ -137,6 +137,7 @@ Die folgenden Funktionen sind für den **ergoActive**-Sitz verfügbar:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 

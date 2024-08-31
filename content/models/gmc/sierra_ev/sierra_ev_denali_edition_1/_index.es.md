@@ -142,6 +142,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Sistema de climatización
 

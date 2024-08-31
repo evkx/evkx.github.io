@@ -135,6 +135,7 @@ Följande funktioner är tillgängliga på **ergoActive** sätet.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 

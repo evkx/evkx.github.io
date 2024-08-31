@@ -142,6 +142,7 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Klimaanlage
 

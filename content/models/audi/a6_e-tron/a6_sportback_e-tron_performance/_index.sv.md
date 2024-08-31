@@ -167,6 +167,8 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 ## Klimatsystem

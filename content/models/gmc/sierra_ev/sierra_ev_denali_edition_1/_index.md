@@ -142,6 +142,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Climate System
 

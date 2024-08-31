@@ -141,6 +141,7 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

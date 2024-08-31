@@ -141,6 +141,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

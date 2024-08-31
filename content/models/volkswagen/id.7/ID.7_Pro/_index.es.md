@@ -137,6 +137,7 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 

@@ -142,6 +142,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Klimatsystem
 

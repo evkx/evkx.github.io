@@ -142,6 +142,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 ## Système de climatisation

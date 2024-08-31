@@ -142,6 +142,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Klimasystem
 

@@ -142,6 +142,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 ## Klimasystem
 

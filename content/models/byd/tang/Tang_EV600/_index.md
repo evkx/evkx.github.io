@@ -141,6 +141,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 
