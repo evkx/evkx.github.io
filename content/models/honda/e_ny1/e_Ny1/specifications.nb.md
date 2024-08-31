@@ -658,7 +658,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>

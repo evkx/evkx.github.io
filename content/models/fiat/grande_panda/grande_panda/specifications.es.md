@@ -841,7 +841,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>

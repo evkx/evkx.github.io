@@ -164,7 +164,6 @@ Die folgenden Funktionen sind für den **Sport Plus**-Sitz verfügbar:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
-- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory-Beifahrersitz](../../../../technology/seats/adjustment/#seat-memory)

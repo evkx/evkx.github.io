@@ -841,7 +841,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Unbekannt
 			</td>
 		</tr>
 		<tr>

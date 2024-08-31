@@ -1306,7 +1306,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>

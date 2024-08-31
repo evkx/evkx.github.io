@@ -105,8 +105,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- Höhenverstellbare Kopfstütze
-
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

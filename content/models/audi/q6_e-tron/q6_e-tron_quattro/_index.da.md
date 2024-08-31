@@ -164,7 +164,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)

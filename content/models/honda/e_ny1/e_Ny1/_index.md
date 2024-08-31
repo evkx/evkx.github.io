@@ -105,8 +105,6 @@ Available in:
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- Height adjustable headrest
-
 ## Climate System
 
 There is one climate system available:

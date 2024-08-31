@@ -845,7 +845,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Función estándar
+				Conductor eléctrico estándar, pasajero manual estándar
 			</td>
 		</tr>
 		<tr>

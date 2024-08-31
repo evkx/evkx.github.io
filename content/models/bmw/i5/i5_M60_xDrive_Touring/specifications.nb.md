@@ -845,7 +845,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk fører, standard manuell passasjer
 			</td>
 		</tr>
 		<tr>

@@ -105,8 +105,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- højdejusterbar nakkestøtte
-
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.

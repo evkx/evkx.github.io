@@ -164,7 +164,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
-- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)

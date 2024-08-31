@@ -164,7 +164,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)

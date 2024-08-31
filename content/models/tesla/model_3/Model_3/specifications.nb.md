@@ -752,7 +752,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +760,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>

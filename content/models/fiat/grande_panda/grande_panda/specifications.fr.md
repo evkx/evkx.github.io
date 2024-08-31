@@ -841,7 +841,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>

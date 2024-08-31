@@ -105,8 +105,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- høydejusterbar hodestøtte
-
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
