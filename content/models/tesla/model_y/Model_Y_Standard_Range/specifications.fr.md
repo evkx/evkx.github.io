@@ -881,7 +881,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Mémoire
 			</td>
 			<td>
 				Fonctionnalité standard

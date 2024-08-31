@@ -949,7 +949,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				No disponible
@@ -1102,7 +1102,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Desconocido
@@ -1255,7 +1255,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Función estándar

@@ -497,7 +497,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Función estándar

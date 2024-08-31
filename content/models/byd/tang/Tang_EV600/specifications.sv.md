@@ -641,7 +641,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minnesfunktion
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion

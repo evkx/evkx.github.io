@@ -665,7 +665,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Mémoire
 			</td>
 			<td>
 				Fonctionnalité facultative
@@ -818,7 +818,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Mémoire
 			</td>
 			<td>
 				Fonctionnalité standard

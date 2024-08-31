@@ -648,7 +648,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Unbekannt
@@ -801,7 +801,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Serienausstattung

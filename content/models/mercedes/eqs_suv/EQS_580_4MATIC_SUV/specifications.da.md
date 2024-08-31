@@ -617,7 +617,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Standardfunktion
@@ -770,7 +770,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Standardfunktion

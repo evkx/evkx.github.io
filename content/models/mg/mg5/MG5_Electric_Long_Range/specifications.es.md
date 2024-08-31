@@ -584,7 +584,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				No disponible

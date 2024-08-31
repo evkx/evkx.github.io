@@ -617,7 +617,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Serienausstattung
@@ -770,7 +770,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Serienausstattung

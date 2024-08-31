@@ -648,7 +648,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Mémoire
 			</td>
 			<td>
 				Inconnu
@@ -801,7 +801,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Mémoire
 			</td>
 			<td>
 				Fonctionnalité standard

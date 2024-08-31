@@ -681,7 +681,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Función estándar

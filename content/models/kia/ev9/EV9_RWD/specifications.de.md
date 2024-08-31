@@ -582,7 +582,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Unbekannt

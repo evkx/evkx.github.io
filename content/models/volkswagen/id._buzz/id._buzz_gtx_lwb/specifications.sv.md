@@ -601,7 +601,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minnesfunktion
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
@@ -754,7 +754,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minnesfunktion
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

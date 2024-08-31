@@ -657,7 +657,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Desconocido

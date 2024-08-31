@@ -489,7 +489,7 @@ Denna modell är tillgänglig med en konfiguration med sex sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minnesfunktion
 			</td>
 			<td>
 				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion

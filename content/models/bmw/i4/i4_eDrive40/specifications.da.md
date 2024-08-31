@@ -734,7 +734,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Valgfri funktion
@@ -887,7 +887,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Valgfri funktion

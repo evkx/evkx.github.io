@@ -625,7 +625,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				No disponible
@@ -778,7 +778,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memoria
 			</td>
 			<td>
 				Desconocido

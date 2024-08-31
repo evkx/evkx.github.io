@@ -648,7 +648,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minne
 			</td>
 			<td>
 				Ukjent
@@ -801,7 +801,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minne
 			</td>
 			<td>
 				Standardfunksjon

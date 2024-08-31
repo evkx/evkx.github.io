@@ -1028,7 +1028,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memory
 			</td>
 			<td>
 				Unknown
@@ -1181,7 +1181,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memory
 			</td>
 			<td>
 				Unknown
@@ -1334,7 +1334,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memory
 			</td>
 			<td>
 				Standard feature

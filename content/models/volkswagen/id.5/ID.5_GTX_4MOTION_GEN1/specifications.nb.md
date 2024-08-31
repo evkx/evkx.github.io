@@ -798,7 +798,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minne
 			</td>
 			<td>
 				Ukjent
@@ -951,7 +951,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minne
 			</td>
 			<td>
 				Ukjent

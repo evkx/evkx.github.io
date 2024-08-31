@@ -949,7 +949,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Ikke tilgængelig
@@ -1102,7 +1102,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Ukendt
@@ -1255,7 +1255,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Standardfunktion

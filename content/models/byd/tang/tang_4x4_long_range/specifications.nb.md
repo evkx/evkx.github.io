@@ -641,7 +641,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minne
 			</td>
 			<td>
 				Ukjent

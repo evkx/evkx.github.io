@@ -737,7 +737,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Speicher
 			</td>
 			<td>
 				Serienausstattung

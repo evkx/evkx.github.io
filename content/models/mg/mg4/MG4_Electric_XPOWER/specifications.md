@@ -544,7 +544,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memory
 			</td>
 			<td>
 				Unknown

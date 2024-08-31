@@ -557,7 +557,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Ukendt

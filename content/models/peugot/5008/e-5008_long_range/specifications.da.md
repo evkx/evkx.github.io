@@ -609,7 +609,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Hukommelse
 			</td>
 			<td>
 				Ikke tilgængelig

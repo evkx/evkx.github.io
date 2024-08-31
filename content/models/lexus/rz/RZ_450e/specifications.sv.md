@@ -624,7 +624,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Minnesfunktion
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -561,7 +561,7 @@ This model is available with a seat configuration with six seats.
 		</tr>
 		<tr>
 			<td>
-				Interior.Seatoptions.Memory
+				Memory
 			</td>
 			<td>
 				Unknown
