@@ -105,8 +105,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)

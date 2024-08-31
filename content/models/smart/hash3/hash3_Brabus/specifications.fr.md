@@ -606,15 +606,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Inconnu

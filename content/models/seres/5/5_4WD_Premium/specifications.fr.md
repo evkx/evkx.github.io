@@ -565,15 +565,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
-			</td>
-			<td>
-				Inconnu
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Inconnu

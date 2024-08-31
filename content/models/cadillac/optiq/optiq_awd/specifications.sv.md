@@ -557,15 +557,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Minnesförarsäte
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory Passenger Seat
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

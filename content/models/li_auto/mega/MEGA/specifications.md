@@ -553,15 +553,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
-			</td>
-			<td>
-				Unknown
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Unknown

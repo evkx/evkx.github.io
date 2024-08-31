@@ -126,7 +126,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur (facultatif)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
@@ -138,7 +137,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur (facultatif)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -150,7 +148,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport**.
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur (facultatif)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -160,7 +157,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **s sport**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -175,8 +171,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)

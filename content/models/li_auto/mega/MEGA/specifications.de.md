@@ -553,15 +553,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Unbekannt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Unbekannt

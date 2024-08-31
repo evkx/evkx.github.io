@@ -102,8 +102,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
-- [Memory-Beifahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
+- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)

@@ -623,18 +623,10 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Memoria del asiento del conductor
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Asiento del pasajero con memoria
-			</td>
-			<td>
-				No disponible
 			</td>
 		</tr>
 		<tr>

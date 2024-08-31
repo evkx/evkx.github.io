@@ -537,15 +537,7 @@ This model is available with a seat configuration with four seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Not Available

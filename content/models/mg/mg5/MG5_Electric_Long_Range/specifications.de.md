@@ -584,15 +584,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Nicht verfügbar

@@ -114,8 +114,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
-- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 

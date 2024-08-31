@@ -106,8 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
+- [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 

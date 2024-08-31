@@ -965,15 +965,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Non disponible
@@ -1126,18 +1118,10 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Fonctionnalité facultative
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
-			</td>
-			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -1287,15 +1271,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Fonctionnalité standard

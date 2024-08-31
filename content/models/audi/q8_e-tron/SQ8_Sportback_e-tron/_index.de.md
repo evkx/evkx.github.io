@@ -119,7 +119,6 @@ Die folgenden Funktionen sind für den **s-line sport**-Sitz verfügbar:
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze (optional)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -129,7 +128,6 @@ Die folgenden Funktionen sind für den **s sport**-Sitz verfügbar:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -141,8 +139,7 @@ Die folgenden Funktionen sind für den **multicontour**-Sitz verfügbar:
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory-Beifahrersitz](../../../../technology/seats/adjustment/#seat-memory)
+- [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)

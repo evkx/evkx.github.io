@@ -609,15 +609,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne førersete
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Valgfri funksjon
@@ -770,15 +762,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Standardfunksjon

@@ -106,8 +106,7 @@ The following functionalities are available on the **standard** seat:
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Available in:

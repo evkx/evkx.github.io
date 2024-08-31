@@ -550,15 +550,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Nicht verfügbar

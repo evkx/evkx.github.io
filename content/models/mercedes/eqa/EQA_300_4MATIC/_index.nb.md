@@ -102,8 +102,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
@@ -115,8 +114,7 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)

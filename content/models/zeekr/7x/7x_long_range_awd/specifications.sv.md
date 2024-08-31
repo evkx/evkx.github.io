@@ -553,15 +553,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Minnesförarsäte
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory Passenger Seat
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -102,8 +102,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
-- [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 

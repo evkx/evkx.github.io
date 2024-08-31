@@ -104,8 +104,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.

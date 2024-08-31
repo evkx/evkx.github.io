@@ -126,8 +126,7 @@ The following functionalities are available on the **standard** seat:
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)

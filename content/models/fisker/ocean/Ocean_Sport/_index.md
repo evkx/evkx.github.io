@@ -103,8 +103,7 @@ The following functionalities are available on the **standard** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
+- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 
 Available in:
 

@@ -565,18 +565,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
-			</td>
-			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>

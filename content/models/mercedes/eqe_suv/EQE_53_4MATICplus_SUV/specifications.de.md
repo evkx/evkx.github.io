@@ -665,15 +665,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Serienausstattung
@@ -826,15 +818,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Serienausstattung

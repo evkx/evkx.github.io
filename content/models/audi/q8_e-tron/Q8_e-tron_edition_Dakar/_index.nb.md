@@ -125,7 +125,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -135,7 +134,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -147,7 +145,6 @@ Følgende funksjoner er tilgjengelige på **s-line sport** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -157,7 +154,6 @@ Følgende funksjoner er tilgjengelige på **s sport** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
@@ -169,8 +165,7 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
+- [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)

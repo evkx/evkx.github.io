@@ -565,15 +565,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ukendt

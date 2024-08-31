@@ -609,15 +609,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Minne førersete
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ikke tilgjengelig

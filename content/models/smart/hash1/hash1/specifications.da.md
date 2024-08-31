@@ -638,15 +638,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ukendt

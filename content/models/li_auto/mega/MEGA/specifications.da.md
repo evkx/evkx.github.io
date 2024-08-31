@@ -553,15 +553,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ukendt

@@ -949,15 +949,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ikke tilgængelig
@@ -1110,18 +1102,10 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Valgfri funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
-			</td>
-			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -1271,15 +1255,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Standardfunktion

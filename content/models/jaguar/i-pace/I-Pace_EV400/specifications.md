@@ -672,15 +672,7 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Unknown
@@ -833,18 +825,10 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>

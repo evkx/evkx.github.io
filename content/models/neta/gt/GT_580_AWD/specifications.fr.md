@@ -486,15 +486,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 		</tr>
 		<tr>
 			<td>
-				Siège conducteur à mémoire
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Siège passager à mémoire
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Inconnu

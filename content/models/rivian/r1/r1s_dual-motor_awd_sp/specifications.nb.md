@@ -526,15 +526,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Minne førersete
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Standardfunksjon

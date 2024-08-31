@@ -553,15 +553,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Minne førersete
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Minne passasjersete
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Ikke tilgjengelig

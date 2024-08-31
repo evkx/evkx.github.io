@@ -126,7 +126,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
@@ -138,7 +137,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
@@ -150,7 +148,6 @@ Följande funktioner är tillgängliga på **s-line sport** sätet.
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
@@ -160,7 +157,6 @@ Följande funktioner är tillgängliga på **s sport** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
@@ -175,8 +171,7 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)

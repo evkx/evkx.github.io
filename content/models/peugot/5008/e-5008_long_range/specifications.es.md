@@ -609,15 +609,7 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Memoria del asiento del conductor
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Asiento del pasajero con memoria
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				No disponible

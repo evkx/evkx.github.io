@@ -641,18 +641,10 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Memoria del asiento del conductor
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Asiento del pasajero con memoria
-			</td>
-			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>

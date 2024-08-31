@@ -689,15 +689,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Memory førersæde
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory passagersæde
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Standardfunktion

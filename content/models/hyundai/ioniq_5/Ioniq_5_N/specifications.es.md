@@ -605,15 +605,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Memoria del asiento del conductor
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Asiento del pasajero con memoria
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				No disponible

@@ -605,18 +605,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
-			</td>
-			<td>
-				Not Available
+				Unknown
 			</td>
 		</tr>
 		<tr>

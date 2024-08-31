@@ -108,8 +108,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 

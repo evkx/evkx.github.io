@@ -911,18 +911,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Optionale Ausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
-			</td>
-			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -1072,18 +1064,10 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
-				Optionale Ausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
-			</td>
-			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -1233,15 +1217,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Memory-Fahrersitz
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Memory-Beifahrersitz
+				Interior.Seatoptions.Memory
 			</td>
 			<td>
 				Serienausstattung
