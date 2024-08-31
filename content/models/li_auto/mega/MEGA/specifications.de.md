@@ -596,7 +596,7 @@ Interior.Seatlayout.OnlySix
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Standard Beifahrersitz
 			</td>
 		</tr>
 		<tr>

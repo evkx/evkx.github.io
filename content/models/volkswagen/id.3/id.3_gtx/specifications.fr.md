@@ -733,7 +733,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>

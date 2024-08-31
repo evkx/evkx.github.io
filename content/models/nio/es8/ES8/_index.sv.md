@@ -127,6 +127,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för passagerarsäte)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
@@ -142,7 +143,7 @@ Alternativ standard är två kaptensstolar. Dessutom är följande funktioner ti
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
 
 #### Seter på tredje rad
 

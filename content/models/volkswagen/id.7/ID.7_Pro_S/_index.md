@@ -113,6 +113,7 @@ The following functionalities are available on the **standard** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 
@@ -129,6 +130,7 @@ The following functionalities are available on the **ergoActive** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 
@@ -137,7 +139,7 @@ The following functionalities are available on the **ergoActive** seat:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro S" width="3000" height="2000"  >}}
 

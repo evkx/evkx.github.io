@@ -568,7 +568,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>

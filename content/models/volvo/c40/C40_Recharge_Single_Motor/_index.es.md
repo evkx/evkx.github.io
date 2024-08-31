@@ -105,7 +105,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
@@ -116,7 +116,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 

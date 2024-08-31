@@ -97,7 +97,7 @@ The following functionalities are available on the **** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 

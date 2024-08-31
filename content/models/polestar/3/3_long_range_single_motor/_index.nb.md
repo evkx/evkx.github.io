@@ -98,7 +98,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
@@ -117,7 +117,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2248"  >}}
 

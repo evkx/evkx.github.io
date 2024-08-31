@@ -132,10 +132,10 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
@@ -150,8 +150,9 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

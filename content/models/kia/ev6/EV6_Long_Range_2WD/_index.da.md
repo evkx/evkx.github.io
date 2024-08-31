@@ -103,8 +103,9 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som en mulighed)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
@@ -122,7 +123,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2400"  >}}
 

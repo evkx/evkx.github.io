@@ -127,6 +127,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für Beifahrersitz)
 
 Verfügbar in:
 
@@ -137,8 +138,8 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 ## Klimaanlage

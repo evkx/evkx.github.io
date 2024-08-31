@@ -112,18 +112,18 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 
 Följande funktioner är tillgängliga på **Comfort seats** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}

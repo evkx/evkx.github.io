@@ -122,7 +122,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - højdejusterbar nakkestøtte
 - længdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -141,7 +142,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

@@ -112,8 +112,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfri)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 

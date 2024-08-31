@@ -103,10 +103,10 @@ CUPRA BORN VZ erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

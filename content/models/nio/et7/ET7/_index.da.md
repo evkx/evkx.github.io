@@ -126,6 +126,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest) (standard for passagersæde)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 

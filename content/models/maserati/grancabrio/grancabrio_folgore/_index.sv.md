@@ -114,9 +114,10 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 

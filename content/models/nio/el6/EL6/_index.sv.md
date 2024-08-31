@@ -128,8 +128,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
+- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd) (standard för passagerarsäte)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

@@ -604,7 +604,7 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>

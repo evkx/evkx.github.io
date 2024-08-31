@@ -101,7 +101,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
@@ -118,7 +118,7 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 
 ## Klimasystem
 

@@ -121,8 +121,8 @@ second-alternativet er et [executive sete kombinert med en to-seters benk](../..
 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
+- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for ytre seter)
+- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest) (standard for ytre seter)
 
 ## Klimasystem
 

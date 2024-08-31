@@ -572,7 +572,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>

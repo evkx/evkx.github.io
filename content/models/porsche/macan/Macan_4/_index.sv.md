@@ -113,7 +113,7 @@ Följande funktioner är tillgängliga på **Comfortseats** sätet.
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfri)
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
@@ -121,10 +121,10 @@ Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -137,11 +137,11 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 

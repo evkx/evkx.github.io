@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Minnesfunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>

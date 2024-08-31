@@ -547,7 +547,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minne
 			</td>
 			<td>
-				Ukjent
+				Standard fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 		<tr>

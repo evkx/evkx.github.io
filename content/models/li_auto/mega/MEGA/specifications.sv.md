@@ -596,7 +596,7 @@ Interior.Seatlayout.OnlySix
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>

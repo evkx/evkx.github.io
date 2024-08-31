@@ -98,7 +98,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
@@ -117,7 +117,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2248"  >}}
 

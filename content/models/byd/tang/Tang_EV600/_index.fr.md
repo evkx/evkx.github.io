@@ -123,7 +123,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
@@ -141,7 +141,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment)
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 

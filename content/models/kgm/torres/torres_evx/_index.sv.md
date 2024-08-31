@@ -107,7 +107,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
@@ -121,7 +121,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 
 ## Klimatsystem
 

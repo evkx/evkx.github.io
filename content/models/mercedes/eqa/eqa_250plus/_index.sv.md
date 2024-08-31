@@ -102,11 +102,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
-- längdjusterbart nackstöd (valfritt)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- längdjusterbart nackstöd (valfri)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar som ett alternativ)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
 
@@ -117,10 +117,10 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.

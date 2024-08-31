@@ -128,8 +128,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
+- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest) (standard pour siège passager)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

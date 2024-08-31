@@ -98,10 +98,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siège.
 

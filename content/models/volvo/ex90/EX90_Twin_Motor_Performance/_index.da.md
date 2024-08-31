@@ -106,9 +106,9 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
@@ -128,7 +128,7 @@ Muligheden standard er en tre-sædet bænk med en 40:60 del, hvor du kan folde h
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 

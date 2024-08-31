@@ -126,6 +126,7 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for passenger seat)
 
 Available in:
 

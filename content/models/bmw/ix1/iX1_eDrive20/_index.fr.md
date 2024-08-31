@@ -105,11 +105,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
@@ -118,11 +118,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

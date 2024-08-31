@@ -98,7 +98,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
@@ -112,7 +112,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 

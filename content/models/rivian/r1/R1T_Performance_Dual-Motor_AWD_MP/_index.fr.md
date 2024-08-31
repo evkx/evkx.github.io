@@ -102,7 +102,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
@@ -115,7 +115,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 
 ## Système de climatisation
 

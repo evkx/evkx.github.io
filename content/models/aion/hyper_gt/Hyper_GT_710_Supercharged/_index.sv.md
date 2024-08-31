@@ -96,8 +96,8 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 

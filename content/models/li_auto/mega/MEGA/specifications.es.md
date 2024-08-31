@@ -596,7 +596,7 @@ Interior.Seatlayout.OnlySix
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>

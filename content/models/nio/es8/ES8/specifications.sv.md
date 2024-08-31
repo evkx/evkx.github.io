@@ -732,7 +732,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>

@@ -584,7 +584,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>

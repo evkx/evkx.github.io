@@ -521,7 +521,7 @@ Interior.Seatlayout.OnlySix
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>

@@ -98,8 +98,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
@@ -111,7 +111,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 
 ## Système de climatisation
 

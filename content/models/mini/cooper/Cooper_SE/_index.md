@@ -95,7 +95,7 @@ The following functionalities are available on the **** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable as an option)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 Available in:

@@ -104,7 +104,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
@@ -115,7 +115,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
+- [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 
 #### Sæder på tredje række
 

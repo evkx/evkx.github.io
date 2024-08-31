@@ -102,11 +102,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
-- appui-tête réglable en longueur (facultatif)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
+- appui-tête réglable en longueur (optionnel)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
 
@@ -117,10 +117,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.

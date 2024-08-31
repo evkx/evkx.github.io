@@ -140,8 +140,8 @@ Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](.
 
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für äußere Sitze)
+- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für äußere Sitze)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

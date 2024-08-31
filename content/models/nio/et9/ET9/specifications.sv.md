@@ -572,7 +572,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>

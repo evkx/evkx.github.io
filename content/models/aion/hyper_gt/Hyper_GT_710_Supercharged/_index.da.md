@@ -96,8 +96,8 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 

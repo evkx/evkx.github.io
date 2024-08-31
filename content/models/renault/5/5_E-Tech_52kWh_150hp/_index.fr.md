@@ -102,7 +102,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 

@@ -127,6 +127,7 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for passenger seat)
 
 Available in:
 
@@ -137,8 +138,8 @@ Available in:
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
-- [Heating](../../../../technology/seats/adjustment/#heating)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
+- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 ## Climate System

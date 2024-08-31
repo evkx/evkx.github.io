@@ -772,7 +772,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Standard passenger seat
 			</td>
 		</tr>
 		<tr>

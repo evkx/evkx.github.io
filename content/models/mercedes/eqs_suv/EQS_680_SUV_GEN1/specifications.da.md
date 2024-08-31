@@ -760,7 +760,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>

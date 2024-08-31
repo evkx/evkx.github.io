@@ -617,7 +617,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Hukommelse
 			</td>
 			<td>
-				Ukendt
+				Standard fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>

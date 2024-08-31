@@ -732,7 +732,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>

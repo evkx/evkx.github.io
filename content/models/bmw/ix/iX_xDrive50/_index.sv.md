@@ -98,10 +98,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
-- [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
+- [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfri)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 
 Du kan välja mellan 7 olika material/färger för denna sitstyp.
 

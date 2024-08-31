@@ -572,7 +572,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>

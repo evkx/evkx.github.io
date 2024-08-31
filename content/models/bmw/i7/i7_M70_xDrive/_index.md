@@ -121,8 +121,8 @@ The second option is an [executive seat combined with a two-seat bench](../../..
 
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for outer seats)
+- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest) (standard for outer seats)
 
 ## Climate System
 

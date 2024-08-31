@@ -118,7 +118,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
@@ -127,8 +127,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable manuellement, réglable électriquement en option)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.

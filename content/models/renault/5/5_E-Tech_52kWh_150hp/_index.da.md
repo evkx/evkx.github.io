@@ -102,7 +102,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 

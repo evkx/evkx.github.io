@@ -103,10 +103,10 @@ Le CUPRA BORN 58 e-BOOST propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (optionnel)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement en option)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

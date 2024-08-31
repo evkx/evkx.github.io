@@ -107,10 +107,10 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
+- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan vælge mellem 15 forskellige materialer/farver til denne sædetype.
 
@@ -140,8 +140,8 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for ydre sæder)
+- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

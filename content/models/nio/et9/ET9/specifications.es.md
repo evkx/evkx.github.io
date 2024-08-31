@@ -572,7 +572,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>

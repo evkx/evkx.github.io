@@ -532,7 +532,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Minne
 			</td>
 			<td>
-				Ukjent
+				Standard fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 		<tr>

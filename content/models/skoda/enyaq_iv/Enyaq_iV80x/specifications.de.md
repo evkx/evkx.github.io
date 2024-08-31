@@ -713,7 +713,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Standard Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -858,7 +858,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Standard Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>

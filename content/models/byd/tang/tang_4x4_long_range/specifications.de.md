@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Standard Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>

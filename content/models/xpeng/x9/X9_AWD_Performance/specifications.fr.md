@@ -521,7 +521,7 @@ Interior.Seatlayout.OnlySix
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>

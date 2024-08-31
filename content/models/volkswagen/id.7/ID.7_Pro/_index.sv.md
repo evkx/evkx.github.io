@@ -112,7 +112,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -129,6 +130,7 @@ Följande funktioner är tillgängliga på **ergoActive** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 
@@ -137,7 +139,7 @@ Följande funktioner är tillgängliga på **ergoActive** sätet.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [ISOFIX](../../../../technology/seats/adjustment/#isofix)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Pro" width="3000" height="2000"  >}}
 

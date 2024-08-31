@@ -106,9 +106,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
@@ -128,7 +128,7 @@ Alternativet standard är en tresitssbänk med en 40:60-sektion där du kan vika
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 

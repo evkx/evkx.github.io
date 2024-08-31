@@ -603,7 +603,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Mémoire
 			</td>
 			<td>
-				Inconnu
+				Conducteur standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>

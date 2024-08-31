@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>

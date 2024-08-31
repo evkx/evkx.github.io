@@ -691,7 +691,7 @@ Interior.Seatlayout.OnlySix
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>

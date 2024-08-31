@@ -532,7 +532,7 @@ This model is available with a seat configuration with four seats.
 				Memory
 			</td>
 			<td>
-				Unknown
+				Standard driver, not available passenger
 			</td>
 		</tr>
 		<tr>

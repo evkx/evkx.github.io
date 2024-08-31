@@ -95,7 +95,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar som et alternativ)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.

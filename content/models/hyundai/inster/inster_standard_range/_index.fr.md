@@ -103,8 +103,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (standard pour le conducteur, non disponible pour le passager)
+- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

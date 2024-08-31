@@ -883,7 +883,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hukommelse
 			</td>
 			<td>
-				Ukendt
+				Standard fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>

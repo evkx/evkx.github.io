@@ -593,7 +593,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Memoria
 			</td>
 			<td>
-				Desconocido
+				Conductor estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>

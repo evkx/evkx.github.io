@@ -593,7 +593,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs oder sieben Sitzen erhä
 				Speicher
 			</td>
 			<td>
-				Unbekannt
+				Standard Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>

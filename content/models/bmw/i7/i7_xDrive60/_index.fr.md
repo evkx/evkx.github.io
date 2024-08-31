@@ -107,10 +107,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
-- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
-- [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
+- [Mémoire](../../../../technology/seats/adjustment/#seat-memory) (optionnel)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 
 Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de siège.
 
@@ -140,8 +140,8 @@ L'option second est un [siège exécutif combiné à une banquette à deux place
 
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
+- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour sièges extérieurs)
+- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/secondrowseats_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 

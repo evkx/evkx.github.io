@@ -127,6 +127,7 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für Beifahrersitz)
 
 Verfügbar in:
 

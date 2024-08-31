@@ -121,8 +121,8 @@ Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](.
 
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für äußere Sitze)
+- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest) (Standard für äußere Sitze)
 
 ## Klimaanlage
 

@@ -765,7 +765,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Minnesfunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>

@@ -760,7 +760,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>

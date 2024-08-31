@@ -636,7 +636,7 @@ Interior.Seatlayout.OnlySix
 				Minne
 			</td>
 			<td>
-				Ukjent
+				Standard fører, ikke tilgjengelig for passasjer
 			</td>
 		</tr>
 		<tr>

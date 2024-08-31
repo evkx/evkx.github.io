@@ -140,8 +140,8 @@ La opción second es un [asiento ejecutivo combinado con un banco de dos asiento
 
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asientos exteriores)
+- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

@@ -572,7 +572,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -680,7 +680,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>

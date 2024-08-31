@@ -691,7 +691,7 @@ Interior.Seatlayout.OnlySix
 				Hukommelse
 			</td>
 			<td>
-				Ukendt
+				Standard fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>

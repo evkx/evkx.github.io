@@ -531,7 +531,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minnesfunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>

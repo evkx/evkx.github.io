@@ -124,8 +124,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfrit)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+- længdejusterbar nakkestøtte (valgfri)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
@@ -135,9 +135,9 @@ Følgende funktioner er tilgængelige på **sport** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfrit)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- længdejusterbar nakkestøtte (valgfri)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
@@ -146,9 +146,9 @@ Følgende funktioner er tilgængelige på **s-line sport** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
-- længdejusterbar nakkestøtte (valgfrit)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- længdejusterbar nakkestøtte (valgfri)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
@@ -156,8 +156,8 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **s sport** sædet.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [heating](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
@@ -172,12 +172,12 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 - længdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
-- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
