@@ -34,11 +34,13 @@ La batterie haute capacité a une capacité brute de 68,8 kWh et une capacité n
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 412 km, avec une consommation d'énergie de 15,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 122 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 55 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 57kW. Chaque session de charge prendrait 33 minutes et 12 secondes.
+La vitesse de charge DC maximale est de 78kW. Une charge complète de 0 à 100 % prendrait 122 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 43 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 55 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 57kW. Chaque session de charge prendrait 33 minutes et 12 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24,5 kWh/100 km, le voyage prendrait environ 11 heures et 35 minutes. Ce trajet nécessiterait deux arrêts de recharge de 5% à 55%, avec un temps de recharge total de 195 minutes.
 
 ### Chargeur embarqué
+
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 37 minutes à domicile.
 
 ### Port de recharge
 
@@ -141,6 +143,8 @@ L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et 
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
 
 Le Honda e:Ny1 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 

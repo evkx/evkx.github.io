@@ -34,11 +34,13 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 68,8 kWh und eine nutz
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 412 km (256 Meilen) mit einem Energieverbrauch von 15,0 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 122 Minuten, während ein typischer Ladevorgang von 10% auf 80% 43 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 55%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 57 kW, wobei jede Ladesitzung etwa 33 Minuten und 12 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 78 kW. Das Laden von 0% auf 100% dauert etwa 122 Minuten, während ein typischer Ladevorgang von 10% auf 80% 43 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 61 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 55%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 57 kW, wobei jede Ladesitzung etwa 33 Minuten und 12 Sekunden dauert.
 
 In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24,5 kWh/100 km, würde die Fahrt etwa 11 Stunden und 35 Minuten dauern. Diese Reise würde sechs Ladestopps von 5% auf 55% erfordern, mit einer gesamten Ladezeit von 195 Minuten.
 
 ### Bordladegerät
+
+Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-Laden. Dies ermöglicht es Ihnen, die Batterie zu Hause in etwa 5 Stunden und 37 Minuten vollständig von 0 auf 100% aufzuladen.
 
 ### Ladeanschluss
 
@@ -141,6 +143,8 @@ Der Honda e:Ny1 umfasst mehrere Funktionen, um Komfort und Bequemlichkeit zu ver
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des Honda e:Ny1 konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
 
 Der Honda e:Ny1 hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und in der Mittelkonsole gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) oben in der Mittelkonsole.
 

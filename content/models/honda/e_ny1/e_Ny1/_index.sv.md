@@ -34,11 +34,13 @@ Högkapacitetsbatteriet har en bruttokapacitet på 68,8 kWh och en nettoanvändb
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 412 km (199 miles), med en energiförbrukningshastighet på 15,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 122 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 57kW. Varje laddningssession tar 33 minuter och 12 sekunder.
+Maximal DC-laddningshastighet är 78 kW. En full laddning från 0 - 100 % tar 122 minuter, medan ett vanligare scenario på 10-80 % tar 43 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 57kW. Varje laddningssession tar 33 minuter och 12 sekunder.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 11 timmar och 35 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 55%, med en total laddningstid på 195 minuter.
 
 ### Ombordladdare
+
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 37 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -141,6 +143,8 @@ Honda e:Ny1 inkluderar flera funktioner för att förbättra komfort och bekväm
 {{<evkxdisplayaddarticle />}}
 
 ## Användargränssnitt och kontroll
+
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
 
 Honda e:Ny1 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 

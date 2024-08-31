@@ -94,6 +94,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				15,0 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				18,2 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -127,6 +135,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				61,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				78 kW
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +970,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +978,7 @@ This model is available with a seat configuration with five seats.
 				Voice control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +986,7 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

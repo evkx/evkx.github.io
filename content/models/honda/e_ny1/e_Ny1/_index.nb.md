@@ -34,11 +34,13 @@ Høykapasitetsbatteriet har en brutto kapasitet på 68,8 kWh og en netto brukbar
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 412 km, med et energiforbruk på 15,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 122 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 57kW. Hver ladeøkt vil ta 33 minutter og 12 sekunder.
+Maksimal DC-ladehastighet er 78 kW. En full lading fra 0 - 100 % vil ta 122 minutter, mens et mer vanlig scenario på 10-80 % vil ta 43 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 55%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 57kW. Hver ladeøkt vil ta 33 minutter og 12 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 24,5 kWh/100 km, ville turen ta omtrent 11 timer og 35 minutter. Denne reisen ville kreve to ladestopp fra 5% til 55%, med en total ladetid på 195 minutter.
 
 ### Ombordlader
+
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 37 minutter med en hjemmelader.
 
 ### Ladeport
 
@@ -141,6 +143,8 @@ Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighe
 {{<evkxdisplayaddarticle />}}
 
 ## Brukergrensesnitt og kontroll
+
+Kontrollgrensesnittet for denne elbilmodellen er fokusert rundt skjerminteraksjon og har kun begrenset funksjonalitet tilgjengelig på knapper og spaker. For noen kan dette føre til en mindre enn ideell brukeropplevelse og brukervennlighet.
 
 Honda e:Ny1 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
 

@@ -94,6 +94,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				15,0 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Consommation WLTP avec perte de charge
+			</td>
+			<td>
+				18,2 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -127,6 +135,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				61,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Charge CC maximale
+			</td>
+			<td>
+				78 kW
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +970,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage tête haute
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +978,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle vocal
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +986,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

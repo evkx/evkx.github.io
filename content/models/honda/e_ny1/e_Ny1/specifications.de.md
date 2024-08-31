@@ -94,6 +94,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				15,0 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch mit Ladeverlust
+			</td>
+			<td>
+				18,2 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -127,6 +135,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				61,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale DC-Ladegeschwindigkeit
+			</td>
+			<td>
+				78 kW
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +970,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Head-up-Display
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +978,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sprachsteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +986,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

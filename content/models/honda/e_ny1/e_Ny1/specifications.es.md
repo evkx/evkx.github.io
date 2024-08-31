@@ -94,6 +94,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				15,0 kWh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Consumo WLTP con pérdida de carga
+			</td>
+			<td>
+				18,2 kWh/100km
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -127,6 +135,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				61,9 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				78 kW
 			</td>
 		</tr>
 		<tr>
@@ -954,6 +970,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -961,6 +978,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control por voz
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -968,6 +986,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
