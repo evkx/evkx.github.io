@@ -97,7 +97,6 @@ For første rad tilbyr Mercedes-EQ EQB 250 to forskjellige setetyper å velge me
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
@@ -112,7 +111,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte

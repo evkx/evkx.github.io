@@ -112,7 +112,6 @@ Para la primera fila, el Porsche Taycan Turbo Cross Turismo (GEN1) ofrece tres t
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
@@ -122,7 +121,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
@@ -133,7 +131,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)

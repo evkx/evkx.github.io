@@ -102,7 +102,6 @@ Pour la première rangée, l'Porsche Taycan Turbo GT Weissach propose deux types
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Lightweight bucket seat**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -111,7 +110,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Lightweight buck
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

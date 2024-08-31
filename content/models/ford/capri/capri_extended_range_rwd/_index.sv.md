@@ -104,7 +104,6 @@ För första raden erbjuder Ford Capri Extended Range RWD två olika sätestyper
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -112,7 +111,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Följande funktioner är tillgängliga på **Ergo** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)

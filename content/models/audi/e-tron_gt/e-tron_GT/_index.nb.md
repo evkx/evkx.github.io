@@ -110,7 +110,6 @@ For første rad tilbyr Audi e-tron GT tre forskjellige setetyper å velge mellom
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -120,7 +119,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **sport plus** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -131,7 +129,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **sport pro** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

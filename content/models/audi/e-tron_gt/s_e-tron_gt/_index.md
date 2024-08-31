@@ -122,7 +122,6 @@ The front row offers three seat types to cater to various comfort and style pref
 
 The following functionalities are available on the **sport** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -132,7 +131,6 @@ Available in:
 
 The following functionalities are available on the **sport plus** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -143,7 +141,6 @@ Available in:
 
 The following functionalities are available on the **sport pro** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)

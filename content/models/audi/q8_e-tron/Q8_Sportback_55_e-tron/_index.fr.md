@@ -120,7 +120,6 @@ Pour la première rangée, l'Audi Q8 Sportback 55 e-tron propose cinq types de s
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -133,7 +132,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -148,7 +146,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **s-line sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur (facultatif)
@@ -161,7 +158,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **s sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -172,7 +168,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)

@@ -140,7 +140,6 @@ Der Tesla Model Y Standard Range bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)

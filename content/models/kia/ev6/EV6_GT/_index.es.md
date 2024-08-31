@@ -92,7 +92,6 @@ El Kia EV6 GT ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura

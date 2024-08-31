@@ -117,7 +117,6 @@ Available in:
 
 The following functionalities are available on the **comfort** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)

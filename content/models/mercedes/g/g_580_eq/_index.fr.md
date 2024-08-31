@@ -103,7 +103,6 @@ Pour la première rangée, l'Mercedes-EQ G 580 EQ propose deux types de sièges 
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
@@ -117,7 +116,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur

@@ -112,7 +112,6 @@ För första raden erbjuder Porsche Taycan Turbo S (GEN1) två olika sätestyper
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
@@ -123,7 +122,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)

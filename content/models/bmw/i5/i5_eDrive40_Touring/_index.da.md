@@ -112,7 +112,6 @@ For første række tilbyder BMW i5 eDrive40 Touring to forskellige sædetyper at
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
-- elektrisk justering (valgfrit)
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
@@ -127,7 +126,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 
 Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

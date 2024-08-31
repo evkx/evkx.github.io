@@ -120,7 +120,6 @@ For første rad tilbyr Audi Q8 50 e-tron fem forskjellige setetyper å velge mel
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
@@ -131,7 +130,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
@@ -144,7 +142,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **s-line sport** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte (valgfri)
@@ -157,7 +154,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **s sport** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -168,7 +164,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte

@@ -114,7 +114,6 @@ GMC Hummer EV Edition 1 Pickup Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

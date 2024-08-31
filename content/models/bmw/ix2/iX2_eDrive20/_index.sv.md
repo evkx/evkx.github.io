@@ -102,7 +102,6 @@ För första raden erbjuder BMW iX2 eDrive20 två olika sätestyper att välja m
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -117,7 +116,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

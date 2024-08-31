@@ -105,7 +105,6 @@ El Tesla Model 3 Performance (GEN1) ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)

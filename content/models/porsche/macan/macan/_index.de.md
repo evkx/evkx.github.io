@@ -107,7 +107,6 @@ Die erste Reihe bietet drei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Comfortseats**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -118,7 +117,6 @@ Die folgenden Funktionen sind für den **Comfortseats**-Sitz verfügbar:
 
 Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
@@ -133,7 +131,6 @@ Verfügbar in:
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)

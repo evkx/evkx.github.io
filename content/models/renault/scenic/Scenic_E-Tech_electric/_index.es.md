@@ -101,7 +101,6 @@ El Renault Scenic E-Tech electric ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- ajuste eléctrico (opcional)
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)

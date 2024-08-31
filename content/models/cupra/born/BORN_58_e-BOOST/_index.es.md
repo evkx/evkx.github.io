@@ -102,7 +102,6 @@ El CUPRA BORN 58 e-BOOST ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
-- ajuste eléctrico (opcional)
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)

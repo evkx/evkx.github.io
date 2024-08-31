@@ -109,7 +109,6 @@ Para la primera fila, el Porsche Macan 4S ofrece tres tipos diferentes de asient
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
@@ -120,7 +119,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
@@ -135,7 +133,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)

@@ -99,7 +99,6 @@ Pour la première rangée, l'Mercedes-EQ EQA 350 4MATIC propose deux types de si
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
@@ -114,7 +113,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur

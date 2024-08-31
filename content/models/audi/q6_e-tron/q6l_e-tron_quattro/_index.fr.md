@@ -139,7 +139,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
@@ -159,7 +158,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)

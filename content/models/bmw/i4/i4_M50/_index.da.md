@@ -106,7 +106,6 @@ For første række tilbyder BMW i4 M50 to forskellige sædetyper at vælge imell
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
-- elektrisk justering (valgfrit)
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -141,7 +140,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **M Sport** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)

@@ -98,7 +98,6 @@ Genesis GV60 AWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte

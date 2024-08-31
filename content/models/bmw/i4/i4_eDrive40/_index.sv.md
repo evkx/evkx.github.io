@@ -106,7 +106,6 @@ För första raden erbjuder BMW i4 eDrive40 två olika sätestyper att välja me
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -141,7 +140,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **M Sport** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

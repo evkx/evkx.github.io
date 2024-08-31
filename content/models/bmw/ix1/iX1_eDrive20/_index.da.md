@@ -102,7 +102,6 @@ For første række tilbyder BMW iX1 eDrive20 to forskellige sædetyper at vælge
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 
-- elektrisk justering (valgfrit)
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -117,7 +116,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)

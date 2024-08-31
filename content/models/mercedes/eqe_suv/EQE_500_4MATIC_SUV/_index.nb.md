@@ -104,7 +104,6 @@ For første rad tilbyr Mercedes-EQ EQE 500 4MATIC SUV to forskjellige setetyper 
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
@@ -118,7 +117,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte

@@ -104,7 +104,6 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
@@ -112,7 +111,6 @@ Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 
 Die folgenden Funktionen sind für den **Ergo**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)

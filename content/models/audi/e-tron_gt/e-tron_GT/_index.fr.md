@@ -110,7 +110,6 @@ Pour la première rangée, l'Audi e-tron GT propose trois types de sièges diff�
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -120,7 +119,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport plus**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -131,7 +129,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

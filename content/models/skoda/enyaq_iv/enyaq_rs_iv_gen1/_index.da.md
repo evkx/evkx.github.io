@@ -101,7 +101,6 @@ SKODA ENYAQ RS iV (GEN1) tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
-- elektrisk justering (valgfrit)
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)

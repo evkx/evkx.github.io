@@ -102,7 +102,6 @@ Pour la première rangée, l'BMW iX1 xDrive30 propose deux types de sièges diff
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
@@ -117,7 +116,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)

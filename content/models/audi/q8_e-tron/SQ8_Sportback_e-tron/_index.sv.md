@@ -115,7 +115,6 @@ För första raden erbjuder Audi SQ8 Sportback e-tron tre olika sätestyper att 
 
 Följande funktioner är tillgängliga på **s-line sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
@@ -128,7 +127,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **s sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
@@ -139,7 +137,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd

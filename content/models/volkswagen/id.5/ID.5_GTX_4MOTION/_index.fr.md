@@ -103,7 +103,6 @@ Pour la première rangée, l'Volkswagen ID.5 GTX 4MOTION propose deux types de s
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
@@ -113,7 +112,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive Top-Sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)

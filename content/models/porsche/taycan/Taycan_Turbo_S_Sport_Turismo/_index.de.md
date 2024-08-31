@@ -106,7 +106,6 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Comfortseats with memory**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -117,7 +116,6 @@ Verfügbar in:
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)

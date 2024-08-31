@@ -107,7 +107,6 @@ For første rad tilbyr Porsche Macan 4 tre forskjellige setetyper å velge mello
 
 Følgende funksjoner er tilgjengelige på **Comfortseats** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -118,7 +117,6 @@ Følgende funksjoner er tilgjengelige på **Comfortseats** setet.
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -133,7 +131,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

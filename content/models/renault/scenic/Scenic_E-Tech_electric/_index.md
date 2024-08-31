@@ -101,7 +101,6 @@ The Renault Scenic E-Tech electric offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

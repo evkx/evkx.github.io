@@ -109,7 +109,6 @@ The front row offers two seat types to cater to various comfort and style prefer
 
 The following functionalities are available on the **standard** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -119,7 +118,6 @@ Available in:
 
 The following functionalities are available on the **ergoActive Top-Sport** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)

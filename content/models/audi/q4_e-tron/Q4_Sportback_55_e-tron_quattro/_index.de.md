@@ -108,7 +108,6 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
@@ -120,7 +119,6 @@ Verfügbar in:
 
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)

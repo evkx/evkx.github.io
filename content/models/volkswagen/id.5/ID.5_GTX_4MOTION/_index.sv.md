@@ -103,7 +103,6 @@ För första raden erbjuder Volkswagen ID.5 GTX 4MOTION två olika sätestyper a
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -113,7 +112,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)

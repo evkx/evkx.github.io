@@ -99,7 +99,6 @@ Der Hyundai INSTER Standard Range bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze

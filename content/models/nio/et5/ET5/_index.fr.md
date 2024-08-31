@@ -117,7 +117,6 @@ Le Nio ET5 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur

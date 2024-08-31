@@ -128,7 +128,6 @@ For første række tilbyder Porsche Taycan (GEN1) tre forskellige sædetyper at 
 
 Følgende funktioner er tilgængelige på **Comfort** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
@@ -138,7 +137,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
@@ -149,7 +147,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)

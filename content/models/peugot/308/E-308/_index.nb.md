@@ -97,7 +97,6 @@ Peugot E-308 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)

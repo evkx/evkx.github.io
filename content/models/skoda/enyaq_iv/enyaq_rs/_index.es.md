@@ -101,7 +101,6 @@ El SKODA ENYAQ RS ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
-- ajuste eléctrico (opcional)
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)

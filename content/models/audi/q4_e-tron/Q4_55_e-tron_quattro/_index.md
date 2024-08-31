@@ -114,7 +114,6 @@ The front row offers two seat types to cater to various comfort and style prefer
 
 The following functionalities are available on the **standard** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -126,7 +125,6 @@ Available in:
 
 The following functionalities are available on the **sport** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable, electrically adjustable as an option)

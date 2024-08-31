@@ -112,7 +112,6 @@ For første rad tilbyr Volkswagen ID.5 Pro Performance to forskjellige setetyper
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
@@ -125,7 +124,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)

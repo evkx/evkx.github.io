@@ -103,7 +103,6 @@ Mercedes-Maybach EQS 680 SUV tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - længdejusterbar nakkestøtte

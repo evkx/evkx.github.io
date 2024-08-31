@@ -104,7 +104,6 @@ Die erste Reihe bietet zwei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Lightweight bucket seat**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -113,7 +112,6 @@ Die folgenden Funktionen sind für den **Lightweight bucket seat**-Sitz verfügb
 
 Die folgenden Funktionen sind für den **Sportsseats Plus**-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)

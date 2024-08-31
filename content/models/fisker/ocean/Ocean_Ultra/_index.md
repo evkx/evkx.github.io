@@ -99,7 +99,6 @@ The Fisker Ocean Ultra offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)

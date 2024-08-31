@@ -108,7 +108,6 @@ For første rad tilbyr BMW i5 eDrive40 to forskjellige setetyper å velge mellom
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
@@ -121,7 +120,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)

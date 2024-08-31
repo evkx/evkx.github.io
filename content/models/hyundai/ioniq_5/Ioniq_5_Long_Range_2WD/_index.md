@@ -99,7 +99,6 @@ The Hyundai Ioniq 5 Long Range 2WD offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest

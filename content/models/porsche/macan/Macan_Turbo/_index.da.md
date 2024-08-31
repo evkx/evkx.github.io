@@ -107,7 +107,6 @@ For første række tilbyder Porsche Macan Turbo to forskellige sædetyper at væ
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
@@ -122,7 +121,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

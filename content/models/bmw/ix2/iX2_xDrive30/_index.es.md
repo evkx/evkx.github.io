@@ -102,7 +102,6 @@ Para la primera fila, el BMW iX2 xDrive30 ofrece dos tipos diferentes de asiento
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
-- ajuste eléctrico (opcional)
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -117,7 +116,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)

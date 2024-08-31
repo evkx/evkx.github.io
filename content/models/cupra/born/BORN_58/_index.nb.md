@@ -102,7 +102,6 @@ CUPRA BORN 58 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
-- elektrisk justering (valgfri)
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)

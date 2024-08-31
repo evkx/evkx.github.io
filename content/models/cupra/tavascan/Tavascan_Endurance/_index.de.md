@@ -102,7 +102,6 @@ Der CUPRA Tavascan Endurance bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)

@@ -115,7 +115,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 Følgende funksjoner er tilgjengelige på **comfort** setet.
 
-- elektrisk justering
 - [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

@@ -104,7 +104,6 @@ Pour la première rangée, l'BMW i5 M60 xDrive propose deux types de sièges dif
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
-- réglage électrique (facultatif)
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
@@ -117,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)

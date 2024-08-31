@@ -104,7 +104,6 @@ För första raden erbjuder Volkswagen ID.4 Pro två olika sätestyper att välj
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
@@ -117,7 +116,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)

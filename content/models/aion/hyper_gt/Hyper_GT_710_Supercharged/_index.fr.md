@@ -91,7 +91,6 @@ Le Aion Hyper GT 710 Supercharged propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)

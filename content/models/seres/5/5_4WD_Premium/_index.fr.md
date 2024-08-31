@@ -99,7 +99,6 @@ Le Seres 5 4WD Premium propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur

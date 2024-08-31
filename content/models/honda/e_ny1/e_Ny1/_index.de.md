@@ -91,7 +91,6 @@ Der Honda e:Ny1 bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
-- Elektrische Verstellung
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - Höhenverstellbare Kopfstütze

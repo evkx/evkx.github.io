@@ -111,7 +111,6 @@ Le Tesla Model 3 Long Range (GEN1) propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)

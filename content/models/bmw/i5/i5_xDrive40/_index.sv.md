@@ -108,7 +108,6 @@ För första raden erbjuder BMW i5 xDrive40 två olika sätestyper att välja me
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
-- elektrisk justering (valfritt)
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
@@ -121,7 +120,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Följande funktioner är tillgängliga på **Comfort seats** sätet.
 
-- elektrisk justering
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

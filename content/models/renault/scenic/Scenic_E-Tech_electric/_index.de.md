@@ -101,7 +101,6 @@ Der Renault Scenic E-Tech electric bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
-- Elektrische Verstellung (optional)
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

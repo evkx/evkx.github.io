@@ -124,7 +124,6 @@ The front row offers five seat types to cater to various comfort and style prefe
 
 The following functionalities are available on the **standard** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -137,7 +136,6 @@ Available in:
 
 The following functionalities are available on the **sport** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
@@ -152,7 +150,6 @@ Available in:
 
 The following functionalities are available on the **s-line sport** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
@@ -165,7 +162,6 @@ Available in:
 
 The following functionalities are available on the **s sport** seat:
 
-- Electric adjustment (optional)
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -176,7 +172,6 @@ Available in:
 
 The following functionalities are available on the **multicontour** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)

@@ -103,7 +103,6 @@ El BMW iX3 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
-- ajuste eléctrico
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)

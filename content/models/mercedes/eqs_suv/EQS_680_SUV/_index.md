@@ -104,7 +104,6 @@ The Mercedes-Maybach EQS 680 SUV offers a single type of front seat.
 
 The following functionalities are available on the **multicontour** seat:
 
-- Electric adjustment
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest

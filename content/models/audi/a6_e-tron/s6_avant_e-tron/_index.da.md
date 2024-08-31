@@ -123,7 +123,6 @@ For første række tilbyder Audi S6 Avant e-tron to forskellige sædetyper at v�
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
-- elektrisk justering (valgfrit)
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
@@ -143,7 +142,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
-- elektrisk justering
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)

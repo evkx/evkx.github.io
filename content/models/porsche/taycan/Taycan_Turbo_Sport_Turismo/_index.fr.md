@@ -106,7 +106,6 @@ Pour la première rangée, l'Porsche Taycan Turbo Sport Turismo propose trois ty
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -116,7 +115,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -127,7 +125,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
-- réglage électrique
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
