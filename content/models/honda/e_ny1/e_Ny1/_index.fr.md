@@ -30,7 +30,7 @@ L'Honda e:Ny1 offre des performances modestes avec une puissance maximale de 150
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 68,8 kWh et une capacité nette utilisable de 61,9 kWh, offrant une réserve de 6,9 kWh (10,0%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 68,8 kWh et une capacité nette utilisable de 61,9 kWh, offrant une réserve de 6,9 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 412 km, avec une consommation d'énergie de 15,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -173,7 +173,7 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré vous aide à naviguer jusqu'à votre destination avec facilité. Cependant, il ne prend pas en charge la planification des itinéraires avec des arrêts de recharge, ce qui vous oblige à planifier vos arrêts de recharge manuellement. De plus, il ne fournit pas d'informations sur le trafic en temps réel, ce qui le rend moins précieux par rapport aux systèmes de navigation de nombreux autres véhicules électriques.
 
 ### Réplication du téléphone
 
@@ -186,6 +186,12 @@ Un type de système audio est disponible pour le Honda e:Ny1.
 - Avec le Honda Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 180 watts.
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
+## Application mobile
+
+Le Honda e:Ny1 est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
 
 ## Lumières
 
@@ -227,7 +233,7 @@ Avec le système Honda Sensing  de niveau 2, vous obtenez les fonctionnalités s
 ### Capteurs & Caméras
 
 Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 

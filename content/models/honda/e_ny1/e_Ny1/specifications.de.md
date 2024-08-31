@@ -147,6 +147,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nennspannung
+			</td>
+			<td>
+				370
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Kathodenmaterialien
 			</td>
 			<td>

@@ -30,7 +30,7 @@ The Honda e:Ny1 offers modest performance with a maximum power of 150 kW (204 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 68.8 kWh and a net usable capacity of 61.9 kWh, providing a 6.9 kWh buffer (10.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 68.8 kWh and a net usable capacity of 61.9 kWh, providing a 6.9 kWh buffer (10.0%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 412 km (256 miles), with an energy consumption rate of 15.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -173,7 +173,7 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system helps you navigate to your destination with ease. However, it does not support route planning with charging stops, requiring you to plan your charging stops manually. Additionally, it does not provide real-time traffic information, making it less valuable compared to navigation systems in many other EVs.
 
 ### Phone Mirroring
 
@@ -186,6 +186,12 @@ The Honda e:Ny1 comes equipped with one sound system option:
 - **Honda Sound System:** Features six speakers and delivers a maximum output of 180 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
+## Mobile App
+
+The Honda e:Ny1 comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
 
 ## Lights
 
@@ -227,7 +233,7 @@ With the Honda Sensing  level 2 system, you get the following driving automation
 ### Sensors & Cameras
 
 This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
-Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

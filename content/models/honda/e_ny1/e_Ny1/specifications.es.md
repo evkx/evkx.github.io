@@ -147,6 +147,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				96s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				370
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Materiales del cátodo
 			</td>
 			<td>

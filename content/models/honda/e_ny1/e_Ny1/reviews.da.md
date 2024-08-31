@@ -16,6 +16,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New 2024 Honda e:Ny1 Review | Here's Why Journalists Are Wrong About This Car</h3>
+<p>Buckled Up: 18.04.2024</p>
+
+{{< youtube vN2AqihPpks >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Honda e:Ny1 Review: Solid Effort or Missed Opportunity? | Charging, Range, Noise</h3>
 <p>It's Only Electric: 06.01.2024</p>
 

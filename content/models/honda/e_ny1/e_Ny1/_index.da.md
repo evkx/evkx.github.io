@@ -30,7 +30,7 @@ Honda e:Ny1 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (2
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 68,8 kWh og en nettoanvendelig kapacitet på 61,9 kWh, hvilket giver en buffer på 6,9 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 68,8 kWh og en nettoanvendelig kapacitet på 61,9 kWh, hvilket giver en buffer på 6,9 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 370 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 412 km, med et energiforbrugsrate på 15,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -173,7 +173,7 @@ Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem hjælper dig med at navigere til din destination med lethed. Det understøtter dog ikke ruteplanlægning med ladestop, hvilket kræver, at du planlægger dine ladestop manuelt. Derudover giver det ikke realtids trafikoplysninger, hvilket gør det mindre værdifuldt sammenlignet med navigationssystemer i mange andre elbiler.
 
 ### Telefon spejling
 
@@ -186,6 +186,12 @@ Yderligere understøtter Honda e:Ny1 Android Auto og Apple CarPlay. Denne funkti
 - Med Honda Sound System får du seks højttalere med en maksimal systemeffekt på 180 watt.
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
+## Mobilapp
+
+Den Honda e:Ny1 kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
 
 ## Lys
 
@@ -227,7 +233,7 @@ Med Honda Sensing  niveau 2-systemet får du følgende funktioner til køreautom
 ### Sensorer & Kameraer
 
 Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
-Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
