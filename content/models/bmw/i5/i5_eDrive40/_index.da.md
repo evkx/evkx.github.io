@@ -132,8 +132,6 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/secondrowseats_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
 
 ## Klimasystem

@@ -110,7 +110,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 

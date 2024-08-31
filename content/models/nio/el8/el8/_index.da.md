@@ -126,8 +126,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
@@ -153,7 +151,6 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

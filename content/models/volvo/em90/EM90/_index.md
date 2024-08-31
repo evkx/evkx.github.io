@@ -127,7 +127,6 @@ For the second row, this model has two captain chairs. Additional functionalitie
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

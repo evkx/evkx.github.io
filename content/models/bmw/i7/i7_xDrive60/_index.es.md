@@ -136,13 +136,9 @@ Puedes elegir dos tipos de asientos para la segunda fila en el BMW i7 xDrive60.
 
 La opción standard es un banco de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive -asiento--banco-de-dos-asientos). Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)

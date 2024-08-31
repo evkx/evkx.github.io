@@ -127,8 +127,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
@@ -139,8 +137,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Du kan vælge to sædetyper til anden række i Nio ES8.
 
 Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 

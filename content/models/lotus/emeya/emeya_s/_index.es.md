@@ -132,8 +132,6 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Lotus Emeya S.
 La opción standard es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
 

@@ -163,8 +163,6 @@ Alternativet standard är två integrerade säten i andra raden. Dessutom är f�
 
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.

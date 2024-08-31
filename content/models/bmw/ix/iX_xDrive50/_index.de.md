@@ -111,8 +111,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/secondrowseats_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 ## Klimaanlage

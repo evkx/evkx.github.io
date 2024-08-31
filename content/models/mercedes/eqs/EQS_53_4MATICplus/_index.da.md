@@ -139,14 +139,11 @@ Du kan vælge to sædetyper til anden række i Mercedes-AMG EQS 53 4MATIC+.
 Muligheden standard er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 ## Klimasystem
 

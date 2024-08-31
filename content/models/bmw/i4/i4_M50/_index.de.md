@@ -175,8 +175,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 ## Klimaanlage
 
 Zwei Klimasystemoptionen sind verfügbar:

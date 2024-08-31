@@ -145,14 +145,11 @@ Du kan vælge to sædetyper til anden række i Mercedes-EQ EQS 580 4MATIC.
 Muligheden standard er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 

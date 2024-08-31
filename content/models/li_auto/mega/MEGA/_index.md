@@ -110,8 +110,6 @@ The following functionalities are available on the **standard** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 
@@ -133,7 +131,6 @@ For the second row, this model has two captain chairs. Additional functionalitie
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 

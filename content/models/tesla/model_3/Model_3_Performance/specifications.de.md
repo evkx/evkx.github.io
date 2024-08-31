@@ -593,14 +593,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -736,7 +728,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +736,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -752,7 +744,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -760,7 +752,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -768,7 +760,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -776,7 +768,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -784,7 +776,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -792,7 +784,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 	</tbody>

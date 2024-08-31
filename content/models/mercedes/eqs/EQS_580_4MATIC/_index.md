@@ -142,14 +142,11 @@ You can choose two seat types for the second row in the Mercedes-EQ EQS 580 4MAT
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 

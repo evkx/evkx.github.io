@@ -122,7 +122,6 @@ For the second row, this model has two captain chairs. Additional functionalitie
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 

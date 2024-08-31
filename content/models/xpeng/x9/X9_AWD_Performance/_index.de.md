@@ -99,7 +99,6 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 Verfügbar in:
 
@@ -115,7 +114,6 @@ Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funkti
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

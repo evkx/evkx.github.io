@@ -149,7 +149,6 @@ The following functionalities are available on the **Sport Plus** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -167,8 +166,6 @@ Available in:
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
-
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

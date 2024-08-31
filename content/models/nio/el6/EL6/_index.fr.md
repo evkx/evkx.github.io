@@ -130,8 +130,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
@@ -142,8 +140,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 ## Système de climatisation
 

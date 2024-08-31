@@ -141,7 +141,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 

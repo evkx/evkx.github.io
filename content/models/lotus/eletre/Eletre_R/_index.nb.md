@@ -129,8 +129,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/secondrowseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1856"  >}}
 

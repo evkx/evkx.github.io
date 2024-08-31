@@ -711,14 +711,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -786,7 +778,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -864,14 +856,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -939,7 +923,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -1017,14 +1001,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -1092,7 +1068,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

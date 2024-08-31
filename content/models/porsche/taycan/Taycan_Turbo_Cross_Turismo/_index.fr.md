@@ -147,8 +147,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 ## Système de climatisation

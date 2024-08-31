@@ -504,14 +504,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>

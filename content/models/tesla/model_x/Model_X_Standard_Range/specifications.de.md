@@ -609,14 +609,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>

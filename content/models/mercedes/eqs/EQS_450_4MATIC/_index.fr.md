@@ -139,14 +139,11 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Merc
 L'option standard est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2250"  >}}
 

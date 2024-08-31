@@ -593,14 +593,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Nicht verfügbar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -660,7 +652,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>

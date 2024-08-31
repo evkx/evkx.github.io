@@ -134,8 +134,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

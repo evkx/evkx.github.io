@@ -128,8 +128,6 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

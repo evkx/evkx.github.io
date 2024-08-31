@@ -688,14 +688,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -755,7 +747,7 @@ Interior.Seatlayout.OnlySix
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -763,7 +755,7 @@ Interior.Seatlayout.OnlySix
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

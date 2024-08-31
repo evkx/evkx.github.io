@@ -481,14 +481,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -548,7 +540,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Serienausstattung
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +548,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -653,7 +645,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit sechs Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Serienausstattung
+				Unbekannt
 			</td>
 		</tr>
 		<tr>

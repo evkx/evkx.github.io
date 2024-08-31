@@ -127,7 +127,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

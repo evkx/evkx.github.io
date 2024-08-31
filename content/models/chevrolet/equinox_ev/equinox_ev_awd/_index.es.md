@@ -114,7 +114,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 

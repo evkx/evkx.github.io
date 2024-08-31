@@ -147,8 +147,6 @@ La opción standard son dos asientos integrados en la segunda fila. Además, las
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2250"  >}}
 
 ## Sistema de climatización

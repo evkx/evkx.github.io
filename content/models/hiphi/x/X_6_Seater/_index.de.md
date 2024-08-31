@@ -107,7 +107,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 Verfügbar in:
 
@@ -121,7 +120,6 @@ Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funkti
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 #### Dritte Sitzreihe
 

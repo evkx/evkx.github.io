@@ -102,7 +102,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/secondrowseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 

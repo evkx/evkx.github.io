@@ -110,8 +110,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
@@ -133,7 +131,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 

@@ -134,8 +134,6 @@ Für die zweite Reihe hat dieses Modell zwei [Executive-Sitze](../../../../techn
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

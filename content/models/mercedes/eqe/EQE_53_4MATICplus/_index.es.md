@@ -135,7 +135,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 

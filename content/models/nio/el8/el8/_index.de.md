@@ -126,8 +126,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 Verfügbar in:
 
@@ -153,7 +151,6 @@ Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

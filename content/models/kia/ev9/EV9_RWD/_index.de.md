@@ -126,7 +126,6 @@ Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 
 Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
@@ -138,7 +137,6 @@ Die third-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 

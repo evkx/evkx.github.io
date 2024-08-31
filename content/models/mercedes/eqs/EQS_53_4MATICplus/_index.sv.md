@@ -139,14 +139,11 @@ Du kan välja två sätestyper för den andra raden i Mercedes-AMG EQS 53 4MATIC
 Alternativet standard är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 ## Klimatsystem
 

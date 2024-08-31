@@ -110,8 +110,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
@@ -133,7 +131,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 

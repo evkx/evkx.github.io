@@ -139,14 +139,11 @@ Sie können zwei Sitztypen für die zweite Reihe im Mercedes-EQ EQS 450+ wählen
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 Die second-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

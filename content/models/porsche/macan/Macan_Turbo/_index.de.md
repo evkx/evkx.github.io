@@ -139,8 +139,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 ## Klimaanlage

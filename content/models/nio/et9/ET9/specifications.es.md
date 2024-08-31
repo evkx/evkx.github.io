@@ -521,14 +521,6 @@ Este modelo está disponible con una configuración de cuatro asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -580,7 +572,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +580,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -688,7 +680,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -696,7 +688,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -704,7 +696,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

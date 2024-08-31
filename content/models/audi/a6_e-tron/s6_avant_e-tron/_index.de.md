@@ -146,7 +146,6 @@ Die folgenden Funktionen sind für den **Sport Plus**-Sitz verfügbar:
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -164,8 +163,6 @@ Verfügbar in:
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 ## Klimaanlage
 

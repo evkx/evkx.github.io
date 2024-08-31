@@ -141,7 +141,6 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

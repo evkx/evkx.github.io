@@ -597,14 +597,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -672,7 +664,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Optionale Ausstattung
+				Optionale elektrische Funktion
 			</td>
 		</tr>
 		<tr>

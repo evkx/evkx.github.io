@@ -127,7 +127,6 @@ Für die zweite Reihe hat dieses Modell zwei Kapitänssitze. Zusätzliche Funkti
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

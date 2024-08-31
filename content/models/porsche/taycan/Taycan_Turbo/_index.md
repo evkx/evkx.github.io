@@ -150,8 +150,6 @@ The standard option is two integrated seats in the second row. Additional functi
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 ## Climate System
 
 There is one climate system available:

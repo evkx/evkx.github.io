@@ -163,8 +163,6 @@ Die standard-Option sind zwei integrierte Sitze in der zweiten Reihe. Zusätzlic
 
 Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dritten kleineren Sitz dazwischen. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
 ## Klimaanlage

@@ -117,7 +117,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 

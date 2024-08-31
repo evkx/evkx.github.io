@@ -126,8 +126,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
@@ -153,7 +151,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

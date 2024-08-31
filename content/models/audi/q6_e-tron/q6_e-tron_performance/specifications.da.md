@@ -941,14 +941,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Ikke tilgængelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>
@@ -1094,14 +1086,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Valgfri funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>
@@ -1169,7 +1153,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -1247,14 +1231,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>
@@ -1322,7 +1298,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

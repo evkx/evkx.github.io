@@ -126,8 +126,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
@@ -153,7 +151,6 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

@@ -122,7 +122,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 

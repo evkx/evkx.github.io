@@ -601,14 +601,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
-			</td>
-			<td>
-				Optional feature
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memory
 			</td>
 			<td>
@@ -750,14 +742,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Standard electric feature
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
-			</td>
-			<td>
-				Optional feature
 			</td>
 		</tr>
 		<tr>

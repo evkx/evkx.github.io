@@ -118,8 +118,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
 ## Climate System

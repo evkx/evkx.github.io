@@ -118,8 +118,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
 ## Klimaanlage

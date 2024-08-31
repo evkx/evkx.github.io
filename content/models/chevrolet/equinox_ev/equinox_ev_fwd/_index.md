@@ -114,7 +114,6 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 

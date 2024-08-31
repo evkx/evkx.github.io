@@ -135,7 +135,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 

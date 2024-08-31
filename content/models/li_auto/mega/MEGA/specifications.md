@@ -545,14 +545,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
-			</td>
-			<td>
-				Standard feature
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memory
 			</td>
 			<td>
@@ -604,7 +596,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +612,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +709,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +717,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

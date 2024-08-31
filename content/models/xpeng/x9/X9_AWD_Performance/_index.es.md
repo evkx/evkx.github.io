@@ -99,7 +99,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -115,7 +114,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

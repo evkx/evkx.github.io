@@ -126,8 +126,6 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 
@@ -153,7 +151,6 @@ The second option is two captain chairs. Additional functionalities include:
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

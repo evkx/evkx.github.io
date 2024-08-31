@@ -478,14 +478,6 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -545,7 +537,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -650,7 +642,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>

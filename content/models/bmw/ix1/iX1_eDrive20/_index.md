@@ -131,7 +131,6 @@ Available in:
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 ## Climate System
 

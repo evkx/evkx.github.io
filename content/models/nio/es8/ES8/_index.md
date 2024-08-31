@@ -127,8 +127,6 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 
@@ -139,8 +137,6 @@ Available in:
 You can choose two seat types for the second row in the Nio ES8.
 
 The standard option is a three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
-
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 The standard option is two captain chairs. Additional functionalities include:
 

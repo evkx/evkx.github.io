@@ -159,8 +159,6 @@ Die standard-Option sind zwei integrierte Sitze in der zweiten Reihe. Zusätzlic
 
 Die second-Option sind zwei integrierte Sitze in der zweiten Reihe mit einem dritten kleineren Sitz dazwischen. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:

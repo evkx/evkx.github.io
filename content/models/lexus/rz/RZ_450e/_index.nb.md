@@ -110,7 +110,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 

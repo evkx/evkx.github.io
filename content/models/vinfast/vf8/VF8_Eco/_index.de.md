@@ -119,7 +119,6 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Spl
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

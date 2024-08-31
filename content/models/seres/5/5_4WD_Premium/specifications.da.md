@@ -557,14 +557,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>

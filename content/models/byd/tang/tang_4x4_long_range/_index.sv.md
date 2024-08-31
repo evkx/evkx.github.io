@@ -141,7 +141,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

@@ -127,7 +127,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

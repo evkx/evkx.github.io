@@ -135,7 +135,6 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

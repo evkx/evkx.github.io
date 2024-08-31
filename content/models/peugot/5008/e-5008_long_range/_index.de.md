@@ -123,7 +123,6 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

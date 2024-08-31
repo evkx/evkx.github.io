@@ -147,8 +147,6 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2250"  >}}
 
 ## Klimasystem

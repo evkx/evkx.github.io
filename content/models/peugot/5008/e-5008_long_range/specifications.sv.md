@@ -601,14 +601,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -668,7 +660,7 @@ Interior.Seatlayout.OnlySix
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +668,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				Valfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>

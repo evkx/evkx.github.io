@@ -820,14 +820,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -887,7 +879,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -973,14 +965,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -1048,7 +1032,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -1126,14 +1110,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -1193,7 +1169,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -1201,7 +1177,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

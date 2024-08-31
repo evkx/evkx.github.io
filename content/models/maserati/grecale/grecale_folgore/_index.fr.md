@@ -125,7 +125,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 

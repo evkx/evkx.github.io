@@ -528,14 +528,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité facultative
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -595,7 +587,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -603,7 +595,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -700,7 +692,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>

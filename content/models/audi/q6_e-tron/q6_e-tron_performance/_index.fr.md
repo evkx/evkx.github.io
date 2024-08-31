@@ -184,8 +184,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 ## Système de climatisation

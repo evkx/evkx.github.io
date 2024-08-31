@@ -103,7 +103,6 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 Verfügbar in:
 

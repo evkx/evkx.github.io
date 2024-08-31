@@ -106,7 +106,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 

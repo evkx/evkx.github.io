@@ -118,8 +118,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
 ## Klimasystem

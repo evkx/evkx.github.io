@@ -103,7 +103,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 

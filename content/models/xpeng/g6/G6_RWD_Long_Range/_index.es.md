@@ -102,7 +102,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 

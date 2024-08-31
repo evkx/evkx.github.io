@@ -153,8 +153,6 @@ La opción standard son dos asientos integrados en la segunda fila. Además, las
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo (GEN1)" width="3000" height="2250"  >}}
 
 ## Sistema de climatización

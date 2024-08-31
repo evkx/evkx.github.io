@@ -184,8 +184,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 ## Klimasystem

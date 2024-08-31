@@ -127,8 +127,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
@@ -139,8 +137,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 Puedes elegir dos tipos de asientos para la segunda fila en el Nio ES8.
 
 La opción standard es un banco de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 La opción standard son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 

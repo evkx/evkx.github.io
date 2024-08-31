@@ -836,14 +836,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -911,7 +903,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -989,14 +981,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -1064,7 +1048,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -1142,14 +1126,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -1217,7 +1193,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

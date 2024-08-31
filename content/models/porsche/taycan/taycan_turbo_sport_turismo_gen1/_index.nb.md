@@ -145,8 +145,6 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
 ## Klimasystem

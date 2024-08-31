@@ -135,7 +135,6 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

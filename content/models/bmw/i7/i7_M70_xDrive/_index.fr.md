@@ -117,13 +117,9 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le BMW 
 
 L'option standard est une banquette à trois places avec une séparation  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 L'option second est un [siège exécutif combiné à une banquette à deux places](../../../../technology/seats/types/#executive-siège--banquette-deux-places). De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)

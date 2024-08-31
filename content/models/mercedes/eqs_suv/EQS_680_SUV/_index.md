@@ -129,8 +129,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

@@ -167,8 +167,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 ## Klimaanlage

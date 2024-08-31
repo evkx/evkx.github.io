@@ -130,8 +130,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
@@ -142,8 +140,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 ## Klimasystem
 

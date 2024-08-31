@@ -136,13 +136,9 @@ Du kan välja två sätestyper för den andra raden i BMW i7 eDrive50.
 
 Alternativet standard är en tresitssbänk med en -sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../../../../technology/seats/types/#executive-sits--tvåsitsig-bänk). Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)

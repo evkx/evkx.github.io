@@ -114,7 +114,6 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 

@@ -561,14 +561,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función opcional
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -628,7 +620,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>

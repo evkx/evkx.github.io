@@ -117,8 +117,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
 ## Climate System

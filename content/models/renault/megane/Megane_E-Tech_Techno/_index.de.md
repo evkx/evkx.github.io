@@ -120,8 +120,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 ## Klimaanlage

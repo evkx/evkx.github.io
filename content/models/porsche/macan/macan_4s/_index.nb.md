@@ -151,8 +151,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/secondrowseats_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
 ## Klimasystem

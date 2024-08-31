@@ -107,7 +107,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -121,7 +120,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 #### Seter på tredje rad
 

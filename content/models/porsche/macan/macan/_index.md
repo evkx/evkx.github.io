@@ -156,8 +156,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 ## Climate System
 
 Two climate system options are available:

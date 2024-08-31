@@ -544,14 +544,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minne
 			</td>
 			<td>
@@ -619,7 +611,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

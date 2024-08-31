@@ -147,7 +147,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -165,8 +164,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 #### Sæde på anden række
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 ## Klimasystem
 

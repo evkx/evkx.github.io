@@ -120,8 +120,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 ## Klimasystem

@@ -105,7 +105,6 @@ The following functionalities are available on the **** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 Available in:
 

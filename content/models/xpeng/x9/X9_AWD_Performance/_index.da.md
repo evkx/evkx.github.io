@@ -99,7 +99,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
@@ -115,7 +114,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

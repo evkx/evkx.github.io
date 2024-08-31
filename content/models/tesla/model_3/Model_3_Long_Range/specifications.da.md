@@ -641,14 +641,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>
@@ -784,7 +776,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -792,7 +784,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -800,7 +792,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -808,7 +800,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -816,7 +808,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -824,7 +816,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -832,7 +824,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -840,7 +832,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 	</tbody>

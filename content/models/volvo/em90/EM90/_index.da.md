@@ -127,7 +127,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

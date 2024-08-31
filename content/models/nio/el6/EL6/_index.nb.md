@@ -130,8 +130,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -142,8 +140,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 ## Klimasystem
 

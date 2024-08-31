@@ -127,8 +127,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

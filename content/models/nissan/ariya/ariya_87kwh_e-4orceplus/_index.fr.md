@@ -120,8 +120,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 ## Système de climatisation
 
 Un système climatique est disponible.

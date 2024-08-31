@@ -136,13 +136,9 @@ You can choose two seat types for the second row in the BMW i7 eDrive50.
 
 The standard option is a three-seat bench with a  split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)

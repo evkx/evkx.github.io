@@ -633,14 +633,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minne
 			</td>
 			<td>
@@ -708,7 +700,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

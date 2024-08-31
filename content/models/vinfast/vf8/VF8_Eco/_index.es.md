@@ -119,7 +119,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

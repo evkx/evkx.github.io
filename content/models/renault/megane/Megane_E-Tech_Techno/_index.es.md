@@ -120,8 +120,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 ## Sistema de climatización

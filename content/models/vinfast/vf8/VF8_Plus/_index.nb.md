@@ -125,7 +125,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 

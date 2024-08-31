@@ -117,13 +117,9 @@ Du kan vælge to sædetyper til anden række i BMW i7 M70 xDrive.
 
 Muligheden standard er en tre-sædet bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../../../../technology/seats/types/#executive-sæde--to-sædet-bænk). Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)

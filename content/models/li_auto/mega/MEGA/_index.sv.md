@@ -110,8 +110,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
@@ -133,7 +131,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 

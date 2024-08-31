@@ -111,8 +111,6 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 
@@ -127,8 +125,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

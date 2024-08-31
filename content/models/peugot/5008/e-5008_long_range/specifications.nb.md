@@ -601,14 +601,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minne
 			</td>
 			<td>
@@ -668,7 +660,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +668,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Valgfri elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

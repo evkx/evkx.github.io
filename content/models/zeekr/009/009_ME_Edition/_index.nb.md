@@ -122,7 +122,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 

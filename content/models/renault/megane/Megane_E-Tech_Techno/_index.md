@@ -120,8 +120,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 ## Climate System

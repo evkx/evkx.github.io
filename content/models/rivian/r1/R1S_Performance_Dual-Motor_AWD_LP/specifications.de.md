@@ -518,14 +518,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -585,7 +577,7 @@ Interior.Seatlayout.OnlySix
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Nicht verfügbar
+				Unbekannt
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +585,7 @@ Interior.Seatlayout.OnlySix
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -706,7 +698,7 @@ Interior.Seatlayout.OnlySix
 				Sitzbelüftung
 			</td>
 			<td>
-				Serienausstattung
+				Unbekannt
 			</td>
 		</tr>
 		<tr>

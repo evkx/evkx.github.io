@@ -590,14 +590,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>
@@ -657,7 +649,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassager
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ukendt
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +657,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -778,7 +770,7 @@ Interior.Seatlayout.OnlySix
 				Sædeventilation
 			</td>
 			<td>
-				Standardfunktion
+				Ukendt
 			</td>
 		</tr>
 		<tr>

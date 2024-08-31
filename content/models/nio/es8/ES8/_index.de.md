@@ -127,8 +127,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 Verfügbar in:
 
@@ -139,8 +137,6 @@ Verfügbar in:
 Sie können zwei Sitztypen für die zweite Reihe im Nio ES8 wählen.
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 60:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
-
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 

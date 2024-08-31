@@ -149,7 +149,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -167,8 +166,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 #### Seter på andre rad
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

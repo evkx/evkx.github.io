@@ -117,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfort seats**.
@@ -138,8 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort seats*
 #### Asiento de segunda fila
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 

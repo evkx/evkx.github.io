@@ -126,8 +126,6 @@ The following functionalities are available on the **standard** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 

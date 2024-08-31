@@ -673,14 +673,6 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>

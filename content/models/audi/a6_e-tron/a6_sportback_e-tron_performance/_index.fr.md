@@ -149,7 +149,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
@@ -167,8 +166,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 #### Siège de deuxième rangée
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

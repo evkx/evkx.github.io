@@ -113,8 +113,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 ## Climate System

@@ -183,8 +183,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron/secondrowseats_1_st.jpg" title="Audi Q6 e-tron" width="3000" height="2249"  >}}
 
 ## Climate System

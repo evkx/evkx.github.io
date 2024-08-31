@@ -119,7 +119,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

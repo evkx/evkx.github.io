@@ -152,8 +152,6 @@ The standard option is two integrated seats in the second row. Additional functi
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
 ## Climate System

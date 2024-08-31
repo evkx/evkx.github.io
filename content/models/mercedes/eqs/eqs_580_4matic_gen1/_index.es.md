@@ -145,14 +145,11 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Mercedes-EQ EQS 5
 La opción standard es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 

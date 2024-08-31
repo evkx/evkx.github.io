@@ -135,7 +135,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

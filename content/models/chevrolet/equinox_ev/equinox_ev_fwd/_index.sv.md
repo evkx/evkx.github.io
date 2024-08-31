@@ -114,7 +114,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 

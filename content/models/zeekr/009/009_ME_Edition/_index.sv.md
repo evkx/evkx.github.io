@@ -122,7 +122,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 

@@ -139,14 +139,11 @@ Du kan välja två sätestyper för den andra raden i Mercedes-EQ EQS 450+.
 Alternativet standard är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

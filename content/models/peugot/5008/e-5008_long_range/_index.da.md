@@ -123,7 +123,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

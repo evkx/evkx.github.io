@@ -122,7 +122,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 

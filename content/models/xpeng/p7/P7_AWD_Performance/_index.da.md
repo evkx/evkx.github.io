@@ -104,7 +104,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 

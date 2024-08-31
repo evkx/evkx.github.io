@@ -126,7 +126,6 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
@@ -138,7 +137,6 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/secondrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 

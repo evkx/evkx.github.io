@@ -873,14 +873,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering af højde, tilbagelæning og vinkel
-			</td>
-			<td>
-				Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Hukommelse
 			</td>
 			<td>

@@ -117,13 +117,9 @@ Sie können zwei Sitztypen für die zweite Reihe im BMW i7 M70 xDrive wählen.
 
 Die standard-Option ist eine Drei-Sitz-Bank mit einem -Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](../../../../technology/seats/types/#executive-seat--two-seat-bench). Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 - [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)

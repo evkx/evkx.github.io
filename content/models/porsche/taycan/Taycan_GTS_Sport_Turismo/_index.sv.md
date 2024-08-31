@@ -145,8 +145,6 @@ Alternativet standard är två integrerade säten i andra raden. Dessutom är f�
 
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
 ## Klimatsystem

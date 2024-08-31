@@ -111,8 +111,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -127,8 +125,6 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

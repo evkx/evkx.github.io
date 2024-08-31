@@ -141,7 +141,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="3000" height="1781"  >}}
 

@@ -574,14 +574,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minne
 			</td>
 			<td>
@@ -649,7 +641,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Valgfri funksjon
+				Valgfri elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -762,7 +754,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Seteventilasjon
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -851,7 +843,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ukjent
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +945,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				Benstøttepassasjer
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>

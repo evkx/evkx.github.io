@@ -127,8 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
@@ -139,8 +137,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio ES8.
 
 L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 L'option standard est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 

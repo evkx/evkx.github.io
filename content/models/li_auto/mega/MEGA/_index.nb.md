@@ -110,8 +110,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
@@ -133,7 +131,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 

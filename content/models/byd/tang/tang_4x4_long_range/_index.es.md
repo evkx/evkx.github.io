@@ -141,7 +141,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment)
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment)
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 {{< sitefiguresized thumb="models/byd/tang/tang_4x4_long_range/secondrowseats_1_st.jpg" title="BYD Tang 4x4 Long Range" width="3000" height="2000"  >}}
 

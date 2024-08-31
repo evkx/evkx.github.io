@@ -113,8 +113,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:

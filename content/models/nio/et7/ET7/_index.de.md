@@ -126,8 +126,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 Verfügbar in:
 
@@ -135,8 +133,6 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 ## Klimaanlage

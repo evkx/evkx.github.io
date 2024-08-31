@@ -609,14 +609,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>

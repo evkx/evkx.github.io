@@ -126,8 +126,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-- [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
@@ -153,7 +151,6 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
-- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

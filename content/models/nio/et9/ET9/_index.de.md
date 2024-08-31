@@ -111,8 +111,6 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 Verfügbar in:
 
@@ -127,8 +125,6 @@ Für die zweite Reihe hat dieses Modell zwei [Executive-Sitze](../../../../techn
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
-- [Fußstütze für den Beifahrer](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

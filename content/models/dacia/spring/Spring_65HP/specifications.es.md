@@ -542,14 +542,6 @@ Este modelo está disponible con una configuración de cuatro asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -609,7 +601,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -714,7 +706,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				No disponible
+				Desconocido
 			</td>
 		</tr>
 		<tr>

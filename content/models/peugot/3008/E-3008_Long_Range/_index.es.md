@@ -122,7 +122,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 ## Sistema de climatización
 

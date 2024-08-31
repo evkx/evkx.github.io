@@ -127,8 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 

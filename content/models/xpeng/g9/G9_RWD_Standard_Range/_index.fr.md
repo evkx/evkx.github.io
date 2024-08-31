@@ -105,7 +105,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 

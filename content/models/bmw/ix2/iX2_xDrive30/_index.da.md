@@ -133,7 +133,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/secondrowseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 

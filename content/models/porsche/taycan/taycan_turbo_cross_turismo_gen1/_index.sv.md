@@ -153,8 +153,6 @@ Alternativet standard är två integrerade säten i andra raden. Dessutom är f�
 
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo (GEN1)" width="3000" height="2250"  >}}
 
 ## Klimatsystem

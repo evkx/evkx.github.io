@@ -100,7 +100,6 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 

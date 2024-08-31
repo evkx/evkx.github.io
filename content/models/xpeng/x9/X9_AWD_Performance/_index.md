@@ -99,7 +99,6 @@ The following functionalities are available on the **** seat:
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 Available in:
 
@@ -115,7 +114,6 @@ For the second row, this model has two captain chairs. Additional functionalitie
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

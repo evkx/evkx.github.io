@@ -107,7 +107,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
@@ -121,7 +120,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 #### Seter på tredje rad
 

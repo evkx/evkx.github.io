@@ -128,8 +128,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

@@ -127,7 +127,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 

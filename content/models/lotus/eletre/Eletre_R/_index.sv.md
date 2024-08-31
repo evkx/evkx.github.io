@@ -129,8 +129,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/secondrowseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1856"  >}}
 

@@ -128,8 +128,6 @@ Die folgenden Funktionen sind für den **Comfort seats**-Sitz verfügbar:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
 ## Klimaanlage

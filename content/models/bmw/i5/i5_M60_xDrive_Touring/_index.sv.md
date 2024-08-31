@@ -117,7 +117,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Följande funktioner är tillgängliga på **Comfort seats** sätet.
@@ -138,8 +137,6 @@ Följande funktioner är tillgängliga på **Comfort seats** sätet.
 #### Säten på andra raden
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 

@@ -139,8 +139,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
 
 ## Klimasystem

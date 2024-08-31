@@ -126,7 +126,6 @@ L'option standard est une banquette à trois places avec une séparation 60:40 o
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -138,7 +137,6 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 

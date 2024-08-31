@@ -126,7 +126,6 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
@@ -138,7 +137,6 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 

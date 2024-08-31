@@ -681,14 +681,6 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -740,7 +732,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -748,7 +740,7 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>

@@ -127,8 +127,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -139,8 +137,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 Du kan velge to setetyper for den andre raden i Nio ES8.
 
 Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 

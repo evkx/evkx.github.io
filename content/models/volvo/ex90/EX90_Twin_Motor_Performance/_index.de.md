@@ -135,7 +135,6 @@ Die second-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
-- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

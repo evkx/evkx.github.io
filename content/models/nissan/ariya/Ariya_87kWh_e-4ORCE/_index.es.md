@@ -120,8 +120,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

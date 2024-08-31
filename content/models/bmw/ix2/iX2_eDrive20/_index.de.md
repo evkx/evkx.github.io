@@ -133,7 +133,6 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:20:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/secondrowseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 

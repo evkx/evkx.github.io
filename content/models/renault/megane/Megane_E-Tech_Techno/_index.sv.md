@@ -120,8 +120,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 ## Klimatsystem

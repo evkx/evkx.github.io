@@ -135,7 +135,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

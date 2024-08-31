@@ -123,7 +123,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

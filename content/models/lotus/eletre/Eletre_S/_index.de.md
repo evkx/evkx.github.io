@@ -131,8 +131,6 @@ Sie können zwei Sitztypen für die zweite Reihe im Lotus Eletre S wählen.
 Die standard-Option ist eine Drei-Sitz-Bank mit einem 40:20:40-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
-- [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 Die second-Option sind zwei [Executive-Sitze](../../../../technology/seats/types/#twin-executive-seats). Zusätzliche Funktionen umfassen:
 

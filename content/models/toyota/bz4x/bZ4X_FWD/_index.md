@@ -100,7 +100,6 @@ Available in:
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 

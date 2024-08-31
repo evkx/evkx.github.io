@@ -135,7 +135,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 

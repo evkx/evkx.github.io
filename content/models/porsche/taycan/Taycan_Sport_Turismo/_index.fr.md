@@ -158,8 +158,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 ## Système de climatisation
 
 Un système climatique est disponible.

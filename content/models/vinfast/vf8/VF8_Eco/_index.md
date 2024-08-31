@@ -119,7 +119,6 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

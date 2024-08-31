@@ -502,14 +502,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>

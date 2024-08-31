@@ -99,7 +99,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
@@ -115,7 +114,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

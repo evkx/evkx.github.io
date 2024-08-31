@@ -577,14 +577,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Optionale Ausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -652,7 +644,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Optionale Ausstattung
+				Optionale elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -730,14 +722,6 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 		</tr>
 		<tr>
 			<td>
-				Elektrische Verstellung von Höhe, Neigung und Winkel
-			</td>
-			<td>
-				Serienausstattung
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Speicher
 			</td>
 			<td>
@@ -805,7 +789,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf oder sieben Sitzen erhä
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>

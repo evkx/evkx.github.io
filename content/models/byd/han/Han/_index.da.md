@@ -118,8 +118,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
 ## Klimasystem

@@ -131,8 +131,6 @@ Du kan velge to setetyper for den andre raden i Lotus Emeya.
 Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
 

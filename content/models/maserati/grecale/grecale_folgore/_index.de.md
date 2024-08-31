@@ -125,7 +125,6 @@ Verfügbar in:
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - Höhenverstellbare Kopfstütze
-- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 

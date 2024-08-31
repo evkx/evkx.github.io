@@ -136,7 +136,6 @@ Available in:
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="2250"  >}}
 

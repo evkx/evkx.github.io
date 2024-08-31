@@ -158,8 +158,6 @@ La opción standard son dos asientos integrados en la segunda fila. Además, las
 
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 ## Sistema de climatización
 
 Hay un sistema climático disponible.

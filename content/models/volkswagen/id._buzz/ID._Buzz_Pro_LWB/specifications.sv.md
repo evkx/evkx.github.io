@@ -617,14 +617,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -770,14 +762,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -845,7 +829,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -1047,7 +1031,7 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>

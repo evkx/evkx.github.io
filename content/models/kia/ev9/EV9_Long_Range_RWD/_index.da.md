@@ -126,7 +126,6 @@ Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde h
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
@@ -138,7 +137,6 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 

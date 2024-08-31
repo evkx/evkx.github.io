@@ -132,8 +132,6 @@ Du kan välja två sätestyper för den andra raden i Lotus Emeya S.
 Alternativet standard är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Alternativ second är två [chefsplatser](../../../../technology/seats/types/#twin-executive-seats). Dessutom är följande funktioner tillgängliga.
 

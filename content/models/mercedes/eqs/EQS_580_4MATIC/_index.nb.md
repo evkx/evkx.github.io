@@ -141,14 +141,11 @@ Du kan velge to setetyper for den andre raden i Mercedes-EQ EQS 580 4MATIC.
 Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 

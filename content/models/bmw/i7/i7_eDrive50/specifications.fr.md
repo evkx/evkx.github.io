@@ -609,14 +609,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Mémoire
 			</td>
 			<td>
@@ -676,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Non disponible
+				Inconnu
 			</td>
 		</tr>
 		<tr>
@@ -881,7 +873,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 		<tr>
@@ -889,7 +881,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, sièges extérieurs
 			</td>
 		</tr>
 		<tr>
@@ -905,7 +897,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>

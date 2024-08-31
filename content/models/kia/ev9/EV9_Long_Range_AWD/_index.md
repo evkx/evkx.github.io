@@ -126,7 +126,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 The second option is two captain chairs. Additional functionalities include:
 
@@ -138,7 +137,6 @@ The third option is two captain chairs. Additional functionalities include:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 

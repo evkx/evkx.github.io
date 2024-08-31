@@ -139,8 +139,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 ## Système de climatisation

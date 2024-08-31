@@ -136,13 +136,9 @@ Du kan velge to setetyper for den andre raden i BMW i7 xDrive60.
 
 Alternativet standard er en tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
-
 second-alternativet er et [executive sete kombinert med en to-seters benk](../../../../technology/seats/types/#executive-sete--to-seters-benk). I tillegg er følgende funksjoner tilgjengelige.
 
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)

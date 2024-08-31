@@ -127,7 +127,6 @@ Available in:
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 

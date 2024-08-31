@@ -123,7 +123,6 @@ The second row features a standard three-seat bench with a 40:20:40 split, allow
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - Height adjustable headrest
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

@@ -545,14 +545,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Ajuste eléctrico de altura, reclinación y ángulo
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Memoria
 			</td>
 			<td>
@@ -604,7 +596,7 @@ Interior.Seatlayout.OnlySix
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -612,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +612,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -717,7 +709,7 @@ Interior.Seatlayout.OnlySix
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 		<tr>
@@ -725,7 +717,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

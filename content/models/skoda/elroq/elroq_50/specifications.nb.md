@@ -585,14 +585,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av høyde, hvile og vinkel
-			</td>
-			<td>
-				Valgfri funksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minne
 			</td>
 			<td>
@@ -660,7 +652,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

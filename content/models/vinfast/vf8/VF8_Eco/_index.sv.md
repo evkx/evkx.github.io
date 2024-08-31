@@ -119,7 +119,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

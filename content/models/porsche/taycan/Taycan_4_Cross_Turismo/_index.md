@@ -154,8 +154,6 @@ The standard option is two integrated seats in the second row. Additional functi
 
 The second option is two integrated seats in the second row with a third smaller seat in between. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2250"  >}}
 
 ## Climate System

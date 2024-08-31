@@ -99,7 +99,6 @@ Följande funktioner är tillgängliga på **** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -115,7 +114,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 

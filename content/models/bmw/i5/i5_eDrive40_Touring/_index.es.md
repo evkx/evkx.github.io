@@ -142,8 +142,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfort seats*
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-- [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 ## Sistema de climatización

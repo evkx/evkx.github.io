@@ -102,7 +102,6 @@ The following functionalities are available on the **** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 Available in:
 

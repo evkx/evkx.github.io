@@ -123,7 +123,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

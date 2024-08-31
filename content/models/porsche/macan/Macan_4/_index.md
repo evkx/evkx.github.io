@@ -156,8 +156,6 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 ## Climate System

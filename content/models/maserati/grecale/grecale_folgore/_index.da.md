@@ -125,7 +125,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 

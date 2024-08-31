@@ -128,8 +128,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-- [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 

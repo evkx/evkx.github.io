@@ -526,14 +526,6 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justering av höjd, lutning och vinkel
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Minnesfunktion
 			</td>
 			<td>
@@ -601,7 +593,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				Valfri elektrisk funktion
 			</td>
 		</tr>
 		<tr>

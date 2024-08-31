@@ -131,8 +131,6 @@ You can choose two seat types for the second row in the Lotus Emeya R.
 The standard option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
-- [Heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 

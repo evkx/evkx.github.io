@@ -126,7 +126,6 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
@@ -138,7 +137,6 @@ Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
