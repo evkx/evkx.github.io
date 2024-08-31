@@ -117,6 +117,7 @@ The front row offers three seat types to cater to various comfort and style pref
 The following functionalities are available on the **Comfortseats** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
@@ -124,6 +125,7 @@ The following functionalities are available on the **Comfortseats** seat:
 The following functionalities are available on the **Comfortseats with memory** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -136,6 +138,7 @@ Available in:
 The following functionalities are available on the **Sportsseats Plus** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)

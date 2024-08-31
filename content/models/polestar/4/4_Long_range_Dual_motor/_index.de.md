@@ -97,6 +97,7 @@ Der Polestar 4 Long range Dual motor bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)

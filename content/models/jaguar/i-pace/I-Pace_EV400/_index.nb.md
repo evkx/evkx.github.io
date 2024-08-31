@@ -101,6 +101,7 @@ For første rad tilbyr Jaguar I-Pace EV400 to forskjellige setetyper å velge me
 Følgende funksjoner er tilgjengelige på **Performance** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +119,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)

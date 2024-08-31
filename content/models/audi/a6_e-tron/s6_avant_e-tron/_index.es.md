@@ -124,6 +124,7 @@ Para la primera fila, el Audi S6 Avant e-tron ofrece dos tipos diferentes de asi
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
@@ -140,6 +141,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)

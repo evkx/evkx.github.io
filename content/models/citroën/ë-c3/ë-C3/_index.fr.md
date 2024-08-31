@@ -107,6 +107,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Start**.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.

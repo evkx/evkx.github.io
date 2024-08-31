@@ -92,6 +92,7 @@ Le Honda e:Ny1 propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 

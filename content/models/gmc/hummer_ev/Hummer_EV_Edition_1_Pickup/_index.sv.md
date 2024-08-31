@@ -115,6 +115,7 @@ GMC Hummer EV Edition 1 Pickup erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)

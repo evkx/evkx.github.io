@@ -93,6 +93,7 @@ The Cadillac ESCALADE IQ offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -111,6 +112,7 @@ Available in:
 
 For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)

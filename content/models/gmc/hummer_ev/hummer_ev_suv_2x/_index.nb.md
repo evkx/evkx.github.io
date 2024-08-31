@@ -125,6 +125,7 @@ GMC Hummer EV SUV 2x Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

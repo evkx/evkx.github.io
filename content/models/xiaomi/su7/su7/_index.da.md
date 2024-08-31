@@ -104,6 +104,7 @@ Xiaomi SU7 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 

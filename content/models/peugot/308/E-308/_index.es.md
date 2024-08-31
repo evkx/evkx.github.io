@@ -98,6 +98,7 @@ El Peugot E-308 ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)

@@ -109,6 +109,7 @@ Available in:
 
 The following functionalities are available on the **Advanced Comfort** seat:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - Height adjustable headrest
 
 Available in:

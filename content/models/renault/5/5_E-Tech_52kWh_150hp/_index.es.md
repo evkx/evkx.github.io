@@ -98,6 +98,7 @@ El Renault 5 E-Tech 52kWh 150hp ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 

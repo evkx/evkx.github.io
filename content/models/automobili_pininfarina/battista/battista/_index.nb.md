@@ -107,6 +107,7 @@ Automobili Pininfarina Battista Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 

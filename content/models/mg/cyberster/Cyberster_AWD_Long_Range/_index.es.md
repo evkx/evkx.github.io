@@ -93,6 +93,7 @@ El MG Cyberster AWD Long Range ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 

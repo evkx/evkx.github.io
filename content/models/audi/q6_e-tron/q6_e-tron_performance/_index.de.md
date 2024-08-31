@@ -128,6 +128,7 @@ Die erste Reihe bietet drei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 
 Die folgenden Funktionen sind für den **Normal**-Sitz verfügbar:
 
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 
@@ -138,6 +139,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **Sport**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
@@ -154,6 +156,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **Sport Plus**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)

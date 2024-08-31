@@ -620,7 +620,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +781,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

@@ -102,6 +102,7 @@ The Peugot E-5008 Long Range offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)

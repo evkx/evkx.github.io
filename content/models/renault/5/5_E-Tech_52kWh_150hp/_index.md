@@ -98,6 +98,7 @@ The Renault 5 E-Tech 52kWh 150hp offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 

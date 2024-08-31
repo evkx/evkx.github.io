@@ -105,6 +105,7 @@ El BYD Seal U Design ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)

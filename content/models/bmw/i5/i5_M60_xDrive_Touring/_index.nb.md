@@ -110,6 +110,7 @@ For første rad tilbyr BMW i5 M60 xDrive Touring to forskjellige setetyper å ve
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -121,6 +122,7 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

@@ -109,6 +109,7 @@ Para la primera fila, el Audi Q4 Sportback 45 e-tron ofrece dos tipos diferentes
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
@@ -118,6 +119,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)

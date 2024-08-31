@@ -114,6 +114,7 @@ The VOYAH FREE offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)

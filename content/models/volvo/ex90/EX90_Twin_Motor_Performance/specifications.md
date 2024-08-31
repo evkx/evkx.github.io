@@ -596,7 +596,7 @@ This model is available with a seat configuration with six or seven seats.
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

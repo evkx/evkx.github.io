@@ -97,6 +97,7 @@ Lancia Ypsilon Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)

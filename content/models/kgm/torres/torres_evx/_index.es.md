@@ -101,6 +101,7 @@ El KGM Torres EVX ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)

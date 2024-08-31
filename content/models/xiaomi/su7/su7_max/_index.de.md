@@ -104,6 +104,7 @@ Der Xiaomi SU7 Max bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)

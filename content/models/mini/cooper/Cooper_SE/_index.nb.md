@@ -91,6 +91,7 @@ Mini Cooper SE Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)

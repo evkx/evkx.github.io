@@ -100,6 +100,8 @@ Der BYD Seagull 38kWh bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
+
 Verfügbar in:
 
 #### Rücksitzreihe

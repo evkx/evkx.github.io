@@ -116,6 +116,7 @@ The BYD Tang 4x4 Long Range offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

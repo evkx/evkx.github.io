@@ -109,6 +109,7 @@ For første rad tilbyr Audi Q4 Sportback 35 e-tron to forskjellige setetyper å 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -118,6 +119,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **sport** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)

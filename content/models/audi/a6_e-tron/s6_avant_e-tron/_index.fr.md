@@ -124,6 +124,7 @@ Pour la première rangée, l'Audi S6 Avant e-tron propose deux types de sièges 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
@@ -140,6 +141,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

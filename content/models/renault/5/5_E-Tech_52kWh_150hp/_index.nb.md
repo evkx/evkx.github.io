@@ -98,6 +98,7 @@ Renault 5 E-Tech 52kWh 150hp Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 

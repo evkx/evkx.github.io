@@ -98,6 +98,7 @@ Le Renault 5 E-Tech 52kWh 150hp propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 

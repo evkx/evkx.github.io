@@ -122,6 +122,7 @@ Chevrolet Silverado EV SRT erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)

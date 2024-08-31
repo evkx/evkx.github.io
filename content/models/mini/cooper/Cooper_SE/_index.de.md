@@ -91,6 +91,7 @@ Der Mini Cooper SE bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)

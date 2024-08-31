@@ -104,6 +104,7 @@ The Xiaomi SU7 Max offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)

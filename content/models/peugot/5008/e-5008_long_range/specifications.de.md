@@ -580,7 +580,7 @@ Interior.Seatlayout.OnlySix
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>

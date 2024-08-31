@@ -97,6 +97,7 @@ The Polestar 4 Long range Single motor offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)

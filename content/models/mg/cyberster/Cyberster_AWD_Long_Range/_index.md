@@ -93,6 +93,7 @@ The MG Cyberster AWD Long Range offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 
 Available in:
 

@@ -92,6 +92,7 @@ Zeekr X Long Range RWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)

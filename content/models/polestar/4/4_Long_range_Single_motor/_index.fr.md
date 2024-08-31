@@ -97,6 +97,7 @@ Le Polestar 4 Long range Single motor propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)

@@ -128,6 +128,7 @@ Pour la première rangée, l'Audi Q6 e-tron quattro propose trois types de sièg
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Normal**.
 
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
@@ -138,6 +139,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
@@ -154,6 +156,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

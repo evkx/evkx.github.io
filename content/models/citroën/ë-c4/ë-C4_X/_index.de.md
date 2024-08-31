@@ -98,6 +98,7 @@ Der Citroën ë-C4 X bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 Verfügbar in:

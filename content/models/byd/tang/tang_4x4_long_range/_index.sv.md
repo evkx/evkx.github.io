@@ -116,6 +116,7 @@ BYD Tang 4x4 Long Range erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

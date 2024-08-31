@@ -116,6 +116,7 @@ Le BYD Tang 4x4 Long Range propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)

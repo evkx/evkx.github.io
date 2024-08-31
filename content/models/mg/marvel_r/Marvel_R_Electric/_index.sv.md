@@ -93,6 +93,7 @@ MG Marvel R Electric erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

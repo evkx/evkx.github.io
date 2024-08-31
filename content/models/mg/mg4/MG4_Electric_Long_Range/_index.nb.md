@@ -91,6 +91,7 @@ MG MG4 Electric Long Range Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 

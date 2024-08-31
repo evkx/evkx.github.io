@@ -101,6 +101,7 @@ Para la primera fila, el Jaguar I-Pace EV400 ofrece dos tipos diferentes de asie
 Las siguientes funcionalidades están disponibles en el asiento **Performance**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +119,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)

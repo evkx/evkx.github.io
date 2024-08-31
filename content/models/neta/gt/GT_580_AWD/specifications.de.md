@@ -457,7 +457,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>

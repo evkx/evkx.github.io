@@ -111,6 +111,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

@@ -97,6 +97,7 @@ Volvo EX30 Twin Motor Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)

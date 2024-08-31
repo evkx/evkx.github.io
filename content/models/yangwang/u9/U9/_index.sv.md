@@ -107,6 +107,7 @@ YangWang U9 erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 

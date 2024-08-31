@@ -512,7 +512,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setehøyde
 			</td>
 			<td>
-				Standardfunksjon
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

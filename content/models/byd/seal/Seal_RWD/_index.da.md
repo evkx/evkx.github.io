@@ -103,6 +103,7 @@ BYD Seal RWD tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

@@ -643,7 +643,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -804,7 +804,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>

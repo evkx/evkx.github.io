@@ -99,6 +99,7 @@ Ford F150 Lightning Standard Range erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering (valfritt)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)

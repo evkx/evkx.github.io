@@ -88,6 +88,7 @@ Le XPENG X9 AWD Performance propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)

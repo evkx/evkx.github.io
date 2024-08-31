@@ -122,6 +122,7 @@ Chevrolet Silverado EV SRT tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

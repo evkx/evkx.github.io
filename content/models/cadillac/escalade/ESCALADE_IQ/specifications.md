@@ -569,7 +569,7 @@ Interior.Seatlayout.OnlySix
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

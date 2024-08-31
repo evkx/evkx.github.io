@@ -113,6 +113,7 @@ Pour la première rangée, l'BMW i5 eDrive40 Touring propose deux types de sièg
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -124,6 +125,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

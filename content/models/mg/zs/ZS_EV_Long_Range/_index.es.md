@@ -99,6 +99,7 @@ El MG ZS EV Long Range ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 

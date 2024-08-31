@@ -100,6 +100,7 @@ Ford F150 Lightning Extended Range Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)

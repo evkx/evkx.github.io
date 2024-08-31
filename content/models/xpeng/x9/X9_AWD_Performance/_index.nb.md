@@ -88,6 +88,7 @@ XPENG X9 AWD Performance Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)

@@ -449,7 +449,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

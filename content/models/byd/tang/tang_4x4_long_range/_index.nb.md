@@ -116,6 +116,7 @@ BYD Tang 4x4 Long Range Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)

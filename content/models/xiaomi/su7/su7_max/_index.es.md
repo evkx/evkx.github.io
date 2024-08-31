@@ -104,6 +104,7 @@ El Xiaomi SU7 Max ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)

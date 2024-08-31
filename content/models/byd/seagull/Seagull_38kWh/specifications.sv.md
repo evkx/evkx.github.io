@@ -508,7 +508,7 @@ Denna modell är tillgänglig med en fyra-sits sitskonfiguration.
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

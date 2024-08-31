@@ -97,6 +97,7 @@ The Rivian R1S Performance Dual-Motor AWD LP offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)

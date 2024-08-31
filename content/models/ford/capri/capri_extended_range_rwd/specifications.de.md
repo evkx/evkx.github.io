@@ -773,7 +773,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standardfunktion, optional elektrisch
 			</td>
 		</tr>
 		<tr>

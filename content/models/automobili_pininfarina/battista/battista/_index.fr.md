@@ -107,6 +107,7 @@ Le Automobili Pininfarina Battista propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 

@@ -95,6 +95,7 @@ Le Opel Astra Sports Tourer Electric propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)

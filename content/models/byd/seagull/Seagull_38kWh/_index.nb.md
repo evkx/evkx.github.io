@@ -100,6 +100,8 @@ BYD Seagull 38kWh Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
+
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad

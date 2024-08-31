@@ -100,6 +100,8 @@ The BYD Seagull 38kWh offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
+
 Available in:
 
 #### Second Row Seat

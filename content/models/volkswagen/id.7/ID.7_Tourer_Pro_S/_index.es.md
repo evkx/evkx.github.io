@@ -107,6 +107,7 @@ Para la primera fila, el Volkswagen ID.7 Tourer Pro S ofrece dos tipos diferente
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
@@ -115,6 +116,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **ergoActive**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)

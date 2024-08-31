@@ -95,6 +95,7 @@ Chevrolet Equinox EV AWD erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering (valfritt)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)

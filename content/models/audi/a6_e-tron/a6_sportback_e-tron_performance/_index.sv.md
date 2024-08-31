@@ -127,6 +127,7 @@ För första raden erbjuder Audi A6 Sportback e-tron performance två olika sät
 Följande funktioner är tillgängliga på **Sport** sätet.
 
 - elektrisk justering (valfritt)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
@@ -143,6 +144,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)

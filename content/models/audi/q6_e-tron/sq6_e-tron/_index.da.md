@@ -129,6 +129,7 @@ For første række tilbyder Audi SQ6 e-tron to forskellige sædetyper at vælge 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -145,6 +146,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

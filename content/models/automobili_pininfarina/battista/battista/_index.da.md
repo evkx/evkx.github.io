@@ -107,6 +107,7 @@ Automobili Pininfarina Battista tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 

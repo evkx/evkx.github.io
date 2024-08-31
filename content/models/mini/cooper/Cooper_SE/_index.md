@@ -91,6 +91,7 @@ The Mini Cooper SE offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)

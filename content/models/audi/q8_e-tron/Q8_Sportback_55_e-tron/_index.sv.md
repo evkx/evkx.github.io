@@ -121,6 +121,7 @@ För första raden erbjuder Audi Q8 Sportback 55 e-tron fem olika sätestyper at
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
@@ -131,6 +132,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **sport** sätet.
 
 - elektrisk justering (valfritt)
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
@@ -165,6 +167,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

@@ -93,6 +93,7 @@ Cadillac ESCALADE IQ Long Range tilbyr kun én type forsete.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
@@ -111,6 +112,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive-seter). I tillegg er følgende funksjoner tilgjengelige.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)

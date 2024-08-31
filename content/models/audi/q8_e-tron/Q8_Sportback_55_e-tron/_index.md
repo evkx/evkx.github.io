@@ -125,6 +125,7 @@ The front row offers five seat types to cater to various comfort and style prefe
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -135,6 +136,7 @@ Available in:
 The following functionalities are available on the **sport** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -169,6 +171,7 @@ Available in:
 The following functionalities are available on the **multicontour** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

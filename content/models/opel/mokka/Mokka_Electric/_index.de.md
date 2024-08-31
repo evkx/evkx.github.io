@@ -100,6 +100,7 @@ Der Opel Mokka Electric bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 

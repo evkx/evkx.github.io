@@ -91,6 +91,7 @@ MG MG5 Electric Standard Range tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 

@@ -100,6 +100,7 @@ Der Ford F150 Lightning Extended Range bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation) (optional)

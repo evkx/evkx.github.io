@@ -101,6 +101,7 @@ The front row offers two seat types to cater to various comfort and style prefer
 The following functionalities are available on the **Performance** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +119,7 @@ Available in:
 The following functionalities are available on the **Sport** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)

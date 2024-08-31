@@ -98,6 +98,7 @@ El Rivian R1S Quad-Motor AWD ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)

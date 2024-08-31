@@ -116,6 +116,7 @@ BYD Tang EV600 tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - længdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)

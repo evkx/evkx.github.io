@@ -115,6 +115,7 @@ Der GMC Hummer EV Edition 1 Pickup bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)

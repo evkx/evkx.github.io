@@ -108,6 +108,7 @@ Para la primera fila, el Porsche Macan 4 ofrece tres tipos diferentes de asiento
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
@@ -115,6 +116,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
@@ -127,6 +129,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Plus**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)

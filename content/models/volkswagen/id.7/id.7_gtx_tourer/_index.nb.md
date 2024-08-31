@@ -107,6 +107,7 @@ For første rad tilbyr Volkswagen ID.7 GTX Tourer to forskjellige setetyper å v
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
@@ -117,6 +118,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **ergoActive** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

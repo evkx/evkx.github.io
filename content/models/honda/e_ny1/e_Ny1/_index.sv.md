@@ -92,6 +92,7 @@ Honda e:Ny1 erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 

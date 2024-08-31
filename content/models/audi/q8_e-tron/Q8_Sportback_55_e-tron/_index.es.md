@@ -121,6 +121,7 @@ Para la primera fila, el Audi Q8 Sportback 55 e-tron ofrece cinco tipos diferent
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable (opcional)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
@@ -131,6 +132,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable (opcional)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
@@ -165,6 +167,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)

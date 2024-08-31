@@ -122,6 +122,7 @@ Le GMC Sierra EV Denali Edition 1 propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)

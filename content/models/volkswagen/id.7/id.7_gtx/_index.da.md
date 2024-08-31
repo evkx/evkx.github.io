@@ -107,6 +107,7 @@ For første række tilbyder Volkswagen ID.7 GTX to forskellige sædetyper at væ
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
@@ -117,6 +118,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **ergoActive** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)

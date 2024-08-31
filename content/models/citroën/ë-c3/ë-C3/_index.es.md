@@ -107,6 +107,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Start**.
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.

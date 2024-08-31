@@ -116,6 +116,7 @@ El BYD Tang EV600 ofrece un único tipo de asiento delantero.
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - ajuste eléctrico
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - reposacabezas de longitud ajustable
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)

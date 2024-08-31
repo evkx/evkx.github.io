@@ -122,6 +122,7 @@ For første rad tilbyr Audi S6 Sportback e-tron to forskjellige setetyper å vel
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering (valgfri)
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -138,6 +139,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)

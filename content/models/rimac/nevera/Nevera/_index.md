@@ -107,6 +107,7 @@ The Rimac Nevera offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 
 Available in:
 

@@ -104,6 +104,7 @@ Le Xiaomi SU7 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 

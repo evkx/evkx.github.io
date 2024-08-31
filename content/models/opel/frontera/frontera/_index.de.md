@@ -109,6 +109,7 @@ Verfügbar in:
 
 Die folgenden Funktionen sind für den **Advanced Comfort**-Sitz verfügbar:
 
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
 
 Verfügbar in:

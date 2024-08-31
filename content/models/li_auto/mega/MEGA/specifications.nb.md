@@ -524,7 +524,7 @@ Interior.Seatlayout.OnlySix
 				Justering av setehøyde
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

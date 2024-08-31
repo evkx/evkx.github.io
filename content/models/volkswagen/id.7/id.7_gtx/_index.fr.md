@@ -107,6 +107,7 @@ Pour la première rangée, l'Volkswagen ID.7 GTX propose deux types de sièges d
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
@@ -117,6 +118,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)

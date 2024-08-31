@@ -100,6 +100,7 @@ Der Seres 5 4WD Premium bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)

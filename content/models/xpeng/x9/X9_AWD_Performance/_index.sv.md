@@ -88,6 +88,7 @@ XPENG X9 AWD Performance erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

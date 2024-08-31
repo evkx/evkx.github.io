@@ -109,6 +109,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

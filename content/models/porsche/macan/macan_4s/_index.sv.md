@@ -110,6 +110,7 @@ För första raden erbjuder Porsche Macan 4S tre olika sätestyper att välja me
 Följande funktioner är tillgängliga på **Comfortseats** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
@@ -117,6 +118,7 @@ Följande funktioner är tillgängliga på **Comfortseats** sätet.
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
@@ -129,6 +131,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)

@@ -98,6 +98,7 @@ Le Citroën ë-C4 X propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.

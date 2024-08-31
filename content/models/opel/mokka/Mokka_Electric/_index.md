@@ -100,6 +100,7 @@ The Opel Mokka Electric offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 

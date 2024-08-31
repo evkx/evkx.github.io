@@ -107,6 +107,7 @@ Følgende funksjoner er tilgjengelige på **Start** setet.
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
+- [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.

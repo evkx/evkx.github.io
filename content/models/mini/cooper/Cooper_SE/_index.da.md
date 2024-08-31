@@ -91,6 +91,7 @@ Mini Cooper SE tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)

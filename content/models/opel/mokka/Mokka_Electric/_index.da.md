@@ -100,6 +100,7 @@ Opel Mokka Electric tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 

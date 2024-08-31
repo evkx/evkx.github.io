@@ -121,6 +121,7 @@ Die erste Reihe bietet fünf Sitztypen, um verschiedenen Komfort- und Stilvorlie
 Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze (optional)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
@@ -131,6 +132,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze (optional)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
@@ -165,6 +167,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **multicontour**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

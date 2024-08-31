@@ -777,7 +777,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -938,7 +938,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>

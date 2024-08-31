@@ -100,6 +100,8 @@ BYD Seagull 38kWh tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
+
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række

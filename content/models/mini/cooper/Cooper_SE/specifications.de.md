@@ -505,7 +505,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit vier Sitzen erhältlich.
 				Sitzhöhenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

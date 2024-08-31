@@ -580,7 +580,7 @@ Interior.Seatlayout.OnlySix
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>

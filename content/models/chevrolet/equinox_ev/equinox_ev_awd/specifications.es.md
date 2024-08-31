@@ -512,7 +512,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>

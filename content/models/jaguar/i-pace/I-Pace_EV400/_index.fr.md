@@ -101,6 +101,7 @@ Pour la première rangée, l'Jaguar I-Pace EV400 propose deux types de sièges d
 Les fonctionnalités suivantes sont disponibles sur le siège **Performance**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +119,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique (facultatif)
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement, réglable électriquement en option)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)

@@ -98,6 +98,7 @@ Rivian R1S Quad-Motor AWD tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)

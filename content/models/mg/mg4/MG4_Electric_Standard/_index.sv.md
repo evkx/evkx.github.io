@@ -91,6 +91,7 @@ MG MG4 Electric Standard erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 

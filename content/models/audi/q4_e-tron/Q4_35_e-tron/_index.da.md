@@ -111,6 +111,7 @@ For første række tilbyder Audi Q4 35 e-tron to forskellige sædetyper at vælg
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
@@ -120,6 +121,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **sport** sædet.
 
 - elektrisk justering (valgfrit)
+- [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar, elektrisk justerbar som en mulighed)
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

@@ -457,7 +457,7 @@ Este modelo está disponible con una configuración de cuatro asientos.
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

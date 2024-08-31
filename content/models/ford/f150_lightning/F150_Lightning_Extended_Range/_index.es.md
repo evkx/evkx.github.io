@@ -100,6 +100,7 @@ El Ford F150 Lightning Extended Range ofrece un único tipo de asiento delantero
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - ajuste eléctrico (opcional)
+- [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente, ajustable eléctricamente como opción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)

@@ -98,6 +98,7 @@ The Peugot E-308 offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)

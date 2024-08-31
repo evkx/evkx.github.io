@@ -110,6 +110,7 @@ Pour la première rangée, l'Porsche Macan 4S propose trois types de sièges dif
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
@@ -117,6 +118,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats**.
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
@@ -129,6 +131,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus**.
 
 - réglage électrique
+- [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)

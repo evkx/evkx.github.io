@@ -515,7 +515,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat height adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

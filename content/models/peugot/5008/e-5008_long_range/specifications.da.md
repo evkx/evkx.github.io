@@ -580,7 +580,7 @@ Interior.Seatlayout.OnlySix
 				Sædehøjdejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

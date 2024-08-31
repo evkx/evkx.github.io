@@ -92,6 +92,7 @@ The Honda e:Ny1 offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 

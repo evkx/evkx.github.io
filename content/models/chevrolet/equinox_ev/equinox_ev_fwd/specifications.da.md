@@ -512,7 +512,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædehøjdejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

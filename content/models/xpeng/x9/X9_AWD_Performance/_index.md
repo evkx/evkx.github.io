@@ -88,6 +88,7 @@ The XPENG X9 AWD Performance offers a single type of front seat.
 The following functionalities are available on the **** seat:
 
 - Electric adjustment
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

@@ -523,7 +523,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
