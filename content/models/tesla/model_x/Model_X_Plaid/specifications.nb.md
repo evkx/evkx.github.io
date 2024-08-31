@@ -612,7 +612,7 @@ Interior.Seatlayout.OnlySix
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

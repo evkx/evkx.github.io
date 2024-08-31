@@ -96,6 +96,7 @@ Le Polestar 3 Long Range Dual Motor Performance propose un seul type de siège a
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)

@@ -620,7 +620,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standardfunktion, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

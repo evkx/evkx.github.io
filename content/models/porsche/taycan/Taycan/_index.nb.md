@@ -119,6 +119,8 @@ For første rad tilbyr Porsche Taycan tre forskjellige setetyper å velge mellom
 Følgende funksjoner er tilgjengelige på **Comfort** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -128,6 +130,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -138,6 +141,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)

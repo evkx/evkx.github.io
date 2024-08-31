@@ -117,6 +117,7 @@ Die erste Reihe bietet drei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 Die folgenden Funktionen sind für den **sport**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
@@ -126,6 +127,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **sport plus**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
@@ -136,6 +138,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **sport pro**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory)
 - [Memory-Beifahrersitz](../../../../technology/seats/adjustment/#seat-memory)

@@ -93,6 +93,8 @@ Cadillac ESCALADE IQ tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
@@ -113,6 +115,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 For anden række har denne model to [executive-sæder](../../../../technology/seats/types/#twin-executive-sæder). Derudover er følgende funktionaliteter tilgængelige.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte

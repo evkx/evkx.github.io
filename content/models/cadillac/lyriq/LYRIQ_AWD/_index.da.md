@@ -91,6 +91,8 @@ Cadillac LYRIQ AWD tilbyder kun én type forreste sæde.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -109,6 +111,8 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 #### Sæde på anden række
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 

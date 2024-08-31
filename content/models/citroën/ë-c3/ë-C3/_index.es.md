@@ -105,8 +105,13 @@ Para la primera fila, el Citroën ë-C3 ofrece dos tipos diferentes de asientos 
 
 Las siguientes funcionalidades están disponibles en el asiento **Start**.
 
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
+
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 

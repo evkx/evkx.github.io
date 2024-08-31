@@ -93,6 +93,9 @@ Le Dacia Spring 65HP propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)

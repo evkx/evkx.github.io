@@ -100,6 +100,8 @@ The Hyundai INSTER Standard Range offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +120,7 @@ Available in:
 
 The following functionalities are available on the **** seat:
 
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
 Available in:

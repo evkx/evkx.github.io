@@ -100,6 +100,8 @@ För första raden erbjuder Mercedes-EQ EQA 250+ två olika sätestyper att väl
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd (valfritt)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
@@ -113,6 +115,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
 - elektrisk justering
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

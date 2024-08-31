@@ -102,6 +102,7 @@ För första raden erbjuder Volkswagen ID. Buzz Pro LWB två olika sätestyper a
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
@@ -117,6 +118,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **comfort** sätet.
 
 - elektrisk justering
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
@@ -141,6 +143,7 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

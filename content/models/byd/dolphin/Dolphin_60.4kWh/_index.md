@@ -101,6 +101,8 @@ The BYD Dolphin 60.4kWh offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

@@ -98,6 +98,8 @@ Hyundai INSTER Long Range erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering (valfritt)
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar, elektriskt justerbar som ett alternativ)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
@@ -116,6 +118,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.

@@ -110,6 +110,7 @@ Le Mercedes-Maybach EQS 680 SUV propose un seul type de siège avant.
 Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 - réglage électrique
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)

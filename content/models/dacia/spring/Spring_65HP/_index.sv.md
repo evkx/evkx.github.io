@@ -93,6 +93,9 @@ Dacia Spring 65HP erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)

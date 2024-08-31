@@ -102,6 +102,8 @@ The Volvo EX90 Twin Motor Performance offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -126,10 +128,13 @@ You can choose two seat types for the second row in the Volvo EX90 Twin Motor Pe
 
 The standard option is a three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
 The second option is two captain chairs. Additional functionalities include:
 
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support)

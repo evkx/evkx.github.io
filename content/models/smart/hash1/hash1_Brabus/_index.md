@@ -94,6 +94,7 @@ The Smart #1 Brabus offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (manually adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
@@ -110,6 +111,7 @@ Available in:
 
 The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}

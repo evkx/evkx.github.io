@@ -548,7 +548,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -564,7 +564,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función estándar
+				Función estándar, opcional eléctrica
 			</td>
 		</tr>
 		<tr>
@@ -709,7 +709,7 @@ Este modelo está disponible con una configuración de cinco o siete asientos.
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

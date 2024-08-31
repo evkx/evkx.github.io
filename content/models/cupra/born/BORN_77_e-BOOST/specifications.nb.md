@@ -588,7 +588,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

@@ -103,6 +103,8 @@ Pour la première rangée, l'BMW iX2 xDrive30 propose deux types de sièges diff
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 - réglage électrique (facultatif)
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement, réglable électriquement en option)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement, réglable électriquement en option)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -116,6 +118,8 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 - réglage électrique
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
@@ -132,6 +136,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/secondrowseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}

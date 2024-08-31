@@ -102,6 +102,7 @@ The front row offers two seat types to cater to various comfort and style prefer
 
 The following functionalities are available on the **standard** seat:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
@@ -117,6 +118,7 @@ Available in:
 The following functionalities are available on the **comfort** seat:
 
 - Electric adjustment
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)

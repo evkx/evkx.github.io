@@ -98,6 +98,8 @@ The Hyundai Kona Standard Range offers a single type of front seat.
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
@@ -117,6 +119,7 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}

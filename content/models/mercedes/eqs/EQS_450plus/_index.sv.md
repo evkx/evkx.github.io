@@ -106,6 +106,8 @@ För första raden erbjuder Mercedes-EQ EQS 450+ två olika sätestyper att väl
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +120,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 Följande funktioner är tillgängliga på **multicontour** sätet.
 
 - elektrisk justering
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - längdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)

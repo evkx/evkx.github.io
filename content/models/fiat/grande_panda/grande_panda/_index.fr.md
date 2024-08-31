@@ -105,12 +105,17 @@ Pour la première rangée, l'Fiat Grande Panda propose deux types de sièges dif
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
+
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 

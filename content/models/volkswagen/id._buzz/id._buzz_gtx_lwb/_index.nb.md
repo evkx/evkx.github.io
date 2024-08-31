@@ -100,6 +100,7 @@ For første rad tilbyr Volkswagen ID. Buzz GTX LWB to forskjellige setetyper å 
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
@@ -115,6 +116,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **comfort** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -139,6 +141,7 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}

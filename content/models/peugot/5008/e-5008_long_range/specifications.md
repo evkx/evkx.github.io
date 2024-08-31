@@ -572,7 +572,7 @@ Interior.Seatlayout.OnlySix
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>

@@ -100,6 +100,7 @@ Para la primera fila, el Volkswagen ID. Buzz GTX LWB ofrece dos tipos diferentes
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
@@ -115,6 +116,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 Las siguientes funcionalidades están disponibles en el asiento **comfort**.
 
 - ajuste eléctrico
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
@@ -139,6 +141,7 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}

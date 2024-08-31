@@ -126,6 +126,7 @@ The front row offers five seat types to cater to various comfort and style prefe
 The following functionalities are available on the **standard** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -136,6 +137,7 @@ Available in:
 The following functionalities are available on the **sport** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -148,6 +150,7 @@ Available in:
 The following functionalities are available on the **s-line sport** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - Height adjustable headrest
 - Length adjustable headrest (optional)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
@@ -160,6 +163,7 @@ Available in:
 The following functionalities are available on the **s sport** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
@@ -170,6 +174,7 @@ Available in:
 The following functionalities are available on the **multicontour** seat:
 
 - Electric adjustment
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)

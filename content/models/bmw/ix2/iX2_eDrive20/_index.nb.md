@@ -103,6 +103,8 @@ For første rad tilbyr BMW iX2 eDrive20 to forskjellige setetyper å velge mello
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 
 - elektrisk justering (valgfri)
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar, elektrisk justerbar som et alternativ)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -116,6 +118,8 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
@@ -132,6 +136,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/secondrowseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}

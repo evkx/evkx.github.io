@@ -749,7 +749,7 @@ This model is available with a seat configuration with six or seven seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

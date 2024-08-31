@@ -569,7 +569,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

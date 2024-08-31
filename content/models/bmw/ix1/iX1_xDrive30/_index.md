@@ -103,6 +103,8 @@ The front row offers two seat types to cater to various comfort and style prefer
 The following functionalities are available on the **Standard** seat:
 
 - Electric adjustment (optional)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable, electrically adjustable as an option)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable, electrically adjustable as an option)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -116,6 +118,8 @@ Available in:
 The following functionalities are available on the **Sport** seat:
 
 - Electric adjustment
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
@@ -132,6 +136,7 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/secondrowseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}

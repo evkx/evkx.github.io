@@ -99,6 +99,8 @@ The Mercedes-EQ EQC 400 4MATIC offers a single type of front seat.
 
 The following functionalities are available on the **** seat:
 
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
+
 Available in:
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}

@@ -568,7 +568,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

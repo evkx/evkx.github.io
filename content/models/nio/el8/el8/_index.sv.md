@@ -120,6 +120,8 @@ Nio EL8 erbjuder endast en typ av framsäte.
 Följande funktioner är tillgängliga på **standard** sätet.
 
 - elektrisk justering
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
@@ -139,6 +141,7 @@ Du kan välja två sätestyper för den andra raden i Nio EL8.
 
 Alternativ standard är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -146,6 +149,8 @@ Alternativ standard är två kaptensstolar. Dessutom är följande funktioner ti
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

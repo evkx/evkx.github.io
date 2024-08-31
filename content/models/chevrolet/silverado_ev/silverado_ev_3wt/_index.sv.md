@@ -106,6 +106,8 @@ Chevrolet Silverado EV 3WT erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

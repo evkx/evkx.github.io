@@ -659,7 +659,7 @@ Interior.Seatlayout.OnlySix
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
@@ -675,7 +675,7 @@ Interior.Seatlayout.OnlySix
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>

@@ -107,6 +107,8 @@ For første rad tilbyr Mercedes-EQ EQE 350 4MATIC to forskjellige setetyper å v
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
@@ -119,6 +121,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)

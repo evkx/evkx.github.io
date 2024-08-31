@@ -93,6 +93,9 @@ Der Dacia Spring 65HP bietet nur einen Typ von Vordersitz.
 
 Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+
 Verfügbar in:
 
 - Black [Stoff/Kunstleder-Polsterung](../../../../technology/seats/materials/#fabric)

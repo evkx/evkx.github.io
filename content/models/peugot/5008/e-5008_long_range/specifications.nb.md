@@ -572,7 +572,7 @@ Interior.Seatlayout.OnlySix
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>
@@ -588,7 +588,7 @@ Interior.Seatlayout.OnlySix
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standardfunksjon
+				Standardfunksjon, valgfri elektrisk
 			</td>
 		</tr>
 		<tr>

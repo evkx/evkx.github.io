@@ -100,6 +100,7 @@ For første række tilbyder Volkswagen ID. Buzz GTX to forskellige sædetyper at
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 
@@ -115,6 +116,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **comfort** sædet.
 
 - elektrisk justering
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

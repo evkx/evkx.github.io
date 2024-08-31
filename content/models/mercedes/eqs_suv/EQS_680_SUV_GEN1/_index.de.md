@@ -110,6 +110,7 @@ Der Mercedes-Maybach EQS 680 SUV bietet nur einen Typ von Vordersitz.
 Die folgenden Funktionen sind für den **multicontour**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

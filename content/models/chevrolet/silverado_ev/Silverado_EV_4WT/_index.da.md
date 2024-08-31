@@ -106,6 +106,8 @@ Chevrolet Silverado EV 4WT tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

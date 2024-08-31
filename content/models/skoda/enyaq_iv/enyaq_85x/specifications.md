@@ -596,7 +596,7 @@ This model is available with a seat configuration with five seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard feature, optional electric
 			</td>
 		</tr>
 		<tr>

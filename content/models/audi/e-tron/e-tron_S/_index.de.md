@@ -124,6 +124,7 @@ Die erste Reihe bietet drei Sitztypen, um verschiedenen Komfort- und Stilvorlieb
 Die folgenden Funktionen sind für den **s-line sport**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze (optional)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
@@ -136,6 +137,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **s sport**-Sitz verfügbar:
 
 - Elektrische Verstellung (optional)
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuell verstellbar, elektrisch verstellbar als Option)
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory-Fahrersitz](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support)
@@ -146,6 +148,7 @@ Verfügbar in:
 Die folgenden Funktionen sind für den **multicontour**-Sitz verfügbar:
 
 - Elektrische Verstellung
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)

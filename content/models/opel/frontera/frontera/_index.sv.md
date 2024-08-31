@@ -103,12 +103,17 @@ För första raden erbjuder Opel Frontera två olika sätestyper att välja mell
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 

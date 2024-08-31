@@ -505,7 +505,7 @@ Interior.Seatlayout.OnlySix
 				Sitztiefenverstellung
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -521,7 +521,7 @@ Interior.Seatlayout.OnlySix
 				Verstellung des Rückenlehnenwinkels
 			</td>
 			<td>
-				Serienausstattung
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>

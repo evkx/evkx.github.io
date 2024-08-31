@@ -568,7 +568,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -584,7 +584,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

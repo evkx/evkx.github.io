@@ -105,12 +105,17 @@ For første rad tilbyr Citroën ë-C3 Aircross to forskjellige setetyper å velg
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 

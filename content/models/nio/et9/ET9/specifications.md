@@ -492,7 +492,7 @@ This model is available with a seat configuration with four seats.
 				Seat depth adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ This model is available with a seat configuration with four seats.
 				Backrest angle adjustment
 			</td>
 			<td>
-				Standard feature
+				Standard electric feature
 			</td>
 		</tr>
 		<tr>

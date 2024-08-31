@@ -524,7 +524,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>
@@ -540,7 +540,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction standard, option électrique
 			</td>
 		</tr>
 		<tr>

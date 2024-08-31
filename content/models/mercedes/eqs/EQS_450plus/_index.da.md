@@ -106,6 +106,8 @@ For første række tilbyder Mercedes-EQ EQS 450+ to forskellige sædetyper at v�
 Følgende funktioner er tilgængelige på **standard** sædet.
 
 - elektrisk justering
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
@@ -118,6 +120,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 - elektrisk justering
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - højdejusterbar nakkestøtte
 - længdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)

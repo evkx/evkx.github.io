@@ -540,7 +540,7 @@ Interior.Seatlayout.OnlySix
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Interior.Seatlayout.OnlySix
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

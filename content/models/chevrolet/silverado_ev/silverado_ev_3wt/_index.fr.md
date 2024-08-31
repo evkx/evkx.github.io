@@ -106,6 +106,8 @@ Le Chevrolet Silverado EV 3WT propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable manuellement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.

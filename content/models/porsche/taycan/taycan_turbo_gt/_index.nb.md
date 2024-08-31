@@ -105,6 +105,7 @@ For første rad tilbyr Porsche Taycan Turbo GT to forskjellige setetyper å velg
 Følgende funksjoner er tilgjengelige på **Lightweight bucket seat** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (valgfri)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
@@ -113,6 +114,7 @@ Følgende funksjoner er tilgjengelige på **Lightweight bucket seat** setet.
 Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 - elektrisk justering
+- [Frem- og tilbakejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)

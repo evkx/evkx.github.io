@@ -700,7 +700,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>
@@ -716,7 +716,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Standardfunksjon
+				Standard elektrisk funksjon
 			</td>
 		</tr>
 		<tr>

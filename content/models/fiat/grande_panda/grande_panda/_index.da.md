@@ -105,12 +105,17 @@ For første række tilbyder Fiat Grande Panda to forskellige sædetyper at vælg
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
+- [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manuelt justerbar)
+- [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
 

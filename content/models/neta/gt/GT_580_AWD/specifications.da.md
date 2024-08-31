@@ -449,7 +449,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Denne model er tilgængelig med en sædekonfiguration med fire sæder.
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Standardfunktion
+				Standard elektrisk funktion
 			</td>
 		</tr>
 		<tr>

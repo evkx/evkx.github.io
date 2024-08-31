@@ -604,7 +604,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +620,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Función estándar
+				Función eléctrica estándar
 			</td>
 		</tr>
 		<tr>

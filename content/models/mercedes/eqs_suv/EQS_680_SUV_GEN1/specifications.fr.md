@@ -572,7 +572,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Fonction électrique standard
 			</td>
 		</tr>
 		<tr>
