@@ -89,7 +89,7 @@ Der Honda e:Ny1 bietet Platz für fünf Passagiere mit zwei Vordersitzen und ein
 
 Der Honda e:Ny1 bietet nur einen Typ von Vordersitz.
 
-Die folgenden Funktionen sind für den ****-Sitz verfügbar:
+Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar für Fahrer, nicht verfügbar für Beifahrer)
@@ -103,7 +103,9 @@ Verfügbar in:
 
 #### Rücksitzreihe
 
-Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem -Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 60:40-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 ## Klimaanlage
 

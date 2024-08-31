@@ -89,7 +89,7 @@ Honda e:Ny1 rymmer fem passagerare med två säten fram och en tre-sitsig bänk 
 
 Honda e:Ny1 erbjuder endast en typ av framsäte.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **standard** sätet.
 
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar för förare, inte tillgänglig för passagerare)
@@ -103,7 +103,9 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 ## Klimatsystem
 

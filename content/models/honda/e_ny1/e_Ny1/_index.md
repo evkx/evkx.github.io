@@ -89,7 +89,7 @@ The Honda e:Ny1 accommodates five passengers with two front seats and a three-se
 
 The Honda e:Ny1 offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **standard** seat:
 
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable for driver, not available for passenger)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable for driver, not available for passenger)
@@ -103,7 +103,9 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ## Climate System
 

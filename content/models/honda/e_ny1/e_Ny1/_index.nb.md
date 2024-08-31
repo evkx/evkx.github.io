@@ -89,7 +89,7 @@ Honda e:Ny1 har plass til fem passasjerer med to seter foran og en tre-seters be
 
 Honda e:Ny1 Long Range tilbyr kun én type forsete.
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
@@ -103,7 +103,9 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 #### Seter på andre rad
 
-Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 ## Klimasystem
 

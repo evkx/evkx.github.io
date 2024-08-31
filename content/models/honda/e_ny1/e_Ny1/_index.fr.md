@@ -89,7 +89,7 @@ Le Honda e:Ny1 peut accueillir cinq passagers avec deux sièges à l'avant et un
 
 Le Honda e:Ny1 propose un seul type de siège avant.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
@@ -103,7 +103,9 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 #### Siège de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 ## Système de climatisation
 

@@ -89,7 +89,7 @@ Honda e:Ny1 har plads til fem passagerer med to sæder foran og en tre-personers
 
 Honda e:Ny1 tilbyder kun én type forreste sæde.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet.
 
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar for fører, ikke tilgængelig for passager)
@@ -103,7 +103,9 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 #### Sæde på anden række
 
-Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 ## Klimasystem
 
