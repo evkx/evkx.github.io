@@ -30,7 +30,7 @@ El MG MG4 Electric XPOWER ofrece un rendimiento sólido con una potencia máxima
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 64,0 kWh y una capacidad neta utilizable de 61,7 kWh, proporcionando un buffer de 2,3 kWh (3,6%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 64,0 kWh y una capacidad neta utilizable de 61,7 kWh, proporcionando un buffer de 2,3 kWh (3,6%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 435 km, con una tasa de consumo de energía de 14,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

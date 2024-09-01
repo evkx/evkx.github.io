@@ -30,7 +30,7 @@ The GMC Hummer EV SUV 2x packs an impressive punch with a maximum power of 425 k
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 30 to 303 miles (48-488 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 0.2 mi/kWh for the base model and 1.6 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.

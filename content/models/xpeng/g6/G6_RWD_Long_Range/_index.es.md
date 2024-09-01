@@ -30,9 +30,9 @@ El XPENG G6 RWD Long Range ofrece un rendimiento sólido con una potencia máxim
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 92,0 kWh y una capacidad neta utilizable de 87,5 kWh, proporcionando un buffer de 4,5 kWh (4,9%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 92,0 kWh y una capacidad neta utilizable de 87,5 kWh, proporcionando un buffer de 4,5 kWh (4,9%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 755 km ( millas). El consumo es de 11,6kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 755 km (469 millas). El consumo es de 11,6kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 300kW. Una carga completa del 0 al 100 % tardaría 54 minutos, mientras que un escenario más común del 10 al 80 % tardaría 21 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 150kW. Cada sesión de carga tardaría 19 minutos y 34 segundos. Esta capacidad de carga eficiente hace que el XPENG G6 RWD Long Range sea una opción conveniente para viajes de larga distancia.
 

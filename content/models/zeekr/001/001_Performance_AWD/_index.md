@@ -30,7 +30,7 @@ The Zeekr 001 Performance AWD packs an impressive punch with a maximum power of 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 95.0 kWh, providing a 5.0 kWh buffer (5.0%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 100.0 kWh and a net usable capacity of 95.0 kWh, providing a 5.0 kWh buffer (5.0%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 590 km (367 miles), with an energy consumption rate of 16.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 

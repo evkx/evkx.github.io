@@ -30,7 +30,7 @@ The Volvo EX30 Twin Motor Performance delivers a solid performance with a maximu
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 69.0 kWh and a net usable capacity of 64.0 kWh, providing a 5.0 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 69.0 kWh and a net usable capacity of 64.0 kWh, providing a 5.0 kWh buffer (7.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 460 km (286 miles), with an energy consumption rate of 13.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 

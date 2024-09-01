@@ -30,7 +30,7 @@ El Volvo EX30 Single Motor ofrece un rendimiento modesto con una potencia máxim
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 51,0 kWh y una capacidad neta utilizable de 49,0 kWh, proporcionando un buffer de 2,0 kWh (3,9%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 51,0 kWh y una capacidad neta utilizable de 49,0 kWh, proporcionando un buffer de 2,0 kWh (3,9%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 344 km, con una tasa de consumo de energía de 14,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

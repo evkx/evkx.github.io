@@ -30,7 +30,7 @@ El Ford F150 Lightning Extended Range impresiona con una potencia máxima de 433
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 150,0 kWh y una capacidad neta utilizable de 130,0 kWh, proporcionando un buffer de 20,0 kWh (13,3%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 150,0 kWh y una capacidad neta utilizable de 130,0 kWh, proporcionando un buffer de 20,0 kWh (13,3%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 El rango estimado por la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental) varía entre 320 a 300 millas (515-483 km), dependiendo de la configuración y opciones del vehículo. Por ejemplo, las ruedas más grandes pueden aumentar el consumo de energía y reducir la autonomía general.
 Las tasas de consumo de energía son de 2,5 mi/kWh para el modelo base y de 2,3 mi/kWh para la versión superior, según la prueba estándar de la EPA. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)

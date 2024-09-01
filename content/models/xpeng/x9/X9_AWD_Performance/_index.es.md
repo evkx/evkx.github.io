@@ -30,9 +30,9 @@ El XPENG X9 AWD Performance ofrece un rendimiento sólido con una potencia máxi
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 101,5 kWh y una capacidad neta utilizable de 98,0 kWh, proporcionando un buffer de 3,5 kWh (3,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 101,5 kWh y una capacidad neta utilizable de 98,0 kWh, proporcionando un buffer de 3,5 kWh (3,4%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 640 km ( millas). El consumo es de 15,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 640 km (398 millas). El consumo es de 15,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 52 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 60%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 171kW. Cada sesión de carga tardaría 18 minutos y 12 segundos. Esta capacidad de carga excepcionalmente rápida hace que el XPENG X9 AWD Performance sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 

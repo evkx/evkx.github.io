@@ -30,7 +30,7 @@ The Smart #1 delivers a solid performance with a maximum power of 315 kW (428 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 66.0 kWh and a net usable capacity of 62.0 kWh, providing a 4.0 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 66.0 kWh and a net usable capacity of 62.0 kWh, providing a 4.0 kWh buffer (6.1%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 440 to 420 km (274-261 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.1 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 

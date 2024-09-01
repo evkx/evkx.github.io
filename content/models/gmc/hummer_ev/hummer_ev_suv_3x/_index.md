@@ -30,7 +30,7 @@ The GMC Hummer EV SUV 3x delivers a jaw-dropping maximum power of 619 KW (842 hp
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 200.0 kWh and a net usable capacity of 190.0 kWh, providing a 10.0 kWh buffer (5.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 314 miles (505 km) with an energy consumption rate of 1.7 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 

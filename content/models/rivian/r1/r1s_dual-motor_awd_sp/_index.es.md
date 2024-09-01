@@ -30,7 +30,7 @@ El Rivian R1S Dual-Motor AWD SP ofrece un rendimiento sólido con una potencia m
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 92,5 kWh y una capacidad neta utilizable de 90,6 kWh, proporcionando un buffer de 1,9 kWh (2,1%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 92,5 kWh y una capacidad neta utilizable de 90,6 kWh, proporcionando un buffer de 1,9 kWh (2,1%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
 Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 434 km con una tasa de consumo de energía de 20,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

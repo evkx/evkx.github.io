@@ -32,7 +32,7 @@ The Aion Hyper GT 710 Supercharged delivers a solid performance with a maximum p
 
 The high-capacity battery has a gross capacity of 80.1 kWh and a net usable capacity of 77.0 kWh, providing a 3.1 kWh buffer (3.9%) for battery protection.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km ( miles). he energy consumption is 10.8 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 710 km (441 miles). he energy consumption is 10.8 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 159 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 54%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 16 minutes and 50 seconds. This efficient charging capability makes the Aion Hyper GT 710 Supercharged a convenient option for long-distance travel.
 

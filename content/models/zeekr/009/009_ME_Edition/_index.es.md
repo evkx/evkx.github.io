@@ -30,9 +30,9 @@ El Zeekr 009 ME Edition impresiona con una potencia máxima de 400 kW (544 hp) y
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 140,0 kWh y una capacidad neta utilizable de 134,0 kWh, proporcionando un buffer de 6,0 kWh (4,3%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 140,0 kWh y una capacidad neta utilizable de 134,0 kWh, proporcionando un buffer de 6,0 kWh (4,3%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 822 km ( millas). El consumo es de 16,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 822 km (511 millas). El consumo es de 16,3kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 81 minutos, mientras que un escenario más común del 10 al 80 % tardaría 38 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 144kW. Cada sesión de carga tardaría 26 minutos y 11 segundos.
 

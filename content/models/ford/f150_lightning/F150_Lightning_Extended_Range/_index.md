@@ -30,7 +30,7 @@ The Ford F150 Lightning Extended Range packs an impressive punch with a maximum 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 150.0 kWh and a net usable capacity of 130.0 kWh, providing a 20.0 kWh buffer (13.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 150.0 kWh and a net usable capacity of 130.0 kWh, providing a 20.0 kWh buffer (13.3%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 320 to 300 miles (515-483 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.5 mi/kWh for the base model and 2.3 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.

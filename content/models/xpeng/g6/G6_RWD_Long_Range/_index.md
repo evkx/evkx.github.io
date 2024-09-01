@@ -30,9 +30,9 @@ The XPENG G6 RWD Long Range delivers a solid performance with a maximum power of
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 92.0 kWh and a net usable capacity of 87.5 kWh, providing a 4.5 kWh buffer (4.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 92.0 kWh and a net usable capacity of 87.5 kWh, providing a 4.5 kWh buffer (4.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 755 km ( miles). he energy consumption is 11.6 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 755 km (469 miles). he energy consumption is 11.6 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 21 minutes with an average charging speed of 179 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 60%. This results in an effective charging speed, including time lost, of 150 kW, with each charging session taking about 19 minutes and 34 seconds. This efficient charging capability makes the XPENG G6 RWD Long Range a convenient option for long-distance travel.
 

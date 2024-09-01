@@ -30,9 +30,9 @@ El BYD Seagull 38kWh kWh ofrece un rendimiento básico con una potencia máxima 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 38,8 kWh y una capacidad neta utilizable de 37,0 kWh, proporcionando un buffer de 1,8 kWh (4,6%) para la protección de la batería. Con un voltaje nominal de 403 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 38,8 kWh y una capacidad neta utilizable de 37,0 kWh, proporcionando un buffer de 1,8 kWh (4,6%) para la protección de la batería. Con un voltaje nominal de 403 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 405 km ( millas). El consumo es de 9,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 405 km (252 millas). El consumo es de 9,1kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 40kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 42 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 12% al 75%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 33kW. Cada sesión de carga tardaría 42 minutos y 9 segundos.
 

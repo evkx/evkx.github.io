@@ -30,9 +30,9 @@ El Xiaomi SU7 ofrece un rendimiento sólido con una potencia máxima de 220 kW (
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 73,6 kWh y una capacidad neta utilizable de 73,0 kWh, proporcionando un buffer de 0,6 kWh (0,8%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 73,6 kWh y una capacidad neta utilizable de 73,0 kWh, proporcionando un buffer de 0,6 kWh (0,8%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km ( millas). El consumo es de 10,4kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km (435 millas). El consumo es de 10,4kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 45 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 72%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 108kW. Cada sesión de carga tardaría 28 minutos y 1 segundos.
 

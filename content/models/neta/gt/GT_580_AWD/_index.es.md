@@ -32,7 +32,7 @@ El Neta GT 580 AWD ofrece un rendimiento sólido con una potencia máxima de 340
 
 La batería de alta capacidad tiene una capacidad bruta de 78,0 kWh y una capacidad neta utilizable de 75,0 kWh, proporcionando un buffer de 3,0 kWh (3,8%) para la protección de la batería.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 580 km ( millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 580 km (361 millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 61 minutos, mientras que un escenario más común del 10 al 80 % tardaría 31 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 76%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 36 minutos y 6 segundos.
 

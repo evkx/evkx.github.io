@@ -30,7 +30,7 @@ El Volvo EX90 Twin Motor Performance ofrece un rendimiento sólido con una poten
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 111,0 kWh y una capacidad neta utilizable de 107,0 kWh, proporcionando un buffer de 4,0 kWh (3,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 111,0 kWh y una capacidad neta utilizable de 107,0 kWh, proporcionando un buffer de 4,0 kWh (3,6%) para la protección de la batería. Con un voltaje nominal de 370 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 580 km, con una tasa de consumo de energía de 18,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

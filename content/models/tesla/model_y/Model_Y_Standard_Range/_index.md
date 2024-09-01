@@ -54,7 +54,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### NMC 4850 US Market
 
-The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capacity of 68.5 kWh, providing a 1.5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capacity of 68.5 kWh, providing a 1.5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -64,7 +64,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### NMC 21700 US Market Software locked
 
-The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capacity of 68.5 kWh, providing a 1.5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 70.0 kWh and a net usable capacity of 68.5 kWh, providing a 1.5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 430 km (267 miles), with an energy consumption rate of 12.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
