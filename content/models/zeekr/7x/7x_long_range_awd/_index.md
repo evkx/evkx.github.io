@@ -50,7 +50,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ## Drivetrain
 
-The Zeekr 7X Long Range AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The Zeekr 7X Long Range AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 ### Suspension
 
@@ -58,7 +58,7 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 ### Brakes
 
-The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 533 mm, while the rear discs are 457 mm.
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
@@ -68,11 +68,14 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 The Zeekr 7X Long Range AWD, with dimensions of 4825 mm in length, 1930 mm in width, and 1656 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Zeekr 7X Long Range AWD is available in a total of 4 paint colors, including several striking metallic options.
 
-You can select from multiple wheel designs, all available in the same size, on the Zeekr 7X Long Range AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+The Zeekr 7X Long Range AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 265/40 tires on 22" rims
+- 265/50 tires on 19" rims
+- 265/45 tires on 20" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are a standard function for the side doors.
+Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
+
+The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are an optional function for the side doors.
 
 There is only one roof option for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
@@ -84,7 +87,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-There is one seat type you can select in different materials.
+interior.intro.minimalistic.premium.splitlevel There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -96,8 +99,10 @@ The Zeekr 7X Long Range AWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat:
 
-- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (manually adjustable)
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
@@ -121,6 +126,7 @@ The second row features a standard three-seat bench with a 40:60 split, allowing
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ## Climate System
 
@@ -184,9 +190,18 @@ The Zeekr 7X Long Range AWD comes equipped with one sound system option:
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
+## Mobile App
+
+The Zeekr 7X Long Range AWD comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Remote Parking:** Effortlessly control your car to park or exit a parking space remotely.
+- **Lock & Unlock:** Securely lock or unlock your car doors with a tap.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
+
 ## Lights
 
-The  comes equipped with advanced LED Matrix headlights. This adaptive system divides the traditional single headlight beam into multiple smaller rays, allowing the light controller to selectively turn them on and off to avoid dazzling other drivers. For enhanced safety, the headlights also include corner lights that illuminate the side when turning.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -208,6 +223,8 @@ The Zeekr 7X Long Range AWD features a range of standard and optional [advanced 
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Zeekr 7X Long Range AWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Zeekr 7X Long Range AWD, this side assist system helps to detect traffic in blind spots.
+
 ### Driving Automation
 
 With the Pilot Assist  level 2 system, you get the following driving automation features.
@@ -215,13 +232,18 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, LiDAR and ultrasonic sensors for its driver assist systems.
+driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
 
 The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1500 liters (53.0 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
 
-The vehicle’s maximum weight is 2900 kg (6393 lbs), with a base weight of 2475 kg (5456 lbs). This allows for a maximum load of 425 kg (937 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 425kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The vehicle’s maximum weight is 2910 kg (6415 lbs), with a base weight of 2475 kg (5456 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 435kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I Leased A Chevrolet Equinox EV. Here Are My Initial Impressions</h3>
+<p>State of Charge: 29.08.2024</p>
+
+{{< youtube U3-vQXMQfFw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2024 Chevy Equinox EV Is the Cheapest New Electric Car: Is It Any Good?</h3>
 <p>TFLEV: 22.05.2024</p>
 
