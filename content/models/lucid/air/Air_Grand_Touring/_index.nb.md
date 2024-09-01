@@ -36,7 +36,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 73 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 45%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 178kW. Hver ladeøkt vil ta 18 minutter og 55 sekunder. Denne effektive ladekapasiteten gjør Lucid Air Grand Touring til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 8 timer og 46 minutter. Denne reisen ville kreve to ladestopp fra 0% til 62%, med en total ladetid på 26 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 16 kWh/100 km, ville turen ta omtrent 8 timer og 34 minutter. Denne reisen ville kreve to ladestopp fra 0% til 36%, med en total ladetid på 15 minutter.
 
 ### Ombordlader
 

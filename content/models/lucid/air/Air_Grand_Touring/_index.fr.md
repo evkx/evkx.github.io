@@ -36,7 +36,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 73 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 28 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 45 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 178kW. Chaque session de charge prendrait 18 minutes et 55 secondes. Cette capacité de charge efficace fait de l'Lucid Air Grand Touring une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19 kWh/100 km, le voyage prendrait environ 8 heures et 46 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 62%, avec un temps de recharge total de 26 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 16 kWh/100 km, le voyage prendrait environ 8 heures et 34 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 36%, avec un temps de recharge total de 15 minutes.
 
 ### Chargeur embarqué
 

@@ -32,7 +32,7 @@ Zeekr 007 AWD Performance imponerar med en imponerande kraft på 475 kW (646 hk)
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100,0 kWh och en nettoanvändbar kapacitet på 95,0 kWh, vilket ger en buffert på 5,0 kWh (5,0%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 660 km ( miles). Förbrukningen är 14,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 660 km (410 miles). Förbrukningen är 14,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 58%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 134kW. Varje laddningssession tar 23 minuter och 54 sekunder.
 

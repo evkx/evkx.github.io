@@ -32,7 +32,7 @@ La Volkswagen Id. UNYX offre des performances solides avec une puissance maximal
 
 La batterie haute capacité a une capacité brute de 82,0 kWh et une capacité nette utilisable de 77,0 kWh, offrant une réserve de 5,0 kWh (6,1%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 621 km ( miles). La consommation est de 12,4kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 621 km (386 miles). La consommation est de 12,4kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 135kW. Une charge complète de 0 à 100 % prendrait 62 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 35 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 43 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 101kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
 

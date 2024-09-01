@@ -32,7 +32,7 @@ Xiaomi SU7 Max imponerar med en imponerande kraft på 495 kW (673 hk) och ett im
 
 Högkapacitetsbatteriet har en bruttokapacitet på 101,0 kWh och en nettoanvändbar kapacitet på 99,0 kWh, vilket ger en buffert på 2,0 kWh (2,0%) för batteriskydd. Vid en nominell spänning på 871 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km (497 miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 40 minuter, medan ett vanligare scenario på 10-80 % tar 19 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 182kW. Varje laddningssession tar 23 minuter och 12 sekunder. Denna exceptionellt snabba laddningskapacitet gör Xiaomi SU7 Max till en av de mest effektiva och bekväma elbilarna för långresor.
 

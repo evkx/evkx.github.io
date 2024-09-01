@@ -32,7 +32,7 @@ YangWang U9 leverer en imponerende maksimal effekt på 960 KW (1305 hk) og et ma
 
 Det højkapacitetsbatteri har en bruttokapacitet på 83,0 kWh og en nettoanvendelig kapacitet på 80,0 kWh, hvilket giver en buffer på 3,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 630 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km ( miles). Forbruget er 17,2kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 465 km (289 miles). Forbruget er 17,2kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 500kW. En fuld opladning fra 0 - 100 % ville tage 44 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 23 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 130kW. Hver opladningssession ville tage 25 minutter og 5 sekunder.
 

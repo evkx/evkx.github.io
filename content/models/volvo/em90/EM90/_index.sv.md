@@ -32,7 +32,7 @@ Volvo EM90 erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk
 
 Högkapacitetsbatteriet har en bruttokapacitet på 116,0 kWh och en nettoanvändbar kapacitet på 110,0 kWh, vilket ger en buffert på 6,0 kWh (5,2%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km ( miles). Förbrukningen är 14,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 738 km (459 miles). Förbrukningen är 14,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 66 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 5% till 55%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 139kW. Varje laddningssession tar 24 minuter och 48 sekunder.
 

@@ -87,7 +87,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-interior.intro.minimalistic.premium.splitlevel There is one seat type you can select in different materials.
+The interior of the Zeekr 7X Long Range AWD is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -235,7 +235,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 ### Sensors & Cameras
 
 This model uses cameras, radar, LiDAR and ultrasonic sensors for its driver assist systems.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

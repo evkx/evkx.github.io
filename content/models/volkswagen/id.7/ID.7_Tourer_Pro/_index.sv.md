@@ -36,7 +36,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 
 Maximal DC-laddningshastighet är 175 kW. En full laddning från 0 - 100 % tar 50 minuter, medan ett vanligare scenario på 10-80 % tar 26 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 123kW. Varje laddningssession tar 19 minuter och 12 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 19 kWh/100 km, skulle resan ta ungefär 9 timmar och 15 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 53%, med en total laddningstid på 55 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 18,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 13 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 51%, med en total laddningstid på 53 minuter.
 
 ### Ombordladdare
 

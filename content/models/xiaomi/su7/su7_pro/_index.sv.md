@@ -32,7 +32,7 @@ Xiaomi SU7 Pro levererar en solid prestanda med en maximal effekt på 220 kW (29
 
 Högkapacitetsbatteriet har en bruttokapacitet på 94,3 kWh och en nettoanvändbar kapacitet på 92,0 kWh, vilket ger en buffert på 2,3 kWh (2,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 830 km ( miles). Förbrukningen är 11,1kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 830 km (516 miles). Förbrukningen är 11,1kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 56 minuter, medan ett vanligare scenario på 10-80 % tar 30 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 116kW. Varje laddningssession tar 32 minuter och 24 sekunder.
 

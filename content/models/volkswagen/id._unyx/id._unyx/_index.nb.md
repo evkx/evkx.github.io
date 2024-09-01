@@ -32,7 +32,7 @@ Volkswagen Id. UNYX leverer solid ytelse med en maksimal effekt på 210 kW (286 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 82,0 kWh og en netto brukbar kapasitet på 77,0 kWh, som gir en buffer på 5,0 kWh (6,1%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 621 km ( miles). Forbruket er 12,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 621 km (386 miles). Forbruket er 12,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 135 kW. En full lading fra 0 - 100 % vil ta 62 minutter, mens et mer vanlig scenario på 10-80 % vil ta 35 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 43%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 101kW. Hver ladeøkt vil ta 19 minutter og 43 sekunder.
 

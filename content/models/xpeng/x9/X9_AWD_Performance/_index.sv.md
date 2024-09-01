@@ -32,7 +32,7 @@ XPENG X9 AWD Performance levererar en solid prestanda med en maximal effekt på 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 101,5 kWh och en nettoanvändbar kapacitet på 98,0 kWh, vilket ger en buffert på 3,5 kWh (3,4%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km ( miles). Förbrukningen är 15,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 640 km (398 miles). Förbrukningen är 15,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 52 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 60%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 18 minuter och 12 sekunder. Denna exceptionellt snabba laddningskapacitet gör XPENG X9 AWD Performance till en av de mest effektiva och bekväma elbilarna för långresor.
 

@@ -32,7 +32,7 @@ Aion Hyper GT 710 Supercharged levererar en solid prestanda med en maximal effek
 
 Högkapacitetsbatteriet har en bruttokapacitet på 80,1 kWh och en nettoanvändbar kapacitet på 77,0 kWh, vilket ger en buffert på 3,1 kWh (3,9%) för batteriskydd.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km ( miles). Förbrukningen är 10,8kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km (441 miles). Förbrukningen är 10,8kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 38 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 152kW. Varje laddningssession tar 16 minuter och 50 sekunder. Denna effektiva laddningskapacitet gör Aion Hyper GT 710 Supercharged till ett bekvämt alternativ för långdistansresor.
 

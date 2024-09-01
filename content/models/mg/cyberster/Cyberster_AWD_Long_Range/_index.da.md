@@ -32,7 +32,7 @@ MG Cyberster AWD Long Range imponerer med en maksimal effekt på 400 kW (544 hk)
 
 Det højkapacitetsbatteri har en bruttokapacitet på 77,0 kWh og en nettoanvendelig kapacitet på 74,4 kWh, hvilket giver en buffer på 2,6 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 520 km ( miles). Forbruget er 14,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 520 km (323 miles). Forbruget er 14,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 101 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 58%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 100kW. Hver opladningssession ville tage 25 minutter og 33 sekunder.
 

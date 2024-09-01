@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Renault Scenic E-Tech 92 kWh charging test</h3>
+<p>Bjørn Nyland: 30.08.2024</p>
+
+{{< youtube UTysfmujbsM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Renault Scenic E-Tech 92 kWh acceleration and noise test</h3>
+<p>Bjørn Nyland: 30.08.2024</p>
+
+{{< youtube yPbdZPmaRs8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Renault Scenic E-Tech range test</h3>
 <p>Bjørn Nyland: 27.08.2024</p>
 

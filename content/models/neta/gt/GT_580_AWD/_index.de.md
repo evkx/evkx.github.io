@@ -32,7 +32,7 @@ Der Neta GT 580 AWD liefert eine solide Leistung mit einer maximalen Leistung vo
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 78,0 kWh und eine nutzbare Nettokapazität von 75,0 kWh, was einen Puffer von 3,0 kWh (3,8%) zum Schutz der Batterie bietet.
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 580 km ( Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 580 km (361 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 120 kW. Das Laden von 0% auf 100% dauert etwa 61 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 102 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 76%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 90 kW, wobei jede Ladesitzung etwa 36 Minuten und 6 Sekunden dauert.
 

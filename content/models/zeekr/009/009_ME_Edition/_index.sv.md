@@ -32,7 +32,7 @@ Zeekr 009 ME Edition imponerar med en imponerande kraft på 400 kW (544 hk) och 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 140,0 kWh och en nettoanvändbar kapacitet på 134,0 kWh, vilket ger en buffert på 6,0 kWh (4,3%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 822 km ( miles). Förbrukningen är 16,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 822 km (511 miles). Förbrukningen är 16,3kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 81 minuter, medan ett vanligare scenario på 10-80 % tar 38 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 53%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 144kW. Varje laddningssession tar 26 minuter och 11 sekunder.
 

@@ -32,7 +32,7 @@ Zeekr 7X Long Range AWD imponerer med en imponerende kraft på 475 kW (646 hk) o
 
 Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 95,0 kWh, som gir en buffer på 5,0 kWh (5,0%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 780 km ( miles). Forbruket er 12,2kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 780 km (485 miles). Forbruket er 12,2kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 4% til 58%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 134kW. Hver ladeøkt vil ta 23 minutter og 54 sekunder.
 
@@ -87,7 +87,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-interior.intro.minimalistic.premium.splitlevel Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i Zeekr 7X Long Range AWD er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
@@ -235,7 +235,7 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 ### Sensorer & Kameraer
 
 Denne modellen bruker kameraer, radar, LiDAR og ultralydsensorer til sine førerassistentsystemer.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [LiDAR-sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

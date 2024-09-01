@@ -32,7 +32,7 @@ BYD Seagull 38kWh gir grunnleggende ytelse med en maksimal effekt på 55 kW (75 
 
 Høykapasitetsbatteriet har en brutto kapasitet på 38,8 kWh og en netto brukbar kapasitet på 37,0 kWh, som gir en buffer på 1,8 kWh (4,6%) for batteribeskyttelse. Med en nominell spenning på 403 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruket er 9,1kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 405 km (252 miles). Forbruket er 9,1kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 40 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 42 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 12% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 33kW. Hver ladeøkt vil ta 42 minutter og 9 sekunder.
 

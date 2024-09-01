@@ -32,7 +32,7 @@ Der Zeekr 7X Long Range AWD bietet eine beeindruckende Leistung mit einer maxima
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 95,0 kWh, was einen Puffer von 5,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 370 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 780 km ( Meilen). Der Energieverbrauch beträgt 12,2 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 780 km (485 Meilen). Der Energieverbrauch beträgt 12,2 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 200 kW. Das Laden von 0% auf 100% dauert etwa 57 Minuten, während ein typischer Ladevorgang von 10% auf 80% 27 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 147 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 4% und 58%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 134 kW, wobei jede Ladesitzung etwa 23 Minuten und 54 Sekunden dauert.
 
@@ -87,7 +87,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-interior.intro.minimalistic.premium.splitlevel Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Zeekr 7X Long Range AWD ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
@@ -235,7 +235,7 @@ Mit dem Pilot Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 ### Sensoren & Kameras
 
 Dieses Modell verwendet Kameras, Radar, LiDAR und Ultraschallsensoren für seine Fahrerassistenzsysteme.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), eins [LiDAR-Sensoren](../../../../technology/sensorsandcameras/lidar/), fünf [Kameras](../../../../technology/sensorsandcameras/cameras/), und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -32,7 +32,7 @@ La Zeekr 007 AWD Performance impressionne avec une puissance maximale de 475 kW 
 
 La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 95,0 kWh, offrant une réserve de 5,0 kWh (5,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 660 km ( miles). La consommation est de 14,4kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 660 km (410 miles). La consommation est de 14,4kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 134kW. Chaque session de charge prendrait 23 minutes et 54 secondes.
 

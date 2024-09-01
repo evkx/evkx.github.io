@@ -36,7 +36,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 
 Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 73 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 45%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 178kW. Hver opladningssession ville tage 18 minutter og 55 sekunder. Denne effektive opladningskapacitet gør Lucid Air Grand Touring til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 19 kWh/100 km, ville turen tage cirka 8 timer og 46 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 62%, med en samlet opladningstid på 26 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 16 kWh/100 km, ville turen tage cirka 8 timer og 34 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 36%, med en samlet opladningstid på 15 minutter
 
 ### Ombordlader
 

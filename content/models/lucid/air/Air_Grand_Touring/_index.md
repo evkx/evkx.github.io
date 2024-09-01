@@ -36,7 +36,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 73 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 174 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 45%. This results in an effective charging speed, including time lost, of 178 kW, with each charging session taking about 18 minutes and 55 seconds. This efficient charging capability makes the Lucid Air Grand Touring a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 8 hours and 46 minutes. This journey would require one charging stops from 0% to 62%, with a total charging time of 26 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 16 kWh/100 km, the trip would take approximately 8 hours and 34 minutes. This journey would require one charging stops from 0% to 36%, with a total charging time of 15 minutes.
 
 ### Onboard Charger
 

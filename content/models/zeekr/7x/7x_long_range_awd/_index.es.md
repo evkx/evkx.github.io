@@ -87,7 +87,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-interior.intro.minimalistic.premium.splitlevel Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Zeekr 7X Long Range AWD está diseñado con una estética minimalista, con materiales de primera calidad en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
 
@@ -235,7 +235,7 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 ### Sensores y Cámaras
 
 Este modelo utiliza cámaras, radar, LiDAR y sensores ultrasónicos para sus sistemas de asistencia al conductor.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorean los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

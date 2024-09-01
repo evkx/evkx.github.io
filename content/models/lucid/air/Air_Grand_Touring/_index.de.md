@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von  kW. Das Laden von 0% auf 100% dauert etwa 73 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 174 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 0% und 45%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 178 kW, wobei jede Ladesitzung etwa 18 Minuten und 55 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Lucid Air Grand Touring zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 19 kWh/100 km, würde die Fahrt etwa 8 Stunden und 46 Minuten dauern. Diese Reise würde eins Ladestopps von 0% auf 62% erfordern, mit einer gesamten Ladezeit von 26 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 16 kWh/100 km, würde die Fahrt etwa 8 Stunden und 34 Minuten dauern. Diese Reise würde eins Ladestopps von 0% auf 36% erfordern, mit einer gesamten Ladezeit von 15 Minuten.
 
 ### Bordladegerät
 

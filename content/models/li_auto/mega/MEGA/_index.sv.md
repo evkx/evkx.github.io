@@ -32,7 +32,7 @@ Li Auto MEGA levererar en solid prestanda med en maximal effekt på 400 kW (544 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 102,7 kWh och en nettoanvändbar kapacitet på 100,0 kWh, vilket ger en buffert på 2,7 kWh (2,6%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km ( miles). Förbrukningen är 14,1kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 710 km (441 miles). Förbrukningen är 14,1kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 520 kW. En full laddning från 0 - 100 % tar 22 minuter, medan ett vanligare scenario på 10-80 % tar 11 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 80%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 283kW. Varje laddningssession tar 17 minuter och 44 sekunder. Denna exceptionellt snabba laddningskapacitet gör Li Auto MEGA till en av de mest effektiva och bekväma elbilarna för långresor.
 

@@ -32,7 +32,7 @@ Xiaomi SU7 leverer solid ytelse med en maksimal effekt på 220 kW (299 hk) og et
 
 Høykapasitetsbatteriet har en brutto kapasitet på 73,6 kWh og en netto brukbar kapasitet på 73,0 kWh, som gir en buffer på 0,6 kWh (0,8%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km ( miles). Forbruket er 10,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 700 km (435 miles). Forbruket er 10,4kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 72%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 108kW. Hver ladeøkt vil ta 28 minutter og 1 sekunder.
 

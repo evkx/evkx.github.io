@@ -36,7 +36,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 
 La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 73 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 45%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 178kW. Cada sesión de carga tardaría 18 minutos y 55 segundos. Esta capacidad de carga eficiente hace que el Lucid Air Grand Touring sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 46 minutos. Este viaje requeriría dos paradas de carga del 0% al 62%, con un tiempo total de carga de 26 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 16 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 0% al 36%, con un tiempo total de carga de 15 minutos.
 
 ### Cargador a bordo
 

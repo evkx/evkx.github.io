@@ -32,7 +32,7 @@ Neta GT 580 AWD levererar en solid prestanda med en maximal effekt på 340 kW (4
 
 Högkapacitetsbatteriet har en bruttokapacitet på 78,0 kWh och en nettoanvändbar kapacitet på 75,0 kWh, vilket ger en buffert på 3,0 kWh (3,8%) för batteriskydd.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 580 km ( miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 580 km (361 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 61 minuter, medan ett vanligare scenario på 10-80 % tar 31 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 36 minuter och 6 sekunder.
 

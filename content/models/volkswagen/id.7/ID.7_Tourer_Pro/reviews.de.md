@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Tourer Pro banana box test</h3>
+<p>Bjørn Nyland: 31.08.2024</p>
+
+{{< youtube _DWFoOs8fiU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Tourer Pro range test</h3>
+<p>Bjørn Nyland: 31.08.2024</p>
+
+{{< youtube p8MAr4fK81Y >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Driving the electric Passat - VW ID7 Tourer REVIEW</h3>
 <p>Autogefühl: 17.07.2024</p>
 

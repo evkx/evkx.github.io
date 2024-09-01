@@ -32,7 +32,7 @@ La Zeekr 7X Long Range AWD impressionne avec une puissance maximale de 475 kW (6
 
 La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 95,0 kWh, offrant une réserve de 5,0 kWh (5,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 780 km ( miles). La consommation est de 12,2kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 780 km (485 miles). La consommation est de 12,2kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 58 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 134kW. Chaque session de charge prendrait 23 minutes et 54 secondes.
 
@@ -87,7 +87,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-interior.intro.minimalistic.premium.splitlevel Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+L'intérieur du Zeekr 7X Long Range AWD est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité supérieure. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée. Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
 
@@ -235,7 +235,7 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 ### Capteurs & Caméras
 
 Ce modèle utilise des caméras, des radars, des capteurs LiDAR et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
-driverassistance.CameraRadarLidarUltrasonic.TrueTrueFalseTrue
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
 
 {{<evkxdisplayaddarticle />}}
 
