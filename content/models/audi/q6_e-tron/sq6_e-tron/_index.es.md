@@ -136,6 +136,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 

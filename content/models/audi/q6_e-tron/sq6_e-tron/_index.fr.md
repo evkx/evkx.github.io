@@ -136,6 +136,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour siège passager)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 

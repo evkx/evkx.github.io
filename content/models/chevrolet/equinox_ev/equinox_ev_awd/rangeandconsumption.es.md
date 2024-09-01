@@ -40,10 +40,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				513 km / 319 mi
+				459 km / 285 mi
 			</td>
 			<td>
-				16,6 kWh/100km / 3,7 mi/kWh
+				18,5 kWh/100km / 3,4 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				</a>
 			</td>
 			<td>
-				513 km / 319 mi
+				459 km / 285 mi
 			</td>
 			<td>
-				16,6 kWh/100km / 3,7 mi/kWh
+				18,5 kWh/100km / 3,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,10 +87,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipamiento básico gama EPA con 2KW AC
 			</td>
 			<td>
-				407 km / 253 mi
+				372 km / 231 mi
 			</td>
 			<td>
-				-20,7%
+				-19,0%
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 				Equipo superior de gama EPA con 2KW AC
 			</td>
 			<td>
-				407 km / 253 mi
+				372 km / 231 mi
 			</td>
 			<td>
-				-20,7%
+				-19,0%
 			</td>
 		</tr>
 	</tbody>

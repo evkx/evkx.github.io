@@ -136,6 +136,7 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passagersæde)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 

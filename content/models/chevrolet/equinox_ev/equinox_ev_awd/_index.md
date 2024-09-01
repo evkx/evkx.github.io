@@ -1,7 +1,7 @@
 ---
 title: Chevrolet Equinox EV AWD
 linktitle: "Equinox EV AWD"
-description: "Chevrolet Equinox EV AWD is an all-electric SUV with a EPA range of up to 513 km (319 miles). EVKX.net has all the details."
+description: "Chevrolet Equinox EV AWD is an all-electric SUV with a EPA range of up to 459 km (285 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Chevrolet Equinox EV AWD delivers a solid performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 469 Nm (346 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
+The Chevrolet Equinox EV AWD delivers a solid performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 469 Nm (346 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 89.0 kWh and a net usable capacity of 85.0 kWh, providing a 4.0 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 319 miles (513 km) with an energy consumption rate of 3.8 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 285 miles (459 km) with an energy consumption rate of 3.4 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical scenario from 10% to 80% takes 37 minutes with an average charging speed of 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 58%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 26 minutes and 23 seconds.
 
@@ -86,7 +86,11 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
+The Chevrolet Equinox EV AWD boasts a driver-centric interior, enhancing the cockpit feel with medium-quality materials used throughout. A standout feature is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality.
+
 ### Seats
+
+The Chevrolet Equinox EV AWD accommodates five passengers with two front seats and a three-seat bench in the rear.
 
 #### First Row Seats
 
@@ -114,6 +118,7 @@ Available in:
 The second row features a standard three-seat bench with a 60:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 
@@ -162,9 +167,18 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Chevrolet Equinox EV AWD features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Chevrolet has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Chevrolet driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Waze
 
 ### Phone Mirroring
 
@@ -192,6 +206,8 @@ The taillights use LED technology, ensuring both high visibility and energy effi
 The Chevrolet Equinox EV AWD features a range of standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/) (ADAS) designed to enhance safety and comfort.
 
 ### Safety Systems
+
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Chevrolet Equinox EV AWD, this system prevents the wheels from locking during braking.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Chevrolet Equinox EV AWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
