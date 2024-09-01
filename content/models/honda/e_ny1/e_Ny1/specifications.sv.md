@@ -204,38 +204,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Typ laddport Nordamerika
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Oceanien (Australien, Nya Zeeland ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 

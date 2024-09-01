@@ -44,7 +44,7 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 ### Ladeport
 
-Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Denne model bruger [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) stikket til ladestikket.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,6 +170,8 @@ Honda e:Ny1 er udstyret med en enkelt type rat:
 Både de udvendige og indvendige spejle anvender traditionel spejleteknologi for at give et klart overblik over området bag køretøjet.
 
 ## Infotainment
+
+Honda e:Ny1 har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har Honda integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
 
 ### Navigationssystem
 

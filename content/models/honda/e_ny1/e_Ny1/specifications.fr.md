@@ -204,38 +204,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Tapez le port de charge Amérique du Nord
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Chine
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tapez chargeport Japon
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 

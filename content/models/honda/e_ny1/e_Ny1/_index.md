@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. This model uses the [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) connector for the chargeport.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,6 +170,8 @@ The Honda e:Ny1 is equipped with a single type of steering wheel:
 Both the exterior and interior mirrors use conventional mirror technology to provide a clear view of the area behind the vehicle.
 
 ## Infotainment
+
+The Honda e:Ny1 features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Honda has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
 
 ### Navigation System
 

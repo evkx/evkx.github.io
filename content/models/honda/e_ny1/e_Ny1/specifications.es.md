@@ -204,38 +204,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				CCS2
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Escriba puerto de carga Norteamérica
-			</td>
-			<td>
-				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo puerto de carga China
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Escriba puerto de carga Japón
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
 	</tbody>
 </table>
 

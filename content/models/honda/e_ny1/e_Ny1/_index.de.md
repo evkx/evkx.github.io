@@ -44,7 +44,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [Vorderseite](../../../../technology/charging/connectors/#front). Diese Position erleichtert die Nutzung von Ladestationen, bei denen Sie mit der Vorderseite einparken müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [Vorderseite](../../../../technology/charging/connectors/#front). Diese Position erleichtert die Nutzung von Ladestationen, bei denen Sie mit der Vorderseite einparken müssen. Dieses Modell verwendet den [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) Stecker für den Ladeanschluss.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -170,6 +170,8 @@ Der Honda e:Ny1 ist mit einem einzigen Lenkradtyp ausgestattet:
 Sowohl die Außen- als auch die Innenspiegel verwenden herkömmliche Spiegeltechnologie, um eine klare Sicht auf den Bereich hinter dem Fahrzeug zu bieten.
 
 ## Infotainment
+
+Der Honda e:Ny1 verfügt über ein fortschrittliches Infotainmentsystem, das auf dem Android Automotive OS basiert, einer von Google speziell für Fahrzeug-Dashboards entwickelten Plattform. Honda hat dieses robuste System mit einer eigenen Suite von Anwendungen erweitert, die nahtlose Navigation, umfassende Fahrzeugeinstellungen und vieles mehr bieten.
 
 ### Navigationssystem
 
