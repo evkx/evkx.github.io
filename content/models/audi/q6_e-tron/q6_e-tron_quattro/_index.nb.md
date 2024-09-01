@@ -134,6 +134,7 @@ Følgende funksjoner er tilgjengelige på **Normal** setet.
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuelt justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -149,6 +150,7 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -166,10 +168,9 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (valgfri)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passasjersete)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
@@ -182,6 +183,8 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 #### Seter på andre rad
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 

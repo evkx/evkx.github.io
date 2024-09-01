@@ -52,7 +52,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-Audi Q6 e-tron performance tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
+Audi Q6 e-tron performance tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
@@ -134,6 +134,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Normal**.
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -149,6 +150,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
@@ -163,14 +165,12 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
-- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asiento del pasajero)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
@@ -183,6 +183,8 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 #### Asiento de segunda fila
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 

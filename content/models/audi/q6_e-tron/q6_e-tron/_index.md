@@ -134,6 +134,7 @@ The following functionalities are available on the **Normal** seat:
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manually adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 
@@ -149,6 +150,7 @@ The following functionalities are available on the **Sport** seat:
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 
@@ -166,10 +168,9 @@ The following functionalities are available on the **Sport Plus** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Massage](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for passenger seat)
 
 Available in:
 

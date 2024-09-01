@@ -1000,7 +1000,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Standard Fahrer, nicht verfügbar für Beifahrer
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>

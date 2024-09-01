@@ -1000,7 +1000,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Memoria
 			</td>
 			<td>
-				Conductor estándar, no disponible para el pasajero
+				Función estándar
 			</td>
 		</tr>
 		<tr>

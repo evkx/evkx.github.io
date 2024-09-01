@@ -134,6 +134,7 @@ Följande funktioner är tillgängliga på **Normal** sätet.
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
@@ -149,6 +150,7 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfri)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
@@ -166,10 +168,9 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfri)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
-- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
-- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för passagerarsäte)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 

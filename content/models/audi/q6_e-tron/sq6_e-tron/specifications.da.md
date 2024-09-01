@@ -1000,7 +1000,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hukommelse
 			</td>
 			<td>
-				Standard fører, ikke tilgængelig for passager
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

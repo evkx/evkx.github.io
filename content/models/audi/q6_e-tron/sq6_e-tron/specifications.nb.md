@@ -1000,7 +1000,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Minne
 			</td>
 			<td>
-				Standard fører, ikke tilgjengelig for passasjer
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

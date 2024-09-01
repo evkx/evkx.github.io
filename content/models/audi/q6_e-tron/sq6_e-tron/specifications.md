@@ -1000,7 +1000,7 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Standard driver, not available passenger
+				Standard feature
 			</td>
 		</tr>
 		<tr>
