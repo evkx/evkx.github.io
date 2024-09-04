@@ -50,7 +50,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ## Drivetrain
 
-The Volvo EX90 Twin Motor Performance features an all-wheel drive system powered by two motors, one on each axle.
+The Volvo EX90 Twin Motor Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -252,4 +252,25 @@ The trunk offers a cargo capacity of 311 liters (11.0 CU FT). With the rear seat
 The vehicle’s maximum weight is 3380 kg (7452 lbs), with a base weight of 2748 kg (6058 lbs). This allows for a maximum load of 632 kg (1393 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 2200 kg (4850 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+## Availability & Pricing
+
+The Volvo EX90 Twin Motor Performance had its world premiere on 09.11.2022, with deliveries starting in November 2024.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $86 290,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Volvo EX90 Twin Motor Performance that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Range" >}}

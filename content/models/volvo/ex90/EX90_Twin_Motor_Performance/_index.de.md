@@ -50,7 +50,7 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 ## Antriebsstrang
 
-Der Volvo EX90 Twin Motor Performance verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse.
+Der Volvo EX90 Twin Motor Performance verfügt über ein Allradantriebssystem, das von zwei Motoren angetrieben wird, einem an jeder Achse. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
 
 ### Federung
 
@@ -252,4 +252,25 @@ Der Kofferraum bietet ein Ladevolumen von 311 Litern (11,0 CU FT). Mit umgeklapp
 Das maximale Gewicht des Fahrzeugs beträgt 3380 kg (7452 lbs) bei einem Leergewicht von 2748 kg (6058 lbs). Dies ermöglicht eine maximale Zuladung von 632 kg (1393 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 2200 kg (4850 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
+
+## Verfügbarkeit & Preise
+
+Der Volvo EX90 Twin Motor Performance feierte seine Weltpremiere am 09.11.2022, mit Lieferungen ab November 2024.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- $86 290,00 (USA)
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum Volvo EX90 Twin Motor Performance identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Reichweite" >}}

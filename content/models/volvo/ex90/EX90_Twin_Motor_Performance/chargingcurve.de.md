@@ -48,6 +48,9 @@ navicon: bi-battery-charging
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
 
 
+Volvo EX90 Twin Motor Performance verfügt über eine Batterieheizung, die das Laden bei optimaler Batterietemperatur erleichtert.
+
+
 {{<evkxdisplayaddarticle />}}
 <table class="table table-striped border">
 <thead>

@@ -50,7 +50,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-Volvo EX90 Twin Motor Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
+Volvo EX90 Twin Motor Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -252,4 +252,25 @@ Le coffre offre une capacité de chargement de 311 litres. Avec les sièges arri
 Le poids maximum du véhicule est de 3380 kg, avec un poids de base de 2748 kg. Cela permet une charge maximale de 632 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 2200 kg, tandis que pour une remorque non freinée, il est de 750 kg.
+
+## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 09.11.2022 et les livraisons ont commencé en November 2024.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- $86 290,00 (États-Unis)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Volvo EX90 Twin Motor Performance qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Plage" >}}

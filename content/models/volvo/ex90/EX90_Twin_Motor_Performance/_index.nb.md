@@ -50,7 +50,7 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-Volvo EX90 Twin Motor Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
+Volvo EX90 Twin Motor Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
 
@@ -252,4 +252,25 @@ Bagasjerommet tilbyr en lastekapasitet på 311 liter. Med baksetene nedfelt, utv
 Kjøretøyets maksimale vekt er 3380 kg, med en basisvekt på 2748 kg. Dette gir en maksimal lastekapasitet på 632 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 2200 kg, mens for en ubremset tilhenger er det 750 kg.
+
+## Tilgjengelighet & pris
+
+Volvo EX90 Twin Motor Performance hadde sin verdenspremiere den 09.11.2022, med leveranser som startet i November 2024.
+
+### Priser
+
+Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
+
+- $86 290,00 (USA)
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Volvo EX90 Twin Motor Performance som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

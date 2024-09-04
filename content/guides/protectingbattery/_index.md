@@ -1,10 +1,13 @@
 ---
-title: How to protect the battery on my EV?
+title: How to extend EV battery life?
 linktitle: Protecting battery
-description: EV batteries degrade over time, but there are many things you can do to make them keep their capacity longer.
+description: While modern EV batteries are designed to last for many years, the way you treat your battery can significantly impact its lifespan and efficiency. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
+
+In this article, we'll explore strategies to maximize your EV battery’s longevity, focusing on practical tips and delving into the differences between Lithium Iron Phosphate (LFP) and Nickel Manganese Cobalt (NMC) batteries.
+
 
 Many factors contribute to battery degradation, but the following are the most significant.
 
@@ -43,3 +46,4 @@ Based on this, it is best to keep the charging levels around 50%.
 High temperatures can damage the battery. If you live in an area with high temperatures, try to avoid parking your car in direct sunlight for extended periods.
 
 You can find more information about battery degradation in our [battery guide](../../../technology/battery/).
+

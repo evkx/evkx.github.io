@@ -50,7 +50,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-Volvo EX90 Twin Motor Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
+Volvo EX90 Twin Motor Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
@@ -252,4 +252,25 @@ El maletero ofrece una capacidad de carga de 311 litros. Con el asiento trasero 
 El peso máximo del vehículo es 3380 kg, con un peso base de 2748 kg. Esto permite una carga máxima de 632 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 2200 kg, mientras que para un tráiler sin freno es de 750 kg.
+
+## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 09.11.2022 y las entregas comenzaron en November 2024.
+
+### Precios
+
+Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
+
+- $86 290,00 (EE.UU.)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Volvo EX90 Twin Motor Performance que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Rango" >}}

@@ -50,7 +50,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ## Drivlina
 
-Volvo EX90 Twin Motor Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
+Volvo EX90 Twin Motor Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulupphängning
 
@@ -252,4 +252,25 @@ Bagageutrymmet erbjuder en lastkapacitet på 311 liter. Med baksätena nedfälld
 Fordonets maximala vikt är 3380 kg, med en grundvikt på 2748 kg. Detta tillåter en maximal last på 632 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
 En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 2200 kg, medan för en obromsad släpvagn är den 750 kg.
+
+## Tillgänglighet och pris
+
+Denna modell hade världspremiär 09.11.2022 och leveranserna startade i November 2024.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- $86 290,00 (USA)
+
+## Alternativa Modeller
+
+På den snabbt växande marknaden för elbilar har EVKX.net identifierat flera alternativ till Volvo EX90 Twin Motor Performance som är värda att överväga baserat på funktioner, specifikationer och pris. Även om dessa modeller kanske inte är helt identiska, kan det vara användbart att jämföra dem innan du fattar ditt slutgiltiga köpbeslut:
+
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+- [Kia EV9 Long Range RWD](/models/kia/ev9/ev9_long_range_rwd/)
+- [Tesla Model X](/models/tesla/model_x/model_x/)
+
+<a href="https://db.evkx.net/evcompare?evs=94534b%2c8201b2%2c7380a8%2c2c5a24" target="_blank">Utforska en detaljerad jämförelse av dessa modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="Volvo EX90" f_url="rangeandconsumption/" f_title="Räckvidd" >}}
