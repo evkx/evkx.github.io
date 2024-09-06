@@ -247,7 +247,7 @@ Mit dem Pilot Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 311 Litern (11,0 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1411 Liter (49,8 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 37 Litern (1,3 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 310 Litern (10,9 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1050 Liter (37,1 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 37 Litern (1,3 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 3380 kg (7452 lbs) bei einem Leergewicht von 2748 kg (6058 lbs). Dies ermöglicht eine maximale Zuladung von 632 kg (1393 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

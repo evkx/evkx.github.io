@@ -247,7 +247,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 311 liter. Med det bageste sæde foldet ned, udvides dette til 1411 liter. På taget kan du laste op til 100 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 37 liter.
+Bagagerummet har en lastekapacitet på 310 liter. Med det bageste sæde foldet ned, udvides dette til 1050 liter. På taget kan du laste op til 100 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 37 liter.
 
 Køretøjets maksimale vægt er 3380 kg, med en basisvægt på 2748 kg. Dette giver en maksimal last på 632 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 

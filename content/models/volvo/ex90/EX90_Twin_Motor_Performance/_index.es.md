@@ -247,7 +247,7 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 311 litros. Con el asiento trasero plegado, esto se expande a 1411 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 37 litros.
+El maletero ofrece una capacidad de carga de 310 litros. Con el asiento trasero plegado, esto se expande a 1050 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 37 litros.
 
 El peso máximo del vehículo es 3380 kg, con un peso base de 2748 kg. Esto permite una carga máxima de 632 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 

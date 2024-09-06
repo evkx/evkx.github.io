@@ -247,7 +247,7 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 311 liter. Med baksätena nedfällda ökar detta till 1411 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 37 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 310 liter. Med baksätena nedfällda ökar detta till 1050 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 37 liter.
 
 Fordonets maximala vikt är 3380 kg, med en grundvikt på 2748 kg. Detta tillåter en maximal last på 632 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

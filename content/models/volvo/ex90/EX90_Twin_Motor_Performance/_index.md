@@ -247,7 +247,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 311 liters (11.0 CU FT). With the rear seat folded down, this expands to 1411 liters (49.8 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 37 liters (1.3 CU FT).
+The trunk offers a cargo capacity of 310 liters (10.9 CU FT). With the rear seat folded down, this expands to 1050 liters (37.1 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 37 liters (1.3 CU FT).
 
 The vehicle’s maximum weight is 3380 kg (7452 lbs), with a base weight of 2748 kg (6058 lbs). This allows for a maximum load of 632 kg (1393 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

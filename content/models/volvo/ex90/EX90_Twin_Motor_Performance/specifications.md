@@ -306,7 +306,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width front
 			</td>
 			<td>
-				1602 mm (63,1")
+				1673 mm (65,9")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Track width rear
 			</td>
 			<td>
-				1601 mm (63,0")
+				1667 mm (65,6")
 			</td>
 		</tr>
 		<tr>
@@ -323,6 +323,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +403,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
-				311 liter (11 cu-ft)
+				310 liter (11 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +411,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
 			</td>
 			<td>
-				1411 liter (50 cu-ft)
+				1050 liter (37 cu-ft)
 			</td>
 		</tr>
 		<tr>

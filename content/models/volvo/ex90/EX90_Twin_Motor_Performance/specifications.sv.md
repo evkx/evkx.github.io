@@ -306,7 +306,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd fram
 			</td>
 			<td>
-				1602 mm
+				1673 mm
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Spårbredd bak
 			</td>
 			<td>
-				1601 mm
+				1667 mm
 			</td>
 		</tr>
 		<tr>
@@ -323,6 +323,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre överhängsvinkel
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre överhängsvinkel
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +403,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym
 			</td>
 			<td>
-				311 liter
+				310 liter
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +411,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Bagagerumsvolym, med nedfällda säten
 			</td>
 			<td>
-				1411 liter
+				1050 liter
 			</td>
 		</tr>
 		<tr>

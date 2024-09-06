@@ -306,7 +306,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite vorne
 			</td>
 			<td>
-				1602 mm (63,1")
+				1673 mm (65,9")
 			</td>
 		</tr>
 		<tr>
@@ -314,7 +314,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Spurweite hinten
 			</td>
 			<td>
-				1601 mm (63,0")
+				1667 mm (65,6")
 			</td>
 		</tr>
 		<tr>
@@ -323,6 +323,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				0,29
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				19,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				21
 			</td>
 		</tr>
 		<tr>
@@ -387,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen
 			</td>
 			<td>
-				311 Liter (11 cu-ft)
+				310 Liter (11 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -395,7 +411,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1411 Liter (50 cu-ft)
+				1050 Liter (37 cu-ft)
 			</td>
 		</tr>
 		<tr>
