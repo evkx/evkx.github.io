@@ -8,7 +8,13 @@ navicon: bi-person-video2
 ---
 Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../../guides/evreviewers/)
 
-Currently, we have yet to find any reviews for this variant. See [other variants](../../) of this model. 
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Full Tour Maserati Grecale Folgore! This Or Macan EV? Interior, Exterior, Software, Charging, & More</h3>
+<p>Out of Spec Reviews: 08.09.2024</p>
+
+{{< youtube ThSusGtuLh0 >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galerie  </strong>

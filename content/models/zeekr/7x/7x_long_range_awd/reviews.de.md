@@ -12,7 +12,7 @@ Wir sammeln Bewertungen von unseren [Lieblings-Online-Rezensenten](../../../../.
 <h3>Insecure Overachiever - Zeekr 7X Static Review</h3>
 <p>Telescope: 30.08.2024</p>
 
-{{< youtube OtsgdVO6-u >}}
+{{< youtube OtsgdVO6-u8 >}}
 
 </div>
 <div class="mt-3 mb-3">
