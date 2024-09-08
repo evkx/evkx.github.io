@@ -123,9 +123,10 @@ Available in:
 
 #### Second Row Seat
 
-The second row features a standard three-seat bench with a  split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+The second row features a standard three-seat bench with a 40:20:40 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
