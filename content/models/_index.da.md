@@ -365,7 +365,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
-	Hyundai har 4 modeller med i alt 9 varianter.
+	Hyundai har 4 modeller med i alt 10 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå til Hyundai EV-modeloversigt</a>
 </div>

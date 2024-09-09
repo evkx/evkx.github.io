@@ -240,9 +240,9 @@ Es verwendet acht [Kameras](../../../../technology/sensorsandcameras/cameras/), 
 
 Der Kofferraum bietet ein Ladevolumen von 561 Litern (19,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1234 Liter (43,6 CU FT). Auf dem Dach können Sie bis zu 70 kg (154,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 88 Litern (3,1 CU FT).
 
-Das maximale Gewicht des Fahrzeugs beträgt 2232 kg (4921 lbs) bei einem Leergewicht von 1844 kg (4065 lbs). Dies ermöglicht eine maximale Zuladung von 388 kg (855 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2271 kg (5007 lbs) bei einem Leergewicht von 1856 kg (4092 lbs). Dies ermöglicht eine maximale Zuladung von 415 kg (915 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Eine Anhängerkupplung ist bei diesem Modell serienmäßig. Das maximale Gesamtgewicht eines gebremsten Anhängers beträgt 1000 kg und eines ungebremsten Anhängers 750 kg (2205/1653 lbs).
+Eine Anhängerkupplung ist bei diesem Modell serienmäßig. Das maximale Gesamtgewicht eines gebremsten Anhängers beträgt 500 kg und eines ungebremsten Anhängers 500 kg (1102/1102 lbs).
 
 ## Verfügbarkeit & Preise
 

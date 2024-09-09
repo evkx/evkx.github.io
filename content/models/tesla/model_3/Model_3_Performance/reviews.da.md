@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Duelltest: Tesla Model 3 Performance vs. Hyundai Ioniq 5 N - hvilken er best?</h3>
+<p>Elbilforeningen: 09.09.2024</p>
+
+{{< youtube gnr9xvxUurs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Tesla Model 3 Performance Top Speed & Extreme Thermal Stress Test! Yikes, Improvements Needed</h3>
 <p>Out of Spec Reviews: 15.07.2024</p>
 

@@ -240,9 +240,9 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 
 El maletero ofrece una capacidad de carga de 561 litros. Con el asiento trasero plegado, esto se expande a 1234 litros. En el techo, puedes cargar hasta 70 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 88 litros.
 
-El peso máximo del vehículo es 2232 kg, con un peso base de 1844 kg. Esto permite una carga máxima de 388 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2271 kg, con un peso base de 1856 kg. Esto permite una carga máxima de 415 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 1000, y en uno sin freno es de 750 kg.
+Un enganche es equipo estándar en este modelo. El peso máximo total en un tráiler con freno es de 500, y en uno sin freno es de 500 kg.
 
 ## Disponibilidad y precios
 

@@ -41,7 +41,7 @@ Hyundai INSTER är en halvkombi tillgänglig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 5 är en SUV tillgänglig i 3 varianter.
+Hyundai Ioniq 5 är en SUV tillgänglig i 4 varianter.
 </p>
 	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-6f16b54c
+  translation: Hyundai Ioniq 5 XRT is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details.
+
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron is an all-electric premium SUV with a WLTP range of up to 355 km (221 miles). EVKX.net has all the details.
-
-- id: frontpage-description-fc8a4c77
-  translation: Volkswagen Id. UNYX is an all-electric coupe SUV with a CLTC range of up to 621 km (386 miles). EVKX.net has all the details.
 

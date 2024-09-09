@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-6f16b54c
+  translation: Hyundai Ioniq 5 XRT es un SUV totalmente eléctrico con una autonomía WLTP de hasta 481 km (299 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 355 km (221 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-fc8a4c77
-  translation: Volkswagen Id. UNYX es un SUV cupé totalmente eléctrico con un CLTC alcance de hasta 621 km (386 millas). EVKX.net tiene todos los detalles.
 

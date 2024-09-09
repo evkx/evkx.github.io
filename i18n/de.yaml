@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-6f16b54c
+  translation: Hyundai Ioniq 5 XRT ist ein vollelektrisches SUV mit einer Reichweite von bis zu 481 km (299 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 780 km (485 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 355 km (221 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-fc8a4c77
-  translation: Volkswagen Id. UNYX ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 621 km (386 Meilen). EVKX.net hat alle Details.
 

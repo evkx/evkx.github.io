@@ -347,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				1844 kg (4065 lbs)
+				1856 kg (4092 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2232 kg (4921 lbs)
+				2271 kg (5007 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				388 kg (855 lbs)
+				415 kg (915 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				1000 kg (2205 lbs)
+				500 kg (1102 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Anhängergewicht ungebremst
 			</td>
 			<td>
-				750 kg (1653 lbs)
+				500 kg (1102 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Stützlast
 			</td>
 			<td>
-				55 kg (121 lbs)
+				25 kg (55 lbs)
 			</td>
 		</tr>
 	</tbody>

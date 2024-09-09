@@ -41,7 +41,7 @@ Hyundai INSTER er en hatcback tilgjengelig i 2 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 5 er en SUV tilgjengelig i 3 varianter.
+Hyundai Ioniq 5 er en SUV tilgjengelig i 4 varianter.
 </p>
 	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

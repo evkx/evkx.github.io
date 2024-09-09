@@ -41,7 +41,7 @@ Hyundai INSTER ist ein Schrägheck, das in 2 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 5 ist ein SUV, der in 3 Varianten erhältlich ist.
+Hyundai Ioniq 5 ist ein SUV, der in 4 Varianten erhältlich ist.
 </p>
 	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

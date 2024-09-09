@@ -240,9 +240,9 @@ Den bruker åtte [kameraer](../../../../technology/sensorsandcameras/cameras/) f
 
 Bagasjerommet tilbyr en lastekapasitet på 561 liter. Med baksetene nedfelt, utvides dette til 1234 liter. På taket kan du laste opptil 70 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 88 liter.
 
-Kjøretøyets maksimale vekt er 2232 kg, med en basisvekt på 1844 kg. Dette gir en maksimal lastekapasitet på 388 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2271 kg, med en basisvekt på 1856 kg. Dette gir en maksimal lastekapasitet på 415 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
-Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt for en bremsesatt tilhenger er 1000, og for en ubremset tilhenger er det 750 kg .
+Et tilhengerfeste er standardutstyr på denne modellen. Maksimal tillatt vekt for en bremsesatt tilhenger er 500, og for en ubremset tilhenger er det 500 kg .
 
 ## Tilgjengelighet & pris
 

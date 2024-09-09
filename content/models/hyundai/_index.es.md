@@ -41,7 +41,7 @@ Hyundai INSTER es un hatchback disponible en 2 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Ioniq 5 es un SUV disponible en 3 variantes.
+Hyundai Ioniq 5 es un SUV disponible en 4 variantes.
 </p>
 	<a href="ioniq_5/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

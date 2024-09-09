@@ -240,9 +240,9 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 
 Bagagerummet har en lastekapacitet på 561 liter. Med det bageste sæde foldet ned, udvides dette til 1234 liter. På taget kan du laste op til 70 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 88 liter.
 
-Køretøjets maksimale vægt er 2232 kg, med en basisvægt på 1844 kg. Dette giver en maksimal last på 388 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2271 kg, med en basisvægt på 1856 kg. Dette giver en maksimal last på 415 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 1000, og for en ubremset trailer er det 750 kg.
+En anhængertræk er standardudstyr på denne model. Den maksimale tilladte vægt for en bremset trailer er 500, og for en ubremset trailer er det 500 kg.
 
 ## Tilgængelighed og priser
 

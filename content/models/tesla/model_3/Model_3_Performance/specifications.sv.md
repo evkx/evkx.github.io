@@ -347,7 +347,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1844 kg
+				1856 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2232 kg
+				2271 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				388 kg
+				415 kg
 			</td>
 		</tr>
 		<tr>
@@ -403,7 +403,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				1000 kg
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -411,7 +411,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max släpvagnsvikt, obromsad
 			</td>
 			<td>
-				750 kg
+				500 kg
 			</td>
 		</tr>
 		<tr>
@@ -419,7 +419,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Släpvagnskopplingens maximala vikt
 			</td>
 			<td>
-				55 kg
+				25 kg
 			</td>
 		</tr>
 	</tbody>

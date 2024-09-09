@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-6f16b54c
+  translation: Hyundai Ioniq 5 XRT er en helelektrisk SUV med en WLTP rekkevidde på opptil 481 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD er en helelektrisk SUV med en CLTC rekkevidde på opptil 780 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 355 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-fc8a4c77
-  translation: Volkswagen Id. UNYX er en helelektrisk coupe-SUV med en CLTC rekkevidde på opptil 621 km. EVKX.net har alle detaljene.
 
