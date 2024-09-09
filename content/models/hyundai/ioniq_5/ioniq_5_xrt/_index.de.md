@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 XRT
 linktitle: "Ioniq 5 XRT"
-description: "Hyundai Ioniq 5 XRT ist ein vollelektrisches SUV mit einer Reichweite von bis zu 481 km (299 Meilen). EVKX.net hat alle Details."
+description: "Hyundai Ioniq 5 XRT ist ein vollelektrisches SUV mit einer Reichweite von bis zu 402 km (250 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ Der Hyundai Ioniq 5 XRT liefert eine solide Leistung mit einer maximalen Leistun
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 84,0 kWh und eine nutzbare Nettokapazität von 80,0 kWh, was einen Puffer von 4,0 kWh (4,8%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 697 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard variiert die Reichweite des Fahrzeugs zwischen 481 und 454 km (299-282 Meilen), abhängig von der spezifischen Konfiguration und den Optionen, wie z.B. der Radgröße. Größere Räder können den Energieverbrauch erhöhen und somit die Gesamtreichweite verringern. Der Energieverbrauch des Fahrzeugs wird mit 16,6 kWh/100 km für das Basismodell und 17,6 kWh/100 km für das Spitzenmodell nach dem WLTP-Testzyklus bewertet. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 250 Meilen (402 km) mit einem Energieverbrauch von 3,1 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 233 kW. Das Laden von 0% auf 100% dauert etwa 41 Minuten, während ein typischer Ladevorgang von 10% auf 80% 18 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 192 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 76%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 154 kW, wobei jede Ladesitzung etwa 23 Minuten und 21 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Hyundai Ioniq 5 XRT zu einer bequemen Option für Langstreckenreisen.
 
@@ -44,7 +44,7 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 ### Ladeanschluss
 
-Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
+Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt. Dieses Modell verwendet [**NACS**](../../../../technology/charging/connectors/#nacs) für Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) für Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
 {{<evkxdisplayaddarticle />}}
 

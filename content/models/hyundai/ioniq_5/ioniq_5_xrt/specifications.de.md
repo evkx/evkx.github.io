@@ -80,50 +80,18 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 	<tbody>
 		<tr>
 			<td>
-				WLTP-Reichweite der Basisausstattung
+				EPA-Reichweite
 			</td>
 			<td>
-				481 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Basisausstattung
-			</td>
-			<td>
-				16,6 kWh/100km
+				250 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				WLTP-Verbrauch der Basisausstattung mit Ladeverlust
+				EPA-Verbrauch
 			</td>
 			<td>
-				17,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Reichweite der Top-Ausstattung
-			</td>
-			<td>
-				454 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Top-Ausstattung
-			</td>
-			<td>
-				17,6 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP-Verbrauch der Top-Ausstattung mit Ladeverlust
-			</td>
-			<td>
-				19,1 kwh/100km
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +193,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ Nordamerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -233,7 +201,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ China
 			</td>
 			<td>
-				GBT
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -241,7 +209,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschluss Typ Japan
 			</td>
 			<td>
-				CHAdeMO
+				CCS2
 			</td>
 		</tr>
 		<tr>

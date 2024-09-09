@@ -1,7 +1,7 @@
 ---
 title: Hyundai Ioniq 5 XRT
 linktitle: "Ioniq 5 XRT"
-description: "Hyundai Ioniq 5 XRT is an all-electric SUV with a WLTP range of up to 481 km (299 miles). EVKX.net has all the details."
+description: "Hyundai Ioniq 5 XRT is an all-electric SUV with a EPA range of up to 402 km (250 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -32,7 +32,7 @@ The Hyundai Ioniq 5 XRT delivers a solid performance with a maximum power of 239
 
 The high-capacity battery has a gross capacity of 84.0 kWh and a net usable capacity of 80.0 kWh, providing a 4.0 kWh buffer (4.8%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 481 to 454 km (299-282 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.6 kWh/100 km for the base model and 17.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 250 miles (402 km) with an energy consumption rate of 3.1 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 154 kW, with each charging session taking about 23 minutes and 21 seconds. This efficient charging capability makes the Hyundai Ioniq 5 XRT a convenient option for long-distance travel.
 
@@ -44,7 +44,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge Port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 

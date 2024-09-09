@@ -35,28 +35,15 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 	<tbody>
 		<tr>
 			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Garniture de base de la gamme WLTP
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Trim minimum de la gamme EPA
 				</a>
 			</td>
 			<td>
-				481 km / 299 mi
+				402 km / 250 mi
 			</td>
 			<td>
-				16,63kWh/100km / 3,7 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Garniture haut de gamme WLTP
-				</a>
-			</td>
-			<td>
-				454 km / 282 mi
-			</td>
-			<td>
-				17,62 kWh/100km / 3,5 mi/kWh
+				19,9 kWh/100km / 3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -84,24 +71,13 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 	<tbody>
 		<tr>
 			<td>
-				Garniture de base de la gamme WLTP avec 2KW AC
+				Garniture de base de la gamme EPA avec 2KW AC
 			</td>
 			<td>
-				 382km / 237 mi 
+				331 km / 206 mi
 			</td>
 			<td>
-				-20,6%
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Garniture supérieure de gamme WLTP avec 2KW AC
-			</td>
-			<td>
-				365 km / 227 mi
-			</td>
-			<td>
-				-19,6%
+				-17,7%
 			</td>
 		</tr>
 	</tbody>

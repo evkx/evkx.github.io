@@ -80,50 +80,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
+				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				481 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
-			</td>
-			<td>
-				16,6 kWh/100km
+				250 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				17,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
-			</td>
-			<td>
-				454 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
-			</td>
-			<td>
-				17,6 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
-			</td>
-			<td>
-				19,1 kwh/100km
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +193,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport North America
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -233,7 +201,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport China
 			</td>
 			<td>
-				GBT
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -241,7 +209,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Type chargeport Japan
 			</td>
 			<td>
-				CHAdeMO
+				CCS2
 			</td>
 		</tr>
 		<tr>

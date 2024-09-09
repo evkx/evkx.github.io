@@ -80,50 +80,18 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
-				Gamme WLTP de finition de base
+				Gamme EPA
 			</td>
 			<td>
-				481 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP du trim de base
-			</td>
-			<td>
-				16,6 kWh/100km
+				250 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP trim de base avec perte de charge
+				Consommation EPA
 			</td>
 			<td>
-				17,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Gamme WLTP haut de gamme
-			</td>
-			<td>
-				454 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de la garniture supérieure
-			</td>
-			<td>
-				17,6 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consommation WLTP de garniture supérieure avec perte de charge
-			</td>
-			<td>
-				19,1 kwh/100km
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +193,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez le port de charge Amérique du Nord
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -233,7 +201,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type port de charge Chine
 			</td>
 			<td>
-				GBT
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -241,7 +209,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez chargeport Japon
 			</td>
 			<td>
-				CHAdeMO
+				CCS2
 			</td>
 		</tr>
 		<tr>

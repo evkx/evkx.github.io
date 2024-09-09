@@ -80,50 +80,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 	<tbody>
 		<tr>
 			<td>
-				WLTP-räckvidd för grundläggande trim
+				EPA räckvidd
 			</td>
 			<td>
-				481 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Basic trim WLTP-förbrukning
-			</td>
-			<td>
-				16,6 kWh/100km
+				250 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Basic trim WLTP-förbrukning med laddningsförlust
+				EPA förbrukning
 			</td>
 			<td>
-				17,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topptrim WLTP-räckvidd
-			</td>
-			<td>
-				454 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topptrim WLTP-förbrukning
-			</td>
-			<td>
-				17,6 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Topp trim WLTP-förbrukning med laddningsförlust
-			</td>
-			<td>
-				19,1 kwh/100km
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +193,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Nordamerika
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -233,7 +201,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Kina
 			</td>
 			<td>
-				GBT
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -241,7 +209,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Japan
 			</td>
 			<td>
-				CHAdeMO
+				CCS2
 			</td>
 		</tr>
 		<tr>

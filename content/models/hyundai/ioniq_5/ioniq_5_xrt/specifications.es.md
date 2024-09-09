@@ -80,50 +80,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
-				Rango WLTP de equipamiento básico
+				rango EPA
 			</td>
 			<td>
-				481 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP de ajuste básico
-			</td>
-			<td>
-				16,6 kWh/100km
+				250 mi
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consumo WLTP de ajuste básico con pérdida de carga
+				Consumo EPA
 			</td>
 			<td>
-				17,2 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Rango WLTP de acabado superior
-			</td>
-			<td>
-				454 km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior
-			</td>
-			<td>
-				17,6 kWh/100km
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Consumo WLTP superior con pérdida de carga
-			</td>
-			<td>
-				19,1 kwh/100km
+				3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -225,7 +193,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Escriba puerto de carga Norteamérica
 			</td>
 			<td>
-				CCS1
+				NACS
 			</td>
 		</tr>
 		<tr>
@@ -233,7 +201,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo puerto de carga China
 			</td>
 			<td>
-				GBT
+				CCS2
 			</td>
 		</tr>
 		<tr>
@@ -241,7 +209,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Escriba puerto de carga Japón
 			</td>
 			<td>
-				CHAdeMO
+				CCS2
 			</td>
 		</tr>
 		<tr>

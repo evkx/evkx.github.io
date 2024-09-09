@@ -35,28 +35,15 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 	<tbody>
 		<tr>
 			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Equipamiento básico de la gama WLTP
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Equipo mínimo de rango EPA
 				</a>
 			</td>
 			<td>
-				481 km / 299 mi
+				402 km / 250 mi
 			</td>
 			<td>
-				16,63kWh/100km / 3,7 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					Equipamiento superior de gama WLTP
-				</a>
-			</td>
-			<td>
-				454 km / 282 mi
-			</td>
-			<td>
-				17,62 kWh/100km / 3,5 mi/kWh
+				19,9 kWh/100km / 3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -84,24 +71,13 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 	<tbody>
 		<tr>
 			<td>
-				Equipamiento básico gama WLTP con 2KW AC
+				Equipamiento básico gama EPA con 2KW AC
 			</td>
 			<td>
-				 382km / 237 mi 
+				331 km / 206 mi
 			</td>
 			<td>
-				-20,6%
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Equipo superior de gama WLTP con 2KW AC
-			</td>
-			<td>
-				365 km / 227 mi
-			</td>
-			<td>
-				-19,6%
+				-17,7%
 			</td>
 		</tr>
 	</tbody>

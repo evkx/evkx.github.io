@@ -35,28 +35,15 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 	<tbody>
 		<tr>
 			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde grunnleggende utstyrsnivå
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rekkevidde minimum utstyrsnivå
 				</a>
 			</td>
 			<td>
-				481 km / 299 mi
+				402 km / 250 mi
 			</td>
 			<td>
-				16,63kWh/100km / 3,7 mi/kWh
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="../../../../../guides/understandingrange/wltp/ ">
-					WLTP rekkevidde maks utstyrsniv
-				</a>
-			</td>
-			<td>
-				454 km / 282 mi
-			</td>
-			<td>
-				17,62 kWh/100km / 3,5 mi/kWh
+				19,9 kWh/100km / 3,1 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -84,24 +71,13 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 	<tbody>
 		<tr>
 			<td>
-				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
+				EPA-serien grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				 382km / 237 mi 
+				331 km / 206 mi
 			</td>
 			<td>
-				-20,6%
-			</td>
-		</tr>
-		<tr>
-			<td>
-				WLTP rekkevidde maks utstyrsniv med 2KW AC
-			</td>
-			<td>
-				365 km / 227 mi
-			</td>
-			<td>
-				-19,6%
+				-17,7%
 			</td>
 		</tr>
 	</tbody>
