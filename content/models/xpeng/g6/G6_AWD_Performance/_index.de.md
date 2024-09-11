@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 300 kW. Das Laden von 0% auf 100% dauert etwa 49 Minuten, während ein typischer Ladevorgang von 10% auf 80% 21 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 179 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 152 kW, wobei jede Ladesitzung etwa 18 Minuten und 20 Sekunden dauert. Diese effiziente Ladefähigkeit macht den XPENG G6 AWD Performance zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 24 kWh/100 km, würde die Fahrt etwa 9 Stunden und 21 Minuten dauern. Diese Reise würde drei Ladestopps von 6% auf 65% erfordern, mit einer gesamten Ladezeit von 62 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 23 kWh/100 km, würde die Fahrt etwa 9 Stunden und 17 Minuten dauern. Diese Reise würde drei Ladestopps von 6% auf 61% erfordern, mit einer gesamten Ladezeit von 57 Minuten.
 
 ### Bordladegerät
 
