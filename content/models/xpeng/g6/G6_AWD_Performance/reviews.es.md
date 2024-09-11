@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6/G9, Audi Q6 and Renault Scenic charging battle</h3>
+<p>Bjørn Nyland: 11.09.2024</p>
+
+{{< youtube Fq5sqGu73Xk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6 Performance 1000 km challenge</h3>
+<p>Bjørn Nyland: 11.09.2024</p>
+
+{{< youtube yHZjV1RY3YU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6 Performance range test</h3>
+<p>Bjørn Nyland: 10.09.2024</p>
+
+{{< youtube fE9O-ypIiY0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Is the Xpeng G6 a better buy than the Tesla Model Y? Driving REVIEW</h3>
 <p>Autogefühl: 16.08.2024</p>
 

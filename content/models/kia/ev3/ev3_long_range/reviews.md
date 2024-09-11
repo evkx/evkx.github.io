@@ -9,17 +9,24 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>SHOOTOUT: 2024 Kia Niro EV vs Hyundai Kona Electric</h3>
-<p>Electrifying: 07.01.2024</p>
+<h3>Kia EV3: The One We’ve Been Waiting For?</h3>
+<p>Fully Charged Show: 11.09.2024</p>
 
-{{< youtube HZBTF9eb6gs >}}
+{{< youtube Lu7qbFWf6i0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>The New Kia Niro EV Is Still The King Of Value For Money</h3>
-<p>Fully Charged Show: 22.08.2022</p>
+<h3>NEW KIA EV3 DRIVEN : Volvo EX30's worst nightmare </h3>
+<p>Electrifying: 11.09.2024</p>
 
-{{< youtube CP3NsnrLq5c >}}
+{{< youtube GciNqoDPq1c >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Kia EV3 revealed! – Best new electric SUV?</h3>
+<p>What Car?: 23.05.2024</p>
+
+{{< youtube rKL__-uNpMU >}}
 
 </div>
 <div class="mt-3 mb-3">
