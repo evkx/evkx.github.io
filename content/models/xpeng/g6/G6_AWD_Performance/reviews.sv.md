@@ -9,6 +9,27 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6 Performance driving impressions and summary</h3>
+<p>Bjørn Nyland: 16.09.2024</p>
+
+{{< youtube 3y8HSOf6slw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6 Performance interior review</h3>
+<p>Bjørn Nyland: 15.09.2024</p>
+
+{{< youtube Esj32nS-kgw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Xpeng G6 Performance 90-10 % acceleration, braking and noise test</h3>
+<p>Bjørn Nyland: 13.09.2024</p>
+
+{{< youtube 4WskZmQjSsQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Xpeng G6/G9, Audi Q6 and Renault Scenic charging battle</h3>
 <p>Bjørn Nyland: 11.09.2024</p>
 
