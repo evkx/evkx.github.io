@@ -46,6 +46,10 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,3 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Antriebsstrang
@@ -56,13 +60,28 @@ Der XPENG G6 AWD Performance verfügt über ein Allradantriebssystem, das von zw
 
 Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im XPENG G6 AWD Performance, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der XPENG G6 AWD Performance ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Comfort: Komfortlenkung und effizienter Gasannahme.
+- Standard: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand, und der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 ## Exterieur
 
@@ -84,6 +103,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
+Das Interieur des XPENG G6 AWD Performance ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer, bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität.
+
 ### Sitze
 
 Der XPENG G6 AWD Performance bietet Platz für fünf Passagiere mit zwei Vordersitzen und einer Dreiersitzbank hinten.
@@ -98,12 +119,14 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für Beifahrersitz)
 
 Verfügbar in:
 
@@ -118,12 +141,13 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Spl
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
 
-- **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -168,6 +192,10 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
 
+### Telefonspiegelung
+
+Der XPENG G6 AWD Performance unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
+
 ### Soundsystem
 
 Der XPENG G6 AWD Performance ist mit einer Soundsystemoption ausgestattet:
@@ -175,6 +203,10 @@ Der XPENG G6 AWD Performance ist mit einer Soundsystemoption ausgestattet:
 - **:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1200 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
+
+## Mobile App
+
+Der XPENG G6 AWD Performance wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
 
 ## Lichter
 
@@ -204,6 +236,8 @@ Der XPENG G6 AWD Performance verfügt über eine Reihe von standardmäßigen und
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im XPENG G6 AWD Performance, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im XPENG G6 AWD Performance, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
+
 ### Fahrautomatisierung
 
 Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
@@ -211,6 +245,12 @@ Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktion
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), neun [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 

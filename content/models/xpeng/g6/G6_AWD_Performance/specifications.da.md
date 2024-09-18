@@ -279,6 +279,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1635 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bagtil
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Trækningskoefficient
 			</td>
 			<td>
@@ -561,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +625,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +851,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +859,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +944,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +952,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1009,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1017,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Android Auto-understøttelse
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1025,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Apple Carplay support
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

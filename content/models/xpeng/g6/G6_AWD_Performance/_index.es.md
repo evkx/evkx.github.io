@@ -46,6 +46,10 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,3 kW de potencia, incluida la carga de otros vehículos.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -56,13 +60,28 @@ XPENG G6 AWD Performance tiene un sistema de tracción total sostenido por dos m
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el XPENG G6 AWD Performance. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Modos de conducción
+
+El XPENG G6 AWD Performance permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
+
+- Comfort: Dirección en modo Comfort y acelerador eficiente.
+- Standard: Dirección y acelerador equilibrados.
+- Sport: Dirección y acelerador dinámicos.
+- Individual: Configuraciones definidas por el usuario para la dirección y el acelerador.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 ### Frenado regenerativo
 
-[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
+[**Regeneración automática**](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. Sin embargo, el [frenado regenerativo](../../../../technology/regen/) se facilita mediante [**conducción de un solo pedal**](../../../../technology/regen/#one-pedal-driving) combinado con [**frenos combinados**](../../../../technology/regen/#manual-regen-using-brake-pedal). Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción, y **el modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural.
+
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 
@@ -84,6 +103,8 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+El interior del XPENG G6 AWD Performance está diseñado con una estética minimalista, con materiales de calidad media en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada.
+
 ### Asientos
 
 El XPENG G6 AWD Performance tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
@@ -98,12 +119,14 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
+- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory) (estándar para el conductor, no disponible para el pasajero)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
@@ -118,12 +141,13 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable manualmente)
 - reposacabezas ajustable en altura
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
 
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
 
-- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -168,6 +192,10 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
+### Espejo del teléfono
+
+Además, el XPENG G6 AWD Performance es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
 ### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el XPENG G6 AWD Performance.
@@ -175,6 +203,10 @@ Un tipo de sistema de sonido está disponible para el XPENG G6 AWD Performance.
 - Con el , obtienes 18 parlantes con una salida máxima del sistema de 1200 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
+## Aplicación móvil
+
+El XPENG G6 AWD Performance viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
 
 ## Luces
 
@@ -204,6 +236,8 @@ El XPENG G6 AWD Performance incluye varios [sistemas avanzados de asistencia al 
 
 [**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el XPENG G6 AWD Performance, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
 
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el XPENG G6 AWD Performance, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
+
 ### Automatización de la Conducción
 
 Con el sistema   de nivel 2, obtienes las siguientes funciones de automatización de la conducción.
@@ -211,6 +245,12 @@ Con el sistema   de nivel 2, obtienes las siguientes funciones de automatizació
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
+- [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), nueve [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

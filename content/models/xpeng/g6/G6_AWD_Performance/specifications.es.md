@@ -279,6 +279,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ancho de vía frontal
+			</td>
+			<td>
+				1635 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho de vía trasera
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Coeficiente de arrastre
 			</td>
 			<td>
@@ -561,7 +577,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +625,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +851,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +859,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +944,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +952,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1009,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1017,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte Android Auto
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1025,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Soporte Apple Carplay
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

@@ -36,7 +36,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 
 Den maksimale DC-opladningshastighed er 320kW. En fuld opladning fra 0 - 100 % ville tage 46 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 15 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 65%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 212kW. Hver opladningssession ville tage 18 minutter og 32 sekunder. Denne usædvanligt hurtige opladningskapacitet gør Audi RS e-tron GT til en af de mest effektive og bekvemme elbiler til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 8 timer og 55 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 65%, med en samlet opladningstid på 35 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 20,7 kWh/100 km, ville turen tage cirka 8 timer og 52 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 63%, med en samlet opladningstid på 32 minutter
 
 ### Ombordlader
 

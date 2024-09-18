@@ -36,7 +36,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 
 Maximal DC-laddningshastighet är 320 kW. En full laddning från 0 - 100 % tar 46 minuter, medan ett vanligare scenario på 10-80 % tar 15 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 65%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 212kW. Varje laddningssession tar 18 minuter och 32 sekunder. Denna exceptionellt snabba laddningskapacitet gör Audi RS e-tron GT till en av de mest effektiva och bekväma elbilarna för långresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 8 timmar och 55 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 65%, med en total laddningstid på 35 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 20,7 kWh/100 km, skulle resan ta ungefär 8 timmar och 52 minuter. Denna resa skulle kräva två laddningsstopp från 8% till 63%, med en total laddningstid på 32 minuter.
 
 ### Ombordladdare
 

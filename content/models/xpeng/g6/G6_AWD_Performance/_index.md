@@ -46,6 +46,10 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.3 kW of power, including the ability to charge other vehicles.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -56,13 +60,28 @@ The XPENG G6 AWD Performance features an all-wheel drive system powered by two m
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
+### Steering
+
+Dynamic steering is a standard on the XPENG G6 AWD Performance, varying the steering ratio based on driving speed for enhanced control and comfort.
+
+### Drive Modes
+
+The XPENG G6 AWD Performance lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Comfort: Comfort steering and efficent throttle.
+- Standard: Balanced steering and throttle.
+- Sport: Dynamic steering and throttle.
+- Individual: User-defined settings for steering and throttle.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
 
 ### Regenerative Braking
 
-[Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 ## Exterior
 
@@ -84,6 +103,8 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
+The interior of the XPENG G6 AWD Performance is designed with a minimalistic aesthetic, featuring medium-quality materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
+
 ### Seats
 
 The XPENG G6 AWD Performance accommodates five passengers with two front seats and a three-seat bench in the rear.
@@ -98,12 +119,14 @@ The following functionalities are available on the **** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory) (standard for driver, not available for passenger)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
 
 Available in:
 
@@ -118,12 +141,13 @@ The second row features a standard three-seat bench with a 40:60 split, allowing
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - Height adjustable headrest
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 ## Climate System
 
 There is one climate system available:
 
-- **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -168,6 +192,10 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
+### Phone Mirroring
+
+The XPENG G6 AWD Performance supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
+
 ### Sound System
 
 The XPENG G6 AWD Performance comes equipped with one sound system option:
@@ -175,6 +203,10 @@ The XPENG G6 AWD Performance comes equipped with one sound system option:
 - **:** Features 18 speakers and delivers a maximum output of 1200 watts.
 
 Additionally, the model includes 4 USB-C connections as standard.
+
+## Mobile App
+
+The XPENG G6 AWD Performance comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
 
 ## Lights
 
@@ -204,6 +236,8 @@ The XPENG G6 AWD Performance features a range of standard and optional [advanced
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the XPENG G6 AWD Performance, this side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the XPENG G6 AWD Performance, this system that alerts occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 With the   level 2 system, you get the following driving automation features.
@@ -211,6 +245,12 @@ With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
 
 {{<evkxdisplayaddarticle />}}
 

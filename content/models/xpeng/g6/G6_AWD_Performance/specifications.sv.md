@@ -279,6 +279,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Spårbredd fram
+			</td>
+			<td>
+				1635 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spårbredd bak
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Dragkoefficient
 			</td>
 			<td>
@@ -561,7 +577,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +625,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				Standard passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +851,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +859,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Backstartsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +944,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				EfficiencyAssist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +952,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1009,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Gestkontroll
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1017,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Android Auto Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1025,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Apple Carplay Support
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -46,6 +46,10 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
+### Bidirektionell laddning
+
+Denna modell stöder V2L (Vehicle 2 Load) vilket innebär att du kan driva elektriska apparater med upp till  kW effekt. Detta inkluderar att du kan nödladda andra elbilar med den.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -56,13 +60,28 @@ XPENG G6 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer,
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för XPENG G6 AWD Performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
+### Körlägen
+
+XPENG G6 AWD Performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 4 lägen:
+
+- Comfort: Komfortstyrning och effektiv gaspådrag.
+- Standard: Balanserad styrning och gaspedal.
+- Sport: Dynamisk styrning och gaspedal.
+- Individual: Användardefinierade inställningar för styrning och gaspådrag.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
+
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 ## Exteriör
 
@@ -84,6 +103,8 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+Interiören i XPENG G6 AWD Performance är designad med en minimalistisk estetik och har material av medelkvalitet genomgående. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet.
+
 ### Säten
 
 XPENG G6 AWD Performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
@@ -98,12 +119,14 @@ Följande funktioner är tillgängliga på **** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [Minnesfunktion](../../../../technology/seats/adjustment/#seat-memory) (standard för förare, inte tillgänglig för passagerare)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support) (standard för passagerarsäte)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
@@ -118,12 +141,13 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
 - höjdjusterbart nackstöd
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
 
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
 
-- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
@@ -168,6 +192,10 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### Telefon spegling
+
+Dessutom stöder XPENG G6 AWD Performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
 ### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance.
@@ -175,6 +203,10 @@ En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance.
 - Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
+## Mobilapp
+
+XPENG G6 AWD Performance kommer med en egen dedikerad mobilapp, tillgänglig för både Android- och iOS-enheter, som låter dig hantera och övervaka ditt fordon på distans. Appen erbjuder ett brett utbud av funktioner som är utformade för att förbättra din körupplevelse:
 
 ## Ljus
 
@@ -204,6 +236,8 @@ XPENG G6 AWD Performance inkluderar flera [avancerade förarassistanssystem](../
 
 [**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG G6 AWD Performance, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG G6 AWD Performance, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
+
 ### Körautomatisering
 
 Med   nivå 2-systemet får du följande funktioner för körautomatisering.
@@ -211,6 +245,12 @@ Med   nivå 2-systemet får du följande funktioner för körautomatisering.
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk Filbyte (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för sina förarassistanssystem.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), nio [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) övervakar fordonets omgivning.
 
 {{<evkxdisplayaddarticle />}}
 

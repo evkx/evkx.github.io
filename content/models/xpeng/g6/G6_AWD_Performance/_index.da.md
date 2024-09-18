@@ -46,6 +46,10 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
+### Bidirektionel opladning
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,3 kW effekt, inklusive opladning af andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -56,13 +60,28 @@ XPENG G6 AWD Performance har et firehjulstræk, der understøttes af to motorer,
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 
+### Styring
+
+Dynamisk styring er en standard-funktion på XPENG G6 AWD Performance. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+XPENG G6 AWD Performance lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+
+- Comfort: Komfortstyring og effektiv speeder.
+- Standard: Afbalanceret styring og speeder.
+- Sport: Dynamisk styring og speeder.
+- Individual: Brugerdefinerede indstillinger for styring og speeder.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved brug af friktionsbremser.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
+
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 ## Udvendig
 
@@ -84,6 +103,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+Interiøret i XPENG G6 AWD Performance er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet.
+
 ### Sæder
 
 XPENG G6 AWD Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
@@ -98,12 +119,14 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
@@ -118,12 +141,13 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
 
-- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -168,6 +192,10 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
+### Telefon spejling
+
+Yderligere understøtter XPENG G6 AWD Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
 ### Lydsystem
 
 Én type lydsystem er tilgængelig for XPENG G6 AWD Performance.
@@ -175,6 +203,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 - Med  får du 18 højttalere med en maksimal systemeffekt på 1200 watt.
 
 Modellen har 4 USB-C-forbindelser som standard.
+
+## Mobilapp
+
+Den XPENG G6 AWD Performance kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
 
 ## Lys
 
@@ -204,6 +236,8 @@ Den XPENG G6 AWD Performance inkluderer flere standard- og valgfri [avancerede f
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG G6 AWD Performance, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG G6 AWD Performance, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
 Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
@@ -211,6 +245,12 @@ Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -279,6 +279,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1635 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1650 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Coefficient de traînée
 			</td>
 			<td>
@@ -561,7 +577,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +585,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +625,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +851,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +859,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +944,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +952,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1009,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1017,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Android Auto
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1025,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

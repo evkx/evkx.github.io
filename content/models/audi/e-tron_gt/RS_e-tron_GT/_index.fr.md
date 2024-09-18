@@ -36,7 +36,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes. Cette capacité de charge exceptionnellement rapide fait de la Audi RS e-tron GT l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 8 heures et 55 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 65%, avec un temps de recharge total de 35 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 20,7 kWh/100 km, le voyage prendrait environ 8 heures et 52 minutes. Ce trajet nécessiterait deux arrêts de recharge de 6% à 63%, avec un temps de recharge total de 32 minutes.
 
 ### Chargeur embarqué
 

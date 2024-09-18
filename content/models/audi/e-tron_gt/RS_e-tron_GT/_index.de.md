@@ -36,7 +36,7 @@ Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoniz
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 320 kW. Das Laden von 0% auf 100% dauert etwa 46 Minuten, während ein typischer Ladevorgang von 10% auf 80% 15 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 265 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 65%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 212 kW, wobei jede Ladesitzung etwa 18 Minuten und 32 Sekunden dauert. Diese außergewöhnlich schnelle Ladefähigkeit macht den Audi RS e-tron GT zu einem der effizientesten und bequemsten EVs für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 8 Stunden und 55 Minuten dauern. Diese Reise würde zwei Ladestopps von 1% auf 65% erfordern, mit einer gesamten Ladezeit von 35 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 20,7 kWh/100 km, würde die Fahrt etwa 8 Stunden und 52 Minuten dauern. Diese Reise würde zwei Ladestopps von 6% auf 63% erfordern, mit einer gesamten Ladezeit von 32 Minuten.
 
 ### Bordladegerät
 
