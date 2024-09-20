@@ -279,10 +279,42 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				Track width front
+			</td>
+			<td>
+				1633 mm (64,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Track width rear
+			</td>
+			<td>
+				1649 mm (64,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Drag coefficient
 			</td>
 			<td>
-				0,238
+				0,248
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle front
+			</td>
+			<td>
+				16
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhang angle rear
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +577,7 @@ This model is available with a seat configuration with five seats.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard electric feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +585,7 @@ This model is available with a seat configuration with five seats.
 				Memory
 			</td>
 			<td>
-				Standard driver, not available passenger
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +593,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +601,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +609,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +617,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +625,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +641,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard passenger seat
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +657,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Not Available
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +867,7 @@ This model is available with a seat configuration with five seats.
 				Hill descent assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +875,7 @@ This model is available with a seat configuration with five seats.
 				Hill start assist
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +915,7 @@ This model is available with a seat configuration with five seats.
 				Left turn crash avoidance
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -904,6 +939,7 @@ This model is available with a seat configuration with five seats.
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +955,7 @@ This model is available with a seat configuration with five seats.
 				Speed limiter
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +963,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +971,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1028,7 @@ This model is available with a seat configuration with five seats.
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1036,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1044,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
-				Not available
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

@@ -103,7 +103,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i XPENG G6 AWD Performance er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet.
+Interiøret i XPENG G6 AWD Performance er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -127,7 +127,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/frontseats_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1080"  >}}
 
@@ -153,11 +153,14 @@ XPENG G6 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
 
 XPENG G6 AWD Performance har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
@@ -174,7 +177,7 @@ Modellen har ikke et head-up display.
 
 XPENG G6 AWD Performance er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det inkluderer også fysiske knapper og rullehjul, der giver dig mulighed for at kontrollere infotainmentsystemet, justere lydstyrken, skifte musiknumre og nemt styre andre vigtige funktioner.
 
 ### Spejle
 
@@ -188,7 +191,7 @@ XPENG G6 AWD Performance har et avanceret infotainmentsystem bygget på Android 
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder ruteplanlægning med opladningsstop.
 
 ### App store
 
@@ -211,6 +214,14 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 ## Mobilapp
 
 Den XPENG G6 AWD Performance kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Vindueskontrol**: Åbn og luk vinduerne hvor som helst fra.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
+- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
 
 ## Lys
 
@@ -244,7 +255,7 @@ Den XPENG G6 AWD Performance inkluderer flere standard- og valgfri [avancerede f
 
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med XPENG Pilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.

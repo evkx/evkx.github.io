@@ -279,10 +279,42 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Largeur de la voie avant
+			</td>
+			<td>
+				1633 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Largeur de voie arrière
+			</td>
+			<td>
+				1649 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Coefficient de traînée
 			</td>
 			<td>
-				0,238
+				0,248
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux avant
+			</td>
+			<td>
+				16
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Angle de porte-à-faux arrière
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +577,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Fonction électrique standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +585,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Mémoire
 			</td>
 			<td>
-				Conducteur standard, non disponible pour le passager
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +593,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +601,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +609,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +617,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +625,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +641,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +657,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +867,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +875,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +915,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -904,6 +939,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +955,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Limiteur de vitesse
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +963,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +971,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1028,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1036,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Android Auto
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1044,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support Apple Carplay
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

@@ -103,7 +103,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Das Interieur des XPENG G6 AWD Performance ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer, bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität.
+Das Interieur des XPENG G6 AWD Performance ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer, bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -127,7 +127,7 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 Verfügbar in:
 
 - Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/frontseats_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1080"  >}}
 
@@ -153,11 +153,14 @@ Der XPENG G6 AWD Performance umfasst mehrere Funktionen, um Komfort und Bequemli
 
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des XPENG G6 AWD Performance konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
 
 Der XPENG G6 AWD Performance hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -174,7 +177,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der XPENG G6 AWD Performance ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten und Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 
@@ -188,7 +191,7 @@ Der XPENG G6 AWD Performance verfügt über ein fortschrittliches Infotainmentsy
 
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine Routenplanung mit Ladestopps.
 
 ### App Store
 
@@ -211,6 +214,14 @@ Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das M
 ## Mobile App
 
 Der XPENG G6 AWD Performance wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+- **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
 
 ## Lichter
 
@@ -244,7 +255,7 @@ Der XPENG G6 AWD Performance verfügt über eine Reihe von standardmäßigen und
 
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem XPENG Pilot  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.

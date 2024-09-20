@@ -46,6 +46,10 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 Der Ladeanschluss befindet sich an der [rechten Hinterseite](../../../../technology/charging/connectors/#rear-side). Diese Position erleichtert das Laden an Stationen, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,3 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Antriebsstrang
@@ -56,17 +60,32 @@ Der XPENG G6 RWD Standard Range hat ein Heckantriebssystem, das von einem Motor 
 
 Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 160 mm.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im XPENG G6 RWD Standard Range, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
+### Fahrmodi
+
+Der XPENG G6 RWD Standard Range ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Comfort: Komfortlenkung und effizienter Gasannahme.
+- Standard: Ausgewogene Lenkung und Gas.
+- Sport: Dynamische Lenkung und Gas.
+- Individual: Benutzerdefinierte Einstellungen für Lenkung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
 
 ### Rekuperatives Bremsen
 
-[Regenerative Bremsung](../../../../technology/regen/) ist in zwei Modi verfügbar. Sie können [Ein-Pedal-Fahren](../../../../technology/regen/#one-pedal-driving) verwenden oder rollen und die [gemischten Bremsen](../../../../technology/regen/#manual-regen-using-brake-pedal) zur Regeneration nutzen. Das System stoppt das Fahrzeug vollständig mit Reibungsbremsen.
+[**Automatische Regeneration**](../../../../technology/regen/#automatic-regen-adaptive) ist in diesem Modell nicht verfügbar. Die [regenerative Bremsung](../../../../technology/regen/) wird jedoch durch [**Ein-Pedal-Fahren**](../../../../technology/regen/#one-pedal-driving) in Kombination mit [**gemischten Bremsen**](../../../../technology/regen/#manual-regen-using-brake-pedal) ermöglicht. Sie können zwischen zwei Stoppmodi für das Ein-Pedal-Fahren wählen. Der **Haltemodus** bringt das Fahrzeug mit Reibungsbremsen vollständig zum Stillstand, und der **Rollmodus** lässt das Fahrzeug rollen, bis es von selbst zum Stillstand kommt.
+
+Zusätzlich können Sie die Stärke der regenerativen Bremsung anpassen, wenn Sie den Fuß vom Gaspedal nehmen. Es stehen drei Stufen der regenerativen Bremsung zur Auswahl, sodass Sie das Fahrerlebnis nach Ihren Wünschen anpassen können.
 
 ## Exterieur
 
-Der XPENG G6 RWD Standard Range, mit Abmessungen von 4753 mm Länge, 1920 mm Breite und 1650 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Sie können zwischen 5 verschiedenen Lackfarben wählen, wenn Sie dieses Modell bestellen.
+Der XPENG G6 RWD Standard Range, mit Abmessungen von 4753 mm Länge, 1920 mm Breite und 1650 mm Höhe, fällt in die Kategorie der kompakten SUVs, auch als C-SUVs bekannt. Diese bieten eine Balance zwischen der Praktikabilität und Manövrierfähigkeit kleinerer Fahrzeuge und dem Raum und der Vielseitigkeit größerer SUVs. Der XPENG G6 RWD Standard Range ist in insgesamt 5 Lackfarben erhältlich, darunter mehrere auffällige Metallic-Optionen.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den XPENG G6 RWD Standard Range erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -74,7 +93,7 @@ Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für 
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate).
 
-Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -83,6 +102,8 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Das Interieur des XPENG G6 RWD Standard Range ist mit einer minimalistischen Ästhetik gestaltet und verfügt über Materialien mittlerer Qualität. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer, bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Sie können zwischen mehreren Innenraumdesigns wählen.
 
 ### Sitze
 
@@ -97,17 +118,16 @@ Die folgenden Funktionen sind für den ****-Sitz verfügbar:
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
-- [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
-- [Speicher](../../../../technology/seats/adjustment/#seat-memory) (Standard für Fahrer, nicht verfügbar für Beifahrer)
-- [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Verstellbare Seitenwangen des Sitzkissens](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Speicher](../../../../technology/seats/adjustment/#seat-memory)
+- [Belüftung](../../../../technology/seats/adjustment/#ventilation)
+- [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für Beifahrersitz)
 
 Verfügbar in:
 
 - Black [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-Leder-Polsterung](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
@@ -117,12 +137,13 @@ Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Spl
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
 - Höhenverstellbare Kopfstütze
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
 ## Klimaanlage
 
 Es gibt ein Klimasystem verfügbar:
 
-- **4-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer, Beifahrer und zwei separate Passagiere auf dem Rücksitz.
+- **2-Zonen-Klimasystem:** Unterstützt unterschiedliche Temperaturen für Fahrer und Beifahrer.
 
 Eine standardmäßige [Wärmepumpe](../../../../technology/hvac/#heat-pump) ist enthalten, die erheblich Energie sparen kann, die das Elektrofahrzeug sonst zum Heizen bei kaltem Wetter verwenden würde.
 
@@ -132,12 +153,14 @@ Der XPENG G6 RWD Standard Range umfasst mehrere Funktionen, um Komfort und Beque
 
 - **Keyless Entry:** Zugang zum Auto, ohne den Schlüssel finden zu müssen, solange Sie ihn bei sich haben.
 - **Keyless Go:** Starten Sie das Auto, ohne den Schlüssel zu benutzen.
-- **Elektrisch verstellbares Lenkrad**
+- **Easy Entry-Funktion:** Bewegt den Fahrersitz, um den Einstieg ins Auto zu erleichtern.
 - **Kabelloses Laden des Telefons**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Benutzeroberfläche und Steuerung
+
+Die Steuerungsschnittstelle des XPENG G6 RWD Standard Range konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
 
 Der XPENG G6 RWD Standard Range hat zwei Bildschirme mit Informationen für den Fahrer und die Passagiere. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und auf der rechten Seite befindet sich ein [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -154,7 +177,7 @@ Das Modell verfügt nicht über ein Head-up-Display.
 
 Der XPENG G6 RWD Standard Range ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten und Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 
@@ -164,9 +187,21 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ## Infotainment
 
+Der XPENG G6 RWD Standard Range verfügt über ein fortschrittliches Infotainmentsystem, das auf dem Android Automotive OS basiert, einer von Google speziell für Fahrzeug-Dashboards entwickelten Plattform. XPENG hat dieses robuste System mit einer eigenen Suite von Anwendungen erweitert, die nahtlose Navigation, umfassende Fahrzeugeinstellungen und vieles mehr bieten.
+
 ### Navigationssystem
 
-Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, die Sie benötigen, um Ihr Ziel mühelos zu erreichen.
+Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine Routenplanung mit Ladestopps.
+
+### App Store
+
+Das Infotainmentsystem umfasst einen App Store, in dem Sie Drittanbieter-Apps herunterladen können, die nativ auf dem Bildschirm des Autos laufen, ohne dass ein verbundenes Telefon erforderlich ist. Verfügbare Apps variieren je nach Markt, umfassen jedoch beliebte Optionen wie:
+
+- **Spotify:** Streamen Sie Millionen von Songs, Playlists und Podcasts direkt über das Infotainmentsystem Ihres Autos und bieten Sie endlose Unterhaltungsmöglichkeiten für Ihre Fahrt.
+
+### Telefonspiegelung
+
+Der XPENG G6 RWD Standard Range unterstützt Android Auto und Apple CarPlay, sodass Sie den Bildschirm Ihres Telefons auf dem Display des Autos spiegeln können. Diese Funktion ermöglicht es Ihnen, Apps wie Google Maps oder Waze direkt von Ihrem Telefon aus zu nutzen.
 
 ### Soundsystem
 
@@ -174,7 +209,19 @@ Der XPENG G6 RWD Standard Range ist mit einer Soundsystemoption ausgestattet:
 
 - **:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1200 Watt.
 
-Zusätzlich verfügt das Modell standardmäßig über 4 USB-C-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
+
+## Mobile App
+
+Der XPENG G6 RWD Standard Range wird mit einer speziellen mobilen App geliefert, die sowohl für Android- als auch für iOS-Geräte verfügbar ist und es Ihnen ermöglicht, Ihr Fahrzeug aus der Ferne zu verwalten und zu überwachen. Die App bietet eine Vielzahl von Funktionen, die Ihr Fahrerlebnis verbessern sollen:
+
+- **Finden Sie Ihr Fahrzeug:** Überprüfen Sie einfach den aktuellen Standort Ihres Autos.
+- **Vorkonditionierung:** Heizen oder kühlen Sie Ihr Auto vor, bevor Sie Ihre Reise beginnen, für optimalen Komfort.
+- **Fernparken:** Steuern Sie Ihr Auto mühelos, um es aus der Ferne zu parken oder aus einer Parklücke herauszufahren.
+- **Verriegeln & Entriegeln:** Verriegeln oder entriegeln Sie Ihre Autotüren sicher mit einem Tipp.
+- **Fenstersteuerung:** Öffnen und schließen Sie die Fenster von überall aus.
+- **Finden Sie Ihr Auto:** Lösen Sie das Horn oder die Lichter aus, um Ihr Auto in überfüllten Bereichen zu finden.
+- **Routenplanung:** Planen Sie Ihre Route und senden Sie sie direkt an das Navigationssystem Ihres Autos.
 
 ## Lichter
 
@@ -204,13 +251,21 @@ Der XPENG G6 RWD Standard Range verfügt über eine Reihe von standardmäßigen 
 
 [**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im XPENG G6 RWD Standard Range, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
 
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im XPENG G6 RWD Standard Range, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
+
 ### Fahrautomatisierung
 
-Mit dem   Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
+Mit dem XPENG Pilot  Level 2 System erhalten Sie die folgenden Fahrautomatisierungsfunktionen.
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
 - [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatischer Spurwechsel (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensoren & Kameras
+
+Dieses Modell verwendet Kameras, Radar und Ultraschallsensoren für seine Fahrerassistenzsysteme.
+Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), neun [Kameras](../../../../technology/sensorsandcameras/cameras/) und 12 [Ultraschallsensoren](../../../../technology/sensorsandcameras/ultrasonic/) überwachen die Umgebung des Fahrzeugs.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,4 +276,8 @@ Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklapp
 Das maximale Gewicht des Fahrzeugs beträgt 2600 kg (5732 lbs) bei einem Leergewicht von 2095 kg (4619 lbs). Dies ermöglicht eine maximale Zuladung von 505 kg (1113 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+
+## Verfügbarkeit & Preise
+
+Der XPENG G6 RWD Standard Range feierte seine Weltpremiere am 29.06.2023, mit Lieferungen ab January 2024.
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

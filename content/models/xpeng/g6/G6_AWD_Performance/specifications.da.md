@@ -314,7 +314,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Trækningskoefficient
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

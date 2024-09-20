@@ -314,7 +314,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

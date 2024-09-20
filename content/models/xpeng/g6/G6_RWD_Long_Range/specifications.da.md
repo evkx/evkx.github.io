@@ -139,6 +139,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				150s1p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				550,5
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>
@@ -263,10 +279,42 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Sporbredde foran
+			</td>
+			<td>
+				1633 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sporbredde bagtil
+			</td>
+			<td>
+				1649 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Trækningskoefficient
 			</td>
 			<td>
-				0,238
+				0,248
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Overhængsvinkel foran
+			</td>
+			<td>
+				16
+			</td>
+		</tr>
+		<tr>
+			<td>
+				OverhangAngleRear
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>
@@ -529,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -537,7 +585,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hukommelse
 			</td>
 			<td>
-				Standard fører, ikke tilgængelig for passager
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -545,7 +593,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +601,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +609,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +617,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +625,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +641,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +657,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -819,6 +867,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -826,6 +875,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -865,6 +915,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Undgåelse af venstresving
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -888,6 +939,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -903,6 +955,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hastighedsbegrænser
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -910,6 +963,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -917,6 +971,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -973,6 +1028,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bevægelseskontrol
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -980,7 +1036,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Android Auto-understøttelse
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -988,7 +1044,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Apple Carplay support
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

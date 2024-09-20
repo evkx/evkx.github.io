@@ -314,7 +314,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Dragkoefficient
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

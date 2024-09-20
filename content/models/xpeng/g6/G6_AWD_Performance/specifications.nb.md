@@ -314,7 +314,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Drag-koeffisient
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

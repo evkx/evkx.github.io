@@ -314,7 +314,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Coefficient de traînée
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

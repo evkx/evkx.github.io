@@ -314,7 +314,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,238
+				0,248
 			</td>
 		</tr>
 		<tr>

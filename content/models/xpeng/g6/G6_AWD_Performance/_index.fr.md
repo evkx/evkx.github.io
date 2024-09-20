@@ -103,7 +103,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur du XPENG G6 AWD Performance est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité moyenne. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée.
+L'intérieur du XPENG G6 AWD Performance est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité moyenne. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -127,7 +127,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/frontseats_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1080"  >}}
 
@@ -153,11 +153,14 @@ L'XPENG G6 AWD Performance comprend plusieurs fonctionnalités pour améliorer l
 
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
 - **Recharge sans fil pour téléphone**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interface utilisateur et contrôle
+
+L'interface de contrôle de ce modèle de véhicule électrique est centrée sur l'interaction avec l'écran et ne propose qu'une fonctionnalité limitée sur les boutons et les leviers. Cela peut entraîner une expérience utilisateur et une convivialité moins qu'idéales pour certains.
 
 Le XPENG G6 AWD Performance dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
@@ -174,7 +177,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 Le XPENG G6 AWD Performance est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des molettes, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 
@@ -188,7 +191,7 @@ Le XPENG G6 AWD Performance dispose d'un système d'infodivertissement avancé b
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avec des arrêts de recharge.
 
 ### App store
 
@@ -211,6 +214,14 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 ## Application mobile
 
 Le XPENG G6 AWD Performance est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Localiser votre véhicule** : Vérifiez facilement l'emplacement actuel de votre voiture.
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Stationnement à distance** : Contrôlez votre voiture à distance pour stationner ou sortir d'une place de stationnement.
+- **Verrouiller & Déverrouiller** : Verrouillez ou déverrouillez les portes de votre voiture en toute sécurité d'une simple pression.
+- **Contrôle des fenêtres** : Ouvrez et fermez les fenêtres depuis n'importe où.
+- **Trouver votre voiture** : Activez le klaxon ou les lumières pour retrouver votre voiture dans des zones fréquentées.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
 
 ## Lumières
 
@@ -244,7 +255,7 @@ Le XPENG G6 AWD Performance comprend plusieurs [systèmes avancés d'assistance 
 
 ### Automatisation de la Conduite
 
-Avec le système   de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
+Avec le système XPENG Pilot  de niveau 2, vous obtenez les fonctionnalités suivantes d'automatisation de la conduite.
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.

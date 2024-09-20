@@ -279,10 +279,42 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Spurweite vorne
+			</td>
+			<td>
+				1633 mm (64,3")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spurweite hinten
+			</td>
+			<td>
+				1649 mm (64,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Luftwiderstandsbeiwert
 			</td>
 			<td>
-				0,238
+				0,248
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel vorne
+			</td>
+			<td>
+				16
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Überhangwinkel hinten
+			</td>
+			<td>
+				19
 			</td>
 		</tr>
 	</tbody>
@@ -545,7 +577,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -553,7 +585,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Speicher
 			</td>
 			<td>
-				Standard Fahrer, nicht verfügbar für Beifahrer
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -561,7 +593,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -569,7 +601,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -577,7 +609,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -585,7 +617,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -593,7 +625,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +641,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Standard Beifahrersitz
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +657,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -835,6 +867,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Bergabfahrassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -842,6 +875,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Berganfahrassistent
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +915,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -904,6 +939,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -919,6 +955,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Geschwindigkeitsbegrenzer
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -926,6 +963,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -933,6 +971,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Automatische Notlenkung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -989,6 +1028,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Gestensteuerung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -996,7 +1036,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Android Auto Unterstützung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1004,7 +1044,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Apple Carplay Unterstützung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

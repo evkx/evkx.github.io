@@ -30,13 +30,13 @@ XPENG G6 RWD Long Range leverer en solid præstation med en maksimal effekt på 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 92,0 kWh og en nettoanvendelig kapacitet på 87,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 92,0 kWh og en nettoanvendelig kapacitet på 87,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 550,5 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 755 km (469 miles). Forbruget er 11,6kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 54 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 60%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 150kW. Hver opladningssession ville tage 19 minutter og 34 sekunder. Denne effektive opladningskapacitet gør XPENG G6 RWD Long Range til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 300kW. En fuld opladning fra 0 - 100 % ville tage 49 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 6% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 18 minutter og 20 sekunder. Denne effektive opladningskapacitet gør XPENG G6 RWD Long Range til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 7% til 69%, med en samlet opladningstid på 66 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 9 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 6% til 68%, med en samlet opladningstid på 65 minutter
 
 ### Ombordlader
 
@@ -46,15 +46,32 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
+### Bidirektionel opladning
+
+Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 3,3 kW effekt, inklusive opladning af andre køretøjer.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
 
-XPENG G6 RWD Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG G6 RWD Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
+
+### Styring
+
+Dynamisk styring er en standard-funktion på XPENG G6 RWD Long Range. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
+### Køretilstande
+
+XPENG G6 RWD Long Range lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+
+- Comfort: Komfortstyring og effektiv speeder.
+- Standard: Afbalanceret styring og speeder.
+- Sport: Dynamisk styring og speeder.
+- Individual: Brugerdefinerede indstillinger for styring og speeder.
 
 ### Bremser
 
@@ -62,11 +79,13 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Systemet stopper bilen helt ved brug af friktionsbremser.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Du kan vælge mellem to stopmodi til en-pedal kørsel. **Hold mode** stopper køretøjet helt ved brug af friktionsbremser, og **Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt.
+
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 ## Udvendig
 
-Den XPENG G6 RWD Long Range, med dimensioner på 4753 mm i længde, 1920 mm i bredde og 1650 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den XPENG G6 RWD Long Range, med dimensioner på 4753 mm i længde, 1920 mm i bredde og 1650 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. XPENG G6 RWD Long Range fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på XPENG G6 RWD Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -74,7 +93,7 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
-Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
+Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
@@ -83,6 +102,8 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 ## Interiør
+
+Interiøret i XPENG G6 RWD Long Range er designet med en minimalistisk æstetik og har materialer af medium kvalitet overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -97,17 +118,16 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
-- [Sædepude vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
+- højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory) (standard for fører, ikke tilgængelig for passager)
-- [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/frontseats_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1080"  >}}
 
@@ -117,12 +137,13 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - højdejusterbar nakkestøtte
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
 
-- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
@@ -132,12 +153,14 @@ XPENG G6 RWD Long Range inkluderer flere funktioner, der forbedrer komfort og be
 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
-- **Elektrisk justerbart rat**
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 {{<evkxdisplayaddarticle />}}
 
 ## Brugergrænseflade og kontrol
+
+Kontrolgrænsefladen for denne EV-model er fokuseret omkring skærminteraktion og har kun begrænset funktionalitet tilgængelig på knapper og stænger. For nogle kan dette medføre mindre end ideel brugeroplevelse og anvendelighed.
 
 XPENG G6 RWD Long Range har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
@@ -154,7 +177,7 @@ Modellen har ikke et head-up display.
 
 XPENG G6 RWD Long Range er udstyret med en enkelt type rat:
 
-- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det giver også intuitiv kontrol over infotainmentsystemet, så du nemt kan justere lydstyrken, skifte musiknumre og styre andre vigtige funktioner.
+- **Rundt Rat**: Dette rat har integreret opvarmning for øget komfort i koldt vejr. Det inkluderer også fysiske knapper og rullehjul, der giver dig mulighed for at kontrollere infotainmentsystemet, justere lydstyrken, skifte musiknumre og nemt styre andre vigtige funktioner.
 
 ### Spejle
 
@@ -164,9 +187,21 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+XPENG G6 RWD Long Range har et avanceret infotainmentsystem bygget på Android Automotive OS, en platform fra Google specielt designet til bilens dashboards. For at forbedre dette robuste system har XPENG integreret deres egen suite af applikationer, der giver problemfri navigation, omfattende bilindstillinger og meget mere.
+
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder ruteplanlægning med opladningsstop.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
+
+### Telefon spejling
+
+Yderligere understøtter XPENG G6 RWD Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
 ### Lydsystem
 
@@ -174,7 +209,19 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 - Med  får du 18 højttalere med en maksimal systemeffekt på 1200 watt.
 
-Modellen har 4 USB-C-forbindelser som standard.
+Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
+## Mobilapp
+
+Den XPENG G6 RWD Long Range kommer med sin dedikerede mobilapp, tilgængelig til både Android og iOS-enheder, som giver dig mulighed for at administrere og overvåge dit køretøj eksternt. Appen tilbyder et bredt udvalg af funktioner designet til at forbedre din køreoplevelse:
+
+- **Find din bil**: Tjek nemt bilens aktuelle placering.
+- **Forvarmning**: Forvarm eller køl din bil, før du starter din rejse, for optimal komfort.
+- **Fjernparkering**: Styr din bil nemt for at parkere eller forlade en parkeringsplads eksternt.
+- **Lås & Lås op**: Lås eller lås op for bilens døre sikkert med et tryk.
+- **Vindueskontrol**: Åbn og luk vinduerne hvor som helst fra.
+- **Find din bil**: Aktiver hornet eller lysene for at finde din bil i tæt befolkede områder.
+- **Ruteplanlægning**: Planlæg din rute og send den direkte til bilens navigationssystem.
 
 ## Lys
 
@@ -204,13 +251,21 @@ Den XPENG G6 RWD Long Range inkluderer flere standard- og valgfri [avancerede f�
 
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på XPENG G6 RWD Long Range, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på XPENG G6 RWD Long Range, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
-Med   niveau 2-systemet får du følgende funktioner til køreautomatisering.
+Med XPENG Pilot  niveau 2-systemet får du følgende funktioner til køreautomatisering.
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
 - [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
+- [**Automatisk Vognbaneskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
+
+### Sensorer & Kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til sine førerassistentsystemer.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåger køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -221,4 +276,26 @@ Bagagerummet har en lastekapacitet på 571 liter. Med det bageste sæde foldet n
 Køretøjets maksimale vægt er 2600 kg, med en basisvægt på 2095 kg. Dette giver en maksimal last på 505 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 29.06.2023, og leveringerne startede i January 2024.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 476 630,00 NOK (Norge)
+
+## Alternative Modeller
+
+I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til XPENG G6 RWD Long Range, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
+
+- [Tesla Model Y Performance](/models/tesla/model_y/model_y_performance/)
+- [Volkswagen ID.4 GTX 4MOTION](/models/volkswagen/id.4/id.4_gtx_4motion/)
+- [Hyundai Ioniq 5 Long Range AWD](/models/hyundai/ioniq_5/ioniq_5_long_range_awd/)
+- [Kia EV6 Long Range AWD](/models/kia/ev6/ev6_long_range_awd/)
+
+<a href="https://db.evkx.net/evcompare?evs=d3b76d%2c1ee65f%2c0cb6ee%2cbf704f%2ca1c57c" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Range" >}}
