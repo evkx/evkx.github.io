@@ -124,6 +124,9 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 			<a href="nissan"><img src="https://media.evkx.net/multimedia/models/nissan/logo_xst.png" alt="Nissan" title="Nissan" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="onvo"><img src="https://media.evkx.net/multimedia/models/onvo/logo_xst.png" alt="Onvo" title="Onvo" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="opel"><img src="https://media.evkx.net/multimedia/models/opel/logo_xst.png" alt="Opel" title="Opel" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -492,6 +495,13 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	Nissan hat 1 Modelle mit insgesamt 4 Varianten.
 	</p>
 	<a href="nissan/" class="btn btn-outline-primary" role="button">Gehe zu Nissan EV-Modellübersicht</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>Onvo</h2>
+	<p>
+	Onvo hat 1 Modelle mit insgesamt 1 Varianten.
+	</p>
+	<a href="onvo/" class="btn btn-outline-primary" role="button">Gehe zu Onvo EV-Modellübersicht</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
