@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-6d850020
+  translation: Onvo L60 AWD är en helelektrisk SUV med en CLTC räckvidd på upp till 730 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-6f16b54c
   translation: Hyundai Ioniq 5 XRT är en helelektrisk SUV med en EPA räckvidd på upp till 402 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-80822ada
   translation: Audi S6 Avant e-tron är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 647 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-8a79e429
-  translation: Audi Q4 35 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer.
 

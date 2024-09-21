@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-6d850020
+  translation: Onvo L60 AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 730 km (454 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-6f16b54c
   translation: Hyundai Ioniq 5 XRT ist ein vollelektrisches SUV mit einer Reichweite von bis zu 402 km (250 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-80822ada
   translation: Audi S6 Avant e-tron ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 647 km (402 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-8a79e429
-  translation: Audi Q4 35 e-tron ist ein vollelektrisches Premium-SUV mit einer Reichweite von bis zu 355 km (221 Meilen). EVKX.net hat alle Details.
 
