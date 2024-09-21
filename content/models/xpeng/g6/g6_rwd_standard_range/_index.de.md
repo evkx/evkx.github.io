@@ -275,7 +275,7 @@ Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklapp
 
 Das maximale Gewicht des Fahrzeugs beträgt 2553 kg (5628 lbs) bei einem Leergewicht von 2025 kg (4464 lbs). Dies ermöglicht eine maximale Zuladung von 528 kg (1164 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
-Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+Eine Anhängerkupplung kann zum Fahrzeug hinzugefügt werden. Das maximal zulässige Gewicht für einen gebremsten Anhänger beträgt 1500 kg (3307 lbs), während es für einen ungebremsten Anhänger 750 kg (1653 lbs) beträgt.
 
 ## Verfügbarkeit & Preise
 

@@ -408,6 +408,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Maksimum vekt tilhenger med bremse
+			</td>
+			<td>
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksvekt tilhenger m/brems
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Maksvekt på tilhengerkobling
 			</td>
 			<td>

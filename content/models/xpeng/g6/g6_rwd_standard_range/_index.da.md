@@ -275,7 +275,7 @@ Bagagerummet har en lastekapacitet på 571 liter. Med det bageste sæde foldet n
 
 Køretøjets maksimale vægt er 2553 kg, med en basisvægt på 2025 kg. Dette giver en maksimal last på 528 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
 
-Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt for en bremset trailer er 1500 kg, mens den for en ubremset trailer er 750 kg.
 
 ## Tilgængelighed og priser
 

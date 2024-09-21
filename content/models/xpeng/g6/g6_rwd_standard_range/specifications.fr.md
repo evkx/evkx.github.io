@@ -392,6 +392,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Poids maximum de la remorque freinée
+			</td>
+			<td>
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la remorque non freinée
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Poids maximum de la boule de remorquage
 			</td>
 			<td>

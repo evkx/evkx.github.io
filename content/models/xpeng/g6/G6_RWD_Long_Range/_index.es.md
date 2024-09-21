@@ -275,7 +275,7 @@ El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero 
 
 El peso máximo del vehículo es 2553 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 528 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
-Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 1500 kg, mientras que para un tráiler sin freno es de 750 kg.
 
 ## Disponibilidad y precios
 

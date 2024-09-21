@@ -392,6 +392,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Peso máximo del remolque frenado
+			</td>
+			<td>
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo del remolque sin frenos
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Peso máximo de la bola de remolque
 			</td>
 			<td>

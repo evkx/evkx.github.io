@@ -275,7 +275,7 @@ The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat
 
 The vehicle’s maximum weight is 2638 kg (5816 lbs), with a base weight of 2143 kg (4725 lbs). This allows for a maximum load of 495 kg (1091 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 1500 kg (3307 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
 ## Availability & Pricing
 

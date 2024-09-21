@@ -408,6 +408,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Max släpvagnsvikt, bromsad
+			</td>
+			<td>
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max släpvagnsvikt, obromsad
+			</td>
+			<td>
+				750 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Släpvagnskopplingens maximala vikt
 			</td>
 			<td>

@@ -275,7 +275,7 @@ Bagageutrymmet erbjuder en lastkapacitet på 571 liter. Med baksätena nedfälld
 
 Fordonets maximala vikt är 2553 kg, med en grundvikt på 2025 kg. Detta tillåter en maximal last på 528 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 
-Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+En dragkrok kan läggas till fordonet. Den maximala tillåtna vikten för en bromsad släpvagn är 1500 kg, medan för en obromsad släpvagn är den 750 kg.
 
 ## Tillgänglighet och pris
 

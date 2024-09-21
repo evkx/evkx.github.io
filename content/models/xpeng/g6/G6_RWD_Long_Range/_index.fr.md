@@ -275,7 +275,7 @@ Le coffre offre une capacité de chargement de 571 litres. Avec les sièges arri
 
 Le poids maximum du véhicule est de 2553 kg, avec un poids de base de 2025 kg. Cela permet une charge maximale de 528 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 1500 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
 ## Disponibilité et prix
 
