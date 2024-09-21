@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der XPENG G6 AWD Performance liefert eine solide Leistung mit einer maximalen Leistung von 358 kW (487 PS / 480 bhp) und einem Gesamtdrehmoment von 660 Nm (487 lb-ft). Er beschleunigt in 3,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 202 km/h (126 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der XPENG G6 AWD Performance liefert eine solide Leistung mit einer maximalen Leistung von 358 kW (487 PS / 480 bhp) und einem Gesamtdrehmoment von 660 Nm (487 lb-ft). Er beschleunigt in 3,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -191,7 +191,7 @@ Der XPENG G6 AWD Performance verfügt über ein fortschrittliches Infotainmentsy
 
 ### Navigationssystem
 
-Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine Routenplanung mit Ladestopps.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), n
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 71 Litern (2,5 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2600 kg (5732 lbs) bei einem Leergewicht von 2095 kg (4619 lbs). Dies ermöglicht eine maximale Zuladung von 505 kg (1113 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2638 kg (5816 lbs) bei einem Leergewicht von 2143 kg (4725 lbs). Dies ermöglicht eine maximale Zuladung von 495 kg (1091 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 495 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 

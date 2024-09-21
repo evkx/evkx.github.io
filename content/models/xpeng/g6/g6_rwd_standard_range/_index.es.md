@@ -26,11 +26,11 @@ Hemos separado nuestro artículo XPENG G6 RWD Standard Range en secciones. Si de
 
 ## Rendimiento
 
-El XPENG G6 RWD Standard Range ofrece un rendimiento sólido con una potencia máxima de 218 kW (296 hp) y un par total de 440 Nm. Puede acelerar de 0 a 100 km/h en 5,9 segundos y alcanza una velocidad máxima de 202 km/h, lo que lo hace competitivo en su clase.
+El XPENG G6 RWD Standard Range ofrece un rendimiento modesto con una potencia máxima de 190 kW (258 hp) y un par total de 440 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 67,0 kWh y una capacidad neta utilizable de 66,0 kWh, proporcionando un buffer de 1,0 kWh (1,5%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 67,0 kWh y una capacidad neta utilizable de 66,0 kWh, proporcionando un buffer de 1,0 kWh (1,5%) para la protección de la batería. Operando a un voltaje nominal de 512 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 435 km, con una tasa de consumo de energía de 15,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alime
 
 ## Tren de transmisión
 
-XPENG G6 RWD Standard Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+XPENG G6 RWD Standard Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 ### Suspensión
 
@@ -191,7 +191,7 @@ El XPENG G6 RWD Standard Range cuenta con un sistema de infoentretenimiento avan
 
 ### Sistema de navegación
 
-El sistema de navegación integrado utiliza mapas detallados y ofrece planificación de rutas con paradas de carga.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### App Store
 
@@ -271,13 +271,22 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 71 litros.
+El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2600 kg, con un peso base de 2095 kg. Esto permite una carga máxima de 505 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2553 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 528 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 
 ## Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 29.06.2023 y las entregas comenzaron en January 2024.
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al XPENG G6 RWD Standard Range que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=d8a305%2cfcf585" target="_blank">Explora una comparación detallada de estos modelos.</a>
+
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Rango" >}}

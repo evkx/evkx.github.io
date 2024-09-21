@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 AWD Perfo
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				202 km/h (126 mph)
+				200 km/h (124 mph)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2095 kg (4619 lbs)
+				2143 kg (4725 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2638 kg (5816 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				495 kg (1091 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Größe des Frunks
+				Maximales Anhängergewicht gebremst
 			</td>
 			<td>
-				71 Liter (3 cu-ft)
+				1500 kg (3307 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximales Anhängergewicht ungebremst
+			</td>
+			<td>
+				750 kg (1653 lbs)
 			</td>
 		</tr>
 		<tr>

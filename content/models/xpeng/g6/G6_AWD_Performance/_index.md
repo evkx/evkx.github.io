@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The XPENG G6 AWD Performance delivers a solid performance with a maximum power of 358 kW (487 hp / 480 bhp) and a total torque of 660 Nm (487 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 202 km/h (126 mph), making it competitive within its class.
+The XPENG G6 AWD Performance delivers a solid performance with a maximum power of 358 kW (487 hp / 480 bhp) and a total torque of 660 Nm (487 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -191,7 +191,7 @@ The XPENG G6 AWD Performance features an advanced infotainment system built on A
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers route planning with charging stops.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nin
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 71 liters (2.5 CU FT).
+The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2600 kg (5732 lbs), with a base weight of 2095 kg (4619 lbs). This allows for a maximum load of 505 kg (1113 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2638 kg (5816 lbs), with a base weight of 2143 kg (4725 lbs). This allows for a maximum load of 495 kg (1091 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

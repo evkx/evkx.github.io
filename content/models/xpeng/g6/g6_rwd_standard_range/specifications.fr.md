@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Puissance de pointe
 			</td>
 			<td>
-				218 KW (296 ch)
+				190 KW (258 ch)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Vitesse maximale
 			</td>
 			<td>
-				202 km/h
+				200 km/h
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -151,6 +151,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				215 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				512
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +388,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				1374 litre
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Taille du coffre
-			</td>
-			<td>
-				71 litre
 			</td>
 		</tr>
 		<tr>

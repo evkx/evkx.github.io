@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 AWD Perfo
 				Tophastighed
 			</td>
 			<td>
-				202 km/t
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2095 kg
+				2143 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2600 kg
+				2638 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				505 kg
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Størrelse frunk
+				Max trailervægt bremset
 			</td>
 			<td>
-				71 liter
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks. anhængervægt uden bremse
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Standar
 				Peak power
 			</td>
 			<td>
-				218 KW (296 hp /292 bhp)
+				190 KW (258 hp /255 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Standar
 				Top speed
 			</td>
 			<td>
-				202 kph (126 mph)
+				200 kph (124 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Standar
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -151,6 +151,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				215 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				512
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2095 kg (4619 lbs)
+				2025 kg (4464 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2553 kg (5628 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				528 kg (1164 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +388,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				1374 liter (49 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
-			</td>
-			<td>
-				71 liter (3 cu-ft)
 			</td>
 		</tr>
 		<tr>

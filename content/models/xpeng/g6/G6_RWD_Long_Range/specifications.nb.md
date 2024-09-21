@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 RWD Long R
 				Maks effekt
 			</td>
 			<td>
-				218 KW (296 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 RWD Long R
 				Topphastighet
 			</td>
 			<td>
-				202 km/t
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 RWD Long R
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -78,6 +78,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-rekkevidde
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk
+			</td>
+			<td>
+				15,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbruk med ladetap
+			</td>
+			<td>
+				17,5 kWh/100km
+			</td>
+		</tr>
 		<tr>
 			<td>
 				CLTC rekkevidde for minimum utstyrsnivå
@@ -339,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +379,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +404,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				1374 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse frunk
-			</td>
-			<td>
-				71 liter
 			</td>
 		</tr>
 		<tr>

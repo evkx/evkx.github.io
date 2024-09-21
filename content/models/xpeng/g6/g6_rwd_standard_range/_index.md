@@ -26,11 +26,11 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The XPENG G6 RWD Standard Range delivers a solid performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 202 km/h (126 mph), making it competitive within its class.
+The XPENG G6 RWD Standard Range offers modest performance with a maximum power of 190 kW (258 hp / 255 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 67.0 kWh and a net usable capacity of 66.0 kWh, providing a 1.0 kWh buffer (1.5%) for battery protection. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
+The high-capacity battery has a gross capacity of 67.0 kWh and a net usable capacity of 66.0 kWh, providing a 1.0 kWh buffer (1.5%) for battery protection. Operating at a nominal voltage of 512 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 435 km (270 miles), with an energy consumption rate of 15.2 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -54,7 +54,7 @@ This model supports V2L (Vehicle to Load), allowing you to power electrical equi
 
 ## Drivetrain
 
-The XPENG G6 RWD Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+The XPENG G6 RWD Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 ### Suspension
 
@@ -191,7 +191,7 @@ The XPENG G6 RWD Standard Range features an advanced infotainment system built o
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers route planning with charging stops.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### App Store
 
@@ -271,13 +271,22 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nin
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 71 liters (2.5 CU FT).
+The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2600 kg (5732 lbs), with a base weight of 2095 kg (4619 lbs). This allows for a maximum load of 505 kg (1113 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2553 kg (5628 lbs), with a base weight of 2025 kg (4464 lbs). This allows for a maximum load of 528 kg (1164 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 
 ## Availability & Pricing
 
 The XPENG G6 RWD Standard Range had its world premiere on 29.06.2023, with deliveries starting in January 2024.
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the XPENG G6 RWD Standard Range that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=d8a305%2cfcf585" target="_blank">Explore a detailed comparison of these models.</a>
+
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Range" >}}

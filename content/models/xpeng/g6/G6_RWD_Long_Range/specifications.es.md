@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Long 
 				Potencia máxima
 			</td>
 			<td>
-				218 KW (296 hp)
+				210 KW (286 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Long 
 				Velocidad máxima
 			</td>
 			<td>
-				202 kph
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Long 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -78,6 +78,30 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				Rango WLTP
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP
+			</td>
+			<td>
+				15,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP con pérdida de carga
+			</td>
+			<td>
+				17,5 kWh/100km
+			</td>
+		</tr>
 		<tr>
 			<td>
 				Rango CLTC de equipamiento básico
@@ -339,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +379,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +404,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1374 litro
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tamaño frunk
-			</td>
-			<td>
-				71 litro
 			</td>
 		</tr>
 		<tr>

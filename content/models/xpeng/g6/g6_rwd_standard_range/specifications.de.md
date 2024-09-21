@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Stand
 				Spitzenleistung
 			</td>
 			<td>
-				218 KW (296 PS /292 bhp)
+				190 KW (258 PS /255 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Stand
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				202 km/h (126 mph)
+				200 km/h (124 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Stand
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -151,6 +151,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				215 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nennspannung
+			</td>
+			<td>
+				512
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2095 kg (4619 lbs)
+				2025 kg (4464 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +355,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2553 kg (5628 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				528 kg (1164 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +388,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1374 Liter (49 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Größe des Frunks
-			</td>
-			<td>
-				71 Liter (3 cu-ft)
 			</td>
 		</tr>
 		<tr>

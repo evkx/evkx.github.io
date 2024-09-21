@@ -26,7 +26,7 @@ Nous avons séparé notre article XPENG G6 AWD Performance en sections. Si vous 
 
 ## Performances
 
-La XPENG G6 AWD Performance offre des performances solides avec une puissance maximale de 358 kW (487 ch) et un couple total de 660 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 202 km/h, ce qui la rend compétitive dans sa catégorie.
+La XPENG G6 AWD Performance offre des performances solides avec une puissance maximale de 358 kW (487 ch) et un couple total de 660 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -191,7 +191,7 @@ Le XPENG G6 AWD Performance dispose d'un système d'infodivertissement avancé b
 
 ### Système de navigation
 
-Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avec des arrêts de recharge.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### App store
 
@@ -271,9 +271,9 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 571 litres. Avec les sièges arrière rabattus, cette capacité passe à 1374 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 71 litres.
+Le coffre offre une capacité de chargement de 571 litres. Avec les sièges arrière rabattus, cette capacité passe à 1374 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg.
 
-Le poids maximum du véhicule est de 2600 kg, avec un poids de base de 2095 kg. Cela permet une charge maximale de 505 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
+Le poids maximum du véhicule est de 2638 kg, avec un poids de base de 2143 kg. Cela permet une charge maximale de 495 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 495 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
 

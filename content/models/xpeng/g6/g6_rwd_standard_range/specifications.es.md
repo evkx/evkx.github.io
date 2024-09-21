@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Stand
 				Potencia máxima
 			</td>
 			<td>
-				218 KW (296 hp)
+				190 KW (258 hp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Stand
 				Velocidad máxima
 			</td>
 			<td>
-				202 kph
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 RWD Stand
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -151,6 +151,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				215 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				512
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +388,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1374 litro
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tamaño frunk
-			</td>
-			<td>
-				71 litro
 			</td>
 		</tr>
 		<tr>

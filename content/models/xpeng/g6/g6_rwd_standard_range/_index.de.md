@@ -26,11 +26,11 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der XPENG G6 RWD Standard Range liefert eine solide Leistung mit einer maximalen Leistung von 218 kW (296 PS / 292 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 5,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 202 km/h (126 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der XPENG G6 RWD Standard Range bietet eine bescheidene Leistung mit einer maximalen Leistung von 190 kW (258 PS / 255 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 6,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn eher mit herkömmlichen Verbrennungsmotorfahrzeugen vergleichbar macht.
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 67,0 kWh und eine nutzbare Nettokapazität von 66,0 kWh, was einen Puffer von 1,0 kWh (1,5%) zum Schutz der Batterie bietet. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 67,0 kWh und eine nutzbare Nettokapazität von 66,0 kWh, was einen Puffer von 1,0 kWh (1,5%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 512 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
 Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 435 km (270 Meilen) mit einem Energieverbrauch von 15,2 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -54,7 +54,7 @@ Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektris
 
 ## Antriebsstrang
 
-Der XPENG G6 RWD Standard Range hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Die verwendeten Motoren sind [Permanentmagnet-Synchronmotoren](../../../../technology/motors/pmsm/).
+Der XPENG G6 RWD Standard Range hat ein Heckantriebssystem, das von einem Motor an der Hinterachse unterstützt wird. Der verwendete Motor ist ein [Permanentmagnet-Synchronmotor](../../../../technology/motors/pmsm/).
 
 ### Federung
 
@@ -191,7 +191,7 @@ Der XPENG G6 RWD Standard Range verfügt über ein fortschrittliches Infotainmen
 
 ### Navigationssystem
 
-Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine Routenplanung mit Ladestopps.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### App Store
 
@@ -271,13 +271,22 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), n
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 71 Litern (2,5 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2600 kg (5732 lbs) bei einem Leergewicht von 2095 kg (4619 lbs). Dies ermöglicht eine maximale Zuladung von 505 kg (1113 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2553 kg (5628 lbs) bei einem Leergewicht von 2025 kg (4464 lbs). Dies ermöglicht eine maximale Zuladung von 528 kg (1164 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 
 ## Verfügbarkeit & Preise
 
 Der XPENG G6 RWD Standard Range feierte seine Weltpremiere am 29.06.2023, mit Lieferungen ab January 2024.
+
+## Alternative Modelle
+
+Im schnell wachsenden EV-Markt hat EVKX.net mehrere Alternativen zum XPENG G6 RWD Standard Range identifiziert, die aufgrund von Funktionen, Spezifikationen und Preisen in Betracht gezogen werden sollten. Auch wenn diese Modelle keine exakten Übereinstimmungen sind, kann ein Vergleich Ihnen helfen, eine fundiertere Kaufentscheidung zu treffen:
+
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=d8a305%2cfcf585" target="_blank">Erkunden Sie einen detaillierten Vergleich dieser Modelle.</a>
+
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Reichweite" >}}

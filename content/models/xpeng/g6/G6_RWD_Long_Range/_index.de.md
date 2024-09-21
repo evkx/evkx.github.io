@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Long Range
 linktitle: "G6 RWD Long Range"
-description: "XPENG G6 RWD Long Range ist ein vollelektrisches SUV mit einer Reichweite von bis zu 755 km (469 Meilen). EVKX.net hat alle Details."
+description: "XPENG G6 RWD Long Range ist ein vollelektrisches SUV mit einer Reichweite von bis zu 570 km (354 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der XPENG G6 RWD Long Range liefert eine solide Leistung mit einer maximalen Leistung von 218 kW (296 PS / 292 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 5,9 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 202 km/h (126 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der XPENG G6 RWD Long Range liefert eine solide Leistung mit einer maximalen Leistung von 210 kW (286 PS / 282 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 6,7 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 92,0 kWh und eine nutzbare Nettokapazität von 87,5 kWh, was einen Puffer von 4,5 kWh (4,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 550,5 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 755 km (469 Meilen). Der Energieverbrauch beträgt 11,6 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Nach dem [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) Standard beträgt die Reichweite des Fahrzeugs 570 km (354 Meilen) mit einem Energieverbrauch von 15,4 kWh/100 km (3 mi/kWh). Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 300 kW. Das Laden von 0% auf 100% dauert etwa 49 Minuten, während ein typischer Ladevorgang von 10% auf 80% 21 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 179 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 59%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 152 kW, wobei jede Ladesitzung etwa 18 Minuten und 20 Sekunden dauert. Diese effiziente Ladefähigkeit macht den XPENG G6 RWD Long Range zu einer bequemen Option für Langstreckenreisen.
 
-In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 25 kWh/100 km, würde die Fahrt etwa 9 Stunden und 25 Minuten dauern. Diese Reise würde drei Ladestopps von 6% auf 68% erfordern, mit einer gesamten Ladezeit von 65 Minuten.
+In einer theoretischen 1000 km Herausforderung, beginnend mit einer vollen Batterie und einer konstanten Geschwindigkeit von 120 km/h (75 mph) unter idealen Bedingungen mit einem angenommenen Verbrauch von 22 kWh/100 km, würde die Fahrt etwa 9 Stunden und 13 Minuten dauern. Diese Reise würde drei Ladestopps von 6% auf 57% erfordern, mit einer gesamten Ladezeit von 53 Minuten.
 
 ### Bordladegerät
 
@@ -191,7 +191,7 @@ Der XPENG G6 RWD Long Range verfügt über ein fortschrittliches Infotainmentsys
 
 ### Navigationssystem
 
-Das eingebaute Navigationssystem verwendet detaillierte Karten und bietet eine Routenplanung mit Ladestopps.
+Das integrierte Navigationssystem verwendet detaillierte Karten und bietet eine fortschrittliche Routenplanung. Das System liefert Echtzeit-Verkehrsinformationen und sorgt so für eine effiziente und stressfreie Reise.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), n
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 71 Litern (2,5 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 571 Litern (20,2 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1374 Liter (48,5 CU FT). Auf dem Dach können Sie bis zu 75 kg (165,3 lbs) laden.
 
-Das maximale Gewicht des Fahrzeugs beträgt 2600 kg (5732 lbs) bei einem Leergewicht von 2095 kg (4619 lbs). Dies ermöglicht eine maximale Zuladung von 505 kg (1113 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
+Das maximale Gewicht des Fahrzeugs beträgt 2553 kg (5628 lbs) bei einem Leergewicht von 2025 kg (4464 lbs). Dies ermöglicht eine maximale Zuladung von 528 kg (1164 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
 

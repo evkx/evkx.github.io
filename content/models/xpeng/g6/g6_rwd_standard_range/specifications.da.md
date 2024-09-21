@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Stand
 				Popeffekt
 			</td>
 			<td>
-				218 KW (296 hk)
+				190 KW (258 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Stand
 				Tophastighed
 			</td>
 			<td>
-				202 km/t
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Stand
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -151,6 +151,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				215 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				512
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +347,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +388,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				1374 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse frunk
-			</td>
-			<td>
-				71 liter
 			</td>
 		</tr>
 		<tr>

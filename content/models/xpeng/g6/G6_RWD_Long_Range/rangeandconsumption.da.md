@@ -35,6 +35,32 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 	<tbody>
 		<tr>
 			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP række grundlæggende trim
+				</a>
+			</td>
+			<td>
+				570 km / 354 mi
+			</td>
+			<td>
+				15,35kWh/100km / 4,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/wltp/ ">
+					WLTP række top trim
+				</a>
+			</td>
+			<td>
+				570 km / 354 mi
+			</td>
+			<td>
+				15,35 kWh/100km / 4,0 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="../../../../../guides/understandingrange/cltc/ ">
 					CLTC-rækkevidde
 				</a>
@@ -43,7 +69,7 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				755 km / 469 mi 
 			</td>
 			<td>
-				11,59kWh/100km /  mi/kWh
+				11,59kWh/100km / 4,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -69,6 +95,28 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP række grundlæggende trim med 2KW AC
+			</td>
+			<td>
+				 445km / 277 mi 
+			</td>
+			<td>
+				-21,9%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP række top trim med 2KW AC
+			</td>
+			<td>
+				445 km / 277 mi
+			</td>
+			<td>
+				-21,9%
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -97,10 +145,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				90kmt/56mph perfekt stand
 			</td>
 			<td>
-				449km / 279 mi
+				565km / 351 mi
 			</td>
 			<td>
-				19,5 kWh/100km / 3,2 mi/kWh
+				15,5 kWh/100km / 4,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -108,10 +156,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				90kmt/56mph med 2KW opvarmning
 			</td>
 			<td>
-				414km /250mi
+				510km /307mi
 			</td>
 			<td>
-				21,7 kWh/100km /2,9 mi/kWh 
+				17,7 kWh/100km /3,5 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -119,10 +167,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph perfekt stand
 			</td>
 			<td>
-				350 km / 217 mi
+				398 km / 247 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				22 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -130,10 +178,10 @@ Tabellen nedenfor viser nogle estimerede eksempler fra den virkelige verden i pe
 				120kmt/75mph med 2KW opvarmning
 			</td>
 			<td>
-				328 km /204mi
+				370 km /230mi
 			</td>
 			<td>
-				26,7 kWh/100km /2,3 mi/kWh
+				23,7 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>

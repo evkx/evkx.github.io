@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Long Range
 linktitle: "G6 RWD Long Range"
-description: "XPENG G6 RWD Long Range es un SUV totalmente eléctrico con una autonomía CLTC de hasta 755 km (469 millas). EVKX.net tiene todos los detalles."
+description: "XPENG G6 RWD Long Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 570 km (354 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ Hemos separado nuestro artículo XPENG G6 RWD Long Range en secciones. Si desea 
 
 ## Rendimiento
 
-El XPENG G6 RWD Long Range ofrece un rendimiento sólido con una potencia máxima de 218 kW (296 hp) y un par total de 440 Nm. Puede acelerar de 0 a 100 km/h en 5,9 segundos y alcanza una velocidad máxima de 202 km/h, lo que lo hace competitivo en su clase.
+El XPENG G6 RWD Long Range ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 440 Nm. Puede acelerar de 0 a 100 km/h en 6,7 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 92,0 kWh y una capacidad neta utilizable de 87,5 kWh, proporcionando un buffer de 4,5 kWh (4,9%) para la protección de la batería. Operando a un voltaje nominal de 550,5 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 755 km (469 millas). El consumo es de 11,6kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 570 km, con una tasa de consumo de energía de 15,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 300kW. Una carga completa del 0 al 100 % tardaría 49 minutos, mientras que un escenario más común del 10 al 80 % tardaría 21 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 6% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 152kW. Cada sesión de carga tardaría 18 minutos y 20 segundos. Esta capacidad de carga eficiente hace que el XPENG G6 RWD Long Range sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 6% al 68%, con un tiempo total de carga de 65 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 13 minutos. Este viaje requeriría dos paradas de carga del 6% al 57%, con un tiempo total de carga de 53 minutos.
 
 ### Cargador a bordo
 
@@ -191,7 +191,7 @@ El XPENG G6 RWD Long Range cuenta con un sistema de infoentretenimiento avanzado
 
 ### Sistema de navegación
 
-El sistema de navegación integrado utiliza mapas detallados y ofrece planificación de rutas con paradas de carga.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 71 litros.
+El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2600 kg, con un peso base de 2095 kg. Esto permite una carga máxima de 505 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2553 kg, con un peso base de 2025 kg. Esto permite una carga máxima de 528 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 

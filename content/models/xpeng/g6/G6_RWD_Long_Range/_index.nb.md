@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Long Range
 linktitle: "G6 RWD Long Range"
-description: "XPENG G6 RWD Long Range er en helelektrisk SUV med en CLTC rekkevidde på opptil 755 km. EVKX.net har alle detaljene."
+description: "XPENG G6 RWD Long Range er en helelektrisk SUV med en WLTP rekkevidde på opptil 570 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ Vi har delt vår beskrivelse av XPENG G6 RWD Long Range i seksjoner. Hvis du vil
 
 ## Ytelse
 
-XPENG G6 RWD Long Range leverer solid ytelse med en maksimal effekt på 218 kW (296 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 202 km/t, noe som gjør den konkurransedyktig i sin klasse.
+XPENG G6 RWD Long Range leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 6,7 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
 Høykapasitetsbatteriet har en brutto kapasitet på 92,0 kWh og en netto brukbar kapasitet på 87,5 kWh, som gir en buffer på 4,5 kWh (4,9%) for batteribeskyttelse. Ved å operere med en nominell spenning på 550,5 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 755 km (469 miles). Forbruket er 11,6kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 570 km, med et energiforbruk på 15,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 300 kW. En full lading fra 0 - 100 % vil ta 49 minutter, mens et mer vanlig scenario på 10-80 % vil ta 21 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 6% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 18 minutter og 20 sekunder. Denne effektive ladekapasiteten gjør XPENG G6 RWD Long Range til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 9 timer og 25 minutter. Denne reisen ville kreve to ladestopp fra 6% til 68%, med en total ladetid på 65 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 9 timer og 13 minutter. Denne reisen ville kreve to ladestopp fra 6% til 57%, med en total ladetid på 53 minutter.
 
 ### Ombordlader
 
@@ -191,7 +191,7 @@ XPENG G6 RWD Long Range har et avansert infotainmentsystem bygget på Android Au
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr ruteplanlegging med ladestopp.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### App store
 
@@ -271,9 +271,9 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 71 liter.
+Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg.
 
-Kjøretøyets maksimale vekt er 2600 kg, med en basisvekt på 2095 kg. Dette gir en maksimal lastekapasitet på 505 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2553 kg, med en basisvekt på 2025 kg. Dette gir en maksimal lastekapasitet på 528 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 

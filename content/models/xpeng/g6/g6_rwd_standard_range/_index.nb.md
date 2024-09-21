@@ -26,11 +26,11 @@ Vi har delt vår beskrivelse av XPENG G6 RWD Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-XPENG G6 RWD Standard Range leverer solid ytelse med en maksimal effekt på 218 kW (296 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 202 km/t, noe som gjør den konkurransedyktig i sin klasse.
+XPENG G6 RWD Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 190 kW (258 hk) og et totalt dreiemoment på 440 Nm. Den akselererer fra 0 til 100 km/t på 6,9 sekunder og har en toppfart på 200 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 67,0 kWh og en netto brukbar kapasitet på 66,0 kWh, som gir en buffer på 1,0 kWh (1,5%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 67,0 kWh og en netto brukbar kapasitet på 66,0 kWh, som gir en buffer på 1,0 kWh (1,5%) for batteribeskyttelse. Ved å operere med en nominell spenning på 512 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 435 km, med et energiforbruk på 15,2 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektris
 
 ## Drivverk
 
-XPENG G6 RWD Standard Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG G6 RWD Standard Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 ### Hjuloppheng
 
@@ -191,7 +191,7 @@ XPENG G6 RWD Standard Range har et avansert infotainmentsystem bygget på Androi
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr ruteplanlegging med ladestopp.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### App store
 
@@ -271,13 +271,22 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 71 liter.
+Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg.
 
-Kjøretøyets maksimale vekt er 2600 kg, med en basisvekt på 2095 kg. Dette gir en maksimal lastekapasitet på 505 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2553 kg, med en basisvekt på 2025 kg. Dette gir en maksimal lastekapasitet på 528 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 
 ## Tilgjengelighet & pris
 
 XPENG G6 RWD Standard Range hadde sin verdenspremiere den 29.06.2023, med leveranser som startet i January 2024.
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til XPENG G6 RWD Standard Range som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Tesla Model Y Standard Range](/models/tesla/model_y/model_y_standard_range/)
+
+<a href="https://db.evkx.net/evcompare?evs=d8a305%2cfcf585" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
+
 {{< pagenavigation b_url="../" b_title="XPENG G6" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

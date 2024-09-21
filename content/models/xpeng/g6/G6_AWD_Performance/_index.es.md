@@ -26,7 +26,7 @@ Hemos separado nuestro artículo XPENG G6 AWD Performance en secciones. Si desea
 
 ## Rendimiento
 
-El XPENG G6 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 358 kW (487 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 3,9 segundos y alcanza una velocidad máxima de 202 km/h, lo que lo hace competitivo en su clase.
+El XPENG G6 AWD Performance ofrece un rendimiento sólido con una potencia máxima de 358 kW (487 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 3,9 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
@@ -191,7 +191,7 @@ El XPENG G6 AWD Performance cuenta con un sistema de infoentretenimiento avanzad
 
 ### Sistema de navegación
 
-El sistema de navegación integrado utiliza mapas detallados y ofrece planificación de rutas con paradas de carga.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 71 litros.
+El maletero ofrece una capacidad de carga de 571 litros. Con el asiento trasero plegado, esto se expande a 1374 litros. En el techo, puedes cargar hasta 75 kg.
 
-El peso máximo del vehículo es 2600 kg, con un peso base de 2095 kg. Esto permite una carga máxima de 505 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga.
+El peso máximo del vehículo es 2638 kg, con un peso base de 2143 kg. Esto permite una carga máxima de 495 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 495 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
 

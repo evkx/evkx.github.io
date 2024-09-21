@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Long 
 				Popeffekt
 			</td>
 			<td>
-				218 KW (296 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Long 
 				Tophastighed
 			</td>
 			<td>
-				202 km/t
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Long 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -78,6 +78,30 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-område
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug
+			</td>
+			<td>
+				15,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-forbrug med opladningstab
+			</td>
+			<td>
+				17,5 kWh/100km
+			</td>
+		</tr>
 		<tr>
 			<td>
 				Basic trim CLTC range
@@ -339,7 +363,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2095 kg
+				2025 kg
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2600 kg
+				2553 kg
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +379,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				505 kg
+				528 kg
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +404,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				1374 liter
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Størrelse frunk
-			</td>
-			<td>
-				71 liter
 			</td>
 		</tr>
 		<tr>

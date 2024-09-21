@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Long 
 				Spitzenleistung
 			</td>
 			<td>
-				218 KW (296 PS /292 bhp)
+				210 KW (286 PS /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Long 
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				202 km/h (126 mph)
+				200 km/h (124 mph)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für XPENG G6 RWD Long 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				5,9 s
+				6,7 s
 			</td>
 		</tr>
 	</tbody>
@@ -78,6 +78,30 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				WLTP-Reichweite
+			</td>
+			<td>
+				570 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch
+			</td>
+			<td>
+				15,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				WLTP-Verbrauch mit Ladeverlust
+			</td>
+			<td>
+				17,5 kWh/100km
+			</td>
+		</tr>
 		<tr>
 			<td>
 				CLTC-Reichweite der Basisausstattung
@@ -339,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2095 kg (4619 lbs)
+				2025 kg (4464 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -347,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2553 kg (5628 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +379,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				528 kg (1164 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -380,14 +404,6 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				1374 Liter (49 cu-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Größe des Frunks
-			</td>
-			<td>
-				71 Liter (3 cu-ft)
 			</td>
 		</tr>
 		<tr>

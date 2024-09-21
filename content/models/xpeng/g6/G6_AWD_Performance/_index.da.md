@@ -26,7 +26,7 @@ Vi har opdelt vores XPENG G6 AWD Performance artikel i sektioner. Hvis du vil ve
 
 ## Ydeevne
 
-XPENG G6 AWD Performance leverer en solid præstation med en maksimal effekt på 358 kW (487 hk) og et totalt drejningsmoment på 660 Nm. Den kan accelerere fra 0 til 100 km/t på 3,9 sekunder og når en topfart på 202 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+XPENG G6 AWD Performance leverer en solid præstation med en maksimal effekt på 358 kW (487 hk) og et totalt drejningsmoment på 660 Nm. Den kan accelerere fra 0 til 100 km/t på 3,9 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
@@ -191,7 +191,7 @@ XPENG G6 AWD Performance har et avanceret infotainmentsystem bygget på Android 
 
 ### Navigationssystem
 
-Det indbyggede navigationssystem bruger detaljerede kort og tilbyder ruteplanlægning med opladningsstop.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
 
 ### App store
 
@@ -271,9 +271,9 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni 
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 571 liter. Med det bageste sæde foldet ned, udvides dette til 1374 liter. På taget kan du laste op til 75 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 71 liter.
+Bagagerummet har en lastekapacitet på 571 liter. Med det bageste sæde foldet ned, udvides dette til 1374 liter. På taget kan du laste op til 75 kg.
 
-Køretøjets maksimale vægt er 2600 kg, med en basisvægt på 2095 kg. Dette giver en maksimal last på 505 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet.
+Køretøjets maksimale vægt er 2638 kg, med en basisvægt på 2143 kg. Dette giver en maksimal last på 495 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 495 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
 

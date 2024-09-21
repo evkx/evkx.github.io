@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 AWD Perform
 				Top speed
 			</td>
 			<td>
-				202 kph (126 mph)
+				200 kph (124 mph)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2095 kg (4619 lbs)
+				2143 kg (4725 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2600 kg (5732 lbs)
+				2638 kg (5816 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				505 kg (1113 lbs)
+				495 kg (1091 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>
-				71 liter (3 cu-ft)
+				1500 kg (3307 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight Un braked</a>
+			</td>
+			<td>
+				750 kg (1653 lbs)
 			</td>
 		</tr>
 		<tr>

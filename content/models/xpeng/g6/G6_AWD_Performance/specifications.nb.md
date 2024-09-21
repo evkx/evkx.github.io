@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for XPENG G6 AWD Perfor
 				Topphastighet
 			</td>
 			<td>
-				202 km/t
+				200 km/t
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2095 kg
+				2143 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2600 kg
+				2638 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				505 kg
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Størrelse frunk
+				Maksimum vekt tilhenger med bremse
 			</td>
 			<td>
-				71 liter
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maksvekt tilhenger m/brems
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 		<tr>

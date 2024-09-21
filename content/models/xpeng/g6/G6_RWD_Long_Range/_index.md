@@ -1,7 +1,7 @@
 ---
 title: XPENG G6 RWD Long Range
 linktitle: "G6 RWD Long Range"
-description: "XPENG G6 RWD Long Range is an all-electric SUV with a CLTC range of up to 755 km (469 miles). EVKX.net has all the details."
+description: "XPENG G6 RWD Long Range is an all-electric SUV with a WLTP range of up to 570 km (354 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,17 +26,17 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The XPENG G6 RWD Long Range delivers a solid performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 202 km/h (126 mph), making it competitive within its class.
+The XPENG G6 RWD Long Range delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 92.0 kWh and a net usable capacity of 87.5 kWh, providing a 4.5 kWh buffer (4.9%) for battery protection. Operating at a nominal voltage of 550.5 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 755 km (469 miles). he energy consumption is 11.6 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 570 km (354 miles), with an energy consumption rate of 15.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 300 kW. Charging from 0% to 100% takes approximately 49 minutes, while a more typical scenario from 10% to 80% takes 21 minutes with an average charging speed of 179 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 59%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 18 minutes and 20 seconds. This efficient charging capability makes the XPENG G6 RWD Long Range a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 25 minutes. This journey would require three charging stops from 6% to 68%, with a total charging time of 65 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 13 minutes. This journey would require three charging stops from 6% to 57%, with a total charging time of 53 minutes.
 
 ### Onboard Charger
 
@@ -191,7 +191,7 @@ The XPENG G6 RWD Long Range features an advanced infotainment system built on An
 
 ### Navigation System
 
-The built-in navigation system uses detailed maps and offers route planning with charging stops.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### App Store
 
@@ -271,9 +271,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), nin
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 71 liters (2.5 CU FT).
+The trunk offers a cargo capacity of 571 liters (20.2 CU FT). With the rear seat folded down, this expands to 1374 liters (48.5 CU FT). On the roof, you can load up to 75 kg (165.3 lbs).
 
-The vehicle’s maximum weight is 2600 kg (5732 lbs), with a base weight of 2095 kg (4619 lbs). This allows for a maximum load of 505 kg (1113 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
+The vehicle’s maximum weight is 2553 kg (5628 lbs), with a base weight of 2025 kg (4464 lbs). This allows for a maximum load of 528 kg (1164 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
 

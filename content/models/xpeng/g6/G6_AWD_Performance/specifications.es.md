@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para XPENG G6 AWD Perfo
 				Velocidad máxima
 			</td>
 			<td>
-				202 kph
+				200 kph
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2095 kg
+				2143 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2600 kg
+				2638 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				505 kg
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Tamaño frunk
+				Peso máximo del remolque frenado
 			</td>
 			<td>
-				71 litro
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo del remolque sin frenos
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 		<tr>

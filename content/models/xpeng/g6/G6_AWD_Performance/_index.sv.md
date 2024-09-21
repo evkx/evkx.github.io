@@ -26,7 +26,7 @@ Vi har delat in vår beskrivning av XPENG G6 AWD Performance i avsnitt. Om du vi
 
 ## Prestanda
 
-XPENG G6 AWD Performance levererar en solid prestanda med en maximal effekt på 358 kW (487 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,9 sekunder och når en topphastighet på 202 km/h, vilket gör den konkurrenskraftig i sin klass.
+XPENG G6 AWD Performance levererar en solid prestanda med en maximal effekt på 358 kW (487 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,9 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
@@ -191,7 +191,7 @@ XPENG G6 AWD Performance har ett avancerat infotainmentsystem baserat på Androi
 
 ### Navigationssystem
 
-Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder ruttplanering med laddstopp.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering. Systemet ger realtids trafikinformation, vilket säkerställer en effektiv och stressfri resa.
 
 ### App store
 
@@ -271,9 +271,9 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), n
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 571 liter. Med baksätena nedfällda ökar detta till 1374 liter. På taket kan du lasta upp till 75 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 71 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 571 liter. Med baksätena nedfällda ökar detta till 1374 liter. På taket kan du lasta upp till 75 kg.
 
-Fordonets maximala vikt är 2600 kg, med en grundvikt på 2095 kg. Detta tillåter en maximal last på 505 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
+Fordonets maximala vikt är 2638 kg, med en grundvikt på 2143 kg. Detta tillåter en maximal last på 495 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 495 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
 

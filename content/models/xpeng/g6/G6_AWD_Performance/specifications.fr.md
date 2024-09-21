@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Vitesse maximale
 			</td>
 			<td>
-				202 km/h
+				200 km/h
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2095 kg
+				2143 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2600 kg
+				2638 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				505 kg
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Taille du coffre
+				Poids maximum de la remorque freinée
 			</td>
 			<td>
-				71 litre
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Poids maximum de la remorque non freinée
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 		<tr>

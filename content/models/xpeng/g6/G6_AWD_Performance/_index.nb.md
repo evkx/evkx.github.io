@@ -26,7 +26,7 @@ Vi har delt vår beskrivelse av XPENG G6 AWD Performance i seksjoner. Hvis du vi
 
 ## Ytelse
 
-XPENG G6 AWD Performance leverer solid ytelse med en maksimal effekt på 358 kW (487 hk) og et totalt dreiemoment på 660 Nm. Den kan akselerere fra 0 til 100 km/t på 3,9 sekunder og når en topphastighet på 202 km/t, noe som gjør den konkurransedyktig i sin klasse.
+XPENG G6 AWD Performance leverer solid ytelse med en maksimal effekt på 358 kW (487 hk) og et totalt dreiemoment på 660 Nm. Den kan akselerere fra 0 til 100 km/t på 3,9 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
@@ -191,7 +191,7 @@ XPENG G6 AWD Performance har et avansert infotainmentsystem bygget på Android A
 
 ### Navigasjonssystem
 
-Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr ruteplanlegging med ladestopp.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### App store
 
@@ -271,9 +271,9 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ni 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 71 liter.
+Bagasjerommet tilbyr en lastekapasitet på 571 liter. Med baksetene nedfelt, utvides dette til 1374 liter. På taket kan du laste opptil 75 kg.
 
-Kjøretøyets maksimale vekt er 2600 kg, med en basisvekt på 2095 kg. Dette gir en maksimal lastekapasitet på 505 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet.
+Kjøretøyets maksimale vekt er 2638 kg, med en basisvekt på 2143 kg. Dette gir en maksimal lastekapasitet på 495 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 495 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 
 Denne modellen er ikke tilgjengelig med tilhengerfeste. For å trekke en tilhenger må du vurdere andre modeller.
 

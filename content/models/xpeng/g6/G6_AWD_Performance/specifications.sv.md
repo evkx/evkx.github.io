@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för XPENG G6 AWD Performan
 				Topphastighet
 			</td>
 			<td>
-				202 km/h
+				200 km/h
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2095 kg
+				2143 kg
 			</td>
 		</tr>
 		<tr>
@@ -363,7 +363,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2600 kg
+				2638 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				505 kg
+				495 kg
 			</td>
 		</tr>
 		<tr>
@@ -400,10 +400,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Storlek frunk
+				Max släpvagnsvikt, bromsad
 			</td>
 			<td>
-				71 liter
+				1500 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max släpvagnsvikt, obromsad
+			</td>
+			<td>
+				750 kg
 			</td>
 		</tr>
 		<tr>
