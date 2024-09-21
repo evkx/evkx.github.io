@@ -47,7 +47,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Onvo L60 AWD. Klicka p
 				Topphastighet
 			</td>
 			<td>
-				200 km/h
+				203 km/h
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC räckvidd
 			</td>
 			<td>
-				730 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC räckvidd
 			</td>
 			<td>
-				555 km
+				501 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC förbrukning
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				65 kWh
+				60,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				64 kWh
+				59 kWh
 			</td>
 		</tr>
 		<tr>

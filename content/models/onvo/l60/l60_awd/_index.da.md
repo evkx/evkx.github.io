@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 730 km (454 miles). EVKX.net har alle detaljerne."
+description: "Onvo L60 AWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,7 +26,7 @@ Vi har opdelt vores Onvo L60 AWD artikel i sektioner. Hvis du vil vente med at l
 
 ## Ydeevne
 
-Onvo L60 AWD leverer en solid præstation med en maksimal effekt på 340 kW (462 hk) og et totalt drejningsmoment på 440 Nm. Den kan accelerere fra 0 til 100 km/t på 4,6 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+Onvo L60 AWD leverer en solid præstation med en maksimal effekt på 340 kW (462 hk) og et totalt drejningsmoment på 440 Nm. Den kan accelerere fra 0 til 100 km/t på 4,6 sekunder og når en topfart på 203 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
@@ -36,17 +36,17 @@ Onvo L60 AWD har to batterimuligheder med forskellige specifikationer. Nedenfor 
 
 Det højkapacitetsbatteri har en bruttokapacitet på 85,0 kWh og en nettoanvendelig kapacitet på 90,0 kWh, hvilket giver en buffer på -5,0 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 730 km (454 miles). Forbruget er 12,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 700 km (435 miles). Forbruget er 12,9kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 126kW. En fuld opladning fra 0 - 100 % ville tage 75 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 44%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 86kW. Hver opladningssession ville tage 27 minutter og 2 sekunder.
 
 ### 60kWh
 
-Det højkapacitetsbatteri har en bruttokapacitet på 65,0 kWh og en nettoanvendelig kapacitet på 64,0 kWh, hvilket giver en buffer på 1,0 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 60,6 kWh og en nettoanvendelig kapacitet på 59,0 kWh, hvilket giver en buffer på 1,6 kWh (3%) til batteribeskyttelse.
 
-[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 555 km (345 miles). Forbruget er 12,3kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+[CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 501 km (311 miles). Forbruget er 12,9kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 140kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 31 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 76kW. Hver opladningssession ville tage 35 minutter og 31 sekunder.
+Den maksimale DC-opladningshastighed er 140kW. En fuld opladning fra 0 - 100 % ville tage 54 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 28 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 75%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 75kW. Hver opladningssession ville tage 32 minutter og 13 sekunder.
 
 ### Ombordlader
 
@@ -186,7 +186,7 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-infotainment.os.SkyOS
+Onvo L60 AWD har et infotainmentsystem kaldet NIO SkyOS, designet til at give en brugervenlig grænseflade med en række funktioner og tjenester for at forbedre køreoplevelsen. Dette system inkluderer forskellige apps og tjenester, såsom navigation, musikstreaming og køretøjsindstillinger, som alle er tilgængelige via touchskærmen. Det understøtter også over-the-air opdateringer, hvilket sikrer, at køretøjet forbliver opdateret med de nyeste funktioner og forbedringer.
 
 ### Navigationssystem
 
@@ -196,7 +196,7 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Én type lydsystem er tilgængelig for Onvo L60 AWD.
 
-- Med Onvo Surround System får du 18 højttalere med en maksimal systemeffekt på 1000 watt.
+- Med Onvo Surround System får du 18 højttalere med en maksimal systemeffekt på 1020 watt.
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

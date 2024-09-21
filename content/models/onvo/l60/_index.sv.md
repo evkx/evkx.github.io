@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="l60_awd/"><img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="243px" alt="L60 AWD" ></a>
-<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 65 - 85 kWh <i class="bi bi-ev-station"></i> 126 - 140 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 60,6 - 85 kWh <i class="bi bi-ev-station"></i> 126 - 140 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

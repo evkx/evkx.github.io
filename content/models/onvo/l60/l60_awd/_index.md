@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD is an all-electric SUV with a CLTC range of up to 730 km (454 miles). EVKX.net has all the details."
+description: "Onvo L60 AWD is an all-electric SUV with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,7 +26,7 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Onvo L60 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Onvo L60 AWD delivers a solid performance with a maximum power of 340 kW (462 hp / 456 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 203 km/h (126 mph), making it competitive within its class.
 
 ## Battery, Range, and Charging
 
@@ -36,17 +36,17 @@ Onvo L60 AWD has two battery options with different specifications. Below you se
 
 The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 730 km (454 miles). he energy consumption is 12.3 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical scenario from 10% to 80% takes 41 minutes with an average charging speed of 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 44%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 27 minutes and 2 seconds.
 
 ### 60kWh
 
-The high-capacity battery has a gross capacity of 65.0 kWh and a net usable capacity of 64.0 kWh, providing a 1.0 kWh buffer (1.5%) for battery protection.
+The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 555 km (345 miles). he energy consumption is 12.3 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 501 km (311 miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical scenario from 10% to 80% takes 31 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 76 kW, with each charging session taking about 35 minutes and 31 seconds.
+The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
 
 ### Onboard Charger
 
@@ -186,7 +186,7 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-infotainment.os.SkyOS
+The Onvo L60 AWD features an infotainment system called NIO SkyOS, designed to provide a user-friendly interface with a range of features and functions to enhance the driving experience. This system includes various apps and services, such as navigation, music streaming, and vehicle settings, all accessible through the touchscreen display. It also supports over-the-air updates, ensuring that the vehicle remains up-to-date with the latest features and improvements.
 
 ### Navigation System
 
@@ -196,7 +196,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 The Onvo L60 AWD comes equipped with one sound system option:
 
-- **Onvo Surround System:** Features 18 speakers and delivers a maximum output of 1000 watts.
+- **Onvo Surround System:** Features 18 speakers and delivers a maximum output of 1020 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

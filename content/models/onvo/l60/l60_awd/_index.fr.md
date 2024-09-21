@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 730 km (454 miles). EVKX.net a tous les détails."
+description: "Onvo L60 AWD est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,7 +26,7 @@ Nous avons séparé notre article Onvo L60 AWD en sections. Si vous souhaitez at
 
 ## Performances
 
-La Onvo L60 AWD offre des performances solides avec une puissance maximale de 340 kW (462 ch) et un couple total de 440 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Onvo L60 AWD offre des performances solides avec une puissance maximale de 340 kW (462 ch) et un couple total de 440 Nm. Elle peut accélérer de 0 à 100 km/h en 4,6 secondes et atteindre une vitesse maximale de 203 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -36,17 +36,17 @@ Onvo L60 AWD propose deux options de batterie avec des spécifications différen
 
 La batterie haute capacité a une capacité brute de 85,0 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de -5,0 kWh (-5,9%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 730 km (454 miles). La consommation est de 12,3kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km (435 miles). La consommation est de 12,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 75 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 44 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 86kW. Chaque session de charge prendrait 27 minutes et 2 secondes.
 
 ### 60kWh
 
-La batterie haute capacité a une capacité brute de 65,0 kWh et une capacité nette utilisable de 64,0 kWh, offrant une réserve de 1,0 kWh (1,5%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 60,6 kWh et une capacité nette utilisable de 59,0 kWh, offrant une réserve de 1,6 kWh (2,6%) pour la protection de la batterie.
 
-La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 555 km (345 miles). La consommation est de 12,3kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 501 km (311 miles). La consommation est de 12,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 31 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 76kW. Chaque session de charge prendrait 35 minutes et 31 secondes.
+La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 54 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 28 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 32 minutes et 13 secondes.
 
 ### Chargeur embarqué
 
@@ -186,7 +186,7 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-infotainment.os.SkyOS
+Le Onvo L60 AWD est équipé d'un système d'infodivertissement appelé NIO SkyOS, conçu pour offrir une interface conviviale avec une gamme de fonctionnalités et de services pour améliorer l'expérience de conduite. Ce système comprend diverses applications et services, tels que la navigation, la diffusion de musique en continu et les paramètres du véhicule, tous accessibles via l'écran tactile. Il prend également en charge les mises à jour over-the-air, garantissant que le véhicule reste à jour avec les dernières fonctionnalités et améliorations.
 
 ### Système de navigation
 
@@ -196,7 +196,7 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 Un type de système audio est disponible pour le Onvo L60 AWD.
 
-- Avec le Onvo Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 1000 watts.
+- Avec le Onvo Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 1020 watts.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

@@ -42,10 +42,10 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				730 km / 454 mi 
+				700 km / 435 mi 
 			</td>
 			<td>
-				12,33kWh/100km /  mi/kWh
+				12,86kWh/100km /  mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -127,7 +127,7 @@ Nachfolgend sind die offiziell bewerteten Reichweiten aufgeführt. Die Tests wer
 				</a>
 			</td>
 			<td>
-				555 km / 345 mi 
+				501 km / 311 mi 
 			</td>
 			<td>
 				kWh/100km /  mi/kWh

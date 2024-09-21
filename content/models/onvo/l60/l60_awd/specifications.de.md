@@ -47,7 +47,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Onvo L60 AWD zu ha
 				Höchstgeschwindigkeit
 			</td>
 			<td>
-				200 km/h (124 mph)
+				203 km/h (126 mph)
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CLTC-Reichweite der Basisausstattung
 			</td>
 			<td>
-				730 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CLTC-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CLTC-Reichweite der Basisausstattung
 			</td>
 			<td>
-				555 km
+				501 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				CLTC-Verbrauch der Basisausstattung
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Bruttokapazität der Batterie
 			</td>
 			<td>
-				65 kWh
+				60,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nettokapazität der Batterie
 			</td>
 			<td>
-				64 kWh
+				59 kWh
 			</td>
 		</tr>
 		<tr>

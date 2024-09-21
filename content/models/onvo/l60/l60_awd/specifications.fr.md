@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Onvo L60 
 				Vitesse maximale
 			</td>
 			<td>
-				200 km/h
+				203 km/h
 			</td>
 		</tr>
 		<tr>
@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme CLTC de finition de base
 			</td>
 			<td>
-				730 km
+				700 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation CLTC de base
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme CLTC de finition de base
 			</td>
 			<td>
-				555 km
+				501 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation CLTC de base
 			</td>
 			<td>
-				12,3 kWh/100km
+				12,9 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -198,7 +198,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				65 kWh
+				60,6 kWh
 			</td>
 		</tr>
 		<tr>
@@ -206,7 +206,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				64 kWh
+				59 kWh
 			</td>
 		</tr>
 		<tr>

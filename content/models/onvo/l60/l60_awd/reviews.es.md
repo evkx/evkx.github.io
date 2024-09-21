@@ -22,6 +22,13 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 {{< youtube Ndh34nDNd7k >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The ONVO L60 will destroy Tesla in China</h3>
+<p>Elliot Richards on EVs: 13.09.2024</p>
+
+{{< youtube 9ZISl6X--FA >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galería  </strong>

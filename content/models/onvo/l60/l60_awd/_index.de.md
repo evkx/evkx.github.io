@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 730 km (454 Meilen). EVKX.net hat alle Details."
+description: "Onvo L60 AWD ist ein vollelektrisches SUV mit einer Reichweite von bis zu 700 km (435 Meilen). EVKX.net hat alle Details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,7 +26,7 @@ Wir haben den Artikel in spezifische Abschnitte unterteilt, um die Navigation zu
 
 ## Leistung
 
-Der Onvo L60 AWD liefert eine solide Leistung mit einer maximalen Leistung von 340 kW (462 PS / 456 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 4,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 200 km/h (124 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
+Der Onvo L60 AWD liefert eine solide Leistung mit einer maximalen Leistung von 340 kW (462 PS / 456 bhp) und einem Gesamtdrehmoment von 440 Nm (325 lb-ft). Er beschleunigt in 4,6 Sekunden von 0 auf 100 km/h (0 auf 62 mph) und erreicht eine Höchstgeschwindigkeit von 203 km/h (126 mph), was ihn wettbewerbsfähig in seiner Klasse macht.
 
 ## Batterie, Reichweite und Laden
 
@@ -36,17 +36,17 @@ Onvo L60 AWD hat zwei Batterieoptionen mit unterschiedlichen Spezifikationen. Un
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 85,0 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von -5,0 kWh (-5,9%) zum Schutz der Batterie bietet. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 730 km (454 Meilen). Der Energieverbrauch beträgt 12,3 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 700 km (435 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 126 kW. Das Laden von 0% auf 100% dauert etwa 75 Minuten, während ein typischer Ladevorgang von 10% auf 80% 41 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 91 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 44%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 86 kW, wobei jede Ladesitzung etwa 27 Minuten und 2 Sekunden dauert.
 
 ### 60kWh
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 65,0 kWh und eine nutzbare Nettokapazität von 64,0 kWh, was einen Puffer von 1,0 kWh (1,5%) zum Schutz der Batterie bietet.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 60,6 kWh und eine nutzbare Nettokapazität von 59,0 kWh, was einen Puffer von 1,6 kWh (2,6%) zum Schutz der Batterie bietet.
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 555 km (345 Meilen). Der Energieverbrauch beträgt 12,3 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 501 km (311 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 140 kW. Das Laden von 0% auf 100% dauert etwa 59 Minuten, während ein typischer Ladevorgang von 10% auf 80% 31 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 76 kW, wobei jede Ladesitzung etwa 35 Minuten und 31 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 140 kW. Das Laden von 0% auf 100% dauert etwa 54 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 32 Minuten und 13 Sekunden dauert.
 
 ### Bordladegerät
 
@@ -186,7 +186,7 @@ Dieses Modell ist serienmäßig mit Sprachsteuerung ausgestattet, mit der Sie ve
 
 ## Infotainment
 
-infotainment.os.SkyOS
+Der Onvo L60 AWD verfügt über ein Infotainmentsystem namens NIO SkyOS, das eine benutzerfreundliche Oberfläche mit einer Vielzahl von Funktionen und Features bietet, um das Fahrerlebnis zu verbessern. Dieses System umfasst verschiedene Apps und Dienste wie Navigation, Musik-Streaming und Fahrzeugeinstellungen, die alle über das Touchscreen-Display zugänglich sind. Es unterstützt auch Over-the-Air-Updates, um sicherzustellen, dass das Fahrzeug immer auf dem neuesten Stand der Technik bleibt.
 
 ### Navigationssystem
 
@@ -196,7 +196,7 @@ Mit dem eine standard In-Car-Navigationssystem haben Sie alle Unterstützung, di
 
 Der Onvo L60 AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Onvo Surround System:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1000 Watt.
+- **Onvo Surround System:** Verfügt über 18 Lautsprecher und liefert eine maximale Ausgangsleistung von 1020 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
