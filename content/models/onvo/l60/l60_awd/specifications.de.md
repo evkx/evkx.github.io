@@ -241,7 +241,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Ladeanschlussplatzierung
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>

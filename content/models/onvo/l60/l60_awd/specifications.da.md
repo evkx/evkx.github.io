@@ -241,7 +241,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Ladeportplacering
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>

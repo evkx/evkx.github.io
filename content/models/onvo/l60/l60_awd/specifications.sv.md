@@ -241,7 +241,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Laddningsportplacering
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>

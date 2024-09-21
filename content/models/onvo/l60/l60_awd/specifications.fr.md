@@ -241,7 +241,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Placement du port de charge
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>

@@ -241,7 +241,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ubicación del puerto de carga
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>

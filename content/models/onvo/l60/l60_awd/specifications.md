@@ -241,7 +241,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Chargeport placement
 			</td>
 			<td>
-				RightFrontSide
+				LeftRearSide
 			</td>
 		</tr>
 		<tr>
