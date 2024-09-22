@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD est un SUV entièrement électrique avec une autonomie CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails."
+description: "Onvo L60 AWD est un SUV coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -106,7 +106,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 ## Intérieur
 
-L'intérieur de la Onvo L60 AWD est minimaliste, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée.
+L'intérieur de la Onvo L60 AWD est minimaliste, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -127,10 +127,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (optionnel)
-- [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
@@ -140,6 +139,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/secondrowseats_1_st.jpg" title="Onvo L60 AWD" width="1536" height="864"  >}}
 
@@ -194,7 +194,13 @@ Le Onvo L60 AWD est équipé d'un système d'infodivertissement appelé NIO SkyO
 
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
+
+### App store
+
+Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify:** Diffusez des millions de chansons, de playlists et de podcasts directement depuis le système d'infodivertissement de votre voiture, offrant d'innombrables options de divertissement pour votre trajet.
 
 ### Système audio
 
@@ -250,16 +256,29 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
+Le coffre offre une capacité de chargement de 495 litres. Avec les sièges arrière rabattus, cette capacité passe à 1505 litres.
+
 Le poids maximum du véhicule est de 2400 kg, avec un poids de base de 1955 kg. Cela permet une charge maximale de 445 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 445 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+
+## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 19.09.2024 et les livraisons ont commencé en November 2024.
+
+### Tarification
+
+Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
+
+- 206 900,00 yuan (Chine)
 
 ## Modèles Alternatifs
 
 Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Onvo L60 AWD qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
 
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
+<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5%2c7a37c9" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Onvo L60" f_url="rangeandconsumption/" f_title="Plage" >}}

@@ -390,6 +390,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				445 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Størrelse bagasjerom
+			</td>
+			<td>
+				495 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				1505 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Seteventilasjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Valgfri funksjon
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

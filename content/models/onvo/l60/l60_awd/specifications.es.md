@@ -390,6 +390,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				445 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero
+			</td>
+			<td>
+				495 litro
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1505 litro
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ventilación del asiento
 			</td>
 			<td>
-				Función opcional
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				Función opcional
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

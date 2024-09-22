@@ -390,6 +390,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				445 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Capacité du coffre
+			</td>
+			<td>
+				495 litre
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacité du coffre avec tous les sièges arrière rabattus
+			</td>
+			<td>
+				1505 litre
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité facultative
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

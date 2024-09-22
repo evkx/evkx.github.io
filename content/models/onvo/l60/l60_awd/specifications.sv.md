@@ -390,6 +390,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				445 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym
+			</td>
+			<td>
+				495 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				1505 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 700 km (435 miles). EVKX.net har alle detaljerne."
+description: "Onvo L60 AWD er en fuldelektrisk coupé-SUV med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -106,7 +106,7 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 ## Interiør
 
-Interiøret i Onvo L60 AWD er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Den todelte midterkonsol adskiller føreren og passageren, hvilket giver praktiske opbevaringsmuligheder og forbedret funktionalitet.
+Interiøret i Onvo L60 AWD er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Den todelte midterkonsol adskiller føreren og passageren, hvilket giver praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -127,10 +127,9 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [Hukommelse](../../../../technology/seats/adjustment/#seat-memory)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfri)
-- [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 - Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
@@ -140,6 +139,7 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ydre sæder)
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/secondrowseats_1_st.jpg" title="Onvo L60 AWD" width="1536" height="864"  >}}
 
@@ -194,7 +194,13 @@ Onvo L60 AWD har et infotainmentsystem kaldet NIO SkyOS, designet til at give en
 
 ### Navigationssystem
 
-Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+Det indbyggede navigationssystem bruger detaljerede kort og tilbyder avanceret ruteplanlægning. Systemet giver realtids trafikoplysninger, hvilket sikrer en effektiv og stressfri rejse.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store, hvor du kan downloade tredjepartsapps til at køre direkte på bilens skærm uden behov for en tilsluttet telefon. Tilgængelige apps varierer afhængigt af markedet, men inkluderer populære muligheder som:
+
+- **Spotify:** Stream millioner af sange, playlister og podcasts direkte fra bilens infotainmentsystem, hvilket giver uendelige underholdningsmuligheder under kørslen.
 
 ### Lydsystem
 
@@ -250,16 +256,29 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), ti 
 
 ## Lastkapacitet og træk-kapacitet
 
+Bagagerummet har en lastekapacitet på 495 liter. Med det bageste sæde foldet ned, udvides dette til 1505 liter.
+
 Køretøjets maksimale vægt er 2400 kg, med en basisvægt på 1955 kg. Dette giver en maksimal last på 445 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 445 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 
 Denne model er ikke tilgængelig med en anhængertræk. For at trække en trailer skal du overveje andre modeller.
+
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 19.09.2024, og leveringerne startede i November 2024.
+
+### Priser
+
+Priserne kan variere afhængigt af lokale forhold, incitamenter og kampagner. Nedenfor er startpriserne for udvalgte lande:
+
+- 206 900,00 yuan (Kina)
 
 ## Alternative Modeller
 
 I det hastigt voksende marked for elbiler har EVKX.net identificeret flere alternativer til Onvo L60 AWD, der er værd at overveje baseret på funktioner, specifikationer og pris. Selvom disse modeller måske ikke er helt identiske, kan det være nyttigt at sammenligne dem, før du træffer din endelige købsbeslutning:
 
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
+<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5%2c7a37c9" target="_blank">Udforsk en detaljeret sammenligning af disse modeller.</a>
 
 {{< pagenavigation b_url="../" b_title="Onvo L60" f_url="rangeandconsumption/" f_title="Range" >}}

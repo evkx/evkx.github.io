@@ -390,6 +390,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				445 kg
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trunkkapacitet
+			</td>
+			<td>
+				495 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				1505 liter
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædeventilation
 			</td>
 			<td>
-				Valgfri funktion
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Valgfri funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

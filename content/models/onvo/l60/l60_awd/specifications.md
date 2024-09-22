@@ -390,6 +390,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				445 kg (981 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
+			</td>
+			<td>
+				495 liter (17 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1505 liter (53 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Optional feature
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Optional feature
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

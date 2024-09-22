@@ -390,6 +390,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				445 kg (981 lbs)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen
+			</td>
+			<td>
+				495 Liter (17 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
+			</td>
+			<td>
+				1505 Liter (53 cu-ft)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -652,7 +668,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Sitzbelüftung
 			</td>
 			<td>
-				Optionale Ausstattung
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -660,7 +676,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Optionale Ausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -736,7 +752,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Fußstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -744,7 +760,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

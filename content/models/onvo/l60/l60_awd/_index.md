@@ -1,7 +1,7 @@
 ---
 title: Onvo L60 AWD
 linktitle: "L60 AWD"
-description: "Onvo L60 AWD is an all-electric SUV with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
+description: "Onvo L60 AWD is an all-electric coupe SUV with a CLTC range of up to 700 km (435 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -106,7 +106,7 @@ There is only one roof option for this model. The standard roof includes a large
 
 ## Interior
 
-The interior of the Onvo L60 AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
+The interior of the Onvo L60 AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -127,8 +127,7 @@ The following functionalities are available on the **standard** seat:
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Available in:
 
@@ -140,6 +139,7 @@ The second row features a standard three-seat bench with a 40:60 split, allowing
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/secondrowseats_1_st.jpg" title="Onvo L60 AWD" width="1536" height="864"  >}}
 
@@ -194,7 +194,13 @@ The Onvo L60 AWD features an infotainment system called NIO SkyOS, designed to p
 
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
 
 ### Sound System
 
@@ -250,16 +256,29 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), ten
 
 ## Cargo Capacity and Towing Ability
 
+The trunk offers a cargo capacity of 495 liters (17.5 CU FT). With the rear seat folded down, this expands to 1505 liters (53.1 CU FT).
+
 The vehicle’s maximum weight is 2400 kg (5291 lbs), with a base weight of 1955 kg (4310 lbs). This allows for a maximum load of 445 kg (981 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 445kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+## Availability & Pricing
+
+The Onvo L60 AWD had its world premiere on 19.09.2024, with deliveries starting in November 2024.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 206 900,00 yuan (China)
 
 ## Alternative Models
 
 In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Onvo L60 AWD that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
 
 - [Tesla Model Y Long Range](/models/tesla/model_y/model_y_long_range/)
+- [XPENG G6 AWD Performance](/models/xpeng/g6/g6_awd_performance/)
 
-<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5" target="_blank">Explore a detailed comparison of these models.</a>
+<a href="https://db.evkx.net/evcompare?evs=271861%2cad3cd5%2c7a37c9" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Onvo L60" f_url="rangeandconsumption/" f_title="Range" >}}

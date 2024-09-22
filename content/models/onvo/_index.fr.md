@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Onvo L60 est un SUV disponible en 1 variantes.
+Onvo L60 est un SUV coupé disponible en 1 variantes.
 </p>
 	<a href="l60/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>
