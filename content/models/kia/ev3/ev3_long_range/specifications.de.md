@@ -142,7 +142,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				233 kW
+				128 kW
 			</td>
 		</tr>
 		<tr>

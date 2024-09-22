@@ -56,6 +56,10 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen.
 
+### Bidirektionales Laden
+
+Dieses Modell unterstützt V2L (Vehicle 2 Load), was bedeutet, dass Sie elektrische Geräte mit bis zu 3,3 kW Leistung betreiben können, einschließlich des Ladens anderer Fahrzeuge.
+
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Batteriewechsel
@@ -70,7 +74,7 @@ Der Onvo L60 AWD verfügt über ein Allradantriebssystem, das von zwei Motoren a
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 170 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 175 mm.
 
 ### Lenkung
 
@@ -92,9 +96,8 @@ Der Onvo L60 AWD, mit Abmessungen von 4828 mm Länge, 1930 mm Breite und 1616 mm
 
 Der Onvo L60 AWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 245/55 Reifen auf 18" Felgen
 - 245/50 Reifen auf 19" Felgen
-- 255/45 Reifen auf 20" Felgen
+- 245/45 Reifen auf 20" Felgen
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 

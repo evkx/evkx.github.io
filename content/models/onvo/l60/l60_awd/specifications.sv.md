@@ -500,7 +500,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				170 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				170 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>

@@ -500,7 +500,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				170 mm (6,7")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>

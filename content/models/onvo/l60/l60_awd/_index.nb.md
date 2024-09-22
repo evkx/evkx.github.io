@@ -56,6 +56,10 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
 
+### Toveis lading
+
+Denne modellen støtter V2L (Vehicle 2 Load), som betyr at du kan drive elektrisk utstyr som krever opptil 3,3 kW strøm, inkludert lading av andre kjøretøy.
+
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Batteribytte
@@ -70,7 +74,7 @@ Onvo L60 AWD har et firehjulsdriftssystem som støttes av to motorer, en på hve
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Styring
 
@@ -92,9 +96,8 @@ Onvo L60 AWD, med dimensjoner på 4828 mm i lengde, 1930 mm i bredde og 1616 mm 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Onvo L60 AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-- 245/55 dekk på 18" felger
 - 245/50 dekk på 19" felger
-- 255/45 dekk på 20" felger
+- 245/45 dekk på 20" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 

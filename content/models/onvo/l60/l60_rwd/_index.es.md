@@ -70,7 +70,7 @@ Onvo L60 RWD tiene un sistema de tracción trasera sostenido por un motor en el 
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 170 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 175 mm.
 
 ### Dirección
 
@@ -92,9 +92,8 @@ El Onvo L60 RWD, con dimensiones de 4828 mm de longitud, 1930 mm de anchura y 16
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Onvo L60 RWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 245/55 en llantas de 18
 - Neumáticos 245/50 en llantas de 19
-- Neumáticos 255/45 en llantas de 20
+- Neumáticos 245/45 en llantas de 20
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 

@@ -56,6 +56,10 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador.
 
+### Carga bidireccional
+
+Este modelo admite V2L (carga de vehículo 2), lo que significa que puedes alimentar equipos eléctricos que requieran hasta 3,3 kW de potencia, incluida la carga de otros vehículos.
+
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Cambio de batería
@@ -70,7 +74,7 @@ Onvo L60 AWD tiene un sistema de tracción total sostenido por dos motores, uno 
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 170 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 175 mm.
 
 ### Dirección
 
@@ -92,9 +96,8 @@ El Onvo L60 AWD, con dimensiones de 4828 mm de longitud, 1930 mm de anchura y 16
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Onvo L60 AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 245/55 en llantas de 18
 - Neumáticos 245/50 en llantas de 19
-- Neumáticos 255/45 en llantas de 20
+- Neumáticos 245/45 en llantas de 20
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 

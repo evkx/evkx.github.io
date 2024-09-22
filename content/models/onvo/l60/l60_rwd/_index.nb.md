@@ -70,7 +70,7 @@ Onvo L60 RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Mo
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Styring
 
@@ -92,9 +92,8 @@ Onvo L60 RWD, med dimensjoner på 4828 mm i lengde, 1930 mm i bredde og 1616 mm 
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Onvo L60 RWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
-- 245/55 dekk på 18" felger
 - 245/50 dekk på 19" felger
-- 255/45 dekk på 20" felger
+- 245/45 dekk på 20" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 

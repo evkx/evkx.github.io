@@ -70,7 +70,7 @@ Onvo L60 RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. M
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 170 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
 
 ### Styrning
 
@@ -92,9 +92,8 @@ Onvo L60 RWD, med dimensioner på 4828 mm i längd, 1930 mm i bredd och 1616 mm 
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Onvo L60 RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 245/55 däck på 18" fälgar
 - 245/50 däck på 19" fälgar
-- 255/45 däck på 20" fälgar
+- 245/45 däck på 20" fälgar
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 

@@ -70,7 +70,7 @@ Der Onvo L60 RWD hat ein Heckantriebssystem, das von einem Motor an der Hinterac
 
 ### Federung
 
-Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 170 mm.
+Die Vorderradaufhängung ist eine [MacPherson-Federbein](../../../../technology/suspension/#macpherson-strut), und die Hinterradaufhängung ist eine [Multilink](../../../../technology/suspension/#multilink). Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die  Federung hat eine feste Höhe und Dämpfung. Die Bodenfreiheit mit dieser Federung beträgt 175 mm.
 
 ### Lenkung
 
@@ -92,9 +92,8 @@ Der Onvo L60 RWD, mit Abmessungen von 4828 mm Länge, 1930 mm Breite und 1616 mm
 
 Der Onvo L60 RWD bietet mehrere Radoptionen in verschiedenen Größen, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
-- 245/55 Reifen auf 18" Felgen
 - 245/50 Reifen auf 19" Felgen
-- 255/45 Reifen auf 20" Felgen
+- 245/45 Reifen auf 20" Felgen
 
 Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, während breitere Räder besseren Halt und Handling bieten.
 

@@ -500,7 +500,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				170 mm (6,7")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -508,7 +508,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				170 mm (6,7")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>

@@ -56,6 +56,10 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger.
 
+### Bidirectional Charging
+
+This model supports V2L (Vehicle to Load), allowing you to power electrical equipment requiring up to 3.3 kW of power, including the ability to charge other vehicles.
+
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Battery swap
@@ -70,7 +74,7 @@ The Onvo L60 AWD features an all-wheel drive system powered by two motors, one o
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
 
 ### Steering
 
@@ -92,9 +96,8 @@ The Onvo L60 AWD, with dimensions of 4828 mm in length, 1930 mm in width, and 16
 
 The Onvo L60 AWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 245/55 tires on 18" rims
 - 245/50 tires on 19" rims
-- 255/45 tires on 20" rims
+- 245/45 tires on 20" rims
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 

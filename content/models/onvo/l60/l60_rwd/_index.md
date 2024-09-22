@@ -70,7 +70,7 @@ The Onvo L60 RWD has a rear-wheel drive system supported by one motor on the rea
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
 
 ### Steering
 
@@ -92,9 +92,8 @@ The Onvo L60 RWD, with dimensions of 4828 mm in length, 1930 mm in width, and 16
 
 The Onvo L60 RWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 245/55 tires on 18" rims
 - 245/50 tires on 19" rims
-- 255/45 tires on 20" rims
+- 245/45 tires on 20" rims
 
 Narrower wheels improve consumption and provide a longer range, while wider wheels offer better traction and handling.
 

@@ -56,6 +56,10 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur.
 
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge V2L (Vehicle 2 Load), ce qui signifie que vous pouvez alimenter des équipements électriques nécessitant jusqu'à 3,3 kW de puissance, y compris charger d'autres véhicules.
+
 {{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Échange de batterie
@@ -70,7 +74,7 @@ Onvo L60 AWD dispose d'un système de transmission intégrale pris en charge par
 
 ### Suspension
 
-La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 170 mm.
+La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 175 mm.
 
 ### Pilotage
 
@@ -92,9 +96,8 @@ La Onvo L60 AWD, avec des dimensions de 4828 mm de longueur, 1930 mm de largeur 
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Onvo L60 AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 245/55 sur jantes de 18"
 - Pneus 245/50 sur jantes de 19"
-- Pneus 255/45 sur jantes de 20"
+- Pneus 245/45 sur jantes de 20"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
