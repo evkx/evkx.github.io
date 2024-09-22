@@ -1090,7 +1090,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Écran d'infodivertissement passager arrière
 			</td>
 			<td>
-				Non disponible
+				Oui, 8"
 			</td>
 		</tr>
 	</tbody>

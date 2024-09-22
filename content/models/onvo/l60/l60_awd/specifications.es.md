@@ -1090,7 +1090,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla de infoentretenimiento del pasajero trasero
 			</td>
 			<td>
-				No disponible
+				Sí, 8"
 			</td>
 		</tr>
 	</tbody>

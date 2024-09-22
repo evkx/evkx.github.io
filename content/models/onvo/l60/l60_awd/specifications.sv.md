@@ -1090,7 +1090,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Bakre infotainmentskärm
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 8"
 			</td>
 		</tr>
 	</tbody>
