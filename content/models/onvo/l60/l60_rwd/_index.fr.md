@@ -38,7 +38,7 @@ La batterie haute capacité a une capacité brute de 85,0 kWh et une capacité n
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 730 km (454 miles). La consommation est de 12,3kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 48 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 32 minutes et 44 secondes.
+La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 37 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 77 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 156kW. Chaque session de charge prendrait 26 minutes et 17 secondes. Cette capacité de charge efficace fait de l'Onvo L60 RWD une option pratique pour les voyages longue distance.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ La batterie haute capacité a une capacité brute de 60,6 kWh et une capacité n
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 555 km (345 miles). La consommation est de 12,3kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 54 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 28 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 32 minutes et 13 secondes.
+La vitesse de charge DC maximale est de 150kW. Une charge complète de 0 à 100 % prendrait 47 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 25 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 6 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 84kW. Chaque session de charge prendrait 29 minutes et 22 secondes.
 
 ### Chargeur embarqué
 

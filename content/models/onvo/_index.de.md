@@ -1,7 +1,7 @@
 ---
 title: Onvo EV-Modelle
 linktitle: "Onvo"
-description: "Onvo is Nio's second electric vehicle (EV) brand, officially launched in May 2024. The brand is designed to target the mainstream family market, with a focus on offering high-quality, smart EVs at more accessible price points compared to Nio’s luxury lineup. The name 'Onvo' stands for 'On Voyage' symbolizing a journey towards happiness, especially with family."
+description: "Onvo ist Nios zweite Marke für Elektrofahrzeuge (EV), die im Mai 2024 offiziell eingeführt wurde. Die Marke richtet sich an den Mainstream-Familienmarkt und konzentriert sich darauf, hochwertige, intelligente Elektrofahrzeuge zu erschwinglicheren Preisen im Vergleich zur Luxuslinie von Nio anzubieten. Der Name 'Onvo' steht für 'On Voyage' und symbolisiert eine Reise zum Glück, insbesondere mit der Familie."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

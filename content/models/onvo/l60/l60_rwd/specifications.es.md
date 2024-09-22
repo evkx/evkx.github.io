@@ -166,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				200 kW
+				250 kW
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +230,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				200 kW
+				150 kW
 			</td>
 		</tr>
 		<tr>

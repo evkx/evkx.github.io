@@ -38,7 +38,7 @@ The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capa
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 730 km (454 miles). The energy consumption is 12.3 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 48 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 142 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 74%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 32 minutes and 44 seconds.
+The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical scenario from 10% to 80% takes 20 minutes with an average charging speed of 187 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 77%. This results in an effective charging speed, including time lost, of 156 kW, with each charging session taking about 26 minutes and 17 seconds. This efficient charging capability makes the Onvo L60 RWD a convenient option for long-distance travel.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capa
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 555 km (345 miles). The energy consumption is 12.3 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
+The vehicle supports fast DC charging with a maximum power of 150 kW. Charging from 0% to 100% takes approximately 47 minutes, while a more typical scenario from 10% to 80% takes 25 minutes with an average charging speed of 101 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 6% to 76%. This results in an effective charging speed, including time lost, of 84 kW, with each charging session taking about 29 minutes and 22 seconds.
 
 ### Onboard Charger
 

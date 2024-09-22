@@ -38,7 +38,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 85,0 kWh och en nettoanvändb
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km (435 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 48 minuter, medan ett vanligare scenario på 10-80 % tar 27 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 74%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 124kW. Varje laddningssession tar 32 minuter och 44 sekunder.
+Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 37 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 77%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 156kW. Varje laddningssession tar 26 minuter och 17 sekunder. Denna effektiva laddningskapacitet gör Onvo L60 AWD till ett bekvämt alternativ för långdistansresor.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 60,6 kWh och en nettoanvändb
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 525 km (326 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 200 kW. En full laddning från 0 - 100 % tar 54 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 75kW. Varje laddningssession tar 32 minuter och 13 sekunder.
+Maximal DC-laddningshastighet är 150 kW. En full laddning från 0 - 100 % tar 47 minuter, medan ett vanligare scenario på 10-80 % tar 25 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 6% till 76%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 84kW. Varje laddningssession tar 29 minuter och 22 sekunder.
 
 ### Ombordladdare
 

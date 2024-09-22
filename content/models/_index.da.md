@@ -499,6 +499,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
+		Onvo er Nios andet elbilsmærke (EV), officielt lanceret i maj 2024. Mærket er designet til at målrette det almindelige familiemarked med fokus på at tilbyde højkvalitets, smarte elbiler til mere tilgængelige priser sammenlignet med Nios luksuslinje. Navnet 'Onvo' står for 'On Voyage', der symboliserer en rejse mod lykke, især med familien.
+	</p>
+	<p>
 	Onvo har 1 modeller med i alt 2 varianter.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Gå til Onvo EV-modeloversigt</a>

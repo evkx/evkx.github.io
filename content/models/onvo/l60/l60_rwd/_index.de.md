@@ -38,7 +38,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 85,0 kWh und eine nutz
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 730 km (454 Meilen). Der Energieverbrauch beträgt 12,3 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 200 kW. Das Laden von 0% auf 100% dauert etwa 48 Minuten, während ein typischer Ladevorgang von 10% auf 80% 27 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 142 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 74%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 124 kW, wobei jede Ladesitzung etwa 32 Minuten und 44 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 250 kW. Das Laden von 0% auf 100% dauert etwa 37 Minuten, während ein typischer Ladevorgang von 10% auf 80% 20 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 187 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 77%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 156 kW, wobei jede Ladesitzung etwa 26 Minuten und 17 Sekunden dauert. Diese effiziente Ladefähigkeit macht den Onvo L60 RWD zu einer bequemen Option für Langstreckenreisen.
 
 ### 60kWh
 
@@ -46,7 +46,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 60,6 kWh und eine nutz
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 555 km (345 Meilen). Der Energieverbrauch beträgt 12,3 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 200 kW. Das Laden von 0% auf 100% dauert etwa 54 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 32 Minuten und 13 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 150 kW. Das Laden von 0% auf 100% dauert etwa 47 Minuten, während ein typischer Ladevorgang von 10% auf 80% 25 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 101 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 6% und 76%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 84 kW, wobei jede Ladesitzung etwa 29 Minuten und 22 Sekunden dauert.
 
 ### Bordladegerät
 
