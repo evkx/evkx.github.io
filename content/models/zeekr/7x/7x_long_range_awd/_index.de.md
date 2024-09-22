@@ -46,6 +46,8 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 
 Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen. Die Steckertypen variieren je nach Markt: Dieses Modell verwendet [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in Nordamerika und [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europa. Für vollständige Spezifikationen für alle Märkte, siehe die vollständigen Spezifikationen.
 
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/battery_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1576" height="900"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Antriebsstrang
@@ -123,14 +125,26 @@ Verfügbar in:
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
-#### Rücksitzreihe
+#### Sitze in der zweiten Reihe
 
-Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
+Sie können zwei Sitztypen für die zweite Reihe im Zeekr 7X Long Range AWD wählen.
+
+Die standard-Option ist eine Drei-Sitz-Bank mit einem 40:60-Split, bei dem jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
+Die second-Option ist ein [Executive-Sitz kombiniert mit einer Zwei-Sitz-Bank](../../../../technology/seats/types/#executive-seat--two-seat-bench). Zusätzliche Funktionen umfassen:
+
+- [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
+- [Massage](../../../../technology/seats/adjustment/#massage) (Standard für äußere Sitze)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
 ## Klimaanlage
 
@@ -192,7 +206,7 @@ Der Zeekr 7X Long Range AWD unterstützt Android Auto und Apple CarPlay, sodass 
 
 Der Zeekr 7X Long Range AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Zeekr Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 300 Watt.
+- **Zeekr Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 2160 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
@@ -210,6 +224,8 @@ Der Zeekr 7X Long Range AWD wird mit einer speziellen mobilen App geliefert, die
 **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Erweiterte Fahrerassistenzsysteme
 
@@ -247,11 +263,13 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), e
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 616 Litern (21,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1500 Liter (53,0 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 32 Litern (1,1 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 616 Litern (21,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1978 Liter (69,9 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 32 Litern (1,1 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2910 kg (6415 lbs) bei einem Leergewicht von 2475 kg (5456 lbs). Dies ermöglicht eine maximale Zuladung von 435 kg (959 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 435 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 
 Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhänger zu ziehen, müssen Sie andere Modelle in Betracht ziehen.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/trunk_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Verfügbarkeit & Preise
 
@@ -261,7 +279,7 @@ Dieses Modell feierte seine Weltpremiere am 29.08.2024, mit erwarteten Lieferung
 
 Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
 
-- 300 000,00 Yuan (China)
+- 269 900,00 Yuan (China)
 
 ## Alternative Modelle
 

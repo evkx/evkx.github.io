@@ -46,6 +46,8 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/battery_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1576" height="900"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Tren de transmisión
@@ -123,14 +125,26 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
-#### Asiento de segunda fila
+#### Asientos de la segunda fila
 
-La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+Puedes elegir dos tipos de asientos para la segunda fila en el Zeekr 7X Long Range AWD.
+
+La opción standard es un banco de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
+La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive -asiento--banco-de-dos-asientos). Además, las siguientes funcionalidades están disponibles.
+
+- [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
+- [Ajuste de reclinación](../../../../technology/seats/adjustment/#recline-adjustment) (ajustable eléctricamente)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción) (estándar para asientos exteriores)
+- [masaje](../../../../technology/seats/adjustment/#massage) (estándar para asientos exteriores)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (estándar para asientos exteriores)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
 ## Sistema de climatización
 
@@ -192,7 +206,7 @@ Además, el Zeekr 7X Long Range AWD es compatible con Android Auto y Apple CarPl
 
 Un tipo de sistema de sonido está disponible para el Zeekr 7X Long Range AWD.
 
-- Con el Zeekr Sound System, obtienes 21 parlantes con una salida máxima del sistema de 300 vatios.
+- Con el Zeekr Sound System, obtienes 21 parlantes con una salida máxima del sistema de 2160 vatios.
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 
@@ -210,6 +224,8 @@ El Zeekr 7X Long Range AWD viene con su propia aplicación móvil, disponible pa
 **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -247,11 +263,13 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 616 litros. Con el asiento trasero plegado, esto se expande a 1500 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros.
+El maletero ofrece una capacidad de carga de 616 litros. Con el asiento trasero plegado, esto se expande a 1978 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros.
 
 El peso máximo del vehículo es 2910 kg, con un peso base de 2475 kg. Esto permite una carga máxima de 435 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 435 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 
 Este modelo no está disponible con enganche. Por lo tanto, para remolcar un tráiler, debes considerar otros modelos.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/trunk_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Disponibilidad y precios
 
@@ -261,7 +279,7 @@ Este modelo tuvo un estreno mundial el 29.08.2024 y se espera que las entregas c
 
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
-- 300 000,00 yuan (China)
+- 269 900,00 yuan (China)
 
 ## Modelos Alternativos
 

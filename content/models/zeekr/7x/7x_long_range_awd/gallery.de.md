@@ -9,6 +9,60 @@ navicon: bi-images
 <!-- markdownlint-disable MD033 -->
 <div class="row" id ="my-gallery">
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/airbags_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/airbags_1.jpg"
+data-pswp-width="1797"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/airbags_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/battery_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/battery_1.jpg"
+data-pswp-width="1576"
+data-pswp-height="900" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/battery_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/body_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/body_1.jpg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/body_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/camera_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/camera_1.jpg"
+data-pswp-width="1800"
+data-pswp-height="1013" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/camera_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/details_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/details_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1685" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/details_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/doors_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/doors_1.jpg"
+data-pswp-width="1576"
+data-pswp-height="1182" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/doors_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_1.jpg"
 data-pswp-width="3000"
@@ -60,6 +114,33 @@ data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_14_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_15.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_15.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_15_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_16.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_16.jpg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_16_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_17.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_17.jpg"
+data-pswp-width="1920"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/exterior_17_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -135,12 +216,48 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/fridge_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/fridge_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1685" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/fridge_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frontseats_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frontseats_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frunk_1.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/frunk_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headlights_1.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headlights_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headup_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headup_1.jpg"
+data-pswp-width="1200"
+data-pswp-height="675" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/headup_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -171,6 +288,60 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_4.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_4_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_5_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_6.jpg"
+data-pswp-width="2880"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_6_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_7.jpg"
+data-pswp-width="2880"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_7_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_8.jpg"
+data-pswp-width="2880"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_8_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_9.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_9.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/interior_9_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/main_1.jpg"
 data-pswp-width="3000"
@@ -198,12 +369,165 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/roof_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/roof_2.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/roof_2_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_1.jpg"
 data-pswp-width="3000"
 data-pswp-height="1687" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_2.jpg"
+data-pswp-width="1200"
+data-pswp-height="675" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_2_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_3.jpg"
+data-pswp-width="1800"
+data-pswp-height="1013" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_3_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_4.jpg"
+data-pswp-width="1198"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_4_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_5.jpg"
+data-pswp-width="1800"
+data-pswp-height="1013" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_5_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_6.jpg"
+data-pswp-width="2880"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/screens_6_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_1.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_2.jpg"
+data-pswp-width="1600"
+data-pswp-height="899" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_2_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_3.jpg"
+data-pswp-width="1198"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_3_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_4.jpg"
+data-pswp-width="2880"
+data-pswp-height="1620" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_4_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_5.jpg"
+data-pswp-width="1198"
+data-pswp-height="1080" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/secondrowseats_5_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_1.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_2.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_2_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_3.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_3_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_4.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/storage_4_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_1.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_1_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_2.jpg"
+data-pswp-width="2400"
+data-pswp-height="1350" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_long_range_awd/trunk_2_xst.jpg" alt="Zeekr 7X Long Range AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">

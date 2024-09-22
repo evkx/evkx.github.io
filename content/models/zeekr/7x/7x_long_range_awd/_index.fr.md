@@ -46,6 +46,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/battery_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1576" height="900"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Transmission
@@ -123,14 +125,26 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
-#### Siège de deuxième rangée
+#### Sièges de deuxième rangée
 
-La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Zeekr 7X Long Range AWD.
+
+L'option standard est une banquette à trois places avec une séparation 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
+L'option second est un [siège exécutif combiné à une banquette à deux places](../../../../technology/seats/types/#executive-siège--banquette-deux-places). De plus, les fonctionnalités suivantes sont disponibles.
+
+- [Réglage avant-arrière](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (réglable électriquement)
+- [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard pour sièges extérieurs)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
 ## Système de climatisation
 
@@ -192,7 +206,7 @@ De plus, le Zeekr 7X Long Range AWD prend en charge Android Auto et Apple CarPla
 
 Un type de système audio est disponible pour le Zeekr 7X Long Range AWD.
 
-- Avec le Zeekr Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 300 watts.
+- Avec le Zeekr Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 2160 watts.
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 
@@ -210,6 +224,8 @@ Le Zeekr 7X Long Range AWD est accompagné de son application mobile dédiée, d
 **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 
@@ -247,11 +263,13 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 616 litres. Avec les sièges arrière rabattus, cette capacité passe à 1500 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 32 litres.
+Le coffre offre une capacité de chargement de 616 litres. Avec les sièges arrière rabattus, cette capacité passe à 1978 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 32 litres.
 
 Le poids maximum du véhicule est de 2910 kg, avec un poids de base de 2475 kg. Cela permet une charge maximale de 435 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 435 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour remorquer une remorque, vous devrez envisager d'autres modèles.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/trunk_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Disponibilité et prix
 
@@ -261,7 +279,7 @@ Ce modèle a été présenté en première mondiale le 29.08.2024 et les livrais
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
-- 300 000,00 yuan (Chine)
+- 269 900,00 yuan (Chine)
 
 ## Modèles Alternatifs
 

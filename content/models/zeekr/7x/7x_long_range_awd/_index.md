@@ -46,6 +46,8 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/battery_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1576" height="900"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivetrain
@@ -123,14 +125,26 @@ Available in:
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
-#### Second Row Seat
+#### Second Row Seats
 
-The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
+You can choose two seat types for the second row in the Zeekr 7X Long Range AWD.
+
+The standard option is a three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
+The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). Additional functionalities include:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
+- [Massage](../../../../technology/seats/adjustment/#massage) (standard for outer seats)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
 ## Climate System
 
@@ -192,7 +206,7 @@ The Zeekr 7X Long Range AWD supports Android Auto and Apple CarPlay, allowing yo
 
 The Zeekr 7X Long Range AWD comes equipped with one sound system option:
 
-- **Zeekr Sound System:** Features 21 speakers and delivers a maximum output of 300 watts.
+- **Zeekr Sound System:** Features 21 speakers and delivers a maximum output of 2160 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -210,6 +224,8 @@ The Zeekr 7X Long Range AWD comes with a dedicated mobile app, available for bot
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Advanced Driver Assistance Systems
 
@@ -247,11 +263,13 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), one
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1500 liters (53.0 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
+The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1978 liters (69.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
 
 The vehicle’s maximum weight is 2910 kg (6415 lbs), with a base weight of 2475 kg (5456 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 435kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/trunk_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Availability & Pricing
 
@@ -261,7 +279,7 @@ This model made its world premiere on 29.08.2024, with deliveries anticipated to
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- 300 000,00 yuan (China)
+- 269 900,00 yuan (China)
 
 ## Alternative Models
 

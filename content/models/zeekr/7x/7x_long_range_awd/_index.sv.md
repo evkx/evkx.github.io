@@ -46,6 +46,8 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/battery_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1576" height="900"  >}}
+
 {{<evkxdisplayaddarticle />}}
 
 ## Drivlina
@@ -125,12 +127,24 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 #### Säten på andra raden
 
-Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Du kan välja två sätestyper för den andra raden i Zeekr 7X Long Range AWD.
+
+Alternativet standard är en tresitssbänk med en 40:60-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
+Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../../../../technology/seats/types/#executive-sits--tvåsitsig-bänk). Dessutom är följande funktioner tillgängliga.
+
+- [Fram- och tillbaka justering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektriskt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
+- [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
+- [massage](../../../../technology/seats/adjustment/#massage) (standard för yttre säten)
+- [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/secondrowseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="1600" height="899"  >}}
 
 ## Klimatsystem
 
@@ -192,7 +206,7 @@ Dessutom stöder Zeekr 7X Long Range AWD Android Auto och Apple CarPlay. Denna f
 
 En typ av ljudsystem är tillgänglig för Zeekr 7X Long Range AWD.
 
-- Med Zeekr Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
+- Med Zeekr Sound System får du 21 högtalare med en maximal systemeffekt på 2160 watt.
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -210,6 +224,8 @@ Zeekr 7X Long Range AWD kommer med en egen dedikerad mobilapp, tillgänglig för
 **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
 Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/headlights_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Avancerade förarassistanssystem
 
@@ -247,11 +263,13 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), e
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 616 liter. Med baksätena nedfällda ökar detta till 1500 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 32 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 616 liter. Med baksätena nedfällda ökar detta till 1978 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 32 liter.
 
 Fordonets maximala vikt är 2910 kg, med en grundvikt på 2475 kg. Detta tillåter en maximal last på 435 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 435 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 
 Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måste du överväga andra modeller.
+
+{{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/trunk_1_st.jpg" title="Zeekr 7X Long Range AWD" width="2400" height="1350"  >}}
 
 ## Tillgänglighet och pris
 
@@ -261,7 +279,7 @@ Denna modell hade världspremiär 29.08.2024 och leveranser förväntas starta o
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
-- 300 000,00 yuan (Kina)
+- 269 900,00 yuan (Kina)
 
 ## Alternativa Modeller
 

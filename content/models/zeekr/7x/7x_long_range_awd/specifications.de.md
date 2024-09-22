@@ -363,7 +363,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kofferraumvolumen mit umgeklappter zweiter Sitzreihe
 			</td>
 			<td>
-				1500 Liter (53 cu-ft)
+				1978 Liter (70 cu-ft)
 			</td>
 		</tr>
 		<tr>
@@ -878,6 +878,111 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 			</td>
 			<td>
 				Nicht verfügbar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+#### Executive Lounge
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spezifikation
+			</th>
+			<th>
+				Wert
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sitztyp
+			</td>
+			<td>
+				ExecutivePlusTwoSeatBench
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höhenverstellbare Kopfstütze
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Längenverstellbare Kopfstütze
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Oberschenkelstütze
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze der Rückenlehne
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Verstellbare Seitenstütze des Sitzkissens
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fußstütze für Passagiere
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Beinstütze für Passagiere
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrische Lendenwirbelstütze
+			</td>
+			<td>
+				Nicht verfügbar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sitzbelüftung
+			</td>
+			<td>
+				Unbekannt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Standardfunktion, äußere Sitze
 			</td>
 		</tr>
 	</tbody>
