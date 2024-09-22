@@ -124,9 +124,6 @@
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD är en helelektrisk SUV med en CLTC räckvidd på upp till 780 km. EVKX.net har alla detaljer.
 
-- id: frontpage-description-0a2313ac
-  translation: Zeekr 7X Long Range AWD är en helelektrisk SUV med en CLTC räckvidd på upp till 780 km. EVKX.net har alla detaljer.
-
 - id: frontpage-description-0bc8b721
   translation: BYD Tang 4x4 Long Range är en helelektrisk SUV med en WLTP räckvidd på upp till 530 km. EVKX.net har alla detaljer.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron är en helelektrisk premium sedan med en WLTP räckvidd på upp till 675 km. EVKX.net har alla detaljer.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 647 km. EVKX.net har alla detaljer.
 

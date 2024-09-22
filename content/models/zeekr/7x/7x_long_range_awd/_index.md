@@ -54,7 +54,9 @@ The Zeekr 7X Long Range AWD features an all-wheel drive system powered by two mo
 
 ### Suspension
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 162 mm, and the maximum is 192 mm.
+The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The standar suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 190 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 180 mm, and the maximum is 230 mm.
+
+For easier loading, you can lower the air suspension from the rear
 
 ### Brakes
 
@@ -77,7 +79,7 @@ Narrower wheels improve consumption and provide a longer range, while wider whee
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are an optional function for the side doors.
 
-There is only one roof option for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof option for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
@@ -87,7 +89,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Zeekr 7X Long Range AWD is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
+The interior of the Zeekr 7X Long Range AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -123,7 +125,7 @@ Available in:
 
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
-- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
+- [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)

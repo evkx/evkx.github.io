@@ -124,9 +124,6 @@
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
 
-- id: frontpage-description-0a2313ac
-  translation: Zeekr 7X Long Range AWD es un SUV totalmente eléctrico con una autonomía CLTC de hasta 780 km (485 millas). EVKX.net tiene todos los detalles.
-
 - id: frontpage-description-0bc8b721
   translation: BYD Tang 4x4 Long Range es un SUV totalmente eléctrico con una autonomía WLTP de hasta 530 km (329 millas). EVKX.net tiene todos los detalles.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 675 km (420 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 647 km (402 millas). EVKX.net tiene todos los detalles.
 

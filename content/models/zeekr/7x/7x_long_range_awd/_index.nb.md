@@ -54,7 +54,9 @@ Zeekr 7X Long Range AWD har et firehjulsdriftssystem som støttes av to motorer,
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 162 mm, og maksimum er 192 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standar-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 190 mm. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 180 mm, og maksimum er 230 mm.
+
+For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
 
 ### Bremser
 
@@ -77,7 +79,7 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). Elektriske dører er en valgfri funksjon for sidedørene.
 
-Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
@@ -87,7 +89,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i Zeekr 7X Long Range AWD er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i Zeekr 7X Long Range AWD er minimalistisk, med materialer av høy kvalitet i flere områder i stedet for hard plast. Den todelte midtkonsollen skiller fører og passasjer, og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
 
@@ -123,7 +125,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
+- [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)

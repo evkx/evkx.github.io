@@ -379,6 +379,131 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Suspension
 
+Le modèle propose 2 variantes de suspension
+
+### standar
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Suspension adaptative
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement réglable avant
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement arrière réglable
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant réglable en hauteur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hauteur arrière réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol maximale
+			</td>
+			<td>
+				190 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol minimale
+			</td>
+			<td>
+				190 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur avant
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur arrière
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant à ressort
+			</td>
+			<td>
+				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type à ressort arrière
+			</td>
+			<td>
+				Ressort hélicoïdal
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### air suspension
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -436,7 +561,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				192 mm
+				230 mm
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +569,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				162 mm
+				180 mm
 			</td>
 		</tr>
 		<tr>
@@ -651,6 +776,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 </table>
 
 ### Sièges de la deuxième rangée
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>

@@ -54,7 +54,9 @@ Der Zeekr 7X Long Range AWD verfügt über ein Allradantriebssystem, das von zwe
 
 ### Federung
 
-Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 162 mm und die maximale 192 mm.
+Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standar Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 190 mm. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 180 mm und die maximale 230 mm.
+
+Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 
 ### Bremsen
 
@@ -77,7 +79,7 @@ Schmalere Räder verbessern den Verbrauch und bieten eine längere Reichweite, w
 
 Das Auto hat vier [normale Türen](../../../../technology/doors/) und eine [Heckklappe im Schrägheck-Stil](../../../../technology/doors/#hatcback-style-liftgate). Elektrische Türen sind eine eine optionale-Funktion für die Seitentüren.
 
-Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich über die meisten Bereiche von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Das Glas ist getönt, um vor der Hitze der Sonne zu schützen.
+Es gibt nur eine Dachoption für dieses Modell. Das Standarddach hat ein großes Panoramadach, das sich von vorne bis hinten erstreckt. Dieses Glas lässt den Innenraum des Autos geräumiger und heller erscheinen, was die Stimmung und den Komfort der Insassen verbessern kann. Es hat einen elektrischen Vorhang, den die Insassen zum Schutz vor der Sonne verwenden können.
 
 Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erhöht und Blendung und Hitze durch die Sonne reduziert, wodurch der Innenraum für die Passagiere komfortabler wird.
 
@@ -87,7 +89,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Das Interieur des Zeekr 7X Long Range AWD ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Zeekr 7X Long Range AWD ist minimalistisch und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
@@ -123,7 +125,7 @@ Verfügbar in:
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
-- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (manuell verstellbar)
+- [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)

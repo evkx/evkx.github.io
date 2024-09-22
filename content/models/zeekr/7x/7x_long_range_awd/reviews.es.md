@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Not a 'Model Y-Wannabe' - Zeekr 7X Review</h3>
+<p>Telescope: 20.09.2024</p>
+
+{{< youtube PB0tUH9f3Yc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>ZEEKR 7X shows how far behind legacy automakers are</h3>
+<p>Elliot Richards on EVs: 20.09.2024</p>
+
+{{< youtube au8Cn4rFxYM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Insecure Overachiever - Zeekr 7X Static Review</h3>
 <p>Telescope: 30.08.2024</p>
 

@@ -379,6 +379,131 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Suspension
 
+The model offers 2 suspension variants
+
+### standar
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adaptive suspension</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping front</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable damping rear</a>
+			</td>
+			<td>
+				Yes, standard equipment
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height front</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Adjustable height rear</a>
+			</td>
+			<td>
+				Not available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Max ground clearance</a>
+			</td>
+			<td>
+				190 mm (7,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Minimum ground clearance</a>
+			</td>
+			<td>
+				190 mm (7,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type front</a>
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Damper type rear</a>
+			</td>
+			<td>
+				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type front</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Spring type rear</a>
+			</td>
+			<td>
+				Coil Spring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type front</a>
+			</td>
+			<td>
+				Double wishbone suspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/suspension/">Suspension type rear</a>
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### air suspension
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -436,7 +561,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				192 mm (7,6")
+				230 mm (9,1")
 			</td>
 		</tr>
 		<tr>
@@ -444,7 +569,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				162 mm (6,4")
+				180 mm (7,1")
 			</td>
 		</tr>
 		<tr>
@@ -651,6 +776,9 @@ This model is available with a seat configuration with five seats.
 </table>
 
 ### Second row seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>

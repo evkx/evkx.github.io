@@ -124,9 +124,6 @@
 - id: frontpage-description-f6cf62a4
   translation: Zeekr 7X Long Range AWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details.
 
-- id: frontpage-description-0a2313ac
-  translation: Zeekr 7X Long Range AWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details.
-
 - id: frontpage-description-0bc8b721
   translation: BYD Tang 4x4 Long Range is an all-electric SUV with a WLTP range of up to 530 km (329 miles). EVKX.net has all the details.
 
@@ -159,4 +156,7 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 675 km (420 miles). EVKX.net has all the details.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron is an all-electric premium station wagon with a WLTP range of up to 647 km (402 miles). EVKX.net has all the details.
 

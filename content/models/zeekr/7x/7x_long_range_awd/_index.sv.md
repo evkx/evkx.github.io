@@ -54,7 +54,9 @@ Zeekr 7X Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, 
 
 ### Hjulupphängning
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 162 mm, och maximal är 192 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standar-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 190 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 180 mm, och maximal är 230 mm.
+
+För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
 ### Bromsar
 
@@ -77,7 +79,7 @@ Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, med
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriska dörrar är valfritt funktion för sidodörrarna.
 
-Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.
+Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen.
 
 B-stolpen och vyerna bak är tonade.
 
@@ -87,7 +89,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Zeekr 7X Long Range AWD är designad med en minimalistisk estetik och har premium material överallt. Den delade mittkonsolen separerar föraren och passageraren och erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet. Det finns en sätestyp du kan välja i olika material.
+Interiören i Zeekr 7X Long Range AWD är minimalistisk och har högkvalitativa material i flera områden istället för hårdplast. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet. Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
@@ -123,7 +125,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuellt justerbar)
+- [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (standard för yttre säten)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard för yttre säten)
