@@ -23,6 +23,13 @@ Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../gui
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 7X Driven - This Is Why Legacy Auto Is Running Scared</h3>
+<p>Inside China Auto: 20.09.2024</p>
+
+{{< youtube XmFUSXUbctU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Insecure Overachiever - Zeekr 7X Static Review</h3>
 <p>Telescope: 30.08.2024</p>
 

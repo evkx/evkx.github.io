@@ -54,7 +54,7 @@ The Zeekr 7X Long Range AWD features an all-wheel drive system powered by two mo
 
 ### Suspension
 
-The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The standar suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 190 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 180 mm, and the maximum is 230 mm.
+The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The standar suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 190 mm. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 160 mm, and the maximum is 230 mm.
 
 For easier loading, you can lower the air suspension from the rear
 
@@ -89,7 +89,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Zeekr 7X Long Range AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
+The interior of the Zeekr 7X Long Range AWD is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
 
 ### Seats
 
@@ -105,9 +105,11 @@ The following functionalities are available on the **standard** seat:
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (electrically adjustable)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -151,12 +153,14 @@ The Zeekr 7X Long Range AWD includes several features to enhance comfort and con
 
 ## User Interface and Control
 
+The control interface for the Zeekr 7X Long Range AWD is primarily focused on screen interaction, with limited functionality available through physical buttons and stalks. This design may result in a less than ideal user experience and usability for some users.
+
 The Zeekr 7X Long Range AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
 
 Key screen details:
 
 - The  screen behind the steering wheel integrated into the dashboard is 13.0 inches large
-- The touch screen at the top of the center console is 15.0 inches large
+- The touch screen at the top of the center console is 16.0 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
@@ -188,7 +192,7 @@ The Zeekr 7X Long Range AWD supports Android Auto and Apple CarPlay, allowing yo
 
 The Zeekr 7X Long Range AWD comes equipped with one sound system option:
 
-- **Yamaha Sound System:** Features 21 speakers and delivers a maximum output of 300 watts.
+- **Zeekr Sound System:** Features 21 speakers and delivers a maximum output of 300 watts.
 
 Additionally, the model includes 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 
@@ -252,6 +256,12 @@ This model is not available with a towbar. So, to pull a trailer, you must look 
 ## Availability & Pricing
 
 This model made its world premiere on 29.08.2024, with deliveries anticipated to begin in October 2024. Please note that this model is available exclusively in China.
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- 300 000,00 yuan (China)
 
 ## Alternative Models
 

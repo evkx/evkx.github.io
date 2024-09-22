@@ -54,7 +54,7 @@ Zeekr 7X Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, 
 
 ### Hjulupphängning
 
-Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standar-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 190 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 180 mm, och maximal är 230 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standar-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 190 mm. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 160 mm, och maximal är 230 mm.
 
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
@@ -89,7 +89,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Interiören i Zeekr 7X Long Range AWD är minimalistisk och har högkvalitativa material i flera områden istället för hårdplast. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet. Det finns en sätestyp du kan välja i olika material.
+Interiören i Zeekr 7X Long Range AWD är designad med en minimalistisk estetik och har premium material överallt. Den delade mittkonsolen separerar föraren och passageraren och erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet. Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
 
@@ -105,9 +105,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [Lutningsjustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektriskt justerbar)
 - [Höjdjustering](../../../../technology/seats/adjustment/#height-adjustment) (elektriskt justerbar)
 - [Sittdynans vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektriskt justerbar)
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (elektriskt justerbar)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (elektriskt justerbar)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -151,12 +153,14 @@ Zeekr 7X Long Range AWD inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell är fokuserat på skärminteraktion och har endast begränsad funktionalitet tillgänglig på knappar och spakar. För vissa kan detta resultera i en mindre än idealisk användarupplevelse och användbarhet.
+
 Zeekr 7X Long Range AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 
 Viktiga skärmdetaljer:
 
 - Skärmen  bakom ratten integrerad i instrumentbrädan är 13,0 tum
-- Skärmen touch översta mittkonsolen är 15,0 tum
+- Skärmen touch översta mittkonsolen är 16,0 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
@@ -188,7 +192,7 @@ Dessutom stöder Zeekr 7X Long Range AWD Android Auto och Apple CarPlay. Denna f
 
 En typ av ljudsystem är tillgänglig för Zeekr 7X Long Range AWD.
 
-- Med Yamaha Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
+- Med Zeekr Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
@@ -252,6 +256,12 @@ Denna modell är inte tillgänglig med dragkrok. För att dra en släpvagn måst
 ## Tillgänglighet och pris
 
 Denna modell hade världspremiär 29.08.2024 och leveranser förväntas starta om October 2024. Denna modell är endast tillgänglig i Kina.
+
+### Prissättning
+
+Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
+
+- 300 000,00 yuan (Kina)
 
 ## Alternativa Modeller
 

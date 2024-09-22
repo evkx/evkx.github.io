@@ -54,7 +54,7 @@ Der Zeekr 7X Long Range AWD verfügt über ein Allradantriebssystem, das von zwe
 
 ### Federung
 
-Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standar Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 190 mm. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 180 mm und die maximale 230 mm.
+Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology/suspension/#double-wishbone) Design, während die Hinterradaufhängung ein [Multilink](../../../../technology/suspension/#multilink) Setup verwendet. Die Standardfederung umfasst Stahlfedern und hydraulische Dämpfer. Die standar Federung hat Stahlfedern mit einer festen Höhe, aber Sie können die Dämpfung an Ihren Fahrstil oder die Straßenbedingungen anpassen. Die Bodenfreiheit mit dieser Federung beträgt 190 mm. Die Vorderradaufhängung ist [Doppelquerlenker](../../../../technology/suspension/#double-wishbone), und die Hinterradaufhängung ist [Multilink](../../../../technology/suspension/#multilink). Sie verwendet Luftfederung und hydraulische Dämpfer. Die Federung ist an der Vorder- und Hinterachse vollständig adaptiv, sodass Höhe und Dämpfung manuell und automatisch angepasst werden können. Die minimale Bodenfreiheit beträgt 160 mm und die maximale 230 mm.
 
 Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 
@@ -89,7 +89,7 @@ Die Fenster von der B-Säule nach hinten sind getönt, was die Privatsphäre erh
 
 ## Interieur
 
-Das Interieur des Zeekr 7X Long Range AWD ist minimalistisch und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
+Das Interieur des Zeekr 7X Long Range AWD ist mit einer minimalistischen Ästhetik gestaltet und verfügt über hochwertige Materialien. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität. Es gibt einen Sitztyp, den Sie in verschiedenen Materialien auswählen können.
 
 ### Sitze
 
@@ -105,9 +105,11 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Elektrische Lendenwirbelstütze](../../../../technology/seats/adjustment/#lumbar-support) (elektrisch verstellbar)
 - [Verstellbare Seitenwangen der Rückenlehne](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
+- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment) (elektrisch verstellbar)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -151,12 +153,14 @@ Der Zeekr 7X Long Range AWD umfasst mehrere Funktionen, um Komfort und Bequemlic
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Zeekr 7X Long Range AWD konzentriert sich hauptsächlich auf die Bildschirminteraktion, wobei die Funktionalität über physische Tasten und Hebel eingeschränkt ist. Dieses Design kann für einige Benutzer zu einer weniger idealen Benutzererfahrung und Bedienbarkeit führen.
+
 Der Zeekr 7X Long Range AWD hat mehrere integrierte Bildschirme. Hinter dem Lenkrad befindet sich ein [digitales Instrumentencluster](../../../../technology/userinterface/screens/#digital-instruments), und in der Mittelkonsole gibt es einen [Infotainment-Bildschirm](../../../../technology/userinterface/screens/#infotainment-screen) oben in der Mittelkonsole.
 
 Wichtige Bildschirmdetails:
 
 - Der -Bildschirm hinter dem Lenkrad im Armaturenbrett integriert ist 13,0 Zoll groß.
-- Der touch-Bildschirm oben in der Mittelkonsole ist 15,0 Zoll groß.
+- Der touch-Bildschirm oben in der Mittelkonsole ist 16,0 Zoll groß.
 
 Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere wichtige Fahrerinformationen auf die Windschutzscheibe projiziert.
 
@@ -188,7 +192,7 @@ Der Zeekr 7X Long Range AWD unterstützt Android Auto und Apple CarPlay, sodass 
 
 Der Zeekr 7X Long Range AWD ist mit einer Soundsystemoption ausgestattet:
 
-- **Yamaha Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 300 Watt.
+- **Zeekr Sound System:** Verfügt über 21 Lautsprecher und liefert eine maximale Ausgangsleistung von 300 Watt.
 
 Zusätzlich verfügt das Modell standardmäßig über 3 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 1 USB-A-Anschlüsse.
 
@@ -252,6 +256,12 @@ Dieses Modell ist nicht mit einer Anhängerkupplung erhältlich. Um einen Anhän
 ## Verfügbarkeit & Preise
 
 Dieses Modell feierte seine Weltpremiere am 29.08.2024, mit erwarteten Lieferungen ab October 2024. Bitte beachten Sie, dass dieses Modell ausschließlich in China erhältlich ist.
+
+### Preise
+
+Die Preise können je nach lokalen Bedingungen, Anreizen und Aktionen variieren. Nachfolgend sind die Startpreise für ausgewählte Länder aufgeführt:
+
+- 300 000,00 Yuan (China)
 
 ## Alternative Modelle
 

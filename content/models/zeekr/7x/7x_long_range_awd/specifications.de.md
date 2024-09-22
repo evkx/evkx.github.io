@@ -569,7 +569,7 @@ Das Modell bietet 2 Federungsvarianten
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				180 mm (7,1")
+				160 mm (6,3")
 			</td>
 		</tr>
 		<tr>
@@ -697,7 +697,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Unbekannt
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -713,7 +713,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrische Funktion
 			</td>
 		</tr>
 		<tr>
@@ -1177,7 +1177,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Infotainment-Bildschirm
 			</td>
 			<td>
-				Ja, 15"
+				Ja, 16"
 			</td>
 		</tr>
 		<tr>
