@@ -171,6 +171,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Nominel spænding
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>
@@ -217,6 +225,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Nordamerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

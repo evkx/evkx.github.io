@@ -171,6 +171,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Nominell spenning
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>
@@ -217,6 +225,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type ladeport Nord-Amerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

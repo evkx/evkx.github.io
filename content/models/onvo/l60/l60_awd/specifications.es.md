@@ -171,6 +171,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Tensión nominal
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Materiales del cátodo
 			</td>
 			<td>
@@ -217,6 +225,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Escriba puerto de carga Norteamérica
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

@@ -171,6 +171,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
@@ -217,6 +225,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport North America
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

@@ -171,6 +171,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Nominell spänning
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodmaterial
 			</td>
 			<td>
@@ -217,6 +225,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Nordamerika
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

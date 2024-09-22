@@ -171,6 +171,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Tension nominale
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Matériaux cathodiques
 			</td>
 			<td>
@@ -217,6 +225,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				140 kW
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				700
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -250,14 +266,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tapez le port de charge Amérique du Nord
-			</td>
-			<td>
-				CCS1
 			</td>
 		</tr>
 		<tr>

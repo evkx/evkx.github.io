@@ -54,6 +54,42 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_6.jpg"
+data-pswp-width="1750"
+data-pswp-height="1170" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_6_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_7.jpg"
+data-pswp-width="1864"
+data-pswp-height="1170" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_7_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_8.jpg"
+data-pswp-width="2048"
+data-pswp-height="1293" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_8_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_9.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_9.jpg"
+data-pswp-width="2048"
+data-pswp-height="1218" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/exterior_9_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_1.jpg"
 data-pswp-width="1536"
@@ -63,12 +99,57 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_10.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_10.jpg"
+data-pswp-width="1081"
+data-pswp-height="761" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_10_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_11.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_11.jpg"
+data-pswp-width="1079"
+data-pswp-height="719" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_11_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_2.jpg"
-data-pswp-width="1188"
-data-pswp-height="802" 
+data-pswp-width="1920"
+data-pswp-height="1440" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_2_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_3.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_3.jpg"
+data-pswp-width="2048"
+data-pswp-height="1126" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_3_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_4.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_4.jpg"
+data-pswp-width="2048"
+data-pswp-height="1108" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_4_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_5.jpg"
+data-pswp-width="2048"
+data-pswp-height="1152" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/interior_5_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
@@ -83,8 +164,8 @@ target="_blank">
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_1.jpg"
-data-pswp-width="1199"
-data-pswp-height="720" 
+data-pswp-width="2048"
+data-pswp-height="1429" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_1_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
 		</a>
@@ -92,8 +173,8 @@ target="_blank">
 	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_2.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_2.jpg"
-data-pswp-width="1536"
-data-pswp-height="864" 
+data-pswp-width="1400"
+data-pswp-height="1050" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/onvo/l60/l60_awd/screens_2_xst.jpg" alt="Onvo L60 AWD" class="img-fluid " />
 		</a>

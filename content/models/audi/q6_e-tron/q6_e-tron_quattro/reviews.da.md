@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 E-Tron Quattro | 610km (381 mile) Long Trip Test</h3>
+<p>Kris Rifa: 21.09.2024</p>
+
+{{< youtube Jvv6Ot9mgjw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 E Tron Quattro | Range Test @ 120KPH (75MPH)</h3>
+<p>Kris Rifa: 18.09.2024</p>
+
+{{< youtube ZDBy1l354Mk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q6 e-tron - Review, Drive and One thing You Didn't Know!</h3>
 <p>Nevo EV Review Ireland: 11.08.2024</p>
 
