@@ -10,14 +10,14 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi RS e-tron GT range test</h3>
-<p>Bjørn Nyland: 17.10.2024</p>
+<p>Bjørn Nyland: 17.09.2024</p>
 
 {{< youtube 9fExWtOAis0 >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Test driving Audi RS e-tron GT in Frankfurt part 1</h3>
-<p>Bjørn Nyland: 17.10.2024</p>
+<p>Bjørn Nyland: 17.09.2024</p>
 
 {{< youtube GvlKlWNo4v0 >}}
 

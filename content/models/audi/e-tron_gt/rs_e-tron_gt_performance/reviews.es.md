@@ -10,7 +10,7 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>New Audi RS E-Tron GT PERFORMANCE: 925HP Taycan Beater?</h3>
-<p>AutoTrader: 17.10.2024</p>
+<p>AutoTrader: 17.09.2024</p>
 
 {{< youtube uBs2sErHO80 >}}
 
