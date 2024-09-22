@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango CLTC de equipamiento básico
 			</td>
 			<td>
-				501 km
+				525 km
 			</td>
 		</tr>
 		<tr>

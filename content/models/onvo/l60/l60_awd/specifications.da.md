@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim CLTC range
 			</td>
 			<td>
-				501 km
+				525 km
 			</td>
 		</tr>
 		<tr>

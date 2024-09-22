@@ -133,7 +133,10 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Lilac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 #### Second Row Seat
 

@@ -131,9 +131,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour siège passager)
 
-Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
+- Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Lilac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 #### Siège de deuxième rangée
 

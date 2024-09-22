@@ -44,7 +44,7 @@ Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 12
 
 Die Hochkapazitätsbatterie hat eine Bruttokapazität von 60,6 kWh und eine nutzbare Nettokapazität von 59,0 kWh, was einen Puffer von 1,6 kWh (2,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 700 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
 
-Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 501 km (311 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
+Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 525 km (326 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
 Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 140 kW. Das Laden von 0% auf 100% dauert etwa 54 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 32 Minuten und 13 Sekunden dauert.
 
@@ -133,7 +133,10 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 Verfügbar in:
 
+- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 - Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Lilac [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 #### Rücksitzreihe
 

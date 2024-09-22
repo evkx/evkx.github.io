@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				CLTC räckvidd
 			</td>
 			<td>
-				501 km
+				525 km
 			</td>
 		</tr>
 		<tr>

@@ -44,7 +44,7 @@ Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 58 minu
 
 Høykapasitetsbatteriet har en brutto kapasitet på 60,6 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 1,6 kWh (2,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 700 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 501 km (311 miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+[CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 525 km (326 miles). Forbruket er 12,9kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 140 kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 75kW. Hver ladeøkt vil ta 32 minutter og 13 sekunder.
 
@@ -131,9 +131,12 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
+- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Lilac [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 #### Seter på andre rad
 

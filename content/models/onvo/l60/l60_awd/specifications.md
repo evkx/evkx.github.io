@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Basic trim CLTC range
 			</td>
 			<td>
-				501 km
+				525 km
 			</td>
 		</tr>
 		<tr>

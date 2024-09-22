@@ -131,9 +131,12 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
 
-Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
+- Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Lilac [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 #### Seter på andre rad
 

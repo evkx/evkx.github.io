@@ -127,7 +127,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				501 km / 311 mi 
+				525 km / 326 mi 
 			</td>
 			<td>
 				kWh/100km /  mi/kWh

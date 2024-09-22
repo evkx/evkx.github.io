@@ -44,7 +44,7 @@ The vehicle supports fast DC charging with a maximum power of 126 kW. Charging f
 
 The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 501 km (311 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 525 km (326 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
 
@@ -133,7 +133,10 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Lilac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 #### Second Row Seat
 

@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme CLTC de finition de base
 			</td>
 			<td>
-				501 km
+				525 km
 			</td>
 		</tr>
 		<tr>

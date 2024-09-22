@@ -44,7 +44,7 @@ La velocidad máxima de carga de CC es 126kW. Una carga completa del 0 al 100 % 
 
 La batería de alta capacidad tiene una capacidad bruta de 60,6 kWh y una capacidad neta utilizable de 59,0 kWh, proporcionando un buffer de 1,6 kWh (2,6%) para la protección de la batería. Operando a un voltaje nominal de 700 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
-El [rango CLTC](../../../../guides/understandingrange/cltc/) es 501 km (311 millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+El [rango CLTC](../../../../guides/understandingrange/cltc/) es 525 km (326 millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 140kW. Una carga completa del 0 al 100 % tardaría 54 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 7% al 75%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 75kW. Cada sesión de carga tardaría 32 minutos y 13 segundos.
 
@@ -131,9 +131,12 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
 
-Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
+- Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Lilac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 #### Asiento de segunda fila
 

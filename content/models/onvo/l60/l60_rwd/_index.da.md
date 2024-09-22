@@ -131,9 +131,12 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfri)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support) (standard for passagersæde)
 
-Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
+- Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Lilac [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 #### Sæde på anden række
 

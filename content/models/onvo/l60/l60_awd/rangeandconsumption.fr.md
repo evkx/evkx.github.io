@@ -127,7 +127,7 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				501 km / 311 mi 
+				525 km / 326 mi 
 			</td>
 			<td>
 				kWh/100km /  mi/kWh

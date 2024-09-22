@@ -131,9 +131,12 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
 
-Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
+- Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Lilac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 #### Asiento de segunda fila
 

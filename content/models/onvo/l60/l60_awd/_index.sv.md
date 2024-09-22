@@ -44,7 +44,7 @@ Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 5
 
 Högkapacitetsbatteriet har en bruttokapacitet på 60,6 kWh och en nettoanvändbar kapacitet på 59,0 kWh, vilket ger en buffert på 1,6 kWh (2,6%) för batteriskydd. Vid en nominell spänning på 700 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
-[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 501 km (311 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+[CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 525 km (326 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 140 kW. En full laddning från 0 - 100 % tar 54 minuter, medan ett vanligare scenario på 10-80 % tar 28 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 7% till 75%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 75kW. Varje laddningssession tar 32 minuter och 13 sekunder.
 
@@ -131,9 +131,12 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support) (standard för passagerarsäte)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
+- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Lilac [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 #### Säten på andra raden
 

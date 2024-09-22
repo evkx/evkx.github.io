@@ -133,7 +133,10 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 
 Verfügbar in:
 
+- Brown [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 - Beige [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
+- Lilac [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
 #### Rücksitzreihe
 

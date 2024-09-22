@@ -131,9 +131,12 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfri)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support) (standard för passagerarsäte)
 
-Du kan välja mellan 3 olika material/färger för denna sitstyp.
+Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
+- Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Lilac [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 #### Säten på andra raden
 
