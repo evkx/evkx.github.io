@@ -502,7 +502,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
-	Onvo a 1 modèles avec un total de 1 variantes.
+	Onvo a 1 modèles avec un total de 2 variantes.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Aller à la Onvo présentation du modèle EV</a>
 </div>

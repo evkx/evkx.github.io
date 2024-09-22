@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-b687c14e
+  translation: Onvo L60 RWD est un SUV coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 730 km (454 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-6d850020
   translation: Onvo L60 AWD est un SUV coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 700 km (435 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 675 km (420 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-80822ada
-  translation: Audi S6 Avant e-tron est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 647 km (402 miles). EVKX.net a tous les détails.
 

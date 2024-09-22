@@ -499,7 +499,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
-	Onvo hat 1 Modelle mit insgesamt 1 Varianten.
+	Onvo hat 1 Modelle mit insgesamt 2 Varianten.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Gehe zu Onvo EV-Modellübersicht</a>
 </div>

@@ -182,7 +182,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kathodenmaterialien
 			</td>
 			<td>
-				LFP
+				NMC811
 			</td>
 		</tr>
 	</tbody>

@@ -499,7 +499,7 @@ Klikk på logoene nedenfor for å gå direkte til merkets side, eller bla nedove
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
-	Onvo har 1 modell(er) med totalt 1 varianter.
+	Onvo har 1 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Gå til Onvo modelloversikt</a>
 </div>

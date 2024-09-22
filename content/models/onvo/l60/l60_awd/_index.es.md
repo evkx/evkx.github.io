@@ -34,7 +34,7 @@ Onvo L60 AWD tiene dos opciones de batería con diferentes especificaciones. A c
 
 ### 85kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 85,0 kWh y una capacidad neta utilizable de 90,0 kWh, proporcionando un buffer de -5,0 kWh (-5,9%) para la protección de la batería. Operando a un voltaje nominal de 700 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. La batería de iones de litio utiliza [tecnología LFP](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp). Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas
+La batería de alta capacidad tiene una capacidad bruta de 85,0 kWh y una capacidad neta utilizable de 90,0 kWh, proporcionando un buffer de -5,0 kWh (-5,9%) para la protección de la batería. Operando a un voltaje nominal de 700 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km (435 millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -272,7 +272,7 @@ Este modelo tuvo un estreno mundial el 19.09.2024 y las entregas comenzaron en N
 
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
-- 206 900,00 yuan (China)
+- 235 900,00 yuan (China)
 
 ## Modelos Alternativos
 

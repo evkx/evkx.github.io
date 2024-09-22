@@ -182,7 +182,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Katodematerialer
 			</td>
 			<td>
-				LFP
+				NMC811
 			</td>
 		</tr>
 	</tbody>

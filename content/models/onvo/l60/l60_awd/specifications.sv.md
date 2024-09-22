@@ -182,7 +182,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Katodmaterial
 			</td>
 			<td>
-				LFP
+				NMC811
 			</td>
 		</tr>
 	</tbody>

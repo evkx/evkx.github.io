@@ -182,7 +182,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Materiales del cátodo
 			</td>
 			<td>
-				LFP
+				NMC811
 			</td>
 		</tr>
 	</tbody>

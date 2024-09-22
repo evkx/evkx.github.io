@@ -182,7 +182,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Matériaux cathodiques
 			</td>
 			<td>
-				LFP
+				NMC811
 			</td>
 		</tr>
 	</tbody>

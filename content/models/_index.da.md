@@ -499,7 +499,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
-	Onvo har 1 modeller med i alt 1 varianter.
+	Onvo har 1 modeller med i alt 2 varianter.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Gå til Onvo EV-modeloversigt</a>
 </div>

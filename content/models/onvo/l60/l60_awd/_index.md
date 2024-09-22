@@ -34,7 +34,7 @@ Onvo L60 AWD has two battery options with different specifications. Below you se
 
 ### 85kWh
 
-The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
+The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -272,7 +272,7 @@ The Onvo L60 AWD had its world premiere on 19.09.2024, with deliveries starting 
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
-- 206 900,00 yuan (China)
+- 235 900,00 yuan (China)
 
 ## Alternative Models
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-b687c14e
+  translation: Onvo L60 RWD er en fuldelektrisk coupé-SUV med en CLTC rækkevidde på op til 730 km (454 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-6d850020
   translation: Onvo L60 AWD er en fuldelektrisk coupé-SUV med en CLTC rækkevidde på op til 700 km (435 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 675 km (420 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-80822ada
-  translation: Audi S6 Avant e-tron er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 647 km (402 miles). EVKX.net har alle detaljerne.
 

@@ -34,7 +34,7 @@ Onvo L60 AWD har två batterialternativ med olika specifikationer. Nedan kan du 
 
 ### 85kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 85,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på −5,0 kWh (−5,9%) för batteriskydd. Vid en nominell spänning på 700 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 85,0 kWh och en nettoanvändbar kapacitet på 90,0 kWh, vilket ger en buffert på −5,0 kWh (−5,9%) för batteriskydd. Vid en nominell spänning på 700 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km (435 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -272,7 +272,7 @@ Denna modell hade världspremiär 19.09.2024 och leveranserna startade i Novembe
 
 Priserna kan variera beroende på lokala förhållanden, incitament och kampanjer. Nedan är startpriserna för utvalda länder:
 
-- 206 900,00 yuan (Kina)
+- 235 900,00 yuan (Kina)
 
 ## Alternativa Modeller
 

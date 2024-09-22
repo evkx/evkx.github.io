@@ -502,7 +502,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Onvo</h2>
 	<p>
-	Onvo tiene 1 modelos con un total de 1 variantes.
+	Onvo tiene 1 modelos con un total de 2 variantes.
 	</p>
 	<a href="onvo/" class="btn btn-outline-primary" role="button">Ir a Onvo descripción general del modelo EV</a>
 </div>
