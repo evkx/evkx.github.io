@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV3 first impressions and interior review</h3>
+<p>Bjørn Nyland: 21.09.2024</p>
+
+{{< youtube fggdSoOw3zg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Kia EV3: The One We’ve Been Waiting For?</h3>
 <p>Fully Charged Show: 11.09.2024</p>
 

@@ -36,15 +36,15 @@ Onvo L60 AWD has two battery options with different specifications. Below you se
 
 The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical scenario from 10% to 80% takes 41 minutes with an average charging speed of 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 44%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 27 minutes and 2 seconds.
+The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical scenario from 10% to 80% takes 32 minutes with an average charging speed of 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 71%. This results in an effective charging speed, including time lost, of 107 kW, with each charging session taking about 35 minutes and 28 seconds.
 
 ### 60kWh
 
 The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 501 km (311 miles). he energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 501 km (311 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
 
@@ -105,6 +105,8 @@ There is only one roof option for this model. The standard roof includes a large
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The interior of the Onvo L60 AWD is minimalistic, featuring high-quality materials in several areas instead of hard plastic. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality.
 
 ### Seats
 

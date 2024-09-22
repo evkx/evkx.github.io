@@ -38,7 +38,7 @@ Högkapacitetsbatteriet har en bruttokapacitet på 85,0 kWh och en nettoanvändb
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 700 km (435 miles). Förbrukningen är 12,9kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 75 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 44%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 27 minuter och 2 sekunder.
+Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 71%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 107kW. Varje laddningssession tar 35 minuter och 28 sekunder.
 
 ### 60kWh
 
@@ -105,6 +105,8 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 {{<evkxdisplayaddarticle />}}
 
 ## Interiör
+
+Interiören i Onvo L60 AWD är minimalistisk och har högkvalitativa material i flera områden istället för hårdplast. Den delade mittkonsolen separerar föraren och passageraren, vilket erbjuder praktiska förvaringsalternativ och förbättrad funktionalitet.
 
 ### Säten
 

@@ -38,7 +38,7 @@ Die Hochkapazitätsbatterie hat eine Bruttokapazität von 85,0 kWh und eine nutz
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 700 km (435 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 126 kW. Das Laden von 0% auf 100% dauert etwa 75 Minuten, während ein typischer Ladevorgang von 10% auf 80% 41 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 91 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 44%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 86 kW, wobei jede Ladesitzung etwa 27 Minuten und 2 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 126 kW. Das Laden von 0% auf 100% dauert etwa 58 Minuten, während ein typischer Ladevorgang von 10% auf 80% 32 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 119 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 71%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 107 kW, wobei jede Ladesitzung etwa 35 Minuten und 28 Sekunden dauert.
 
 ### 60kWh
 
@@ -105,6 +105,8 @@ Es gibt nur eine Dachoption für dieses Modell. Das Standarddach umfasst ein gro
 {{<evkxdisplayaddarticle />}}
 
 ## Interieur
+
+Das Interieur des Onvo L60 AWD ist minimalistisch und verfügt über hochwertige Materialien in mehreren Bereichen anstelle von Hartplastik. Die zweigeteilte Mittelkonsole trennt Fahrer und Beifahrer und bietet praktische Aufbewahrungsmöglichkeiten und verbesserte Funktionalität.
 
 ### Sitze
 

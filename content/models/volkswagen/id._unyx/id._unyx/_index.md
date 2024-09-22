@@ -32,7 +32,7 @@ The Volkswagen Id. UNYX delivers a solid performance with a maximum power of 210
 
 The high-capacity battery has a gross capacity of 82.0 kWh and a net usable capacity of 77.0 kWh, providing a 5.0 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 621 km (386 miles). he energy consumption is 12.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 621 km (386 miles). The energy consumption is 12.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical scenario from 10% to 80% takes 35 minutes with an average charging speed of 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 19 minutes and 43 seconds.
 

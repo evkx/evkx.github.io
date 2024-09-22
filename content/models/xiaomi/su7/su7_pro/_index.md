@@ -32,7 +32,7 @@ The Xiaomi SU7 Pro delivers a solid performance with a maximum power of 220 kW (
 
 The high-capacity battery has a gross capacity of 94.3 kWh and a net usable capacity of 92.0 kWh, providing a 2.3 kWh buffer (2.4%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 830 km (516 miles). he energy consumption is 11.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 830 km (516 miles). The energy consumption is 11.1 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical scenario from 10% to 80% takes 30 minutes with an average charging speed of 130 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 71%. This results in an effective charging speed, including time lost, of 116 kW, with each charging session taking about 32 minutes and 24 seconds.
 

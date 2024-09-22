@@ -38,7 +38,7 @@ La batería de alta capacidad tiene una capacidad bruta de 85,0 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 700 km (435 millas). El consumo es de 12,9kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 126kW. Una carga completa del 0 al 100 % tardaría 75 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 44%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 27 minutos y 2 segundos.
+La velocidad máxima de carga de CC es 126kW. Una carga completa del 0 al 100 % tardaría 58 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 71%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 107kW. Cada sesión de carga tardaría 35 minutos y 28 segundos.
 
 ### 60kWh
 
@@ -105,6 +105,8 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+El interior del Onvo L60 AWD es minimalista, con materiales de alta calidad en varias áreas en lugar de plástico duro. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada.
 
 ### Asientos
 
