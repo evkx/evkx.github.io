@@ -34,19 +34,19 @@ Onvo L60 AWD propose deux options de batterie avec des spécifications différen
 
 ### 85kWh
 
-La batterie haute capacité a une capacité brute de 85,0 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de -5,0 kWh (-5,9%) pour la protection de la batterie. Fonctionnant à une tension nominale de 700 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 85,0 kWh et une capacité nette utilisable de 90,0 kWh, offrant une réserve de -5,0 kWh (-5,9%) pour la protection de la batterie. Fonctionnant à une tension nominale de 792 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 700 km (435 miles). La consommation est de 12,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 58 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 71 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 107kW. Chaque session de charge prendrait 35 minutes et 28 secondes.
+La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 48 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 74 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 124kW. Chaque session de charge prendrait 32 minutes et 44 secondes.
 
 ### 60kWh
 
-La batterie haute capacité a une capacité brute de 60,6 kWh et une capacité nette utilisable de 59,0 kWh, offrant une réserve de 1,6 kWh (2,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 700 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 60,6 kWh et une capacité nette utilisable de 59,0 kWh, offrant une réserve de 1,6 kWh (2,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 685 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 525 km (326 miles). La consommation est de 12,9kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 140kW. Une charge complète de 0 à 100 % prendrait 54 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 28 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 32 minutes et 13 secondes.
+La vitesse de charge DC maximale est de 200kW. Une charge complète de 0 à 100 % prendrait 54 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 28 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 7 % et 75 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 75kW. Chaque session de charge prendrait 32 minutes et 13 secondes.
 
 ### Chargeur embarqué
 
@@ -55,6 +55,8 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Échange de batterie
 
@@ -123,10 +125,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [Réglage en hauteur](../../../../technology/seats/adjustment/#height-adjustment) (réglable électriquement)
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
-- appui-tête réglable en longueur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [Mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optionnel)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support) (standard pour siège passager)
@@ -138,11 +138,14 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Lilac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/frontseats_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360"  >}}
+
 #### Siège de deuxième rangée
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable électriquement)
+- appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard pour sièges extérieurs)
 
@@ -185,7 +188,7 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 Le Onvo L60 AWD est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également deux molettes multifonctions, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Ovale** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également deux molettes multifonctions, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 
@@ -220,6 +223,8 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 1 co
 **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/headlights_1_st.jpg" title="Onvo L60 AWD" width="1320" height="916"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 

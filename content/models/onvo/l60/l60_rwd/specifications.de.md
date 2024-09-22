@@ -166,7 +166,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				126 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				700
+				792
 			</td>
 		</tr>
 		<tr>
@@ -222,7 +230,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale DC-Ladegeschwindigkeit
 			</td>
 			<td>
-				140 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +246,15 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				700
+				685
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Kathodenmaterialien
+			</td>
+			<td>
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -347,6 +371,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				0,299
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wendekreis
+			</td>
+			<td>
+				10,8 Meter (425,2")
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +644,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Längenverstellbare Kopfstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +652,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Verstellbare Oberschenkelstütze
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +744,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Höhenverstellbare Kopfstütze
 			</td>
 			<td>
-				Nicht verfügbar
+				Serienausstattung
 			</td>
 		</tr>
 		<tr>

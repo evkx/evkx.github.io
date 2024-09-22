@@ -34,19 +34,19 @@ Onvo L60 RWD har to batterialternativer med forskjellige spesifikasjoner. Nedenf
 
 ### 85kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 85,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en buffer på -5,0 kWh (-5,9%) for batteribeskyttelse. Ved å operere med en nominell spenning på 700 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 85,0 kWh og en netto brukbar kapasitet på 90,0 kWh, som gir en buffer på -5,0 kWh (-5,9%) for batteribeskyttelse. Ved å operere med en nominell spenning på 792 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 730 km (454 miles). Forbruket er 12,3kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 58 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 71%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 107kW. Hver ladeøkt vil ta 35 minutter og 28 sekunder.
+Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 48 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 74%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 124kW. Hver ladeøkt vil ta 32 minutter og 44 sekunder.
 
 ### 60kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60,6 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 1,6 kWh (2,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 700 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 60,6 kWh og en netto brukbar kapasitet på 59,0 kWh, som gir en buffer på 1,6 kWh (2,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 685 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 555 km (345 miles). Forbruket er 12,3kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 140 kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 75kW. Hver ladeøkt vil ta 32 minutter og 13 sekunder.
+Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 54 minutter, mens et mer vanlig scenario på 10-80 % vil ta 28 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 7% til 75%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 75kW. Hver ladeøkt vil ta 32 minutter og 13 sekunder.
 
 ### Ombordlader
 
@@ -55,6 +55,8 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_rwd/battery_1_st.jpg" title="Onvo L60 RWD" width="1005" height="1080"  >}}
 
 ### Batteribytte
 
@@ -123,10 +125,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [Høydejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
-- lengdejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [Minne](../../../../technology/seats/adjustment/#seat-memory)
-- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (valgfri)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support) (standard for passasjersete)
@@ -138,11 +138,14 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Lilac [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/onvo/l60/l60_rwd/frontseats_1_st.jpg" title="Onvo L60 RWD" width="2232" height="1360"  >}}
+
 #### Seter på andre rad
 
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [Tilbakejustering](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisk justerbar)
+- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (standard for ytre seter)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for ytre seter)
 
@@ -185,7 +188,7 @@ Et head-up display er en standard-system som viser hastighet og annen viktig fø
 
 Onvo L60 RWD er utstyrt med en enkelt type ratt:
 
-- **Sirkulært Ratt**: Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også to multifunksjonelle rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
+- **Ovalt Ratt:** Dette rattet har integrert oppvarming for økt komfort i kaldt vær. Det inkluderer også to multifunksjonelle rullehjul, som gir deg muligheten til å kontrollere infotainmentsystemet, justere volumet, bytte musikksport og håndtere andre viktige funksjoner enkelt.
 
 ### Speil
 
@@ -220,6 +223,8 @@ Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_rwd/headlights_1_st.jpg" title="Onvo L60 RWD" width="1320" height="916"  >}}
 
 ## Avanserte førerassistentsystemer
 

@@ -34,19 +34,19 @@ Onvo L60 AWD hat zwei Batterieoptionen mit unterschiedlichen Spezifikationen. Un
 
 ### 85kWh
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 85,0 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von -5,0 kWh (-5,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 700 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 85,0 kWh und eine nutzbare Nettokapazität von 90,0 kWh, was einen Puffer von -5,0 kWh (-5,9%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 792 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 700 km (435 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 126 kW. Das Laden von 0% auf 100% dauert etwa 58 Minuten, während ein typischer Ladevorgang von 10% auf 80% 32 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 119 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 71%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 107 kW, wobei jede Ladesitzung etwa 35 Minuten und 28 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 200 kW. Das Laden von 0% auf 100% dauert etwa 48 Minuten, während ein typischer Ladevorgang von 10% auf 80% 27 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 142 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 1% und 74%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 124 kW, wobei jede Ladesitzung etwa 32 Minuten und 44 Sekunden dauert.
 
 ### 60kWh
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 60,6 kWh und eine nutzbare Nettokapazität von 59,0 kWh, was einen Puffer von 1,6 kWh (2,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 700 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems.
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 60,6 kWh und eine nutzbare Nettokapazität von 59,0 kWh, was einen Puffer von 1,6 kWh (2,6%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 685 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Die Lithium-Ionen-Batterie verwendet [LFP-Technologie.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dies hat einige Vorteile und Nachteile gegenüber den typischen NCA/NCM-Batterien.
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 525 km (326 Meilen). Der Energieverbrauch beträgt 12,9 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
-Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 140 kW. Das Laden von 0% auf 100% dauert etwa 54 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 32 Minuten und 13 Sekunden dauert.
+Das Fahrzeug unterstützt schnelles DC-Laden mit einer maximalen Leistung von 200 kW. Das Laden von 0% auf 100% dauert etwa 54 Minuten, während ein typischer Ladevorgang von 10% auf 80% 28 Minuten dauert, mit einer durchschnittlichen Ladegeschwindigkeit von 87 kW. Unter Berücksichtigung von zusätzlichen 5 Minuten für jeden Ladestopp aufgrund von Fahrunterbrechungen liegt der optimale Ladebereich zwischen 7% und 75%. Dies führt zu einer effektiven Ladegeschwindigkeit, einschließlich der verlorenen Zeit, von 75 kW, wobei jede Ladesitzung etwa 32 Minuten und 13 Sekunden dauert.
 
 ### Bordladegerät
 
@@ -55,6 +55,8 @@ Das  Onboard-Ladegerät unterstützt bis zu 11 kW für Level 1 und Level 2 AC-La
 ### Ladeanschluss
 
 Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technology/charging/connectors/#rear-side), was das Laden an Stationen erleichtert, bei denen Sie rückwärts zum Ladegerät fahren müssen.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Batteriewechsel
 
@@ -123,10 +125,8 @@ Die folgenden Funktionen sind für den **standard**-Sitz verfügbar:
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)
 - [Sitzkissenwinkelverstellung](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisch verstellbar)
 - Höhenverstellbare Kopfstütze
-- Längenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating)
 - [Speicher](../../../../technology/seats/adjustment/#seat-memory)
-- [Verstellbare Oberschenkelstütze](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Belüftung](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 - [Beinstütze für den Beifahrer](../../../../technology/seats/adjustment/#leg-support) (Standard für Beifahrersitz)
@@ -138,11 +138,14 @@ Verfügbar in:
 - Black [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 - Lilac [Kunstleder-Polsterung](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/frontseats_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360"  >}}
+
 #### Rücksitzreihe
 
 Die zweite Reihe verfügt über eine Standard-Drei-Sitz-Bank mit einem 40:60-Split, sodass jeder Abschnitt separat gefaltet werden kann, um den Laderaum zu vergrößern. Zusätzliche Funktionen umfassen:
 
 - [Rücklehneneinstellung](../../../../technology/seats/adjustment/#recline-adjustment) (elektrisch verstellbar)
+- Höhenverstellbare Kopfstütze
 - [Sitzheizung](../../../../technology/seats/adjustment/#heating) (Standard für äußere Sitze)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (Standard für äußere Sitze)
 
@@ -185,7 +188,7 @@ Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere
 
 Der Onvo L60 AWD ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch zwei multifunktionale Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
+- **Ovales Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch zwei multifunktionale Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 
@@ -220,6 +223,8 @@ Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das M
 **Standard-Scheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/headlights_1_st.jpg" title="Onvo L60 AWD" width="1320" height="916"  >}}
 
 ## Erweiterte Fahrerassistenzsysteme
 

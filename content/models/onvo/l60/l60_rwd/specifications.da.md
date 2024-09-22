@@ -166,7 +166,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				126 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				700
+				792
 			</td>
 		</tr>
 		<tr>
@@ -222,7 +230,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				140 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +246,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Nominel spænding
 			</td>
 			<td>
-				700
+				685
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -347,6 +371,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				0,299
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Vendecirkel
+			</td>
+			<td>
+				10,8 meter
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +644,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +652,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +744,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

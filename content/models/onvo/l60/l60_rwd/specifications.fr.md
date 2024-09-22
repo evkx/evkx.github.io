@@ -166,7 +166,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				126 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuration du pack
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -174,7 +182,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				700
+				792
 			</td>
 		</tr>
 		<tr>
@@ -222,7 +230,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				140 kW
+				200 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuration du pack
+			</td>
+			<td>
+				216s1p
 			</td>
 		</tr>
 		<tr>
@@ -230,7 +246,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				700
+				685
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -347,6 +371,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				0,299
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Cercle de tournage
+			</td>
+			<td>
+				10,8 mètre
 			</td>
 		</tr>
 	</tbody>
@@ -612,7 +644,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -620,7 +652,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de cuisse réglable
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -712,7 +744,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

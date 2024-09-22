@@ -34,19 +34,19 @@ Onvo L60 AWD has two battery options with different specifications. Below you se
 
 ### 85kWh
 
-The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 85.0 kWh and a net usable capacity of 90.0 kWh, providing a -5.0 kWh buffer (-5.9%) for battery protection. Operating at a nominal voltage of 792 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 700 km (435 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical scenario from 10% to 80% takes 32 minutes with an average charging speed of 119 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 71%. This results in an effective charging speed, including time lost, of 107 kW, with each charging session taking about 35 minutes and 28 seconds.
+The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 48 minutes, while a more typical scenario from 10% to 80% takes 27 minutes with an average charging speed of 142 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 74%. This results in an effective charging speed, including time lost, of 124 kW, with each charging session taking about 32 minutes and 44 seconds.
 
 ### 60kWh
 
-The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 700 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 60.6 kWh and a net usable capacity of 59.0 kWh, providing a 1.6 kWh buffer (2.6%) for battery protection. Operating at a nominal voltage of 685 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery utilizes [LFP technology](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp), offering both benefits and drawbacks compared to typical NCA/NMC batteries.
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 525 km (326 miles). The energy consumption is 12.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
+The vehicle supports fast DC charging with a maximum power of 200 kW. Charging from 0% to 100% takes approximately 54 minutes, while a more typical scenario from 10% to 80% takes 28 minutes with an average charging speed of 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 75%. This results in an effective charging speed, including time lost, of 75 kW, with each charging session taking about 32 minutes and 13 seconds.
 
 ### Onboard Charger
 
@@ -55,6 +55,8 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 ### Charge Port
 
 The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/battery_1_st.jpg" title="Onvo L60 AWD" width="1005" height="1080"  >}}
 
 ### Battery swap
 
@@ -123,10 +125,8 @@ The following functionalities are available on the **standard** seat:
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest
-- Length adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
-- [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage) (optional)
 - [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
@@ -138,11 +138,14 @@ Available in:
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Lilac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/frontseats_1_st.jpg" title="Onvo L60 AWD" width="2232" height="1360"  >}}
+
 #### Second Row Seat
 
 The second row features a standard three-seat bench with a 40:60 split, allowing each section to fold separately to increase cargo space. Additional functionalities include:
 
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
+- Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 - [ISOFIX](../../../../technology/seats/adjustment/#isofix) (standard for outer seats)
 
@@ -185,7 +188,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Onvo L60 AWD is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
+- **Oval Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes two multifunctional scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 
@@ -220,6 +223,8 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
+
+{{< sitefiguresized thumb="models/onvo/l60/l60_awd/headlights_1_st.jpg" title="Onvo L60 AWD" width="1320" height="916"  >}}
 
 ## Advanced Driver Assistance Systems
 
