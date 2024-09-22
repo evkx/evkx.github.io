@@ -128,6 +128,8 @@ The following functionalities are available on the **standard** seat:
 - [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage) (optional)
+- [Leg support for passenger](../../../../technology/seats/adjustment/#leg-support) (standard for passenger seat)
 
 Available in:
 

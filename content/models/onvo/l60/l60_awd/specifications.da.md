@@ -652,7 +652,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Standard passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Massagefunktion
 			</td>
 			<td>
-				Ikke tilgængelig
+				Valgfri funktion
 			</td>
 		</tr>
 	</tbody>

@@ -652,7 +652,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				Asiento de pasajero estándar
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Función de masaje
 			</td>
 			<td>
-				No disponible
+				Función opcional
 			</td>
 		</tr>
 	</tbody>

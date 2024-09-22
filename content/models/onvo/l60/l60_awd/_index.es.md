@@ -128,6 +128,8 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [Memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
+- [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
+- [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support) (estándar para asiento del pasajero)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 

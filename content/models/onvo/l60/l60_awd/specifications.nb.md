@@ -652,7 +652,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Standard passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Massasjefunksjon
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Valgfri funksjon
 			</td>
 		</tr>
 	</tbody>

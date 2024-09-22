@@ -652,7 +652,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Standard Beifahrersitz
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Massagefunktion
 			</td>
 			<td>
-				Nicht verfügbar
+				Optionale Ausstattung
 			</td>
 		</tr>
 	</tbody>

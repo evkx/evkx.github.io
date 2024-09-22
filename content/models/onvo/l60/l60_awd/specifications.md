@@ -652,7 +652,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Standard passenger seat
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Not Available
+				Optional feature
 			</td>
 		</tr>
 	</tbody>

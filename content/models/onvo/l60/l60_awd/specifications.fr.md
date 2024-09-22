@@ -652,7 +652,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Siège passager standard
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +676,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Fonction massage
 			</td>
 			<td>
-				Non disponible
+				Fonctionnalité facultative
 			</td>
 		</tr>
 	</tbody>
