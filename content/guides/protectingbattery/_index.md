@@ -77,7 +77,7 @@ This is based on a battery with 100kWh usable capacity.
 </tbody>
 </table>
 
-You can see from the graph and table that following the recommended strategy...
+You can see from the graph and table that following the recommended strategy reduces the average state of charge considerably, and potentially reduces degradation and extends the battery life.
 
 ## Tip 2: Reduce Fast Charging Frequency
 
