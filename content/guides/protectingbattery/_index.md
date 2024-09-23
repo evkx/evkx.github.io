@@ -1,49 +1,134 @@
 ---
 title: How to extend EV battery life?
-linktitle: Protecting battery
-description: While modern EV batteries are designed to last for many years, the way you treat your battery can significantly impact its lifespan and efficiency. 
+linktitle: Extending Battery Life
+description: One of the primary concerns for prospective electric vehicle (EV) buyers is battery longevity and the potential cost of replacement. 
 weight: 1
 ---
 <!-- markdownlint-disable MD033 -->
 
-In this article, we'll explore strategies to maximize your EV battery’s longevity, focusing on practical tips and delving into the differences between Lithium Iron Phosphate (LFP) and Nickel Manganese Cobalt (NMC) batteries.
+More than a decade after the launch of the Tesla Model S, we now have evidence that EV batteries tend to last longer than many initially feared.
+However, there are still key strategies you can follow to maximize your EV's battery life and minimize degradation.
+Much like the lithium-ion batteries in smartphones and other devices, EV batteries degrade over time, losing capacity. 
 
+While this degradation occurs much more slowly in EVs, you can still adopt certain practices to further extend your battery’s lifespan.
 
-Many factors contribute to battery degradation, but the following are the most significant.
+## Tip 1: Minimize High State of Charge
 
-### High-Speed Charging
+One of the most effective ways to preserve battery life is to avoid keeping your battery at a high state of charge for extended periods. The optimal range is generally between 30% and 50%, depending on your usage patterns. 
 
-High-speed charging is the single most significant factor that increases battery degradation. Whenever possible, try to charge your EV at home using a slower charger.
+The diagram below show the storage stress on cells with different state of charge with 3 different tempratures. 
 
-### High or Low State of Charge Over a Long Time
-
-Most EVs have a buffer to protect the battery. However, many people mistakenly believe this buffer protects against charging to 100%. In most cases, the buffer is primarily at the bottom to prevent the battery from running empty.
-
-{{< sitefiguresized thumb="guides/protectingbattery/buffersize_st.png" width="1232" height="844" title="Buffer size" >}}
+{{< sitefiguresized thumb="guides/protectingbattery/evstoragestress_st.png" width="623" height="473" title="Storage stress" >}}
 
 Most EV manufacturers recommend not charging more than 80% on a daily basis. This recommendation is typically shown in the MMI and the user manual.
 
 {{< sitefiguresized thumb="guides/protectingbattery/chargingtarget_st.png" width="959" height="478" title="Charging target" >}}
 
-The graph below shows a generalized stress level depending on the charge level.
 
-{{< sitefiguresized thumb="guides/protectingbattery/evstoragestress_st.png" width="623" height="473" title="Storage stress" >}}
+### Recomended Charging strategy 
 
-Based on this, the optimal charge level is likely between 30% and 70%. However, the exact benefit compared to charging to 100% is difficult to quantify.
+With this knowledge you can implement a strategty to reduce storage stress. 
 
-The buffers are essentially limits on the maximum and minimum voltage each cell can have. For example, a 4% buffer on top means the voltage on each cell is limited to a maximum of 96% of the maximum voltage.
+**Daily short commutes:** If you drive a limited distance daily and consume about 20% of your battery, setting your charging target to 60% will help maintain an average charge of around 50%. This also gives you enough energy to double your driving range if needed.
 
-### Number of Charge Cycles
+**Moderate daily use:** If you consume around 50% of your battery each day, set your charging target at 80% and recharge once your battery drops to 30%. Many EVs and home chargers allow you to schedule charging sessions, which can also help you take advantage of lower electricity rates during off-peak hours, typically at night or early morning.
 
-The number of charge cycles also affects battery degradation. The diagram below shows how the battery degrades based on charging habits.
+**High daily use:** If you consume around 80% of your battery each day, try to time charging so hit 95% when you need to leave. Then you have15% buffer for additional driving before running empty.  You might consider getting a EV with longer range
+
+
+
+### For owners depending on DC Fast Charging. 
+
+If you are depending on DC Fast charging this above strategy could be a hassle. This is a possible strategy for you
+
+
+**Daily short commutes:** It all depends on how easy access you have to fast charger. When using a fast charger, aim for 80% and let the battery drain to 20% before recharging again. This cycle is less stressful on the battery than charging to 100%.
+
+For the two **other scenarios** you should try to charge before just before going to work or leaving from work. In that way you will limit the time on high state of charge. 
+
+
+## Comparision of strategies
+
+To compare how the recomended strategies compares to a strategy where you always charge to 100% we put
+the data in a table. We assume 8 hours at work and charging with 10kW AC charging. 
+
+This is based on a battery with 100kWh usable capacity.
+
+{{< sitefiguresized thumb="guides/protectingbattery/strategy_1_st.png" width="2493" height="1547" title="Charging to 100%" >}}
+
+{{< sitefiguresized thumb="guides/protectingbattery/strategy_2_st.png" width="2493" height="1547" title="Using recomend strategy" >}}
+
+<table class="table table-striped border">
+<thead>
+    <tr>
+        <th>
+            Scenario
+        </th>
+        <th>
+            Average SOC 100% strategy
+        </th>
+        <th>
+            Average SOC recomend strategy
+        </th>
+    </tr>
+</thead>
+<tbody>
+<tr>
+    <td>
+        Short commutes
+    </td>
+    <td>94%
+    </td>
+    <td>55%
+    </td>
+</tr>
+<tr> 
+    <td>
+        Modest commutes
+    </td>
+    <td>83%
+    </td>
+    <td>63%
+    </td>
+</tr>
+<tr> 
+    <td>
+        Long commutes
+    </td>
+    <td>48%
+    </td>
+    <td>65%
+    </td>
+</tr>
+</tbody>
+</table>
+
+You see from the graph and table that following the recomended 
+
+## Tip 2: Reduce Fast Charging Frequency
+
+While fast charging is convenient, it can accelerate battery degradation if overused. For longevity, opt for slower AC charging whenever possible. Charging your car slowly over 5 hours is gentler on the battery than relying on a fast charger that recharges your vehicle in 20-30 minutes. Use fast chargers only when necessary, such as on long trips.
+
+## Tip 3: Avoid Extreme Heat
+
+Heat is a major enemy of battery health. Whenever possible, park your EV in the shade or in a garage to avoid exposing the battery to extreme temperatures. High heat can increase the rate of degradation, especially if the car is fully charged. In warmer climates, it's even more critical to manage charging schedules and storage to keep the car cool.
+
+## Tip 4: Improve Energy Efficiency
+
+Finally, reducing energy consumption helps conserve battery life. Simple practices such as using eco-driving modes, avoiding harsh acceleration, and maintaining proper tire pressure can extend the range and lifespan of your battery. Efficient driving not only maximizes your battery’s performance but also reduces the frequency of charging, thereby slowing the degradation process.
+
+he number of charge cycles also affects battery degradation. The diagram below shows how the battery degrades based on charging habits.
 
 {{< sitefiguresized thumb="guides/protectingbattery/dstcycles_st.png" width="570" height="456" title="DST Cycles" >}}
 
-Based on this, it is best to keep the charging levels around 50%.
 
-### High Temperature
+## What do we know about real world degradation
 
-High temperatures can damage the battery. If you live in an area with high temperatures, try to avoid parking your car in direct sunlight for extended periods.
+With now more than a deceade of long range EVs avaiable in the market we are starting to get some good statisics on how battery degrades. 
+
+
+
+
 
 You can find more information about battery degradation in our [battery guide](../../../technology/battery/).
 
