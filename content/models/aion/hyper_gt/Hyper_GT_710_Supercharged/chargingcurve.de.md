@@ -12,6 +12,9 @@ navicon: bi-battery-charging
 [Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingcurve.svg)
 
 
+<div class="alert alert-primary" role="alert">
+Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen über die Ladeleistung ähnlicher Batteriepacks abgeleitet.
+</div>
 <table class="table table-striped border">
 <tbody>
 <tr>

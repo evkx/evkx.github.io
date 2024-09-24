@@ -48,6 +48,9 @@ Tesla's [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-im
 
 {{< sitefiguresized thumb="technology/battery/degradation/teslastats_1_st.png" width="991" height="550" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
 
+<a href="https://www.geotab.com/uk/press-release/2024-battery-degradation/" target="_blank">
+New Geotab data highlights how EV batteries can last 20 years or more</a>
+
 ## How to Preserve Battery
 
 Read our [guide](../../../guides/protectingbattery/) on how to preserve your battery.

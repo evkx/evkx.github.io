@@ -108,7 +108,7 @@ The [2023 Tesla Impact Report](https://www.tesla.com/ns_videos/2023-tesla-impact
 {{< sitefiguresized thumb="guides/protectingbattery/degradation_1_st.jpg" width="1568" height="758" title="After 200,000 miles, the Tesla batteries degrade just 15%" >}}
 
 
-You can find more information about battery degradation in our [battery guide](../../../technology/battery/).
+You can find more information about battery degradation in our [battery guide](../../../technology/battery/degredation).
 
 ## Learn 
 
