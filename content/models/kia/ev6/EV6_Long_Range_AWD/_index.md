@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range AWD
 linktitle: "EV6 Long Range AWD"
-description: "Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 506 km (315 miles). EVKX.net has all the details."
+description: "Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 We've organized this article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. Additionally, we offer an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections include:
 
@@ -30,19 +30,17 @@ The Kia EV6 Long Range AWD delivers a solid performance with a maximum power of 
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 77.4 kWh and a net usable capacity of 74.0 kWh, providing a 3.4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 84.0 kWh and a net usable capacity of 80.0 kWh, providing a 4.0 kWh buffer (4.8%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 506 to 484 km (315-301 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 15.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 546 to 521 km (339-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.7 kWh/100 km for the base model and 15.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 38 minutes, while a more typical scenario from 10% to 80% takes 16 minutes with an average charging speed of 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 152 kW, with each charging session taking about 22 minutes and 59 seconds. This efficient charging capability makes the Kia EV6 Long Range AWD a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 233 kW. Charging from 0% to 100% takes approximately 41 minutes, while a more typical scenario from 10% to 80% takes 18 minutes with an average charging speed of 192 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 76%. This results in an effective charging speed, including time lost, of 154 kW, with each charging session taking about 23 minutes and 21 seconds. This efficient charging capability makes the Kia EV6 Long Range AWD a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 15 minutes. This journey would require three charging stops from 1% to 63%, with a total charging time of 56 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 11 minutes. This journey would require two charging stops from 1% to 83%, with a total charging time of 51 minutes.
 
 ### Onboard Charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/charging_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 16 minutes using a home charging setup.
 
 ### Charge Port
 
@@ -83,7 +81,7 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2017"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +114,7 @@ Available in:
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1737"  >}}
 
 #### Second Row Seat
 
@@ -125,7 +123,7 @@ The second row features a standard three-seat bench with a 60:40 split, allowing
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (manually adjustable)
 - [Heating](../../../../technology/seats/adjustment/#heating) (standard for outer seats)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2400"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
 ## Climate System
 
@@ -154,7 +152,7 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2003"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1697"  >}}
 
 ### Steering Wheel
 
@@ -191,7 +189,7 @@ Additionally, the model includes 4 USB-C connections as standard. The model has 
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1713"  >}}
 
 ## Advanced Driver Assistance Systems
 
@@ -234,4 +232,7 @@ A towbar can be added to the vehicle. The maximum permissible weight for a brake
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/trunk_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
+## Availability & Pricing
+
+This model made its world premiere on 19.08.2024, with deliveries anticipated to begin in December 2024.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

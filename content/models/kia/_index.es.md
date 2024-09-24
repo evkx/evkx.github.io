@@ -41,7 +41,7 @@ Kia EV3 es un crossover disponible en 1 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Kia EV6 es un SUV Coupé disponible en 5 variantes.
+Kia EV6 es un SUV Coupé disponible en 6 variantes.
 </p>
 	<a href="ev6/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

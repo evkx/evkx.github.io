@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range AWD
 linktitle: "EV6 Long Range AWD"
-description: "Kia EV6 Long Range AWD est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 506 km (315 miles). EVKX.net a tous les détails."
+description: "Kia EV6 Long Range AWD est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 546 km (339 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 Nous avons séparé notre article Kia EV6 Long Range AWD en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargingcurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
@@ -30,19 +30,17 @@ La Kia EV6 Long Range AWD offre des performances solides avec une puissance maxi
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74,0 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 84,0 kWh et une capacité nette utilisable de 80,0 kWh, offrant une réserve de 4,0 kWh (4,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 506 et 484 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,6 kWh/100 km pour le modèle de base et à 15,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 546 et 521 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,7 kWh/100 km pour le modèle de base et à 15,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 38 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 16 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 152kW. Chaque session de charge prendrait 22 minutes et 59 secondes. Cette capacité de charge efficace fait de l'Kia EV6 Long Range AWD une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de 233kW. Une charge complète de 0 à 100 % prendrait 41 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 76 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 154kW. Chaque session de charge prendrait 23 minutes et 21 secondes. Cette capacité de charge efficace fait de l'Kia EV6 Long Range AWD une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 15 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 63%, avec un temps de recharge total de 56 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 9 heures et 11 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 83%, avec un temps de recharge total de 51 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 43 minutes à domicile.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/charging_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 16 minutes à domicile.
 
 ### Port de recharge
 
@@ -83,7 +81,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2017"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +114,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1737"  >}}
 
 #### Siège de deuxième rangée
 
@@ -125,7 +123,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [Réglage de l'inclinaison](../../../../technology/seats/adjustment/#recline-adjustment) (réglable manuellement)
 - [chauffage](../../../../technology/seats/adjustment/#heating) (standard pour sièges extérieurs)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2400"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
 ## Système de climatisation
 
@@ -154,7 +152,7 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2003"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1697"  >}}
 
 ### Volant
 
@@ -191,7 +189,7 @@ Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 co
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1713"  >}}
 
 ## Systèmes avancés d'aide à la conduite
 
@@ -234,4 +232,7 @@ Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/trunk_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
+## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 19.08.2024 et les livraisons devraient commencer en December 2024.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Plage" >}}

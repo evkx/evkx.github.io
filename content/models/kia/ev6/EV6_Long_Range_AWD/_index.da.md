@@ -1,7 +1,7 @@
 ---
 title: Kia EV6 Long Range AWD
 linktitle: "EV6 Long Range AWD"
-description: "Kia EV6 Long Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 506 km (315 miles). EVKX.net har alle detaljerne."
+description: "Kia EV6 Long Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 546 km (339 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -9,7 +9,7 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/main_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 Vi har opdelt vores Kia EV6 Long Range AWD artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
@@ -30,19 +30,17 @@ Kia EV6 Long Range AWD leverer en solid præstation med en maksimal effekt på 2
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 77,4 kWh og en nettoanvendelig kapacitet på 74,0 kWh, hvilket giver en buffer på 3,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 697 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
+Det højkapacitetsbatteri har en bruttokapacitet på 84,0 kWh og en nettoanvendelig kapacitet på 80,0 kWh, hvilket giver en buffer på 4,0 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 697 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 506 og 484 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,6 kWh/100 km for basismodellen og 15,3 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 546 og 521 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,7 kWh/100 km for basismodellen og 15,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 38 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 16 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 152kW. Hver opladningssession ville tage 22 minutter og 59 sekunder. Denne effektive opladningskapacitet gør Kia EV6 Long Range AWD til et praktisk valg til langdistancerejser.
+Den maksimale DC-opladningshastighed er 233kW. En fuld opladning fra 0 - 100 % ville tage 41 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 18 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 76%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 154kW. Hver opladningssession ville tage 23 minutter og 21 sekunder. Denne effektive opladningskapacitet gør Kia EV6 Long Range AWD til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 15 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 63%, med en samlet opladningstid på 56 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21 kWh/100 km, ville turen tage cirka 9 timer og 11 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 83%, med en samlet opladningstid på 51 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeoplader.
-
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/charging_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 16 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 
@@ -83,7 +81,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2017"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1687"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
@@ -116,7 +114,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1737"  >}}
 
 #### Sæde på anden række
 
@@ -125,7 +123,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 - [Tilbagejustering](../../../../technology/seats/adjustment/#recline-adjustment) (manuelt justerbar)
 - [heating](../../../../technology/seats/adjustment/#heating) (standard for ydre sæder)
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2400"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
 ## Klimasystem
 
@@ -154,7 +152,7 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2003"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1697"  >}}
 
 ### Rat
 
@@ -191,7 +189,7 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
-{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1713"  >}}
 
 ## Avancerede førerassistentsystemer
 
@@ -234,4 +232,7 @@ En anhængertræk kan tilføjes til køretøjet. Den maksimale tilladte vægt fo
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/trunk_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
+## Tilgængelighed og priser
+
+Denne model havde verdenspremiere den 19.08.2024, og leveringer forventes at starte om December 2024.
 {{< pagenavigation b_url="../" b_title="Kia EV6" f_url="rangeandconsumption/" f_title="Range" >}}

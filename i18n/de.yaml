@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Neueste Bewertungen
 
+- id: frontpage-description-f0ccad59
+  translation: Kia EV6 Long Range AWD ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 546 km (339 Meilen). EVKX.net hat alle Details.
+
 - id: frontpage-description-b687c14e
   translation: Onvo L60 RWD ist ein vollelektrisches Coupé-SUV mit einer Reichweite von bis zu 730 km (454 Meilen). EVKX.net hat alle Details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron ist eine vollelektrische Premium-Limousine mit einer Reichweite von bis zu 675 km (420 Meilen). EVKX.net hat alle Details.
-
-- id: frontpage-description-80822ada
-  translation: Audi S6 Avant e-tron ist ein vollelektrischer Premium-Kombi mit einer Reichweite von bis zu 647 km (402 Meilen). EVKX.net hat alle Details.
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-f0ccad59
+  translation: Kia EV6 Long Range AWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 546 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-b687c14e
   translation: Onvo L60 RWD är en helelektrisk coupé-SUV med en CLTC räckvidd på upp till 730 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-dbb2a6ae
   translation: Audi S6 Sportback e-tron är en helelektrisk premium sedan med en WLTP räckvidd på upp till 675 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-80822ada
-  translation: Audi S6 Avant e-tron är en helelektrisk premiumkombi med en WLTP räckvidd på upp till 647 km. EVKX.net har alla detaljer.
 
