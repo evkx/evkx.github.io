@@ -34,9 +34,9 @@ La batería de alta capacidad tiene una capacidad bruta de 80,1 kWh y una capaci
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 710 km (441 millas). El consumo es de 10,8kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 38 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 54%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 152kW. Cada sesión de carga tardaría 16 minutos y 50 segundos. Esta capacidad de carga eficiente hace que el Aion Hyper GT 710 Supercharged sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 42 minutos, mientras que un escenario más común del 10 al 80 % tardaría 23 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 59%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 125kW. Cada sesión de carga tardaría 21 minutos y 37 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 20 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 9 minutos. Este viaje requeriría dos paradas de carga del 2% al 56%, con un tiempo total de carga de 49 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 20 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 19 minutos. Este viaje requeriría dos paradas de carga del 3% al 57%, con un tiempo total de carga de 60 minutos.
 
 ### Cargador a bordo
 

@@ -34,9 +34,9 @@ Høykapasitetsbatteriet har en brutto kapasitet på 80,1 kWh og en netto brukbar
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 710 km (441 miles). Forbruket er 10,8kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 38 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 54%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 152kW. Hver ladeøkt vil ta 16 minutter og 50 sekunder. Denne effektive ladekapasiteten gjør Aion Hyper GT 710 Supercharged til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er 200 kW. En full lading fra 0 - 100 % vil ta 42 minutter, mens et mer vanlig scenario på 10-80 % vil ta 23 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 59%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 125kW. Hver ladeøkt vil ta 21 minutter og 37 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 20 kWh/100 km, ville turen ta omtrent 9 timer og 9 minutter. Denne reisen ville kreve to ladestopp fra 2% til 56%, med en total ladetid på 49 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 20 kWh/100 km, ville turen ta omtrent 9 timer og 19 minutter. Denne reisen ville kreve to ladestopp fra 3% til 57%, med en total ladetid på 60 minutter.
 
 ### Ombordlader
 
