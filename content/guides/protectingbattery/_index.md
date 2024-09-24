@@ -99,4 +99,25 @@ The number of charge cycles also affects battery degradation. The diagram below 
 
 With now more than a decade of long-range EVs available in the market, we are starting to get some good statistics on how batteries degrade.
 
+Tesla's [2022 Tesla Impact Report](https://www.tesla.com/ns_videos/2022-tesla-impact-report-highlights.pdf) provides updated data on the Model S and Model X.
+
+{{< sitefiguresized thumb="technology/battery/degradation/teslastats_1_st.png" width="991" height="550" title="After 200,000 miles, the Tesla batteries degrade just 12%" >}}
+
+The [2023 Tesla Impact Report](https://www.tesla.com/ns_videos/2023-tesla-impact-report-highlights.pdf) provides updated data on the Model Y.
+
+{{< sitefiguresized thumb="guides/protectingbattery/degradation_1_st.jpg" width="1568" height="758" title="After 200,000 miles, the Tesla batteries degrade just 15%" >}}
+
+
 You can find more information about battery degradation in our [battery guide](../../../technology/battery/).
+
+## Learn 
+
+Engineering explained have two great videoes on how degradation works.
+
+### How To Ruin Your Electric Car's Battery - NMC Edition!
+
+{{< youtube w4lvDGtfI9U >}}
+
+### How To Ruin Your Electric Car's Battery - LFP Edition!
+
+{{< youtube w1zKfIQUQ-s >}}
