@@ -31,7 +31,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Zeekr 7X Standard 
 				Spitzenleistung
 			</td>
 			<td>
-				475 KW (646 PS /637 bhp)
+				310 KW (421 PS /416 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Zeekr 7X Standard 
 				Elektrisches Drehmoment
 			</td>
 			<td>
-				710 nm (524 lb-ft)
+				440 nm (325 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Zeekr 7X Standard 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,26 +139,10 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Anzahl der Module
-			</td>
-			<td>
-				17
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Packkonfiguration
-			</td>
-			<td>
-				102s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Nennspannung
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +150,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Kathodenmaterialien
 			</td>
 			<td>
-				NMC811
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +307,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Leergewicht
 			</td>
 			<td>
-				2475 kg (5456 lbs)
+				2298 kg (5066 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +315,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximales Gesamtgewicht
 			</td>
 			<td>
-				2910 kg (6415 lbs)
+				2800 kg (6173 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +323,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Zuladung inklusive Fahrergewicht
 			</td>
 			<td>
-				435 kg (959 lbs)
+				502 kg (1107 lbs)
 			</td>
 		</tr>
 		<tr>

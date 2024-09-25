@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 7X Standard 
 				Popeffekt
 			</td>
 			<td>
-				475 KW (646 hk)
+				310 KW (421 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 7X Standard 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				710 nm
+				440 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 7X Standard 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,26 +139,10 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Antal moduler
-			</td>
-			<td>
-				17
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Pakkekonfiguration
-			</td>
-			<td>
-				102s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Nominel spænding
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Katodematerialer
 			</td>
 			<td>
-				NMC811
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +307,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				2475 kg
+				2298 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				2910 kg
+				2800 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				435 kg
+				502 kg
 			</td>
 		</tr>
 		<tr>

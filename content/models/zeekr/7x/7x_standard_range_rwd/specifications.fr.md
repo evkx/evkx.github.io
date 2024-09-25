@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr 7X 
 				Puissance de pointe
 			</td>
 			<td>
-				475 KW (646 ch)
+				310 KW (421 ch)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr 7X 
 				Couple de sortie électrique
 			</td>
 			<td>
-				710 nm
+				440 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Zeekr 7X 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,26 +139,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Nombre de modules
-			</td>
-			<td>
-				17
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Configuration du pack
-			</td>
-			<td>
-				102s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Tension nominale
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Matériaux cathodiques
 			</td>
 			<td>
-				NMC811
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +307,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2475 kg
+				2298 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2910 kg
+				2800 kg
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				435 kg
+				502 kg
 			</td>
 		</tr>
 		<tr>

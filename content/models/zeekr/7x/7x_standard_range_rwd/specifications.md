@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 7X Standard Ra
 				Peak power
 			</td>
 			<td>
-				475 KW (646 hp /637 bhp)
+				310 KW (421 hp /416 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 7X Standard Ra
 				Electrical torque output
 			</td>
 			<td>
-				710 nm (524 lb-ft)
+				440 nm (325 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 7X Standard Ra
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				3,8 s
+				5,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -139,26 +139,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Number of modules
-			</td>
-			<td>
-				17
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/battery/batterypack/">Pack Configuration</a>
-			</td>
-			<td>
-				102s2p
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
-				NMC811
+				LFP
 			</td>
 		</tr>
 	</tbody>
@@ -323,7 +307,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2475 kg (5456 lbs)
+				2298 kg (5066 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +315,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2910 kg (6415 lbs)
+				2800 kg (6173 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -339,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				435 kg (959 lbs)
+				502 kg (1107 lbs)
 			</td>
 		</tr>
 		<tr>
