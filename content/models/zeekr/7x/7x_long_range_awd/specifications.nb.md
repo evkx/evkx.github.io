@@ -371,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse frunk
 			</td>
 			<td>
-				32 liter
+				62 liter
 			</td>
 		</tr>
 	</tbody>
@@ -745,7 +745,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

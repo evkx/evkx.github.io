@@ -60,6 +60,10 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
 
+### Styring
+
+Dynamisk styring er en standard-funksjonen på Zeekr 7X Long Range AWD. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
+
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
@@ -253,6 +257,7 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 - [**Adaptiv Fartsbegrenser (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din fil og reduserer hastigheten ved behov i trafikken. Systemet begrenser hvor lenge du kan kjøre uten å berøre rattet.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer
 
@@ -263,7 +268,7 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), en 
 
 ## Lastekapasitet og slepeevne
 
-Bagasjerommet tilbyr en lastekapasitet på 616 liter. Med baksetene nedfelt, utvides dette til 1978 liter. På taket kan du laste opptil 100 kg. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 32 liter.
+Bagasjerommet tilbyr en lastekapasitet på 616 liter. Med baksetene nedfelt, utvides dette til 1978 liter. På taket kan du laste opptil 100 kg. Takrails er standard for enkel montering av en takboks eller takstativ. I tillegg er det en frunk (frontbagasjerom) med en lagringskapasitet på 62 liter.
 
 Kjøretøyets maksimale vekt er 2910 kg, med en basisvekt på 2475 kg. Dette gir en maksimal lastekapasitet på 435 kg, inkludert fører og passasjerer. Merk at noen alternativer kan øke basisvekten og redusere maksimal lastekapasitet. 435 kg anses som lavt for denne typen bil og kan begrense hvor mye ekstra du kan laste inn i tillegg til passasjerene.
 

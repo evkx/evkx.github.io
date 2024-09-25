@@ -371,7 +371,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Größe des Frunks
 			</td>
 			<td>
-				32 Liter (1 cu-ft)
+				62 Liter (2 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -745,7 +745,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

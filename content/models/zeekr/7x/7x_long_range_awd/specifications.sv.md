@@ -371,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				32 liter
+				62 liter
 			</td>
 		</tr>
 	</tbody>
@@ -745,7 +745,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

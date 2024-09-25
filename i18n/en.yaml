@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-99e44cf9
+  translation: Zeekr 7X Standard Range RWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details.
+
 - id: frontpage-description-f0ccad59
   translation: Kia EV6 Long Range AWD is an all-electric coupe SUV with a WLTP range of up to 546 km (339 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-84669ace
   translation: Audi A6 Avant e-tron performance is an all-electric premium station wagon with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details.
-
-- id: frontpage-description-dbb2a6ae
-  translation: Audi S6 Sportback e-tron is an all-electric premium sedan with a WLTP range of up to 675 km (420 miles). EVKX.net has all the details.
 

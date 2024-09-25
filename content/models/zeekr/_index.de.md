@@ -71,7 +71,7 @@ Zeekr 009 ist ein Premium-MPV, das in 1 Varianten erhältlich ist.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 7X ist ein SUV, der in 1 Varianten erhältlich ist.
+Zeekr 7X ist ein SUV, der in 2 Varianten erhältlich ist.
 </p>
 	<a href="7x/" class="btn btn-outline-primary" role="button">Gehe zu Modellinfo</a>
 		</div>

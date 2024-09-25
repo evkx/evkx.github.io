@@ -60,6 +60,10 @@ Die Vorderradaufhängung verwendet ein [Doppelquerlenker](../../../../technology
 
 Für einfacheres Beladen können Sie die Luftfederung von hinten absenken.
 
+### Lenkung
+
+Die dynamische Lenkung ist eine standard im Zeekr 7X Long Range AWD, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet.
@@ -253,6 +257,7 @@ Mit dem Pilot Assist  Level 2 System erhalten Sie die folgenden Fahrautomatisier
 
 - [**Adaptive Geschwindigkeitsregelung (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Spurhalteassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): hält das Auto in Ihrer Spur und verlangsamt sich bei Bedarf im Verkehr. Das System begrenzt, wie lange Sie fahren können, ohne das Lenkrad zu berühren.
+- [**Automatisches Parken**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensoren & Kameras
 
@@ -263,7 +268,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), e
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 616 Litern (21,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1978 Liter (69,9 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 32 Litern (1,1 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 616 Litern (21,8 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 1978 Liter (69,9 CU FT). Auf dem Dach können Sie bis zu 100 kg (220,5 lbs) laden. Dachreling ist serienmäßig für die einfache Montage einer Dachbox oder eines Dachträgers. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 62 Litern (2,2 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 2910 kg (6415 lbs) bei einem Leergewicht von 2475 kg (5456 lbs). Dies ermöglicht eine maximale Zuladung von 435 kg (959 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können. 435 kg wird für diesen Fahrzeugtyp als niedrig angesehen und könnte einschränken, wie viel zusätzlich zu den Passagieren mitgenommen werden kann.
 

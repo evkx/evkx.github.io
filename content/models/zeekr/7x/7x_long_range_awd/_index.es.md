@@ -60,6 +60,10 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Zeekr 7X Long Range AWD. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
@@ -253,6 +257,7 @@ Con el sistema Pilot Assist  de nivel 2, obtienes las siguientes funciones de au
 
 - [**Control de Crucero Adaptativo (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Asistencia de Centración de Carril (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): mantiene el coche en tu carril y reduce la velocidad si es necesario en el tráfico. El sistema limita el tiempo que puedes conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensores y Cámaras
 
@@ -263,7 +268,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-El maletero ofrece una capacidad de carga de 616 litros. Con el asiento trasero plegado, esto se expande a 1978 litros. En el techo, puedes cargar hasta 100 kg. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 32 litros.
+El maletero ofrece una capacidad de carga de 616 litros. Con el asiento trasero plegado, esto se expande a 1978 litros. En el techo, puedes cargar hasta 100 kg. Los rieles de techo son estándar para facilitar la instalación de una caja o portaequipajes en el techo. Además, hay un frunk (maletero delantero) con una capacidad de almacenamiento de 62 litros.
 
 El peso máximo del vehículo es 2910 kg, con un peso base de 2475 kg. Esto permite una carga máxima de 435 kg, incluyendo el conductor y los pasajeros. Ten en cuenta que algunas opciones pueden aumentar el peso base y reducir la capacidad máxima de carga. 435 kg se considera bajo para este tipo de vehículo y puede limitar la cantidad de carga que puedes llevar además de los pasajeros.
 

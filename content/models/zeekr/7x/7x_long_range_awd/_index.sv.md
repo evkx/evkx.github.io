@@ -60,6 +60,10 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Zeekr 7X Long Range AWD. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
@@ -253,6 +257,7 @@ Med Pilot Assist  nivå 2-systemet får du följande funktioner för körautomat
 
 - [**Adaptiv Farthållare (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Filcentreringsassistent (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): håller bilen i din fil och saktar ner vid behov i trafiken. Systemet begränsar hur länge du kan köra utan att röra vid ratten.
+- [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameror
 
@@ -263,7 +268,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), e
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 616 liter. Med baksätena nedfällda ökar detta till 1978 liter. På taket kan du lasta upp till 100 kg. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 32 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 616 liter. Med baksätena nedfällda ökar detta till 1978 liter. På taket kan du lasta upp till 100 kg. Takräcken är standard för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 62 liter.
 
 Fordonets maximala vikt är 2910 kg, med en grundvikt på 2475 kg. Detta tillåter en maximal last på 435 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten. 435 kg anses som lågt för den här typen av bil och kan begränsa hur mycket extra du kan lasta utöver passagerarna.
 

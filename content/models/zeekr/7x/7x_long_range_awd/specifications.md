@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
-				32 liter (1 cu-ft)
+				62 liter (2 cu-ft)
 			</td>
 		</tr>
 	</tbody>
@@ -745,7 +745,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>

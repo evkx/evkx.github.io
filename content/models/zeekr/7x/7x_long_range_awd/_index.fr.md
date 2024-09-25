@@ -60,6 +60,10 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
 
+### Pilotage
+
+La direction dynamique est une fonctionnalité un standard sur le Zeekr 7X Long Range AWD. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
+
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
@@ -253,6 +257,7 @@ Avec le système Pilot Assist  de niveau 2, vous obtenez les fonctionnalités su
 
 - [**Régulateur de Vitesse Adaptatif (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Assistance au Centrage de Voie (LCA) / AutoSteer**](../../../../technology/driverassistance/autosteer/): maintient la voiture dans votre voie et réduit la vitesse si nécessaire dans la circulation. Le système limite le temps pendant lequel vous pouvez conduire sans toucher le volant.
+- [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 
 ### Capteurs & Caméras
 
@@ -263,7 +268,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 616 litres. Avec les sièges arrière rabattus, cette capacité passe à 1978 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 32 litres.
+Le coffre offre une capacité de chargement de 616 litres. Avec les sièges arrière rabattus, cette capacité passe à 1978 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg. Les rails de toit sont standards pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 62 litres.
 
 Le poids maximum du véhicule est de 2910 kg, avec un poids de base de 2475 kg. Cela permet une charge maximale de 435 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement. 435 kg est considéré comme bas pour ce type de véhicule et pourrait limiter la quantité de chargement que vous pouvez ajouter en plus des passagers.
 

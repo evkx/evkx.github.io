@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-99e44cf9
+  translation: Zeekr 7X Standard Range RWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 780 km (485 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-f0ccad59
   translation: Kia EV6 Long Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 546 km (339 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-84669ace
   translation: Audi A6 Avant e-tron performance er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 720 km (448 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-dbb2a6ae
-  translation: Audi S6 Sportback e-tron er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 675 km (420 miles). EVKX.net har alle detaljerne.
 

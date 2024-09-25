@@ -60,6 +60,10 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 For easier loading, you can lower the air suspension from the rear
 
+### Steering
+
+Dynamic steering is a standard on the Zeekr 7X Long Range AWD, varying the steering ratio based on driving speed for enhanced control and comfort.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear.
@@ -253,6 +257,7 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 - [**Adaptive Cruise Control (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): keeps the car in your lane and slows down if needed in traffic. The system limits how long you can drive without touching the steering wheel.
+- [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensors & Cameras
 
@@ -263,7 +268,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), one
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1978 liters (69.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Additionally, there is a frunk (front trunk) with a storage capacity of 32 liters (1.1 CU FT).
+The trunk offers a cargo capacity of 616 liters (21.8 CU FT). With the rear seat folded down, this expands to 1978 liters (69.9 CU FT). On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 62 liters (2.2 CU FT).
 
 The vehicle’s maximum weight is 2910 kg (6415 lbs), with a base weight of 2475 kg (5456 lbs). This allows for a maximum load of 435 kg (959 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity. 435kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 

@@ -71,7 +71,7 @@ Zeekr 009 är en premim MPV tillgänglig i 1 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Zeekr 7X är en SUV tillgänglig i 1 varianter.
+Zeekr 7X är en SUV tillgänglig i 2 varianter.
 </p>
 	<a href="7x/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

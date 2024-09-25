@@ -60,6 +60,10 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
 
+### Styring
+
+Dynamisk styring er en standard-funktion på Zeekr 7X Long Range AWD. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
@@ -253,6 +257,7 @@ Med Pilot Assist  niveau 2-systemet får du følgende funktioner til køreautoma
 
 - [**Adaptiv Fartpilot (ACC)**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 - [**Vognbaneassistent (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/): holder bilen i din vognbane og sænker farten om nødvendigt i trafikken. Systemet begrænser hvor længe du kan køre uden at røre ved rattet.
+- [**Automatisk parkering**](../../../../technology/driverassistance/automaticparking/).
 
 ### Sensorer & Kameraer
 
@@ -263,7 +268,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 
 ## Lastkapacitet og træk-kapacitet
 
-Bagagerummet har en lastekapacitet på 616 liter. Med det bageste sæde foldet ned, udvides dette til 1978 liter. På taget kan du laste op til 100 kg. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 32 liter.
+Bagagerummet har en lastekapacitet på 616 liter. Med det bageste sæde foldet ned, udvides dette til 1978 liter. På taget kan du laste op til 100 kg. Tagbøjler er standard for nem montering af en tagboks eller rack. Derudover er der en frunk (forreste bagagerum) med en opbevaringskapacitet på 62 liter.
 
 Køretøjets maksimale vægt er 2910 kg, med en basisvægt på 2475 kg. Dette giver en maksimal last på 435 kg, inklusive fører og passagerer. Bemærk, at nogle valgmuligheder kan øge basisvægten og reducere den maksimale lastekapacitet. 435 kg betragtes som lavt for denne type bil og kan begrænse, hvor meget du kan have med ud over passagerer.
 

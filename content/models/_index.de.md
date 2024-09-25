@@ -678,7 +678,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 	<a href="zeekr/"><img src="https://media.evkx.net/multimedia/models/zeekr/brandevs_st.jpg" class="img-fluid mb-2" alt="Zeekr" ></a>
 	<h2>Zeekr</h2>
 	<p>
-	Zeekr hat 5 Modelle mit insgesamt 9 Varianten.
+	Zeekr hat 5 Modelle mit insgesamt 10 Varianten.
 	</p>
 	<a href="zeekr/" class="btn btn-outline-primary" role="button">Gehe zu Zeekr EV-Modellübersicht</a>
 </div>
