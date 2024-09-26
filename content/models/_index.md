@@ -570,7 +570,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Mini is a British car brand that is owned by BMW Group. It is known for its iconic small cars that combine style, performance, and fun. 
 	</p>
 	<p>
-	Mini has 1 models with total 1 variants.
+	Mini has 2 models with total 2 variants.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Go to Mini EV-model overview</a>
 </div>

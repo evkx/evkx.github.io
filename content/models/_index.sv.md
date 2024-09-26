@@ -471,7 +471,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
-	Mini har 1 modell(er) med totalt 1 varianter.
+	Mini har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Gå till Mini modellöversikt</a>
 </div>

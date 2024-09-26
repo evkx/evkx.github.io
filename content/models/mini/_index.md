@@ -32,6 +32,21 @@ Mini Cooper is a premium hatcback available in 1 variants.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Mini Countryman</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="countryman">
+                    <img src="https://media.evkx.net/multimedia/models/mini/countryman/countryman_se_all4/main_1_st.jpg" class="img-fluid" alt="Mini Countryman" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Mini Countryman is a premium SUV available in 1 variants.
+</p>
+	<a href="countryman/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

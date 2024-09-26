@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-8eecb46c
+  translation: Mini Countryman SE ALL4 is an all-electric premium SUV with a WLTP range of up to 440 km (274 miles). EVKX.net has all the details.
+
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD is an all-electric SUV with a CLTC range of up to 780 km (485 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-3c8e420a
   translation: Audi A6 Sportback e-tron performance is an all-electric premium sedan with a WLTP range of up to 756 km (470 miles). EVKX.net has all the details.
-
-- id: frontpage-description-84669ace
-  translation: Audi A6 Avant e-tron performance is an all-electric premium station wagon with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details.
 

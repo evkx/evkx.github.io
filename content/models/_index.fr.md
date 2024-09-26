@@ -471,7 +471,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
-	Mini a 1 modèles avec un total de 1 variantes.
+	Mini a 2 modèles avec un total de 2 variantes.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Aller à la Mini présentation du modèle EV</a>
 </div>

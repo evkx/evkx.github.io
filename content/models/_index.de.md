@@ -468,7 +468,7 @@ Klicken Sie auf die untenstehenden Logos, um direkt zur Markenseite zu gelangen,
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
-	Mini hat 1 Modelle mit insgesamt 1 Varianten.
+	Mini hat 2 Modelle mit insgesamt 2 Varianten.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Gehe zu Mini EV-Modellübersicht</a>
 </div>

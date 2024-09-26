@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-8eecb46c
+  translation: Mini Countryman SE ALL4 er en fuldelektrisk premium-SUV med en rækkevidde på WLTP på op til 440 km (274 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-99e44cf9
   translation: Zeekr 7X Standard Range RWD er en fuldelektrisk SUV med en rækkevidde på CLTC på op til 780 km (485 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-3c8e420a
   translation: Audi A6 Sportback e-tron performance er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 756 km (470 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-84669ace
-  translation: Audi A6 Avant e-tron performance er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 720 km (448 miles). EVKX.net har alle detaljerne.
 

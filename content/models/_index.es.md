@@ -471,7 +471,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
-	Mini tiene 1 modelos con un total de 1 variantes.
+	Mini tiene 2 modelos con un total de 2 variantes.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Ir a Mini descripción general del modelo EV</a>
 </div>

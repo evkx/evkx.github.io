@@ -468,7 +468,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<h2>Mini</h2>
 	<p>
-	Mini har 1 modeller med i alt 1 varianter.
+	Mini har 2 modeller med i alt 2 varianter.
 	</p>
 	<a href="mini/" class="btn btn-outline-primary" role="button">Gå til Mini EV-modeloversigt</a>
 </div>
