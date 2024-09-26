@@ -74,7 +74,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Zeekr 7X Long Range AWD, med dimensioner på 4825 mm i længde, 1930 mm i bredde og 1656 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Zeekr 7X Long Range AWD fås i alt 4 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den Zeekr 7X Long Range AWD, med dimensioner på 4825 mm i længde, 1930 mm i bredde og 1656 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Zeekr 7X Long Range AWD fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Zeekr 7X Long Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -95,7 +95,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Zeekr 7X Long Range AWD er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Der er én sædetype, du kan vælge i forskellige materialer.
+Interiøret i Zeekr 7X Long Range AWD er designet med en minimalistisk æstetik og har førsteklasses materialer overalt. Den todelte midterkonsol adskiller fører og passager og tilbyder praktiske opbevaringsmuligheder og forbedret funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
 
@@ -119,13 +119,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Purple/White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
@@ -225,7 +223,7 @@ Den Zeekr 7X Long Range AWD kommer med sin dedikerede mobilapp, tilgængelig til
 
 ## Lys
 
-**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+lights.technology.standard.led.drlsignatures
 
 Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 

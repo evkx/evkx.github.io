@@ -301,6 +301,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				1654 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Coefficient de traînée
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -301,6 +301,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				1654 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Trækningskoefficient
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

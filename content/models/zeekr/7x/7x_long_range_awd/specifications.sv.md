@@ -301,6 +301,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				1654 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Dragkoefficient
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -301,6 +301,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				1654 mm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Coeficiente de arrastre
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

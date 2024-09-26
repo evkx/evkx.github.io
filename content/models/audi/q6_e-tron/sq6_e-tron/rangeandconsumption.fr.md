@@ -59,6 +59,32 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				16,80 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Trim minimum de la gamme EPA
+				</a>
+			</td>
+			<td>
+				443 km / 275 mi
+			</td>
+			<td>
+				21,4 kWh/100km / 2,9 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Garniture supérieure de gamme EPA
+				</a>
+			</td>
+			<td>
+				443 km / 275 mi
+			</td>
+			<td>
+				21,4 kWh/100km / 2,9 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -102,6 +128,28 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 			</td>
 			<td>
 				-20,4%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garniture de base de la gamme EPA avec 2KW AC
+			</td>
+			<td>
+				369 km / 229 mi
+			</td>
+			<td>
+				-16,7%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garniture supérieure de gamme EPA avec 2KW AC
+			</td>
+			<td>
+				369 km / 229 mi
+			</td>
+			<td>
+				-16,7%
 			</td>
 		</tr>
 	</tbody>

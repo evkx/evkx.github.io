@@ -76,7 +76,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Zeekr 7X Standard Range RWD, med dimensjoner på 4825 mm i lengde, 1930 mm i bredde og 1656 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Zeekr 7X Standard Range RWD er tilgjengelig i totalt 4 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
+Zeekr 7X Standard Range RWD, med dimensjoner på 4825 mm i lengde, 1930 mm i bredde og 1656 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Zeekr 7X Standard Range RWD er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Zeekr 7X Standard Range RWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
@@ -97,7 +97,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i Zeekr 7X Standard Range RWD er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Det er én setetype du kan velge i forskjellige materialer.
+Interiøret i Zeekr 7X Standard Range RWD er designet med en minimalistisk estetikk og har førsteklasses materialer overalt. Den todelte midtkonsollen skiller fører og passasjer og tilbyr praktiske oppbevaringsmuligheter og forbedret funksjonalitet. Du kan velge mellom flere interiørdesign.
 
 ### Seter
 
@@ -121,13 +121,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Purple/White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/frontseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
@@ -227,7 +225,7 @@ Zeekr 7X Standard Range RWD kommer med sin egen dedikerte mobilapp, tilgjengelig
 
 ## Lys
 
-**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+lights.technology.standard.led.drlsignatures
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 

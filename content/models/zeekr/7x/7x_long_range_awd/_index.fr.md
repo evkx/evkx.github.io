@@ -74,7 +74,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Zeekr 7X Long Range AWD, avec des dimensions de 4825 mm de longueur, 1930 mm de largeur et 1656 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Zeekr 7X Long Range AWD est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+La Zeekr 7X Long Range AWD, avec des dimensions de 4825 mm de longueur, 1930 mm de largeur et 1656 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Zeekr 7X Long Range AWD est disponible en un total de 7 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Zeekr 7X Long Range AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -95,7 +95,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur du Zeekr 7X Long Range AWD est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité supérieure. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée. Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
+L'intérieur du Zeekr 7X Long Range AWD est conçu avec une esthétique minimaliste, utilisant des matériaux de qualité supérieure. La console centrale à deux niveaux sépare le conducteur et le passager, offrant des options de rangement pratiques et une fonctionnalité améliorée. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
 
@@ -119,13 +119,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Purple/White [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_long_range_awd/frontseats_1_st.jpg" title="Zeekr 7X Long Range AWD" width="3000" height="1687"  >}}
 
@@ -225,7 +223,7 @@ Le Zeekr 7X Long Range AWD est accompagné de son application mobile dédiée, d
 
 ## Lumières
 
-**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+lights.technology.standard.led.drlsignatures
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

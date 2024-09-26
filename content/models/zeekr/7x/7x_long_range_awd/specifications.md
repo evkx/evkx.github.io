@@ -301,6 +301,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				1654 mm (65,1")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Drag coefficient
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

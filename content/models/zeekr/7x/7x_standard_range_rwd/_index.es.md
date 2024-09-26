@@ -76,7 +76,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Zeekr 7X Standard Range RWD, con dimensiones de 4825 mm de longitud, 1930 mm de anchura y 1656 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Zeekr 7X Standard Range RWD está disponible en un total de 4 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El Zeekr 7X Standard Range RWD, con dimensiones de 4825 mm de longitud, 1930 mm de anchura y 1656 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Zeekr 7X Standard Range RWD está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Zeekr 7X Standard Range RWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -97,7 +97,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-El interior del Zeekr 7X Standard Range RWD está diseñado con una estética minimalista, con materiales de primera calidad en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
+El interior del Zeekr 7X Standard Range RWD está diseñado con una estética minimalista, con materiales de primera calidad en todo el habitáculo. La consola central de dos niveles separa al conductor y al pasajero, ofreciendo opciones de almacenamiento convenientes y funcionalidad mejorada. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
 
@@ -121,13 +121,11 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Purple/White [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/frontseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
@@ -227,7 +225,7 @@ El Zeekr 7X Standard Range RWD viene con su propia aplicación móvil, disponibl
 
 ## Luces
 
-**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+lights.technology.standard.led.drlsignatures
 
 Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 

@@ -126,6 +126,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				19,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA räckvidd
+			</td>
+			<td>
+				307 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA förbrukning
+			</td>
+			<td>
+				3,2 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

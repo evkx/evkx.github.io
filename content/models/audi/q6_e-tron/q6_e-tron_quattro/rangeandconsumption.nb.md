@@ -59,6 +59,32 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				17,57 kWh/100km / 3,5 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rekkevidde minimum utstyrsnivå
+				</a>
+			</td>
+			<td>
+				494 km / 307 mi
+			</td>
+			<td>
+				19,2 kWh/100km / 3,2 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rekkevidde maks utstyrsnivå
+				</a>
+			</td>
+			<td>
+				494 km / 307 mi
+			</td>
+			<td>
+				19,2 kWh/100km / 3,2 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -102,6 +128,28 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 			</td>
 			<td>
 				-19,6%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-serien grunnleggende utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				404 km / 251 mi
+			</td>
+			<td>
+				-18,2%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA rekkevidde maks utstyrsnivå med 2KW AC
+			</td>
+			<td>
+				404 km / 251 mi
+			</td>
+			<td>
+				-18,2%
 			</td>
 		</tr>
 	</tbody>

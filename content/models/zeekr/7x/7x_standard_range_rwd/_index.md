@@ -76,7 +76,7 @@ The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#dis
 
 ## Exterior
 
-The Zeekr 7X Standard Range RWD, with dimensions of 4825 mm in length, 1930 mm in width, and 1656 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Zeekr 7X Standard Range RWD is available in a total of 4 paint colors, including several striking metallic options.
+The Zeekr 7X Standard Range RWD, with dimensions of 4825 mm in length, 1930 mm in width, and 1656 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Zeekr 7X Standard Range RWD is available in a total of 7 paint colors, including several striking metallic options.
 
 The Zeekr 7X Standard Range RWD offers multiple wheel options in different sizes, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -97,7 +97,7 @@ The windows from the B-pillar and back are tinted, which enhances privacy and re
 
 ## Interior
 
-The interior of the Zeekr 7X Standard Range RWD is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. There is one seat type you can select in different materials.
+The interior of the Zeekr 7X Standard Range RWD is designed with a minimalist aesthetic, featuring premium materials throughout. The split-level center console separates the driver and passenger, offering convenient storage options and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -123,11 +123,9 @@ The following functionalities are available on the **standard** seat:
 
 Available in:
 
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Purple/White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 {{< sitefiguresized thumb="models/zeekr/7x/7x_standard_range_rwd/frontseats_1_st.jpg" title="Zeekr 7X Standard Range RWD" width="3000" height="1687"  >}}
 
@@ -227,7 +225,7 @@ The Zeekr 7X Standard Range RWD comes with a dedicated mobile app, available for
 
 ## Lights
 
-**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+lights.technology.standard.led.drlsignatures
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 

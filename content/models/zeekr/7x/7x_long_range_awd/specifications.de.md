@@ -301,6 +301,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				1654 mm (65,1")
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Luftwiderstandsbeiwert
+			</td>
+			<td>
+				0,247
+			</td>
+		</tr>
 	</tbody>
 </table>
 

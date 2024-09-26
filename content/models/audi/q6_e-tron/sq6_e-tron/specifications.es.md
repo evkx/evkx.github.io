@@ -142,6 +142,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				18,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				rango EPA
+			</td>
+			<td>
+				275 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo EPA
+			</td>
+			<td>
+				2,9 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 

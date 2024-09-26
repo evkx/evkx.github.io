@@ -126,6 +126,22 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				19,4 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-Reichweite
+			</td>
+			<td>
+				307 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-Verbrauch
+			</td>
+			<td>
+				3,2 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
