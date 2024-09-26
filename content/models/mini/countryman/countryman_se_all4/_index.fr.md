@@ -72,13 +72,14 @@ La puissance régénérative maximale est de 134 kW.
 
 ## Extérieur
 
-La Mini Countryman SE ALL4, avec des dimensions de 4433 mm de longueur, 1843 mm de largeur et 1656 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
+La Mini Countryman SE ALL4, avec des dimensions de 4433 mm de longueur, 1843 mm de largeur et 1656 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Mini Countryman SE ALL4 est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mini Countryman SE ALL4, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 - Pneus 205/65 sur jantes de 17"
-- Pneus 255/60 sur jantes de 18"
-- Pneus 205/55 sur jantes de 19"
+- Pneus 205/60 sur jantes de 18"
+- Pneus 245/45 sur jantes de 19"
+- Pneus 245/40 sur jantes de 20"
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 

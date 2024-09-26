@@ -72,13 +72,14 @@ Den maksimale regenerative effekten er 134 kW.
 
 ## Eksteriør
 
-Mini Countryman SE ALL4, med dimensjoner på 4433 mm i lengde, 1843 mm i bredde og 1656 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
+Mini Countryman SE ALL4, med dimensjoner på 4433 mm i lengde, 1843 mm i bredde og 1656 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Mini Countryman SE ALL4 er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mini Countryman SE ALL4, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 - 205/65 dekk på 17" felger
-- 255/60 dekk på 18" felger
-- 205/55 dekk på 19" felger
+- 205/60 dekk på 18" felger
+- 245/45 dekk på 19" felger
+- 245/40 dekk på 20" felger
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 
