@@ -239,6 +239,8 @@ Den Zeekr 7X Standard Range RWD inkluderer flere standard- og valgfri [avancered
 
 ### Sikkerhedssystemer
 
+[**Anti-lock Bremsesystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Standard Range RWD, dette system forhindrer hjulene i at låse under opbremsning.
+
 [**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Standard Range RWD, dette system forbedrer bilens stabilitet og håndtering under pludselige manøvrer eller på glatte vejforhold.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Standard Range RWD, dette system hjælper med at forhindre køretøjet i at drive ud af sin vognbane. Den inkluderer også et [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system, der advarer føreren, hvis køretøjet forlader sin vognbane.
@@ -249,7 +251,9 @@ Den Zeekr 7X Standard Range RWD inkluderer flere standard- og valgfri [avancered
 
 [**Automatisk nødbremsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Standard Range RWD, dette system anvender bremserne autonomt for at forhindre eller reducere alvoren af en kollision, hvis føreren ikke reagerer i tide.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfrit på Zeekr 7X Standard Range RWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Standard Range RWD, dette sideassistentsystem hjælper med at registrere trafik i døde vinkler.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Standard Range RWD, dette system advarer passagererne mod at åbne dørene, hvis der er risiko for at ramme noget.
 
 ### Køreautomatisering
 

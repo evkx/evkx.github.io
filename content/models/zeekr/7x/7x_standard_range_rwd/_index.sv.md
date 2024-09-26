@@ -239,6 +239,8 @@ Zeekr 7X Standard Range RWD inkluderar flera [avancerade förarassistanssystem](
 
 ### Säkerhetssystem
 
+[**Låsningsfria bromsar (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Standard Range RWD, detta system förhindrar att hjulen låser sig under bromsning.
+
 [**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Standard Range RWD, detta system förbättrar fordonets stabilitet och hantering vid plötsliga manövrer eller på hala vägar.
 
 [**Körfältsassistans (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Standard Range RWD, detta system hjälper till att förhindra att fordonet driver ut ur sitt körfält. Det inkluderar även ett system för [**Varning för Utträde från Körfält**](../../../../technology/driverassistance/lanedeparturewarning/) som varnar föraren om fordonet är på väg ut ur körfältet.
@@ -249,7 +251,9 @@ Zeekr 7X Standard Range RWD inkluderar flera [avancerade förarassistanssystem](
 
 [**Automatisk nödbromsning (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Standard Range RWD, detta system bromsar autonomt för att förhindra eller minska allvaret av en kollision om föraren inte reagerar i tid.
 
-[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valfritt på Zeekr 7X Standard Range RWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+[**Blindspotsövervakning (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Standard Range RWD, detta sidostödssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utgångsvarning**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Standard Range RWD, detta system varnar passagerarna om att inte öppna dörrarna om det finns risk att träffa något.
 
 ### Körautomatisering
 

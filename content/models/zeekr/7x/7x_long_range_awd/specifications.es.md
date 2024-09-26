@@ -158,7 +158,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tensión nominal
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +906,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de somnolencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +922,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara 360
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +954,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
-				Sí, equipo opcional
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +978,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

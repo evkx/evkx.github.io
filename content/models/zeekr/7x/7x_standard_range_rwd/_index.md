@@ -239,6 +239,8 @@ The Zeekr 7X Standard Range RWD features a range of standard and optional [advan
 
 ### Safety Systems
 
+[**Anti-lock Braking System (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard on the Zeekr 7X Standard Range RWD, this system prevents the wheels from locking during braking.
+
 [**Electronic Stability Control (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard on the Zeekr 7X Standard Range RWD, this system improves the vehicle's stability and handling during sudden maneuvers or on slippery road conditions.
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Zeekr 7X Standard Range RWD, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
@@ -249,7 +251,9 @@ The Zeekr 7X Standard Range RWD features a range of standard and optional [advan
 
 [**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Zeekr 7X Standard Range RWD, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
 
-[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Optional on the Zeekr 7X Standard Range RWD, this side assist system helps to detect traffic in blind spots.
+[**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Zeekr 7X Standard Range RWD, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Zeekr 7X Standard Range RWD, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 

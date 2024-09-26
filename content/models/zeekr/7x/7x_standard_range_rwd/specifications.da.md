@@ -1007,6 +1007,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Døsighedsalarm
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1022,7 +1023,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				360 kamera
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1054,7 +1055,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Parkeringssensorer fra siden
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1078,6 +1079,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

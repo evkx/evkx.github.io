@@ -239,6 +239,8 @@ El Zeekr 7X Standard Range RWD incluye varios [sistemas avanzados de asistencia 
 
 ### Sistemas de Seguridad
 
+[**Sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Estándar en el Zeekr 7X Standard Range RWD, este sistema evita que las ruedas se bloqueen durante el frenado.
+
 [**Control Electrónico de Estabilidad (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Estándar en el Zeekr 7X Standard Range RWD, este sistema mejora la estabilidad y el manejo del vehículo durante maniobras repentinas o en condiciones de carretera resbaladizas.
 
 [**Asistencia para Mantener el Carril (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Estándar en el Zeekr 7X Standard Range RWD, este sistema ayuda a prevenir que el vehículo se desplace fuera de su carril. También incluye un sistema de [**Advertencia de Salida de Carril**](../../../../technology/driverassistance/lanedeparturewarning/) para alertar al conductor si el vehículo se sale del carril.
@@ -249,7 +251,9 @@ El Zeekr 7X Standard Range RWD incluye varios [sistemas avanzados de asistencia 
 
 [**Frenado de emergencia automático (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Estándar en el Zeekr 7X Standard Range RWD, este sistema aplica los frenos automáticamente para prevenir o reducir la gravedad de una colisión si el conductor no reacciona a tiempo.
 
-[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Opcional en el Zeekr 7X Standard Range RWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+[**Monitoreo de Punto Ciego (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Estándar en el Zeekr 7X Standard Range RWD, este sistema de asistencia lateral ayuda a detectar tráfico en los puntos ciegos.
+
+[**Advertencia de Salida**](../../../../technology/driverassistance/exitwarning/): Estándar en el Zeekr 7X Standard Range RWD, este sistema alerta a los ocupantes para que no abran las puertas si hay riesgo de golpear algo.
 
 ### Automatización de la Conducción
 

@@ -158,7 +158,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Nennspannung
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +906,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Müdigkeitswarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +922,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				360-Grad-Kamera
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +954,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Seitliche Parksensoren
 			</td>
 			<td>
-				Ja, Sonderausstattung
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +978,7 @@ Dieses Modell ist mit einer Sitzkonfiguration mit fünf Sitzen erhältlich.
 				Antiblockiersystem
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

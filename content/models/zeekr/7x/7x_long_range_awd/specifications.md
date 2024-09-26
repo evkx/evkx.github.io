@@ -158,7 +158,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Nominal voltage</a>
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +906,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/driverdrowsinessdetection/">Drowsiness Alert</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +922,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/cameras/">360 camera</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +954,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/sensorsandcameras/ultrasonic/">Side parking sensors</a>
 			</td>
 			<td>
-				Yes, optional equipment
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +978,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/driverassistance/antilockbrakingsystem/">AntiLock Braking System</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Nominell spänning
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +906,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Trötthetsvarnare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +922,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				360-kamera
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +954,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Sidoparkeringssensorer
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +978,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

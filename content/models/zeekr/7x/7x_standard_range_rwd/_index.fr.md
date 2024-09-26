@@ -239,6 +239,8 @@ Le Zeekr 7X Standard Range RWD comprend plusieurs [systèmes avancés d'assistan
 
 ### Systèmes de Sécurité
 
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Zeekr 7X Standard Range RWD, ce système empêche les roues de se bloquer lors du freinage.
+
 [**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Zeekr 7X Standard Range RWD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
 
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Zeekr 7X Standard Range RWD, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
@@ -249,7 +251,9 @@ Le Zeekr 7X Standard Range RWD comprend plusieurs [systèmes avancés d'assistan
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Zeekr 7X Standard Range RWD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Zeekr 7X Standard Range RWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Zeekr 7X Standard Range RWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Zeekr 7X Standard Range RWD, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 

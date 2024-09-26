@@ -30,7 +30,7 @@ Zeekr 7X Long Range AWD imponerer med en imponerende kraft på 475 kW (646 hk) o
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 95,0 kWh, som gir en buffer på 5,0 kWh (5,0%) for batteribeskyttelse. Med en nominell spenning på 370 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 100,0 kWh og en netto brukbar kapasitet på 95,0 kWh, som gir en buffer på 5,0 kWh (5,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 700 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 [CLTC-rekkevidden](../../../../guides/understandingrange/cltc/) er 780 km (485 miles). Forbruket er 12,2kWh/100 km for CLTC-standardtesten. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -237,6 +237,8 @@ Zeekr 7X Long Range AWD inkluderer flere [avanserte førerassistanse systemer](.
 
 ### Sikkerhetssystemer
 
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Long Range AWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+
 [**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Long Range AWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Long Range AWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
@@ -247,7 +249,9 @@ Zeekr 7X Long Range AWD inkluderer flere [avanserte førerassistanse systemer](.
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Long Range AWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Zeekr 7X Long Range AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Long Range AWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Long Range AWD, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 

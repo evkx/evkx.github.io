@@ -239,6 +239,8 @@ Der Zeekr 7X Standard Range RWD verfügt über eine Reihe von standardmäßigen 
 
 ### Sicherheitssysteme
 
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Zeekr 7X Standard Range RWD, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
 [**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Zeekr 7X Standard Range RWD, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Zeekr 7X Standard Range RWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
@@ -249,7 +251,9 @@ Der Zeekr 7X Standard Range RWD verfügt über eine Reihe von standardmäßigen 
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Zeekr 7X Standard Range RWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
-[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Optional im Zeekr 7X Standard Range RWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Zeekr 7X Standard Range RWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Zeekr 7X Standard Range RWD, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 

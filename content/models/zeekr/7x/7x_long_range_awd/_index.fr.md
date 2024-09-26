@@ -30,7 +30,7 @@ La Zeekr 7X Long Range AWD impressionne avec une puissance maximale de 475 kW (6
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 95,0 kWh, offrant une réserve de 5,0 kWh (5,0%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 100,0 kWh et une capacité nette utilisable de 95,0 kWh, offrant une réserve de 5,0 kWh (5,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 700 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 780 km (485 miles). La consommation est de 12,2kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -237,6 +237,8 @@ Le Zeekr 7X Long Range AWD comprend plusieurs [systèmes avancés d'assistance a
 
 ### Systèmes de Sécurité
 
+[**Système de freinage antiblocage (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard sur le Zeekr 7X Long Range AWD, ce système empêche les roues de se bloquer lors du freinage.
+
 [**Contrôle Électronique de Stabilité (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard sur le Zeekr 7X Long Range AWD, ce système améliore la stabilité et la maniabilité du véhicule lors de manœuvres soudaines ou en conditions de route glissantes.
 
 [**Assistance au Maintien de Voie (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard sur le Zeekr 7X Long Range AWD, ce système aide à prévenir le déplacement du véhicule hors de sa voie. Il comprend également un système de [**Alerte de Sortie de Voie**](../../../../technology/driverassistance/lanedeparturewarning/) pour alerter le conducteur si le véhicule quitte sa voie.
@@ -247,7 +249,9 @@ Le Zeekr 7X Long Range AWD comprend plusieurs [systèmes avancés d'assistance a
 
 [**Freinage d'urgence automatique (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard sur le Zeekr 7X Long Range AWD, ce système applique les freins de manière autonome pour éviter ou réduire la gravité d'une collision si le conducteur ne réagit pas à temps.
 
-[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Facultatif sur le Zeekr 7X Long Range AWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+[**Surveillance des Angles Morts (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard sur le Zeekr 7X Long Range AWD, ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
+
+[**Alerte de Sortie**](../../../../technology/driverassistance/exitwarning/): Standard sur le Zeekr 7X Long Range AWD, ce système alerte les occupants avant d'ouvrir les portes s'il y a un risque de heurter quelque chose.
 
 ### Automatisation de la Conduite
 

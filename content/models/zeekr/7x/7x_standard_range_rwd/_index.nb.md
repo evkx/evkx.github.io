@@ -239,6 +239,8 @@ Zeekr 7X Standard Range RWD inkluderer flere [avanserte førerassistanse systeme
 
 ### Sikkerhetssystemer
 
+[**Blokkeringsfrie bremser (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard på Zeekr 7X Standard Range RWD, dette systemet forhindrer hjulene i å låse seg under bremsing.
+
 [**Elektronisk Stabilitetskontroll (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard på Zeekr 7X Standard Range RWD, dette systemet forbedrer kjøretøyets stabilitet og håndtering under plutselige manøvrer eller på glatte veier.
 
 [**Kjørefeltassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard på Zeekr 7X Standard Range RWD, dette systemet hjelper til med å forhindre at kjøretøyet driver ut av kjørefeltet. Det inkluderer også et system for [**Advarsel om Utkjøring av Kjørebanen**](../../../../technology/driverassistance/lanedeparturewarning/) for å advare sjåføren hvis kjøretøyet kommer ut av kjørefeltet.
@@ -249,7 +251,9 @@ Zeekr 7X Standard Range RWD inkluderer flere [avanserte førerassistanse systeme
 
 [**Automatisk nødbremsing (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard på Zeekr 7X Standard Range RWD, dette systemet bruker bremsene autonomt for å forhindre eller redusere alvorlighetsgraden av en kollisjon hvis føreren ikke reagerer i tide.
 
-[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Valgfri på Zeekr 7X Standard Range RWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+[**Blindsonemonitorering (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard på Zeekr 7X Standard Range RWD, dette sideassistansesystemet hjelper til med å oppdage trafikk i blindsoner.
+
+[**Uttrekksadvarsel**](../../../../technology/driverassistance/exitwarning/): Standard på Zeekr 7X Standard Range RWD, dette systemet advarer passasjerene mot å åpne dørene hvis det er risiko for å treffe noe.
 
 ### Kjøreautomatisering
 

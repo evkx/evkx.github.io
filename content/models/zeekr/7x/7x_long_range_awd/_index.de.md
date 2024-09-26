@@ -30,7 +30,7 @@ Der Zeekr 7X Long Range AWD bietet eine beeindruckende Leistung mit einer maxima
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 95,0 kWh, was einen Puffer von 5,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 370 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 100,0 kWh und eine nutzbare Nettokapazität von 95,0 kWh, was einen Puffer von 5,0 kWh (5,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 700 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Die Reichweite des Fahrzeugs nach dem [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) Standard beträgt 780 km (485 Meilen). Der Energieverbrauch beträgt 12,2 kWh/100 km basierend auf dem CLTC-Standardtest. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -237,6 +237,8 @@ Der Zeekr 7X Long Range AWD verfügt über eine Reihe von standardmäßigen und 
 
 ### Sicherheitssysteme
 
+[**Antiblockiersystem (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/): Standard im Zeekr 7X Long Range AWD, dieses System verhindert das Blockieren der Räder beim Bremsen.
+
 [**Elektronische Stabilitätskontrolle (ESC)**](../../../../technology/driverassistance/electronicstabilitycontrol/): Standard im Zeekr 7X Long Range AWD, dieses System verbessert die Stabilität und das Handling des Fahrzeugs bei plötzlichen Manövern oder auf rutschigen Straßenbedingungen.
 
 [**Spurhalteassistent (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard im Zeekr 7X Long Range AWD, dieses System hilft, das Fahrzeug in seiner Spur zu halten. Es umfasst auch ein [**Spurverlassenswarnsystem**](../../../../technology/driverassistance/lanedeparturewarning/), das den Fahrer warnt, wenn das Fahrzeug die Spur verlässt.
@@ -247,7 +249,9 @@ Der Zeekr 7X Long Range AWD verfügt über eine Reihe von standardmäßigen und 
 
 [**Automatische Notbremsung (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard im Zeekr 7X Long Range AWD, dieses System bremst autonom, um eine Kollision zu verhindern oder deren Schwere zu verringern, wenn der Fahrer nicht rechtzeitig reagiert.
 
-[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Optional im Zeekr 7X Long Range AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+[**Totwinkelüberwachung (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/): Standard im Zeekr 7X Long Range AWD, dieses Seitenassistenzsystem hilft, den Verkehr im toten Winkel zu erkennen.
+
+[**Aussteigewarnung**](../../../../technology/driverassistance/exitwarning/): Standard im Zeekr 7X Long Range AWD, dieses System warnt Insassen davor, Türen zu öffnen, wenn die Gefahr besteht, etwas zu treffen.
 
 ### Fahrautomatisierung
 

@@ -158,7 +158,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tension nominale
 			</td>
 			<td>
-				370
+				700
 			</td>
 		</tr>
 		<tr>
@@ -906,6 +906,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de somnolence
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +922,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra 360
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -953,7 +954,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
-				Oui, équipement en option
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +978,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
