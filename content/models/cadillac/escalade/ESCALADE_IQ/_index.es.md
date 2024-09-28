@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ es un SUV totalmente eléctrico con una autonomía EPA de hasta 724 km (450 millas). EVKX.net tiene todos los detalles."
+description: "Cadillac ESCALADE IQ es un SUV totalmente eléctrico con una autonomía EPA de hasta 740 km (460 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Hemos separado nuestro artículo Cadillac ESCALADE IQ en secciones. Si desea esp
 
 ## Rendimiento
 
-El Cadillac ESCALADE IQ impresiona con una potencia máxima de 560 kW (761 hp) y un impresionante par total de 1064 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,7 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
+El Cadillac ESCALADE IQ impresiona con una potencia máxima de 560 kW (761 hp) y un impresionante par total de 1064 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,9 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 215,0 kWh y una capacidad neta utilizable de 200,0 kWh, proporcionando un buffer de 15,0 kWh (7,0%) para la protección de la batería. Operando a un voltaje nominal de 650 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto)](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc).
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 724 km con una tasa de consumo de energía de 27,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 740 km con una tasa de consumo de energía de 27,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 350kW. Una carga completa del 0 al 100 % tardaría 130 minutos, mientras que un escenario más común del 10 al 80 % tardaría 45 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 53%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 242kW. Cada sesión de carga tardaría 26 minutos y 49 segundos. Esta capacidad de carga eficiente hace que el Cadillac ESCALADE IQ sea una opción conveniente para viajes de larga distancia.
 
@@ -44,7 +44,11 @@ El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y N
 
 ### Puerto de carga
 
-La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador.
+
+### Carga bidireccional
+
+Este modelo admite tanto V2L (Vehicle to Load) como V2H (Vehicle to Home). V2L le permite alimentar equipos eléctricos que requieren hasta 10,2 kW de potencia, incluida la capacidad de cargar otros vehículos. V2H permite que el automóvil sirva como fuente de energía de respaldo para su hogar. Tenga en cuenta que V2H requiere equipo especializado en su hogar.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,7 +58,7 @@ Cadillac ESCALADE IQ tiene un sistema de tracción total sostenido por dos motor
 
 ### Suspensión
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 200 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 152 mm y la máxima es 250 mm.
 
 La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
 
@@ -63,6 +67,8 @@ La función Easy Entry eleva automáticamente la carrocería del coche cuando se
 La dirección dinámica es una característica un estándar en el Cadillac ESCALADE IQ. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
+
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
 
 ### Frenado regenerativo
 
@@ -112,7 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Front bucket s
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
@@ -134,9 +139,6 @@ La opción first son dos sillas estilo capitán. Además, las siguientes funcion
 - [Ajuste del ángulo del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (ajustable eléctricamente)
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
-- [ventilación](../../../../technology/seats/adjustment/#ventilación)
-- [masaje](../../../../technology/seats/adjustment/#massage)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
 
@@ -146,6 +148,8 @@ La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (ajustable eléctricamente)
+- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
+- [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (ajustable eléctricamente para el conductor, no disponible para el pasajero)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
@@ -159,7 +163,7 @@ La tercera fila tiene un banco de tres asientos con una división 60:40. Nuevame
 
 Hay un sistema climático disponible.
 
-- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+- **Sistema de climatización de 5 zonas:** Soporta diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila.
 
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
@@ -198,9 +202,11 @@ Tanto los espejos exteriores como los interiores utilizan tecnología de espejo 
 
 ## Infoentretenimiento
 
+El Cadillac ESCALADE IQ cuenta con un avanzado sistema de infoentretenimiento basado en Android Automotive OS con Google Automotive Services, lo que permite una integración fluida de las aplicaciones y servicios de Google directamente en el vehículo. Este robusto sistema incluye Google Maps integrado para la navegación, Google Assistant para comandos de voz y acceso a una amplia gama de aplicaciones a través de Google Play Store. Cadillac ha mejorado aún más esta plataforma integrando su propia suite de aplicaciones, que ofrecen configuraciones completas del vehículo y funciones adicionales diseñadas para la experiencia de conducción de Cadillac.
+
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación de rutas avanzada. El sistema proporciona información de tráfico en tiempo real, asegurando un viaje eficiente y sin estrés.
 
 ### Sistema de sonido
 
@@ -210,6 +216,14 @@ Puedes elegir entre dos sistemas de sonido en el Cadillac ESCALADE IQ.
 - Con el AKG Studio Reference System, obtienes 40 parlantes con una salida máxima del sistema de 1000 vatios.
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
+
+## Aplicación móvil
+
+El Cadillac ESCALADE IQ viene con su propia aplicación móvil, disponible para dispositivos Android e iOS, que te permite gestionar y monitorear tu vehículo de forma remota. La aplicación ofrece una amplia gama de funciones diseñadas para mejorar tu experiencia de conducción:
+
+- **Preacondicionamiento**: Precalienta o enfría tu coche antes de comenzar tu viaje para mayor comodidad.
+- **Ajustar objetivo de carga**: Establece el estado de carga deseado para iniciar o detener la carga según sea necesario.
+- **Planificación de rutas**: Planifica tu ruta y envíala directamente al sistema de navegación del coche.
 
 ## Luces
 
@@ -250,6 +264,11 @@ Con el sistema Super Cruise  de nivel 2, obtienes las siguientes funciones de au
 - [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/).
 - [**Cambio Automático de Carril (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensores y Cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para sus sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/) y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) monitorizan los alrededores del vehículo.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacidad de carga y capacidad de remolque
@@ -260,10 +279,25 @@ El peso máximo del vehículo es 4717 kg, con un peso base de 4103 kg. Esto perm
 
 Se puede agregar un enganche al vehículo. El peso máximo permitido para un tráiler con freno es de 3628 kg, mientras que para un tráiler sin freno es de 750 kg.
 
+## Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 09.08.2023 y las entregas comenzaron en January 2025. Este modelo sólo está disponible en Norteamérica.
+
 ### Precios
 
 Los precios pueden variar según las condiciones locales, los incentivos y las promociones. A continuación, se muestran los precios iniciales para algunos países:
 
 - $129 990,00 (EE.UU.)
+
+## Modelos Alternativos
+
+En el mercado de vehículos eléctricos en rápida expansión, EVKX.net ha identificado varios modelos alternativos al Cadillac ESCALADE IQ que vale la pena considerar en función de características, especificaciones y precios. Aunque estos modelos pueden no coincidir exactamente, compararlos podría ayudarte a tomar una decisión de compra más informada:
+
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+
+<a href="https://db.evkx.net/evcompare?evs=c12443%2c53cc21%2caba51d%2c45dd09%2cb8df50" target="_blank">Explora una comparación detallada de estos modelos.</a>
 
 {{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Rango" >}}

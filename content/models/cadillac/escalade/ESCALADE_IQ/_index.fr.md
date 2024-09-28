@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 724 km (450 miles). EVKX.net a tous les détails."
+description: "Cadillac ESCALADE IQ est un SUV entièrement électrique avec une autonomie EPA allant jusqu'à 740 km (460 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Nous avons séparé notre article Cadillac ESCALADE IQ en sections. Si vous souh
 
 ## Performances
 
-La Cadillac ESCALADE IQ impressionne avec une puissance maximale de 560 kW (761 ch) et un couple total impressionnant de 1064 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,7 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
+La Cadillac ESCALADE IQ impressionne avec une puissance maximale de 560 kW (761 ch) et un couple total impressionnant de 1064 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 215,0 kWh et une capacité nette utilisable de 200,0 kWh, offrant une réserve de 15,0 kWh (7,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 724 km avec un taux de consommation d'énergie de 27,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 740 km avec un taux de consommation d'énergie de 27,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 350kW. Une charge complète de 0 à 100 % prendrait 130 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 45 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 53 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 242kW. Chaque session de charge prendrait 26 minutes et 49 secondes. Cette capacité de charge efficace fait de l'Cadillac ESCALADE IQ une option pratique pour les voyages longue distance.
 
@@ -44,7 +44,11 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge C
 
 ### Port de recharge
 
-L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur.
+
+### Recharge bidirectionnelle
+
+Ce modèle prend en charge à la fois les fonctionnalités V2L (Vehicle to Load) et V2H (Vehicle to Home). V2L vous permet d'alimenter des équipements électriques nécessitant jusqu'à 10,2 kW de puissance, y compris la possibilité de charger d'autres véhicules. V2H permet à la voiture de servir de source d'alimentation de secours pour votre maison. Notez que V2H nécessite un équipement spécialisé dans votre maison.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,7 +58,7 @@ Cadillac ESCALADE IQ dispose d'un système de transmission intégrale pris en ch
 
 ### Suspension
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 200 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 152 mm et la garde au sol maximale est de 250 mm.
 
 La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
@@ -63,6 +67,8 @@ La fonction Easy Entry élève automatiquement la carrosserie de la voiture lors
 La direction dynamique est une fonctionnalité un standard sur le Cadillac ESCALADE IQ. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
+
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
 
 ### Freinage régénératif
 
@@ -112,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Front bucket sea
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optionnel)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optionnel)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
@@ -134,9 +139,6 @@ L'option first est deux sièges capitaine. De plus, les fonctionnalités suivant
 - [Réglage de l'angle du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (réglable électriquement)
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massage](../../../../technology/seats/adjustment/#massage)
 
 L'option second est double [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). De plus, les fonctionnalités suivantes sont disponibles.
 
@@ -146,6 +148,8 @@ L'option second est double [sièges exécutifs](../../../../technology/seats/typ
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (réglable électriquement)
+- [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (réglable électriquement pour le conducteur, non disponible pour le passager)
+- [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (réglable électriquement pour le conducteur, non disponible pour le passager)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -159,7 +163,7 @@ La troisième rangée est dotée d'une banquette à trois places divisée en 60:
 
 Un système climatique est disponible.
 
-- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+- **Système de climatisation à 5 zones** : Prend en charge différentes températures dans cinq zones. Le conducteur, le passager et deux zones dans la 2ème rangée et une dans la 3ème rangée.
 
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
@@ -198,9 +202,11 @@ Les rétroviseurs extérieurs et intérieurs utilisent une technologie de miroir
 
 ## Infodivertissement
 
+La Cadillac ESCALADE IQ est équipée d'un système d'infodivertissement avancé basé sur Android Automotive OS avec Google Automotive Services, offrant une intégration transparente des applications et services Google directement dans le véhicule. Ce système robuste comprend Google Maps intégré pour la navigation, Google Assistant pour les commandes vocales et un accès à une large gamme d'applications via le Google Play Store. Cadillac a également amélioré cette plateforme en intégrant sa propre suite d'applications, offrant des réglages complets du véhicule et des fonctionnalités supplémentaires adaptées à l'expérience de conduite Cadillac.
+
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification d'itinéraire avancée. Le système fournit des informations sur le trafic en temps réel, garantissant un voyage efficace et sans stress.
 
 ### Système audio
 
@@ -210,6 +216,14 @@ Vous pouvez choisir entre deux systèmes audio sur le Cadillac ESCALADE IQ.
 - Avec le AKG Studio Reference System, vous obtenez 40 haut-parleurs avec une puissance système maximale de 1000 watts.
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+
+## Application mobile
+
+Le Cadillac ESCALADE IQ est accompagné de son application mobile dédiée, disponible pour les appareils Android et iOS, vous permettant de gérer et de surveiller votre véhicule à distance. L'application offre une large gamme de fonctionnalités conçues pour améliorer votre expérience de conduite :
+
+- **Préconditionnement** : Chauffez ou refroidissez votre voiture avant de commencer votre trajet pour un confort optimal.
+- **Ajuster l'objectif de charge** : Définissez l'état de charge souhaité pour démarrer ou arrêter la charge selon vos besoins.
+- **Planification d'itinéraire** : Planifiez votre itinéraire et envoyez-le directement au système de navigation de la voiture.
 
 ## Lumières
 
@@ -250,6 +264,11 @@ Avec le système Super Cruise  de niveau 2, vous obtenez les fonctionnalités su
 - [**Stationnement automatique**](../../../../technology/driverassistance/automaticparking/).
 - [**Changement Automatique de Voie (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Capteurs & Caméras
+
+Ce modèle utilise des caméras, des radars et des capteurs ultrasoniques pour ses systèmes d'assistance à la conduite.
+Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [capteurs ultrasoniques](../../../../technology/sensorsandcameras/ultrasonic/) surveillent les environs du véhicule.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Capacité de chargement et capacité de remorquage
@@ -260,10 +279,25 @@ Le poids maximum du véhicule est de 4717 kg, avec un poids de base de 4103 kg. 
 
 Un attelage peut être ajouté au véhicule. Le poids maximal autorisé pour une remorque freinée est de 3628 kg, tandis que pour une remorque non freinée, il est de 750 kg.
 
+## Disponibilité et prix
+
+Ce modèle a été présenté en première mondiale le 09.08.2023 et les livraisons ont commencé en January 2025. Ce modèle est uniquement disponible en Amérique du Nord.
+
 ### Tarification
 
 Les prix peuvent varier en fonction des conditions locales, des incitations et des promotions. Voici les prix de départ pour certains pays :
 
 - $129 990,00 (États-Unis)
+
+## Modèles Alternatifs
+
+Dans le marché en pleine expansion des véhicules électriques, EVKX.net a identifié plusieurs alternatives au Cadillac ESCALADE IQ qui méritent d'être considérées en fonction des fonctionnalités, des spécifications et des prix. Bien que ces modèles ne soient peut-être pas des correspondances exactes, les comparer pourrait vous aider à prendre une décision d'achat plus éclairée:
+
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+
+<a href="https://db.evkx.net/evcompare?evs=c12443%2c53cc21%2caba51d%2c45dd09%2cb8df50" target="_blank">Découvrez une comparaison détaillée de ces modèles.</a>
 
 {{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Plage" >}}

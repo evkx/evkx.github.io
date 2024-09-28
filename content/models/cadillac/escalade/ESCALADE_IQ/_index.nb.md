@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ er en helelektrisk SUV med en EPA rekkevidde på opptil 724 km. EVKX.net har alle detaljene."
+description: "Cadillac ESCALADE IQ er en helelektrisk SUV med en EPA rekkevidde på opptil 740 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ Vi har delt vår beskrivelse av Cadillac ESCALADE IQ i seksjoner. Hvis du vil ve
 
 ## Ytelse
 
-Cadillac ESCALADE IQ imponerer med en imponerende kraft på 560 kW (761 hk) og et betydelig dreiemoment på 1064 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
+Cadillac ESCALADE IQ imponerer med en imponerende kraft på 560 kW (761 hk) og et betydelig dreiemoment på 1064 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
 Høykapasitetsbatteriet har en brutto kapasitet på 215,0 kWh og en netto brukbar kapasitet på 200,0 kWh, som gir en buffer på 15,0 kWh (7,0%) for batteribeskyttelse. Ved å operere med en nominell spenning på 650 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 724 km med en energiforbrukshastighet på 27,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har kjøretøyet en rekkevidde på 740 km med en energiforbrukshastighet på 27,0 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 350 kW. En full lading fra 0 - 100 % vil ta 130 minutter, mens et mer vanlig scenario på 10-80 % vil ta 45 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 53%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 242kW. Hver ladeøkt vil ta 26 minutter og 49 sekunder. Denne effektive ladekapasiteten gjør Cadillac ESCALADE IQ til et praktisk valg for langdistansereiser.
 
@@ -44,7 +44,11 @@ Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lad
 
 ### Ladeport
 
-Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen.
+
+### Toveis lading
+
+Denne modellen støtter både V2L (Vehicle to Load) og V2H (Vehicle to Home) funksjonaliteter. V2L lar deg drive elektrisk utstyr som krever opptil 10,2 kW strøm, inkludert muligheten til å lade andre kjøretøy. V2H gjør det mulig for bilen å fungere som en backup strømkilde for hjemmet ditt. Merk at V2H krever spesialutstyr i hjemmet ditt.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,7 +58,7 @@ Cadillac ESCALADE IQ har et firehjulsdriftssystem som støttes av to motorer, en
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 200 mm.
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 152 mm, og maksimum er 250 mm.
 
 Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
 
@@ -63,6 +67,8 @@ Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe
 Dynamisk styring er en standard-funksjonen på Cadillac ESCALADE IQ. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som en standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
+
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
 
 ### Regenerativ bremsing
 
@@ -112,7 +118,6 @@ Følgende funksjoner er tilgjengelige på **Front bucket seats** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfri)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfri)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
@@ -134,9 +139,6 @@ Alternativet first er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 - [Setepute vinkeljustering](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (elektrisk justerbar)
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
-- [ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [massasje](../../../../technology/seats/adjustment/#massage)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
 
@@ -146,6 +148,8 @@ Alternativet second er to [executive-seter](../../../../technology/seats/types/#
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (elektrisk justerbar)
+- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
+- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (elektrisk justerbar for fører, ikke tilgjengelig for passasjer)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
@@ -159,7 +163,7 @@ Den tredje raden har en tre-seters benk med en 60:40 delt. Igjen kan du legge ne
 
 Det er ett tilgjengelig klimasystem.
 
-- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
+- **5-soners klimasystem:** Støtter forskjellige temperaturer i fem soner. Fører, passasjer og to soner på 2. rad og en i 3. rad.
 
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
@@ -198,9 +202,11 @@ Både de utvendige og innvendige speilene bruker tradisjonell speilteknologi for
 
 ## Infotainment
 
+Cadillac ESCALADE IQ er utstyrt med et avansert infotainmentsystem som kjører på Android Automotive OS med Google Automotive Services, som gir en sømløs integrasjon av Google-apper og -tjenester direkte i kjøretøyet. Dette robuste systemet inkluderer innebygd Google Maps for navigasjon, Google Assistant for talekommandoer, og tilgang til et bredt spekter av apper via Google Play Store. Cadillac har ytterligere forbedret denne plattformen ved å integrere sin egen suite av applikasjoner, som gir omfattende bilinnstillinger og tilleggsegenskaper skreddersydd for Cadillac kjøreopplevelse.
+
 ### Navigasjonssystem
 
-I tillegg får du med en standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging. Systemet gir sanntids trafikkinformasjon, noe som sikrer en effektiv og stressfri reise.
 
 ### Lydsystem
 
@@ -210,6 +216,14 @@ Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ.
 - Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt.
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+
+## Mobilapp
+
+Cadillac ESCALADE IQ kommer med sin egen dedikerte mobilapp, tilgjengelig for både Android- og iOS-enheter, som lar deg administrere og overvåke kjøretøyet ditt eksternt. Appen tilbyr et bredt spekter av funksjoner designet for å forbedre kjøreopplevelsen din:
+
+- **Forhåndsklimatisering**: Forvarm eller avkjøl bilen din før du starter reisen for optimal komfort.
+- **Juster ladegrense**: Angi ønsket ladetilstand for å starte eller stoppe lading etter behov.
+- **Ruteplanlegging**: Planlegg ruten din og send den direkte til bilens navigasjonssystem.
 
 ## Lys
 
@@ -250,6 +264,11 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 - [**Automatisk Parkering**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatisk Filskift (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensorer & Kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer til sine førerassistentsystemer.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) overvåker kjøretøyets omgivelser.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Lastekapasitet og slepeevne
@@ -260,10 +279,25 @@ Kjøretøyets maksimale vekt er 4717 kg, med en basisvekt på 4103 kg. Dette gir
 
 Et tilhengerfeste kan legges til kjøretøyet. Maksimal tillatt vekt for en bremsesatt tilhenger er 3628 kg, mens for en ubremset tilhenger er det 750 kg.
 
+## Tilgjengelighet & pris
+
+Cadillac ESCALADE IQ hadde sin verdenspremiere den 09.08.2023, med leveranser som startet i January 2025. Vær oppmerksom på at denne modellen kun er tilgjengelig i Nord-Amerika.
+
 ### Priser
 
 Prisene kan variere avhengig av lokale forhold, insentiver og kampanjer. Nedenfor er startprisene for utvalgte land:
 
 - $129 990,00 (USA)
+
+## Alternative Modeller
+
+I det raskt voksende elbilmarkedet har EVKX.net identifisert flere alternativer til Cadillac ESCALADE IQ som er verdt å vurdere basert på funksjoner, spesifikasjoner og priser. Selv om disse modellene kanskje ikke er eksakte matcher, kan en sammenligning hjelpe deg med å ta en mer informert kjøpsbeslutning:
+
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+
+<a href="https://db.evkx.net/evcompare?evs=c12443%2c53cc21%2caba51d%2c45dd09%2cb8df50" target="_blank">Utforsk en detaljert sammenligning av disse modellene.</a>
 
 {{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Rekkevidde" >}}

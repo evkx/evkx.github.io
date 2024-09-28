@@ -55,7 +55,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Cadillac 
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme EPA
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Tapez chargeport Europe
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Tapez le port de charge Amérique du Nord
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Chine
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tapez chargeport Japon
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				200 mm
+				250 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				125 mm
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité standard
+				Inconnu
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Fonction électrique standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Ventilation du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				Fonction massage
 			</td>
 			<td>
-				Fonctionnalité standard
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Non disponible
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Non disponible
+				Conducteur électrique standard, non disponible pour le passager
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Avertissement de température
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Limiteur de vitesse
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				Vision nocturne
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement en option
 			</td>
 		</tr>
 	</tbody>

@@ -55,7 +55,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Cadillac ESCALADE IQ. 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA räckvidd
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
-				Typ laddport Europa
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Typ laddport Nordamerika
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ laddport Oceanien (Australien, Nya Zeeland ++)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				200 mm
+				250 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				125 mm
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				Elektriskt svankstöd
 			</td>
 			<td>
-				Standard elektrisk funktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Standard elektrisk förare, inte tillgänglig för passagerare
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Left Turn Crash Avoidance
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Temperature Warning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Hastighetsbegränsare
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				EfficiencyAssist
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				Autonom nödstyrning
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				Nattseende
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 	</tbody>

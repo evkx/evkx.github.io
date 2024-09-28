@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac ESCALADE 
 				0-100 km/t (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-område
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Typ ladeport Europa
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Typ ladeport Nordamerika
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Kina
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Typ ladeport Oceanien (Australien, New Zealand ++)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				200 mm
+				250 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				125 mm
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Standardfunktion
+				Ukendt
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Standard elektrisk funktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Sædeventilation
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Standardfunktion
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ikke tilgængelig
+				Standard elektrisk fører, ikke tilgængelig for passager
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Undgåelse af venstresving
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Temperaturadvarsel
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Hastighedsbegrænser
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				Natsyn
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 	</tbody>

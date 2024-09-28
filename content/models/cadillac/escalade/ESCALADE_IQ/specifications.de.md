@@ -55,7 +55,7 @@ EVKX.net strebt an, die vollständigsten Spezifikationen für Cadillac ESCALADE 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				EPA-Reichweite
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
-				Ladeanschluss Typ Europa
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Ladeanschluss Typ Nordamerika
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ladeanschluss Typ China
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ladeanschluss Typ Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Ladeanschluss Typ Ozeanien (Australien, Neuseeland usw.)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Maximale Bodenfreiheit
 			</td>
 			<td>
-				200 mm (7,9")
+				250 mm (9,8")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 				Minimale Bodenfreiheit
 			</td>
 			<td>
-				125 mm (4,9")
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Serienausstattung
+				Unbekannt
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				Elektrische Lendenwirbelstütze
 			</td>
 			<td>
-				Standard elektrische Funktion
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Sitzbelüftung
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				Massagefunktion
 			</td>
 			<td>
-				Serienausstattung
+				Nicht verfügbar
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				Verstellbare Seitenstütze der Rückenlehne
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrischer Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				Verstellbare Seitenstütze des Sitzkissens
 			</td>
 			<td>
-				Nicht verfügbar
+				Standard elektrischer Fahrer, nicht verfügbar für Beifahrer
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Unfallvermeidung bei Linksabbiegen
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Temperaturwarnung
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Geschwindigkeitsbegrenzer
 			</td>
 			<td>
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				Effizienzassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				Automatische Notlenkung
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				Nachtsicht
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Sonderausstattung
 			</td>
 		</tr>
 	</tbody>

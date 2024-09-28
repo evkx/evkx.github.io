@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Cadillac ESCALADE IQ
 				0-100km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
-				Type chargeport Europe
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Type chargeport North America
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport China
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport Japan
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type chargeport Oceania (Australia, New Zealand ++)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				200 mm (7,9")
+				250 mm (9,8")
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				125 mm (4,9")
+				152 mm (6,0")
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Standard feature
+				Unknown
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Standard electric feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Standard feature
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Not Available
+				Standard electric driver, not available passenger
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Left turn crash avoidance
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Temperature warning
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Speed limiter
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/efficencyassist/">Efficiency assist</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/driverassistance/automaticemergencysteering/">Automatic Emergency Steering</a>
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/sensorsandcameras/infrared/">Night Vision</a>
 			</td>
 			<td>
-				Not available
+				Yes, optional equipment
 			</td>
 		</tr>
 	</tbody>

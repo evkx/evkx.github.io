@@ -1,7 +1,7 @@
 ---
 title: Cadillac ESCALADE IQ
 linktitle: "ESCALADE IQ"
-description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 724 km (450 miles). EVKX.net has all the details."
+description: "Cadillac ESCALADE IQ is an all-electric SUV with a EPA range of up to 740 km (460 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -26,13 +26,13 @@ We've organized this article into specific sections for easier navigation. Click
 
 ## Performance
 
-The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 kW (761 hp / 751 bhp) and a commanding total torque of 1064 Nm (785 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
+The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 kW (761 hp / 751 bhp) and a commanding total torque of 1064 Nm (785 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.9 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
 
 ## Battery, Range, and Charging
 
 The high-capacity battery has a gross capacity of 215.0 kWh and a net usable capacity of 200.0 kWh, providing a 15.0 kWh buffer (7.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 450 miles (724 km) with an energy consumption rate of 2.3 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 460 miles (740 km) with an energy consumption rate of 2.3 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 350 kW. Charging from 0% to 100% takes approximately 130 minutes, while a more typical scenario from 10% to 80% takes 45 minutes with an average charging speed of 186 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 53%. This results in an effective charging speed, including time lost, of 242 kW, with each charging session taking about 26 minutes and 49 seconds. This efficient charging capability makes the Cadillac ESCALADE IQ a convenient option for long-distance travel.
 
@@ -44,7 +44,11 @@ The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC c
 
 ### Charge Port
 
-The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+The charge port is located on the [left rear side](../../../../technology/charging/connectors/#rear-side), making it easy to use charge stations where you need to back up into the charger.
+
+### Bidirectional Charging
+
+This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. Note that V2H requires specialized equipment in your home.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -54,7 +58,7 @@ The Cadillac ESCALADE IQ features an all-wheel drive system powered by two motor
 
 ### Suspension
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the maximum is 250 mm.
 
 The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
@@ -63,6 +67,8 @@ The Easy Entry function raises the car's body automatically when a door is opene
 Dynamic steering is a standard on the Cadillac ESCALADE IQ, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
+
+The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
 
 ### Regenerative Braking
 
@@ -112,7 +118,6 @@ The following functionalities are available on the **Front bucket seats** seat:
 - [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 
@@ -134,9 +139,6 @@ The first option is two captain chairs. Additional functionalities include:
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
-- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
-- [Massage](../../../../technology/seats/adjustment/#massage)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
@@ -146,6 +148,8 @@ The second option is twin [executive seats](../../../../technology/seats/types/#
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (electrically adjustable for driver, not available for passenger)
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (electrically adjustable for driver, not available for passenger)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
@@ -159,7 +163,7 @@ The third row has a three-seat bench with a 60:40 split. Again, you can fold dow
 
 There is one climate system available:
 
-- **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
+- **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
 
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
@@ -198,9 +202,11 @@ Both the exterior and interior mirrors use conventional mirror technology to pro
 
 ## Infotainment
 
+The Cadillac ESCALADE IQ features an advanced infotainment system built on Android Automotive OS with Google Automotive Services, offering a seamless integration of Google apps and services directly into the vehicle. This robust system includes built-in Google Maps for navigation, Google Assistant for voice commands, and access to a wide range of apps via the Google Play Store. Cadillac has further enhanced this platform by integrating their own suite of applications, providing comprehensive car settings and additional features tailored to the Cadillac driving experience.
+
 ### Navigation System
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+The built-in navigation system uses detailed maps and offers advanced route planning. The system provides real-time traffic information ensuring an efficient and stress-free journey.
 
 ### Sound System
 
@@ -210,6 +216,14 @@ You can choose between two sound systems for the Cadillac ESCALADE IQ:
 - **AKG Studio Reference System:** Features 40 speakers and delivers a maximum output of 1000 watts.
 
 Additionally, the model includes 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
+## Mobile App
+
+The Cadillac ESCALADE IQ comes with a dedicated mobile app, available for both Android and iOS devices, allowing you to manage and monitor your vehicle remotely. The app offers a wide range of features designed to enhance your driving experience:
+
+- **Preconditioning:** Preheat or cool your car before you start your journey for optimal comfort.
+- **Adjust Charging Target:** Set your desired State of Charge to start or stop charging as needed.
+- **Route Planning:** Plan your route and send it directly to your car's navigation system.
 
 ## Lights
 
@@ -250,6 +264,11 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 - [**Automatic parking**](../../../../technology/driverassistance/automaticparking/).
 - [**Automatic Lane Change (ALC)**](../../../../technology/driverassistance/automatedlanechange/)
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for its driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) monitor the vehicle’s surroundings.
+
 {{<evkxdisplayaddarticle />}}
 
 ## Cargo Capacity and Towing Ability
@@ -260,10 +279,25 @@ The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 410
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 3628 kg (7998 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
 
+## Availability & Pricing
+
+The Cadillac ESCALADE IQ had its world premiere on 09.08.2023, with deliveries starting in January 2025. Please note that this model is available exclusively in North America.
+
 ### Pricing
 
 Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
 
 - $129 990,00 (USA)
+
+## Alternative Models
+
+In the rapidly expanding EV market, EVKX.net has identified several alternatives to the Cadillac ESCALADE IQ that are worth considering based on features, specifications, and pricing. While these models may not be exact matches, comparing them could help you make a more informed buying decision:
+
+- [Rivian R1S Performance Dual-Motor AWD LP](/models/rivian/r1/r1s_performance_dual-motor_awd_lp/)
+- [Rivian R1S Performance Dual-Motor AWD MP](/models/rivian/r1/r1s_performance_dual-motor_awd_mp/)
+- [Kia EV9 GT-Line AWD](/models/kia/ev9/ev9_gt-line_awd/)
+- [Mercedes EQS 580 4MATIC SUV](/models/mercedes/eqs_suv/eqs_580_4matic_suv/)
+
+<a href="https://db.evkx.net/evcompare?evs=c12443%2c53cc21%2caba51d%2c45dd09%2cb8df50" target="_blank">Explore a detailed comparison of these models.</a>
 
 {{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Range" >}}

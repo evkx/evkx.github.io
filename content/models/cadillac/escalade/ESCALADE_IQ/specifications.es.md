@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Cadillac ESCALADE 
 				0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				4,7 s
+				4,9 s
 			</td>
 		</tr>
 	</tbody>
@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				rango EPA
 			</td>
 			<td>
-				450 mi
+				460 mi
 			</td>
 		</tr>
 		<tr>
@@ -190,42 +190,10 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Tipo puerto de carga Europa
-			</td>
-			<td>
-				CCS2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Escriba puerto de carga Norteamérica
 			</td>
 			<td>
 				CCS1
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo puerto de carga China
-			</td>
-			<td>
-				GBT
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Escriba puerto de carga Japón
-			</td>
-			<td>
-				CHAdeMO
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
-			</td>
-			<td>
-				CCS2
 			</td>
 		</tr>
 	</tbody>
@@ -468,7 +436,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				200 mm
+				250 mm
 			</td>
 		</tr>
 		<tr>
@@ -476,7 +444,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm
+				152 mm
 			</td>
 		</tr>
 		<tr>
@@ -676,7 +644,7 @@ Interior.Seatlayout.OnlySix
 				Función de masaje
 			</td>
 			<td>
-				Función estándar
+				Desconocido
 			</td>
 		</tr>
 	</tbody>
@@ -765,7 +733,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función eléctrica estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -773,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Ventilación del asiento
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -781,7 +749,7 @@ Interior.Seatlayout.OnlySix
 				Función de masaje
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -835,7 +803,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				No disponible
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +811,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				No disponible
+				Conductor eléctrico estándar, no disponible para el pasajero
 			</td>
 		</tr>
 		<tr>
@@ -1027,6 +995,7 @@ Interior.Seatlayout.OnlySix
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1050,6 +1019,7 @@ Interior.Seatlayout.OnlySix
 				Advertencia de temperatura
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1065,6 +1035,7 @@ Interior.Seatlayout.OnlySix
 				Limitador de velocidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1072,6 +1043,7 @@ Interior.Seatlayout.OnlySix
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1079,6 +1051,7 @@ Interior.Seatlayout.OnlySix
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1094,7 +1067,7 @@ Interior.Seatlayout.OnlySix
 				Visión nocturna
 			</td>
 			<td>
-				No disponible
+				Sí, equipo opcional
 			</td>
 		</tr>
 	</tbody>
