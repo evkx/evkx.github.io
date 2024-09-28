@@ -741,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

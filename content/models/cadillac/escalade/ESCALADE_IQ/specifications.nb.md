@@ -741,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

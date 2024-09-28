@@ -195,6 +195,8 @@ Cadillac ESCALADE IQ inkluderar flera funktioner för att förbättra komfort oc
 
 ## Användargränssnitt och kontroll
 
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
 Viktiga skärmdetaljer:
 
 - Skärmen  bakom ratten monterad i instrumentbrädan är 35,0 tum
@@ -209,7 +211,7 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 Cadillac ESCALADE IQ är utrustad med en enda typ av ratt:
 
-- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det ger också intuitiv kontroll över infotainmentsystemet, så att du enkelt kan justera volymen, byta musikspår och hantera andra viktiga funktioner.
+- **Cirkulärt Ratt**: Detta ratt har integrerad uppvärmning för ökad komfort i kallt väder. Det inkluderar även fysiska knappar och rullhjul som gör det möjligt att styra infotainmentsystemet, justera volymen, byta musikspår och hantera andra viktiga funktioner med lätthet.
 
 ### Speglar
 

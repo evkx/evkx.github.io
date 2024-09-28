@@ -741,7 +741,7 @@ Interior.Seatlayout.OnlySix
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>

@@ -195,6 +195,8 @@ L'Cadillac ESCALADE IQ comprend plusieurs fonctionnalités pour améliorer le co
 
 ## Interface utilisateur et contrôle
 
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
+
 Détails clés de l'écran :
 
 - L'écran  derrière le volant monté dans le tableau de bord mesure 35,0 pouces
@@ -209,7 +211,7 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 Le Cadillac ESCALADE IQ est équipé d'un seul type de volant :
 
-- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il offre également un contrôle intuitif du système d'infodivertissement, vous permettant de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
+- **Volant Circulaire** : Ce volant est doté d'un chauffage intégré pour plus de confort par temps froid. Il comprend également des boutons physiques et des molettes, vous permettant de contrôler le système d'infodivertissement, de régler le volume, de changer de piste musicale et de gérer facilement d'autres fonctions essentielles.
 
 ### Rétroviseurs
 

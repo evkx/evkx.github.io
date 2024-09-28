@@ -195,6 +195,8 @@ The Cadillac ESCALADE IQ includes several features to enhance comfort and conven
 
 ## User Interface and Control
 
+The control interface for the Cadillac ESCALADE IQ combines buttons, stalks, and screens for a seamless and user-friendly experience.
+
 Key screen details:
 
 - The  screen behind the steering wheel mounted into the dashboard is 35.0 inches large
@@ -209,7 +211,7 @@ A head-up display is a standard system that projects speed and other important d
 
 The Cadillac ESCALADE IQ is equipped with a single type of steering wheel:
 
-- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also provides intuitive control over the infotainment system, allowing you to easily adjust the volume, change music tracks, and manage other key functions.
+- **Circular Steering Wheel:** This steering wheel features integrated heating for added comfort during cold weather. It also includes physical buttons and scroll wheels, allowing you to control the infotainment system, adjust the volume, change music tracks, and manage other key functions with ease.
 
 ### Mirrors
 

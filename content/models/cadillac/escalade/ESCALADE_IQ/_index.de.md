@@ -195,6 +195,8 @@ Der Cadillac ESCALADE IQ umfasst mehrere Funktionen, um Komfort und Bequemlichke
 
 ## Benutzeroberfläche und Steuerung
 
+Die Steuerungsschnittstelle des Cadillac ESCALADE IQ kombiniert Tasten, Hebel und Bildschirme für ein nahtloses und benutzerfreundliches Erlebnis.
+
 Wichtige Bildschirmdetails:
 
 - Der -Bildschirm hinter dem Lenkrad im Armaturenbrett montiert ist 35,0 Zoll groß.
@@ -209,7 +211,7 @@ Ein Head-up-Display ist ein eine standard-System, das Geschwindigkeit und andere
 
 Der Cadillac ESCALADE IQ ist mit einem einzigen Lenkradtyp ausgestattet:
 
-- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es bietet auch eine intuitive Steuerung des Infotainmentsystems, mit der Sie die Lautstärke einfach anpassen, Musiktitel wechseln und andere wichtige Funktionen verwalten können.
+- **Rundes Lenkrad:** Dieses Lenkrad verfügt über eine integrierte Heizung für zusätzlichen Komfort bei kaltem Wetter. Es enthält auch physische Tasten und Scrollräder, mit denen Sie das Infotainmentsystem steuern, die Lautstärke anpassen, Musiktitel wechseln und andere wichtige Funktionen einfach verwalten können.
 
 ### Spiegel
 
