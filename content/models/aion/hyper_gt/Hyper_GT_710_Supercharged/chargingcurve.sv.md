@@ -46,6 +46,9 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </tr>
 </tbody>
 </table>
+<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

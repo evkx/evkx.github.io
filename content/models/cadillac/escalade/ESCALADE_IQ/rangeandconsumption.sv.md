@@ -46,6 +46,19 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				27,0 kWh/100km / 2,3 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA-räckvidd max trimnivå
+				</a>
+			</td>
+			<td>
+				740 km / 460 mi
+			</td>
+			<td>
+				27,0 kWh/100km / 2,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -72,6 +85,17 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 		<tr>
 			<td>
 				EPA-seriens grundläggande trimnivå med 2KW AC
+			</td>
+			<td>
+				638 km / 396 mi
+			</td>
+			<td>
+				-13,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
 				638 km / 396 mi

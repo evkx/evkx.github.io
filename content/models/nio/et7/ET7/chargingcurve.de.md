@@ -47,6 +47,9 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/et7/et7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et7/et7/chargingtime1.svg)
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -405,6 +408,9 @@ Nio ET7 verfügt über eine Batterieheizung, die das Laden bei optimaler Batteri
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/et7/et7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et7/et7/chargingtime2.svg)
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

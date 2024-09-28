@@ -46,6 +46,9 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 </tr>
 </tbody>
 </table>
+<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargingtime.svg)
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

@@ -43,6 +43,9 @@ navicon: bi-battery-charging
 </tr>
 </tbody>
 </table>
+<img src="/images/models/bmw/i5/i5_edrive40_touring/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/bmw/i5/i5_edrive40_touring/chargingtime.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

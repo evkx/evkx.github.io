@@ -43,6 +43,9 @@ navicon: bi-battery-charging
 </tr>
 </tbody>
 </table>
+<img src="/images/models/mercedes/eqs/eqs_53_4maticplus/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/mercedes/eqs/eqs_53_4maticplus/chargingtime.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

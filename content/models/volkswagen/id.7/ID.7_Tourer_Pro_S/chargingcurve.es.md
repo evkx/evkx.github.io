@@ -43,6 +43,9 @@ navicon: bi-battery-charging
 </tr>
 </tbody>
 </table>
+<img src="/images/models/volkswagen/id.7/id.7_tourer_pro_s/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/volkswagen/id.7/id.7_tourer_pro_s/chargingtime.svg)
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

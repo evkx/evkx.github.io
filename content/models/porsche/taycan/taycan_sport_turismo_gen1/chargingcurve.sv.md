@@ -47,6 +47,9 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </tr>
 </tbody>
 </table>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime1.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Porsche Taycan Sport Turismo (GEN1) har batteriuppvärmning, vilket underlättar
 </tr>
 </tbody>
 </table>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime2.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

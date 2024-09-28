@@ -43,6 +43,9 @@ navicon: bi-battery-charging
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_x/model_x_plaid/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_x/model_x_plaid/chargingtime.svg)
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

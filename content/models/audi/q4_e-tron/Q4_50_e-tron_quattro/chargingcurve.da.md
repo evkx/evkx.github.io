@@ -43,6 +43,9 @@ navicon: bi-battery-charging
 </tr>
 </tbody>
 </table>
+<img src="/images/models/audi/q4_e-tron/q4_50_e-tron_quattro/chargingtime.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/audi/q4_e-tron/q4_50_e-tron_quattro/chargingtime.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

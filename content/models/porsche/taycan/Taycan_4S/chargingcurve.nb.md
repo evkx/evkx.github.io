@@ -47,6 +47,9 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 </tr>
 </tbody>
 </table>
+<img src="/images/models/porsche/taycan/taycan_4s/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime1.svg)
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Porsche Taycan 4S har batterioppvarming, noe som gjør lading ved en optimal bat
 </tr>
 </tbody>
 </table>
+<img src="/images/models/porsche/taycan/taycan_4s/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime2.svg)
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

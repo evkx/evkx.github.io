@@ -47,6 +47,9 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargingtime1.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Nio ES8 har batteriopvarmning, hvilket gør opladning ved en optimal batteritemp
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargingtime2.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

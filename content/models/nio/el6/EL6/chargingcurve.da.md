@@ -47,6 +47,9 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/el6/el6/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargingtime1.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)
@@ -402,6 +405,9 @@ Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technolo
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/el6/el6/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargingtime2.svg)
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

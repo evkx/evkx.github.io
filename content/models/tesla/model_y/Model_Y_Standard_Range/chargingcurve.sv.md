@@ -47,6 +47,9 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime1.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime2.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -763,6 +769,9 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_3.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime3.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)
@@ -1121,6 +1130,9 @@ Tesla Model Y Standard Range har batteriuppvärmning, vilket underlättar laddni
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_4.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime4.svg)
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

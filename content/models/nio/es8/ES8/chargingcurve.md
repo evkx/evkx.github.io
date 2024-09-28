@@ -47,6 +47,9 @@ This model is available with multiple batteries. Below you find the performance 
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargingtime1.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Nio ES8 have battery heating, making charging at an optimum battery temperature 
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargingtime2.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

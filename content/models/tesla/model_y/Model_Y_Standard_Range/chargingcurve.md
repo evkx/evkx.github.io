@@ -47,6 +47,9 @@ This model is available with multiple batteries. Below you find the performance 
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime1.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -405,6 +408,9 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime2.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -763,6 +769,9 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_3.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime3.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)
@@ -1121,6 +1130,9 @@ Tesla Model Y Standard Range have battery heating, making charging at an optimum
 </tr>
 </tbody>
 </table>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_4.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime4.svg)
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

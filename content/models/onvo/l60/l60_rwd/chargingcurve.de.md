@@ -50,6 +50,9 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 </tr>
 </tbody>
 </table>
+<img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime1.svg)
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.
@@ -408,6 +411,9 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 </tr>
 </tbody>
 </table>
+<img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime2.svg)
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

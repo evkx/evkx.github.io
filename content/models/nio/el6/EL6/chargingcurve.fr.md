@@ -47,6 +47,9 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/el6/el6/chargingtime_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargingtime1.svg)
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
@@ -402,6 +405,9 @@ La courbe de charge ci-dessus est à **[conditions optimales](../../../../../tec
 </tr>
 </tbody>
 </table>
+<img src="/images/models/nio/el6/el6/chargingtime_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargingtime2.svg)
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
