@@ -536,6 +536,9 @@ Interior.Seatlayout.OnlySix
 
 ### Asientos delanteros
 
+
+#### Front bucket seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -593,7 +596,112 @@ Interior.Seatlayout.OnlySix
 				Memoria
 			</td>
 			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
 				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				Función opcional
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				Función opcional
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				Función eléctrica estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Asientos de la segunda fila
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				TwoCaptainChairs
 			</td>
 		</tr>
 		<tr>
@@ -678,9 +786,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 	</tbody>
 </table>
-
-### Asientos de la segunda fila
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -843,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +987,7 @@ Interior.Seatlayout.OnlySix
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -896,6 +1003,7 @@ Interior.Seatlayout.OnlySix
 				Frenado automático de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +1057,7 @@ Interior.Seatlayout.OnlySix
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +1086,7 @@ Interior.Seatlayout.OnlySix
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +1094,7 @@ Interior.Seatlayout.OnlySix
 				Visión nocturna
 			</td>
 			<td>
-				Sí, equipamiento estándar
+				No disponible
 			</td>
 		</tr>
 	</tbody>

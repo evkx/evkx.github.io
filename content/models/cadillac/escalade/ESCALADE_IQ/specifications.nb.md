@@ -536,6 +536,9 @@ Interior.Seatlayout.OnlySix
 
 ### Forseter
 
+
+#### Front bucket seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -593,7 +596,112 @@ Interior.Seatlayout.OnlySix
 				Minne
 			</td>
 			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Høydejusterbar nakkestøtte
+			</td>
+			<td>
 				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Lengdejusterbar hodestøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av ryggstøtten
+			</td>
+			<td>
+				Valgfri funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av setepute, sidestøtte
+			</td>
+			<td>
+				Valgfri funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstøttepassasjerer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassasjer
+			</td>
+			<td>
+				Ikke tilgjengelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk korsryggstøtte
+			</td>
+			<td>
+				Standard elektrisk funksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seteventilasjon
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massasjefunksjon
+			</td>
+			<td>
+				Standardfunksjon
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Seter på andre rad
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Setetype
+			</td>
+			<td>
+				TwoCaptainChairs
 			</td>
 		</tr>
 		<tr>
@@ -678,9 +786,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 	</tbody>
 </table>
-
-### Seter på andre rad
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -843,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +987,7 @@ Interior.Seatlayout.OnlySix
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -896,6 +1003,7 @@ Interior.Seatlayout.OnlySix
 				Automatisk nødbremsing
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +1057,7 @@ Interior.Seatlayout.OnlySix
 				Cross traffic assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +1086,7 @@ Interior.Seatlayout.OnlySix
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +1094,7 @@ Interior.Seatlayout.OnlySix
 				Nattsyn
 			</td>
 			<td>
-				Ja, standardutstyr
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

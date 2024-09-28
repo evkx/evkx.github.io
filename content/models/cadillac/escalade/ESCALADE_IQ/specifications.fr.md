@@ -536,6 +536,9 @@ Interior.Seatlayout.OnlySix
 
 ### Sièges avant
 
+
+#### Front bucket seats
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -593,7 +596,112 @@ Interior.Seatlayout.OnlySix
 				Mémoire
 			</td>
 			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
 				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Fonctionnalité facultative
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Fonctionnalité facultative
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Fonction électrique standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Sièges de la deuxième rangée
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				TwoCaptainChairs
 			</td>
 		</tr>
 		<tr>
@@ -678,9 +786,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 	</tbody>
 </table>
-
-### Sièges de la deuxième rangée
-
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -843,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -881,6 +987,7 @@ Interior.Seatlayout.OnlySix
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -896,6 +1003,7 @@ Interior.Seatlayout.OnlySix
 				Freinage d'urgence automatique
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -949,6 +1057,7 @@ Interior.Seatlayout.OnlySix
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -977,6 +1086,7 @@ Interior.Seatlayout.OnlySix
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -984,7 +1094,7 @@ Interior.Seatlayout.OnlySix
 				Vision nocturne
 			</td>
 			<td>
-				Oui, équipement standard
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

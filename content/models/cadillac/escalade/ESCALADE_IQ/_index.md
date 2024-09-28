@@ -40,7 +40,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard Charger
 
-The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 25 minutes using a home charging setup.
+The standard onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 17 hours and 23 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 19.2 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 10 hours and 25 minutes at home.
 
 ### Charge Port
 
@@ -54,7 +54,13 @@ The Cadillac ESCALADE IQ features an all-wheel drive system powered by two motor
 
 ### Suspension
 
-The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 200 mm.
+
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
+
+### Steering
+
+Dynamic steering is a standard on the Cadillac ESCALADE IQ, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 
@@ -66,21 +72,25 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 1 paint colors, including several striking metallic options.
+The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 6 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel designs, all available in the same size, on the Cadillac ESCALADE IQ, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
 - 275/50 tires on 24" rims
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors. The liftgate is electric-powered and has a kick-sensor as standard.
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are an optional function for the side doors. The liftgate is electric-powered and has a kick-sensor as standard.
 
-There is only one roof option for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There is only one roof option for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
+
+The windows from the B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 {{<evkxdisplayaddarticle />}}
 
 ## Interior
+
+The Cadillac ESCALADE IQ features a driver-centric interior, designed to enhance the cockpit feel with premium materials throughout. A notable highlight is the split-level center console, which separates the driver and passenger while offering convenient storage and enhanced functionality. You can choose between several interior designs.
 
 ### Seats
 
@@ -90,7 +100,7 @@ The seat layout is seven seats with two in front, two seats in the second row an
 
 The Cadillac ESCALADE IQ offers a single type of front seat.
 
-The following functionalities are available on the **** seat:
+The following functionalities are available on the **Front bucket seats** seat:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Recline adjustment](../../../../technology/seats/adjustment/#recline-adjustment) (electrically adjustable)
@@ -98,20 +108,37 @@ The following functionalities are available on the **** seat:
 - [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
 - Height adjustable headrest
 - [Heating](../../../../technology/seats/adjustment/#heating)
-- [Memory](../../../../technology/seats/adjustment/#seat-memory)
 - [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
+- [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
 - [Ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [Massage](../../../../technology/seats/adjustment/#massage)
 
 Available in:
 
-- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
-#### Second Row Seat
+#### Second Row Seats
 
-For the second row, this model has twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
+You can choose two seat types for the second row in the Cadillac ESCALADE IQ.
+
+The first option is two captain chairs. Additional functionalities include:
+
+- [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
+- [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
+- [Seat cushion angle adjustment](../../../../technology/seats/adjustment/#seat-cushion-angle-adjustment) (electrically adjustable)
+- Height adjustable headrest
+- [Heating](../../../../technology/seats/adjustment/#heating)
+- [Electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (electrically adjustable)
+- [Ventilation](../../../../technology/seats/adjustment/#ventilation)
+- [Massage](../../../../technology/seats/adjustment/#massage)
+
+The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). Additional functionalities include:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)
@@ -186,7 +213,7 @@ Additionally, the model includes 2 USB-C connections as standard. The model has 
 
 ## Lights
 
-**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+lights.technology.standard.led.corneringlight
 
 The taillights use LED technology, ensuring both high visibility and energy efficiency.
 
@@ -202,9 +229,17 @@ The Cadillac ESCALADE IQ features a range of standard and optional [advanced dri
 
 [**Lane-Keeping Assist (LKA)**](../../../../technology/driverassistance/lanekeepingassist/): Standard on the Cadillac ESCALADE IQ, this system helps prevent the vehicle from drifting out of its lane. It also includes a [**Lane Departure Warning**](../../../../technology/driverassistance/lanedeparturewarning/) system to alert the driver if the vehicle veers out of the lane.
 
+[**Front Cross Traffic Assist (FCTA)**](../../../../technology/driverassistance/frontcrosstrafficassist/) : Standard on the Cadillac ESCALADE IQ, this driver assist system that helps drivers detect oncoming traffic when crossing an intersection or turning left or right from a stopped position.
+
+[**Rear Cross Traffic Alert (RCTA)**](../../../../technology/driverassistance/rearcrosstrafficalert/): Standard on the Cadillac ESCALADE IQ, this system uses sensors to detect approaching vehicles from the side when backing out of a parking space or driveway.
+
 [**Forward Collision Warning (FCW)**](../../../../technology/driverassistance/forwardcollisionwarning/): Standard on the Cadillac ESCALADE IQ, this driver assist system helps drivers avoid or mitigate frontal collisions.
 
+[**Automatic Emergency Braking (AEB)**](../../../../technology/driverassistance/automaticemergencybraking/): Standard on the Cadillac ESCALADE IQ, this system autonomously applies the brakes to prevent or reduce the severity of a collision if the driver does not react in time.
+
 [**Blind-spot Monitoring (BSM)**](../../../../technology/driverassistance/blindspotmonitoring/) : Standard on the Cadillac ESCALADE IQ, this side assist system helps to detect traffic in blind spots.
+
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/): Standard on the Cadillac ESCALADE IQ, this system that alerts occupants against opening doors if there is a risk of hitting something.
 
 ### Driving Automation
 
@@ -224,4 +259,11 @@ The trunk offers a cargo capacity of 670 liters (23.7 CU FT). With the rear seat
 The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 4103 kg (9046 lbs). This allows for a maximum load of 614 kg (1354 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 
 A towbar can be added to the vehicle. The maximum permissible weight for a braked trailer is 3628 kg (7998 lbs), while for an unbraked trailer, it is 750 kg (1653 lbs).
+
+### Pricing
+
+Pricing may vary depending on local conditions, incentives, and promotions. Below are the starting prices for select countries:
+
+- $129 990,00 (USA)
+
 {{< pagenavigation b_url="../" b_title="Cadillac ESCALADE" f_url="rangeandconsumption/" f_title="Range" >}}
