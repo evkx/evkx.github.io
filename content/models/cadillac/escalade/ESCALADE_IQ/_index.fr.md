@@ -224,7 +224,7 @@ Vous pouvez choisir entre deux systèmes audio sur le Cadillac ESCALADE IQ.
 - Avec le AKG Studio audi System, vous obtenez 19 haut-parleurs avec une puissance système maximale de 1000 watts.
 - Avec le AKG Studio Reference System, vous obtenez 40 haut-parleurs avec une puissance système maximale de 1000 watts.
 
-Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+Le modèle dispose de 6 connexions USB-C en standard.
 
 ## Application mobile
 
@@ -236,7 +236,7 @@ Le Cadillac ESCALADE IQ est accompagné de son application mobile dédiée, disp
 
 ## Lumières
 
-lights.technology.standard.led.corneringlight
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace. Pour une sécurité accrue, les phares comprennent également des feux de virage qui éclairent le côté lors des virages.
 
 Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 

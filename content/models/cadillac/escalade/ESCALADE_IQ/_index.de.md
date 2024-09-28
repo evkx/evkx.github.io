@@ -224,7 +224,7 @@ Sie können zwischen zwei Soundsystemen für den Cadillac ESCALADE IQ wählen:
 - **AKG Studio audi System:** Verfügt über 19 Lautsprecher und liefert eine maximale Ausgangsleistung von 1000 Watt.
 - **AKG Studio Reference System:** Verfügt über 40 Lautsprecher und liefert eine maximale Ausgangsleistung von 1000 Watt.
 
-Zusätzlich verfügt das Modell standardmäßig über 2 USB-C-Anschlüsse. Das Modell verfügt standardmäßig über 2 USB-A-Anschlüsse.
+Zusätzlich verfügt das Modell standardmäßig über 6 USB-C-Anschlüsse.
 
 ## Mobile App
 
@@ -236,7 +236,7 @@ Der Cadillac ESCALADE IQ wird mit einer speziellen mobilen App geliefert, die so
 
 ## Lichter
 
-lights.technology.standard.led.corneringlight
+**Standardscheinwerfer:** Diese verwenden fortschrittliche LED-Technologie und bieten helle und effiziente Beleuchtung. Zur Erhöhung der Sicherheit gehören dazu auch Kurvenlichter, die die Seite beim Abbiegen beleuchten.
 
 Die Rücklichter verwenden LED-Technologie, die sowohl hohe Sichtbarkeit als auch Energieeffizienz gewährleistet.
 

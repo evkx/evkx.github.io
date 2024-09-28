@@ -224,7 +224,7 @@ Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ.
 - Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt.
 - Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt.
 
-Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+Modellen har 6 USB-C-tilkoblinger som standard.
 
 ## Mobilapp
 
@@ -236,7 +236,7 @@ Cadillac ESCALADE IQ kommer med sin egen dedikerte mobilapp, tilgjengelig for b�
 
 ## Lys
 
-lights.technology.standard.led.corneringlight
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning. For økt sikkerhet inkluderer frontlyktene også hjørnelys som lyser opp siden når du svinger.
 
 Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
