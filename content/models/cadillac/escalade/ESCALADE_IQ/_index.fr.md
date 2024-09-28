@@ -30,7 +30,7 @@ La Cadillac ESCALADE IQ impressionne avec une puissance maximale de 560 kW (761 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 215,0 kWh et une capacité nette utilisable de 200,0 kWh, offrant une réserve de 15,0 kWh (7,0%) pour la protection de la batterie. Fonctionnant à une tension nominale de 650 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 215,0 kWh et une capacité nette utilisable de 200,0 kWh, offrant une réserve de 15,0 kWh (7,0%) pour la protection de la batterie. Avec une tension nominale de 355 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 740 km avec un taux de consommation d'énergie de 27,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -48,7 +48,7 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ### Recharge bidirectionnelle
 
-Ce modèle prend en charge à la fois les fonctionnalités V2L (Vehicle to Load) et V2H (Vehicle to Home). V2L vous permet d'alimenter des équipements électriques nécessitant jusqu'à 10,2 kW de puissance, y compris la possibilité de charger d'autres véhicules. V2H permet à la voiture de servir de source d'alimentation de secours pour votre maison. Notez que V2H nécessite un équipement spécialisé dans votre maison.
+Ce modèle prend en charge à la fois les fonctionnalités V2L (Vehicle to Load) et V2H (Vehicle to Home). V2L vous permet d'alimenter des équipements électriques nécessitant jusqu'à 10,2 kW de puissance, y compris la possibilité de charger d'autres véhicules. V2H permet à la voiture de servir de source d'alimentation de secours pour votre maison. Vous pouvez connecter des équipements à l'aide d'un adaptateur sur le port de charge et via des connecteurs standards dans l'habitacle. Notez que V2H nécessite un équipement spécialisé dans votre maison.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -297,7 +297,7 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-Le coffre offre une capacité de chargement de 670 litres. Avec les sièges arrière rabattus, cette capacité passe à 3374 litres. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 345 litres.
+Le coffre offre une capacité de chargement de 670 litres. Avec les sièges arrière rabattus, cette capacité passe à 3374 litres. Sur le toit, vous pouvez charger jusqu'à 90 kg. Des rails de toit optionnels sont disponibles pour faciliter l'installation d'une boîte de toit ou d'un porte-vélos. De plus, il y a un frunk (coffre avant) avec une capacité de stockage de 345 litres.
 
 Le poids maximum du véhicule est de 4717 kg, avec un poids de base de 4103 kg. Cela permet une charge maximale de 614 kg, y compris le conducteur et les passagers. Notez que certaines options peuvent augmenter le poids de base et réduire la capacité maximale de chargement.
 

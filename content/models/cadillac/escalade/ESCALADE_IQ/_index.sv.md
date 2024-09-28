@@ -30,7 +30,7 @@ Cadillac ESCALADE IQ imponerar med en imponerande kraft på 560 kW (761 hk) och 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 215,0 kWh och en nettoanvändbar kapacitet på 200,0 kWh, vilket ger en buffert på 15,0 kWh (7,0%) för batteriskydd. Vid en nominell spänning på 650 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 215,0 kWh och en nettoanvändbar kapacitet på 200,0 kWh, vilket ger en buffert på 15,0 kWh (7,0%) för batteriskydd. Med en nominell spänning på 355 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 740 km med en energiförbrukning på 27,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -48,7 +48,7 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 ### Bidirektionell laddning
 
-Denna modell stöder både V2L (Vehicle to Load) och V2H (Vehicle to Home) funktioner. V2L gör det möjligt att driva elektrisk utrustning som kräver upp till 10,2 kW effekt, inklusive möjligheten att ladda andra fordon. V2H gör det möjligt för bilen att fungera som en reservkraftkälla för ditt hem. Observera att V2H kräver specialutrustning i ditt hem.
+Denna modell stöder både V2L (Vehicle to Load) och V2H (Vehicle to Home) funktioner. V2L gör det möjligt att driva elektrisk utrustning som kräver upp till 10,2 kW effekt, inklusive möjligheten att ladda andra fordon. V2H gör det möjligt för bilen att fungera som en reservkraftkälla för ditt hem. Du kan använda en övergång på laddningsporten och via standardkontakter i kabinen för att ansluta utrustning. Observera att V2H kräver specialutrustning i ditt hem.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -297,7 +297,7 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Bagageutrymmet erbjuder en lastkapacitet på 670 liter. Med baksätena nedfällda ökar detta till 3374 liter. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 345 liter.
+Bagageutrymmet erbjuder en lastkapacitet på 670 liter. Med baksätena nedfällda ökar detta till 3374 liter. På taket kan du lasta upp till 90 kg. Valfria takräcken finns tillgängliga för enkel montering av ett takbox eller takräcke. Dessutom finns det en frunk (framförvarande bagageutrymme) med en förvaringskapacitet på 345 liter.
 
 Fordonets maximala vikt är 4717 kg, med en grundvikt på 4103 kg. Detta tillåter en maximal last på 614 kg, inklusive förare och passagerare. Observera att vissa alternativ kan öka grundvikten och minska den maximala lastkapaciteten.
 

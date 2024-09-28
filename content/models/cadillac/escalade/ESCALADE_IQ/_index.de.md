@@ -30,7 +30,7 @@ Der Cadillac ESCALADE IQ bietet eine beeindruckende Leistung mit einer maximalen
 
 ## Batterie, Reichweite und Laden
 
-Die Hochkapazitätsbatterie hat eine Bruttokapazität von 215,0 kWh und eine nutzbare Nettokapazität von 200,0 kWh, was einen Puffer von 15,0 kWh (7,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 650 Volt qualifiziert es sich als 800-Volt-Batteriesystem. Diese hohe Spannung ist entscheidend für die Ladefähigkeiten des Systems. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+Die Hochkapazitätsbatterie hat eine Bruttokapazität von 215,0 kWh und eine nutzbare Nettokapazität von 200,0 kWh, was einen Puffer von 15,0 kWh (7,0%) zum Schutz der Batterie bietet. Mit einer Nennspannung von 355 Volt wird das System als 400-Volt-Batteriesystem klassifiziert und entspricht den Industriestandards. Diese Lithium-Ionen-Batterie nutzt [NMC (Nickel-Mangan-Kobalt) Technologie.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Nach dem [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) Standard hat das Fahrzeug eine Reichweite von 460 Meilen (740 km) mit einem Energieverbrauch von 2,3 Meilen pro kWh. Für weitere Details zur Reichweite siehe reale Daten und Reichweitenliste auf der [Reichweite und Verbrauch](rangeandconsumption/) Seite dieses Modells.
 
@@ -48,7 +48,7 @@ Der Ladeanschluss befindet sich an der [linken Hinterseite](../../../../technolo
 
 ### Bidirektionales Laden
 
-Dieses Modell unterstützt sowohl V2L (Vehicle to Load) als auch V2H (Vehicle to Home) Funktionen. V2L ermöglicht es Ihnen, elektrische Geräte mit bis zu 10,2 kW Leistung zu versorgen, einschließlich der Möglichkeit, andere Fahrzeuge aufzuladen. V2H ermöglicht es dem Auto, als Notstromquelle für Ihr Zuhause zu dienen. Beachten Sie, dass V2H spezielle Ausrüstung in Ihrem Zuhause erfordert.
+Dieses Modell unterstützt sowohl V2L (Vehicle to Load) als auch V2H (Vehicle to Home) Funktionen. V2L ermöglicht es Ihnen, elektrische Geräte mit bis zu 10,2 kW Leistung zu versorgen, einschließlich der Möglichkeit, andere Fahrzeuge aufzuladen. V2H ermöglicht es dem Auto, als Notstromquelle für Ihr Zuhause zu dienen. Sie können Geräte über einen Adapter an der Ladebuchse und über Standardanschlüsse im Innenraum anschließen. Beachten Sie, dass V2H spezielle Ausrüstung in Ihrem Zuhause erfordert.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -297,7 +297,7 @@ Bis zu fünf [Radarsensoren](../../../../technology/sensorsandcameras/radar/), f
 
 ## Ladekapazität und Anhängelast
 
-Der Kofferraum bietet ein Ladevolumen von 670 Litern (23,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 3374 Liter (119,2 CU FT). Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 345 Litern (12,2 CU FT).
+Der Kofferraum bietet ein Ladevolumen von 670 Litern (23,7 CU FT). Mit umgeklappter Rücksitzbank erweitert sich dies auf 3374 Liter (119,2 CU FT). Auf dem Dach können Sie bis zu 90 kg (198,4 lbs) laden. Optionale Dachreling ist verfügbar, um eine Dachbox oder einen Dachträger einfach zu montieren. Zusätzlich gibt es einen Frunk (vorderer Kofferraum) mit einem Ladevolumen von 345 Litern (12,2 CU FT).
 
 Das maximale Gewicht des Fahrzeugs beträgt 4717 kg (10399 lbs) bei einem Leergewicht von 4103 kg (9046 lbs). Dies ermöglicht eine maximale Zuladung von 614 kg (1354 lbs), einschließlich Fahrer und Passagieren. Beachten Sie, dass einige Optionen das Leergewicht erhöhen und die maximale Zuladung verringern können.
 

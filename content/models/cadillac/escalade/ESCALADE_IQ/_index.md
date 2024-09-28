@@ -30,7 +30,7 @@ The Cadillac ESCALADE IQ packs an impressive punch with a maximum power of 560 k
 
 ## Battery, Range, and Charging
 
-The high-capacity battery has a gross capacity of 215.0 kWh and a net usable capacity of 200.0 kWh, providing a 15.0 kWh buffer (7.0%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
+The high-capacity battery has a gross capacity of 215.0 kWh and a net usable capacity of 200.0 kWh, providing a 15.0 kWh buffer (7.0%) for battery protection. With a nominal voltage of 355 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc).
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 460 miles (740 km) with an energy consumption rate of 2.3 miles per kWh. For more details about the range, see real-world data and range listings on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -48,7 +48,7 @@ The charge port is located on the [left rear side](../../../../technology/chargi
 
 ### Bidirectional Charging
 
-This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. Note that V2H requires specialized equipment in your home.
+This model supports both V2L (Vehicle to Load) and V2H (Vehicle to Home) functionalities. V2L allows you to power electrical equipment requiring up to 10.2 kW of power, including the ability to charge other vehicles. V2H enables the car to serve as a backup power source for your home. You can connect equipment using a adapter on the charging port and via standard connectors in the cabin. Note that V2H requires specialized equipment in your home.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -297,7 +297,7 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The trunk offers a cargo capacity of 670 liters (23.7 CU FT). With the rear seat folded down, this expands to 3374 liters (119.2 CU FT). Additionally, there is a frunk (front trunk) with a storage capacity of 345 liters (12.2 CU FT).
+The trunk offers a cargo capacity of 670 liters (23.7 CU FT). With the rear seat folded down, this expands to 3374 liters (119.2 CU FT). On the roof, you can load up to 90 kg (198.4 lbs). Optional roof rails are available for easy mounting of a roof box or rack. Additionally, there is a frunk (front trunk) with a storage capacity of 345 liters (12.2 CU FT).
 
 The vehicle’s maximum weight is 4717 kg (10399 lbs), with a base weight of 4103 kg (9046 lbs). This allows for a maximum load of 614 kg (1354 lbs), including the driver and passengers. Note that some options may increase the base weight and reduce the maximum loading capacity.
 

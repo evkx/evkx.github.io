@@ -147,10 +147,18 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 		</tr>
 		<tr>
 			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nennspannung
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Unten sehen Sie die offiziellen Reichweiteninformationen. Besuchen Sie unsere [e
 			</td>
 			<td>
 				614 kg (1354 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maximale Dachlast
+			</td>
+			<td>
+				90 kg (198 lbs)
 			</td>
 		</tr>
 		<tr>

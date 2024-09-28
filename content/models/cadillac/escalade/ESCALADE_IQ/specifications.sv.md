@@ -147,10 +147,18 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spänning
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				614 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tillåten taklast
+			</td>
+			<td>
+				90 kg
 			</td>
 		</tr>
 		<tr>

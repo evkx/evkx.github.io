@@ -147,10 +147,18 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spenning
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				614 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks taklast
+			</td>
+			<td>
+				90 kg
 			</td>
 		</tr>
 		<tr>

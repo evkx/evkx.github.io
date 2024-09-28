@@ -147,10 +147,18 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Configuración del paquete
+			</td>
+			<td>
+				96s6p
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>
-				650
+				355
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				614 kg
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				90 kg
 			</td>
 		</tr>
 		<tr>
