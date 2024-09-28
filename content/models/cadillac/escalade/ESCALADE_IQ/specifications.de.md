@@ -827,7 +827,7 @@ Interior.Seatlayout.OnlySix
 				Beinstütze für Passagiere
 			</td>
 			<td>
-				Unbekannt
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Bergabfahrassistent
 			</td>
 			<td>
+				Nicht verfügbar
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1093,7 @@ Interior.Seatlayout.OnlySix
 				Head-up-Display
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>
@@ -1100,7 +1101,7 @@ Interior.Seatlayout.OnlySix
 				Sprachsteuerung
 			</td>
 			<td>
-				Nicht verfügbar
+				Ja, Serienausstattung
 			</td>
 		</tr>
 		<tr>

@@ -827,7 +827,7 @@ Interior.Seatlayout.OnlySix
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1093,7 @@ Interior.Seatlayout.OnlySix
 				Pantalla frontal
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1100,7 +1101,7 @@ Interior.Seatlayout.OnlySix
 				Control por voz
 			</td>
 			<td>
-				No disponible
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

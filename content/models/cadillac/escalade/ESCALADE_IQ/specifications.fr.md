@@ -827,7 +827,7 @@ Interior.Seatlayout.OnlySix
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -948,6 +948,7 @@ Interior.Seatlayout.OnlySix
 				Aide à la descente
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1092,7 +1093,7 @@ Interior.Seatlayout.OnlySix
 				Affichage tête haute
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1100,7 +1101,7 @@ Interior.Seatlayout.OnlySix
 				Contrôle vocal
 			</td>
 			<td>
-				Non disponible
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

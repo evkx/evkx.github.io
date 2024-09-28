@@ -162,6 +162,13 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- Waze
+
 ### Phone Mirroring
 
 The Cadillac OPTIQ AWD supports Android Auto and Apple CarPlay, allowing you to mirror your phone's screen on the car's display. This functionality enables you to run apps like Google Maps or Waze directly from your phone.
