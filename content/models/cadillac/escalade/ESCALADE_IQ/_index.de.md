@@ -66,6 +66,15 @@ Die Easy Entry Funktion hebt die Karosserie des Fahrzeugs automatisch an, wenn e
 
 Die dynamische Lenkung ist eine standard im Cadillac ESCALADE IQ, wobei das Lenkverhältnis je nach Fahrgeschwindigkeit variiert, um die Kontrolle und den Komfort zu verbessern. Zusätzlich ist die Hinterradlenkung als eine standard Funktion verfügbar. Die Hinterradlenkung reduziert den Wendekreis bei langsamer Fahrt.
 
+### Fahrmodi
+
+Der Cadillac ESCALADE IQ ermöglicht es dem Benutzer, verschiedene [Fahrmodi](../../../../technology/drivemodes/) auszuwählen, die das Fahrverhalten des Autos beeinflussen. Der Fahrer kann zwischen 4 Modi wählen:
+
+- Tour: Ausgewogene Lenkung, niedrige Federung mit effizientem Gas und ausgewogener Federung.
+- Sport: Dynamische Lenkung, niedrige Federung mit dynamischem Gas und Federung.
+- Tow/Haul: Ausgewogene Lenkung, adaptive Federungshöhe mit ausgewogenem Gas und adaptiver Federungsdämpfung.
+- My Mode: Benutzerdefinierte Einstellungen für Lenkung, Federung und Gasannahme.
+
 ### Bremsen
 
 Der  ist mit [Gusseisenscheibenbremsen](../../../../technology/brakes/#disc-brakes) sowohl vorne als auch hinten ausgestattet. Die vorderen Scheiben messen 355 mm, während die hinteren Scheiben 355 mm groß sind.
@@ -78,7 +87,7 @@ Die maximale regenerative Leistung beträgt 400 kW.
 
 ## Exterieur
 
-Der Cadillac ESCALADE IQ, mit Abmessungen von 5697 mm Länge, 2167 mm Breite und 1934 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Cadillac ESCALADE IQ ist in insgesamt 6 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen.
+Der Cadillac ESCALADE IQ, mit Abmessungen von 5697 mm Länge, 2167 mm Breite und 1934 mm Höhe, fällt in die Full-Size-SUVs, bieten den meisten Raum, Leistung und Fähigkeit unter den SUV-Kategorien, was sie für eine bestimmte Gruppe von Fahrern mit einzigartigen Bedürfnissen geeignet macht. Der Cadillac ESCALADE IQ ist in insgesamt 10 Lackfarben erhältlich, darunter sowohl Unilack- als auch Metallic-Optionen. Einige dieser Lackoptionen umfassen Zweifarbenlackierungen, bei denen das Dach in einer anderen Farbe lackiert ist, was für ein markantes und stilvolles Aussehen sorgt.
 
 Sie können aus mehreren Raddesigns wählen, die alle in derselben Größe für den Cadillac ESCALADE IQ erhältlich sind, sodass Sie Ihr Fahrzeug an Ihren Stil und Ihre Fahrpräferenzen anpassen können. Die verfügbaren Reifen- und Radkombinationen umfassen:
 
@@ -132,7 +141,7 @@ Verfügbar in:
 
 Sie können zwei Sitztypen für die zweite Reihe im Cadillac ESCALADE IQ wählen.
 
-Die first-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
+Die standard-Option sind zwei Kapitänssitze. Zusätzliche Funktionen umfassen:
 
 - [Vor- und zurückverstellung](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisch verstellbar)
 - [Höhenverstellung](../../../../technology/seats/adjustment/#height-adjustment) (elektrisch verstellbar)

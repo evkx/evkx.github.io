@@ -66,6 +66,15 @@ La función Easy Entry eleva automáticamente la carrocería del coche cuando se
 
 La dirección dinámica es una característica un estándar en el Cadillac ESCALADE IQ. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
+### Modos de conducción
+
+El Cadillac ESCALADE IQ permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 4 modos:
+
+- Tour: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
+- Sport: dirección dinámica, suspensión baja con acelerador y suspensión dinámicos.
+- Tow/Haul: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
+- My Mode: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
@@ -78,7 +87,7 @@ La potencia regenerativa máxima es de 400 kW.
 
 ## Exterior
 
-El Cadillac ESCALADE IQ, con dimensiones de 5697 mm de longitud, 2167 mm de anchura y 1934 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Cadillac ESCALADE IQ está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
+El Cadillac ESCALADE IQ, con dimensiones de 5697 mm de longitud, 2167 mm de anchura y 1934 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Cadillac ESCALADE IQ está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo está pintado en un color diferente, proporcionando un aspecto distintivo y elegante.
 
 Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Cadillac ESCALADE IQ, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -132,7 +141,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Cadillac ESCALADE IQ.
 
-La opción first son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
+La opción standard son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - [Ajuste hacia adelante y hacia atrás](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (ajustable eléctricamente)
 - [Ajuste de altura](../../../../technology/seats/adjustment/#height-adjustment) (ajustable eléctricamente)

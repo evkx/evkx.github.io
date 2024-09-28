@@ -66,6 +66,15 @@ The Easy Entry function raises the car's body automatically when a door is opene
 
 Dynamic steering is a standard on the Cadillac ESCALADE IQ, varying the steering ratio based on driving speed for enhanced control and comfort. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
+### Drive Modes
+
+The Cadillac ESCALADE IQ lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 4 modes:
+
+- Tour: Balanced steering, low suspension with efficient throttle, and balanced suspension.
+- Sport: Dynamic steering, low suspension with dynamic throttle and suspension.
+- Tow/Haul: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
+- My Mode: User-defined settings for steering, suspension, and throttle response.
+
 ### Brakes
 
 The  is equipped with [cast-iron disc brakes](../../../../technology/brakes/#disc-brakes) on both the front and rear. The front discs measure 355 mm, while the rear discs are 355 mm.
@@ -78,7 +87,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 6 paint colors, including both solid and metallic options.
+The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 10 paint colors, including both solid and metallic options. Some of these paint options include two-tone paints where the roof is painted in a different color, providing a distinctive and stylish look.
 
 You can select from multiple wheel designs, all available in the same size, on the Cadillac ESCALADE IQ, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
 
@@ -132,7 +141,7 @@ Available in:
 
 You can choose two seat types for the second row in the Cadillac ESCALADE IQ.
 
-The first option is two captain chairs. Additional functionalities include:
+The standard option is two captain chairs. Additional functionalities include:
 
 - [Fore-and-aft adjustment](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (electrically adjustable)
 - [Height adjustment](../../../../technology/seats/adjustment/#height-adjustment) (electrically adjustable)

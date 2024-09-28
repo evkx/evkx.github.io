@@ -66,6 +66,15 @@ Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, 
 
 Dynamisk styring er en standard-funktion på Cadillac ESCALADE IQ. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
+### Køretilstande
+
+Cadillac ESCALADE IQ lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 4 tilstande:
+
+- Tour: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
+- Sport: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
+- Tow/Haul: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
+- My Mode: Brugerdefineret styring, affjedring og gasrespons.
+
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
@@ -78,7 +87,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-Den Cadillac ESCALADE IQ, med dimensioner på 5697 mm i længde, 2167 mm i bredde og 1934 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Cadillac ESCALADE IQ fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
+Den Cadillac ESCALADE IQ, med dimensioner på 5697 mm i længde, 2167 mm i bredde og 1934 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Cadillac ESCALADE IQ fås i alt 10 lakfarver, herunder både solide og metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
 
 Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Cadillac ESCALADE IQ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -132,7 +141,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 Du kan vælge to sædetyper til anden række i Cadillac ESCALADE IQ.
 
-Muligheden first er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
+Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
 - [Frem- og tilbagejustering](../../../../technology/seats/adjustment/#fore-and-aft-adjustment) (elektrisk justerbar)
 - [Højdejustering](../../../../technology/seats/adjustment/#height-adjustment) (elektrisk justerbar)
