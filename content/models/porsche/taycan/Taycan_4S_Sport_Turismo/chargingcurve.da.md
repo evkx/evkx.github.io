@@ -105,7 +105,7 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 </div>
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Denne model fås med flere batterier. Nedenfor finder du ydeevnen for de forskel
 			</td>
 			<td>
 				 17 m 57 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,6 km (6,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				20,8 km (12,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				15,5 km (9,6 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Porsche Taycan 4S Sport Turismo har batteriopvarmning, hvilket gør opladning ve
 </div>
 <img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Porsche Taycan 4S Sport Turismo har batteriopvarmning, hvilket gør opladning ve
 			</td>
 			<td>
 				 15 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_4s_sport_turismo/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s_sport_turismo/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,4 km (8,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,0 km (6,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,7 km (7,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				28,2 km (17,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				21,0 km (13,1 mi)
 			</td>
 		</tr>
 	</tbody>

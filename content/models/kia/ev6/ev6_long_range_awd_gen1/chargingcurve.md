@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/kia/ev6/ev6_long_range_awd_gen1/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/kia/ev6/ev6_long_range_awd_gen1/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,4 km (8,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,3 km (5,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,9 km (5,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				21,8 km (13,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				15,2 km (9,4 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

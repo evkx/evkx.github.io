@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/volvo/ex30/ex30_single_motor_extended_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/volvo/ex30/ex30_single_motor_extended_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				0,4 km (0,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+			<td>
+				0,4 km (0,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				10,3 km (6,4 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+			<td>
+				0,7 km (0,4 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

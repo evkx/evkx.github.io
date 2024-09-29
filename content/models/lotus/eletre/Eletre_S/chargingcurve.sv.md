@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lotus/eletre/eletre_s/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lotus/eletre/eletre_s/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,7 km (6,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,2 km (6,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				18,8 km (11,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				14,2 km (8,8 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

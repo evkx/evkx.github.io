@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/bmw/i7/i7_m70_xdrive/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/bmw/i7/i7_m70_xdrive/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+			<td>
+				7,0 km (4,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,9 km (6,2 mi)
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,9 km (8,0 mi)
+			</td>
+			<td>
+				10,2 km (6,3 mi)
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

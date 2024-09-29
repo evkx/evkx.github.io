@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lucid/air/air_pure/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lucid/air/air_pure/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				12,2 km (7,6 mi)
+			</td>
+			<td>
+				13,4 km (8,3 mi)
+			</td>
+			<td>
+				10,4 km (6,5 mi)
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				11,4 km (7,1 mi)
+			</td>
+			<td>
+				12,5 km (7,8 mi)
+			</td>
+			<td>
+				9,7 km (6,0 mi)
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				20,2 km (12,6 mi)
+			</td>
+			<td>
+				22,3 km (13,9 mi)
+			</td>
+			<td>
+				17,2 km (10,7 mi)
+			</td>
+			<td>
+				13,2 km (8,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

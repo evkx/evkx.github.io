@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/kia/ev9/ev9_long_range_awd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/kia/ev9/ev9_long_range_awd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+			<td>
+				6,4 km (4,0 mi)
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				5,9 km (3,7 mi)
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				5,3 km (3,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				12,1 km (7,5 mi)
+			</td>
+			<td>
+				14,8 km (9,2 mi)
+			</td>
+			<td>
+				12,3 km (7,6 mi)
+			</td>
+			<td>
+				10,9 km (6,8 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

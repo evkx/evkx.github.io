@@ -105,7 +105,7 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 </div>
 <img src="/images/models/nio/el6/el6/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el6/el6/chargingtime1.svg)
+[Full screen](/images/models/nio/el6/el6/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Dieses Modell ist mit mehreren Batterien erhältlich. Unten finden Sie die Leist
 			</td>
 			<td>
 				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el6/el6/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,3 km (2,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,1 km (2,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,4 km (3,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1682,7 +1760,7 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 </div>
 <img src="/images/models/nio/el6/el6/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el6/el6/chargingtime2.svg)
+[Full screen](/images/models/nio/el6/el6/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1716,6 +1794,84 @@ Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technolo
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el6/el6/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el6/el6/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,9 km (2,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,0 km (2,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,2 km (3,2 mi)
 			</td>
 		</tr>
 	</tbody>

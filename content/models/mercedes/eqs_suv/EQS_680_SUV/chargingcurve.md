@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/mercedes/eqs_suv/eqs_680_suv/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/mercedes/eqs_suv/eqs_680_suv/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+			<td>
+				5,1 km (3,2 mi)
+			</td>
+			<td>
+				4,6 km (2,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				4,8 km (3,0 mi)
+			</td>
+			<td>
+				4,4 km (2,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,2 km (8,2 mi)
+			</td>
+			<td>
+				9,8 km (6,1 mi)
+			</td>
+			<td>
+				8,9 km (5,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

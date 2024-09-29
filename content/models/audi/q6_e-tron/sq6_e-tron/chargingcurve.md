@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/audi/q6_e-tron/sq6_e-tron/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/audi/q6_e-tron/sq6_e-tron/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				7,0 km (4,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				15,2 km (9,4 mi)
+			</td>
+			<td>
+				20,6 km (12,8 mi)
+			</td>
+			<td>
+				16,3 km (10,1 mi)
+			</td>
+			<td>
+				14,2 km (8,8 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

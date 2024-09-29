@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/volvo/ex30/ex30_single_motor_extended_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/volvo/ex30/ex30_single_motor_extended_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				0,4 km (0,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+			<td>
+				0,4 km (0,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				10,3 km (6,4 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+			<td>
+				0,7 km (0,4 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

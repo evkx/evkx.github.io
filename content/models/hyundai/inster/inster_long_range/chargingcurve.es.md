@@ -143,6 +143,84 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 	</tbody>
 </table>
 </div>
+<img src="/images/models/hyundai/inster/inster_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/hyundai/inster/inster_long_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,5 km (3,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,4 km (3,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,0 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

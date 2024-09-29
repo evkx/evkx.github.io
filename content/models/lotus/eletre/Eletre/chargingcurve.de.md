@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lotus/eletre/eletre/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lotus/eletre/eletre/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,0 km (7,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,4 km (7,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				21,1 km (13,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,2 km (8,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

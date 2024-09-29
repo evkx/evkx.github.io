@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/genesis/gv60/gv60_2wd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/genesis/gv60/gv60_2wd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,6 km (8,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,1 km (8,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				22,3 km (13,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,3 km (8,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

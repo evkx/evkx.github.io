@@ -105,7 +105,7 @@ This model is available with multiple batteries. Below you find the performance 
 </div>
 <img src="/images/models/porsche/taycan/taycan_4s/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ This model is available with multiple batteries. Below you find the performance 
 			</td>
 			<td>
 				 19 m 3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_4s/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				15,8 km (9,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,9 km (7,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 </div>
 <img src="/images/models/porsche/taycan/taycan_4s/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Porsche Taycan 4S have battery heating, making charging at an optimum battery te
 			</td>
 			<td>
 				 17 m 58 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_4s/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_4s/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				19,8 km (12,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				14,8 km (9,2 mi)
 			</td>
 		</tr>
 	</tbody>

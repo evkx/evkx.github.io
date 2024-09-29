@@ -143,6 +143,84 @@ Die Ladekurve für dieses Modell wird aus Herstellerdaten und Erkenntnissen übe
 	</tbody>
 </table>
 </div>
+<img src="/images/models/kia/ev3/ev3_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/kia/ev3/ev3_long_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,8 km (3,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,1 km (8,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

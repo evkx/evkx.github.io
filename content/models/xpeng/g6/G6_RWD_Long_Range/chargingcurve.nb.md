@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/xpeng/g6/g6_rwd_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/xpeng/g6/g6_rwd_long_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,7 km (7,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,6 km (7,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				19,4 km (12,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,5 km (8,4 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

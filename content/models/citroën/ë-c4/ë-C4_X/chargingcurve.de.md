@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/citroën/ë-c4/ë-c4_x/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/citroën/ë-c4/ë-c4_x/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,9 km (3,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,9 km (6,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/kia/ev9/ev9_rwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/kia/ev9/ev9_rwd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				11,5 km (7,1 mi)
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				9,2 km (5,7 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				15,7 km (9,8 mi)
+			</td>
+			<td>
+				18,9 km (11,7 mi)
+			</td>
+			<td>
+				13,9 km (8,6 mi)
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

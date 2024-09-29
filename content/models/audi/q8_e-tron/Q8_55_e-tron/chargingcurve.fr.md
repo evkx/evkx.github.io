@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/audi/q8_e-tron/q8_55_e-tron/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/audi/q8_e-tron/q8_55_e-tron/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				7,0 km (4,4 mi)
+			</td>
+			<td>
+				8,8 km (5,5 mi)
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				8,6 km (5,3 mi)
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+			<td>
+				10,6 km (6,6 mi)
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

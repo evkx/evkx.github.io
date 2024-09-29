@@ -105,7 +105,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 </div>
 <img src="/images/models/nio/et5/et5_touring/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingtime1.svg)
+[Full screen](/images/models/nio/et5/et5_touring/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 			</td>
 			<td>
 				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/et5/et5_touring/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et5/et5_touring/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,6 km (4,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Nio ET5 Touring har batterioppvarming, noe som gjør lading ved en optimal batte
 </div>
 <img src="/images/models/nio/et5/et5_touring/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et5/et5_touring/chargingtime2.svg)
+[Full screen](/images/models/nio/et5/et5_touring/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Nio ET5 Touring har batterioppvarming, noe som gjør lading ved en optimal batte
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/et5/et5_touring/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et5/et5_touring/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
 			</td>
 		</tr>
 	</tbody>

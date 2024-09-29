@@ -143,6 +143,84 @@ La curva de carga de este modelo se deriva de los datos del fabricante y de cono
 	</tbody>
 </table>
 </div>
+<img src="/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/aion/hyper_gt/hyper_gt_710_supercharged/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,3 km (5,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,1 km (5,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,6 km (7,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

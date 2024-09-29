@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/volkswagen/id.7/id.7_pro_s/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/volkswagen/id.7/id.7_pro_s/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+			<td>
+				8,6 km (5,3 mi)
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,5 km (7,8 mi)
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				17,1 km (10,6 mi)
+			</td>
+			<td>
+				11,5 km (7,1 mi)
+			</td>
+			<td>
+				10,9 km (6,8 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

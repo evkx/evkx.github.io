@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/acura/zdx/zdx_type_s/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/acura/zdx/zdx_type_s/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				2,6 km (1,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				2,3 km (1,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				2,5 km (1,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				10,3 km (6,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

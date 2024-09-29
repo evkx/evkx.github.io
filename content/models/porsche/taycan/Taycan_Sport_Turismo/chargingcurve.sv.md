@@ -105,7 +105,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </div>
 <img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 			</td>
 			<td>
 				 15 m 22 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				14,7 km (9,1 mi)
+			</td>
+			<td>
+				11,7 km (7,3 mi)
+			</td>
+			<td>
+				10,0 km (6,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,9 km (8,6 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				30,9 km (19,2 mi)
+			</td>
+			<td>
+				24,5 km (15,2 mi)
+			</td>
+			<td>
+				21,0 km (13,1 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 </div>
 <img src="/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Porsche Taycan Sport Turismo har batteriuppvärmning, vilket underlättar laddni
 			</td>
 			<td>
 				 17 m 57 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,6 km (7,2 mi)
+			</td>
+			<td>
+				9,2 km (5,7 mi)
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				8,8 km (5,5 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				22,8 km (14,2 mi)
+			</td>
+			<td>
+				18,1 km (11,2 mi)
+			</td>
+			<td>
+				15,5 km (9,6 mi)
 			</td>
 		</tr>
 	</tbody>

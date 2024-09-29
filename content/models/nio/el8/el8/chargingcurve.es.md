@@ -105,7 +105,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 </div>
 <img src="/images/models/nio/el8/el8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el8/el8/chargingtime1.svg)
+[Full screen](/images/models/nio/el8/el8/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 			</td>
 			<td>
 				 21 m 3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el8/el8/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el8/el8/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				16,9 km (10,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,0 km (6,2 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Nio EL8 tiene calefacción de batería, lo que facilita la carga a una temperatu
 </div>
 <img src="/images/models/nio/el8/el8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el8/el8/chargingtime2.svg)
+[Full screen](/images/models/nio/el8/el8/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Nio EL8 tiene calefacción de batería, lo que facilita la carga a una temperatu
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el8/el8/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el8/el8/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,6 km (2,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,7 km (2,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
 			</td>
 		</tr>
 	</tbody>

@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/porsche/macan/macan_4s/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/macan/macan_4s/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,3 km (6,4 mi)
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,7 km (6,0 mi)
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				20,9 km (13,0 mi)
+			</td>
+			<td>
+				17,2 km (10,7 mi)
+			</td>
+			<td>
+				14,8 km (9,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

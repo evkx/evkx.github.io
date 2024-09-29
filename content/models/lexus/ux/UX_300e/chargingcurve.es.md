@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lexus/ux/ux_300e/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lexus/ux/ux_300e/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				1,5 km (0,9 mi)
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+			<td>
+				1,4 km (0,9 mi)
+			</td>
+			<td>
+				1,3 km (0,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				1,5 km (0,9 mi)
+			</td>
+			<td>
+				2,1 km (1,3 mi)
+			</td>
+			<td>
+				1,3 km (0,8 mi)
+			</td>
+			<td>
+				1,2 km (0,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				2,5 km (1,6 mi)
+			</td>
+			<td>
+				3,5 km (2,2 mi)
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+			<td>
+				2,0 km (1,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

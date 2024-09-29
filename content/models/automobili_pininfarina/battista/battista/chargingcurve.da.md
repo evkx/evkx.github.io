@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/automobili_pininfarina/battista/battista/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/automobili_pininfarina/battista/battista/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				14,2 km (8,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,9 km (8,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,9 km (8,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,6 km (7,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				21,0 km (13,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				19,0 km (11,8 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

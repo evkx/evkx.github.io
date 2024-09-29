@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/tesla/cybertruck/cybertruck_cyberbeast/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/cybertruck/cybertruck_cyberbeast/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				5,3 km (3,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

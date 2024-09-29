@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/xpeng/g9/g9_awd_performance/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/xpeng/g9/g9_awd_performance/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,5 km (6,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,3 km (7,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				19,1 km (11,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,2 km (8,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

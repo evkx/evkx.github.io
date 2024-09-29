@@ -143,6 +143,84 @@ The charging curve for this model is derived from manufacturer data and insights
 	</tbody>
 </table>
 </div>
+<img src="/images/models/hyundai/inster/inster_long_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/hyundai/inster/inster_long_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,5 km (3,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,4 km (3,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,0 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

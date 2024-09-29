@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lexus/ux/ux_300e/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lexus/ux/ux_300e/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				1,5 km (0,9 mi)
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+			<td>
+				1,4 km (0,9 mi)
+			</td>
+			<td>
+				1,3 km (0,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				1,5 km (0,9 mi)
+			</td>
+			<td>
+				2,1 km (1,3 mi)
+			</td>
+			<td>
+				1,3 km (0,8 mi)
+			</td>
+			<td>
+				1,2 km (0,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				2,5 km (1,6 mi)
+			</td>
+			<td>
+				3,5 km (2,2 mi)
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+			<td>
+				2,0 km (1,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

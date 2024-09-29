@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/hyundai/ioniq_5/ioniq_5_long_range_2wd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,4 km (8,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				21,9 km (13,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,3 km (8,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/mercedes/eqa/eqa_300_4matic/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/mercedes/eqa/eqa_300_4matic/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,1 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,8 km (3,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,5 km (6,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

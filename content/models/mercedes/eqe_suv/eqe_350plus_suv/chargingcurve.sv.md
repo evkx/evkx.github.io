@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/mercedes/eqe_suv/eqe_350plus_suv/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/mercedes/eqe_suv/eqe_350plus_suv/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,6 km (6,6 mi)
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,2 km (6,3 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+			<td>
+				5,8 km (3,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				16,0 km (9,9 mi)
+			</td>
+			<td>
+				11,9 km (7,4 mi)
+			</td>
+			<td>
+				9,1 km (5,7 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

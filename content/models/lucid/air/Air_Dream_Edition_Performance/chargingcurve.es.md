@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lucid/air/air_dream_edition_performance/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lucid/air/air_dream_edition_performance/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				9,8 km (6,1 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				10,4 km (6,5 mi)
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				9,2 km (5,7 mi)
+			</td>
+			<td>
+				10,4 km (6,5 mi)
+			</td>
+			<td>
+				9,7 km (6,0 mi)
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				16,2 km (10,1 mi)
+			</td>
+			<td>
+				18,4 km (11,4 mi)
+			</td>
+			<td>
+				17,2 km (10,7 mi)
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

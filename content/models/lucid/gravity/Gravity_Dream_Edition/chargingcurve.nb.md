@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lucid/gravity/gravity_dream_edition/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lucid/gravity/gravity_dream_edition/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				17,2 km (10,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				16,2 km (10,1 mi)
+			</td>
+			<td>
+				13,8 km (8,6 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

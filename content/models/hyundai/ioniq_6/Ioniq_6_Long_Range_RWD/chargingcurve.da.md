@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/hyundai/ioniq_6/ioniq_6_long_range_rwd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				16,2 km (10,1 mi)
+			</td>
+			<td>
+				11,5 km (7,1 mi)
+			</td>
+			<td>
+				10,3 km (6,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				15,5 km (9,6 mi)
+			</td>
+			<td>
+				11,0 km (6,8 mi)
+			</td>
+			<td>
+				9,8 km (6,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				26,5 km (16,5 mi)
+			</td>
+			<td>
+				18,8 km (11,7 mi)
+			</td>
+			<td>
+				16,8 km (10,4 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

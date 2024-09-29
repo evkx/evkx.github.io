@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/kia/ev9/ev9_rwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/kia/ev9/ev9_rwd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				11,5 km (7,1 mi)
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				7,8 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				9,2 km (5,7 mi)
+			</td>
+			<td>
+				11,1 km (6,9 mi)
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				15,7 km (9,8 mi)
+			</td>
+			<td>
+				18,9 km (11,7 mi)
+			</td>
+			<td>
+				13,9 km (8,6 mi)
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La curva de carga anterior está en **[condiciones óptimas](../../../../../technology/battery/charging/#temperatura)**. Sin embargo , las temperaturas frías o calientes pueden afectar significativamente la curva. Esta curva también se basa en iniciar la carga en un estado de carga bajo. Por lo tanto, conectar en un nivel más alto puede afectar la curva positiva o negativamente. Lea más sobre lo que afecta la velocidad de carga en nuestro [artículo de carga.](../../../../../technology/battery/charging/)

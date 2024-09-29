@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/vinfast/vf8/vf8_eco/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/vinfast/vf8/vf8_eco/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+			<td>
+				4,9 km (3,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				11,0 km (6,8 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

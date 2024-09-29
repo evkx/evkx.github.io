@@ -108,7 +108,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </div>
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime1.svg)
+[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -142,6 +142,84 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 			</td>
 			<td>
 				 20 m 11 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/onvo/l60/l60_rwd/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/onvo/l60/l60_rwd/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
 			</td>
 		</tr>
 	</tbody>
@@ -1688,7 +1766,7 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 </div>
 <img src="/images/models/onvo/l60/l60_rwd/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime2.svg)
+[Full screen](/images/models/onvo/l60/l60_rwd/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1722,6 +1800,84 @@ Laddningskurvan för denna modell är baserad på tillverkarens data och insikte
 			</td>
 			<td>
 				 24 m 36 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/onvo/l60/l60_rwd/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/onvo/l60/l60_rwd/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				?
 			</td>
 		</tr>
 	</tbody>

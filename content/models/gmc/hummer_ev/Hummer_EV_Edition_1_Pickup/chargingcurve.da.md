@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/gmc/hummer_ev/hummer_ev_edition_1_pickup/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				3,8 km (2,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,0 km (2,5 mi)
+			</td>
+			<td>
+				3,6 km (2,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				3,5 km (2,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,7 km (2,3 mi)
+			</td>
+			<td>
+				3,3 km (2,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/chevrolet/silverado_ev/silverado_ev_srt/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/chevrolet/silverado_ev/silverado_ev_srt/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				8,5 km (5,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				14,6 km (9,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,4 km (8,3 mi)
+			</td>
+			<td>
+				11,7 km (7,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

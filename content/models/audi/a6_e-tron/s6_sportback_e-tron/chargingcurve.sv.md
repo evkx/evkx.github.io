@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/audi/a6_e-tron/s6_sportback_e-tron/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/audi/a6_e-tron/s6_sportback_e-tron/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,5 km (7,1 mi)
+			</td>
+			<td>
+				8,9 km (5,5 mi)
+			</td>
+			<td>
+				7,9 km (4,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,8 km (6,7 mi)
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				23,2 km (14,4 mi)
+			</td>
+			<td>
+				18,1 km (11,2 mi)
+			</td>
+			<td>
+				15,9 km (9,9 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

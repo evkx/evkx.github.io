@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,9 km (2,4 mi)
+			</td>
+			<td>
+				3,0 km (1,9 mi)
+			</td>
+			<td>
+				2,6 km (1,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,7 km (2,3 mi)
+			</td>
+			<td>
+				2,8 km (1,7 mi)
+			</td>
+			<td>
+				2,5 km (1,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,3 km (5,8 mi)
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

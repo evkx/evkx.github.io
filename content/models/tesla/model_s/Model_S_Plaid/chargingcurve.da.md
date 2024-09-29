@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/tesla/model_s/model_s_plaid/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_s/model_s_plaid/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rækkevidde per minut 0-100%
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-100%
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rækkevidde per minut 10-80%
+			</td>
+			<td>
+				13,2 km (8,2 mi)
+			</td>
+			<td>
+				13,7 km (8,5 mi)
+			</td>
+			<td>
+				12,2 km (7,6 mi)
+			</td>
+			<td>
+				10,5 km (6,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ovenstående opladningskurve er ved **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Dog , kolde eller varme temperaturer kan påvirke kurven markant. Denne kurve er også baseret på at starte opladning ved lav ladetilstand. Derfor kan plugin på et højere niveau påvirke kurven positivt eller negativt. Læs mere om, hvad der påvirker opladningshastigheden i vores [opladningsartikel.](../../../../../technology/battery/charging/)

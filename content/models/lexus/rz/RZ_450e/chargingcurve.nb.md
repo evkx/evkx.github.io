@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/lexus/rz/rz_450e/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/lexus/rz/rz_450e/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				2,2 km (1,4 mi)
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+			<td>
+				2,0 km (1,2 mi)
+			</td>
+			<td>
+				1,8 km (1,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				2,1 km (1,3 mi)
+			</td>
+			<td>
+				2,9 km (1,8 mi)
+			</td>
+			<td>
+				1,8 km (1,1 mi)
+			</td>
+			<td>
+				1,7 km (1,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				6,4 km (4,0 mi)
+			</td>
+			<td>
+				8,9 km (5,5 mi)
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

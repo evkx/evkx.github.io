@@ -105,7 +105,7 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 </div>
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime1.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Denne modellen er tilgjengelig med flere batterier. Nedenfor finner du ytelsen f
 			</td>
 			<td>
 				 27 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,5 km (3,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,1 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				10,5 km (6,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,2 km (4,5 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 </div>
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime2.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 			</td>
 			<td>
 				 17 m 53 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				10,2 km (6,3 mi)
+			</td>
+			<td>
+				11,2 km (7,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				9,8 km (6,1 mi)
+			</td>
+			<td>
+				10,7 km (6,7 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,3 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				14,7 km (9,1 mi)
+			</td>
+			<td>
+				16,1 km (10,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,0 km (6,8 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -3265,7 +3421,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 </div>
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_3.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime3.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime_3.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -3299,6 +3455,84 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 			</td>
 			<td>
 				 40 m 50 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_3.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_3.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				6,1 km (3,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,2 km (2,6 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,9 km (2,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				8,0 km (5,0 mi)
+			</td>
+			<td>
+				8,8 km (5,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,0 km (3,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -4845,7 +5079,7 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 </div>
 <img src="/images/models/tesla/model_y/model_y_standard_range/chargingtime_4.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime4.svg)
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargingtime_4.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -4879,6 +5113,84 @@ Tesla Model Y Standard Range har batterioppvarming, noe som gjør lading ved en 
 			</td>
 			<td>
 				 23 m 28 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_4.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/model_y/model_y_standard_range/chargerangespeed_4.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				11,7 km (7,3 mi)
+			</td>
+			<td>
+				12,8 km (8,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				11,3 km (7,0 mi)
+			</td>
+			<td>
+				12,3 km (7,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,4 km (5,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				14,0 km (8,7 mi)
+			</td>
+			<td>
+				15,3 km (9,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,5 km (6,5 mi)
 			</td>
 		</tr>
 	</tbody>

@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/rolls-royce/spectre/spectre/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/rolls-royce/spectre/spectre/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rekkevidde per minutt 0-100%
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+			<td>
+				5,5 km (3,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-100%
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				7,0 km (4,4 mi)
+			</td>
+			<td>
+				5,9 km (3,7 mi)
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rekkevidde per minutt 10-80%
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				10,2 km (6,3 mi)
+			</td>
+			<td>
+				8,6 km (5,3 mi)
+			</td>
+			<td>
+				7,6 km (4,7 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Ladekurven ovenfor er under **[optimale forhold](../../../../../technology/battery/charging/#temperatur)**. Imidlertid kan kalde eller varme temperaturer påvirke kurven betydelig. Denne kurven er også basert på å starte lading med lav ladetilstand. Plugg derfor inn kl. et høyere nivå kan påvirke kurven positivt eller negativt. Les mer om hva som påvirker ladehastigheten i vår [ladeartikkel.](../../../../../technology/battery/charging/)

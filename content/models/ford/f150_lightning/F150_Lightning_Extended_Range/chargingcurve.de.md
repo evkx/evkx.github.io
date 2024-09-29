@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/ford/f150_lightning/f150_lightning_extended_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/ford/f150_lightning/f150_lightning_extended_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Reichweite pro Minute 0-100%
+			</td>
+			<td>
+				4,0 km (2,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,5 km (2,2 mi)
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-100%
+			</td>
+			<td>
+				3,8 km (2,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,3 km (2,1 mi)
+			</td>
+			<td>
+				2,9 km (1,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reichweite pro Minute 10-80%
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Die obige Ladekurve gilt unter **[optimalen Bedingungen](../../../../../technology/battery/charging/#temperature)**. Kalte oder heiße Temperaturen können die Kurve jedoch erheblich beeinflussen. Diese Kurve basiert auch auf dem Start des Ladevorgangs bei einem niedrigen Ladezustand. Daher kann das Einstecken bei einem höheren Ladezustand die Kurve positiv oder negativ beeinflussen. Lesen Sie mehr darüber, was die Ladegeschwindigkeit in unserem [Ladeartikel](../../../../../technology/battery/charging/) beeinflusst.

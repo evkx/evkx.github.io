@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nissan/ariya/ariya_87kwh_e-4orce/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Range per minute 0-100%
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				6,4 km (4,0 mi)
+			</td>
+			<td>
+				5,3 km (3,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-100%
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				8,1 km (5,0 mi)
+			</td>
+			<td>
+				6,4 km (4,0 mi)
+			</td>
+			<td>
+				5,3 km (3,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Range per minute 10-80%
+			</td>
+			<td>
+				8,8 km (5,5 mi)
+			</td>
+			<td>
+				10,6 km (6,6 mi)
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 The above charging curve is at **[optimum conditions](../../../../../technology/battery/charging/#temperature)**. However, cold or hot temperatures can significantly affect the curve. This curve also is based on starting charging on a low state of charge. Therefore, plugin in at a higher level can affect the curve positively or negatively. Read more about what affects charging speed in our [charging article.](../../../../../technology/battery/charging/)

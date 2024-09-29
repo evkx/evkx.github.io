@@ -105,7 +105,7 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 </div>
 <img src="/images/models/nio/es8/es8/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingtime1.svg)
+[Full screen](/images/models/nio/es8/es8/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Ce modèle est disponible avec plusieurs batteries. Vous trouverez ci-dessous le
 			</td>
 			<td>
 				 43 m 24 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/es8/es8/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,6 km (2,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,7 km (2,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Nio ES8 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 </div>
 <img src="/images/models/nio/es8/es8/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/es8/es8/chargingtime2.svg)
+[Full screen](/images/models/nio/es8/es8/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Nio ES8 dispose d'un chauffage de batterie, ce qui facilite la charge à une tem
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/es8/es8/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/es8/es8/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,6 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,6 km (2,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,7 km (2,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				4,8 km (3,0 mi)
 			</td>
 		</tr>
 	</tbody>

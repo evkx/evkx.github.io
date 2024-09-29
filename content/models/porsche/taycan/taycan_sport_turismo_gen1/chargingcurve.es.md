@@ -105,7 +105,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 </div>
 <img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime1.svg)
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 			</td>
 			<td>
 				 19 m 3 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,5 km (5,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,0 km (5,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				15,8 km (9,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				11,9 km (7,4 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Porsche Taycan Sport Turismo (GEN1) tiene calefacción de batería, lo que facil
 </div>
 <img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime2.svg)
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Porsche Taycan Sport Turismo (GEN1) tiene calefacción de batería, lo que facil
 			</td>
 			<td>
 				 17 m 58 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/porsche/taycan/taycan_sport_turismo_gen1/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				10,1 km (6,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,5 km (4,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,6 km (6,0 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,2 km (4,5 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				19,8 km (12,3 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				14,8 km (9,2 mi)
 			</td>
 		</tr>
 	</tbody>

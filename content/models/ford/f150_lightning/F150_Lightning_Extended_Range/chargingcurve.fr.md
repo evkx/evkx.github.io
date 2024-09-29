@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/ford/f150_lightning/f150_lightning_extended_range/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/ford/f150_lightning/f150_lightning_extended_range/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				4,0 km (2,5 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,5 km (2,2 mi)
+			</td>
+			<td>
+				3,1 km (1,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				3,8 km (2,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				3,3 km (2,1 mi)
+			</td>
+			<td>
+				2,9 km (1,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,5 km (4,0 mi)
+			</td>
+			<td>
+				5,7 km (3,5 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)

@@ -105,7 +105,7 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 </div>
 <img src="/images/models/nio/et7/et7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingtime1.svg)
+[Full screen](/images/models/nio/et7/et7/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Denna modell är tillgänglig med flera batterier. Nedan hittar du prestanda fö
 			</td>
 			<td>
 				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/et7/et7/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et7/et7/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,7 km (4,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,4 km (3,4 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,4 km (4,6 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,2 km (3,2 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,8 km (6,1 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,9 km (4,3 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Nio ET7 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 </div>
 <img src="/images/models/nio/et7/et7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/et7/et7/chargingtime2.svg)
+[Full screen](/images/models/nio/et7/et7/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Nio ET7 har batteriuppvärmning, vilket underlättar laddning vid en optimal bat
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/et7/et7/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/et7/et7/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,0 km (4,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				7,1 km (4,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,4 km (5,8 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,6 km (4,1 mi)
 			</td>
 		</tr>
 	</tbody>

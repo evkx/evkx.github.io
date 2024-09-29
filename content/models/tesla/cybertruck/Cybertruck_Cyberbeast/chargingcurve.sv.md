@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/tesla/cybertruck/cybertruck_cyberbeast/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/tesla/cybertruck/cybertruck_cyberbeast/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Räckvidd per minut 0-100%
+			</td>
+			<td>
+				6,7 km (4,2 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				5,3 km (3,3 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-100%
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Räckvidd per minut 10-80%
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+			<td>
+				6,9 km (4,3 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 Laddningskurvan ovan är under **[optimala förhållanden](../../../../../technology/battery/charging/#temperatur)**. Kalla eller varma temperaturer kan dock påverka kurvan avsevärt. Denna kurva är också baserad på att starta laddning med lågt laddningstillstånd. Koppla därför in kl. en högre nivå kan påverka kurvan positivt eller negativt. Läs mer om vad som påverkar laddningshastigheten i vår [laddningsartikel.](../../../../../technology/battery/charging/)

@@ -105,7 +105,7 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 </div>
 <img src="/images/models/nio/el7/el7/chargingtime_1.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el7/el7/chargingtime1.svg)
+[Full screen](/images/models/nio/el7/el7/chargingtime_1.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -139,6 +139,84 @@ Este modelo está disponible con varias baterías. A continuación encontrará e
 			</td>
 			<td>
 				 41 m 27 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el7/el7/chargerangespeed_1.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el7/el7/chargerangespeed_1.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,8 km (4,2 mi)
+			</td>
+			<td>
+				5,0 km (3,1 mi)
+			</td>
+			<td>
+				4,7 km (2,9 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+			<td>
+				4,8 km (3,0 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,7 km (5,4 mi)
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				6,0 km (3,7 mi)
 			</td>
 		</tr>
 	</tbody>
@@ -1685,7 +1763,7 @@ Nio EL7 tiene calefacción de batería, lo que facilita la carga a una temperatu
 </div>
 <img src="/images/models/nio/el7/el7/chargingtime_2.svg" alt="Charging time" class="img-fluid">
 
-[Full screen](/images/models/nio/el7/el7/chargingtime2.svg)
+[Full screen](/images/models/nio/el7/el7/chargingtime_2.svg)
 <div class="table-responsive">
 <table class="table table-striped border">
 	<thead>
@@ -1719,6 +1797,84 @@ Nio EL7 tiene calefacción de batería, lo que facilita la carga a una temperatu
 			</td>
 			<td>
 				 34 m 0 s
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<img src="/images/models/nio/el7/el7/chargerangespeed_2.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/nio/el7/el7/chargerangespeed_2.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Rango por minuto 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,2 km (3,9 mi)
+			</td>
+			<td>
+				4,5 km (2,8 mi)
+			</td>
+			<td>
+				4,3 km (2,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				6,3 km (3,9 mi)
+			</td>
+			<td>
+				4,6 km (2,9 mi)
+			</td>
+			<td>
+				4,3 km (2,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Rango por minuto 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				8,3 km (5,2 mi)
+			</td>
+			<td>
+				6,0 km (3,7 mi)
+			</td>
+			<td>
+				5,7 km (3,5 mi)
 			</td>
 		</tr>
 	</tbody>

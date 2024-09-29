@@ -140,6 +140,84 @@ navicon: bi-battery-charging
 	</tbody>
 </table>
 </div>
+<img src="/images/models/mercedes/eqe_suv/eqe_500_4matic_suv/chargerangespeed.svg" alt="Charging time" class="img-fluid">
+
+[Full screen](/images/models/mercedes/eqe_suv/eqe_500_4matic_suv/chargerangespeed.svg)
+<div class="table-responsive">
+<table class="table table-striped border">
+	<thead>
+		<tr>
+			<th>
+			</th>
+			<th>
+				EPA cycle
+			</th>
+			<th>
+				WLTP cycle
+			</th>
+			<th>
+				70 mph
+			</th>
+			<th>
+				120 km/h
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Autonomie par minute 0-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,9 km (6,2 mi)
+			</td>
+			<td>
+				6,6 km (4,1 mi)
+			</td>
+			<td>
+				6,1 km (3,8 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-100%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				9,7 km (6,0 mi)
+			</td>
+			<td>
+				6,4 km (4,0 mi)
+			</td>
+			<td>
+				5,9 km (3,7 mi)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Autonomie par minute 10-80%
+			</td>
+			<td>
+				?
+			</td>
+			<td>
+				13,3 km (8,3 mi)
+			</td>
+			<td>
+				8,8 km (5,5 mi)
+			</td>
+			<td>
+				8,2 km (5,1 mi)
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 
 La courbe de charge ci-dessus est à **[conditions optimales](../../../../../technology/battery/charging/#temperature)**. Cependant , les températures froides ou chaudes peuvent affecter de manière significative la courbe. Cette courbe est également basée sur le démarrage de la charge avec un état de charge faible. Par conséquent, le branchement à un niveau plus élevé peut affecter la courbe de manière positive ou négative. En savoir plus sur ce qui affecte la vitesse de charge dans notre [article de chargement.](../../../../../technology/battery/charging/)
